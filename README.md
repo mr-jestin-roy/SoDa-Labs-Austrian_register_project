@@ -15,6 +15,7 @@ Sample ground truth:
 ![sample ground truth](./assets/images/04-Trauung_0005.jpg)
 
 > **Notes on dataset:**
+
 - Tables are not uniform in structure (variation in fields/columns), owing to the range of periods and geographic locations the dataset comes from
 - Handwriting styles vary due to differences in human-writers and periods
 - Noise is present in the form of ink blots, parchment texture, or general wear and tear of the physical documents
@@ -23,15 +24,17 @@ Sample ground truth:
 
 > Sample Matricula dataset present at: https://drive.google.com/drive/folders/15eqsj8LIIz9bv_VLS8pzlua7WvbymnSn?usp=sharing
 
-***Full dataset**: on AWS S3 bucket “austrian-register-data”. Ask access from Satya Borgohain. (Some part of it) transferred to Paul’s M3; 496 images at /projects/oc23/mini_images/ and transcriptions at /projects/oc23/austrian_images.txt.*
+**\*Full dataset**: on AWS S3 bucket “austrian-register-data”. Ask access from Satya Borgohain. (Some part of it) transferred to Paul’s M3; 496 images at /projects/oc23/mini_images/ and transcriptions at /projects/oc23/austrian_images.txt.\*
 
 ---
+
 ## Setting Up Access
 
-To access the Handwriting OCR and Transcribus services, set the following environment variables in a `.env` file:
+To access the Handwriting OCR and TRANSKRIBUS services, set the following environment variables in a `.env` file:
 
 ```plaintext
 HANDWRITING_OCR_USERNAME=<your-username>
 HANDWRITING_OCR_PASSWORD=<your-password>
-TRANSCRIPUS_USERNAME=<your-username>
-TRANSCRIPUS_PASSWORD=<your-password>
+TRANSKRIBUS_USERNAME=<your-username>
+TRANSKRIBUS_PASSWORD=<your-password>
+```
