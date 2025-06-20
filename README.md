@@ -47,7 +47,7 @@ To perform layout analysis and handwritten text recognition (HTR) on the images,
 ---
 
 ### Sub-aim 1 
-To ***(hand-)transcribe some real Austrian birth certificates*** from the archives to obtain rich ground truth (limited in size due to human annotation)
+To ***Using LLM toools transcribe some real Austrian birth certificates*** from the archives to obtain rich ground truth (limited in size due to human annotation), hence reducing the CER rate further.
 
 Path of images: [./assets/images/mini_images/](./assets/images/mini_images/)  
 Path of corresponding transcriptions: [./assets/docs/austrian_images.txt](./assets/docs/austrian_images.txt)  
