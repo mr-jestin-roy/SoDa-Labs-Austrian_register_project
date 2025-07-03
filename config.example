@@ -1,0 +1,17 @@
+# Transkribus API Configuration Example
+# Copy this file to .env and fill in your actual credentials
+# Or set these as environment variables
+
+TRANSKRIBUS_USERNAME=your_email@example.com
+TRANSKRIBUS_PASSWORD=your_password
+
+# Optional: Specify a default model ID for HTR processing
+# TRANSKRIBUS_DEFAULT_MODEL_ID=your_model_id
+
+# Usage Instructions:
+# 1. Copy this file to .env in the same directory
+# 2. Replace the placeholder values with your actual Transkribus credentials
+# 3. Install python-dotenv: pip install python-dotenv
+# 4. Add this to your Python script to load environment variables:
+#    from dotenv import load_dotenv
+#    load_dotenv() 
