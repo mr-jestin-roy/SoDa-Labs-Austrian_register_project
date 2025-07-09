@@ -28,16 +28,268 @@ Sample ground truth:
 
 ---
 
-## Setting Up Access
+## 🚀 Quick Start Guide
 
-To access the Handwriting OCR and TRANSKRIBUS services, set the following environment variables in a `.env` file:
+### Project Structure
+
+```
+SoDa-Labs-Austrian_register_project/
+├── two_model_api_pipeline.py           # Main OCR comparison pipeline
+├── webhook_server.py                   # Webhook server for faster processing
+├── transkribus_client.py               # Transkribus API client
+├── requirements.txt                    # Python dependencies
+├── config.example                      # Environment variables template
+├── .env                               # Your API keys (create from config.example)
+├── api_test_assets/                   # Test images and results
+│   ├── test_input_images_folder/      # Sample Austrian parish records
+│   └── test_output_images_folder/     # Processed results
+├── input_images_sample/               # Quick test images
+└── README.md                          # This file
+```
+
+### Key Files
+
+- **`two_model_api_pipeline.py`**: Main script that compares HandwritingOCR, Transkribus, and OpenAI o3 APIs
+- **`webhook_server.py`**: Optional webhook server for faster HandwritingOCR processing
+- **`transkribus_client.py`**: Dedicated client for Transkribus API interactions
+- **`config.example`**: Template for environment variables - copy to `.env` and fill in your API keys
+
+### Prerequisites
+
+- Python 3.8+
+- pip package manager
+- Git
+
+### 1. Clone and Setup
+
+```bash
+# Clone the repository
+git clone <repository-url>
+cd SoDa-Labs-Austrian_register_project
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows:
+venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### 2. API Configuration
+
+Copy the example config file and add your API credentials:
+
+```bash
+cp config.example .env
+```
+
+Edit the `.env` file with your actual API keys:
 
 ```plaintext
-HANDWRITING_OCR_USERNAME=<your-username>
-HANDWRITING_OCR_PASSWORD=<your-password>
-TRANSKRIBUS_USERNAME=<your-username>
-TRANSKRIBUS_PASSWORD=<your-password>
+# Transkribus API Configuration
+TRANSKRIBUS_USERNAME=your_email@example.com
+TRANSKRIBUS_PASSWORD=your_password
+TRANSKRIBUS_HTR_MODEL_ID=38230
+
+# HandwritingOCR.com API Configuration
+HANDWRITING_OCR_API_TOKEN=your_handwriting_ocr_api_token_here
+
+# OpenAI API Configuration (for o3 model)
+OPENAI_API_KEY=your_openai_api_key_here
 ```
+
+### 3. API Key Setup Instructions
+
+#### **Transkribus API**
+1. Create account at [Transkribus](https://transkribus.eu/)
+2. Use your email and password in the `.env` file
+3. Model ID 38230 is pre-configured for German handwriting
+
+#### **HandwritingOCR.com API**
+1. Sign up at [HandwritingOCR.com](https://www.handwritingocr.com/)
+2. Go to API settings and generate an API token
+3. Add the token to your `.env` file
+
+#### **OpenAI API (o3 Model)**
+1. Create account at [OpenAI Platform](https://platform.openai.com/)
+2. Go to [API Keys](https://platform.openai.com/account/api-keys) and create a new key
+3. **Important**: Your organization must be verified to use o3 models
+4. Go to [Organization Settings](https://platform.openai.com/settings/organization/general) and click "Verify Organization"
+5. Wait up to 15 minutes for access to propagate
+
+### 4. Running the OCR Pipeline
+
+The main pipeline compares three OCR services: HandwritingOCR, Transkribus, and OpenAI o3.
+
+```bash
+# Activate virtual environment
+source venv/bin/activate
+
+# Run the comparison pipeline
+python two_model_api_pipeline.py
+```
+
+#### **Single API Mode**
+
+To test individual APIs, uncomment/comment the relevant lines in `two_model_api_pipeline.py`:
+
+```python
+# Test only HandwritingOCR
+hwocr_text = call_handwritingocr_api(img_path, use_webhook=False)
+# transkribus_text = call_transkribus_api(img_path)
+# openO3_text = call_openO3_api(img_path)
+
+# Test only Transkribus
+# hwocr_text = call_handwritingocr_api(img_path, use_webhook=False)
+transkribus_text = call_transkribus_api(img_path)
+# openO3_text = call_openO3_api(img_path)
+
+# Test only OpenAI o3
+# hwocr_text = call_handwritingocr_api(img_path, use_webhook=False)
+# transkribus_text = call_transkribus_api(img_path)
+openO3_text = call_openO3_api(img_path)
+```
+
+#### **Batch Processing Options**
+
+```python
+# Process first 10 images (for testing)
+for img_name in images[:10]:
+
+# Process all images in folder
+for img_name in images:
+
+# Process specific range
+for img_name in images[20:50]:
+```
+
+### 5. Configuration Options
+
+Edit the settings in `two_model_api_pipeline.py`:
+
+```python
+# Settings
+image_folder = "api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00015"
+output_csv = "ocr_results.csv"                # Output CSV file
+word_cer_threshold = 0.3                      # CER threshold for word matching
+line_cer_threshold = 0.10                     # CER threshold for whole line
+```
+
+#### **Available Test Data**
+
+The repository includes sample Austrian parish record images:
+
+- `api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00015/` - 149 line images
+- `api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00046/` - 162 line images
+- `input_images_sample/` - Sample images for quick testing
+
+#### **Webhook Configuration**
+
+For faster HandwritingOCR processing, the pipeline supports webhook notifications:
+
+```python
+# Enable webhook mode (faster)
+hwocr_text = call_handwritingocr_api(img_path, use_webhook=True)
+
+# Use polling mode (slower but more reliable)
+hwocr_text = call_handwritingocr_api(img_path, use_webhook=False)
+```
+
+### 6. Pipeline Features
+
+- **Multi-API comparison**: Compare HandwritingOCR, Transkribus, and OpenAI o3
+- **Batch processing**: Process entire folders of images
+- **Webhook support**: Faster processing with webhook notifications
+- **German handwriting optimization**: Specialized prompts for Austrian parish records
+- **Error handling**: Robust fallback mechanisms
+- **Progress tracking**: Real-time processing updates
+
+### 7. Expected Output
+
+The pipeline generates a CSV file with columns:
+- `image`: Image filename
+- `hwocr_text`: HandwritingOCR transcription
+- `transkribus_text`: Transkribus transcription  
+- `openO3_text`: OpenAI o3 transcription
+- `cer`: Character Error Rate comparison
+- `final_ground_truth`: Aligned ground truth text
+
+### 8. Performance
+
+- **HandwritingOCR**: ~2 seconds per image
+- **Transkribus**: ~30 seconds per image  
+- **OpenAI o3**: ~13 seconds per image
+- **Batch processing**: Supports hundreds of images
+
+### 9. Optional: Webhook Setup
+
+For faster HandwritingOCR processing, set up webhook notifications:
+
+```bash
+# Install ngrok (for local development)
+# Run webhook server
+python webhook_server.py
+
+# In another terminal, expose webhook
+ngrok http 5400
+```
+
+See `WEBHOOK_SETUP.md` for detailed instructions.
+
+### 10. Troubleshooting
+
+#### **Common Issues**
+
+**OpenAI o3 Model Access Error**
+```
+Error: Your organization must be verified to use the model `o3-2025-04-16`
+```
+**Solution**: Go to [Organization Settings](https://platform.openai.com/settings/organization/general) and verify your organization. Wait up to 15 minutes for access.
+
+**Environment Variables Not Found**
+```
+Exception: OPENAI_API_KEY environment variable must be set
+```
+**Solution**: Ensure your `.env` file exists and contains all required API keys.
+
+**Transkribus Authentication Failed**
+```
+Authentication failed: 401 - Unauthorized
+```
+**Solution**: Check your Transkribus username and password in the `.env` file.
+
+**HandwritingOCR Webhook Timeout**
+```
+Webhook timeout, falling back to polling...
+```
+**Solution**: This is normal behavior. The system automatically falls back to polling mode.
+
+**No Images Found**
+```
+Empty image folder or no supported formats (.jpg, .png, .jpeg)
+```
+**Solution**: Check that your image folder path is correct and contains supported image formats.
+
+#### **Performance Tips**
+
+- Use webhook mode for HandwritingOCR when processing many images
+- Process images in smaller batches (10-50) to avoid API rate limits
+- For large datasets, run overnight processing sessions
+- Monitor your API usage to avoid hitting quota limits
+
+#### **Getting Help**
+
+If you encounter issues:
+
+1. Check the console output for detailed error messages
+2. Verify all API keys are correctly set in the `.env` file
+3. Test with a small batch of images first
+4. Check API service status pages for outages
 
 ---
 
