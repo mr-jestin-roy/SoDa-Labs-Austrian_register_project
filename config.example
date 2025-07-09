@@ -8,6 +8,16 @@ TRANSKRIBUS_PASSWORD=your_password
 # Optional: Specify a default model ID for HTR processing
 # TRANSKRIBUS_DEFAULT_MODEL_ID=your_model_id
 
+# HandwritingOCR.com API Configuration
+HANDWRITING_OCR_API_TOKEN=your_handwriting_ocr_api_token_here
+
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Webhook Configuration (optional - for faster processing)
+# Set this in HandwritingOCR.com settings: https://www.handwritingocr.com/settings/documents
+# Your ngrok webhook URL: https://5400-110-174-183-131.ngrok-free.app/webhook/handwriting-ocr
+
 # Usage Instructions:
 # 1. Copy this file to .env in the same directory
 # 2. Replace the placeholder values with your actual Transkribus credentials
