@@ -241,7 +241,7 @@ def call_openO3_api(img_path):
         str: Extracted text from the image
     """
     # Pasting the API key here for testing purposes
-    api_key = "PAUL'S API KEY"
+    api_key = ""
     if not api_key:
         raise Exception("OPENAI_API_KEY environment variable must be set.")
     
