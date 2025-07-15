@@ -230,9 +230,9 @@ def call_transkribus_api(image_path):
         time.sleep(5)
 
 
-def call_openO3_api(img_path):
+def call_gpt41_api(img_path):
     """
-    Call OpenAI o3 model API for OCR functionality
+    Call OpenAI GPT-4.1 model API for OCR functionality
     
     Args:
         img_path: Path to image file
@@ -241,23 +241,26 @@ def call_openO3_api(img_path):
         str: Extracted text from the image
     """
     # Pasting the API key here for testing purposes
-    api_key = ""
+    api_key = "JESTIN's OPENAI API KEY"
     if not api_key:
         raise Exception("OPENAI_API_KEY environment variable must be set.")
     
-    print(f"📤 Submitting to OpenAI o3: {os.path.basename(img_path)}")
+    print(f"📤 Submitting to OpenAI GPT-4.1: {os.path.basename(img_path)}")
     
     # Initialize OpenAI client
     client = OpenAI(api_key=api_key)
     
     # Encode image as base64
-    with open(img_path, 'rb') as image_file:
-        base64_image = base64.b64encode(image_file.read()).decode('utf-8')
+    with open(img_path, "rb") as f:
+        data = f.read()
+        print(f"Read {len(data)} bytes from {img_path}")
+        base64_image = base64.b64encode(data).decode('utf-8')
+        print(f"Base64 length: {len(base64_image)}")
     
     try:
         # Call OpenAI o3 API
         response = client.chat.completions.create(
-        model="o3-2025-04-16",
+        model="gpt-4.1-2025-04-14",
         messages=[
                     {
                         "role": "user",
@@ -287,12 +290,13 @@ def call_openO3_api(img_path):
         
         # Extract the transcribed text
         transcribed_text = response.choices[0].message.content.strip()
-        print(f"✅ OpenAI o3 completed! Text length: {len(transcribed_text)} characters")
+        print(f"API output: '{transcribed_text}'")
+        print(f"✅ OpenAI GPT-4.1 completed! Text length: {len(transcribed_text)} characters")
         return transcribed_text
         
     except Exception as e:
-        print(f"❌ OpenAI GPT-4o API error: {str(e)}")
-        raise Exception(f"OpenAI GPT-4o API call failed: {str(e)}")
+        print(f"❌ OpenAI GPT-4.1 API error: {str(e)}")
+        raise Exception(f"OpenAI GPT-4.1 API call failed: {str(e)}")
 
 
 def word_match(w1, w2, cer_threshold=0.3):
@@ -313,8 +317,8 @@ def align_and_flag_illegible(text1, text2, cer_threshold=0.3):
     return " ".join(final_words)
 
 # Settings
-image_folder = "api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00015"
-output_csv = "ocr_results_openO3.csv"
+image_folder = "api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00046"
+output_csv = "ocr_results_1907_1936_00046_gpt41_final.csv"
 line_cer_threshold = 0.10   # CER threshold for whole line (not used for word-level flagging)
 word_cer_threshold = 0.3    # CER threshold for word-level matching
 start = time.time()
@@ -324,9 +328,10 @@ images = sorted([f for f in os.listdir(image_folder) if f.lower().endswith(('.jp
 results = []
 for img_name in images:
     img_path = os.path.join(image_folder, img_name)
+    print(f"{img_name}: {os.path.getsize(img_path)} bytes")
     # hwocr_text = call_handwritingocr_api(img_path, use_webhook=False)
     # transkribus_text = call_transkribus_api(img_path)
-    openO3_text = call_openO3_api(img_path)  # Uncomment to use OpenAI o3 model
+    gpt41_text = call_gpt41_api(img_path)  # Using OpenAI GPT-4.1 model
     
     # cer_score = cer(hwocr_text, transkribus_text)
     # final_gt = align_and_flag_illegible(hwocr_text, transkribus_text, cer_threshold=word_cer_threshold)
@@ -334,10 +339,10 @@ for img_name in images:
     final_gt = ''
     cer_score = 'N/A'
     results.append({
-        "image": 'Althofen_TrauungsbuchTomIV_1907_1936_00015_' + img_name,
+        "image": 'Althofen_TrauungsbuchTomIV_1907_1936_00046_' + img_name,
         # "hwocr_text": hwocr_text,
         # "transkribus_text": transkribus_text,
-        "openO3_text": openO3_text,  # Uncomment when using OpenAI o3
+        "gpt41_text": gpt41_text,  # Using OpenAI GPT-4.1
         "cer": cer_score,
         "final_ground_truth": final_gt
     })
@@ -350,7 +355,7 @@ print(f"Time taken: {end - start} seconds")
 
 # if __name__ == "__main__":
 #     # Test with a single image
-#     test_image = "api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00015_line_0010.jpg"
+#     test_image = "api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00046_line_0010.jpg"
     
 #     if os.path.exists(test_image):
 #         print(f"🔍 Testing Transkribus API with: {test_image}")
