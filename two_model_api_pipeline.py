@@ -257,25 +257,32 @@ def call_openO3_api(img_path):
     try:
         # Call OpenAI o3 API
         response = client.chat.completions.create(
-            model="o3-2025-04-16",  # Official o3 model name
-            messages=[
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": "Please transcribe all the handwritten text in this image. This is a German parish record with handwritten entries. Extract only the visible text without any interpretation or formatting. Return the raw transcribed text."
-                        },
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/jpeg;base64,{base64_image}"
+        model="o3-2025-04-16",
+        messages=[
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": (
+                                    "Transcribe all handwritten text in this image. "
+                                    "The handwriting is exclusively Sütterlin script (old German cursive). "
+                                    "Return the raw transcribed text exactly as written, preserving all line breaks, original spelling, and punctuation—including any historical German forms. "
+                                    "Do not add any interpretation, modernisation, or formatting. "
+                                    "If any word or section is illegible, output '[illegible]'. "
+                                    "Do not translate. Only output the raw transcription."
+                                )
+                            },
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": f"data:image/jpeg;base64,{base64_image}"
+                                }
                             }
-                        }
-                    ]
-                }
-            ],
-            max_completion_tokens=1000  # o3 model uses max_completion_tokens and doesn't support temperature
+                        ]
+                    }
+                ],
+            max_completion_tokens=1000
         )
         
         # Extract the transcribed text
