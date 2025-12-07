@@ -6,7 +6,8 @@ import base64
 import time
 from transkribus_client import TranskribusClient
 from dotenv import load_dotenv
-from openai import OpenAI
+import google.generativeai as genai
+from concurrent.futures import ThreadPoolExecutor, as_completed
 load_dotenv()
 
 def cer(s1, s2):
@@ -230,9 +231,9 @@ def call_transkribus_api(image_path):
         time.sleep(5)
 
 
-def call_gpt41_api(img_path):
+def call_gemini_api(img_path):
     """
-    Call OpenAI GPT-4.1 model API for OCR functionality
+    Call Google Gemini 2.5 Pro model API for OCR functionality
     
     Args:
         img_path: Path to image file
@@ -240,63 +241,66 @@ def call_gpt41_api(img_path):
     Returns:
         str: Extracted text from the image
     """
-    # Pasting the API key here for testing purposes
-    api_key = "JESTIN's OPENAI API KEY"
+    # API Key for Google Gemini 2.5 Pro
+    api_key = "AIzaSyAhE8j0_EArjdNDfevIbuY9OelGOpIW14c"
     if not api_key:
-        raise Exception("OPENAI_API_KEY environment variable must be set.")
+        raise Exception("GEMINI_API_KEY environment variable must be set.")
     
-    print(f"📤 Submitting to OpenAI GPT-4.1: {os.path.basename(img_path)}")
+    print(f"📤 Submitting to Google Gemini 2.5 Pro: {os.path.basename(img_path)}")
     
-    # Initialize OpenAI client
-    client = OpenAI(api_key=api_key)
+    # Configure Gemini API
+    genai.configure(api_key=api_key)
     
-    # Encode image as base64
+    # Read image file
     with open(img_path, "rb") as f:
         data = f.read()
         print(f"Read {len(data)} bytes from {img_path}")
-        base64_image = base64.b64encode(data).decode('utf-8')
-        print(f"Base64 length: {len(base64_image)}")
     
     try:
-        # Call OpenAI o3 API
-        response = client.chat.completions.create(
-        model="gpt-4.1-2025-04-14",
-        messages=[
-                    {
-                        "role": "user",
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": (
-                                    "Transcribe all handwritten text in this image. "
-                                    "The handwriting is exclusively Sütterlin script (old German cursive). "
-                                    "Return the raw transcribed text exactly as written, preserving all line breaks, original spelling, and punctuation—including any historical German forms. "
-                                    "Do not add any interpretation, modernisation, or formatting. "
-                                    "If any word or section is illegible, output '[illegible]'. "
-                                    "Do not translate. Only output the raw transcription."
-                                )
-                            },
-                            {
-                                "type": "image_url",
-                                "image_url": {
-                                    "url": f"data:image/jpeg;base64,{base64_image}"
-                                }
-                            }
-                        ]
-                    }
-                ],
-            max_completion_tokens=1000
-        )
+        # Initialize Gemini model
+        model = genai.GenerativeModel('gemini-2.5-pro')
+        
+        # Prepare the prompt
+        prompt = """
+                    Transcribe all text from the attached image based on the following rules:
+
+                    Transcribe Everything: The image contains a mix of printed Fraktur (blackletter) and handwritten Kurrent/Sütterlin script. You must transcribe both.
+                    Raw Text Only: Return the raw German transcription exactly as written.
+                    Do NOT translate.
+                    Do NOT modernize or "correct" any historical spelling.
+                    Preserve all original abbreviations and punctuation.
+                    Preserve Table Structure:
+                    Use new lines for each new row in the register.
+                    Use a single vertical pipe (|) to separate the text from each distinct column.
+
+                    Handle Edge Cases:
+                    Transcribe all text, including small-print instructions and any text printed vertically.
+                    If a word, number, or section is completely unreadable, output [illegible].
+
+                    Output only the raw transcription.
+                """
+        
+        # Create image part
+        image_part = {
+            "mime_type": "image/jpeg",
+            "data": data
+        }
+        
+        # Generate content
+        response = model.generate_content([prompt, image_part])
         
         # Extract the transcribed text
-        transcribed_text = response.choices[0].message.content.strip()
+        transcribed_text = response.text.strip()
         print(f"API output: '{transcribed_text}'")
-        print(f"✅ OpenAI GPT-4.1 completed! Text length: {len(transcribed_text)} characters")
+        print(f"✅ Google Gemini 2.5 Pro completed! Text length: {len(transcribed_text)} characters")
+        
+        # Rate limiting handled at batch level for parallel processing
+        
         return transcribed_text
         
     except Exception as e:
-        print(f"❌ OpenAI GPT-4.1 API error: {str(e)}")
-        raise Exception(f"OpenAI GPT-4.1 API call failed: {str(e)}")
+        print(f"❌ Google Gemini 2.5 Pro API error: {str(e)}")
+        raise Exception(f"Google Gemini 2.5 Pro API call failed: {str(e)}")
 
 
 def word_match(w1, w2, cer_threshold=0.3):
@@ -317,35 +321,73 @@ def align_and_flag_illegible(text1, text2, cer_threshold=0.3):
     return " ".join(final_words)
 
 # Settings
-image_folder = "api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00046"
-output_csv = "ocr_results_1907_1936_00046_gpt41_final.csv"
+image_folder = "api_test_assets/test_input_images_folder/Althofen_TrauungsbuchTomIV_1907_1936_00015"
+output_csv = "Althofen_TrauungsbuchTomIV_1907_1936_00015_ground_truth_gemini.csv"
 line_cer_threshold = 0.10   # CER threshold for whole line (not used for word-level flagging)
 word_cer_threshold = 0.3    # CER threshold for word-level matching
 start = time.time()
 
 images = sorted([f for f in os.listdir(image_folder) if f.lower().endswith(('.jpg', '.png', '.jpeg'))])
 
-results = []
-for img_name in images:
+def process_single_image(img_name):
+    """Process a single image and return the result"""
     img_path = os.path.join(image_folder, img_name)
     print(f"{img_name}: {os.path.getsize(img_path)} bytes")
-    # hwocr_text = call_handwritingocr_api(img_path, use_webhook=False)
-    # transkribus_text = call_transkribus_api(img_path)
-    gpt41_text = call_gpt41_api(img_path)  # Using OpenAI GPT-4.1 model
     
-    # cer_score = cer(hwocr_text, transkribus_text)
-    # final_gt = align_and_flag_illegible(hwocr_text, transkribus_text, cer_threshold=word_cer_threshold)
-    # transkribus_text = ''
-    final_gt = ''
-    cer_score = 'N/A'
-    results.append({
-        "image": 'Althofen_TrauungsbuchTomIV_1907_1936_00046_' + img_name,
-        # "hwocr_text": hwocr_text,
-        # "transkribus_text": transkribus_text,
-        "gpt41_text": gpt41_text,  # Using OpenAI GPT-4.1
-        "cer": cer_score,
-        "final_ground_truth": final_gt
-    })
+    try:
+        gemini_text = call_gemini_api(img_path)  # Using Google Gemini 2.5 Pro model
+        
+        return {
+            "image": 'Althofen_TrauungsbuchTomIV_1907_1936_00015_' + img_name,
+            "gemini_text": gemini_text,  # Using Google Gemini 2.5 Pro
+            "cer": 'N/A',
+            "final_ground_truth": ''
+        }
+    except Exception as e:
+        print(f"❌ Error processing {img_name}: {str(e)}")
+        return {
+            "image": 'Althofen_TrauungsbuchTomIV_1907_1936_00015_' + img_name,
+            "gemini_text": f"ERROR: {str(e)}",
+            "cer": 'N/A',
+            "final_ground_truth": ''
+        }
+
+# Process images in parallel batches of 5
+results = []
+batch_size = 5
+max_workers = 5
+
+print(f"📊 Processing {len(images)} images in parallel batches of {batch_size}...")
+
+for i in range(0, len(images), batch_size):
+    batch = images[i:i + batch_size]
+    print(f"\n🔄 Processing batch {i//batch_size + 1}: {len(batch)} images")
+    
+    # Process batch in parallel
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all tasks in the batch
+        future_to_img = {executor.submit(process_single_image, img_name): img_name for img_name in batch}
+        
+        # Collect results as they complete
+        batch_results = []
+        for future in as_completed(future_to_img):
+            img_name = future_to_img[future]
+            try:
+                result = future.result()
+                batch_results.append(result)
+                print(f"✅ Completed: {img_name}")
+            except Exception as e:
+                print(f"❌ Failed: {img_name} - {str(e)}")
+                batch_results.append({
+                    "image": 'Althofen_TrauungsbuchTomIV_1907_1936_00015_' + img_name,
+                    "gemini_text": f"BATCH_ERROR: {str(e)}",
+                    "cer": 'N/A',
+                    "final_ground_truth": ''
+                })
+    
+    results.extend(batch_results)
+    
+    # No rate limiting - process batches immediately
 
 df = pd.DataFrame(results)
 df.to_csv(output_csv, index=False)
