@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vision Language Models for Historical Document Digitization</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .presentation {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .slide {
+            background: white;
+            border-radius: 10px;
+            padding: 60px 80px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            page-break-after: always;
+            min-height: 800px;
+            display: flex;
+            flex-direction: column;
+        }
+        .slide h1 {
+            color: #667eea;
+            font-size: 3em;
+            margin-bottom: 20px;
+            border-bottom: 4px solid #667eea;
+            padding-bottom: 20px;
+        }
+        .slide h2 {
+            color: #764ba2;
+            font-size: 1.8em;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+        .slide h3 {
+            color: #333;
+            font-size: 1.3em;
+            margin-top: 20px;
+            margin-bottom: 15px;
+        }
+        .intro-item {
+            margin: 15px 0;
+            padding: 12px;
+            background: #f5f5f5;
+            border-left: 4px solid #667eea;
+        }
+        .intro-item strong {
+            color: #667eea;
+        }
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.95em;
+        }
+        .comparison-table th {
+            background: #667eea;
+            color: white;
+            padding: 15px;
+            text-align: left;
+        }
+        .comparison-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #ddd;
+        }
+        .comparison-table tr:hover {
+            background: #f9f9f9;
+        }
+        .comparison-table .checkmark {
+            color: green;
+            font-weight: bold;
+        }
+        .comparison-table .cross {
+            color: red;
+            font-weight: bold;
+        }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 20px;
+            margin: 30px 0;
+        }
+        .metric-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .metric-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .metric-label {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        .advantage {
+            color: #28a745;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .discovery-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .discovery-title {
+            color: #856404;
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+        .discovery-text {
+            color: #333;
+            line-height: 1.6;
+        }
+        .recommendation-box {
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .recommendation-title {
+            color: #155724;
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+        .recommendation-text {
+            color: #333;
+            line-height: 1.6;
+        }
+        .phase-timeline {
+            display: flex;
+            justify-content: space-between;
+            margin: 30px 0;
+            position: relative;
+        }
+        .phase {
+            flex: 1;
+            text-align: center;
+            padding: 20px;
+        }
+        .phase-circle {
+            width: 80px;
+            height: 80px;
+            background: #667eea;
+            border-radius: 50%;
+            margin: 0 auto 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 1.3em;
+        }
+        .phase-title {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .phase-text {
+            font-size: 0.9em;
+            color: #666;
+        }
+        .conclusion-highlight {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-size: 1.1em;
+            line-height: 1.8;
+        }
+        .page-break {
+            page-break-after: always;
+        }
+        .footer {
+            text-align: center;
+            color: #999;
+            font-size: 0.9em;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+        }
+        .project-overview {
+            background: #f0f4ff;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            padding: 25px;
+            margin: 20px 0;
+        }
+        .project-overview h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        .overview-item {
+            margin: 15px 0;
+            padding: 12px;
+            background: white;
+            border-left: 4px solid #667eea;
+            border-radius: 4px;
+        }
+        .overview-label {
+            color: #667eea;
+            font-weight: bold;
+        }
+        .sub-aim-card-collapsed {
+            background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 15px 0;
+        }
+        .sub-aim-number {
+            background: #667eea;
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-right: 15px;
+            vertical-align: top;
+        }
+        .sub-aim-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 15px;
+            margin-bottom: 12px;
+        }
+        .sub-aim-title {
+            color: #333;
+            font-weight: bold;
+            font-size: 1.05em;
+            flex: 1;
+        }
+        .sub-aim-text {
+            color: #555;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+        .reference-images {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin: 30px 0;
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            border: 2px solid #e0e0e0;
+        }
+        .image-card {
+            text-align: center;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .image-card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+            margin-bottom: 12px;
+            border: 1px solid #ddd;
+        }
+        .image-caption {
+            font-size: 0.9em;
+            color: #555;
+            line-height: 1.5;
+            text-align: left;
+        }
+        .image-label {
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+            font-size: 0.95em;
+        }
+        .image-details {
+            font-size: 0.85em;
+            color: #888;
+            margin-top: 8px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+<div class="presentation">
+
+<!-- SLIDE 1: Research Background & Motivation -->
+<div class="slide">
+    <h1>SLIDE 1: Research Background & Motivation</h1>
+
+    <h2>Personal Introduction</h2>
+    <div class="intro-item"><strong>Name:</strong> Jestin Roy</div>
+    <div class="intro-item"><strong>Position:</strong> Research Assistant (RA) under Professor Paul, Department of Economics</div>
+    <div class="intro-item"><strong>Education:</strong> Master of Data Science student</div>
+    <div class="intro-item"><strong>Experience:</strong> AI Engineer & Full-Stack Developer (2 years industrial experience)</div>
+    <div class="intro-item"><strong>Project Duration:</strong> June 2025 - Present (Winter Research Scholarship Program)</div>
+
+    <h2>The Research Challenge</h2>
+    <div class="intro-item"><strong>Documents:</strong> Austrian parish records from 1800-1920s ([translate:Sterbbücher] [death registers], [translate:Taufe Bücher] [baptism records])</div>
+    <div class="intro-item"><strong>Script Type:</strong> Sütterlin/Kurrent script (historical German cursive and Gothic scripts)</div>
+    <div class="intro-item"><strong>Research Goal:</strong> Accurate digitization for historical scholarship, genealogical research, and cultural heritage preservation</div>
+
+    <h2>Why Sütterlin/Kurrent Scripts Are Challenging</h2>
+    <ul style="margin-left: 20px; line-height: 1.8;">
+        <li><strong>Sütterlin (1911+):</strong> German Gothic cursive with sharp angles and connected letterforms</li>
+        <li><strong>Kurrent (1600s-1900s):</strong> Historical German script with unique character forms (ſ, ä, ö, ü variations)</li>
+        <li><strong>Visual Complexity:</strong> Ligatures, abbreviations, and archaic letterforms unfamiliar to standard ML models</li>
+        <li><strong>Training Data Gap:</strong> Modern OCR models trained on 20th-21st century text, not 19th-century German scripts</li>
+    </ul>
+
+    <h2>The Problem: Predecessor Approach (trOCR + Danish Fine-Tuning)</h2>
+    <div class="discovery-box">
+        <div class="discovery-title">Why Character-Level OCR Failed</div>
+        <div class="discovery-text">
+            ❌ Language Mismatch: Trained on Danish, applied to German Sütterlin/Kurrent<br>
+            ❌ Script Mismatch: Danish modern text ≠ 19th-century Austrian Gothic scripts<br>
+            ❌ No Visual Reasoning: Character-by-character OCR cannot understand document context<br>
+            ❌ No Layout Understanding: Cannot distinguish table structure from continuous text<br>
+            ❌ Limited Transfer: Extensive fine-tuning required for each new language/script
+        </div>
+    </div>
+
+    <div class="footer">Slide 1 of 5 | Vision Language Models for Historical Document Digitization</div>
+</div>
+
+<!-- SLIDE 2: Methodological Shift & Investigation -->
+<div class="slide page-break">
+    <h1>SLIDE 2: The Methodological Breakthrough</h1>
+
+    <h2>Three Phases of the Research</h2>
+
+    <div class="phase-timeline">
+        <div class="phase">
+            <div class="phase-circle">1</div>
+            <div class="phase-title">Initial Baseline</div>
+            <div class="phase-text">trOCR (Danish fine-tuning)<br>Poor generalization</div>
+        </div>
+        <div class="phase">
+            <div class="phase-circle">2</div>
+            <div class="phase-title">Ground Truth Creation</div>
+            <div class="phase-text">Closed-Source LLMs (GPT-4.1)<br>Visual reasoning</div>
+        </div>
+        <div class="phase">
+            <div class="phase-circle">3</div>
+            <div class="phase-title">VLM Evaluation</div>
+            <div class="phase-text">Qwen3-VL vs Chandra<br>Benchmarking</div>
+        </div>
+    </div>
+
+    <h2>Why Closed-Source LLMs for Ground Truth?</h2>
+
+    <table class="comparison-table">
+        <tr>
+            <th>Capability</th>
+            <th>Fine-Tuning Approach</th>
+            <th>Ground Truth Approach</th>
+        </tr>
+        <tr>
+            <td><strong>Visual Reasoning</strong></td>
+            <td class="cross">✗ None (character-level only)</td>
+            <td class="checkmark">✓ Yes (holistic understanding)</td>
+        </tr>
+        <tr>
+            <td><strong>Handwriting Context</strong></td>
+            <td class="cross">✗ Limited (language-specific)</td>
+            <td class="checkmark">✓ Full (visual + semantic)</td>
+        </tr>
+        <tr>
+            <td><strong>Domain Adaptation Time</strong></td>
+            <td>2-3 months</td>
+            <td>Minutes</td>
+        </tr>
+        <tr>
+            <td><strong>Accuracy on Historical Scripts</strong></td>
+            <td>50-70%</td>
+            <td>95%+ (human-level)</td>
+        </tr>
+        <tr>
+            <td><strong>Cost to Scale</strong></td>
+            <td>High (annotation labor)</td>
+            <td>Low (same model)</td>
+        </tr>
+        <tr>
+            <td><strong>Generalization Ability</strong></td>
+            <td>Poor (language-specific)</td>
+            <td>Excellent (cross-language)</td>
+        </tr>
+    </table>
+
+    <h2>Current Investigation: Can Open VLMs Match Closed-Source LLM Performance?</h2>
+    <div class="recommendation-box">
+        <div class="recommendation-title">Research Question</div>
+        <div class="recommendation-text">
+            Can we achieve closed-source LLM performance using open-source Vision Language Models (VLMs) at lower cost and without fine-tuning?
+        </div>
+    </div>
+
+    <h2>Models Being Evaluated</h2>
+    <ul style="margin-left: 20px; line-height: 1.8;">
+        <li><strong>Qwen3-VL-32B:</strong> Open-source Vision Language Model trained on billions of image-text pairs</li>
+        <li><strong>Chandra OCR:</strong> Traditional specialized OCR engine (character detection and recognition)</li>
+        <li><strong>Against Ground Truth:</strong> GPT-4.1 and Gemini 2.5 Pro (visual reasoning, context understanding)</li>
+        <li><strong>Dataset:</strong> Austrian parish records (Sütterlin/Kurrent scripts, 1643-1920)</li>
+    </ul>
+
+    <div class="footer">Slide 2 of 5 | Vision Language Models for Historical Document Digitization</div>
+</div>
+
+<!-- SLIDE 3: Benchmark Results with Reference Images -->
+<div class="slide page-break">
+    <h1>SLIDE 3: Benchmark Results - Performance Metrics</h1>
+
+    <h2>Reference Images: Proof-of-Concept Test Documents</h2>
+    <div class="reference-images">
+        <div class="image-card">
+            <img src="Althofen_Sterbbuch_TomVII_1905-1920_page_006.jpg" alt="Modern Austrian Sterbbuch 1905-1920">
+            <div class="image-caption">
+                <div class="image-label">Althofen_Sterbbuch_TomVII_1905-1920_page_006.jpg</div>
+                <strong>Era:</strong> Modern (1905-1920)<br>
+                <strong>Type:</strong> [translate:Sterbbuch] (Death Register)<br>
+                <strong>Performance:</strong> 81.27% Word F1 ✓
+                <div class="image-details">Production-Ready Accuracy</div>
+            </div>
+        </div>
+
+        <div class="image-card">
+            <img src="Wein_Neiderosterich_MariaBrunn_1887_TaufeBuch_0012.jpg" alt="Late 19th Century Austrian Taufebuch 1887">
+            <div class="image-caption">
+                <div class="image-label">Wein_Neiderosterich_MariaBrunn_1887_TaufeBuch_0012.jpg</div>
+                <strong>Era:</strong> Late 19th Century (1887)<br>
+                <strong>Type:</strong> [translate:Taufebuch] (Baptism Register)<br>
+                <strong>Performance:</strong> 61.54% Word F1 ⚠
+                <div class="image-details">Usable + Manual Verification</div>
+            </div>
+        </div>
+
+        <div class="image-card">
+            <img src="Vienna_1783_StPeter_TaufeBuch_0017.jpg" alt="18th Century Viennese Taufebuch 1783">
+            <div class="image-caption">
+                <div class="image-label">Vienna_1783_StPeter_TaufeBuch_0017.jpg</div>
+                <strong>Era:</strong> 18th Century (1783)<br>
+                <strong>Type:</strong> [translate:Taufebuch] (Baptism Register)<br>
+                <strong>Performance:</strong> 37.01% Word F1 ⚠
+                <div class="image-details">UTF-8 Fix: 0.92% → 37.01% (40x improvement)</div>
+            </div>
+        </div>
+
+        <div class="image-card">
+            <img src="Althofen_SterbBuch_1643_A05_022-1_00007.jpg" alt="17th Century Pure Kurrent Script 1643">
+            <div class="image-caption">
+                <div class="image-label">Althofen_SterbBuch_1643_A05_022-1_00007.jpg</div>
+                <strong>Era:</strong> 17th Century (1643)<br>
+                <strong>Type:</strong> [translate:Sterbbuch] (Death Register)<br>
+                <strong>Performance:</strong> 11.62% Word F1 ✗
+                <div class="image-details">Pure Kurrent - Not Viable Without Specialized Training</div>
+            </div>
+        </div>
+    </div>
+
+    <h2>Overall Performance Comparison</h2>
+
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <div class="metric-label">Word F1 Score</div>
+            <div class="metric-value">84.96%</div>
+            <div class="metric-label">Qwen3-VL</div>
+            <div class="advantage">+4.44% vs Chandra</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-label">Word Recall</div>
+            <div class="metric-value">86.81%</div>
+            <div class="metric-label">Qwen3-VL</div>
+            <div class="advantage">+8.61% vs Chandra</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-label">Character F1</div>
+            <div class="metric-value">97.49%</div>
+            <div class="metric-label">Qwen3-VL</div>
+            <div class="advantage">+0.90% vs Chandra</div>
+        </div>
+    </div>
+
+    <h2>Key Insight: The Character-Layout Gap</h2>
+    <div class="discovery-box">
+        <div class="discovery-title">Critical Finding</div>
+        <div class="discovery-text">
+            Both models achieve 97% character-level accuracy, but only 85% word-level accuracy.<br><br>
+            <strong>Implication:</strong> Layout understanding (not character recognition) is the primary bottleneck.<br>
+            Models successfully read individual characters but struggle to preserve word boundaries and table structure.
+        </div>
+    </div>
+
+    <h2>Performance by Document Era (Temporal Trend)</h2>
+
+    <table class="comparison-table">
+        <tr>
+            <th>Era</th>
+            <th>Period</th>
+            <th>Qwen3-VL Word F1</th>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <td><strong>Modern</strong></td>
+            <td>1905-1920</td>
+            <td>81.27%</td>
+            <td class="checkmark">✓ Production-Ready</td>
+        </tr>
+        <tr>
+            <td><strong>Late 19th Century</strong></td>
+            <td>1887</td>
+            <td>61.54%</td>
+            <td>⚠ Usable + Verification</td>
+        </tr>
+        <tr>
+            <td><strong>18th Century</strong></td>
+            <td>1783</td>
+            <td>37.01%</td>
+            <td>⚠ High Manual Effort</td>
+        </tr>
+        <tr>
+            <td><strong>17th Century</strong></td>
+            <td>1643</td>
+            <td>11.62%</td>
+            <td class="cross">✗ Not Viable</td>
+        </tr>
+    </table>
+
+    <h2>Critical Discovery: UTF-8 Encoding Impact</h2>
+    <div class="discovery-box">
+        <div class="discovery-title">Vienna1783 Case Study - 40x Improvement</div>
+        <div class="discovery-text">
+            <strong>Before proper UTF-8 encoding:</strong> 0.92% Word F1 (catastrophic)<br>
+            <strong>After UTF-8 fix:</strong> 37.01% Word F1 (restored usability)<br><br>
+            <strong>Lesson:</strong> Data quality validation is as important as model selection. Character encoding errors can destroy benchmark reliability.
+        </div>
+    </div>
+
+    <div class="footer">Slide 3 of 5 | Vision Language Models for Historical Document Digitization</div>
+</div>
+
+<!-- SLIDE 4: Conclusions & Recommendations -->
+<div class="slide page-break">
+    <h1>SLIDE 4: Conclusions & Recommendations</h1>
+
+    <h2>Research Question & Answer</h2>
+    <div class="conclusion-highlight">
+        <strong>Q: Can Vision Language Models outperform traditional OCR on historical Austrian Sütterlin/Kurrent manuscripts without fine-tuning?</strong><br><br>
+        <strong>A: YES ✓</strong><br><br>
+        Evidence: Qwen3-VL achieved 84.96% Word F1 with zero training on German data, a 5.5% improvement over traditional OCR baseline (Chandra at 80.52%).
+    </div>
+
+    <h2>Four Key Discoveries</h2>
+
+    <div class="discovery-box">
+        <div class="discovery-title">1. Character Recognition is Solved</div>
+        <div class="discovery-text">Both Qwen3-VL (97.49%) and Chandra (96.59%) achieve near-perfect character-level accuracy. Investment in character recognition has diminishing returns. Focus should shift to layout understanding.</div>
+    </div>
+
+    <div class="discovery-box">
+        <div class="discovery-title">2. Document Age is the Key Driver</div>
+        <div class="discovery-text">Performance directly correlates with document era: Modern (81%) → 19th century (61%) → 18th century (37%) → 17th century (12%). Pure Kurrent/Fraktur scripts require specialized training.</div>
+    </div>
+
+    <div class="discovery-box">
+        <div class="discovery-title">3. Data Quality Beats Algorithm Sophistication</div>
+        <div class="discovery-text">UTF-8 encoding fix provided 40x improvement. Proper data preprocessing and validation must precede benchmarking. One encoding error invalidated all downstream analysis.</div>
+    </div>
+
+    <div class="discovery-box">
+        <div class="discovery-title">4. VLMs Win Without Fine-Tuning</div>
+        <div class="discovery-text">Qwen3-VL's 4.44 percentage point advantage with ZERO training on German data demonstrates that foundation model approach (VLMs) is superior to specialized OCR. No expensive fine-tuning annotations needed.</div>
+    </div>
+
+    <h2>Immediate Recommendations (Next 3-6 Months)</h2>
+
+    <div class="recommendation-box">
+        <div class="recommendation-title">1. Adopt Qwen3-VL-32B as Primary OCR Model</div>
+        <div class="recommendation-text">
+            ✓ Set up batch processing pipeline on Nectar HPC<br>
+            ✓ Suitable for all documents 1850+<br>
+            ✓ Expected accuracy: 61-81% Word F1
+        </div>
+    </div>
+
+    <div class="recommendation-box">
+        <div class="recommendation-title">2. Implement Quality Assurance Protocol</div>
+        <div class="recommendation-text">
+            ✓ Flag low-confidence sections (F1 < 70%)<br>
+            ✓ Request manual verification for 18th century documents<br>
+            ✓ Establish viability zones for different document eras
+        </div>
+    </div>
+
+    <div class="footer">Slide 4 of 5 | Vision Language Models for Historical Document Digitization</div>
+</div>
+
+<!-- SLIDE 5: Bigger Research Context & Project Aims -->
+<div class="slide page-break">
+    <h1>SLIDE 5: Broader Research Context & Project Aims</h1>
+
+    <h2>The Bigger Picture: Historical Economic & Demographic Analysis</h2>
+    <div class="project-overview">
+        <h3>Project Aim</h3>
+        <div class="overview-item">
+            <span class="overview-label">Goal:</span> Perform layout analysis and handwritten text recognition (HTR) on Austrian parish records, extract tabular data, identify key figures from regions, and track their descendants' economic progress across decades (1800-1920s, including World War I and beyond).
+        </div>
+        <div class="overview-item">
+            <span class="overview-label">Historical Context:</span> Tracing families' economic trajectories during transformative periods in Austrian history
+        </div>
+    </div>
+
+    <h2>The Six-Stage Pipeline</h2>
+
+    <div class="sub-aim-card-collapsed">
+        <div class="sub-aim-header">
+            <div class="sub-aim-number">1</div>
+            <div class="sub-aim-title">Ground Truth Creation: Hand-Transcribe Austrian Birth Certificates</div>
+        </div>
+        <div class="sub-aim-text">
+            Using Transkribus desktop app, transcribe 496 word-level images from Austrian birth certificates. Dataset manually refined by Prof. Paul using PyLaia HTR model (German_Kurrent_17th-18th, CER: 6.00% train / 5.50% validation).
+        </div>
+    </div>
+
+    <div class="sub-aim-card-collapsed">
+        <div class="sub-aim-header">
+            <div class="sub-aim-number">2-4</div>
+            <div class="sub-aim-title">HTR Model Training & Testing → Entity Extraction</div>
+        </div>
+        <div class="sub-aim-text">
+            <strong>Sub-aim 2:</strong> Train HTR model (TrOCR) on combined open-source HANA + hand-transcribed Austrian data.<br>
+            <strong>Sub-aim 3:</strong> Test trained model on complete Austrian birth dataset, producing structured machine-readable transcriptions.<br>
+            <strong>Sub-aim 4:</strong> Apply Named Entity Recognition (NER) to extract names, professions, and place names from HTR outputs, enabling demographic mapping and occupational analysis.
+        </div>
+    </div>
+
+    <div class="sub-aim-card-collapsed">
+        <div class="sub-aim-header">
+            <div class="sub-aim-number">5</div>
+            <div class="sub-aim-title">Construct Historical Social Networks</div>
+        </div>
+        <div class="sub-aim-text">
+            Map relationships (family ties, godparent relationships, community associations) from birth, marriage, and death registers. Create connection graphs revealing social connectivity patterns and enabling lineage tracing across generations.
+        </div>
+    </div>
+
+    <div class="sub-aim-card-collapsed">
+        <div class="sub-aim-header">
+            <div class="sub-aim-number">6</div>
+            <div class="sub-aim-title">Demographic & Longitudinal Analysis</div>
+        </div>
+        <div class="sub-aim-text">
+            Conduct demographic analysis examining clusters by profession, geography, and social connectivity. Link to historical events (WWI, radical movements) to trace economic progress, social status shifts, and the impact of historical events on community development.
+        </div>
+    </div>
+
+    <h2>How Qwen3-VL Enables the Pipeline</h2>
+    <div class="conclusion-highlight">
+        Qwen3-VL's superior layout understanding and handwriting recognition (84.96% Word F1) directly enables high-quality transcriptions in Sub-aims 2-3, serving as the foundation for all downstream entity extraction (Sub-aim 4), network construction (Sub-aim 5), and historical analysis (Sub-aim 6).
+    </div>
+
+    <div class="footer">Slide 5 of 5 | Vision Language Models for Historical Document Digitization</div>
+</div>
+
+</div>
+
+</body>
+</html>
