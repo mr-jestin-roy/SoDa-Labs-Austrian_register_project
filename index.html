@@ -1013,354 +1013,475 @@
         </div>
       </div>
 
-<!-- SLIDE 4: Model Infrastructure Requirements - CORRECTED -->
-<div class="slide page-break">
-    <h1>Infrastructure & Resource Constraints: The Critical Factor</h1>
+      <!-- SLIDE 4: Model Infrastructure Requirements - CORRECTED -->
+      <div class="slide page-break">
+        <h1>Infrastructure & Resource Constraints: The Critical Factor</h1>
 
-    <h2>Model Size & Memory Requirements</h2>
-    <div class="model-specs-grid">
-        <div class="model-spec-card lightweight">
+        <h2>Model Size & Memory Requirements</h2>
+        <div class="model-specs-grid">
+          <div class="model-spec-card lightweight">
             <div class="spec-label">Chandra OCR</div>
             <div class="spec-value">7B</div>
-            <div class="spec-detail">Parameters (lightweight)<br><br>Memory: 19 GB per instance<br>Can parallelize 10x on Nectar<br>Total RAM needed: ~190 GB<br><strong class="checkmark">✓ Well within server capacity</strong></div>
-        </div>
-        <div class="model-spec-card heavy">
+            <div class="spec-detail">
+              Parameters (lightweight)<br /><br />Memory: 19 GB per instance<br />Can
+              parallelize 10x on Nectar<br />Total RAM needed: ~190 GB<br /><strong
+                class="checkmark"
+                >✓ Well within server capacity</strong
+              >
+            </div>
+          </div>
+          <div class="model-spec-card heavy">
             <div class="spec-label">Qwen3-VL</div>
             <div class="spec-value">32B</div>
-            <div class="spec-detail">Parameters (very heavy)<br><br>Memory: 60+ GB per instance<br>Cannot safely parallelize<br>10x instances = 600+ GB RAM<br><strong class="critical">✗ EXCEEDS A100 GPU capacity</strong></div>
+            <div class="spec-detail">
+              Parameters (very heavy)<br /><br />Memory: 60+ GB per instance<br />Cannot
+              safely parallelize<br />10x instances = 600+ GB RAM<br /><strong
+                class="critical"
+                >✗ EXCEEDS A100 GPU capacity</strong
+              >
+            </div>
+          </div>
         </div>
-    </div>
 
-    <h2>Why Large VLMs Cause System Collapse</h2>
-    <div class="critical-box">
-        <div class="critical-title">⚠️ Infrastructure Risk: Qwen3-VL Parallelization Hazard</div>
-        <div class="critical-text">
-            <strong>Problem:</strong> Qwen3-VL's 32B parameters = 60+ GB memory footprint per instance<br><br>
-            <strong>Parallelization Attempt (10 workers):</strong><br>
-            • Memory needed: ~600+ GB VRAM<br>
-            • Even latest A100 GPUs: Max ~320 GB cluster capacity<br>
-            • Result: Server memory overflow → Kernel panic → System crash<br><br>
-            <strong>Production Impact:</strong> Cannot achieve HPC parallelization benefits. Single-instance processing returns us to the original 13-minute bottleneck. Process 10,000 images in ~90 days, not 2 days.
+        <h2>Why Large VLMs Cause System Collapse</h2>
+        <div class="critical-box">
+          <div class="critical-title">
+            ⚠️ Infrastructure Risk: Qwen3-VL Parallelization Hazard
+          </div>
+          <div class="critical-text">
+            <strong>Problem:</strong> Qwen3-VL's 32B parameters = 60+ GB memory
+            footprint per instance<br /><br />
+            <strong>Parallelization Attempt (10 workers):</strong><br />
+            • Memory needed: ~600+ GB VRAM<br />
+            • Even latest A100 GPUs: Max ~320 GB cluster capacity<br />
+            • Result: Server memory overflow → Kernel panic → System crash<br /><br />
+            <strong>Production Impact:</strong> Cannot achieve HPC
+            parallelization benefits. Single-instance processing returns us to
+            the original 13-minute bottleneck. Process 10,000 images in ~90
+            days, not 2 days.
+          </div>
         </div>
-    </div>
 
-    <h2>Chandra OCR: Infrastructure-Efficient Solution</h2>
+        <h2>Chandra OCR: Infrastructure-Efficient Solution</h2>
 
-    <table class="comparison-table">
-        <tr>
+        <table class="comparison-table">
+          <tr>
             <th>Metric</th>
             <th>Chandra OCR</th>
             <th>Qwen3-VL</th>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Model Size</strong></td>
             <td class="optimal">7B parameters</td>
             <td class="critical">32B parameters</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Memory per Instance</strong></td>
             <td class="optimal">19 GB</td>
             <td class="critical">60+ GB</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Safe Parallelization (10 workers)</strong></td>
             <td class="optimal">190 GB total ✓</td>
             <td class="critical">600+ GB total ✗</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>A100 GPU Cluster Capacity</strong></td>
             <td class="optimal">~320 GB available</td>
             <td class="critical">Insufficient</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Crash Risk with Parallelization</strong></td>
             <td class="optimal">Safe margin</td>
             <td class="critical">HIGH - Server collapse</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Processing 10,000 images</strong></td>
             <td class="optimal">~2 days (parallelized)</td>
             <td class="critical">~90 days (single instance)</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Accuracy Trade-Off</strong></td>
             <td>80.52% F1</td>
             <td>84.96% F1</td>
-        </tr>
-    </table>
+          </tr>
+        </table>
 
-    <div class="infrastructure-box">
-        <div class="infrastructure-title">🖥️ Nectar HPC Infrastructure Constraints</div>
-        <div class="infrastructure-text">
-            <strong>Available Resources:</strong><br>
-            • GPU Cluster: Multiple A100 GPUs with ~320 GB combined VRAM<br>
-            • CPU RAM: Limited (<400 GB per node)<br>
-            • Network bandwidth: 100 Gbps (sufficient for I/O)<br><br>
-            <strong>Design Constraint:</strong> Qwen3-VL's 60+ GB footprint eliminates parallelization. Chandra's 19 GB enables 10x parallel workers safely.
+        <div class="infrastructure-box">
+          <div class="infrastructure-title">
+            🖥️ Nectar HPC Infrastructure Constraints
+          </div>
+          <div class="infrastructure-text">
+            <strong>Available Resources:</strong><br />
+            • GPU Cluster: Multiple A100 GPUs with ~320 GB combined VRAM<br />
+            • CPU RAM: Limited (<400 GB per node)<br />
+            • Network bandwidth: 100 Gbps (sufficient for I/O)<br /><br />
+            <strong>Design Constraint:</strong> Qwen3-VL's 60+ GB footprint
+            eliminates parallelization. Chandra's 19 GB enables 10x parallel
+            workers safely.
+          </div>
         </div>
-    </div>
 
-    <div class="footer">
-        <div class="footer-left">Monash Business School</div>
-        <div class="footer-right">Slide 4 of 8</div>
-    </div>
-</div>
+        <div class="footer">
+          <div class="footer-left">Monash Business School</div>
+          <div class="footer-right">Slide 4 of 8</div>
+        </div>
+      </div>
 
-<!-- SLIDE 5: Computational Trade-Offs -->
-<div class="slide page-break">
-    <h1>Computational Trade-Off Analysis</h1>
+      <!-- SLIDE 5: Computational Trade-Offs -->
+      <div class="slide page-break">
+        <h1>Computational Trade-Off Analysis</h1>
 
-    <h2>Processing Time Comparison</h2>
-    <div class="time-comparison-grid">
-        <div class="time-card fast">
+        <h2>Processing Time Comparison</h2>
+        <div class="time-comparison-grid">
+          <div class="time-card fast">
             <div class="time-label">Chandra OCR</div>
             <div class="time-value">2-3 min</div>
-            <div class="time-detail">per test image<br>(Single run)</div>
-        </div>
-        <div class="time-card slow">
+            <div class="time-detail">per test image<br />(Single run)</div>
+          </div>
+          <div class="time-card slow">
             <div class="time-label">Qwen3-VL-32B</div>
             <div class="time-value">13 min</div>
-            <div class="time-detail">per test image<br>(Single run)</div>
+            <div class="time-detail">per test image<br />(Single run)</div>
+          </div>
         </div>
-    </div>
 
-    <h2>Scalability Impact Analysis</h2>
+        <h2>Scalability Impact Analysis</h2>
 
-    <table class="comparison-table">
-        <tr>
+        <table class="comparison-table">
+          <tr>
             <th>Scenario</th>
             <th>Chandra (Parallelized)</th>
             <th>Qwen3-VL (Single)</th>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>1000 Images</strong></td>
             <td class="optimal">~5 hours</td>
             <td>~216 hours</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>10,000 Images</strong></td>
             <td class="optimal">~2 days</td>
             <td>~90 days</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>100,000 Images</strong></td>
             <td class="optimal">~20 days</td>
             <td>~900 days</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Accuracy</strong></td>
             <td>80.52% F1</td>
             <td>84.96% F1</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Accuracy Trade-Off</strong></td>
             <td class="optimal">4.44% loss</td>
             <td>Baseline</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td><strong>Parallelization Feasible</strong></td>
             <td class="optimal">✓ YES (safe)</td>
             <td class="critical">✗ NO (crash risk)</td>
-        </tr>
-    </table>
+          </tr>
+        </table>
 
-    <h2>Why Chandra is the Production Winner</h2>
-    <div class="discovery-box">
-        <div class="discovery-title">The Case for Chandra OCR (Infrastructure + Accuracy Trade-Off)</div>
-        <div class="discovery-text">
-            ✓ <strong>Already Beats Most Models:</strong> Chandra's 80.52% F1 outperforms nearly all traditional OCR engines<br>
-            ✓ <strong>Qwen3-VL Marginal Gain:</strong> Only +4.44% improvement, NOT worth infrastructure risk<br>
-            ✓ <strong>Infrastructure Safety:</strong> 7B parameters vs 32B = lightweight, enables safe 10x parallelization<br>
-            ✓ <strong>Server Stability:</strong> Chandra won't crash Nectar cluster; Qwen3-VL WILL with parallelization<br>
-            ✓ <strong>Throughput Multiplier:</strong> 40x faster with parallelization (5 hours vs 216 hours for 1000 images)
+        <h2>Why Chandra is the Production Winner</h2>
+        <div class="discovery-box">
+          <div class="discovery-title">
+            The Case for Chandra OCR (Infrastructure + Accuracy Trade-Off)
+          </div>
+          <div class="discovery-text">
+            ✓ <strong>Already Beats Most Models:</strong> Chandra's 80.52% F1
+            outperforms nearly all traditional OCR engines<br />
+            ✓ <strong>Qwen3-VL Marginal Gain:</strong> Only +4.44% improvement,
+            NOT worth infrastructure risk<br />
+            ✓ <strong>Infrastructure Safety:</strong> 7B parameters vs 32B =
+            lightweight, enables safe 10x parallelization<br />
+            ✓ <strong>Server Stability:</strong> Chandra won't crash Nectar
+            cluster; Qwen3-VL WILL with parallelization<br />
+            ✓ <strong>Throughput Multiplier:</strong> 40x faster with
+            parallelization (5 hours vs 216 hours for 1000 images)
+          </div>
         </div>
-    </div>
 
-    <div class="footer">
-        <div class="footer-left">Monash Business School</div>
-        <div class="footer-right">Slide 5 of 8</div>
-    </div>
-</div>
-
-<!-- SLIDE 6: Key Discoveries & Recommendations -->
-<div class="slide page-break">
-    <h1>Key Discoveries & Optimal Recommendations</h1>
-
-    <h2>Research Question & Answer</h2>
-    <div class="conclusion-highlight">
-        <strong>Q: Can Vision Language Models outperform traditional OCR on historical Austrian Sütterlin/Kurrent manuscripts without fine-tuning?</strong><br><br>
-        <strong>A: YES, but NOT for production deployment</strong><br><br>
-        Qwen3-VL achieves 84.96% Word F1 (+4.44% vs Chandra), yet infrastructure constraints prevent safe parallelization on Nectar HPC. Chandra's lightweight 19 GB footprint enables 10x parallelization without server collapse.
-    </div>
-
-    <h2>Four Key Discoveries</h2>
-
-    <div class="discovery-box">
-        <div class="discovery-title">1. Character Recognition is Solved</div>
-        <div class="discovery-text">Both Qwen3-VL (97.49%) and Chandra (96.59%) achieve near-perfect character-level accuracy. Investment in character recognition has diminishing returns. Focus should shift to layout understanding.</div>
-    </div>
-
-    <div class="discovery-box">
-        <div class="discovery-title">2. Document Age is the Key Driver</div>
-        <div class="discovery-text">Performance directly correlates with document era: Modern (81%) → 19th century (61%) → 18th century (37%) → 17th century (12%). Pure Kurrent/Fraktur scripts require specialized training.</div>
-    </div>
-
-    <div class="discovery-box">
-        <div class="discovery-title">3. Infrastructure Trumps Accuracy in Production</div>
-        <div class="discovery-text">Qwen3-VL's 32B parameters consume 60+ GB per instance. Parallelizing 10x would exceed Nectar cluster capacity (~320 GB VRAM), causing system crash. Chandra's 7B parameters at 19 GB per instance enable safe 10x parallelization.</div>
-    </div>
-
-    <div class="discovery-box">
-        <div class="discovery-title">4. Chandra OCR is the Production-Optimal Choice</div>
-        <div class="discovery-text">4% accuracy loss (80.52% vs 84.96%) is negligible compared to 40x throughput gain with safe parallelization. For 10,000-image archives: 88 days saved, infrastructure stability maintained, realistic production deployment.</div>
-    </div>
-
-    <h2>Immediate Recommendations (Next 3-6 Months)</h2>
-
-    <div class="optimal-recommendation-box">
-        <div class="optimal-title">
-            ⭐ PRIMARY RECOMMENDATION: Deploy Chandra OCR with Safe HPC Parallelization
+        <div class="footer">
+          <div class="footer-left">Monash Business School</div>
+          <div class="footer-right">Slide 5 of 8</div>
         </div>
-        <div class="optimal-text">
-            <strong>Strategy:</strong> Use Chandra OCR as the primary production model with 10x GPU workers on Nectar HPC cluster for parallel batch processing. Lightweight architecture ensures server stability while achieving 40x throughput improvement.<br><br>
-            <strong>Implementation:</strong><br>
-            ✓ Deploy 10x parallel GPU workers on Nectar (each running 19 GB Chandra instance)<br>
-            ✓ Total memory footprint: ~190 GB (safe within 320 GB cluster capacity)<br>
-            ✓ Process documents in batches (10 images simultaneously)<br>
-            ✓ Expected accuracy: 80.52% Word F1 (acceptable for most archives)<br>
-            ✓ Effective throughput: Process 1,000 images in ~5 hours (40x improvement vs 216 hours serial)<br><br>
-            <strong>Result for 10,000-image archive:</strong><br>
-            • Chandra parallelized: ~2 days (vs. 90 days Qwen3-VL serial)<br>
-            • Server stability: ✓ Confirmed (stays within infrastructure limits)<br>
-            • Accuracy sacrifice: 4.44% (negligible for large-scale digitization)
-        </div>
-    </div>
+      </div>
 
-    <div class="recommendation-box">
-        <div class="recommendation-title">SECONDARY RECOMMENDATION: Reserve Qwen3-VL for Research Only</div>
-        <div class="recommendation-text">
-            ✓ Use Qwen3-VL only for research/proof-of-concept studies<br>
-            ✓ Single-instance deployment only (never attempt parallelization)<br>
-            ✓ Apply to small subset of documents where 4% accuracy gain is critical<br>
+      <!-- SLIDE 6: Key Discoveries & Recommendations -->
+      <div class="slide page-break">
+        <h1>Key Discoveries & Optimal Recommendations</h1>
+
+        <h2>Research Question & Answer</h2>
+        <div class="conclusion-highlight">
+          <strong
+            >Q: Can Vision Language Models outperform traditional OCR on
+            historical Austrian Sütterlin/Kurrent manuscripts without
+            fine-tuning?</strong
+          ><br /><br />
+          <strong>A: YES, but NOT for production deployment</strong><br /><br />
+          Qwen3-VL achieves 84.96% Word F1 (+4.44% vs Chandra), yet
+          infrastructure constraints prevent safe parallelization on Nectar HPC.
+          Chandra's lightweight 19 GB footprint enables 10x parallelization
+          without server collapse.
+        </div>
+
+        <h2>Four Key Discoveries</h2>
+
+        <div class="discovery-box">
+          <div class="discovery-title">1. Character Recognition is Solved</div>
+          <div class="discovery-text">
+            Both Qwen3-VL (97.49%) and Chandra (96.59%) achieve near-perfect
+            character-level accuracy. Investment in character recognition has
+            diminishing returns. Focus should shift to layout understanding.
+          </div>
+        </div>
+
+        <div class="discovery-box">
+          <div class="discovery-title">2. Document Age is the Key Driver</div>
+          <div class="discovery-text">
+            Performance directly correlates with document era: Modern (81%) →
+            19th century (61%) → 18th century (37%) → 17th century (12%). Pure
+            Kurrent/Fraktur scripts require specialized training.
+          </div>
+        </div>
+
+        <div class="discovery-box">
+          <div class="discovery-title">
+            3. Infrastructure Trumps Accuracy in Production
+          </div>
+          <div class="discovery-text">
+            Qwen3-VL's 32B parameters consume 60+ GB per instance. Parallelizing
+            10x would exceed Nectar cluster capacity (~320 GB VRAM), causing
+            system crash. Chandra's 7B parameters at 19 GB per instance enable
+            safe 10x parallelization.
+          </div>
+        </div>
+
+        <div class="discovery-box">
+          <div class="discovery-title">
+            4. Chandra OCR is the Production-Optimal Choice
+          </div>
+          <div class="discovery-text">
+            4% accuracy loss (80.52% vs 84.96%) is negligible compared to 40x
+            throughput gain with safe parallelization. For 10,000-image
+            archives: 88 days saved, infrastructure stability maintained,
+            realistic production deployment.
+          </div>
+        </div>
+
+        <h2>Immediate Recommendations (Next 3-6 Months)</h2>
+
+        <div class="optimal-recommendation-box">
+          <div class="optimal-title">
+            ⭐ PRIMARY RECOMMENDATION: Deploy Chandra OCR with Safe HPC
+            Parallelization
+          </div>
+          <div class="optimal-text">
+            <strong>Strategy:</strong> Use Chandra OCR as the primary production
+            model with 10x GPU workers on Nectar HPC cluster for parallel batch
+            processing. Lightweight architecture ensures server stability while
+            achieving 40x throughput improvement.<br /><br />
+            <strong>Implementation:</strong><br />
+            ✓ Deploy 10x parallel GPU workers on Nectar (each running 19 GB
+            Chandra instance)<br />
+            ✓ Total memory footprint: ~190 GB (safe within 320 GB cluster
+            capacity)<br />
+            ✓ Process documents in batches (10 images simultaneously)<br />
+            ✓ Expected accuracy: 80.52% Word F1 (acceptable for most
+            archives)<br />
+            ✓ Effective throughput: Process 1,000 images in ~5 hours (40x
+            improvement vs 216 hours serial)<br /><br />
+            <strong>Result for 10,000-image archive:</strong><br />
+            • Chandra parallelized: ~2 days (vs. 90 days Qwen3-VL serial)<br />
+            • Server stability: ✓ Confirmed (stays within infrastructure
+            limits)<br />
+            • Accuracy sacrifice: 4.44% (negligible for large-scale
+            digitization)
+          </div>
+        </div>
+
+        <div class="recommendation-box">
+          <div class="recommendation-title">
+            SECONDARY RECOMMENDATION: Reserve Qwen3-VL for Research Only
+          </div>
+          <div class="recommendation-text">
+            ✓ Use Qwen3-VL only for research/proof-of-concept studies<br />
+            ✓ Single-instance deployment only (never attempt parallelization)<br />
+            ✓ Apply to small subset of documents where 4% accuracy gain is
+            critical<br />
             ✓ Do NOT attempt to scale Qwen3-VL on production infrastructure
+          </div>
         </div>
-    </div>
 
-    <div class="footer">
-        <div class="footer-left">Monash Business School</div>
-        <div class="footer-right">Slide 6 of 8</div>
-    </div>
-</div>
-
-<!-- SLIDE 7: Broader Research Context -->
-<div class="slide page-break">
-    <h1>Broader Research Context & Project Aims</h1>
-
-    <h2>The Bigger Picture: Historical Economic & Demographic Analysis</h2>
-    <div class="project-overview">
-        <h3>Project Aim</h3>
-        <div class="overview-item">
-            <span class="overview-label">Goal:</span> Perform layout analysis and handwritten text recognition (HTR) on Austrian parish records, extract tabular data, identify key figures from regions, and track their descendants' economic progress across decades (1800-1920s, including World War I and beyond).
+        <div class="footer">
+          <div class="footer-left">Monash Business School</div>
+          <div class="footer-right">Slide 6 of 8</div>
         </div>
-        <div class="overview-item">
-            <span class="overview-label">Historical Context:</span> Tracing families' economic trajectories during transformative periods in Austrian history
+      </div>
+
+      <!-- SLIDE 7: Broader Research Context -->
+      <div class="slide page-break">
+        <h1>Broader Research Context & Project Aims</h1>
+
+        <h2>The Bigger Picture: Historical Economic & Demographic Analysis</h2>
+        <div class="project-overview">
+          <h3>Project Aim</h3>
+          <div class="overview-item">
+            <span class="overview-label">Goal:</span> Perform layout analysis
+            and handwritten text recognition (HTR) on Austrian parish records,
+            extract tabular data, identify key figures from regions, and track
+            their descendants' economic progress across decades (1800-1920s,
+            including World War I and beyond).
+          </div>
+          <div class="overview-item">
+            <span class="overview-label">Historical Context:</span> Tracing
+            families' economic trajectories during transformative periods in
+            Austrian history
+          </div>
         </div>
-    </div>
 
-    <h2>The Six-Stage Pipeline</h2>
+        <h2>The Six-Stage Pipeline</h2>
 
-    <div class="sub-aim-card-collapsed">
-        <div class="sub-aim-header">
+        <div class="sub-aim-card-collapsed">
+          <div class="sub-aim-header">
             <div class="sub-aim-number">1</div>
-            <div class="sub-aim-title">Ground Truth Creation: Hand-Transcribe Austrian Birth Certificates</div>
+            <div class="sub-aim-title">
+              Ground Truth Creation: Hand-Transcribe Austrian Birth Certificates
+            </div>
+          </div>
+          <div class="sub-aim-text">
+            Using Transkribus desktop app, transcribe 496 word-level images from
+            Austrian birth certificates. Dataset manually refined by Prof. Paul
+            using PyLaia HTR model (German_Kurrent_17th-18th, CER: 6.00% train /
+            5.50% validation).
+          </div>
         </div>
-        <div class="sub-aim-text">
-            Using Transkribus desktop app, transcribe 496 word-level images from Austrian birth certificates. Dataset manually refined by Prof. Paul using PyLaia HTR model (German_Kurrent_17th-18th, CER: 6.00% train / 5.50% validation).
-        </div>
-    </div>
 
-    <div class="sub-aim-card-collapsed">
-        <div class="sub-aim-header">
+        <div class="sub-aim-card-collapsed">
+          <div class="sub-aim-header">
             <div class="sub-aim-number">2-4</div>
-            <div class="sub-aim-title">HTR Model Training & Testing → Entity Extraction</div>
+            <div class="sub-aim-title">
+              HTR Model Training & Testing → Entity Extraction
+            </div>
+          </div>
+          <div class="sub-aim-text">
+            <strong>Sub-aim 2:</strong> Train HTR model (TrOCR) on combined
+            open-source HANA + hand-transcribed Austrian data.<br />
+            <strong>Sub-aim 3:</strong> Test trained model on complete Austrian
+            birth dataset, producing structured machine-readable
+            transcriptions.<br />
+            <strong>Sub-aim 4:</strong> Apply Named Entity Recognition (NER) to
+            extract names, professions, and place names from HTR outputs,
+            enabling demographic mapping and occupational analysis.
+          </div>
         </div>
-        <div class="sub-aim-text">
-            <strong>Sub-aim 2:</strong> Train HTR model (TrOCR) on combined open-source HANA + hand-transcribed Austrian data.<br>
-            <strong>Sub-aim 3:</strong> Test trained model on complete Austrian birth dataset, producing structured machine-readable transcriptions.<br>
-            <strong>Sub-aim 4:</strong> Apply Named Entity Recognition (NER) to extract names, professions, and place names from HTR outputs, enabling demographic mapping and occupational analysis.
-        </div>
-    </div>
 
-    <div class="sub-aim-card-collapsed">
-        <div class="sub-aim-header">
+        <div class="sub-aim-card-collapsed">
+          <div class="sub-aim-header">
             <div class="sub-aim-number">5</div>
-            <div class="sub-aim-title">Construct Historical Social Networks</div>
+            <div class="sub-aim-title">
+              Construct Historical Social Networks
+            </div>
+          </div>
+          <div class="sub-aim-text">
+            Map relationships (family ties, godparent relationships, community
+            associations) from birth, marriage, and death registers. Create
+            connection graphs revealing social connectivity patterns and
+            enabling lineage tracing across generations.
+          </div>
         </div>
-        <div class="sub-aim-text">
-            Map relationships (family ties, godparent relationships, community associations) from birth, marriage, and death registers. Create connection graphs revealing social connectivity patterns and enabling lineage tracing across generations.
-        </div>
-    </div>
 
-    <div class="sub-aim-card-collapsed">
-        <div class="sub-aim-header">
+        <div class="sub-aim-card-collapsed">
+          <div class="sub-aim-header">
             <div class="sub-aim-number">6</div>
             <div class="sub-aim-title">Demographic & Longitudinal Analysis</div>
+          </div>
+          <div class="sub-aim-text">
+            Conduct demographic analysis examining clusters by profession,
+            geography, and social connectivity. Link to historical events (WWI,
+            radical movements) to trace economic progress, social status shifts,
+            and the impact of historical events on community development.
+          </div>
         </div>
-        <div class="sub-aim-text">
-            Conduct demographic analysis examining clusters by profession, geography, and social connectivity. Link to historical events (WWI, radical movements) to trace economic progress, social status shifts, and the impact of historical events on community development.
+
+        <h2>How Chandra OCR Enables the Pipeline (Production-Ready)</h2>
+        <div class="conclusion-highlight">
+          Chandra OCR's 80.52% Word F1 with high throughput directly enables
+          rapid transcriptions in Sub-aims 2-3. With safe 10x parallelization on
+          Nectar HPC (19 GB footprint), digitize 10,000 documents in ~2 days,
+          creating the foundation for all downstream entity extraction (Sub-aim
+          4), network construction (Sub-aim 5), and historical analysis (Sub-aim
+          6).
         </div>
-    </div>
 
-    <h2>How Chandra OCR Enables the Pipeline (Production-Ready)</h2>
-    <div class="conclusion-highlight">
-        Chandra OCR's 80.52% Word F1 with high throughput directly enables rapid transcriptions in Sub-aims 2-3. With safe 10x parallelization on Nectar HPC (19 GB footprint), digitize 10,000 documents in ~2 days, creating the foundation for all downstream entity extraction (Sub-aim 4), network construction (Sub-aim 5), and historical analysis (Sub-aim 6).
-    </div>
-
-    <div class="footer">
-        <div class="footer-left">Monash Business School</div>
-        <div class="footer-right">Slide 7 of 8</div>
-    </div>
-</div>
-
-<!-- CONCLUSION SLIDE -->
-<div class="slide page-break">
-    <h1>Conclusion: Infrastructure-Aware Production Strategy</h1>
-
-    <div class="conclusion-highlight" style="margin-top: 30px;">
-        <strong>Research Finding:</strong> Qwen3-VL achieves 84.96% accuracy (superior to Chandra at 80.52%)<br><br>
-        <strong>Infrastructure Reality:</strong> Qwen3-VL's 60 GB footprint prevents safe parallelization on Nectar cluster<br><br>
-        <strong>Production Decision:</strong> Deploy Chandra OCR (7B params, 19 GB) with 10x HPC parallelization for 40x throughput at 4% accuracy cost
-    </div>
-
-    <h2 style="margin-top: 50px;">Impact Summary</h2>
-
-    <div class="discovery-box">
-        <div class="discovery-title">Research Contribution</div>
-        <div class="discovery-text">
-            ✓ Demonstrated VLMs outperform traditional OCR on historical handwriting (84.96% vs 80.52%)<br>
-            ✓ Proved ground-truth approach superior to external dataset fine-tuning<br>
-            ✓ Identified layout understanding as key bottleneck (not character recognition)<br>
-            ✓ Validated UTF-8 encoding importance in OCR pipelines<br>
-            ✓ <strong>Quantified infrastructure constraint: 60 GB (Qwen3-VL) prevents parallelization; 19 GB (Chandra 7B) enables 10x safe scaling</strong>
+        <div class="footer">
+          <div class="footer-left">Monash Business School</div>
+          <div class="footer-right">Slide 7 of 8</div>
         </div>
-    </div>
+      </div>
 
-    <div class="recommendation-box">
-        <div class="recommendation-title">Next Phase: Production Implementation (SoDa Labs Initiative)</div>
-        <div class="recommendation-text">
-            ✓ Deploy Chandra OCR (7B parameters) with 10x GPU workers on Nectar HPC for parallel batch processing<br>
-            ✓ Process Austrian parish records (1850+) at scale: 10,000 images in ~2 days<br>
-            ✓ Achieve 80.52% Word F1 accuracy (acceptable for large archives)<br>
-            ✓ Maintain server stability (stay within 320 GB cluster VRAM capacity)<br>
+      <!-- CONCLUSION SLIDE -->
+      <div class="slide page-break">
+        <h1>Conclusion: Infrastructure-Aware Production Strategy</h1>
+
+        <div class="conclusion-highlight" style="margin-top: 30px">
+          <strong>Research Finding:</strong> Qwen3-VL achieves 84.96% accuracy
+          (superior to Chandra at 80.52%)<br /><br />
+          <strong>Infrastructure Reality:</strong> Qwen3-VL's 60 GB footprint
+          prevents safe parallelization on Nectar cluster<br /><br />
+          <strong>Production Decision:</strong> Deploy Chandra OCR (7B params,
+          19 GB) with 10x HPC parallelization for 40x throughput at 4% accuracy
+          cost
+        </div>
+
+        <h2 style="margin-top: 50px">Impact Summary</h2>
+
+        <div class="discovery-box">
+          <div class="discovery-title">Research Contribution</div>
+          <div class="discovery-text">
+            ✓ Demonstrated VLMs outperform traditional OCR on historical
+            handwriting (84.96% vs 80.52%)<br />
+            ✓ Proved ground-truth approach superior to external dataset
+            fine-tuning<br />
+            ✓ Identified layout understanding as key bottleneck (not character
+            recognition)<br />
+            ✓ Validated UTF-8 encoding importance in OCR pipelines<br />
+            ✓
+            <strong
+              >Quantified infrastructure constraint: 60 GB (Qwen3-VL) prevents
+              parallelization; 19 GB (Chandra 7B) enables 10x safe
+              scaling</strong
+            >
+          </div>
+        </div>
+
+        <div class="recommendation-box">
+          <div class="recommendation-title">
+            Next Phase: Production Implementation (SoDa Labs Initiative)
+          </div>
+          <div class="recommendation-text">
+            ✓ Deploy Chandra OCR (7B parameters) with 10x GPU workers on Nectar
+            HPC for parallel batch processing<br />
+            ✓ Process Austrian parish records (1850+) at scale: 10,000 images in
+            ~2 days<br />
+            ✓ Achieve 80.52% Word F1 accuracy (acceptable for large archives)<br />
+            ✓ Maintain server stability (stay within 320 GB cluster VRAM
+            capacity)<br />
             ✓ Reserve Qwen3-VL for selective research (single-instance only)
+          </div>
         </div>
-    </div>
 
-    <div class="footer">
-        <div class="footer-left">Monash Business School, Monash University</div>
-        <div class="footer-right">Slide 8 of 8</div>
-    </div>
-</div>
+        <div class="footer">
+          <div class="footer-left">
+            Monash Business School, Monash University
+          </div>
+          <div class="footer-right">Slide 8 of 8</div>
+        </div>
+      </div>
     </div>
   </body>
 </html>

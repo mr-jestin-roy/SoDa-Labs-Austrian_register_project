@@ -1,0 +1,155 @@
+2025-12-20 15:17:21,898 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 15:17:21,898 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 15:17:21,898 - INFO - Starting batch processing with 4 worker(s)...
+2025-12-20 15:17:21,911 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 15:17:29,014 - ERROR - Chandra failed on oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: Usage: chandra [OPTIONS] INPUT_PATH OUTPUT_PATH
+Try 'chandra --help' for help.
+
+Error: No such option: --vllm-url
+
+2025-12-20 15:17:29,015 - ERROR - [1/1] ❌ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: Usage: chandra [OPTIONS] INPUT_PATH OUTPUT_PATH
+Try 'chandra --help' for help.
+
+Error: No such option: --vllm-url
+
+2025-12-20 15:17:29,019 - INFO - Summary saved to: chandra_output/processing_summary.json
+2025-12-20 15:19:43,013 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 15:19:43,013 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 15:19:43,013 - INFO - Starting batch processing with 4 worker(s)...
+2025-12-20 15:19:43,028 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 15:19:43,029 - INFO -   Using vLLM endpoint: http://localhost:8010
+2025-12-20 15:20:12,471 - ERROR - Expected HTML output not found: chandra_output/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.html
+2025-12-20 15:20:12,475 - ERROR - [1/1] ❌ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: HTML output not generated
+2025-12-20 15:20:12,479 - INFO - Summary saved to: chandra_output/processing_summary.json
+2025-12-20 15:38:37,822 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=hf, xlsx_conversion=True, vllm_url=N/A
+2025-12-20 15:38:37,822 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 15:38:37,822 - INFO - Starting batch processing with 1 worker(s)...
+2025-12-20 15:38:37,829 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 15:42:31,121 - ERROR - Expected HTML output not found: chandra_output/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.html
+2025-12-20 15:42:31,122 - ERROR - [1/1] ❌ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: HTML output not generated
+2025-12-20 15:42:31,125 - INFO - Summary saved to: chandra_output/processing_summary.json
+2025-12-20 19:45:49,683 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8000
+2025-12-20 19:45:49,684 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 19:45:49,684 - INFO - Starting batch processing with 2 worker(s)...
+2025-12-20 19:45:49,693 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 19:45:49,693 - INFO -   Using vLLM endpoint: http://localhost:8000
+2025-12-20 19:53:37,147 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8000
+2025-12-20 19:53:37,148 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 19:53:37,148 - INFO - Starting batch processing with 2 worker(s)...
+2025-12-20 19:53:37,156 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 19:53:37,157 - INFO -   Using vLLM endpoint: http://localhost:8000
+2025-12-20 19:54:04,906 - ERROR - Expected HTML output not found: chandra_output/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.html
+2025-12-20 19:54:04,907 - ERROR - [1/1] ❌ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: HTML output not generated
+2025-12-20 19:54:04,911 - INFO - Summary saved to: chandra_output/processing_summary.json
+2025-12-20 19:59:03,257 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 19:59:03,257 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 19:59:03,258 - INFO - Starting batch processing with 2 worker(s)...
+2025-12-20 19:59:03,266 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 19:59:03,266 - INFO -   Using vLLM endpoint: http://localhost:8010
+2025-12-20 19:59:37,923 - ERROR - Expected HTML output not found: chandra_output/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.html
+2025-12-20 19:59:37,924 - ERROR - [1/1] ❌ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: HTML output not generated
+2025-12-20 19:59:37,927 - INFO - Summary saved to: chandra_output/processing_summary.json
+2025-12-20 20:01:32,463 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 20:01:32,464 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 20:01:32,464 - INFO - Starting batch processing with 2 worker(s)...
+2025-12-20 20:01:32,474 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 20:01:32,475 - INFO -   Using vLLM endpoint: http://localhost:8010
+2025-12-20 20:02:27,254 - ERROR - Expected HTML output not found: chandra_output/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12/oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.html
+2025-12-20 20:02:27,255 - ERROR - [1/1] ❌ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: HTML output not generated
+2025-12-20 20:02:27,259 - INFO - Summary saved to: chandra_output/processing_summary.json
+2025-12-20 20:23:32,418 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 20:23:32,418 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 20:23:32,418 - INFO - Starting batch processing with 2 worker(s)...
+2025-12-20 20:23:32,426 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 20:23:32,427 - INFO -   Using vLLM endpoint: http://localhost:8010
+2025-12-20 20:28:32,568 - ERROR - oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: Processing timed out (>300s)
+2025-12-20 20:28:32,569 - ERROR - [1/1] ❌ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg: Processing timed out (>300s)
+2025-12-20 20:28:32,573 - INFO - Summary saved to: chandra_output/processing_summary.json
+2025-12-20 21:04:30,354 - INFO - Starting batch (1 images) with 1 worker(s)
+2025-12-20 21:14:35,495 - INFO - 📊 oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg | Peak VRAM: 32752 MiB
+2025-12-20 21:16:34,905 - INFO - Initialized processor: input=sterbbuch_pages, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 21:16:34,905 - INFO - Found 1 images in sterbbuch_pages
+2025-12-20 21:16:34,905 - INFO - Starting batch processing with 1 worker(s)...
+2025-12-20 21:16:34,913 - INFO - Processing: oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg
+2025-12-20 21:16:34,915 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:17:36,116 - INFO - 📊 oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg | Peak VRAM: 32755 MiB
+2025-12-20 21:17:36,118 - INFO - [1/1] ✅ oesterreich_graz-seckau_Pernegg_8758_Seite 11-12.jpg (60.5s)
+2025-12-20 21:28:32,578 - INFO - Initialized processor: input=oesterreich_graz-seckau_Pernegg_8758, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 21:28:32,579 - INFO - Found 49 images in oesterreich_graz-seckau_Pernegg_8758
+2025-12-20 21:28:32,579 - INFO - Starting batch processing with 1 worker(s)...
+2025-12-20 21:28:32,590 - INFO - Processing: Deckel.jpg
+2025-12-20 21:28:32,590 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:36:23,815 - INFO - 📊 Deckel.jpg | Peak VRAM: 32755 MiB
+2025-12-20 21:36:23,817 - INFO - Processing: Seite 1-2.jpg
+2025-12-20 21:36:23,817 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:49:03,860 - INFO - Processing: Seite 11-12.jpg
+2025-12-20 21:49:03,860 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:49:13,426 - INFO - Initialized processor: input=oesterreich_graz-seckau_Pernegg_8758, output=chandra_output, method=vllm, xlsx_conversion=True, vllm_url=http://localhost:8010
+2025-12-20 21:49:13,427 - INFO - Found 50 images in oesterreich_graz-seckau_Pernegg_8758
+2025-12-20 21:49:13,427 - INFO - Starting batch processing with 1 worker(s)...
+2025-12-20 21:49:13,436 - INFO - Processing: Seite 1-2-checkpoint.jpg
+2025-12-20 21:49:13,437 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:50:08,219 - INFO - 📊 Seite 11-12.jpg | Peak VRAM: 32750 MiB
+2025-12-20 21:50:08,221 - INFO - Processing: Seite 13-14.jpg
+2025-12-20 21:50:08,221 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:50:22,796 - INFO - 📊 Seite 1-2-checkpoint.jpg | Peak VRAM: 32750 MiB
+2025-12-20 21:50:22,797 - INFO - Processing: Deckel.jpg
+2025-12-20 21:50:22,797 - INFO - [1/50] ✅ Seite 1-2-checkpoint.jpg (68.7s)
+2025-12-20 21:50:22,797 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:50:37,075 - INFO - 📊 Deckel.jpg | Peak VRAM: 32952 MiB
+2025-12-20 21:50:37,076 - INFO - Processing: Seite 1-2.jpg
+2025-12-20 21:50:37,076 - INFO - [2/50] ✅ Deckel.jpg (13.3s)
+2025-12-20 21:50:37,077 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:50:54,215 - INFO - 📊 Seite 13-14.jpg | Peak VRAM: 32952 MiB
+2025-12-20 21:53:37,670 - INFO - 📊 Seite 1-2.jpg | Peak VRAM: 32952 MiB
+2025-12-20 21:53:37,671 - INFO - Processing: Seite 11-12.jpg
+2025-12-20 21:53:37,671 - ERROR - [3/50] ❌ Seite 1-2.jpg: Timeout (>900s)
+2025-12-20 21:53:37,671 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:54:20,507 - INFO - 📊 Seite 11-12.jpg | Peak VRAM: 32952 MiB
+2025-12-20 21:54:20,507 - INFO - [4/50] ✅ Seite 11-12.jpg (42.1s)
+2025-12-20 21:54:20,508 - INFO - Processing: Seite 13-14.jpg
+2025-12-20 21:54:20,508 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:55:03,344 - INFO - 📊 Seite 13-14.jpg | Peak VRAM: 32952 MiB
+2025-12-20 21:55:03,345 - INFO - [5/50] ✅ Seite 13-14.jpg (42.2s)
+2025-12-20 21:55:03,345 - INFO - Processing: Seite 15-16.jpg
+2025-12-20 21:55:03,345 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 21:58:03,880 - INFO - 📊 Seite 15-16.jpg | Peak VRAM: 32952 MiB
+2025-12-20 21:58:03,880 - ERROR - [6/50] ❌ Seite 15-16.jpg: Timeout (>900s)
+2025-12-20 21:58:03,881 - INFO - Processing: Seite 17-18.jpg
+2025-12-20 21:58:03,881 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:01:04,555 - INFO - 📊 Seite 17-18.jpg | Peak VRAM: 32952 MiB
+2025-12-20 22:01:04,556 - ERROR - [7/50] ❌ Seite 17-18.jpg: Timeout (>900s)
+2025-12-20 22:01:04,556 - INFO - Processing: Seite 19-20.jpg
+2025-12-20 22:01:04,556 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:01:13,736 - INFO - 📊 Seite 19-20.jpg | Peak VRAM: 32952 MiB
+2025-12-20 22:01:13,739 - INFO - Processing: Seite 21-22.jpg
+2025-12-20 22:01:13,739 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:01:16,403 - INFO - Processing: Seite 23-24.jpg
+2025-12-20 22:01:16,404 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:02:01,271 - INFO - 📊 Seite 23-24.jpg | Peak VRAM: 33356 MiB
+2025-12-20 22:02:01,272 - INFO - Processing: Seite 25-26.jpg
+2025-12-20 22:02:01,273 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:04:05,919 - INFO - 📊 Seite 25-26.jpg | Peak VRAM: 33558 MiB
+2025-12-20 22:15:52,552 - INFO - Initialized processor: input=oesterreich_graz-seckau_Pernegg_8758, output=final_chandra_output, method=vllm, vllm_url=http://localhost:8010
+2025-12-20 22:15:52,553 - INFO - Found 50 images in oesterreich_graz-seckau_Pernegg_8758
+2025-12-20 22:15:52,553 - INFO - Starting batch processing with 1 worker(s)...
+2025-12-20 22:15:52,563 - INFO - Processing: Seite 1-2-checkpoint.jpg
+2025-12-20 22:15:52,563 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:17:08,025 - INFO - 📊 Seite 1-2-checkpoint.jpg | Peak VRAM: 32755 MiB
+2025-12-20 22:17:08,025 - INFO - Processing: Deckel.jpg
+2025-12-20 22:17:08,026 - ERROR - [1/50] ❌ Seite 1-2-checkpoint.jpg: HTML output not generated
+2025-12-20 22:17:08,026 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:32:08,551 - INFO - 📊 Deckel.jpg | Peak VRAM: 32750 MiB
+2025-12-20 22:32:08,552 - ERROR - [2/50] ❌ Deckel.jpg: Timeout (>900s)
+2025-12-20 22:32:08,552 - INFO - Processing: Seite 1-2.jpg
+2025-12-20 22:32:08,552 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:33:08,962 - INFO - 📊 Seite 1-2.jpg | Peak VRAM: 32750 MiB
+2025-12-20 22:33:08,963 - ERROR - [3/50] ❌ Seite 1-2.jpg: HTML output not generated
+2025-12-20 22:33:08,963 - INFO - Processing: Seite 11-12.jpg
+2025-12-20 22:33:08,963 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:39:11,025 - INFO - Processing: Seite 13-14.jpg
+2025-12-20 22:39:11,025 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:39:54,866 - INFO - 📊 Seite 13-14.jpg | Peak VRAM: 32750 MiB
+2025-12-20 22:39:54,869 - INFO - Processing: Seite 15-16.jpg
+2025-12-20 22:39:54,869 - INFO -    Using vLLM endpoint: http://localhost:8010
+2025-12-20 22:40:34,629 - INFO - 📊 Seite 15-16.jpg | Peak VRAM: 32750 MiB
