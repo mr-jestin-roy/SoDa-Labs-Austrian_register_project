@@ -1,0 +1,105 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Pernegg Pipeline Poster</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;600&family=Fraunces:opsz,wght@9..144,600&display=swap">
+<style>
+/* Layout: one A3-style sheet: flow diagram on top, GPU budget + worker table beside it, time budget below. */
+:root{--bg:#f4f5f2;--card:#fff;--fg:#1d2420;--mut:#5d6860;--line:#d5d9d2;--ocr:#2f6f5e;--dec:#b4572c;--dl:#3d5a98;--cpu:#7a7f78;--warn:#b0861a;
+--disp:"Fraunces",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#121613;--card:#1a201c;--fg:#e6eae4;--mut:#9aa59c;--line:#2e362f;--ocr:#58b59d;--dec:#e0925f;--dl:#8fa9e0;--cpu:#97a094;--warn:#e0b84d;color-scheme:dark}}
+:root[data-theme=dark]{--bg:#121613;--card:#1a201c;--fg:#e6eae4;--mut:#9aa59c;--line:#2e362f;--ocr:#58b59d;--dec:#e0925f;--dl:#8fa9e0;--cpu:#97a094;--warn:#e0b84d;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:14px/1.5 var(--body);padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px));padding-block:24px}
+.sheet{max-width:1180px;margin:0 auto;display:grid;gap:20px}
+h1{font:600 clamp(26px,4vw,40px)/1.1 var(--disp);margin:0;text-wrap:balance}
+h2{font:600 12px var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--mut);margin:0 0 10px}
+.sub{color:var(--mut);margin:6px 0 0;max-width:70ch}
+.kpis{display:flex;flex-wrap:wrap;gap:8px 22px;font:13px var(--mono);margin-top:14px}.kpis b{font-size:18px;color:var(--ocr)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:16px;min-width:0}
+.cols{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:20px}
+@media(max-width:860px){.cols{grid-template-columns:minmax(0,1fr)}}
+.flow{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}
+@media(max-width:860px){.flow{grid-template-columns:repeat(2,minmax(0,1fr))}.arr{display:none}}
+.st{border:1.5px solid var(--c);border-radius:6px;padding:10px;display:grid;gap:4px;align-content:start;position:relative}
+.st h3{margin:0;font:600 13px var(--body);color:var(--c)}.st p{margin:0;font-size:12px;color:var(--mut)}
+.st .n{font:600 11px var(--mono);color:var(--c)}
+.dl{--c:var(--dl)}.cpu{--c:var(--cpu)}.ocr{--c:var(--ocr)}.dec{--c:var(--dec)}
+.note{margin:12px 0 0;font-size:12px;color:var(--mut)}
+.gpu{display:flex;height:46px;border:1px solid var(--line);border-radius:4px;overflow:hidden;font:600 11px var(--mono);color:#fff}
+.gpu div{display:grid;place-items:center;white-space:nowrap}
+.scale{display:flex;justify-content:space-between;font:11px var(--mono);color:var(--mut);margin-top:4px}
+.leg{display:grid;gap:6px;margin-top:12px;font-size:13px}.leg i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:8px}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:600 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}td.m{font-family:var(--mono);white-space:nowrap}
+.tw{overflow-x:auto}
+.bar{display:grid;grid-template-columns:150px minmax(0,1fr) 70px;gap:10px;align-items:center;margin:7px 0;font-size:13px}
+.trk{height:16px;background:var(--bg);border:1px solid var(--line);border-radius:3px;position:relative}.trk i{position:absolute;top:0;bottom:0;border-radius:2px;opacity:.9}
+.bar span:last-child{font-family:var(--mono);text-align:right}
+.tag{font:600 11px var(--mono);color:var(--warn)}
+</style>
+
+<div class="sheet">
+<header>
+ <h1>Pernegg, all 43 books: OCR and decision pipeline on one A100</h1>
+ <p class="sub">Chandra OCR 2 reads the pages while Perplexity Decider Flash v1.2 (4B) checks each record as soon as it is parsed. Both models stay loaded together, so nothing is unloaded between stages.</p>
+ <div class="kpis"><span><b>3,700</b> non-index pages first (index pages, 648, later)</span><span><b>1,296</b> on disk now</span><span><b>2,404</b> still to download</span><span>estimate <b>5–8 h</b>, worst case <b>~10 h</b></span></div>
+</header>
+
+<section class="box"><h2>Pipeline: every stage runs at the same time, pages move through on disk</h2>
+ <div class="flow">
+  <div class="st dl"><span class="n">1 · DOWNLOAD</span><h3>Matricula images</h3><p>1 process, 4 threads, 1 s pause. About 0.56 pages/s, so the remaining 2,809 pages take about 1.4 h and stay ahead of OCR.</p></div>
+  <div class="st cpu"><span class="n">2 · SPLIT</span><h3>Left / right halves</h3><p>smart_split_lossless.py on 8 CPU processes. Lossless, no resizing.</p></div>
+  <div class="st ocr"><span class="n">3 · OCR</span><h3>Chandra OCR 2</h3><p>One vLLM server, <b>16 requests in flight</b>. This is the bottleneck.</p></div>
+  <div class="st cpu"><span class="n">4 · PARSE</span><h3>HTML to rows</h3><p>convert_html_to_xlsx.py on 8 CPU processes. Each row goes to the decider queue.</p></div>
+  <div class="st dec"><span class="n">5 · DECIDE</span><h3>Decider Flash 4B</h3><p>8 requests in flight, one question per request: type, surname vs RTB list, date check, review flag.</p></div>
+  <div class="st cpu"><span class="n">6 · WRITE</span><h3>xlsx + review list</h3><p>Existing Excel schema, plus surname suggestion, probability and an <i>abstain</i> flag.</p></div>
+ </div>
+ <p class="note">Each page carries a status marker (downloaded, split, OCR done, parsed, decided). A crash or restart resumes at the first unfinished page. Generative German transcription stays in stage 3 and parsing; the decider only chooses between options.</p>
+</section>
+
+<div class="cols">
+<section class="box"><h2>GPU memory plan, 80 GiB (81,920 MiB)</h2>
+ <div class="gpu"><div style="width:72%;background:var(--ocr)">Chandra 59 GiB</div><div style="width:16%;background:var(--dec)">Decider 13</div><div style="width:12%;background:var(--cpu)">spare 8</div></div>
+ <div class="scale"><span>0</span><span>40</span><span>80 GiB</span></div>
+ <div class="leg">
+  <div><i style="background:var(--ocr)"></i><b>Chandra, util 0.72.</b> Measured 31 GiB at util 0.38 with 8 requests. Raising it to 0.72 grows the KV cache to about 40 GiB. Each request needs roughly 2 GiB of cache (about 16k tokens, 131 KB per token), so about <b>16–19 requests fit</b>.</div>
+  <div><i style="background:var(--dec)"></i><b>Decider Flash.</b> Measured peak 12.8 GiB (8.5 GB weights, the rest is activations). Start Chandra first, then the decider in the remaining 28%.</div>
+  <div><i style="background:var(--cpu)"></i><b>Spare 8 GiB</b> for CUDA graphs and fragmentation. This is the reason for 16 in flight, not 19.</div>
+ </div>
+ <p class="note tag">Plan figures, not yet measured together. The 10-page pilot checks them.</p>
+</section>
+
+<section class="box"><h2>Workers and agents</h2>
+ <div class="tw"><table>
+  <tr><th>Role</th><th>Count</th><th>Runs on</th></tr>
+  <tr><td>Claude orchestrator (this session)</td><td class="m">1</td><td>starts/stops servers, watches queues</td></tr>
+  <tr><td>Claude QA agent</td><td class="m">1</td><td>samples decisions, reads the abstain list</td></tr>
+  <tr><td>Downloader</td><td class="m">1 × 4 threads</td><td>network</td></tr>
+  <tr><td>Split + parse workers</td><td class="m">8 + 8</td><td>CPU (120 cores free)</td></tr>
+  <tr><td>Chandra requests in flight</td><td class="m">16</td><td>GPU, 1 vLLM server</td></tr>
+  <tr><td>Decider requests in flight</td><td class="m">8</td><td>GPU, 1 service</td></tr>
+ </table></div>
+ <p class="note">More than one Chandra server would only split the same GPU memory. Concurrency inside one server is how throughput is gained.</p>
+</section>
+</div>
+
+<section class="box"><h2>Time budget: 3,700 non-index pages, decisions streamed as OCR finishes <span class="tag">estimate</span></h2>
+ <div class="bar"><span>Download (overlapped)</span><div class="trk"><i style="left:0;width:8%;background:var(--dl)"></i></div><span>≈ 1.2 h</span></div>
+ <div class="bar"><span>OCR, 16 in flight</span><div class="trk"><i style="left:0;width:33%;background:var(--ocr)"></i><i style="left:33%;width:20%;background:var(--ocr);opacity:.55"></i><i style="left:53%;width:16%;background:var(--ocr);opacity:.25"></i></div><span>5–8 h</span></div>
+ <div class="bar"><span>Decisions (streamed)</span><div class="trk"><i style="left:0;width:53%;background:var(--dec);opacity:.5"></i></div><span>inside OCR</span></div>
+ <div class="bar"><span>Tail after last page</span><div class="trk"><i style="left:53%;width:1%;background:var(--cpu)"></i></div><span>≈ 2 min</span></div>
+ <div class="scale" style="margin-left:160px;margin-right:80px"><span>0 h</span><span>5</span><span>10</span><span>15 h</span></div>
+ <p class="note"><b>OCR.</b> Phase 1 shows about 40 s per page with one request at a time, which would be about 41 h for 3,700 pages. Running 16 together should give roughly 5–8×, so 0.125–0.2 pages per second, which is 5–8 h; at only 4× it is about 10 h (lighter bar). <b>Decisions.</b> Each finished OCR half is parsed and sent to the decider at once, and its rows are written to the Excel file straight away. At about 0.2 pages per second and 10 questions per page, that is about 2 requests per second against a measured 67 ms each, so the decider is busy about 13% of the time and never builds a queue. The run therefore ends about 2 minutes after the last OCR result. <b>Pilot.</b> The 10-page pilot replaces the 5–8× assumption with a measured number.</p>
+</section>
+
+<section class="box"><h2>Risks</h2>
+ <div class="tw"><table>
+  <tr><th>Risk</th><th>Handling</th></tr>
+  <tr><td>OCR speedup below 4×</td><td>Pilot measures it. Fallback: lower image resolution budget or run the 648 index pages last.</td></tr>
+  <tr><td>Out of memory with both models loaded</td><td>Lower Chandra to 12 in flight or util 0.68. Pages resume from their status markers.</td></tr>
+  <tr><td>Locked, 404 or missing pages</td><td>Logged and skipped, as with page 269 of book 12276. Reported at the end, never guessed.</td></tr>
+  <tr><td>Decider probabilities used as truth</td><td>Treated as ranking scores until checked against hand-corrected Pernegg rows. Low confidence or abstain goes to manual review.</td></tr>
+ </table></div>
+</section>
+</div>
+
+</body></html>

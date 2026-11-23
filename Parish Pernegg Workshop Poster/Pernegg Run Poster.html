@@ -1,0 +1,120 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Pernegg Run Poster</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;600&family=Fraunces:opsz,wght@9..144,600&display=swap">
+<style>
+/* Layout: results sheet. Top: headline numbers. Middle: books table + timeline. Bottom: GPU memory bar and two config tables (Chandra, Decider). */
+:root{--bg:#f4f5f2;--card:#fff;--fg:#1d2420;--mut:#5d6860;--line:#d5d9d2;--ocr:#2f6f5e;--dec:#b4572c;--cpu:#7a7f78;--warn:#b0861a;--bad:#a63d3d;
+--disp:"Fraunces",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#121613;--card:#1a201c;--fg:#e6eae4;--mut:#9aa59c;--line:#2e362f;--ocr:#58b59d;--dec:#e0925f;--cpu:#97a094;--warn:#e0b84d;--bad:#e07a7a;color-scheme:dark}}
+:root[data-theme=dark]{--bg:#121613;--card:#1a201c;--fg:#e6eae4;--mut:#9aa59c;--line:#2e362f;--ocr:#58b59d;--dec:#e0925f;--cpu:#97a094;--warn:#e0b84d;--bad:#e07a7a;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:14px/1.5 var(--body);padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px));padding-block:24px}
+.sheet{max-width:1180px;margin:0 auto;display:grid;gap:20px}
+h1{font:600 clamp(26px,4vw,40px)/1.1 var(--disp);margin:0;text-wrap:balance}
+h2{font:600 12px var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--mut);margin:0 0 10px}
+.sub{color:var(--mut);margin:6px 0 0;max-width:74ch}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:14px}
+.k{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:10px 12px}.k b{display:block;font:600 24px var(--mono);color:var(--ocr)}.k span{font-size:12px;color:var(--mut)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:16px;min-width:0}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
+@media(max-width:860px){.cols{grid-template-columns:minmax(0,1fr)}}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:600 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}td.m,th.m{font-family:var(--mono);text-align:right;white-space:nowrap}
+.tw{overflow-x:auto}
+.gpu{display:flex;height:46px;border:1px solid var(--line);border-radius:4px;overflow:hidden;font:600 11px var(--mono);color:#fff}
+.gpu div{display:grid;place-items:center;white-space:nowrap;overflow:hidden}
+.scale{display:flex;justify-content:space-between;font:11px var(--mono);color:var(--mut);margin-top:4px}
+.note{margin:12px 0 0;font-size:12px;color:var(--mut)}code{font:12px var(--mono);background:var(--bg);padding:1px 5px;border-radius:3px;overflow-wrap:anywhere}
+.ph{display:grid;grid-template-columns:150px minmax(0,1fr) 80px;gap:10px;align-items:center;margin:7px 0;font-size:13px}
+.trk{height:16px;background:var(--bg);border:1px solid var(--line);border-radius:3px;position:relative}.trk i{position:absolute;top:0;bottom:0;border-radius:2px}
+.ph span:last-child{font-family:var(--mono);text-align:right}
+.o{color:var(--ocr)}.d{color:var(--dec)}.bad{color:var(--bad)}
+</style>
+<div class="sheet">
+<header>
+ <h1>Pernegg 1900–1938: Chandra OCR 2 and Decider Flash on one A100</h1>
+ <p class="sub">All 9 registers in the Matricula filter are downloaded. Chandra OCR 2 read the 6 non-index books (1,296 images). Perplexity Decider Flash v1.2 checked every page type and every row, on the same GPU, at the same time. The 3 index books (243 images) are not read yet.</p>
+ <div class="kpis">
+  <div class="k"><b>1,296</b><span>images in 6 books (1,284 register pages; 12 covers and blanks skipped)</span></div>
+  <div class="k"><b>2,568</b><span>left/right halves, each one Chandra request</span></div>
+  <div class="k"><b>~2.8 h</b><span>total OCR wall time, 3 passes</span></div>
+  <div class="k"><b>~555 / h</b><span>pages per hour, 16 requests in flight</span></div>
+  <div class="k"><b>20,537</b><span>table rows in the final Excel files</span></div>
+  <div class="k"><b>39</b><span>halves still flagged (1.5%), down from 499 (19%)</span></div>
+ </div>
+</header>
+
+<section class="box"><h2>Books processed</h2>
+ <div class="tw"><table>
+  <tr><th>Signature</th><th>Book</th><th>Years</th><th class="m">Images</th><th class="m">Halves</th><th class="m">Rows</th><th class="m">Flagged first pass</th><th class="m">Flagged after re-OCR</th></tr>
+  <tr><td>11197</td><td>Trauungsbuch 6</td><td>1886–1921</td><td class="m">400</td><td class="m">796</td><td class="m">5,136</td><td class="m">38</td><td class="m">21</td></tr>
+  <tr><td>12287</td><td>Trauungsbuch 7</td><td>1921–1938</td><td class="m">171</td><td class="m">338</td><td class="m">2,971</td><td class="m">4</td><td class="m">2</td></tr>
+  <tr><td>8758</td><td>Sterbebuch 6</td><td>1894–1938</td><td class="m">200</td><td class="m">396</td><td class="m">2,517</td><td class="m">4</td><td class="m">0</td></tr>
+  <tr><td>12276</td><td>Taufbuch 8</td><td>1901–1924</td><td class="m">305</td><td class="m">606</td><td class="m">5,965</td><td class="m">291</td><td class="m">9</td></tr>
+  <tr><td>8708</td><td>Taufbuch 7</td><td>1882–1900</td><td class="m">202</td><td class="m">400</td><td class="m">3,685</td><td class="m">150</td><td class="m">7</td></tr>
+  <tr><td>6346-TB-09</td><td>Taufbuch 9</td><td>1925–1938</td><td class="m">18</td><td class="m">32</td><td class="m">263</td><td class="m">12</td><td class="m">0</td></tr>
+  <tr><td colspan="8" style="color:var(--mut)">Not read yet: index books 8762, 8766, 8769 (81 images each). Page 269 of 12276 is missing at the source.</td></tr>
+ </table></div>
+ <p class="note">Flagged means a half came back truncated, looping, or as text blocks instead of a table. The re-OCR forces Chandra to start with a table tag; it cleared 460 of the 499 flagged halves. Rows are table rows; one register entry is still split over several rows, and a merge step is not built yet.</p>
+</section>
+
+<section class="box"><h2>Re-OCR of the 499 flagged halves (19% of 2,568)</h2>
+ <div class="tw"><table>
+  <tr><th>Problem in the first pass</th><th class="m">Halves before</th><th class="m">Halves after</th></tr>
+  <tr><td>Text blocks instead of a table</td><td class="m">417</td><td class="m">0</td></tr>
+  <tr><td>Truncated at the 4,096-token cap</td><td class="m">91</td><td class="m">38</td></tr>
+  <tr><td>Empty-cell loops</td><td class="m">50</td><td class="m">24</td></tr>
+  <tr><td>Repeated rows</td><td class="m">7</td><td class="m">2</td></tr>
+  <tr><td><b>Halves with any of these</b></td><td class="m"><b>499</b></td><td class="m"><b>39 (1.5%)</b></td></tr>
+ </table></div>
+ <p class="note">A half can carry more than one flag, so the rows do not add up to the total. Method: the same Chandra server and the same prompt, but the answer is forced to begin with a table tag, so Chandra cannot return text blocks. Each half still gets one retry with a stricter prompt. Run: 487 halves in 25 min (19.4 halves/min, 581 pages/h), after a 12-half test; about 1.16 million output tokens. Table rows went from 17,369 to 20,537. Of the 39 still flagged, most are in marriage book 11197 (21) and need a smaller crop or manual review.</p>
+</section>
+
+<section class="box"><h2>Time, in order</h2>
+ <div class="ph"><span>1 · First pass</span><div class="trk"><i style="left:0;width:81%;background:var(--ocr)"></i></div><span>2.30 h</span></div>
+ <div class="ph"><span>2 · 26 failed halves</span><div class="trk"><i style="left:81%;width:1%;background:var(--warn)"></i></div><span>2 min</span></div>
+ <div class="ph"><span>3 · Re-OCR, 487 halves</span><div class="trk"><i style="left:82%;width:18%;background:var(--dec)"></i></div><span>25 min</span></div>
+ <p class="note">First pass: 16:54–19:12, 2,548 halves, 18.5 halves/min (555 pages/h), about 750 generated tokens/s. Re-OCR: 19.4 halves/min (581 pages/h). Every half where Chandra failed the first time got one retry inside its pass; 753 halves were retried. Total output: about 5.0 million tokens in the final files.</p>
+</section>
+
+<section class="box"><h2>GPU memory, A100 80 GB (vGPU profile A100D-80C, 81,920 MiB)</h2>
+ <div class="gpu"><div style="width:72.6%;background:var(--ocr)">Chandra 58.1 GiB</div><div style="width:18.6%;background:var(--dec)">Decider 14.9</div><div style="width:8.8%;background:var(--cpu)">free 7.0</div></div>
+ <div class="scale"><span>0</span><span>40</span><span>80 GiB</span></div>
+ <p class="note">Measured with both servers loaded and under load: 73.1 GiB in use (nvidia-smi: Chandra process 59,519 MiB, decider process 15,289 MiB).</p>
+</section>
+
+<div class="cols">
+<section class="box"><h2 class="o">Chandra OCR 2 (vLLM 0.33.0)</h2>
+ <div class="tw"><table>
+  <tr><td>Model</td><td><code>datalab-to/chandra-ocr-2</code>, bf16, 1 GPU</td></tr>
+  <tr><td>Requests in flight</td><td><b>16</b> (<code>--max-num-seqs 16</code>), one per image half</td></tr>
+  <tr><td>GPU memory setting</td><td><code>--gpu-memory-utilization 0.72</code> (57.6 GiB budget)</td></tr>
+  <tr><td>Weights</td><td>8.56 GiB</td></tr>
+  <tr><td>KV cache</td><td><b>45.05 GiB = 1,327,341 tokens</b>, enough for 40.5 requests of 32,768 tokens</td></tr>
+  <tr><td>KV cache used</td><td>peak 9.9% with 16 in flight; the limit of 16 comes from <code>--max-num-seqs</code>, not from memory</td></tr>
+  <tr><td>Other</td><td>1.71 GiB peak activations, 0.06 GiB CUDA graphs (sizes up to 32)</td></tr>
+  <tr><td>Context</td><td><code>--max-model-len 32768</code>, 1 image per request, prefix caching and chunked prefill on</td></tr>
+  <tr><td>Per request</td><td>one JPEG half (about 2,047 × 3,362 px, lossless split), <code>max_tokens 4096</code>, temperature 0.1</td></tr>
+  <tr><td>Retry</td><td>one retry for truncated, looping or non-table output (repetition penalty 1.05, table tag forced)</td></tr>
+  <tr><td>Start-up</td><td>engine init 139 s (torch.compile 24 s)</td></tr>
+ </table></div>
+</section>
+<section class="box"><h2 class="d">Decision model: Perplexity Decider Flash v1.2</h2>
+ <div class="tw"><table>
+  <tr><td>Model</td><td><code>perplexity-ai/pplx-decider-flash-v1.2</code>, 4B (Qwen3.5-4B base), bf16</td></tr>
+  <tr><td>Chosen over</td><td>the 27B Decider and the other candidates, because speed matters more here; no benchmark was run, by your instruction</td></tr>
+  <tr><td>Weights</td><td>8.6 GiB; 14.9 GiB in use with activations</td></tr>
+  <tr><td>Serving</td><td>own FastAPI service on 127.0.0.1:8020, reference path (not the fast path), one lock, up to 64 requests per call</td></tr>
+  <tr><td>Questions</td><td>one question per request (the model card's safer default)</td></tr>
+  <tr><td>Per half</td><td>1 page-type choice (baptism / marriage / death / other) and 1 yes/no filler question per row</td></tr>
+  <tr><td>Calibration</td><td>stored temperature 1.554; a row scoring above 0.5 goes to the review list</td></tr>
+  <tr><td>Volume</td><td>about 23,000 requests for the final files, 67 ms each when measured on the pilot</td></tr>
+  <tr><td>GPU share</td><td>runs alongside Chandra with no queue; it is not the bottleneck</td></tr>
+  <tr><td>Result</td><td>page type agreed with the book on 2,136 of 2,140 halves</td></tr>
+ </table></div>
+ <p class="note">Limit found: it flags fragments of one entry as filler, and it missed one invented row (dates in 2007 in a 1908 book, score 0.49). Its probabilities are ranking scores, not proof.</p>
+</section>
+</div>
+</div>
+
+</body></html>

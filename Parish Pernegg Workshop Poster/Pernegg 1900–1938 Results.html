@@ -1,0 +1,92 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Pernegg 1900–1938 Results</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;600&family=Fraunces:opsz,wght@9..144,600&display=swap">
+<style>
+/* Layout: one results sheet: headline numbers, per-book table with bars, Excel anatomy, findings, next steps. */
+:root{--bg:#f4f5f2;--card:#fff;--fg:#1d2420;--mut:#5d6860;--line:#d5d9d2;--ocr:#2f6f5e;--dec:#b4572c;--dl:#3d5a98;--warn:#b0861a;--bad:#a63d3d;
+--disp:"Fraunces",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#121613;--card:#1a201c;--fg:#e6eae4;--mut:#9aa59c;--line:#2e362f;--ocr:#58b59d;--dec:#e0925f;--dl:#8fa9e0;--warn:#e0b84d;--bad:#e07a7a;color-scheme:dark}}
+:root[data-theme=dark]{--bg:#121613;--card:#1a201c;--fg:#e6eae4;--mut:#9aa59c;--line:#2e362f;--ocr:#58b59d;--dec:#e0925f;--dl:#8fa9e0;--warn:#e0b84d;--bad:#e07a7a;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:14px/1.5 var(--body);padding-inline:max(16px,env(safe-area-inset-left,0px)) max(16px,env(safe-area-inset-right,0px));padding-block:24px}
+.sheet{max-width:1180px;margin:0 auto;display:grid;gap:20px}
+h1{font:600 clamp(26px,4vw,40px)/1.1 var(--disp);margin:0;text-wrap:balance}
+h2{font:600 12px var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--mut);margin:0 0 10px}
+.sub{color:var(--mut);margin:6px 0 0;max-width:72ch}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:14px}
+.k{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:10px 12px}.k b{display:block;font:600 24px var(--mono);color:var(--ocr)}.k span{font-size:12px;color:var(--mut)}
+.k.w b{color:var(--warn)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:16px;min-width:0}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
+@media(max-width:860px){.cols{grid-template-columns:minmax(0,1fr)}}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:600 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}td.m{font-family:var(--mono);white-space:nowrap;text-align:right}th.m{text-align:right}
+.tw{overflow-x:auto}
+.trk{display:flex;height:12px;min-width:90px;background:var(--bg);border:1px solid var(--line);border-radius:3px;overflow:hidden}.trk i{display:block;height:100%}
+.g{background:var(--ocr)}.r{background:var(--bad)}
+.note{margin:12px 0 0;font-size:12px;color:var(--mut)}
+code{font:12px var(--mono);background:var(--bg);padding:1px 5px;border-radius:3px;word-break:break-all}
+.cell{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;font:12px var(--mono);border:1px solid var(--line);border-radius:4px;overflow:hidden;margin-top:8px}
+.cell div{padding:6px 8px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);min-width:0;overflow-wrap:anywhere}.cell .h{background:var(--bg);color:var(--mut);font-weight:600}
+.tag{font:600 11px var(--mono);color:var(--warn)}ul{margin:0;padding-left:18px;display:grid;gap:6px}
+</style>
+<div class="sheet">
+<header>
+ <h1>Pernegg 1900–1938: what the OCR run gave us</h1>
+ <p class="sub">All 9 registers in the Matricula filter are on disk. Chandra OCR 2 read the 6 non-index books, and Decider Flash v1.2 checked every row as it arrived. The 3 index books are not read yet.</p>
+ <div class="kpis">
+  <div class="k"><b>1,284</b><span>pages read (1,296 images, 12 covers and blanks skipped)</span></div>
+  <div class="k"><b>2,568</b><span>left/right halves, 0 failed after the rerun</span></div>
+  <div class="k"><b>17,369</b><span>register rows in tables</span></div>
+  <div class="k"><b>2.3 h</b><span>OCR wall time, about 555 pages/h</span></div>
+  <div class="k w"><b>499</b><span>halves (19%) need re-OCR or review</span></div>
+ </div>
+</header>
+
+<section class="box"><h2>Books processed (non-index)</h2>
+ <div class="tw"><table>
+  <tr><th>Signature</th><th>Book</th><th>Years</th><th class="m">Pages</th><th class="m">Table rows</th><th>Halves clean / need review</th><th class="m">Review</th></tr>
+  <tr><td class="m" style="text-align:left">11197</td><td>Trauungsbuch 6</td><td>1886–1921</td><td class="m">400</td><td class="m">5,099</td><td><div class="trk"><i class="g" style="width:95%"></i><i class="r" style="width:5%"></i></div></td><td class="m">38</td></tr>
+  <tr><td class="m" style="text-align:left">12287</td><td>Trauungsbuch 7</td><td>1921–1938</td><td class="m">171</td><td class="m">2,956</td><td><div class="trk"><i class="g" style="width:99%"></i><i class="r" style="width:1%"></i></div></td><td class="m">4</td></tr>
+  <tr><td class="m" style="text-align:left">8758</td><td>Sterbebuch 6</td><td>1894–1938</td><td class="m">200</td><td class="m">2,567</td><td><div class="trk"><i class="g" style="width:99%"></i><i class="r" style="width:1%"></i></div></td><td class="m">4</td></tr>
+  <tr><td class="m" style="text-align:left">12276</td><td>Taufbuch 8</td><td>1901–1924</td><td class="m">305</td><td class="m">3,931</td><td><div class="trk"><i class="g" style="width:52%"></i><i class="r" style="width:48%"></i></div></td><td class="m">291</td></tr>
+  <tr><td class="m" style="text-align:left">8708</td><td>Taufbuch 7</td><td>1882–1900</td><td class="m">202</td><td class="m">2,613</td><td><div class="trk"><i class="g" style="width:62%"></i><i class="r" style="width:38%"></i></div></td><td class="m">150</td></tr>
+  <tr><td class="m" style="text-align:left">6346-TB-09</td><td>Taufbuch 9</td><td>1925–1938</td><td class="m">18</td><td class="m">203</td><td><div class="trk"><i class="g" style="width:63%"></i><i class="r" style="width:37%"></i></div></td><td class="m">12</td></tr>
+ </table></div>
+ <p class="note">Left out: index books 8762, 8766, 8769 (81 images each, 243 in all), not run yet. Pages are image counts. Page 269 of book 12276 is missing at the source.</p>
+</section>
+
+<div class="cols">
+<section class="box"><h2>What we learned</h2>
+ <ul>
+  <li><b>Marriage and death books read well.</b> 11197, 12287 and 8758 are 95–99% clean. Across all books the decider agreed with the book type on 2,136 of 2,140 halves it classified.</li>
+  <li><b>Baptism books are the problem.</b> 12276, 8708 and 6346-TB-09 account for 453 of the 499 review halves. Their wide tables often come back as text blocks (417 halves) instead of a table, so those rows are not split into columns yet.</li>
+  <li><b>The decider flags 5,115 of 17,369 rows (29%) as likely filler.</b> It catches blank and dotted lines. It does not catch invented text: one 12276 row (book year 1908) has dates in 1937 and 2007 and scored only 0.49.</li>
+  <li><b>Retries help.</b> 753 halves were retried once; the 26 that failed on a file-write race are fixed.</li>
+  <li><b>The "ragged columns" flag is noisy</b> (about a third of halves). Header cells are merged, so it is a note, not an error.</li>
+ </ul>
+</section>
+<section class="box"><h2>What the Excel output looks like</h2>
+ <p style="margin:0 0 6px">One file per half page: <code>/home/ubuntu/matricula/pipeline/xlsx/&lt;book&gt;/page_NNNN_L.xlsx</code> (and <code>_R</code>).</p>
+ <div class="cell">
+  <div class="h">row 1</div><div class="h">book · page · side · label</div><div class="h">page type (model, confidence)</div><div class="h">issues</div>
+  <div>header</div><div>Post-Nr.</div><div>Jahr 1908</div><div>Ort · Haus-Nr. · Namen …</div>
+  <div class="h">p_filler</div><div class="h">review</div><div class="h" style="grid-column:span 2">columns as read</div>
+  <div>0.10</div><div></div><div>16</div><div>April 12. 13. … Uhr früh …</div>
+ </div>
+ <p class="note">Review sheet: <code>pipeline/review/review_list_consolidated.xlsx</code>, two tabs. <b>half-page issues</b> lists 502 halves that are truncated, looping, in layout form or typed differently. <b>filler rows p&gt;0.5</b> lists 5,115 rows. Raw log: <code>review_list.csv</code>.</p>
+ <p class="note"><b>Your earlier run</b> (<code>SoDa …/Pernegg Parish yearbook xlsx/oesterreich_graz-seckau_Pernegg_&lt;sig&gt;/Seite N.xlsx</code>) is xlsx only, no CSV. For these 6 books it holds 19–48 files each (11197: 19, 12276: 42, 12287: 37, 8708: 39, 8758: 48), so it covers a sample of pages. The new run covers every page and adds the metadata row, p_filler and review columns.</p>
+</section>
+</div>
+
+<section class="box"><h2>Next, for the OCR treatment <span class="tag">proposal</span></h2>
+ <ul>
+  <li>Re-OCR the 417 layout-block halves, starting with the 3 baptism books, with a table-forcing prompt or a tighter crop at higher resolution.</li>
+  <li>Re-run the 91 truncated and 57 looping halves in smaller slices (top and bottom of each half).</li>
+  <li>Add a date-range check per book (for example, year 2007 in a 1901–1924 book) so invented rows land in the review list; the decider alone missed them.</li>
+  <li>Run the 3 index books (243 images), then merge all halves into one workbook per book.</li>
+ </ul>
+</section>
+</div>
+
+</body></html>
