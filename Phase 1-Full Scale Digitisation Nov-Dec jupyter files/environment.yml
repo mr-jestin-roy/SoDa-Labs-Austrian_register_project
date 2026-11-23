@@ -1,0 +1,50 @@
+name: nectar-ocr
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python version
+  - python=3.11
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - pillow
+
+  # PyTorch with CUDA (for GPU inference)
+  - pytorch>=2.1.0
+  - torchvision
+  - pytorch-cuda=12.1
+
+  # Jupyter support
+  - jupyterlab
+  - ipykernel
+
+  # Pip dependencies
+  - pip
+  - pip:
+    # HTML/Excel processing
+    - beautifulsoup4>=4.12.0
+    - openpyxl>=3.1.0
+    - lxml
+
+    # HTTP requests (for vLLM API)
+    - requests>=2.31.0
+
+    # Chandra OCR + Surya Layout Detection
+    - chandra-ocr
+    - surya-ocr
+
+    # vLLM for serving (requires NVIDIA GPU)
+    - vllm>=0.6.1
+
+    # Transformers & Accelerate
+    - transformers>=4.37.0
+    - accelerate
+
+    # Flash Attention (optional, for A100/H100 GPUs)
+    # Uncomment if on compatible hardware:
+    # - flash-attn --no-build-isolation
