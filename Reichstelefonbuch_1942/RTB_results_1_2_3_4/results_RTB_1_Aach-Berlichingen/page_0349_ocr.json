@@ -1,0 +1,604 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 12 998 875\" data-label=\"List-Group\">\n<p>\n    278 Heinemann, Wilh., Schlossermeister.<br/>\n    321 Hirt, Franz, Sattlerei<br/>\n    235 Hotel Irma, Bes. Max Kienze.<br/>\n    201 Hotel Kreuz, Parkhotel, E. Müller<br/>\n    306 Huber, Dr. Georg, Badearzt, Luisenstr. 18<br/>\n    219 Huber, Dr., Maria, Ärztin<br/>\n    313 Hug, Friedrich, Polsterei, Hochemmingen<br/>\n    252 Hug, Otto, Landesprodukte, Hofstraße 57<br/>\n    313 Hug, Knipp, Lebensm., Hochemmingen<br/>\n    228 Iselö, Josef, Glasermeister<br/>\n    230 Jüdisches Kindererholungsheim<br/>\n    205 Kaffee Kurgarten, Frz. Xav. Fischerkeller<br/>\n    242 Kaffee Strandkaffee, Franz Reich<br/>\n    249 Kaffee Waldkaffee, A. Fischer<br/>\n    261 Kaffee K. Walz, Konditorei, Fremdenzimmer<br/>\n    240 Kaiser, A., Dentist<br/>\n    342 Kaiser, Bernhard, Polstergest., Adlerstr. 6<br/>\n<b>210 Karolushaus G. m. b. H.</b><br/>\n<b>Bad Dürheim (Schwarzwald)</b>\n</p>\n</div>\n<div data-bbox=\"242 875 891 964\" data-label=\"List-Group\">\n<p>\n    280 Kath. Pfarramt.<br/>\n    330 Killius, Ernst, Dentist, Bahnhofstr. 5\n  </p>\n</div>\n<div data-bbox=\"242 964 998 993\" data-label=\"Text\">\n<p><b>000 Wiederkontakt zu den Nummern Daten K...</b></p>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "200 Kurverwaltung Bad Dürreheim",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"310 0 670 22\" data-label=\"Page-Header\">\n<p>RAUENGLADDER KRAIS</p>\n</div>\n<div data-bbox=\"232 25 994 976\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>216 Leichtweiss, Dr. F., Direktor, Hitlerstr. 11</li>\n<li>276 Linser, Kinderparadies, Sonnenstr.</li>\n<li>226 Löhmann, Paul, Kolonialwr.</li>\n<li>300 Maier, M., Autovermiet., Donauesching.Str.</li>\n<li>314 Mayer, Val., Kol.-W., Rob.WagnerStr. 6</li>\n<li>217 Meßmer, S., zum Sternen, Metzgerei.</li>\n<li>283 Metzger, Josef, Kaufmann</li>\n<li>294 Miersmer, Albert, Pension, Hofstr. 9</li>\n<li>308 Müller, Herm., Schrauben, Scheffelstr. 16</li>\n<li>244 Mann, Balth., Gipsermeister</li>\n<li>224 Privatärztl. Verrechnungsstelle, Luisenstr. 40</li>\n<li>277 Privatkindenheim Kupfer, Villa Agnes</li>\n<li>255 Rauh, Karl, Schreinermeister, Friedenstr. 2</li>\n<li>245 Rebholz, Franz, Fremdenheim, Viktoriastr. 9</li>\n<li>318 Rebholz, Joh., Salzhändler</li>\n<li>301 Rebholz, Konrad, Manufakturwaren</li>\n<li>262 Reich, Adolf, Autorepar.-Werkstätte</li>\n<li>227 Reich, Karl, Landesprodukte.</li>\n<li>207 Reichsbahn, Bahnhof</li>\n<li>329 Reichspost, Postamt</li>\n</ul>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 10 994 968\" data-label=\"List-Group\"><ul><li>241 Schäfer, Jos., Gartenbau, Ludwigstr.</li><li>322 Schleicher, Fritz, Blechner</li><li>222 Schwarzw. Brennstoffhandel.</li><li>282 Sieger, Karl, Baugeschäft, Scheffelstr. 51</li><li>269 Spar- u. Darlehnskasse, e. G. m. b. H.</li><li>277 Spezialwerk Thost-Feuerungsanl., Ing. Kupfer</li><li>248 Stark, Anton, Sportstiefel, Bahnhofstr. 5</li><li>336 Stark, August, Inspektor, Friedrichstr. 68</li><li>281 Stark, Franz J., Schuhgeschäft</li><li>229 Stöckle, Christian, Vertr., Ludwigstr. 28</li><li>302 Storz, Obst u. Gemüse</li><li>203 Vereinigte Bad. Staatssalinen A.-G.</li><li>343 Zeiträg, Wilhelm, Friseur</li></ul></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"229 204 731 779\" data-label=\"Text\"><p><b>Bad Einöd</b> <sup>siehe</sup><br/><b>wildbad Einöd</b></p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Bad Elster (sachsen)",
+        "entries": [
+          {
+            "extension": "455",
+            "text": "Adler, H., Orthopädie, Heimdall, Forststr."
+          },
+          {
+            "extension": "362",
+            "text": "Agnesruh, Kurheim, Herm. Ruderisch"
+          },
+          {
+            "extension": "212",
+            "text": "A. G. Sächsische Werke, Betriebsdienststelle"
+          },
+          {
+            "extension": "213",
+            "text": "Dies., Betriebsdienstst. Raunerhammer"
+          },
+          {
+            "extension": "317",
+            "text": "Aida, Fremdenheim, Edwin Schott"
+          },
+          {
+            "extension": "422",
+            "text": "Albrechtshof, Kurheim d. Landesversich."
+          },
+          {
+            "extension": "309",
+            "text": "Allgemeine Deutsche Credit-Anstalt, ZweigstelleBad Elster, Bad Elster, Badstr. 8"
+          },
+          {
+            "extension": "260",
+            "text": "Allg. Zeitung u. Tageblatt"
+          },
+          {
+            "extension": "(449)",
+            "text": "Alpenrose, staatl. Kurheim"
+          },
+          {
+            "extension": "467",
+            "text": "Annenhof, Kurheim, Geschw. Maltzahn"
+          },
+          {
+            "extension": "417",
+            "text": "Anzeiger f. Bad Elster, Amtsblatt"
+          },
+          {
+            "extension": "404",
+            "text": "Apollo, Fremdenheim, Frau Ww. Schmieder"
+          },
+          {
+            "extension": "233",
+            "text": "Apotheke, Walter Claußen, Heinkstr."
+          },
+          {
+            "extension": "477",
+            "text": "Autodroschkenhalteplatz am Kurhaus"
+          },
+          {
+            "extension": "432",
+            "text": "Bad Brambacher Möbelfbr., Zweigwerk Mühl-hausen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"223 0 987 964\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>Nr.</td>\n<td rowspan=\"2\">} Moor-, Koniensaure-, Mineral- u. Kadiumbad.<br/>T Badedirektion P Leipzig 13509</td>\n</tr>\n<tr>\n<td>241</td>\n</tr>\n<tr>\n<td>393</td>\n<td>Baldur Jugendheim</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Barbarossa Fremdenheim</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Barsleck, Dr. med., Badearzt, Sachsenhof</td>\n</tr>\n<tr>\n<td>337</td>\n<td>Bauer, Franz, Zigarren, Haus Parzival</td>\n</tr>\n<tr>\n<td>457</td>\n<td>Bauer, Gust., Bäckerei, Ob. Mühle.</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Bauer, Paul, Wäschegeschäft</td>\n</tr>\n<tr>\n<td>458</td>\n<td>Beck, Mich., Fuhrgesch., Straße der SA.</td>\n</tr>\n<tr>\n<td>357</td>\n<td>Bergfried, Inh. Lucie Krüger</td>\n</tr>\n<tr>\n<td>405</td>\n<td>Bethlehemstift, Kinderheim, Ascher Str. 4</td>\n</tr>\n<tr>\n<td>450</td>\n<td>Betula, Kurpension, Dir. Scabell</td>\n</tr>\n<tr>\n<td>239</td>\n<td>Borsutzky, Dr. med., Haus Marienbrunnen.</td>\n</tr>\n<tr>\n<td>416</td>\n<td>Buchta, Otto, Baumstr., M.-Höra-Str. 74</td>\n</tr>\n<tr>\n<td>249</td>\n<td>Bürgermeister</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Dachsel, W., gepr. Masseur, Kurhauspl.</td>\n</tr>\n<tr>\n<td>294</td>\n<td>Daheim, Wettinerallee</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Damm, Walter, Kunstmaler, Reutherweg</td>\n</tr>\n<tr>\n<td>387</td>\n<td>Ebersbach, Frau Ww., Kurheim Urania.</td>\n</tr>\n<tr>\n<td>323</td>\n<td>Eckardt, Dr. Heinz, Arzt, Straße der SA. 14</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"978 842 992 940\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 11 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>433</td>\n<td>Eckardt, W., Schmiederei, Mühlhausen</td>\n</tr>\n<tr>\n<td>270</td>\n<td>Eitel, Fritz, Photohaus Kurländer-Haus</td>\n</tr>\n<tr>\n<td>493</td>\n<td>E. L. G.-Heim, Ascherstr. 2g</td>\n</tr>\n<tr>\n<td>291</td>\n<td>Elisabeth, Kurheim, Ella. Zeh</td>\n</tr>\n<tr>\n<td>253</td>\n<td>Engelhard-v. Reding, Dr., Ärztin, Straße d. SA</td>\n</tr>\n<tr>\n<td>472</td>\n<td>Engelhardt, Bruno, Haus Kronprinz.</td>\n</tr>\n<tr>\n<td>486</td>\n<td>Erholung, Fremdenheim, Ludendorffstr.</td>\n</tr>\n<tr>\n<td>439</td>\n<td>Evang. Vogtl. Jungmädchenheim, Sohl.</td>\n</tr>\n<tr>\n<td>276</td>\n<td>Fauser, Else, Fremdenheim</td>\n</tr>\n<tr>\n<td>391</td>\n<td>Fischer, Herm., Konditorei, Haus Lohengrin</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Fleißner, Alwin, Haus Roseneck, Roßb. Str.</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Förster, Joh., Steuerhelfer, Sonnenh. Brig.</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Förster, Julius, Fremdenheim, Ludendorffstr</td>\n</tr>\n<tr>\n<td>232</td>\n<td>Forstamt Adorf, staatl. Zweigst., Forststr.</td>\n</tr>\n<tr>\n<td>389</td>\n<td>Forstwartei, staatl., Heißenstein</td>\n</tr>\n<tr>\n<td>390</td>\n<td>Forstwartei, staatl., Kessel</td>\n</tr>\n<tr>\n<td>410</td>\n<td>Forsthauschänke, Jos. Hufnagl</td>\n</tr>\n<tr>\n<td>358</td>\n<td>Frankenhäuser, Dr., Zahnarzt, Haus Enders</td>\n</tr>\n<tr>\n<td>381</td>\n<td>Fremdenheim Abbazia</td>\n</tr>\n<tr>\n<td>322</td>\n<td>Fridericus Fremdenheim, Max Thierfelder</td>\n</tr>\n<tr>\n<td>256</td>\n<td>Friedrich-August-Heim</td>\n</tr>\n<tr>\n<td>450</td>\n<td>Windisch Anita Thierfelder</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>285</td>\n<td>Friedrich, Max, Haus Neustadt, Badstr.</td>\n</tr>\n<tr>\n<td>336</td>\n<td>Fürstenhof, Kurpension</td>\n</tr>\n<tr>\n<td>326</td>\n<td>Gampe, Haus U. d. Linden, Ludendorffstr. 118</td>\n</tr>\n<tr>\n<td>264</td>\n<td>Gasthof Bärenloh</td>\n</tr>\n<tr>\n<td>355</td>\n<td>Gasthof Elstertal, Elsterstr.</td>\n</tr>\n<tr>\n<td>434</td>\n<td>Gasthof zur Krone, Sohl, A. Piesendel</td>\n</tr>\n<tr>\n<td>429</td>\n<td>Gasthof Mühldorf, O. Sörgel</td>\n</tr>\n<tr>\n<td>386</td>\n<td>Gasthof Sohler Sauerbrunnen.</td>\n</tr>\n<tr>\n<td>275</td>\n<td>Gasthof Waidmannshöhe, O. Glässel, Reuth</td>\n</tr>\n<tr>\n<td>259</td>\n<td>Gasthof Wilhelmshöhe, Bes. B. verw. Wendler</td>\n</tr>\n<tr>\n<td>266</td>\n<td>Gaststätte Toskana, Max-Höra-Straße</td>\n</tr>\n<tr>\n<td>217</td>\n<td>Gasversorgung Obervogtl. GmbH, Install.-Abt.</td>\n</tr>\n<tr>\n<td>321</td>\n<td>Gehler, Walter, Friseur, Sachsenhof</td>\n</tr>\n<tr>\n<td>426</td>\n<td>Geigenmüller, J., Weißwr., Kolonnade 5</td>\n</tr>\n<tr>\n<td>339</td>\n<td>Geilsdorf, Ernst, Obst, Haus Maiglöckchen</td>\n</tr>\n<tr>\n<td>211</td>\n<td>Gemeindeverwaltung Mühldorf (Vogtl.)</td>\n</tr>\n<tr>\n<td>230</td>\n<td>Gemeindeverwaltung Sohl (Vogtl.)</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Gendarmerie-Abteilung, Waldsiedlung 80</td>\n</tr>\n<tr>\n<td>254</td>\n<td>Gendarmerie-Posten</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Gepäckabfertigung Bad Elster-Stadt</td>\n</tr>\n<tr>\n<td>249</td>\n<td><b>Girokasse (städtische), Bad Elster</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Text\"><p>382 Heimburg, Fremdenheim, L. u. J. Fischer<br/>393 Heimdall e.V., Ärztlich geleitete Sonnen-Licht-<br/>heilstätte für Kinder für natürliche Heilweise<br/>u. Orthopädie, Bad Elster<br/>312 Heinrich, Paul, Architektur, Haus Heinrich.<br/>489 Heißensteinener Hof<br/>268 Helene, Fremdenheim, Bes. H. Moshack<br/>219 Helm, Dr. F., Arzt, Stadt Dresden<br/>252 Hermann, Dr. C., Arzt, Ludendorffstr. 94<br/>349 Heygendorf, Kurheim, Ludendorffstr. 94<br/>360 Heyne, Ad., Schäfereldir., Haus Carola<br/>220 Hildebrandt, Dr. med., Wettiner Allee<br/>311 Hilf, Herm., Kfm., Königstr. 114<br/>462 Hilf, Maria, Haus Cäcilie, Heinkstr. 98<br/>372 Höra, Johanna, Haus Höra, Max-HöraStr.<br/>411 Höra, Johannes, Architekt<br/>410 Höra, Max, Inh. Baumstr. Otto Buchta, Bau-<br/>geschäft, Baustoffe, Max-Höra-Str. 74 y<br/>364 Hofmann, Ernst, Tapezier, Haus Hohenzollern<br/>452 Horn, Jos., Autoverm., Haus Zedtwitz<br/>202 Hotel Deutsches Haus Emil Zoitler</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 978\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>301</th>\n<th>ADAMS DITTMANN III., MUNICH.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>385</td>\n<td>Geschw. Kanitz, Frl., Kurh. Eldorado</td>\n</tr>\n<tr>\n<td>478</td>\n<td>Karlsruhe, Kurheim, Parkstr. 89b</td>\n</tr>\n<tr>\n<td>265</td>\n<td>Kentsch, Else, Gymn.Lehr., Wettiner Allee</td>\n</tr>\n<tr>\n<td>272</td>\n<td>Kirchenbehörden: evang.-luth. Pfarramt</td>\n</tr>\n<tr>\n<td>427</td>\n<td>Kirchhof, Arn., Kohlen, Max-Höra-Str. 74</td>\n</tr>\n<tr>\n<td>485</td>\n<td>v. Kittlitz, Frl., Dr. med., Haus Eldorado.</td>\n</tr>\n<tr>\n<td>308</td>\n<td>Kleinhempel, Otto, Blumenhalle</td>\n</tr>\n<tr>\n<td>470</td>\n<td>Klier, Ed., Bäckermstr., Haus Veronika.</td>\n</tr>\n<tr>\n<td>228</td>\n<td><b>Klinik Dr. med. Königsdörffer, Facharzt für Chirurgie, Haus Louise, Wettiner Allee</b></td>\n</tr>\n<tr>\n<td>494</td>\n<td>Knösel, Dr., Tierarzt, Beuthstr. 84</td>\n</tr>\n<tr>\n<td>310</td>\n<td>Knothe, Herm. R. O., Kunstmaler, Str. d. SA. 1</td>\n</tr>\n<tr>\n<td>344</td>\n<td rowspan=\"2\"><b>Dr. Köhlers Sanatorium Bad Elster, drei leitende Fachärzte</b></td>\n</tr>\n<tr>\n<td>345</td>\n</tr>\n<tr>\n<td>328</td>\n<td>Köhler-Tietze, Photograph, Haus Tietze</td>\n</tr>\n<tr>\n<td>228</td>\n<td><b>Königsdörffer, Dr. med. s. Klinik</b></td>\n</tr>\n<tr>\n<td>441</td>\n<td>Körner, Robert, Lebensm., Sohl, Adolf-Hitler-Straße 85</td>\n</tr>\n<tr>\n<td>378</td>\n<td>Korndörffer, Ernst, Sped., Straße der SA. 50</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 821 998 942\" data-label=\"Text\"><p><b>Stadt Dürreheim: Heinemann — Ba</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"24 11 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>415</td>\n<td>Krämer, Heinr., Malermstr., Roßb. Str. 81</td>\n</tr>\n<tr>\n<td>229</td>\n<td>Kraftverkehr Sachsen, A.-G., Gepäckbeförd.</td>\n</tr>\n<tr>\n<td>376</td>\n<td>Krauß, Otto, Zimmermstr., Ascher Str.</td>\n</tr>\n<tr>\n<td>464</td>\n<td>Kretzschmann, P. W., Lebensmittel</td>\n</tr>\n<tr>\n<td>480</td>\n<td>Künzel, Ernst, Gartenbau, Waldsiedlung</td>\n</tr>\n<tr>\n<td>454</td>\n<td>Künzel, Herm., Bücherrev., Reuther Weg 81</td>\n</tr>\n<tr>\n<td>474</td>\n<td>Künzel, Rob., Kol.-W., Haus Elsterveilchen</td>\n</tr>\n<tr>\n<td>492</td>\n<td>Kunze, Dr. Liselotte, Ärztin, Str. d. SA.</td>\n</tr>\n<tr>\n<td>442</td>\n<td>Kurhaus-Hotel, Staatliches —</td>\n</tr>\n<tr>\n<td>250</td>\n<td>Kurheim Reichsbahn, Endergstr.</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Kurhotel Fremdenhof</td>\n</tr>\n<tr>\n<td>352</td>\n<td>Kurländer-Haus, Kurheim, Ludendorffstr.</td>\n</tr>\n<tr>\n<td>234</td>\n<td>Kurlazarett, Roßbacherstr.</td>\n</tr>\n<tr>\n<td>482</td>\n<td>Kurlichtspiele</td>\n</tr>\n<tr>\n<td>481</td>\n<td>Kurortklimakreisstelle Bad Elster</td>\n</tr>\n<tr>\n<td>478</td>\n<td>Kurth, W., Schuldirl., Parkstr. 89</td>\n</tr>\n<tr>\n<td>388</td>\n<td>Kurtheater Bad Elster.</td>\n</tr>\n<tr>\n<td>363</td>\n<td>Landesversich. Anstalt Sachsen, Kurheim<br/>Heiterer Blick</td>\n</tr>\n<tr>\n<td>236</td>\n<td>Leidner, Dr., Arzt, Haus Apollo.</td>\n</tr>\n<tr>\n<td>469</td>\n<td>Liebers, Ernst, Autoverm., Ascherstr.</td>\n</tr>\n<tr>\n<td>059</td>\n<td>Lindau, Hans, Damm 4 D Hans Lindau</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Text\"><p>373 Ludwig, Kurt, Tabakwarengroßhandlung, Bad<br/>Elster, Hotel Wettiner Hof<br/>481 Luftfahrt Bioklimatische Forschungsstelle<br/>436 Malsch's Erben, Haus Bauer<br/>271 Margit, Fremdenheim, Roßbacher Str.<br/>361 Martin, Frieda, Bierhandlg.<br/>367 Maschauer, G. O., Fremdenheim, Ludend. Str.<br/>298 Melchior, Margarete, Erwin Schillerstr.<br/>269 Merkel, Erich, Haus Marie, Beuthstr. 84<br/>282 Merz, Fremdenheim, Bes. Walter Pastor<br/>498 Mönnich, Paul, Friseur, Ludendorffstr. 95<br/>320 Möschler, Fr., elektrot. Gesch., Haus Minerva<br/>302 Müller, Albin, Bäckerei, Obersohl Nr. 12<br/>359 Müller, Edmund, Kohlen<br/>491 Müller, Otto, Kohlen, Obersohl<br/>444 NSDAP., Ortsgr. Bad Elster<br/>440 Dies., NSV.-Mütterheim<br/>448 Dieselbe, SA.-Sturmbann 1/241<br/>444 Dieselbe, Ortsverwaltung der DAF.<br/>260 Nuhr, C. O., Buchdruckerei<br/>371 Obst, Max, Friseur, Offiziersheim.</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 975\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>101</th>\n<th>WUOLINGEN, BUNN, WUOLINGEN, WUOLINGEN</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>351</td>\n<td>Offiziersgenesungsheim, Haus Sachscengrün</td>\n</tr>\n<tr>\n<td>350</td>\n<td>Ortskrankenkassc, Straße der SA. 22</td>\n</tr>\n<tr>\n<td>489</td>\n<td>Otto, Herm., Fremdenheim, Heißensteiner Hof</td>\n</tr>\n<tr>\n<td>466</td>\n<td>Pastor, Willi, Droschkenhalter, Reuthorw. 5</td>\n</tr>\n<tr>\n<td>243</td>\n<td>Paul, Oberreg.-Rat, Direktor, Elstermühle</td>\n</tr>\n<tr>\n<td>324</td>\n<td>Peldschus, Gertrud, Haus Stolzenfels</td>\n</tr>\n<tr>\n<td>377</td>\n<td>Peter, Else, Milchprodukte, Stadt Dresden</td>\n</tr>\n<tr>\n<td>218</td>\n<td>Peter, G., Dr. med., Haus Moltke</td>\n</tr>\n<tr>\n<td>380</td>\n<td>Plagemann, Siegfr., Dr., Zahnarzt, Wettinerallee</td>\n</tr>\n<tr>\n<td>294</td>\n<td>Plagemann, Wilh., Dekor.-Maler, Wett.-Allee</td>\n</tr>\n<tr>\n<td>374</td>\n<td>Preyer, Haus Preyer</td>\n</tr>\n<tr>\n<td>411</td>\n<td>Prinz-Georg, Fremdenheim</td>\n</tr>\n<tr>\n<td>322</td>\n<td>Prinz von Preußen, Kurheim, M. Thierfelder</td>\n</tr>\n<tr>\n<td>235</td>\n<td>Puchelt, Adolf, Lebensm., Reuth 32</td>\n</tr>\n<tr>\n<td>497</td>\n<td>Rautenkranz, Fremdenheim, Wettinerallee</td>\n</tr>\n<tr>\n<td>368</td>\n<td>Reichert, Curth, Haus Lyra, Straße der SA. 52</td>\n</tr>\n<tr>\n<td>222</td>\n<td>Reichsbahn, Bhf. Bad Elster.</td>\n</tr>\n<tr>\n<td>223</td>\n<td>Dieselbe, Güterabfertigung.</td>\n</tr>\n<tr>\n<td>284</td>\n<td>Reichsnährstand, Landfrauenerholungsheim</td>\n</tr>\n<tr>\n<td>200</td>\n<td>Reichspost, Postamt</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 994\" data-label=\"Text\"><p>208 Dieselbe, Poststelle Sohl<br/>305 Reiner, Arthur, Geflügelhdlg., Bärenloh.<br/>283 Reinhardtsruh, Fremdenheim, Bcs. W. Pastor<br/>242 Reisebüro<br/>475 Reservelazarett, -Brambach, Sachsenhof<br/>461 Rheuma-Heilanstalt (staatl.) d. Badedir.<br/>340 Röhrich, Eduard, Optik, Badekolonnade<br/>424 Ruderisch, Ernst, Fleischermstr.<br/>418 Ruderisch, Herm., Bäckerei, Mühlhausen<br/>384 Ruderisch, Max, Schneiderm., Haus Walküre<br/>255 Sächsische Bank, Kassenstelle<br/>344 Sanatorium, Dr. Köhlers, GmbH<br/>280 Schatz, Balth., Eierhdlg., Waldsiedlung 80 D<br/>395 Schiller, Albin, Fremdenheim König Albert.<br/>300 Schiller, Ernst, Fleischw., Künstlerheim.<br/>449 Schillergarten, Staatl. Kurheim.<br/>420 Schindel, Erich, Konditorei Fürst Bismarck<br/>438 Schlüter, Hanna, Kurheim Diana<br/>248 Schmidt, Marie, Masseuse<br/>338 Schorbus, Schwesternheim.<br/>297 Schule Mühlhausen. 48 C</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>010</td>\n<td>BUNNIG, BUNNIG, BUNNIG, BUNNIG, BUNNIG</td>\n</tr>\n<tr>\n<td>460</td>\n<td>Schwesternerholungsheim, Forstvilla</td>\n</tr>\n<tr>\n<td><b>314</b></td>\n<td><b>Sohler Brunnen G. m. b. H.</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Sohl (Vogtland)</b></td>\n</tr>\n<tr>\n<td>419</td>\n<td>Spengler, Rich., Install., Roßb.-Str. 86.</td>\n</tr>\n<tr>\n<td>413</td>\n<td>Spranger, Albert, Fleischerei, Pfarrweg</td>\n</tr>\n<tr>\n<td>379</td>\n<td>Stadler, Anton, Klempnerci, Straße der SA.</td>\n</tr>\n<tr>\n<td><b>287</b></td>\n<td><b>Stadt Dresden, Fremdenheim, Inh. Johannes Weißmann, Badstraße 8 B</b></td>\n</tr>\n<tr>\n<td><b>249</b></td>\n<td><b>Stadtverwaltung Bad Elster</b></td>\n</tr>\n<tr>\n<td>398</td>\n<td>Steinel, Karl A., Metallw.-Fbr., Mühlhausen</td>\n</tr>\n<tr>\n<td>336</td>\n<td>Stephan, Karl, Fürstenhof, Ludendorffstr.</td>\n</tr>\n<tr>\n<td>290</td>\n<td>Sternitzky, Bernhard, Malermstr.</td>\n</tr>\n<tr>\n<td>263</td>\n<td>Stich, Anton, Friseur, Str. d. SA. 53</td>\n</tr>\n<tr>\n<td>356</td>\n<td>Stöß, Max, Droschkenhalter, Straße der SA. 39</td>\n</tr>\n<tr>\n<td>400</td>\n<td>Stöß, Paul, Fische, Straße der SA. 41</td>\n</tr>\n<tr>\n<td><b>465</b></td>\n<td><b>Tesche, Wally, Haus Tuskulum</b></td>\n</tr>\n<tr>\n<td>428</td>\n<td>Thümer, Rich., Blumen, Badeplatz</td>\n</tr>\n<tr>\n<td>329</td>\n<td>Geschw. Tietze, Gartenstr. 3 F.</td>\n</tr>\n<tr>\n<td>392</td>\n<td>Träger, Max, Archit., Reuth, Almweg 12</td>\n</tr>\n<tr>\n<td>402</td>\n<td>Tramler. Wilh., Tischlerei. Straße der SA. 30</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 978\" data-label=\"Text\"><p>201 <b>Wau, Margarete, Haus Zerpich.</b><br/>304 <b>Verbrauchergenossenschaft Adorf, eGmbH</b><br/>468 <b>Victoria, Kurheim, Bad Elster</b><br/>286 <b>Waldeck, Beamtenheim, MaxHöraStr.</b><br/>484 <b>Waldesrauschen, Sommerfrische, Mühlhausen</b><br/>209 <b>Weitzmann, Dr. Georg, Arzt, Beuthstr.</b><br/>301 <b>Welde, Paul, Gut Bärenloh.</b><br/>251 <b>Wellner, Alb., Schlosserei, Bärenloh</b><br/>423 <b>Wendler, Alfred, Fleischbesch., M.-Höra-Str. 74</b><br/>(415) <b>Wenk, Felix, Malermstr., Haus Dorothea</b><br/>330 <b>Werner, Rud., Feinkost, Schweizerhaus</b><br/>341 <b>Wettiner Hof, Palasthotel, Inh. Adam Pastor</b><br/>401 <b>Wilke, Rudolf, Sanit. Art., Badeplatz</b><br/>306 <b>Wölfel, R. A., Damenputz, am Badeplatz</b> ■<br/>456 <b>Wolf, Walter, Bierhdlg., Straße der SA.</b><br/>277 <b>Wunderlich, Paul, Kohlen, Mühlhausen.</b><br/>261 <b>Wunderlich, Rich., Autovermiet., Roßb.Str.</b><br/>215 <b>Zabel, Dr., Generalstabsarzt a. D.</b><br/>476 <b>Zapf, Louis, Haus Hans Sachs.</b><br/>403 <b>Zeitler, A. P., Villa Christiana</b><br/>279 <b>Zeitler, A., Kohlen, Haus Neuschwanstein</b></p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely empty, with no text, markings, or illustrations visible. It appears to be a scan of a physical document, showing the white paper and some minor scanning artifacts.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 817 342 960\" data-label=\"Text\"><p><b>d Ems: Hagen</b></p></div><div data-bbox=\"510 817 769 960\" data-label=\"Text\"><p><b>(Band I) 141</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 89 672 895\" data-label=\"List-Group\"><ul><li>417 Ziegler, Max, Buchdruckerei.</li><li>296 Zimmer, Dr., Zahnarzt, Beuthstr. 84 b</li><li>383 Zollfrank, Osk., Stickerei, Sohl.</li></ul></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Bad Ems (Hess.-Nass.)",
+        "entries": [
+          {
+            "extension": "621",
+            "text": "Albert-Kurheim"
+          },
+          {
+            "extension": "214",
+            "text": "Alte Leipz. Lebensversich. a. G., Römerstr. 4"
+          },
+          {
+            "extension": "378",
+            "text": "Amtsgericht Bad Ems, Viktoria Allee."
+          },
+          {
+            "extension": "309",
+            "text": "Ander, Gust., Färberei, Grabenstr. 23."
+          },
+          {
+            "extension": "238",
+            "text": "Apotheke. Hans Dadder, Römerstr. 10."
+          },
+          {
+            "extension": "642",
+            "text": "Arbeitsamt Niederlahnstein, Braub. Str. 53"
+          },
+          {
+            "extension": "468",
+            "text": "Arlt, Peter, Malermstr., Schulstr."
+          },
+          {
+            "extension": "231",
+            "text": "Aurora, Pension, Hindenburgprom. 10"
+          },
+          {
+            "extension": "476",
+            "text": "Bad Ems Preußisches Staatsbad bls"
+          },
+          {
+            "extension": "479",
+            "text": "„Haus Sonne“Grabenstr. 1. T Brunnen Bad Ems"
+          },
+          {
+            "extension": "626",
+            "text": "Bäppler, Chr., Malermstr., Römerstr. 36"
+          },
+          {
+            "extension": "331",
+            "text": "Balzer, Max, Baugesch."
+          },
+          {
+            "extension": "563",
+            "text": "Bardua, Oberstlttn., Kapellenstr. 18"
+          },
+          {
+            "extension": "321",
+            "text": "Barmherzige Brüder, Sanatorium, Bad Ems,Viktoria-Allee 8"
+          },
+          {
+            "extension": "417",
+            "text": "Barth, Joh., Gärtnereibes., Grabenstr. 37"
+          },
+          {
+            "extension": "561",
+            "text": "Barthels, Dr. E., Arzt, Viktoriaall. 17."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 16 761 993\" data-label=\"Text\"><p>470 Bauverwaltung, Staatliche, Römerstr. 4<br/>506 Becker, Geflügelfarm, Frücht.<br/>318 Becker, Adam, Lebensmittel, Römerstr. 12a<br/>371 Becker, K., Restaur., Schlachthofstr. 3<br/>295 Bernd, Andr., Schiffbes., Nievern.<br/>473 Besier, Wilh., Bahnhofswirtschaft<br/>258 Biler &amp; Co., Autozentrale, Römerstr. 58.<br/>456 Bismarckahöhe, Gastst., Konr. Pöll<br/>261 Bleutge, Dr. Ed., R.-A.[N], Römerstr. 42<br/>457 Bonner, Siegfr., Ing., Waldstr. 5<br/>357 Brack, Bernh., Lebensm., Ad. HitlerStr. 9<br/>383 Brand, Elise, Dainengard., Römerstr. 17<br/>294 Brand, Ernst, Schreinerei, Koblenzer Str. 65<br/>383 Brand, Fritz, Masseur, Römerstr. 17<br/>520 Breitling, Th., Metzger, Arzbach<br/>540 Brensing, Dr. W., Zahnarzt, Römerstr. 93.<br/>277 Brohl, Hans, Autoverm., Wintersbergstr. 13<br/>385 Bürgermeisteramt Arzbach.<br/>256 Bürgermeisteramt Becheln<br/>317 Bürgermeisteramt Dausenau<br/>AAK Rinnmeistamt Eschbach</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 759 991\" data-label=\"Text\"><p>643 Bürgermeisteramt Frücht<br/>406 Bürgermeisteramt Kemmenau<br/>230 Bürgermeisteramt Miellen (Lahn)<br/>460 Bürgermeisteramt Nievern (Lahn)<br/>594 Burg, Peter, Gasthaus z. Silberau<br/>341 Burkhard, Ad., Mech. Werkstätte, Nachbach<br/>609 Canisiushaus, Römerstr. 90<br/>569 Caritashaus, Römerstr. 90<br/>243 Chem. Fabrik Roth oH, Koblenz. Str. 35<br/>577 Concordiaturn Restaurant, Hans Heuser<br/>334 Curtaz, Rud., Buchhdlg., Römerstr. 62<br/>593 Daniel, Wilh., Spengler, Ad.HitlerStr. 47<br/>312 Dauer, Christ., Lebensmittel, Römerstr. 73<br/>439 Dauernheim, A., Geschäftsf., Wilh.Allee 39<br/>422 Dauernheim, M., Frau, Viktoriaallee 6<br/>285 Dembach &amp; Co, Chem. Fbr., Braub. Str. 3<br/>347 Deutesfeld, M., elektr. Anlagen, Bleichstr. 41<br/>246 Diefenbach, AG, Brauerei, Arzb. Ldstr. 177<br/>513 Diefenbach, Jos., Gasthaus, Nievern<br/>278 Diefenbach, K., Bierverlag, Arzbach.<br/>338 Diel, Karl, Milchhdlg., Römerstr. 81</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 754 994\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>EXT</th>\n<th>NAME, BUSINESS, ADDRESS, TELEPHONE NUMBER</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>574</td>\n<td>Diener, Jos., Lederhandl., Römerstr. 76.</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Dietz, Wilh., Fuhruntern., Marktstr 20.</td>\n</tr>\n<tr>\n<td>651</td>\n<td>Doderer, O.-T.-Insp., Otto-Balzer-Str. 4</td>\n</tr>\n<tr>\n<td>412</td>\n<td>Domäne Denzerheide</td>\n</tr>\n<tr>\n<td>610</td>\n<td>Dorn, Franz, Bäckerei, Arzbach.</td>\n</tr>\n<tr>\n<td>434</td>\n<td>Dresdner Bank, Kassenstelle, Römerstr. 20</td>\n</tr>\n<tr>\n<td>287</td>\n<td>Duck, Joh., Metzgermstr., Arzbach.</td>\n</tr>\n<tr>\n<td>229</td>\n<td>Ebner, Ludwig, Schreinerel, Silberaustr. 8</td>\n</tr>\n<tr>\n<td>264</td>\n<td>Ehard, Wilh., Obst, Römerstr. 50</td>\n</tr>\n<tr>\n<td>275</td>\n<td>Eichlam, Frau K., Kinderheim, Wilh.-A. 7</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Eisenbahn-Erholungsheim, Lindenbach</td>\n</tr>\n<tr>\n<td>525</td>\n<td>Eisfeller, Rud., Min.-Wasser, Marktstr. 4</td>\n</tr>\n<tr>\n<td>(617)</td>\n<td>Elbert, Emil, Klempnerel, Dausenau</td>\n</tr>\n<tr>\n<td>680</td>\n<td>Emser Elektrizitätswerk u. Malbergbahn AG, Römerstr. 35</td>\n</tr>\n<tr>\n<td>623</td>\n<td>Esch, Lorenz, Gast- u. Landw., Frucht</td>\n</tr>\n<tr>\n<td>575</td>\n<td>Feigen, Dr., Arzt, Alexanderstr. 5.</td>\n</tr>\n<tr>\n<td>345</td>\n<td>Feldpausch, Ferd., Kemmenau</td>\n</tr>\n<tr>\n<td>213</td>\n<td>Jak. Ferdinand &amp; Sohn, Obstbau, Fachbach</td>\n</tr>\n<tr>\n<td>405</td>\n<td>Ferdinand, Peter, Milchhdlg., Römerstr. 16</td>\n</tr>\n<tr>\n<td>600</td>\n<td>Freundliche Hand- u. Fußpflege 40</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 752 993\" data-label=\"Text\"><p>589 Feuerstake, Fr., Ingen., Römerstr. 17<br/>662 Feuerwehr, Freiwillige<br/>679 Ficke, G., Bergw.-Dir., E.-Born-Str. 1<br/>370 Finzler, Alb., Dentist, Bahnhofstr. 11<br/>369 Fischbach, F., Kol.-W., Dausenau.<br/>508 Fischbach, Georg, Holzhdlg., Braubacher Str. 6<br/>617 Fischbach, Gg., Obst, Dausenau, Lahnstr. 4<br/>250 Fischer, Friedr., Landw., Heinrichshof.<br/>363 Fischer, Karl, Dachd.-Mstr., Silberau 18<br/>314 Fischer, M. H. J., Adolf-Hitler-Str. 68<br/>421 Fischer, Th., Schreinermstr., Braub.-Str. 45.<br/>283 Försterei, Revier-, Becheln<br/>557 Försterei, Revier-, Dausenau<br/>658 Försterei, Revier-, Stadt Bad Ems<br/>296 Friedenswarte, Diakonissen Mutterhaus, Kemmenauer Str.<br/>254 Gasthaus am Oberlahnsteiner Forsthaus<br/>663 Gas- u. Wasserwerk<br/>687 Gend.-Gruppenposten, Kapellenstr. 6<br/>648 Gendarmerieschule, Kemmenauer Weg 13<br/>612 Gerharz. Jos. Dam., Install., Arzbach</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 747 875\" data-label=\"Text\"><p><b>340</b> <b>Uerlitz, Georg</b> <b>Ug., Dautschau, Alzau.</b><br/><b>343 Gewerkschaft Mercur</b><br/><b>427 Gewerksch. Mercur Bergmannsheim, Emser</b><br/><b>Hütte 24</b><br/><b>579 Gilles, Wilh., Metzgerei, Nievern (Lahn)</b><br/><b>430 Glasmann jr., Ech., Kohlen, Kobl. Str. 71</b><br/><b>349 Göbels Inhalatorium, Bahnhofstr. 4.</b><br/><b>587 Göbel Nf., Aug., Masch.-Fbr., Fronhof 8</b><br/><b>263 Graef, Alfr., Landgerichtsdir., Mainzerhaus</b><br/><b>562 Graeft, Dr. W., Zahnarzt, Römerstr. 36</b><br/><b>428 Grass, Dr. Hans, Landger.-Rat, Waldstr. 1</b><br/><b>249 Gröber, W., Bäckerei, Silberaustr. 27</b><br/><b>466 Gross, Ludwig, Bäckerei, Marktstr. 3</b><br/><b>590 Groß, Wilh., Bäckerei, Grabenstr. 7</b><br/><b>255 Grüterich, W., Molk.-Prod., P. Gemeind.W. 5</b><br/><b>443 Güll, Wilh., Malermstr., Silberaustr. 10.</b><br/><b>240 Hagen, Werner, Drogerie, Römerstr. 70</b></p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

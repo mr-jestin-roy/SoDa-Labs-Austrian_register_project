@@ -1,0 +1,976 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black speck near the bottom right corner.\"/>This image is a blank white page. It contains no text, figures, or tables. There is a single, small, irregular black speck located in the lower right quadrant of the page.</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a solid black vertical bar along the right edge.\"/>This image shows a blank white page, likely a separator or a page with no content from a 1942 German telephone directory. A solid black vertical bar is positioned along the right edge of the page.</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 707 462 941\" data-label=\"Text\"><p>48 (Branchenteil)</p></div><div data-bbox=\"692 707 998 904\" data-label=\"Text\"><p>3631. Le</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Bad Harzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"226 84 766 481\"}, {\"label\": \"Text\", \"bbox\": \"91 533 908 951\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"100 15 900 985\" data-label=\"Image\"><img alt=\"A high-contrast, black and white photograph of a large, dark, multi-story building, likely a factory or warehouse, with a prominent chimney stack. The building is situated in a landscape with trees and a clear sky. The image is heavily textured and appears to be a scan of a document page.\"/>A high-contrast, black-and-white photograph of a large, dark, multi-story building, likely a factory or warehouse, with a prominent chimney stack. The building is situated in a landscape with trees and a clear sky. The image is heavily textured and appears to be a scan of a document page.</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 37 964 963\" data-label=\"Text\"><p><b>Halbjahreskurse — Berufsfachlehrgänge</b><br/><b>I. Kaufmännisch-praktische Arzthilfe</b><br/><b>II. Fremdsprachliche Korrespondentin</b><br/><b>Gründliche kaufm. u. mediz. Spezialausbildung</b><br/><b>Neu eingerichtetes Internat</b><br/><b>Abwechslungsreiche u. interessante Frauenberufe</b><br/><b>Bisher über 2000 Schülerinnen ausgebildet</b><br/><b>Bad Harzburg, Herzog-Julius-Straße 47</b><br/><b>Fernsprecher</b> || <b>Postcheckkonto</b><br/><b>315. 364</b> || <b>Magdeburg 20544</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Bad Köstritz (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Sachsa (Südharz).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 145\" data-label=\"Text\"><p>20 21 01 <b>Wien, 11. Wiener Gemeinde - Währing, Viktoria-Luise-Pl. 6</b></p></div><div data-bbox=\"0 145 998 330\" data-label=\"Text\"><p>27 72 91 <b>Pestalozzi-Fröbelhaus, W 30, Karl-Schra-der-Str. 7/8</b></p></div><div data-bbox=\"0 330 998 705\" data-label=\"Text\"><p>34 86 55 <b>Schweißtechnische Lehr- und Versuchsanstalt Berlin (Verband für autogene Metallbearbeitung e. V.), Berlin-Charlottenburg 1, Spreestr. 22</b></p></div><div data-bbox=\"0 705 998 895\" data-label=\"Text\"><p>25 12 24 <b>ml.-Nr. (Technische Berufsfachschule des Lette-Verlins, W 30, Viktoria-Luise-Platz 6</b></p></div><div data-bbox=\"0 910 998 995\" data-label=\"Text\"><p><b>Donaustauf</b></p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 144\" data-label=\"Text\"><p><b>Fellheim</b> } <b>Milchw. Lehr- u. Versuchsanstalt</b><br/><b>27</b> } <b>für Weichkäse in Boos</b></p></div><div data-bbox=\"0 152 894 219\" data-label=\"Text\"><p><b>Bregenz (Vorarlberg).</b></p></div><div data-bbox=\"70 216 998 401\" data-label=\"Text\"><p><b>476 Wirtschaftsoberschule</b> für Jungen<br/>und Mädchen<br/>(<b>Staatshandelsakademie</b>)<br/>Bregenz, Mehrerauer Str. 66</p></div><div data-bbox=\"0 404 312 462\" data-label=\"Text\"><p><b>Chemnitz.</b></p></div><div data-bbox=\"36 464 998 646\" data-label=\"Text\"><p><b>43958 Akademie für Technik, Staatl., m. Staats-</b><br/><b>43959</b> <b>bauschule, Staatl. Ingenieurschule, Chem-</b><br/><b>nitz, Am Platz der alten Garde 6—7</b><br/><b>43958 Staatliche Färberelschule Chemnitz</b></p></div><div data-bbox=\"0 663 275 718\" data-label=\"Text\"><p><b>Dresden.</b></p></div><div data-bbox=\"39 722 998 856\" data-label=\"Text\"><p><b>11353 Wirtschaftsoberschule Dresden der In-</b><br/><b>dustrie- u. Handelskammer Dresden, A 1,</b><br/><b>Ostra-Allee 9</b></p></div><div data-bbox=\"0 875 316 934\" data-label=\"Text\"><p><b>Duisenberg.</b></p></div><div data-bbox=\"36 934 998 978\" data-label=\"Text\"><p><b>21079 Schweißtechnische Lehr- und Versuchs-</b></p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Eggensburg (Niederdonaustau).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Feldkirch (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Forst (Lausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Freising (Oberbay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"169 13 816 96\" data-label=\"Text\"><p><b>für Gartenbau in Weißenstephan</b></p></div><div data-bbox=\"0 130 741 240\" data-label=\"Text\"><p><b>Freistadt (Oberdonau).</b></p></div><div data-bbox=\"88 242 985 391\" data-label=\"Text\"><p><b>19 Staatliche Oberschule f. Jungen</b></p></div><div data-bbox=\"234 397 903 483\" data-label=\"Text\"><p><b>Direktion, Freistadt (Oberdonau)</b></p></div><div data-bbox=\"0 501 750 609\" data-label=\"Text\"><p><b>Gaming (Niederdonau).</b></p></div><div data-bbox=\"93 609 983 770\" data-label=\"Text\"><p><b>21 Landwirtschaftsschule und Wirtschafts-</b><br/><b>beratungsstelle der Kreisbauernschaft</b></p></div><div data-bbox=\"169 770 853 851\" data-label=\"Text\"><p><b>Scheibbs in Gaming (Niederdonau)</b></p></div><div data-bbox=\"0 871 536 978\" data-label=\"Text\"><p><b>Lernrode (Harz).</b></p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Dreyscharf'sches Lehrinstitut",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"156 125 164 146\" data-label=\"Text\"><p>-</p></div><div data-bbox=\"422 44 431 71\" data-label=\"Text\"><p>L</p></div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 710 998 930\" data-label=\"Text\"><p><b>ranstalten — 3634. Lehrmitte</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      },
+      {
+        "region_name": "Knittelfeld (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Krems, Donau (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Leoben (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Lundenburg (Niederdonaau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Staatl. Ingenieurschule",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Mähr. Ostrau (Protectorat).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Handelsakademie in Mährisch Ostrau",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Mainz.",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"91 134 895 473\"}, {\"label\": \"Text\", \"bbox\": \"120 544 861 714\"}, {\"label\": \"Text\", \"bbox\": \"312 756 672 908\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Marienbad (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Münster (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Obererilenbach (üb. Friedberg) [Hess.]",
+        "entries": []
+      },
+      {
+        "region_name": "Oldenburg (Oldb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ort b. Gmunden (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Pohrlitz (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Rosenheim (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Steinschönau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Völkermarkt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Waidhofen (Thaya) [Niederdonau].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Weigelsdorf (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Weinzierl b. Wieselburg (Erlauf) [Niederdonau]",
+        "entries": []
+      },
+      {
+        "region_name": "Weiz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"193 76 812 311\"}, {\"label\": \"Text\", \"bbox\": \"176 359 823 500\"}, {\"label\": \"Text\", \"bbox\": \"261 496 740 636\"}, {\"label\": \"Text\", \"bbox\": \"296 632 707 770\"}, {\"label\": \"Text\", \"bbox\": \"280 804 725 947\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 11 990 1000\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td data-bbox=\"11 18 178 58\">U2 33 74</td>\n<td data-bbox=\"208 18 985 198\">\n<b>Gremium gewerblicher Lehranstalten für<br/>Schnittzeichnen, Kleidermachen, Putz-<br/>machérei, Wäsche- u. Niedererzeugung,<br/>I/1, Gonzagagasse 15</b>\n</td>\n</tr>\n<tr>\n<td data-bbox=\"11 200 178 240\">B2 64 25</td>\n<td data-bbox=\"208 200 985 285\">\n<b>Handelsschule Weiss, Nachf. Direktor Rud.<br/>Krickl, Wien I/1, Getreidemarkt 14/16</b>\n</td>\n</tr>\n<tr>\n<td data-bbox=\"11 290 178 330\">A2 95 10</td>\n<td data-bbox=\"410 290 755 375\">\n<b>Hochschulinstitut<br/>für Leibesübungen</b>\n</td>\n</tr>\n<tr>\n<td></td>\n<td data-bbox=\"330 380 855 420\">Wien IX/71, Sensengasse 3</td>\n</tr>\n<tr>\n<td data-bbox=\"11 425 178 465\">R1 31 98</td>\n<td data-bbox=\"208 425 985 555\">\n<b>Höhere Staatsgewerbeschule für Ma-<br/>schinenbau u. Elektrotechnik in Wien,<br/>Wien X/75, Pernerstorfergasse 81</b>\n</td>\n</tr>\n<tr>\n<td data-bbox=\"11 560 178 600\">B3 13 11</td>\n<td data-bbox=\"320 560 865 645\">\n<b>Staatl. Graphische Lehr- und<br/>Versuchsanstalt,</b>\n</td>\n</tr>\n<tr>\n<td></td>\n<td data-bbox=\"260 650 925 690\">Wien VII/62, Westbahnstraße 25</td>\n</tr>\n<tr>\n<td data-bbox=\"11 715 178 755\">B1 00 46</td>\n<td data-bbox=\"245 700 945 785\">\n<b>Staatliche Lehrerinnenbildungsanstalt<br/>und Staatl. Schülerinnenheim,</b>\n</td>\n</tr>\n<tr>\n<td data-bbox=\"11 765 178 805\">B1 40 46</td>\n<td data-bbox=\"250 785 930 830\">\n<b>Wien XIX/117, Döbl. Hauptstr. 83</",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Wien-Gumpoldskirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Witzenhausen (Hess.-Nass.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "402 Deutsche Kolonialschule",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Wolfsegg (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Znaim (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col5_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a dark horizontal line at the bottom edge.\"/>This image is a scan of a blank white page. A dark, irregular horizontal line runs along the bottom edge of the page, likely representing the edge of the paper or a scanning artifact. There is no text or other content on the page.</div>",
+      "cells": [
+        "col5_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col5_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "3632. Lehren (Meßwerkzeuge)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col5_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col5_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 832 953\" data-label=\"Text\"><table><tr><td>61 33 21</td><td>Wahlkreis 03. - Berlin</td></tr><tr><td rowspan=\"3\">Sammel-<br/>Nr.<br/>68 70 95</td><td><b>Prüf- und Werk-Geräte G. m. b. H.</b></td></tr><tr><td>Alleinvertrieb der Firmen:</td></tr><tr><td><b>Lehrenwerk Reindl u. Nieberding</b><br/><b>und Dr. Ing. Robert Stopp</b><br/><b>Berlin SO 36</b></td></tr></table></div>",
+      "cells": [
+        "col5_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col5_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col5_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"41 187 185 361\"}, {\"label\": \"Section-Header\", \"bbox\": \"235 131 766 386\"}, {\"label\": \"Text\", \"bbox\": \"311 442 524 592\"}, {\"label\": \"Text\", \"bbox\": \"44 584 789 740\"}, {\"label\": \"Text\", \"bbox\": \"185 789 651 947\"}]",
+      "cells": [
+        "col5_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col5_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Goldbach b. Aschaffenburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col5_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Bauer &amp; Schaurte",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col5_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col5_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Oswin Baumgärtel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col5_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Ober-Ramstadt (Kr. Darmstadt).",
+        "entries": []
+      },
+      {
+        "region_name": "BUKO",
+        "entries": []
+      },
+      {
+        "region_name": "Oberursel (Taunus).",
+        "entries": []
+      },
+      {
+        "region_name": "Plochingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Treptow (Rega) [Pomm.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col5_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "3633. Lehrlingswerkstätten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col5_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col5_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"186 175 612 326\"}]",
+      "cells": [
+        "col5_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col5_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  }
+]

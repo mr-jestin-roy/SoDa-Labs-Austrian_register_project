@@ -1,0 +1,966 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "siehe am Kopf von Stuttgart (S. 458).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 10 998 963\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>(7 26 06)</td>\n<td>Schneider, W., Fuhrw.,</td>\n<td>Kalt Fuchsw.Str.79</td>\n</tr>\n<tr>\n<td>7 80 07</td>\n<td>Schneider, W., Schreiner,</td>\n<td>Vh Katzenb.</td>\n</tr>\n<tr>\n<td>8 02 91</td>\n<td>Schneider, Wilh., Kfm.,</td>\n<td>Feu Heidestr. 3</td>\n</tr>\n<tr>\n<td>6 30 54</td>\n<td>Schneider, Wilh., Revisor,</td>\n<td>Johannesstr. 62</td>\n</tr>\n<tr>\n<td>6 15 75</td>\n<td>Schneider, Willy, Kfm.,</td>\n<td>Augustenstr. 39</td>\n</tr>\n<tr>\n<td>4 29 65</td>\n<td>Schneider, Willy, Komponist u.</td>\n<td>Schneider-Pröhl, Fridl, Pianistin, Pflasteräckerstr. 34</td>\n</tr>\n<tr>\n<td>7 05 33</td>\n<td>Schneider, Wilh., Papierwr.,</td>\n<td>Schickh.Str. 1</td>\n</tr>\n<tr>\n<td>8 15 64</td>\n<td>Schneider, W., Kfm.,</td>\n<td>Wildj Greutterstr 58</td>\n</tr>\n<tr>\n<td>7 11 50</td>\n<td>W. Schneider &amp; Co, Hutf.,</td>\n<td>Heusteigstr. 74</td>\n</tr>\n<tr>\n<td>5 11 44</td>\n<td>Schneider &amp; Co, GmbH,</td>\n<td>Ost Nauh.Str. 1</td>\n</tr>\n<tr>\n<td>6 44 41</td>\n<td>Schneiderhahn, Leo, Vertr.,</td>\n<td>Hölderlinstr.53</td>\n</tr>\n<tr>\n<td>4 12 58</td>\n<td>Schneiderhan, Hans, Druckerei,</td>\n<td>Rotenb. Straße 184</td>\n</tr>\n<tr>\n<td>2 66 28</td>\n<td>Schneidler, Klaus, Drog.,</td>\n<td>Birkenw.Str. 215</td>\n</tr>\n<tr>\n<td>2 73 22</td>\n<td>Schnell, Alb., Geometer,</td>\n<td>A.Stifter-Str. 118</td>\n</tr>\n<tr>\n<td>7 17 29</td>\n<td>Schnell, Carl, Versich.,</td>\n<td>A.Weinsteige 40</td>\n</tr>\n<tr>\n<td>7 07 71</td>\n<td>Schnell, Erich, Archit.,</td>\n<td>Arminstr. 40</td>\n</tr>\n<tr>\n<td>6 48 78</td>\n<td>Schnell, Erwin, Buchbind.,</td>\n<td>Hasenb.Str. 20</td>\n</tr>\n<tr>\n<td>6 55 49</td>\n<td>Schnell, Erwin, Gartenb.,</td>\n<td>Both Himmelreichstr. 40</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"258 965 997 993\" data-label=\"Page-Footer\">\n<p>7 22 07    Eisen    Schnell    Zahn    Dokumenten    17-14</p>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"245 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>0 00 01</th>\n<th>000000, 000001, 000002, 000003, 000004, 000005, 000006, 000007, 000008, 000009, 000010</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2 36 30</td>\n<td>Schnetz, Klara, Frau, Parlerstr. 57</td>\n</tr>\n<tr>\n<td>(2 12 68)</td>\n<td>Schneevoigt, Paul, Vertr., Kronenstr. 45</td>\n</tr>\n<tr>\n<td>5 16 67</td>\n<td>Schneyer, O., Motorenrep., Cst Ebitzw. 35</td>\n</tr>\n<tr>\n<td>8 22 57</td>\n<td>Schnez, Alb., Oberstlttn., <i>Zuff</i> Weikersh.<br/>Straße 9</td>\n</tr>\n<tr>\n<td>2 40 85</td>\n<td>Schmidtman, W., Dr.Ing., Wernsh.Str. 31</td>\n</tr>\n<tr>\n<td>6 25 84</td>\n<td>Schniepp, Adolf, Vertr., Leibnizstr. 92</td>\n</tr>\n<tr>\n<td>2 48 12</td>\n<td>Schnierle, Paul, Verlag, Seestr. 6</td>\n</tr>\n<tr>\n<td>7 41 75</td>\n<td>Schnierle-Simon, Dr. Lilly, Zahnärztin,<br/><i>Sonn</i> Kremmlerstr. 4</td>\n</tr>\n<tr>\n<td>3 11 33</td>\n<td>Schnirring, Fr., Ww., <i>Unth</i> Augsb.Str. 363</td>\n</tr>\n<tr>\n<td>2 89 63</td>\n<td>Schnitzer, Gg., Schneider, Kronprinzstr. 8</td>\n</tr>\n<tr>\n<td>6 00 73</td>\n<td>Schnitzer, G., Vers., Schenkend.Str. 17</td>\n</tr>\n<tr>\n<td>7 30 19</td>\n<td>Schnitzler, Karl, Kfm., Baumreute 31</td>\n</tr>\n<tr>\n<td>7 16 72</td>\n<td>Schnitzler, Wilh., Vertr., Immenh.Str. 4</td>\n</tr>\n<tr>\n<td>6 55 15</td>\n<td>Schniz, Gotth., Schulrat, Reinsburgstr. 158</td>\n</tr>\n<tr>\n<td>6 02 15</td>\n<td>Schnizer, Adolf, Butter, Schloßstr. 56</td>\n</tr>\n<tr>\n<td>2 76 50</td>\n<td>Schnizer, Dr. Ernst, Arzt, Kanonenweg 28</td>\n</tr>\n<tr>\n<td>2 30 66</td>\n<td>Schnizer, G., Geldschrankfabr., LangeStr. 9</td>\n</tr>\n<tr>\n<td>6 44 92</td>\n<td>Schnizer, J., Malerei, Gutenbergstr. 106</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>6 02 89</td>\n<td>Schnorr, Ad., Werkzeuge, <i>Böln</i> Griegstr. 18</td>\n</tr>\n<tr>\n<td>6 40 99</td>\n<td>Ders., Wohn., Am Kräherwald 209</td>\n</tr>\n<tr>\n<td>6 11 64</td>\n<td>Schnorr, Herb. Peter, Graph., Aug. Str. 123</td>\n</tr>\n<tr>\n<td>6 17 76</td>\n<td>Schnürle, Adolf, Dr. Ing., Feuerb. Heide 8</td>\n</tr>\n<tr>\n<td>7 27 31</td>\n<td>Schnuerle, H., Prok., <i>Deß</i> Behnckestr. 16</td>\n</tr>\n<tr>\n<td>7 03 60</td>\n<td>Schnürle, Ludw., Archit., Kelterstr. 65</td>\n</tr>\n<tr>\n<td>4 15 50</td>\n<td>Schnurre, Walter, Prok., Wagenburgstr. 99</td>\n</tr>\n<tr>\n<td>2 80 21</td>\n<td>Schober, Adolf, Stahlwr., Karlstr. 21</td>\n</tr>\n<tr>\n<td>7 14 65</td>\n<td>Schober, Bernh., Baurat, Mühlrain 8</td>\n</tr>\n<tr>\n<td>7 31 85</td>\n<td>Schober, Emil, Tabakwr., Gebelsbergstr. 4</td>\n</tr>\n<tr>\n<td><b>8 06 49</b></td>\n<td><b>G. J. Schober G. m. b. H., Trikotwaren-<br/>fabrik, -Feuerbach, Kruppstr. 38</b></td>\n</tr>\n<tr>\n<td>7 19 80</td>\n<td>Schober, Gottlieb, Gastw., Möhringen</td>\n</tr>\n<tr>\n<td>7 82 17</td>\n<td>Schober, H., Prediger, <i>Vh</i> Traubenstr. 30</td>\n</tr>\n<tr>\n<td>2 54 95</td>\n<td>Schober, P., Med. Rat, Sonnenbergstr. 37</td>\n</tr>\n<tr>\n<td>4 05 21</td>\n<td>Schober, Peter Jac., Maler, Staibenäcker 18</td>\n</tr>\n<tr>\n<td>4 27 94</td>\n<td>Derselbe, Atelier, Anlagen 5</td>\n</tr>\n<tr>\n<td>7 30 34</td>\n<td>Schober, Robert, Baurat, <i>Sonn</i> Kremmler-<br/>straße 27</td>\n</tr>\n<tr>\n<td>7 23 62</td>\n<td>Schobinger, Leo, Kunstmaler, Tübinger-</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "09 89"
+          },
+          {
+            "extension": "8",
+            "text": "18 99"
+          },
+          {
+            "extension": "8",
+            "text": "15 49 Apoll Stuttgart- Feuerbach g m b h"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Hartverchromung-Eloxal",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 10 993 993\" data-label=\"Text\"><table><tbody><tr><td>9 22 12</td><td>Schoch, Frida, Hebamme, Schottstr. 47</td></tr><tr><td>7 08 13</td><td>Schoch, Karl, Architekt., <i>Sonn</i> Memelstr.</td></tr><tr><td>4 25 24</td><td>Schoch, Wilhelm, Tapezier, Rotenb.Str. 6</td></tr><tr><td>2 36 51</td><td>Schoch &amp; Co, Wohn.Nachw., Eberh.Str. 51</td></tr><tr><td>2 24 04</td><td>Schock, Dr., Biologe, Herdweg 32</td></tr><tr><td>8 14 87</td><td>Schock, Emil, Gartenbau, <i>Zuff</i> Ludwigsb.<br/>Straße 199</td></tr><tr><td>8 06 98</td><td>Schock, G., Bäcker, <i>Zuff</i> Unterl.Str. 69</td></tr><tr><td>5 18 45</td><td>Schock, E. J., Schneid., <i>Cst</i> Offenb.Str. 14</td></tr><tr><td>3 03 73</td><td>Schock, Karl, Schmiedemstr., Wangen,<br/>Ravensb.Str. 26</td></tr><tr><td>2 24 04</td><td>Schock, Dr. Karl L., Arzt, Panoramastr. 31</td></tr><tr><td>7 30 68</td><td>Schoder, E., Ger.Dir., <i>Deg</i> Hainb.W. 33</td></tr><tr><td>8 20 82</td><td>Schoder, Felix, Dr.Ing., <i>Feu</i> Leob.Str. 22</td></tr><tr><td>8 06 88</td><td>Gustav Schoder KG, Chem. Fabr., <i>Feu</i><br/>LeobnerStr. 32</td></tr><tr><td>8 20 82</td><td>Ders., <i>Feu</i> Leobenerstr. 22</td></tr><tr><td>8 08 31</td><td>Julie u. Herbert Schoder, Vertr., <i>Feu</i><br/>LeobenerStr. 32</td></tr><tr><td>9 14 96</td><td>Schoder, Marianne, Frühlingshalde 26</td></tr><tr><td>7 30 68</td><td>Dies., Wohn., <i>Deg</i></td></tr><tr><td>4 09 40</td><td>Schäfer Dr. Wald Mathematiker Daniel</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Straße 44",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "48 67 Schöbel, Dr. Heinz, Arzt, Königstr. 45"
+          },
+          {
+            "extension": "9",
+            "text": "16 65 Schöbel, Maria, Königstr. 19"
+          },
+          {
+            "extension": "4",
+            "text": "13 95 Schöberl, Wilh., Verlag, Albuchweg 4"
+          },
+          {
+            "extension": "6",
+            "text": "19 34 Schöck, Ernst, Kfm., Rötetaffel 2B"
+          },
+          {
+            "extension": "6",
+            "text": "62 36 Schöck, Frida, Ww., Gutenbergstr. 73"
+          },
+          {
+            "extension": "2",
+            "text": "14 89 Schöck, Frdr., Bäckerei, Seestr. 37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 11 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 23 25</td>\n<td>Schöck, Günther, Ökonom.-Rat, Birkenwaldstr. 129</td>\n</tr>\n<tr>\n<td>2 27 86</td>\n<td>Schöck, Hans, Bäckerei, Militärstr. 16A</td>\n</tr>\n<tr>\n<td>6 12 51</td>\n<td>Schöck, Helmut, Geschäftsf., Reinsb. Str. 196</td>\n</tr>\n<tr>\n<td>2 43 22</td>\n<td>Schöck, Herm., Amtm., Danneckerstr. 34</td>\n</tr>\n<tr>\n<td>7 81 02</td>\n<td>Schöck, Jakob, Restaur., Vaihingen</td>\n</tr>\n<tr>\n<td>6 07 82</td>\n<td>Schoeck, Karl-Heinr., Silberburgstr. 166</td>\n</tr>\n<tr>\n<td>8 02 96</td>\n<td>Schoeck, Konrad, Astralonw., Zuff Hof. Straße 9</td>\n</tr>\n<tr>\n<td>5 20 75</td>\n<td>Schöck, O., Steuerber., Vh TölzerStr. 28</td>\n</tr>\n<tr>\n<td>8 18 24</td>\n<td>Schöck, Paul, Gärtnerei, Zuff Ludwigsb. Straße 103</td>\n</tr>\n<tr>\n<td>6 58 08</td>\n<td>Schöck, Walter, Gaureferent, Rötistr. 12</td>\n</tr>\n<tr>\n<td>7 96 16</td>\n<td>Schöck, Wilh., Sägewerk, Echterdingen</td>\n</tr>\n<tr>\n<td>2 04 52</td>\n<td>Schoeck, Dr. Willi, R.A., Olgastr. 17</td>\n</tr>\n<tr>\n<td>9 06 31</td>\n<td>Ders., Wohn., Litzmannstr. 10</td>\n</tr>\n<tr>\n<td>(2 50 67)</td>\n<td>Schöck &amp; Co. Metallwrfbr., Rosenst. Str. 35</td>\n</tr>\n<tr>\n<td>6 12 51</td>\n<td>Schöck GmbH, Spedition, Westbahnhof</td>\n</tr>\n<tr>\n<td>8 20 42</td>\n<td>Schröder, Fr., Steuerhelfer, Zuff Reisstr. 13</td>\n</tr>\n<tr>\n<td>8 20 76</td>\n<td>Schröder, Herm., Maler, Zuff Hördtstr. 54</td>\n</tr>\n<tr>\n<td>6 37 28</td>\n<td>Schöffel, Konrad, Vertr., Seyfferstr. 93</td>\n</tr>\n<tr>\n<td>2 11 17</td>\n<td>Schöffel, Konrad, Buchhalter, Zuffstr. 17</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "19"
+          },
+          {
+            "extension": "5",
+            "text": "05"
+          },
+          {
+            "extension": "8",
+            "text": "17"
+          },
+          {
+            "extension": "2",
+            "text": "41"
+          },
+          {
+            "extension": "6",
+            "text": "39"
+          },
+          {
+            "extension": "2",
+            "text": "82"
+          },
+          {
+            "extension": "6",
+            "text": "28"
+          },
+          {
+            "extension": "8",
+            "text": "16"
+          },
+          {
+            "extension": "2",
+            "text": "64"
+          },
+          {
+            "extension": "29",
+            "text": "89"
+          },
+          {
+            "extension": "8",
+            "text": "04"
+          },
+          {
+            "extension": "7",
+            "text": "81"
+          },
+          {
+            "extension": "9",
+            "text": "22"
+          },
+          {
+            "extension": "2",
+            "text": "70"
+          },
+          {
+            "extension": "9",
+            "text": "14"
+          },
+          {
+            "extension": "8",
+            "text": "22"
+          },
+          {
+            "extension": "5",
+            "text": "26"
+          },
+          {
+            "extension": "6",
+            "text": "43"
+          },
+          {
+            "extension": "29",
+            "text": "87"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"31 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>7 04 75</td>\n<td>Schöllkopf, K., Graphiker, Uhlandstr. 12</td>\n</tr>\n<tr>\n<td>6 35 75</td>\n<td>Schöllkopf, Pfund &amp; Cle, Buchdruckerei, Silberburgstr. 138</td>\n</tr>\n<tr>\n<td>9 15 06</td>\n<td>Schöllkopf, Marion, Moden, Königstr. 56</td>\n</tr>\n<tr>\n<td>7 29 97</td>\n<td>Schöllkopf, Otto, Kfm., Elsterw. 24</td>\n</tr>\n<tr>\n<td>2 84 19</td>\n<td>Schöllmann, G., Werkzeuge, Neckarstr. 79</td>\n</tr>\n<tr>\n<td>7 43 93</td>\n<td>Schömberg, Kurt, Kfm., Wannenstr. 86</td>\n</tr>\n<tr>\n<td>8 01 02</td>\n<td>Schoemperle, Emma, Blumen, Hitlerstr. 87</td>\n</tr>\n<tr>\n<td>8 14 47</td>\n<td rowspan=\"2\">\n<b>Schoen, Fedor, Wellpappenfabrik, Zweigniederlassung Stuttgart-Zuffenhausen,</b>\n</td>\n</tr>\n<tr>\n<td>8 14 48</td>\n<td rowspan=\"2\">\n<b>Spitalwaldstr. 36</b>\n</td>\n</tr>\n<tr>\n<td>2 40 68</td>\n<td>Schön, Ferd., Gasth., SchmaleStr. 2</td>\n</tr>\n<tr>\n<td>8 15 06</td>\n<td>Schön, Karl, Archit., <i>Wldf</i> Rathgebstr. 5</td>\n</tr>\n<tr>\n<td>4 05 07</td>\n<td>Schön, Pauline, Ww., Wagenburgstr. 137</td>\n</tr>\n<tr>\n<td>5 18 86</td>\n<td>Schönau, Hans, Fuhrw., <i>Cst</i> Daimlerstr. 58</td>\n</tr>\n<tr>\n<td>5 18 49</td>\n<td>Schönbein, H., Kol.W., <i>Cst</i> Wiesb.Str. 36</td>\n</tr>\n<tr>\n<td>6 56 26</td>\n<td>Schönberg, H., Dipl.Kfm., Hasenb. 5</td>\n</tr>\n<tr>\n<td>5 22 52</td>\n<td>Schönberger, Dr. Alex., Arzt, <i>Fllb</i> Bahnhofstraße 31</td>\n</tr>\n<tr>\n<td>2 82 12</td>\n<td>Schönberger, Joh., Sängerin, Stitzenb.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "07 97 Schönberger, Wilh., Wldf Lindental 14"
+          },
+          {
+            "extension": "6",
+            "text": "21 36 Schönbörner, W., Dentist, Rotebühlstr. 57"
+          },
+          {
+            "extension": "7",
+            "text": "25 94 Schönbrunn, Klara, Frau, Deg Reutl. Str. 65"
+          },
+          {
+            "extension": "7",
+            "text": "86 52 Schoeneberger, Eugen, Pol. Hptm., VhErnst-Weinstein-Str. 7"
+          },
+          {
+            "extension": "4",
+            "text": "24 75 Schöneck, Karl, Landhausstr. 52"
+          },
+          {
+            "extension": "2",
+            "text": "02 52 Schöneck, Dr. Wilh., R.A., Königstr. 43A"
+          },
+          {
+            "extension": "2",
+            "text": "76 22 Schoenemann, Dr. H., R.A., Schloßstr. 31"
+          },
+          {
+            "extension": "2",
+            "text": "28 20 Schönemann, Karl, Schneider, Firnh. Str. 12"
+          },
+          {
+            "extension": "5",
+            "text": "22 96 Schönemann, Wilh., Baumschule, FubFellbacher Straße"
+          },
+          {
+            "extension": "9",
+            "text": "22 98 Schönenberger, O., Kfm., C. Grethew. 5"
+          },
+          {
+            "extension": "6",
+            "text": "45 38 Schoenenberger, W., Frbkt., Rotenw.Straße 189"
+          },
+          {
+            "extension": "4",
+            "text": "06 99 Schönfeld, Willy, Bildhauer, Hackstr. 16"
+          },
+          {
+            "extension": "2",
+            "text": "77 61 Schönfelder, Frdr., Ing., Kriegerstr. 19"
+          },
+          {
+            "extension": "2",
+            "text": "36 68 Schönfelder & Co, Korsettfbr., Königstr. 46"
+          },
+          {
+            "extension": "6",
+            "text": "24 19 Schönhar. Carl Eugen, Öfen, Hasenb. Str. 88"
+          },
+          {
+            "extension": "4",
+            "text": "15 37 Schönhardt, A., Baugesch., Werderstr. 40"
+          },
+          {
+            "extension": "6",
+            "text": "46 07 Schönhardt, Dr. Erich, Prof., Hölderlinpl. 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Straße 74",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "07 99 Schönhardt, Paul, Baugesch., Zuff Bessemerstr. 2"
+          },
+          {
+            "extension": "4",
+            "text": "18 66 Schönherr, Walter, Vertr., Spittlerstr. 36"
+          },
+          {
+            "extension": "4",
+            "text": "04 10 Schöning, Heinz, Kfm., Heubergstr. 39"
+          },
+          {
+            "extension": "29",
+            "text": "89 95 Schöning, Chr., Metzgermstr., Rult"
+          },
+          {
+            "extension": "29",
+            "text": "88 96 Schöning, Karl, Wirtschaft, Riedenberg"
+          },
+          {
+            "extension": "4",
+            "text": "10 75 Schöning, Karl, Metzgerm., Florianstr. 2"
+          },
+          {
+            "extension": "6",
+            "text": "48 68 Schoeninger, Dr. B., Chemierat, Zeppelin- straße 40"
+          },
+          {
+            "extension": "2",
+            "text": "70 15 Schöninger, Dr. L., Ärztin, Charlottenstr. 23"
+          },
+          {
+            "extension": "6",
+            "text": "20 58 Schönleben, H., Tennislehr., Vorsteigstr. 28"
+          },
+          {
+            "extension": "8",
+            "text": "00 38 Schönleber, Adolf, Bäcker, Feu Linz. Str. 55"
+          },
+          {
+            "extension": "6",
+            "text": "37 37 Schönleber, Eug., Buchdr., Rosenb. Str. 77"
+          },
+          {
+            "extension": "2",
+            "text": "60 26 Schönleber, E., Hafnermstr., Uhlandstr. 16"
+          },
+          {
+            "extension": "2",
+            "text": "59 27 Schönleber, Georg, Landesprod. Markthalle"
+          },
+          {
+            "extension": "2",
+            "text": "27 97 Schönleber, Gottl., Bäcker, Büchsenstr. 48"
+          },
+          {
+            "extension": "8",
+            "text": "00 39 Schönleber, Gust., Zentralheiz., Zuff Ludwig- wigsburger Str. 115"
+          },
+          {
+            "extension": "6",
+            "text": "36 39 Schönleber, Herm., Dr.phil., Hasenb. Str. 15"
+          },
+          {
+            "extension": "8",
+            "text": "10 98 Schönleber, H., Lehenam., Zuff Röhr. Str. 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 0 988 936\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 00 10</td>\n<td>Schönfelder, Luise, W.W., Mönchstr. 10A</td>\n</tr>\n<tr>\n<td>6 61 77</td>\n<td>Schönleber, Rud., Kfm., Reinsb.Str. 216</td>\n</tr>\n<tr>\n<td>7 43 18</td>\n<td>Schöntag, Ludw., Ing., <i>Deg</i> Eschenw. 4</td>\n</tr>\n<tr>\n<td>9 08 16</td>\n<td>Schönwälder, Max, Insp., Sonnenb.Str. 30</td>\n</tr>\n<tr>\n<td>5 11 08</td>\n<td>Schönwalter, Carl, Reklame, <i>Cst</i> Merc.<br/>Straße 13</td>\n</tr>\n<tr>\n<td>2 88 32</td>\n<td>Schönzahn, Ilse, Gymnastik, Mönchstr. 26</td>\n</tr>\n<tr>\n<td>6 43 26</td>\n<td>Schöpfer, Dr. H. F., Arzt, <i>Botn</i> Förstler-<br/>straße 12</td>\n</tr>\n<tr>\n<td>2 42 53</td>\n<td>Schöpfer, Joh., Architekt, Gaisburgstr. 18</td>\n</tr>\n<tr>\n<td>7 06 64</td>\n<td>Schöpfer, Karl, Steuerber., Vaih.Str. 6</td>\n</tr>\n<tr>\n<td>2 52 22</td>\n<td>Schöpp, Alfr., Kfm., Lessingstr. 19</td>\n</tr>\n<tr>\n<td>2 43 64</td>\n<td>Schöpp, Ludwig, Ing., Rosenstr. 44</td>\n</tr>\n<tr>\n<td>7 44 57</td>\n<td>Schöppert, Hauptm., Olgastr. 120</td>\n</tr>\n<tr>\n<td>2 24 22</td>\n<td>Schörle, Friedr., Sitzmöbel, Falkertstr. 79B</td>\n</tr>\n<tr>\n<td>2 31 64</td>\n<td>Schöttle, Gg., Möbelfbr., Eberhardstr. 65</td>\n</tr>\n<tr>\n<td>7 42 97</td>\n<td>Schöttle, Dr. Gotth., Arzt, Hohenst.Str. 17</td>\n</tr>\n<tr>\n<td>6 61 10</td>\n<td>Schöttle, H., Hauptmannsreute 89</td>\n</tr>\n<tr>\n<td>5 22 43</td>\n<td>Schöttle, Herm., Schlosser, <i>Fub</i> Wiesenstr. 6</td>\n</tr>\n<tr>\n<td>7 22 48</td>\n<td>Schoettle, K. G., Fabrkt., Sonn, Falk.Str. 8</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Stuttgart: Schneide",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "12"
+          },
+          {
+            "extension": "2",
+            "text": "88"
+          },
+          {
+            "extension": "5",
+            "text": "31"
+          },
+          {
+            "extension": "5",
+            "text": "19"
+          },
+          {
+            "extension": "2",
+            "text": "09"
+          },
+          {
+            "extension": "4",
+            "text": "09"
+          },
+          {
+            "extension": "2",
+            "text": "28"
+          },
+          {
+            "extension": "7",
+            "text": "88"
+          },
+          {
+            "extension": "4",
+            "text": "30"
+          },
+          {
+            "extension": "2",
+            "text": "07"
+          },
+          {
+            "extension": "2",
+            "text": "03"
+          },
+          {
+            "extension": "7",
+            "text": "14"
+          },
+          {
+            "extension": "7",
+            "text": "25"
+          },
+          {
+            "extension": "6",
+            "text": "38"
+          },
+          {
+            "extension": "2",
+            "text": "16"
+          },
+          {
+            "extension": "5",
+            "text": "26"
+          },
+          {
+            "extension": "7",
+            "text": "31"
+          },
+          {
+            "extension": "5",
+            "text": "29"
+          },
+          {
+            "extension": "9",
+            "text": "12"
+          },
+          {
+            "extension": "3",
+            "text": "00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "16"
+          },
+          {
+            "extension": "6",
+            "text": "00"
+          },
+          {
+            "extension": "9",
+            "text": "02"
+          },
+          {
+            "extension": "2",
+            "text": "60"
+          },
+          {
+            "extension": "6",
+            "text": "14"
+          },
+          {
+            "extension": "2",
+            "text": "39"
+          },
+          {
+            "extension": "2",
+            "text": "12"
+          },
+          {
+            "extension": "8",
+            "text": "16"
+          },
+          {
+            "extension": "6",
+            "text": "00"
+          },
+          {
+            "extension": "4",
+            "text": "18"
+          },
+          {
+            "extension": "3",
+            "text": "13"
+          },
+          {
+            "extension": "3",
+            "text": "04"
+          },
+          {
+            "extension": "29",
+            "text": "87"
+          },
+          {
+            "extension": "8",
+            "text": "03"
+          },
+          {
+            "extension": "7",
+            "text": "21"
+          },
+          {
+            "extension": "2",
+            "text": "38"
+          },
+          {
+            "extension": "4",
+            "text": "15"
+          },
+          {
+            "extension": "2",
+            "text": "85"
+          },
+          {
+            "extension": "3",
+            "text": "06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>7 02 95</td>\n<td>Scholz, Kurt, Vertr., Hohentwielstr. 138</td>\n</tr>\n<tr>\n<td>6 05 01</td>\n<td>Scholz, Kurt, Vertr., Klopstockstr. 54</td>\n</tr>\n<tr>\n<td>6 08 13</td>\n<td>Scholze, Werner, Vertr., Hasenbergstr. 68</td>\n</tr>\n<tr>\n<td>5 23 49</td>\n<td>Schomacker, Ernst, Friseur, Cst Taubenheimstr. 31</td>\n</tr>\n<tr>\n<td>6 50 06</td>\n<td>Schopf, Eug., Studienrat, Hauptm.R. 90</td>\n</tr>\n<tr>\n<td>6 02 57</td>\n<td>Schopf, Gottfr., Kfm., Rotebühlstr. 91</td>\n</tr>\n<tr>\n<td>2 10 06</td>\n<td>Schopf, Hel., Frau, Birkenwaldstr. 135</td>\n</tr>\n<tr>\n<td>8 02 13</td>\n<td>Schopf, Karl, Kunsthdlg., <i>Feu</i> St.Pöltener Straße 19</td>\n</tr>\n<tr>\n<td>4 17 16</td>\n<td>Schopf &amp; Elisele, Rolladenfbr., Kanonenweg 237</td>\n</tr>\n<tr>\n<td>7 84 33</td>\n<td>Schopf, Paula, Ww., <i>Vh</i> Gerokstr. 10</td>\n</tr>\n<tr>\n<td>5 11 87</td>\n<td>Schopf, Walter, Baurat, Cst Taubenh.Str. 90</td>\n</tr>\n<tr>\n<td>29 89 26</td>\n<td>Schopf, Wilh., Fuhrgesch., Pleningen</td>\n</tr>\n<tr>\n<td>6 07 85</td>\n<td>Schopp, G., Buchdr., Senefelderstr. 99</td>\n</tr>\n<tr>\n<td>6 16 28</td>\n<td>Schopper, E., Eisenwr., Luwdigstr. 76</td>\n</tr>\n<tr>\n<td>3 11 88</td>\n<td>Schopper, H., Archit., <i>Unth</i> Sattelstr. 9</td>\n</tr>\n<tr>\n<td>5 19 14</td>\n<td>Schopper, Karl, Ing., Cst Rippolds.Str. 4</td>\n</tr>\n<tr>\n<td>6 20 74</td>\n<td>Schopper, Otto, Vertr., Grimmstr. 18</td>\n</tr>\n<tr>\n<td>0 00 00</td>\n<td>Telefon</td>\n</tr>\n<tr>\n<td>0 00 00</td>\n<td>Wirk</td>\n</tr>\n<tr>\n<td>0 00 00</td>\n<td>Wissn</td>\n</tr>\n<tr>\n<td>0 00 00</td>\n<td>Wirk</td>\n</tr>\n<tr>\n<td>0 00 00</td>\n<td>Cst</td>\n</tr>\n<tr>\n<td>0 00 00</td>\n<td>50</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"28 0 998 996\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>6 60 98</td>\n<td>Schopper, Wilh.,</td>\n<td>Vertr.,</td>\n<td>Reinsb.Str.</td>\n<td>197</td>\n</tr>\n<tr>\n<td>2 35 94</td>\n<td>Schorch-Werke-AG,</td>\n<td></td>\n<td>RoteStr.</td>\n<td>25</td>\n</tr>\n<tr>\n<td>6 63 52</td>\n<td>Schork, Georg,</td>\n<td>Vertr.,</td>\n<td>Augustenstr.</td>\n<td>56</td>\n</tr>\n<tr>\n<td>5 30 63</td>\n<td>Schornstein, Dr. Th.,</td>\n<td>Arzt,</td>\n<td>Cst Badstr.</td>\n<td>2</td>\n</tr>\n<tr>\n<td>6 51 45</td>\n<td>Schornsteinfeger-Innung,</td>\n<td></td>\n<td>Reinsb.Str.</td>\n<td>128</td>\n</tr>\n<tr>\n<td>6 57 68</td>\n<td>Schopp, Julius,</td>\n<td>Friseur,</td>\n<td>Bismarckstr.</td>\n<td>71</td>\n</tr>\n<tr>\n<td>9 06 08</td>\n<td>Schorpp, Otto,</td>\n<td>Gipser,</td>\n<td>Sill Kirchh.Str.</td>\n<td>21</td>\n</tr>\n<tr>\n<td>2 25 70</td>\n<td>Schorr, Anna,</td>\n<td>Weinhdlg.,</td>\n<td>Silberb.Str.</td>\n<td>62A</td>\n</tr>\n<tr>\n<td>7 10 91</td>\n<td>Schorr, Ludw.,</td>\n<td>Kfm.,</td>\n<td>Filderstr.</td>\n<td>39</td>\n</tr>\n<tr>\n<td>6 45 40</td>\n<td>Schorse, Werner,</td>\n<td>Versich.,</td>\n<td>Osianderstr.</td>\n<td>5</td>\n</tr>\n<tr>\n<td>9 22 80</td>\n<td>Schosnig, Dr. F.,</td>\n<td>Arzt,</td>\n<td>Sill Kirchh.Str.</td>\n<td>64</td>\n</tr>\n<tr>\n<td>5 08 41</td>\n<td>Schosser, Alfons,</td>\n<td>Pfarrer,</td>\n<td>Cst Taubenh.</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Straße</td>\n<td>26</td>\n</tr>\n<tr>\n<td>2 10 76</td>\n<td>Schosser, Otto,</td>\n<td>Fleischwr.,</td>\n<td>Heilbr.Str.</td>\n<td>77</td>\n</tr>\n<tr>\n<td>6 31 96</td>\n<td>Schott, Albert,</td>\n<td>Dr. jur.,</td>\n<td>Rotebühlstr.</td>\n<td>72</td>\n</tr>\n<tr>\n<td>6 16 80</td>\n<td>Schott, Alfred,</td>\n<td>Baurat,</td>\n<td>Hasenbergstr.</td>\n<td>54</td>\n</tr>\n<tr>\n<td>2 26 93</td>\n<td>Schott, Dr. Arth.,</td>\n<td>Reg.Rat,</td>\n<td>Christophstr.</td>\n<td>35</td>\n</tr>\n<tr>\n<td>7 04 31</td>\n<td>Schott, Anna,</td>\n<td>Ww.,</td>\n<td>Deg Waldstr.</td>\n<td>8</td>\n</tr>\n<tr>\n<td>7 14 24</td>\n<td>Schott, Emma,</td>\n<td>Gasthaus,</td>\n<td>Hauptst.Str.</td>\n<td>127</td>\n</tr>\n<tr>\n<td>7 30 41</td>\n<td>Schott, Dr. Ernst,</td>\n<td>R.A. [N],</td>\n<td>Olgastr.</td>\n<td>108</td>\n</tr>\n<tr>\n<td>7 02 72</td>\n<td>Dera</td>\n<td>Wohn</td>\n<td>Nene Weinsteige</td>\n<td>21</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 988 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>7 51 50</td>\n<td>SCHOTT-Garagen, Autorepar., Auerstr. 40</td>\n</tr>\n<tr>\n<td>2 42 01</td>\n<td>Karl Aug. Schott &amp; Roth, Schirmfbr.,<br/>Eßlinger Str. 18</td>\n</tr>\n<tr>\n<td>6 23 11</td>\n<td>Schott, Paul, Malermstr., Gutenb.Str. 79</td>\n</tr>\n<tr>\n<td>4 13 42</td>\n<td>Schott, Dr. Stefan, Dir., Bardiliw. 13</td>\n</tr>\n<tr>\n<td>6 53 03</td>\n<td>Schotte, Paul, Pianist, Johannesstr. 35</td>\n</tr>\n<tr>\n<td>6 62 32</td>\n<td>Schotte, Werner, Prok., Steinenh.Str. 7</td>\n</tr>\n<tr>\n<td>9 06 85</td>\n<td>Schotterer, Ferd., Gänswaldweg 25</td>\n</tr>\n<tr>\n<td>8 19 37</td>\n<td>Schotterwerk Hochdorf, <i>Neu</i> Neufferstr. 80</td>\n</tr>\n<tr>\n<td>7 27 43</td>\n<td>Schottlaender, Felix, Dr. phil., <i>Deg</i> Lö-<br/>wenstraße 123</td>\n</tr>\n<tr>\n<td>2 15 87</td>\n<td>v. Schoultz, G., Im Schellenkönig 16</td>\n</tr>\n<tr>\n<td>6 58 81</td>\n<td>Schrack, Helmut, Vertr. Vogelsangstr. 151</td>\n</tr>\n<tr>\n<td>5 18 63</td>\n<td>Schrack, Wilh., Dir., <i>Cst</i> Dennerstr. 58</td>\n</tr>\n<tr>\n<td>7 85 47</td>\n<td>Schrade, Fritz, Kfm., <i>Vh</i> Paulinenw. 5</td>\n</tr>\n<tr>\n<td>4 13 26</td>\n<td>Schrade, Hans, Autorep., Poststr. 28</td>\n</tr>\n<tr>\n<td>2 74 34</td>\n<td>Schrade, Hugo, Vertr., Kernerstr. 47</td>\n</tr>\n<tr>\n<td>7 21 40</td>\n<td>Schrade, Joh., Bäckerei, <i>Möhr</i> Rosenstr. 38</td>\n</tr>\n<tr>\n<td>8 06 23</td>\n<td>Schrader, Hugo, Drogen, <i>Feu</i> Blud.Str. 26</td>\n</tr>\n<tr>\n<td>8 22 36</td>\n<td>Ders., Wohn., Dornbuschweg 37</td>\n</tr>\n<tr>\n<td>6 55 29</td>\n<td>Schrader, W., Kunstmaler, Kasernenstr. 36</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 988 934\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>7 41 93</td>\n<td>Schräpler, O., Buchhdlr., <i>Dez</i> Scheerstr. 30</td>\n</tr>\n<tr>\n<td>2 59 67</td>\n<td>Derselbe, Geschäft</td>\n</tr>\n<tr>\n<td>6 03 06</td>\n<td>Schraft, Friedr., Weine, <i>Botn</i> Schubertstraße 46</td>\n</tr>\n<tr>\n<td>4 00 43</td>\n<td>Schraft, Hanna, Ww., Rudolfstr. 9</td>\n</tr>\n<tr>\n<td>7 25 65</td>\n<td>Schraft, R., Autoreifenrep., Tüb.Str. 49</td>\n</tr>\n<tr>\n<td>6 13 86</td>\n<td>Schraft, Rudolf, Reg.Amtm., Botn.Str. 81</td>\n</tr>\n<tr>\n<td>7 09 62</td>\n<td>Schraft, Wilh., Bäckerei, Mörikestr. 58</td>\n</tr>\n<tr>\n<td>5 18 57</td>\n<td>Schraft, Wilh., Kond., <i>Mstr</i> Ammergasse 3</td>\n</tr>\n<tr>\n<td>7 00 56</td>\n<td>Schrag, Andreas, Gemischtwr., Hahnstr. 6</td>\n</tr>\n<tr>\n<td>7 01 24</td>\n<td>Schrag, Wilh., Baumstr., <i>Dez</i> Kauzenh. 2</td>\n</tr>\n<tr>\n<td>4 13 68</td>\n<td>Schraishuon &amp; Co, Gewürzmühle, Hallbergerstr. 3</td>\n</tr>\n<tr>\n<td>9 13 67</td>\n<td>Schraivogel, Anton, Kfm., Eberhardstr. 13</td>\n</tr>\n<tr>\n<td>6 06 75</td>\n<td>Schramm, Farben, Rosenbergstr. 52</td>\n</tr>\n<tr>\n<td>5 30 48</td>\n<td>Schramm, Adolf, Kfm., <i>Cst</i> Geiger 54</td>\n</tr>\n<tr>\n<td>3 13 90</td>\n<td>Schramm, Ant., Kfm., <i>Unth</i> Stierlenstr. 23</td>\n</tr>\n<tr>\n<td>6 27 41</td>\n<td>Schramm, Fritz, Vertr., Reinsburgstr. 192</td>\n</tr>\n<tr>\n<td>4 15 49</td>\n<td>Schramm, Harry, Marquardtstr. 43</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "— Schuckall (Band V) 515",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 10 806 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 30 05</td>\n<td>Schramm, Hugo, Dr.Ing.,</td>\n<td>Cst Dinkelsb.</td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"2\">Straße 25</td>\n</tr>\n<tr>\n<td>7 36 02</td>\n<td>Schramm, M., Ing.,</td>\n<td>Strohberg 1</td>\n</tr>\n<tr>\n<td>8 14 84</td>\n<td>Schramm, O., Bäck.,</td>\n<td><i>Feu</i> Bugenl.Str. 84</td>\n</tr>\n<tr>\n<td>8 17 36</td>\n<td>Schramm, Otto,</td>\n<td><i>Stam</i> Zasenhäuserstr. 25</td>\n</tr>\n<tr>\n<td>2 93 92</td>\n<td>Schramm, Otto, Buchhdlr.,</td>\n<td>Helfferichstr.10</td>\n</tr>\n<tr>\n<td>5 09 71</td>\n<td>Schramm u. Bansbach,</td>\n<td>Autoteile, Cst Kissinger Str. 33</td>\n</tr>\n<tr>\n<td>8 20 30</td>\n<td>A. u. R. Schrank, Maler,</td>\n<td><i>Stam</i> Uhlandstr. 4</td>\n</tr>\n<tr>\n<td>2 75 74</td>\n<td>Schraub, Jakob, Kfm.,</td>\n<td>Moserstr. 20</td>\n</tr>\n<tr>\n<td>3 01 65</td>\n<td>Schray, Emilie, Bäckerei,</td>\n<td><i>Hedlf</i> RüterStr.21</td>\n</tr>\n<tr>\n<td>5 08 83</td>\n<td>Schrayshuen, L., Tabakw.,</td>\n<td>Cst Waihl.Str.4</td>\n</tr>\n<tr>\n<td>9 06 75</td>\n<td>Schreckenhöfer, Anton,</td>\n<td>Gastwirt, Nordb. Straße 77</td>\n</tr>\n<tr>\n<td>6 12 94</td>\n<td>A. Schreiber &amp; Th. Beetz,</td>\n<td>Glaserei, Gutenbergstr. 50</td>\n</tr>\n<tr>\n<td>7 45 32</td>\n<td>Schreiber, Adolf, Auto,</td>\n<td><i>Möhr</i> Friedr.Str. 57</td>\n</tr>\n<tr>\n<td>3 00 78</td>\n<td>Schreiber, Albert, Autoverm.,</td>\n<td><i>Heu</i> Dreiz. Straße 26</td>\n</tr>\n<tr>\n<td>4 10 10</td>\n<td>Schreiber, E., Graph.</td>\n<td>Kunstanst., Hackstraße 77</td>\n</tr>\n<tr>\n<td>9 22 79</td>\n<td>Schreiber</td>\n<td>Erwin Schlotenzar Turmstr 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 0 801 985\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>4 14 73</td>\n<td>Schreiber, Eugen, Mutzenbr., Hornbergstraße 100</td>\n</tr>\n<tr>\n<td>6 43 06</td>\n<td>Schreiber, Eug., Uhren, Gutenbergstr. 47a</td>\n</tr>\n<tr>\n<td>6 12 36</td>\n<td>Schreiber, Eug., Heilkunde, Forststr. 85</td>\n</tr>\n<tr>\n<td>2 44 95</td>\n<td>Schreiber, Gertr., Lehrerin, Mönchh. Str. 95</td>\n</tr>\n<tr>\n<td>4 10 35</td>\n<td>Schreiber, Hr., Gasthaus, Hornb. Str. 102</td>\n</tr>\n<tr>\n<td>4 10 92</td>\n<td>Schreiber, Heinr., Baugesch., Schurwaldstraße 48</td>\n</tr>\n<tr>\n<td>6 11 42</td>\n<td>Schreiber, J.F., Gr. Kunstanst., Moltkestr. 96</td>\n</tr>\n<tr>\n<td>8 17 96</td>\n<td>Schreiber, Karl, Buchhdlg., <i>Zuff</i> Markgröninger Str. 26</td>\n</tr>\n<tr>\n<td>7 14 29</td>\n<td>Schreiber, Karl, Wäscherei, Römerstr. 55</td>\n</tr>\n<tr>\n<td>5 12 72</td>\n<td>Schreiber, Margar., Heilgeräte, <i>Cst</i> Eisenbahnstr. 40</td>\n</tr>\n<tr>\n<td>8 24 07</td>\n<td>Schreiber, Martin, Stud. Rat, <i>Wild</i> Zuffenh. Straße 75</td>\n</tr>\n<tr>\n<td>2 18 03</td>\n<td>Schreiber, Paul, techn. Leiter, Dobelstr. 4</td>\n</tr>\n<tr>\n<td>7 22 34</td>\n<td>Schreiber, Regina, Mode, Burgstallstr. 100</td>\n</tr>\n<tr>\n<td>2 65 80</td>\n<td>Schreiber, R., Versich., Friedrichstr. 1B</td>\n</tr>\n<tr>\n<td>7 11 90</td>\n<td>Schreiber, Wilh., Tuche, Tübinger Str. 21</td>\n</tr>\n<tr>\n<td>3 01 84</td>\n<td>Schreiber, Wilh., Maler, <i>Heu</i> Dreizlerstr. 20</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "straße 22",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 800 984\" data-label=\"Text\"><table><tbody><tr><td>7 28 94</td><td>Schrempf, Karl, Armaturen, <i>Deg</i> Wurm-<br/>lingerStr. 10</td></tr><tr><td>6 51 94</td><td>Schrempf, Luise, Pension, Hermannstr. 13</td></tr><tr><td>4 16 17</td><td>Schrempf, R., Install., Landhausstr. 36</td></tr><tr><td>4 08 69</td><td>Schrempf, Rich., Bäckerei, Ostendstr. 10</td></tr><tr><td>6 06 93</td><td>Schrempf, Wilh., Kfm., <i>Botn</i> Faißtweg 19</td></tr><tr><td>7 16 38</td><td>Schrenk, Lotte, Gymnastik, <i>Deg</i> Hain-<br/>buchenweg 45</td></tr><tr><td>2 54 25</td><td>Schrenk, Theodor, Prälat, Kanzleistr. 5</td></tr><tr><td>7 25 71</td><td>Schretzmann, E., Reklame, Fangelsb.Str. 5</td></tr><tr><td>9 13 62</td><td>Schrey, Gustaf, Dr., Herdweg 60</td></tr><tr><td>6 58 85</td><td>Schreyer, Anton, H., Major, Klopst.Str. 19</td></tr><tr><td>4 17 84</td><td>Schreyer, Fritz, Archit., Neckarstr. 92</td></tr><tr><td>6 06 27</td><td>Schreyer, Heinz, Archit., Gaußstr. 57</td></tr><tr><td>2 96 88</td><td>Schreyer, Minna, Prokuristin, Dobelkl. 5</td></tr><tr><td>29 95 45</td><td>Schreyer, Wilh., Postamt., Lautensch.<br/>Straße 17</td></tr><tr><td>6 13 71</td><td>Schrezenmeier, X., Tapez., Roteb.Str. 163</td></tr><tr><td>5 22 36</td><td>Schrittner, Kil., Papier, <i>Cst</i> Dürrh.Str. 11</td></tr><tr><td>7 20 13</td><td>Schrode, Franz, Landmasch., <i>Deg</i> Bälzst. 71</td></tr><tr><td>6 18 71</td><td>Schrode, Gebhard, Butter, Schwabstr. 6</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 797 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>(6 09 42)</td>\n<td>Schröder, Aug., Verleger, Cottastr. 56</td>\n</tr>\n<tr>\n<td>2 56 55</td>\n<td>Schröder, C.F., Schmirmgelw., Kriegsb.Str. 7</td>\n</tr>\n<tr>\n<td>7 42 47</td>\n<td>Schröder, Dr. Fritz, O.Spielstr., <i>Möhr</i><br/>Saarl.Str. 4</td>\n</tr>\n<tr>\n<td>7 43 47</td>\n<td>Schröder, Line, Ww., <i>Deq</i> O.Weinsteige 47</td>\n</tr>\n<tr>\n<td>3 00 47</td>\n<td>Schröder, Marie, Ww., <i>Heu</i> BergerStr. 15</td>\n</tr>\n<tr>\n<td>6 14 56</td>\n<td>Schröder, Otto, Vertr., Reinsb.Str. 146</td>\n</tr>\n<tr>\n<td>7 34 34</td>\n<td>Schröder, Walter, Dir., <i>Deq</i> Nägelestr. 8</td>\n</tr>\n<tr>\n<td>5 17 86</td>\n<td>Schröder, Walter, Kfm., <i>Cst</i> Geiger 47</td>\n</tr>\n<tr>\n<td>7 86 51</td>\n<td>Schröder, W. W., Vertr., <i>Vh</i> Krehlstr. 40</td>\n</tr>\n<tr>\n<td>9 06 12</td>\n<td>Schroeder, W., Elektro-App., Irdstr. 56</td>\n</tr>\n<tr>\n<td>8 04 54</td>\n<td><b>Schröder-Apparate K.-G., Stuttgart-Feuer-</b><br/><b>bach, Adolf-Hitler-Str. 27. P 910</b></td>\n</tr>\n<tr>\n<td>6 22 73</td>\n<td>Schröer, Adolf, Schreinernstr., Silberb.<br/>straße 96</td>\n</tr>\n<tr>\n<td>6 08 03</td>\n<td>Schröpel, Rosa, Kol.W., Steinenh.Str. 31</td>\n</tr>\n<tr>\n<td>6 46 06</td>\n<td>Schroers, Matthias, <i>Botn</i> Lortzingstr. 34</td>\n</tr>\n<tr>\n<td>3 13 04</td>\n<td>Schröter, Ernst, Ing., <i>Uhlb</i> W.Kurle-Str. 18</td>\n</tr>\n<tr>\n<td>6 49 98</td>\n<td>Schröter, Karl, Kfm., Seyfferstr. 27</td>\n</tr>\n<tr>\n<td>7 00 20</td>\n<td>Schroeter, W., Schulrat, <i>Sonn</i> Laustr. 10</td>\n</tr>\n<tr>\n<td>A 2A 72</td>\n<td>v Schröter Helene Technikstr 22</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "32"
+          },
+          {
+            "extension": "2",
+            "text": "55"
+          },
+          {
+            "extension": "6",
+            "text": "55"
+          },
+          {
+            "extension": "9",
+            "text": "04"
+          },
+          {
+            "extension": "8",
+            "text": "16"
+          },
+          {
+            "extension": "2",
+            "text": "34"
+          },
+          {
+            "extension": "4",
+            "text": "21"
+          },
+          {
+            "extension": "4",
+            "text": "05"
+          },
+          {
+            "extension": "6",
+            "text": "03"
+          },
+          {
+            "extension": "2",
+            "text": "72"
+          },
+          {
+            "extension": "4",
+            "text": "16"
+          },
+          {
+            "extension": "2",
+            "text": "28"
+          },
+          {
+            "extension": "7",
+            "text": "25"
+          },
+          {
+            "extension": "2",
+            "text": "42"
+          },
+          {
+            "extension": "6",
+            "text": "34"
+          },
+          {
+            "extension": "2",
+            "text": "16"
+          },
+          {
+            "extension": "7",
+            "text": "08"
+          },
+          {
+            "extension": "8",
+            "text": "22"
+          },
+          {
+            "extension": "7",
+            "text": "36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

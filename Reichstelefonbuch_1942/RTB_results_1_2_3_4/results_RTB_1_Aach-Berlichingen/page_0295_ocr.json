@@ -1,0 +1,819 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"230 12 997 992\" data-label=\"List-Group\">\n<p>\n    839 Weine, Fritz, Drogerie, Königstr. 1<br/>\n    750 v. Werder, Oberst<br/>\n    549 Westdeutsches Wachtkommando<br/>\n    770 Westf. Landeszeitung „Rote Erde“, Markt 24<br/>\n    248 Westfälische Zellstoff A.-G.<br/>\n    „Alphalint“, Hauptverwaltung, Königstr. 11.<br/>\n    T Ruhrzell, Faxr 279 Dortmund 03 Ruhrzell<br/>\n    P Dortmund 37477<br/>\n    730 Dieselbe, Werk Wildshausen, Post Oeventrop<br/>\n    i. Westf. (Fernruf auch Freienohl 245). T Edel-<br/>\n    zellstoff Oeventrop<br/>\n    ... Dieselbe, Werk Peschelmühle (Fernruf Weesen-<br/>\n    stein 36). T Edelzellstoff Heidenau<br/>\n    838 Wick'l, Wilh., Steuerberater, Grafenstr. 81<br/>\n    666 Widekind, Hugo, R.-A.[N], Brückenplatz 7<br/>\n    895 Derselbe, Wohnung Eichholzstr. 9<br/>\n    690 Wiegelmann, F., Bäckerei, Feldstr. 1<br/>\n    734 Wiegelmann, L., Mehlh., Bahnhofsstr. 76.<br/>\n    426 Wiemann, Dr. Jos., Min.-Rat, H.-Göring-Str. 22<br/>\n    882 Wiesehöfer, Engelh., Kolonialw., Haarstr. 24<br/>\n    468 Wiesehoff, Ant., Bürgermstr., Untrop, Dorf-<br/>\n    straße 12\n  </p>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"233 0 997 978\" data-label=\"List-Group\"><p>288 Wiesehoff, Herm., Meiereiprod., Untrop.<br/>735 Wiesenthal, M., Gärtner, H.-Görling-Str. 27<br/>306 Wilcke, Major der Gendarmerie<br/>538 Willeke, Wilh., Baugeschäft, Ruhrstr. 10.<br/>329 Wilmes, Jos., Landw., Kapune.<br/>373 Winter, Ant., Schlosserei, Johannisstr. 7<br/>790 Wirtschaftsgr. Gastst.-Gew., Bhf.-Str. 51<br/>798 Witte jr., A., Schneider, Johannisstr.<br/>225 Wortmann, Heinr., Schuhw., Johannisstr. 8<br/>660 Wortmann, Th., Möbelhdlg., Klosterstr. 3<br/>838 Wrede, Berufsfachsch., Brückenpl. 6<br/>657 Wulf, Jos., Fuhrgesch., Jahnstr. 14<br/>304 Zeug, Dr. Max, Veterinärerrat, Seibertzstr. 1<br/>625 Ziehm, K., Stoffe, Königstr. 33<br/>621 Gebr. Zimmermann, Bahnbau, Degenering 8<br/>747 Zimmermann, Walter, Fuhrwesen, Hasenwinkel<br/>817 Zöllner, Jos., Möbel, Apothekenstr. 5</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Arnschwang (Oberpfalz) [Bay.]",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "Christl, Xaver, Gastwirt"
+          },
+          {
+            "extension": "15",
+            "text": "Gemeinde Dalking, Bürgerm. Max Daschner"
+          },
+          {
+            "extension": "4",
+            "text": "Gendarmeriestation"
+          },
+          {
+            "extension": "8",
+            "text": "Halmerl, Marie, Hebamme, Weiding"
+          },
+          {
+            "extension": "6",
+            "text": "Heigl, Fritz, Gastwirt, Dalking"
+          },
+          {
+            "extension": "7",
+            "text": "Kager, Alois, Gastwirt"
+          },
+          {
+            "extension": "1",
+            "text": "Mühlbauer, Xaver, Brauereibesitzer"
+          },
+          {
+            "extension": "13",
+            "text": "Nutriafarm-Lonka, Arnschwang"
+          },
+          {
+            "extension": "28",
+            "text": "Obermeier, Fritz, Sattlerei"
+          },
+          {
+            "extension": "2",
+            "text": "Pfarramt, Katholisches"
+          },
+          {
+            "extension": "16",
+            "text": "Reichsbahn, Bahnhof Arnschwang"
+          },
+          {
+            "extension": "12",
+            "text": "Seldl, Alois, Kohlenhdlg."
+          },
+          {
+            "extension": "9",
+            "text": "Spar- u. Darlehnskasse eGmbH, Zenching"
+          },
+          {
+            "extension": "3",
+            "text": "Wensauer, Josef, Kaufmann"
+          },
+          {
+            "extension": "14",
+            "text": "Wittmann, Josef, Mühle, Wöhrmühle"
+          },
+          {
+            "extension": "11",
+            "text": "Wutz, Fritz, Schreinerei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Arnsdorf (Ermland) [Ostpr.]",
+        "entries": [
+          {
+            "extension": "87",
+            "text": "Alex, Ernst, Bauer, Voigtsdorf"
+          },
+          {
+            "extension": "59",
+            "text": "Anhuth, Artur, Bauer"
+          },
+          {
+            "extension": "75",
+            "text": "Arendt, Josef, Rentier"
+          },
+          {
+            "extension": "79",
+            "text": "Armborst, Aug., Bauer, Kalkstein Abb."
+          },
+          {
+            "extension": "40",
+            "text": "Armborst, Leo, Bauer, Abb. Kalkstein"
+          },
+          {
+            "extension": "76",
+            "text": "Aßmann, Franz, Bauer, Abb. Sommerfeld"
+          },
+          {
+            "extension": "18",
+            "text": "Austen, Aloys, Landwirt, Voigtsdorf"
+          },
+          {
+            "extension": "55",
+            "text": "Bader, Aloys, Bauer, Voigtsdorf"
+          },
+          {
+            "extension": "33",
+            "text": "Bahr, Otto, Bauer, Kalkstein"
+          },
+          {
+            "extension": "83",
+            "text": "Basner, Eduard, Ortsbauernführer, Abb."
+          },
+          {
+            "extension": "26",
+            "text": "Behrendt, Adalbert, Kolonialwaren"
+          },
+          {
+            "extension": "82",
+            "text": "Block, Bruno, Fleischwaren"
+          },
+          {
+            "extension": "64",
+            "text": "Bludau, Anton, Bauer, Abbau Kalkstein"
+          },
+          {
+            "extension": "93",
+            "text": "Bludau, Theodor, Fleischbesch., Voigtsdorf"
+          },
+          {
+            "extension": "32",
+            "text": "Braun, Alfons, Bauer, Regerteln"
+          },
+          {
+            "extension": "56",
+            "text": "Certa, Leo, Kolonialwr."
+          },
+          {
+            "extension": "06",
+            "text": "Demandt, Bernh., Maschinen."
+          },
+          {
+            "extension": "74",
+            "text": "Denniger, Bauunternehmer"
+          },
+          {
+            "extension": "96",
+            "text": "Drogerie, Wichmann, Arnsdorf"
+          },
+          {
+            "extension": "20",
+            "text": "Ehl Alfons Bauer Abb Falkenstein"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 0 970 990\" data-label=\"List-Group\"><ul><li>94 Fahl, Franz, Schmiedemeister</li><li>13 Feyder, Aloys, Bauer, Abb. Voigtsdorf</li><li>50 Fligg, Karl, Bez.-Kommiss. d. Feuersozietät</li><li>77 Fox, Paul, Bauer, Abbau</li><li>80 Gredig, Alfred, Manufakturwaren</li><li>43 Groß, Otto, Bauer, Abb.</li><li>30 Grunwald, Anton, Landwirt, Abb. Kalkstein</li><li>28 Herrmann, Alfred, Landwirt</li><li>42 Hiepel, Maria, Hebamme</li><li>85 Holz, Julius, Bauer</li><li>88 Holzkl, Franz, Bauer, Kalkstein</li><li>48 Karbaum, Vitalis, Bauer, Abb.</li><li>91 Katharinenschwestern</li><li>12 Katholisches Pfarramt</li><li>65 Kathol. Pfarramt, Kalkstein</li><li>08 Klafki, Anton, Bauer, Abbau Sommerfeld</li><li>45 Klein, Erich, Bauer, Benern, Abb.</li><li>21 Kluth, Bruno, Bauer, Sommerfeld</li><li>23 Kluth, Leo, Bauer, Voigtsdorf</li><li>54 Kraemer, Landwirt, Sommerfeld</li><li>89 Krause, Eduard, Landwirt, Voigtsdorf</li></ul></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 0 911 994\" data-label=\"Text\"><p>78 Kuhn, Leo, Bauer, Abbau<br/>24 Kuhn, Oskar, Bauer, Abbau<br/>29 Kuhnigk, Landw., Kalkstein<br/>86 Labusch, Val., Bauer, Abb.<br/>41 Lange, Emil, Bauer, Regerteln-Abb.<br/>72 Lehrmann, Aug., Fahrradhändler<br/>51 Lilienweiß, Bürgermeister Erml.<br/>46 Lilienweiß, Martha, Landwirtin, Abbau<br/>58 Menzel, Adolf, Bauer, Lauterwalde, Abb.<br/>10 Menzel, Eduard, Landwirt, Kalkstein<br/>17 Merten, Adolf, Bauer, Voigtsdorf<br/>07 Molkerei-Genossenschaft<br/>22 Nadolski, Hedwig<br/>98 Neumann, Hermann, Gärtner<br/>71 NS Volkswohlfahrt, Lehrer Krüger<br/>81 Packheiser, Adolf, Bauer, Voigtsdorf<br/>81 Perk, Aloys, Bauer, Sommerfeld<br/>25 Pohlmann, Franz, Bauer, Abb.<br/>69 Prothmann, Bauer, Abb. Kalkstein<br/>19 Raiffeisen An- u. Verkaufsgen. eGmbH<br/>00 Deutsche Post Telephon Reichszone</p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 0 875 489\" data-label=\"List-Group\"><ul><li>49 Reichsbahn-Güterabfertigung, Arnsdorf</li><li>27 Schacht, Otto, Bauer, Abb.</li><li>15 Scharffenorth, Maria, Abb.</li><li>44 Schmidt, Hugo, Fleischbeschauer</li></ul></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"945 792 988 924\" data-label=\"Image\"><img alt=\"Small black silhouette of a person sitting at a desk, likely a logo or watermark.\"/>A small, black silhouette of a person sitting at a desk, possibly a typist or writer, positioned in the bottom right corner of the page. The figure is facing left and appears to be leaning over the desk.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 18 884 977\" data-label=\"Text\"><p>90 Schmidt, Josef, Bürgermstr.<br/>47 Subczak, Dr. Josef, Arzt<br/>66 Stange, Valentin, Kolonialwr., Kalkstein<br/>14 Steffen, Eduard, Bauer, Sommerfeld<br/>16 Taube, Jullus, Bauer, Sommerfeld<br/>34 Taube, Konrad, Bauer, Sommerfeld<br/>36 Thater, Bernh., Bauer, Abb.<br/>70 Thater, Heinrich, Kolonialwaren<br/>52 Tolksdorf, Emil, Kolonialwaren.<br/>73 Wedig, Lehrer<br/>92 Wedig, Voigtsdorf<br/>67 Wichmann, Bruno, Bauer, Voigtsdorf<br/>53 Wichmann, Leo, Dentist<br/>89 Zagermann, Aloys, Bauer, Sommerfeld.<br/>88 Zielinski, Fritz, Kolonialwr., Sommerfeld</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Arnsdorf (Kr. Liegnitz)[Niederschles.]",
+        "entries": [
+          {
+            "extension": "260",
+            "text": "Apotheke in Bahnhof Arnsdorf, Bes. E. Horn"
+          },
+          {
+            "extension": "287",
+            "text": "Baier, Aug., Landwirt, Bärsdorf-Trach"
+          },
+          {
+            "extension": "222",
+            "text": "Baumgart, Otto, Fleischermstr., Siegendorf"
+          },
+          {
+            "extension": "303",
+            "text": "Breuer, Wilh., Lehrer, Schule Doberschau"
+          },
+          {
+            "extension": "214",
+            "text": "Bürgermeister Alfred Müller, Doberschau"
+          },
+          {
+            "extension": "218",
+            "text": "Bürgermeister Fellendorf"
+          },
+          {
+            "extension": "252",
+            "text": "Bürgermstr. Speer, Bärsdorf Trach 114"
+          },
+          {
+            "extension": "215",
+            "text": "Dominium Fellendorf Post Liegnitz-Land"
+          },
+          {
+            "extension": "272",
+            "text": "Dominium Siegendorf"
+          },
+          {
+            "extension": "266",
+            "text": "Dunkel, P., Sparkassenverein, Siegendorf"
+          },
+          {
+            "extension": "228",
+            "text": "Erdmann, Alb., Bauer, Sechshufen"
+          },
+          {
+            "extension": "282",
+            "text": "Ev. Pfarramt, Bärsdorf-Trach"
+          },
+          {
+            "extension": "301",
+            "text": "Evang. Pfarramt Steudnitz üb. Haynau"
+          },
+          {
+            "extension": "304",
+            "text": "Friebe, Fritz, Friseur, Bahnhof"
+          },
+          {
+            "extension": "204",
+            "text": "Fulde, Willy, Rechner"
+          },
+          {
+            "extension": "295",
+            "text": "Gasth. z. Eisenbahn, Siegendorf"
+          },
+          {
+            "extension": "209",
+            "text": "Geister, F., Meischer. Ob. Langenwaldau"
+          },
+          {
+            "extension": "248",
+            "text": "Gemüse Zentrale GmbH Liegnitz, Bahnhof"
+          },
+          {
+            "extension": "239",
+            "text": "Goltz, Otto Heinrich, Inspektor, Lobendau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Text\"><p>274 Granzow, Maria, Ww.<br/>300 Günther, Alfred, Bauer, Doberschau<br/>254 Guteche, Herm., Fleischer, Dorfstr. 3b<br/>238 Haase, Gustav, Bauer, Doberschau 12<br/>257 Hain, Gust., Schmiedemstr., Doberschau<br/>292 Hennig, A., Petschendorf<br/>249 Hermann, Carl, Fleischer, Bärsdorf-Trach.<br/>258 Hertwig, Aug., Mühle, Bärsdorf-Trach.<br/>201 Hertwig, Karl, Bauer, Doberschau<br/>227 Hertwig, Martin, Lehrer<br/>242 Hiller, Paul, Gastwirt, Bärsdorf-Trach<br/>292 Hindemith, Gust., Dom.-Pächter, Langenwaldau<br/>251 Hirschberger, F., Install., Bärsdorf-Trach<br/>261 Hobusch, Rob., Bauer, Arnsdorf<br/>216 Höflig, Ernst, Bauer, Bärsdorf-Trach<br/>285 Hoierichter, O., Bauer, Oberlangenwaldau<br/>281 Horstmann, Heinrich, Kolonialwaren<br/>229 Jung, Hermann, Ob. Lobendau<br/>247 v. Kettler, Freifrau, Panthenau<br/>237 Kolenda, Gerhard, Gartenbau, Siegendorf 10<br/>219 Krecker, Martin, prakt. Arzt, Rahnhof Arnsdorf</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 981\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>252</td>\n<td>Kugler, Bruno, Bauer, Bärsdorf-Trach</td>\n</tr>\n<tr>\n<td>226</td>\n<td>Landgemeinde Arnsdorf, Nr. 69</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Dieselbe, Schwesternstation, Siegendorf 84</td>\n</tr>\n<tr>\n<td>279</td>\n<td>Malluche, Otto, Mühle, Siegendorf</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Molkerei Arnsdorf b. Liegnitz, eGmbH</td>\n</tr>\n<tr>\n<td>275</td>\n<td>Mühlchen, Dr. Bernh., Arzt, Arnsdorf</td>\n</tr>\n<tr>\n<td>283</td>\n<td>v. Nickisch, Rosenegk, Sechshufen</td>\n</tr>\n<tr>\n<td>241</td>\n<td>Otte, Herm., Bauer.</td>\n</tr>\n<tr>\n<td>286</td>\n<td>Quägber, Constant, Gastwirt, Langenwaldau 29</td>\n</tr>\n<tr>\n<td>284</td>\n<td>Renner, Ewald, Gasthaus, Ndr. Langenwaldau</td>\n</tr>\n<tr>\n<td>208</td>\n<td>Reichsbahn, Bahnhof</td>\n</tr>\n<tr>\n<td>220</td>\n<td>Reichspost, Zweigpostamt</td>\n</tr>\n<tr>\n<td>209</td>\n<td>Ritter, Ernst, Fleischerei, Bärsdorf-Trach</td>\n</tr>\n<tr>\n<td>233</td>\n<td>Rothkirch, Graf, Bärsdorf-Trach</td>\n</tr>\n<tr>\n<td>217</td>\n<td>Rothkirch u. Trach, Graf H.-S., Panthenau</td>\n</tr>\n<tr>\n<td>271</td>\n<td>Rothkirch'sche Verw., Gräfl., Bärsdorf-Trach</td>\n</tr>\n<tr>\n<td>270</td>\n<td>v. Rothkirch'sches Wirtsch.-Amt Steudnitz</td>\n</tr>\n<tr>\n<td>246</td>\n<td>v. Rothkirch'sches Wirtsch.-Amt Panthenau</td>\n</tr>\n<tr>\n<td>267</td>\n<td>Schäfer, Ida, Bäuerin, Bärsdorf-Trach</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Schlenker, Alfred, Bauer, Doberschau</td>\n</tr>\n<tr>\n<td>277</td>\n<td>Schmidt, E., Bäckerstr., Langenwaldau</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 943 976\" data-label=\"Text\"><p>223 Schulz, Martin, Schlosserei, Arnsdorf<br/>280 Schüller, Helmut, Kolonialwaren<br/>221 Schütz, Margarete, Obermühle Fellendorf<br/>250 Seeliger, Willy, Gasthof z. Strauß.<br/>234 Seidel, Bruno, Kfm., Fellendorf.<br/>268 Sobotta, Herm., Kaufmann<br/>244 Spar- u. Darlehnskasse Bärsdorf-Trach<br/>256 Spar- u. Darlehnskasse Oberlangenwaldau<br/>231 Speer, Alex, Bauer, Lobendau 104<br/>288 Spcer, Willi, Bauer, Bärsdorf-Trach<br/>225 Steinbrecher, Rich., Bauer, Doberschau 45<br/>273 Sygusch, Freigut Siegendorf<br/>253 Tettenborn, Herbert, Tierarzt, Adimiram<br/>213 v. Wedelstaedt, Hans Holm, Nd. Lobendau<br/>263 Weidner, Paul, Arnsdorf<br/>264 Wieland, Fritz, Kantor, Bärsdorf-Trach</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Arnsdorf (Riesengebirge)[Niederschles.]",
+        "entries": [
+          {
+            "extension": "373",
+            "text": "Alexander, Karl, Fabrikdir., Kol. Hainberg"
+          },
+          {
+            "extension": "207",
+            "text": "Althoff, Rudolf, Zahnarzt, Nr. 46"
+          },
+          {
+            "extension": "230",
+            "text": "Amtsvorsteh, Arnsdorf"
+          },
+          {
+            "extension": "222",
+            "text": "Amtsvorsteh, Seidorf"
+          },
+          {
+            "extension": "229",
+            "text": "Annakapelle Seidorf, Gastwirtschaft"
+          },
+          {
+            "extension": "465",
+            "text": "Apotheke Zillertal-Erdmannsdorf"
+          },
+          {
+            "extension": "208",
+            "text": "Arnsdorfer Papier- u. Pappenfabrik, GmbH."
+          },
+          {
+            "extension": "214",
+            "text": "Bahnhof u. Verwalt. d. Riesengebirgsbahn"
+          },
+          {
+            "extension": "404",
+            "text": "Baschw.-Erdmannsd. VerkaufsgemeinschaftGmbH, Dekor.-Art., Zillertal-Erdmannsdorf"
+          },
+          {
+            "extension": "225",
+            "text": "v. Bentivegni, Hilda, Frau, ZiE Gneis, Str. 8"
+          },
+          {
+            "extension": "319",
+            "text": "„Bergheimat“ Erholungsheim, Ober-Seidorf"
+          },
+          {
+            "extension": "390",
+            "text": "Bergmannsbaude, Hotel, Seidorf"
+          },
+          {
+            "extension": "324",
+            "text": "Bittner, Dr. med., Arzt."
+          },
+          {
+            "extension": "309",
+            "text": "Blumenthal, G., Dir., Seidorf, Villa Amor"
+          },
+          {
+            "extension": "281",
+            "text": "Bradler, Erich, Autotransporte, Nr. 91"
+          },
+          {
+            "extension": "231",
+            "text": "Bräuer, Herm., Fouragegesch., Steinseifen"
+          },
+          {
+            "extension": "244",
+            "text": "Brasyat, Aug., Oberlehrer a. D., Seidorf"
+          },
+          {
+            "extension": "319",
+            "text": "-----"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 986 655\" data-label=\"Text\"><p>250 Brucauff, Dr., Arzt, Sanatorium, Nr. 118<br/>230 Bürgermeister, Arnsdorf<br/>240 Bürgermeister Glausnitz<br/>441 Bürgermeister Zillerthal-Erdmannsdorf<br/>222 Bürgermeister Seldorf (Rsggeb.)<br/>439 Büttner, Kurt, Konditorei, Erdmannsdorf Nr. 3b<br/>346 Conrad, Adolf, Mühle, Haus 17<br/>381 Conrad, M., Sägewerk, Hauptstr. 16</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 770 998 955\" data-label=\"Text\"><p><b>Arnsberg: Weine — Arnsdorf (Sachsen)</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 11 992 972\" data-label=\"List-Group\"><p>205 Dittmann, Rich., Landwirt<br/>829 Donth, Bäckerei, Konditorei, Seidorf 38<br/>421 Drescher, Karl, Kolonialwr., Zillerthal<br/>817 Drogerie Paul Koch.<br/>420 Engler, Max, Viehhdl., <i>ZiE</i> Alter Dorfweg 12<br/>433 Erben, A., Bäckerei, Zillerthal, Nr. 13<br/>474 { Erdmannsdorfer Aktiengesellschaft<br/>475 { für Flachsgarn-Maschinen-Spinnerei u. Weberei<br/>476 { Zillerthal-Erdmannsdorf<br/>404 Erdmannsdorfer Fabrik f. Holz u. Dekorations-<br/>gerät GmbH, <i>ZiE</i> Hirschberger Str. 18<br/>239 Ev. Pfarramt, Arnsdorf<br/>405 Evang. Pfarramt, Zillerthal-Erdmannsdorf<br/>364 Evangel. Pfarramt, Seidorf<br/>343 Exner, Walter, Baumstr., Schulweg 95 f<br/>360 Exner, Willy, Spedition, Seidorf<br/>300 Feuermelder b. Flegel, Amtsgehüfe, Nr. 80<br/>307 Fichtner, Fleischerei, Haus 73<br/>(407) Flecks, Fritz, Elektromstr.<br/>426 Flußmeisterei, a. Stauweiher, <i>ZiE</i><br/>357 Forstverwaltung Dresselsche<br/>ana <b>INDUSTRIE</b> <b>Handel</b> <b>Arbeitgeber</b> <b>Telefon</b></p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 993\" data-label=\"Text\"><p>331 Fritsch &amp; Becker, Waldsamendarre, Seidorf<br/>233 Funk, Erich, Weberei, Landh. Bergfrieden<br/>460 Gaststätte Bahnhofswirtschaft, <i>ZiE</i><br/>218 Gaststätte Dittrichkretschem<br/>372 Gaststätte Fabig, Arnsdorf, Nr. 133<br/>464 Gaststätte Gold. Stern, <i>ZiE</i> Arnsd. Str. 14<br/>330 Gaststätte z. Brauerei, Seidorf<br/>427 Gastst. z. Buche, <i>ZiE</i> Hirschb. Str. 14<br/>454 Gastst. z. Eisenbahn, Zillerthal-Erdmannsdorf<br/>235 Gastst. zum Eisenhammer, Birkglt 4<br/>277 Gastst. z. Gerichtskretschem, Arnsdorf<br/>321 Gastst. z. Schneekoppe, Seidorf<br/>429 Gastst. Tyroler Hof, Zillerthal-Erdmannsdorf<br/>349 Gastst. z. Wintergarten, Arnsdorf<br/>440 Gendarmerie-Einzelposten Zillerthal-Erdmannsdorf<br/>326 Genesungshof Jagdschlößchen, Seidorf<br/>251 Gerdttschke, Karl, Kohlenhdlg., Haus 27<br/>371 Girke, Richard, Gartenbau, Haus 33<br/>328 v. Goerne, Major a. D., Seidorf Nr. 76<br/>243 v. Hardenberg, Gräfin. Seidorf</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 993 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>010</td>\n<td>Lietz, Paula, Arnsdorf</td>\n</tr>\n<tr>\n<td>241</td>\n<td>Herfort, Dr. Georg, Arzt, Arnsdorf 72</td>\n</tr>\n<tr>\n<td>382</td>\n<td>Hertwig, Karl, Sägewerk, Arnsd. Birklgt</td>\n</tr>\n<tr>\n<td>403</td>\n<td>Herzog, G., Schloss., Zillerthal-Erdmannsd.</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Hielscher, Herm., Landw. Masch., Seidorf 149</td>\n</tr>\n<tr>\n<td>462</td>\n<td>Hildebrand, Käthe, Frau, <i>ZiE</i></td>\n</tr>\n<tr>\n<td>344</td>\n<td>Höcke, Karl, Baumeister, Holzhaus- u. Hallenbau, Bau- u. Möbeltischlerei, Säge- u. Hobelwerk, Zillerthal-Erdmannsdorf (Rsgb.)</td>\n</tr>\n<tr>\n<td>402</td>\n<td>Horwitz, Gertrud, Frau, <i>ZiE</i> Hirschb.Str. 26</td>\n</tr>\n<tr>\n<td>313</td>\n<td>Hostnikar, Alfred, Fleischgesch., Seidorf, Nr. 36</td>\n</tr>\n<tr>\n<td>228</td>\n<td>Hotel Hainbergshöh b. Seidorf</td>\n</tr>\n<tr>\n<td>342</td>\n<td>Hotel Thüringer Hof, Seidorf, Nr. 155</td>\n</tr>\n<tr>\n<td>408</td>\n<td>Hotel zum Zillerthal, Otto Püschel</td>\n</tr>\n<tr>\n<td>308</td>\n<td>Hübner, Rob., Bäckerstr., Seidorf 50.</td>\n</tr>\n<tr>\n<td>384</td>\n<td>Kahl, Hermann, Tiefbaugesch.</td>\n</tr>\n<tr>\n<td>341</td>\n<td>Kammel, Rich., Fleischerei, <i>ZiE</i> Jahnstr. 1</td>\n</tr>\n<tr>\n<td>226</td>\n<td>Kaschmieder, O. Insp., Fremdenheim, Nr. 187</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Kath. Pfarramt, Arnsdorf</td>\n</tr>\n<tr>\n<td>475</td>\n<td>Kaulfuß, Max, Dir., <i>ZiE</i></td>\n</tr>\n<tr>\n<td>227</td>\n<td>Kinderheim Margaretenheim, Bergfrieden</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 14 992 993\" data-label=\"Text\"><p>201 Kirchner, Albert, Bäckerei, Haus 108.<br/>305 Klose, Gerh., Kohlen, <i>ZiE</i> Schmiedeb.Str. 8<br/>335 Konditorei Rübezahl, Dorfstr. 167<br/>413 Krankenhaus d. Johanniterordens, <i>ZiE</i><br/>323 Krankenhaus St. Bennoistift.<br/>414 Kühn, Fritz, Kol.-W., Zillerthal-Erdmannsdorf<br/>401 Küttner, Zillerthal-Erdmannsdorf<br/>354 Kunze, Paul, <i>ZiE</i> Arnsdorfer Str. 5<br/>468 Landeck, Wilh., Gartenbau, <i>ZiE</i><br/>312 Landjahrlager Niederseidorf<br/>302 Langer, H., Tischlerei, Seidorf, Hptstr. 235<br/>848 Langer, Herm., Tischlerei, Seidorf, Hptstr. 53<br/>212 Laqua, Günther, Gartenbau, Seidorf, Nr. 40<br/>416 Later, Moritz, Viehhdlg., <i>ZiE</i> Nr. 15<br/>473 Latzel, A. R., Lebensmittel, <i>ZiE</i><br/>209 Laubner, Kurt, Walzenmühle.<br/>450 Lehmer, Paul, Fleischermstr., Zillerthal 52<br/>415 Leupold, Dr. Reinhard, Arzt, <i>ZiE</i><br/>353 Lissel, Rich., Kaufhaus, Hauptstr. 88<br/>215 Lomnitztal-Bote, Buchdr., Inh. M. Heese.<br/>255 Loran, Robert, Rainer Steinmaffen Nr. 17</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 986\" data-label=\"Text\"><p>471 Luck, Winneim, Schloismüne, <i>ZiE</i> Nr. 86<br/>237 Maiwald, Oskar, Gasthaus, Seidorf.<br/>234 Marienwerk, Pappenfabrik<br/>337 Graf von Matuschkasche Verwaltung, Rentamt<br/>340 Dieselbe, Gärtnerei<br/>210 Dies., Schloß Baronin v. Tries-Tersch<br/>327 Mauß, Georg, Dir. d. Ilse-Ziegelei, Seldorf<br/>252 Max-Heinzelstein-Baude, Baberhäuser<br/>459 Menzel, Paul, Tischlerei, <i>ZiE</i> Donatstr. 17<br/>430 Merreis, Carl, Fleischerei, <i>ZiE</i><br/>332 Michel, Rich., Kfm., Haus Waldfried., Bronsdorf<br/>(464) Mischer. Kurt, Autoreparaturen<br/>315 R. &amp; F. W. Neumann, Kristallwrfbr., Hptstr. 37<br/>441 NSDAP., Ortsgruppe <i>ZiE</i><br/>202 Dieselbe, NS.-Volkswohlfahrt, Arnsdorf, Nr. 77<br/>406 Dieselbe, NSV. Zillerthal-Erdmannsdorf<br/>203 Papierfabrik Birkiqt, Inh. Franke<br/>232 Partsch, C. A., Webwaren, Nr. 74<br/>249 Paul, Marie, Gemischtwr., <i>ZiE</i> Donathstr. 6<br/>428 Pawlik, Ida, Warenhaus, Zillerthal 13a<br/>316 Pension Villa Forelle, F. Ulbrich Seidorf</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 967\" data-label=\"Text\"><p>437 Pohl, Alfred, Elektromstr., <i>ZiE</i> Hirschb. Str .8<br/>410 v. Portatius, Frl., Haus Pfaffengrund, <i>ZiE</i><br/>419 Porzellanfabr. Paul Kauschert, Erdmannsdorf<br/>243 Predigersteinbaude b. Seidorf<br/>204 Redemann, Ernst, Arnsdorfer Bleiche<br/>409 Reichsbahn Güterabfertigung Zillerthal<br/>220 Reichspost, Zweigpostamt Arnsdorf<br/>418 Dies., Zweigpostamt Zillerthal-Erdmannsdorf<br/>474 Riese, Dir., Zillerthal-Erdmannsdorf<br/>425 Rosenberger, Helm., Lelzen, <i>ZiE</i><br/>242 Rothengrund-Baude b. Seidorf<br/>424 Rudolph, Kurt, Rittergutsbes., <i>ZiE</i><br/>461 Rüffer, Heinrich, Warenhdlg., <i>ZiE</i> Nr. 97<br/>213 Rutech, Kurt, Bäckerei, Seidorf, Nr. 75<br/>206 Schaar, Gottl., Baumstr., Sägewerk, Nr. 102<br/>380 Schindler, Alfred, Ofenbau, Haus 28a<br/>363 v. Schunettow, Gräfin Leonie, Erholungshelm,<br/>Parkschlößchen<br/>279 Schmidt, Richard. Tischlerei, Haus 51<br/>356 Schmitz, Herm., Betriebsl., <i>ZiE</i> Donatetr. 19</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or the back of a document from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 779 360 950\" data-label=\"Text\"><p><b>nsen): Walther</b></p></div><div data-bbox=\"529 779 768 959\" data-label=\"Text\"><p><b>(Band I) 87</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 772 993\" data-label=\"Text\"><p>412 Scholz, A., Prokurist, <i>ZiE</i><br/>253 Scholz, Walter, Kaufhaus, Steinseiffen<br/>804 Schreiber, Paul, Kaufhaus, Seldorf, Ring 81.<br/>351 Schubert, Karl, Fuhrerengesch., Seldorf, Nr. 101<br/>352 Sonnenland, Erholungsheim, Ober-Seldorf<br/>442 Standtke, Erich, Mühlenbesitzer, <i>ZiE</i><br/>847 Stumpe, Gustav, Grünzeughdlg., Haus 162<br/>883 Tannenbaude, Gasthaus, Bronsdorf.<br/>845 Teichmann, Wilh., Fuhrwerkbes., Seldorf, Nr. 110<br/>303 Tietze, Max, Kaufhaus, Seldorf, Hauptstr. 118.<br/>456 Tresser, Paul, Prokurist, <i>ZiE</i> Nr. 186<br/>236 Tschentscher, Alfr., Gartenbau, Seldorf, Arnsdorfer Straße 35<br/>301 Tschentscher, Willy, Gasth., Seldorf, Hauptstraße 30<br/>336 Ulbrich, Oswald, Fuhrwerksbes., Birkgigt Nr. 13<br/>222 Verkehrsbüro Seldorf<br/>246 Waldbrunn, Bruno, Kaufm., Haus 49<br/>438 Watzlawek, Josef, Bäcker, <i>ZiE</i> Donatstr. 15<br/>216 Weißig, Paul, Möbelwerk, Nr. 122<br/>358 Werner, Ernst, Ing., Arnsdorfer Str. 27<br/>214 Wienerwald Carl Othmannthaler Seldorf</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 771 865\" data-label=\"List-Group\"><p>319 Wilke, Diät u. Erhol. Heim, Bergheimat<br/>472 Zimmermann, Oberstleutn. a. D., <i>ZiE</i> Nr. 176<br/>320 Zobel, Albert, Fleischermstr., Nr. 92</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Arnsdorf (sachsen)",
+        "entries": [
+          {
+            "extension": "134",
+            "text": "Adler, Erich, Lohnfahrten, Ad.HitlerStr. 22"
+          },
+          {
+            "extension": "108",
+            "text": "Bahnhofswirtschaft Arnsdorf, Aug. Hopf"
+          },
+          {
+            "extension": "221",
+            "text": "Bellmann, W., Gutsbes., Seeligstadt"
+          },
+          {
+            "extension": "135",
+            "text": "Benad, Helmut, Lederw., Fabrik, Wettinstr. 5"
+          },
+          {
+            "extension": "214",
+            "text": "Bergmaun, Arth., Gutsbes., Seeligstadt 53"
+          },
+          {
+            "extension": "178",
+            "text": "Brückner, Bruno, Fleischermstr., Hauptstr. 80"
+          },
+          {
+            "extension": "169",
+            "text": "Brückner, Edm., Möbelstoffe"
+          },
+          {
+            "extension": "220",
+            "text": "Buhrig, Otto. Vertr., Ad.HitlerStr. 24"
+          },
+          {
+            "extension": "177",
+            "text": "Diener, Paul, Metallwfabr., Kleinwohnsd. Str."
+          },
+          {
+            "extension": "179",
+            "text": "Dressler, Curt, Landmasch., Str. d. SA. 1"
+          },
+          {
+            "extension": "125",
+            "text": "Forstamt, Staatl., Fischbach."
+          },
+          {
+            "extension": "126",
+            "text": "Forstwartei, Staatl., Seeligstadt"
+          },
+          {
+            "extension": "127",
+            "text": "Forstwartei, Staatl., Schänkhübel"
+          },
+          {
+            "extension": "140",
+            "text": "Förster, Gerhard, Baumstr., Kleinwohnsd.Straße 22"
+          },
+          {
+            "extension": "213",
+            "text": "Frenzel, Oswald, Bankkommiss., Hauptstr. 11"
+          },
+          {
+            "extension": "116",
+            "text": "Gasthof Arnsdorf, O. Richter, Hauptstr. 30"
+          },
+          {
+            "extension": "186",
+            "text": "Gasthof zum Erbgericht, Seeligstadt"
+          },
+          {
+            "extension": "194",
+            "text": "Gasthof Erbgericht, Fischbach, Hitlerstr. 53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 770 994\" data-label=\"Text\"><p>155 Gasthof Kurt Krüger, Radeberger Str. 15<br/>151 Gasthof zur guten Hoffnung, Georg Zumpe<br/>166 Gasthof Rosseud. Schänkhüb., Rossendorf 6b<br/>105 Gasthof z. schw. Roß, Fischbach, Bautz.Str. 93<br/>211 Gasthof Wettinschlößchen, Wettinstr. 2<br/>129 Gehrmann, Walter, Drogen, Kol.-W.<br/>147 Gemeindeverwalt. u. Gemeindekasse.<br/>149 Gemeindeverwaltung Fischbach<br/>119 Gemeindeverwaltung Seeligstadt<br/>204 Gendarmeriestation Arnsdorf<br/>112 Gendarmerieposten Fischbach, Schlageter-<br/>straße 51B<br/>153 Girokasse, Horst-Wessel-Straße 9<br/>108 Grahl, Bruno, Schmiedemstr., Hauptstr. 8.<br/>137 Grahl, Paul, Mühlenfabrikate<br/>159 Groba, Karl, Holzschuhfabr., Seeligstadt 15<br/>207 Größler, Emil, Parkettfabrik, Arnsdorf (Sachs)<br/>173 Großer, Fritz, Kfm., Norkusstr.<br/>192 Häse, Dr. Erich, R.A., Radeberger Str. 5<br/>122 Häse, Georg, Erbgericht, Radeb. Str. 3<br/>161 Hantzsch, Willy, Fuhrergeschäft, Hauptstr. 22</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 770 979\" data-label=\"Text\"><p>100 Dache, Kurt, Sattlerstr., Seeligstadt 78<br/>189 Heinemann, Ulrich, Landwirt, Fischbach 88<br/>181 Heinrich, Fritz, Elektr. Anl., Hitlerstr. 1<br/>114 Herold, Julius, Kfm., Fischbach, Waldhaus<br/>140 Hörnig Nr., A., Baugesch., Kleinwolmsd.-Str. 22<br/>208 Imrock, Karl, Kaffeehausbesitzer, Fischbach<br/>138 Kirchhoff &amp; Lehr, Bleiwarenfabrik<br/>203 Klötzer, Max, Hüte, Kleinwolmsdorferstr. 32<br/>123 Köhler, M., Klempnerei, Stolpener Str. 2.<br/>153 Kreditgenossenschaft Arnsdorf u. Umg. eGmbH<br/>168 Kreymann, M., Dr. phil., Fischbach 95<br/>152 Kroemer, Dr. Gg., Arzt, H. Wessel Str. 12<br/>167 Kühne, Richard, Restaur., Seeligstadt Nr. 68<br/>109 Kunath, Max, Spedition, Schlagerstr. 5<br/>157 Kunath, Paul, Bauer, Fischbach, Nr. 64<br/>141 Landesanstalt Arnsdorf Sa.<br/>143 Landesanstalt Gutsverwaltung<br/>133 Ludwig, Fritz, Dentist, Hans-Schemm-Str. 1<br/>201 May, Oscar, Kfm., Clemens-Träherstr. 5.<br/>160 Mittag, Oskar, Fleischerstr., Seeligstadt<br/>115 Molkerei Arnsdorf, Max Haufe</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 766 994\" data-label=\"Text\"><p>222 Müller, Oswin, Fleischer, Ad.-Hitler-Str. 1<br/>136 NSDAP., Ortsgruppe Am Markt 1<br/>128 Pfarramt, ev.-luth., Arnsdorf<br/>197 Pfarramt, ev., Fischbach, Ad.-Hitler-Str. 57<br/>190 Pietät u. Heimkehr, Beerd.-Anstalt, Bhfstr. 2<br/>172 Plz, Willy, Autorepar., Kleinwolmsdorf<br/>209 Pretzsch, Max, Karpfen, Hansastr. 1<br/>162 Probst, Max, Dachdecker, Karswald 6.<br/>218 Radeb. Exportbierbrauerei, Kleinwolmsdorf<br/>165 Rätzer, Erich, Archit., Hindeub.Str. 11<br/>118 Raupach, E., Fleischerel, Bahnhoistr. 10<br/>195 Reichsbahn, Güterabfertigung.<br/>200 Reichspost: Amtsvorsteher<br/>103 Reservelazarett Arnsdorf<br/>183 Ries, Th., Tankstelle, Fischbach<br/>150 Rödertalzeitung u. Arnsd. Anz., Wettinistr. 4<br/>110 Schmidt, Arth., Bauer, Seeligstadt 41<br/>187 Schmidt, Max, Malermstr., Clem.-Träberstr. 65<br/>193 Schramm, Julius, Draht- u. Metallwarenfabrik,<br/>Kleinwolmsdorfer Str. 33<br/>121 Schulte Erwin Metall Nordrustr 1</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 763 786\" data-label=\"Text\"><p><b>159</b> <b>Schwarzscheier, Willy, Buchlerei, Dampferg. 5.</b><br/><b>184</b> <b>Senf, Erich, Tischlerei, Str. d. SA 8</b><br/><b>153</b> <b>Sparkasse Arnsdorf</b><br/><b>205</b> <b>Spar-, Kredit- und Bezugsverein Arnsdorf,</b><br/><b>Geschäftsstelle: Straße der SA 6</b><br/><b>202</b> <b>Starcke, Otto, Bauer, Fischbach.</b><br/><b>170</b> <b>Steinbach, Martin, Eisenwr., Hindenburgstr. 3</b><br/><b>176</b> <b>Strubell, Dr. Alfr., Arzt, Bahnhofstr. 11</b><br/><b>132</b> <b>Taupitz, Alwin, Kolonialwr.</b><br/><b>171</b> <b>Teich, H., Tischl., Fischbach, H. Wesselstr.</b><br/><b>191</b> <b>Teuscher, Dr., Tierarzt, Hauptstr. 16</b><br/><b>198</b> <b>Thiel, Dr. H., Zahnärztin, Horst-Wessel-Str. 198</b><br/><b>180</b> <b>Tittel, Bruno, Obstkelterei, Wettinstr. 14</b><br/><b>224</b> <b>Trepte, H. M., Futtermittel, Am Bahnhof 1</b><br/><b>182</b> <b>Walther, Fritz, Install., Hindenb. Str. 1</b><br/><b>223</b> <b>Walther Karl, Kelterei, Kriegersiedlung 5</b></p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

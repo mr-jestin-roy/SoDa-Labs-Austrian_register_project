@@ -1,0 +1,774 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Völklingen (Saar).",
+        "entries": []
+      },
+      {
+        "region_name": "Warnsdorf (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wartbrücken (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wartha (Bez. Breslau).",
+        "entries": []
+      },
+      {
+        "region_name": "Weiden (Oberpfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"210 0 993 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td></td>\n<td>Wien XI/79, Simm. Hauptstr. 44</td>\n</tr>\n<tr>\n<td>A4 12 60</td>\n<td>Allerheiligen-Apotheke, Mr. Pharm. A. Bachel, XX/37, Allerheiligenplatz 4</td>\n</tr>\n<tr>\n<td>A2 50 27</td>\n<td>Alsegger-Apotheke, Inh. Dr. W. Kolassa, XVIII/110, Alsegger Str. 18</td>\n</tr>\n<tr>\n<td>R2 10 37</td>\n<td>Alte Salvator-Apotheke, Mr. K. Winter, Wien I/1, Kärntnerstraße 16</td>\n</tr>\n<tr>\n<td>U3 20 77</td>\n<td>Apotheke, Germania-, Mag. pharm. Ed. Fischill, XV/101, Hütteldorfer Str. 76</td>\n</tr>\n<tr>\n<td>R1 40 86</td>\n<td>Apotheke Saarland, Mr. ph. Walther Rentmeister, X/75, Gudrunstraße 150</td>\n</tr>\n<tr>\n<td>B4 20 79</td>\n<td>Apotheke „Salvator“<br/>Apotheker Alois Barfuß,<br/>Wien IX/71, Zimmermannplatz 1</td>\n</tr>\n<tr>\n<td>U4 98 07</td>\n<td>Derselbe, Wohnung, Wien IV/50, Johann-Strauß-Gasse 30</td>\n</tr>\n<tr>\n<td>A1 84 03</td>\n<td>Apotheke „Zum goldenen Elefanten“, Inhaber Apoth. Otto Nicoladoni, IX/66, Liechtensteinstr. 72</td>\n</tr>\n<tr>\n<td>R2 64 07</td>\n<td>Apotheke „Zum römischen Kaiser“, Inh. Hugo Bayer's Nachf., I/1, Wollzeile 13</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"208 0 998 983\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td></td>\n<td>haber: Richard Seipel, Wien III/40,<br/>Landstr. Hauptstraße 60</td>\n</tr>\n<tr>\n<td>B3 72 61</td>\n<td>Apotheke „Zur Barmherzigkeit“, Dr. Alois<br/>Hellmann, VII, Kaiserstr. 73</td>\n</tr>\n<tr>\n<td>R2 52 80</td>\n<td>Apotheken-Buchstelle Wien, Leo Peschl,<br/>Wien I/1, Kärntner Ring 17</td>\n</tr>\n<tr>\n<td>A3 00 91</td>\n<td>Bartl, Heinrich, Apotheke „Zum Eber“,<br/>Wien VI/56, Hofmühlgasse 9</td>\n</tr>\n<tr>\n<td>R2 60 07</td>\n<td>Brady, G., Apotheke „Zum König von<br/>Ungarn“, Wien I/1, Rotenturmstr. 18</td>\n</tr>\n<tr>\n<td>U2 92 11</td>\n<td>Ehrlich, Jos., Mr. Pharm., Apotheke z.<br/>Kronprinz Rudolf, I, Fr.-Josefs-Kai 47</td>\n</tr>\n<tr>\n<td>B1 65 58</td>\n<td><b>Grinzinger-Apotheke</b> Mr. Willy und<br/>Mr. Edith Kuhn<br/>Wien XIX/117, Cobenzlgasse 10</td>\n</tr>\n<tr>\n<td>U1 75 80</td>\n<td rowspan=\"2\"><b>Richard Höfer</b> Apotheker,<br/>Hauptpulver-</td>\n</tr>\n<tr>\n<td>U1 75 81</td>\n</tr>\n<tr>\n<td></td>\n<td>fabrik, Wien III/40, Ungargasse 14</td>\n</tr>\n<tr>\n<td>U4 95 99</td>\n<td>Johannes-Apotheke, Inh.: A. Fadrus<br/>Erben, IV/50, Wiedner Gürtel 42</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"211 22 992 981\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td></td>\n<td>Czermak, X/75, Favoritenstr. 160</td>\n</tr>\n<tr>\n<td>U4 40 35</td>\n<td><b>Lerch, Oskar Egon, Mr. der Pharm., Apotheker, Stern-Apotheke, Wien IV/50, Karolinengasse 34</b></td>\n</tr>\n<tr>\n<td>U4 40 35</td>\n<td><b>Derselbe, Wohnung, Wien IV/50, Favoritenstraße 25</b></td>\n</tr>\n<tr>\n<td>A1 74 41</td>\n<td><b>Löwen-Apotheke, Inh.: Josef Liepold, Wien IX/66, Rotenlöwengasse 1</b></td>\n</tr>\n<tr>\n<td>A6 20 22</td>\n<td><b>Mantler'sche Apotheke, Inh.: Dr. Karl Ertl, XXI/141, Brüunner Straße 3</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Mariahilfer Apotheke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"211 10 998 995\" data-label=\"List-Group\">\n<p>U2 64 34 { <b>A. Moll Kommandit-Gesellschaft, Apo-</b><br/>\n  U2 02 75 { <b>theke, Chemikalien, pharmazeutischer</b><br/>\n  R1 80 28 <b>Großvertrieb, Wien I/1, Tuchlauben 9</b><br/>\n<b>„Ostmark“-Apotheke</b><br/>\n<b>Dr. et Ph. Mr. Richard Kaurek</b><br/>\n<b>Wien X/75, Reumannplatz 16</b></p>\n<p>R2 60 13 <b>Paul, Dr. Rob., Stubenring-Apotheke,</b><br/>\n<b>Wien I/1, Stubenring 2</b></p>\n<p>A6 03 47 <b>Rosen-Apotheke, Mr. d. Pharm. Anton</b><br/>\n<b>Gruber, Wien XXI/141, Brüunner Str. 37</b></p>\n<p>U1 13 59 <b>Salesianer Apotheke im Botschafterviertel</b><br/>\n<b>III/40, Salesianergasse 14</b></p>\n<p>U5 10 45 <b>„Sandleitn“-Apotheke, Inh. Mr. Aug. Jung-</b><br/>\n<b>schaffer, XVI/107, Maulpertschplatz 1</b></p>\n<p>R3 75 51 <b>St. Anna-Apotheke, Mr. ph. Erich Peith-</b><br/>\n<b>ner, XII/82, Meidlanger Hauptstr. 86</b></p>\n<p>B1 15 45 <b>„St.-Severinus“-Apotheke, Inh.: Mr. Ph.</b><br/>\n<b>Georg J. Petrus, XIX/117, Sieveringestr. 1</b></p>\n<p>R3 00 57 <b>Schiller, Dr. Friedrich, Apotheke zum</b><br/>\n<b>heiligen Josef, XII/82, Schönbrunner</b><br/>\n<b>Straße 182</b></p>\n<p><b>RK 00 1K Arkwader Franz Varnl D Anath...</b></p>\n</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"364 0 998 311\" data-label=\"Text\"><p>„Zur Marienilf“, XI/79, Simmeringer<br/>Hauptstr. 81</p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Wien-Mödling.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Wigandsthal (Isרגeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wismar (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wismar (Ruh.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Wittenberg (Lutherstadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittlich (Bez. Trier).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittstock (Dosse) [Brdb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Wolfsberg (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Wreschen (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Wuppertal",
+        "entries": []
+      },
+      {
+        "region_name": "Zehdenick (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Zell (Harmersbach) [Baden].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Znaim (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Zschopau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"135 196 864 740\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Buchheim (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "8 Holzindustrie Vintgar",
+        "entries": []
+      },
+      {
+        "region_name": "Großalmerode (Bez. Kassel).",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Lößnitz (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Ernst Voß",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"10 102 195 520\"}, {\"label\": \"Text\", \"bbox\": \"10 572 944 921\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Etiketten-Verlag Alfred Koch",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 114 179 205\" data-label=\"Text\"><p>R3 14 87</p></div><div data-bbox=\"235 63 930 244\" data-label=\"Text\"><p><b>Fritsch &amp; Jacobi</b></p></div><div data-bbox=\"235 276 930 425\" data-label=\"Text\"><p><b>Glasfabriksniederlage</b></p></div><div data-bbox=\"305 434 884 536\" data-label=\"Text\"><p><b>Wien XII/82, Dunklergasse 23</b></p></div><div data-bbox=\"8 606 179 697\" data-label=\"Text\"><p>R2 73 55</p></div><div data-bbox=\"202 575 592 736\" data-label=\"Text\"><p><b>L. Tintner</b></p></div><div data-bbox=\"607 575 985 770\" data-label=\"Text\"><p>Inh. Karl Gangl,<br/>Apotheken-Bedarfs-</p></div><div data-bbox=\"201 769 771 871\" data-label=\"Text\"><p>artikel, Wien I/1, Ballgasse 6</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"206 226 779 779\"}]",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Aachen",
+        "entries": []
+      },
+      {
+        "region_name": "Altenburg (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Apolda.",
+        "entries": []
+      },
+      {
+        "region_name": "Angsburg",
+        "entries": []
+      },
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Bendorf (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 145\" data-label=\"Text\"><p>Sammel-Nr. { <b>Chlorator-Patentverwertung, Apparatebau,</b><br/>67 57 27 { <b>Berlin SW 68, Alexandrinenstr. 48/49</b></p></div><div data-bbox=\"20 143 998 240\" data-label=\"Text\"><p>68 67 90 <b>Deblun, Hugo, Apparatebauanst., mech.</b><br/>Werkstatt, SO 36, Heidelberger Str. 75</p></div><div data-bbox=\"20 236 998 331\" data-label=\"Text\"><p>51 55 81 <b>Engel-Apparatebau Paul Engel, Berlin C 2,</b><br/>Grünstraße 17</p></div><div data-bbox=\"20 331 775 427\" data-label=\"Text\"><p>41 66 71 <b>„Ergos“</b></p></div><div data-bbox=\"225 424 978 521\" data-label=\"Text\"><p><b>Apparate-Vertriebsgesellschaft m. b. H.,</b><br/>Berlin NW 7, Karlstr. 16</p></div><div data-bbox=\"20 520 998 617\" data-label=\"Text\"><p>22 23 26 { <b>Fischer, Karl, Apparate- u. Rohrleitungs-</b><br/>22 60 85 { <b>bau, W 62, Einemstr. 20</b></p></div><div data-bbox=\"20 614 998 712\" data-label=\"Text\"><p>67 23 00 <b>Görnitz &amp; Stolk, Kühler- und Apparatefabr.</b><br/>GmbH, SO 16, Michaelkirchstr. 20</p></div><div data-bbox=\"20 710 998 853\" data-label=\"Text\"><p>75 60 06 <b>Hagenuk Hanseatische Apparatebau-Ges.</b><br/><b>Neufeldt &amp; Kuhnke G. m. b. H., Berlin-</b><br/>Tempelhof, Colditzstr. 33</p></div><div data-bbox=\"20 853 998 947\" data-label=\"Text\"><p>47 02 76 <b>Hannemann Kom.-Ges., Apparatebau,</b><br/>Berlin-Frohnau, Minheimer Str. 48—50</p></div><div data-bbox=\"20 947 998 992\" data-label=\"Text\"><p>51 17 12 <b>Herholz. Hermann. Pumpenfabrik. Appa-</b></p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"203 102 799 158\" data-label=\"Text\"><p><b>18000000, V 6, 110000000000. 41</b></p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"206 16 803 352\"}, {\"label\": \"Text\", \"bbox\": \"52 395 959 955\"}]",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"26 10 998 628\" data-label=\"List-Group\"><p>68 79 96 <b>M. u. H. Köhler</b>, Bau von Apparaten u.<br/>Zerstäubern, SO 36, Oranienstr. 20</p><p>46 69 39 <b>Kotsch, Richard</b>, Maschinen- u. Apparate-<br/>bau, N 65, Gerichtstr. 23</p><p>66 51 06 <b>Maximall-Apparate-Fabrik Paul Will-</b><br/><b>mann</b>, Bordgeräte u. Maximall-Schläuche,<br/>SW 61, Zossener Str. 56—58</p></div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"71 61 666 385\"}, {\"label\": \"Text\", \"bbox\": \"35 434 707 917\"}]",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"9 18 756 882\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">Nr.</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\"><b>Carl Otto Raspe &amp; Co.,</b> Chemische Fabrik</td>\n</tr>\n<tr>\n<td></td>\n<td>u. Apparatebau, Berlin-Weißeensee, Riebe-</td>\n</tr>\n<tr>\n<td>56 42 51</td>\n<td></td>\n<td></td>\n<td>straße 1/5. Zweigwerk Peitz (Niederlausitz)</td>\n</tr>\n<tr>\n<td>46 02 34</td>\n<td></td>\n<td></td>\n<td><b>Rieckenberg, Wilhelm,</b> Apparatefabrik,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>N 65, Chausseestr. 86</td>\n</tr>\n<tr>\n<td>61 29 55</td>\n<td></td>\n<td></td>\n<td><b>Rudolph, Karl,</b> Maschinen- u. Apparate-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>fabrik, SO 36, Hoffmannsdamm 59/61</td>\n</tr>\n<tr>\n<td>44 30 32</td>\n<td></td>\n<td>{</td>\n<td><b>Saja-Motoren, Sander &amp; Janzen,</b> N 58,</td>\n</tr>\n<tr>\n<td>44 30 82</td>\n<td></td>\n<td>{</td>\n<td>Sonnenburger Str. 70</td>\n</tr>\n<tr>\n<td>44 30 32</td>\n<td></td>\n<td>{</td>\n<td><b>Sander &amp; Janzen,</b> Apparatefabrik, „Saja-</td>\n</tr>\n<tr>\n<td>44 30 82</td>\n<td></td>\n<td>{</td>\n<td>Motoren“, N 58, Sonnenburger Str. 70</td>\n</tr>\n<tr>\n<td>87 22 82</td>\n<td></td>\n<td></td>\n<td><b>Schumann &amp; Co. Leipzig,</b> Armat. u. Appar.-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Bau, Büro Berlin, Dipl.-Ing. Carl Bruch,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>-Wilmersdorf, Aschaffenburger Str. 25</td>\n</tr>\n<tr>\n<td>30 93 44</td>\n<td></td>\n<td></td>\n<td><b>Velten Maschinenbau G. m. b. H.,</b></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Velten (Mark), Berliner",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Schiff &amp; Stern",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"48 26 138 208\" data-label=\"Text\"><p>11254</p></div><div data-bbox=\"250 19 654 645\" data-label=\"Text\"><p><b>E. Zablatzky</b><br/>Maschinen- u. Apparatebau<br/>Brünn, Straßengasse 41</p></div><div data-bbox=\"6 714 568 955\" data-label=\"Text\"><p><b>Butzbach (Oberhessen).</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Coesfeld (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Crimmitschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"34 0 756 70\" data-label=\"Text\"><p>501040 <b>rosranecky-maschinenbauges. m. v. n.</b></p></div><div data-bbox=\"267 67 643 152\" data-label=\"Text\"><p>Apparate und Maschinen</p></div><div data-bbox=\"184 149 725 236\" data-label=\"Text\"><p>Dresden A 28, Tharandter Straße 39</p></div><div data-bbox=\"26 235 759 671\" data-label=\"Text\"><p>863630 <b>Alexander Tiffe's Erben, Automatische</b><br/><b>Zeitspülkästen SYSTEM TIFFE DRGM.</b><br/>ohne bewegliche Teile. Zur period. Rein-<br/>wasserspülung für alle gewerbliche Zwecke.<br/>30jährige Erfahrung, A 5, Friedrichstr. 24</p></div><div data-bbox=\"8 707 378 826\" data-label=\"Text\"><p><b>Düren (Rhld.).</b></p></div><div data-bbox=\"67 826 759 986\" data-label=\"Text\"><p>3355 <b>Eberhard Hoesch &amp; Söhne, Apparatebau,</b><br/>für die chem. Industrie</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  }
+]

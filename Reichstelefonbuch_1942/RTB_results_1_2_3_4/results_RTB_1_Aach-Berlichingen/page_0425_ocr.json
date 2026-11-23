@@ -1,0 +1,863 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"242 61 691 520\"}, {\"label\": \"Text\", \"bbox\": \"260 520 544 736\"}, {\"label\": \"Text\", \"bbox\": \"260 736 663 951\"}]",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Bargen (Ob. Trachenberg)[Niederschlesien]",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "Bertram, Otto, Bartschdorf, Post Trachenberg"
+          },
+          {
+            "extension": "9",
+            "text": "Bürgermeisteramt Bargen"
+          },
+          {
+            "extension": "13",
+            "text": "Dominium Klein Bargen"
+          },
+          {
+            "extension": "27",
+            "text": "Evang. Pfarramt Bargen"
+          },
+          {
+            "extension": "4",
+            "text": "Försterei (Revier-) Bartschdorf"
+          },
+          {
+            "extension": "28",
+            "text": "Hampel, Otto, Sägewerk, Leubel"
+          },
+          {
+            "extension": "29",
+            "text": "Hein, Reinhold, Fleischer, Leubel"
+          },
+          {
+            "extension": "10",
+            "text": "Katholisches Pfarramt Bargen"
+          },
+          {
+            "extension": "24",
+            "text": "Marticke, Adolf, Bäckerei, Leubel"
+          },
+          {
+            "extension": "1",
+            "text": "Nawroth, Fleischerei."
+          },
+          {
+            "extension": "8",
+            "text": "Neubauer, Paul, Bauer, Bartschdorf"
+          },
+          {
+            "extension": "25",
+            "text": "Pfeiffer, Erwin, Kaufmann"
+          },
+          {
+            "extension": "30",
+            "text": "Pittwohn, Fr., Gaststätte, Wilhelmsbruch"
+          },
+          {
+            "extension": "12",
+            "text": "Prause, Adolf, Landwirt"
+          },
+          {
+            "extension": "33",
+            "text": "Prause, Hermann, Gastwirt"
+          },
+          {
+            "extension": "14",
+            "text": "Rakete, Karl, Baugeschäft"
+          },
+          {
+            "extension": "18",
+            "text": "Rakette, Alfr., Viehhdlg., Bartschdorf"
+          },
+          {
+            "extension": "7",
+            "text": "Reichsbahn: Güterabfert. Klein Bargen"
+          },
+          {
+            "extension": "5",
+            "text": "Dieselbe, Güterabfert. Bargen"
+          },
+          {
+            "extension": "2",
+            "text": "Rittergut Bargen G Viehh. Hulda Müller"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 10 894 953\" data-label=\"List-Group\"><ul><li>19 <b>Salzack, Heinz, Gemischtwaren, Leubel</b></li><li>2 Seidel, Berghof, Station Bargon</li><li>26 Spar- u. Darlehnskasse Großbargon</li><li>17 Woy. Max. Bauer</li></ul></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Bargteheide (Holstein)",
+        "entries": [
+          {
+            "extension": "219",
+            "text": "Adler-Apotheke, P. Keiper, Bahnhofstr. 33"
+          },
+          {
+            "extension": "225",
+            "text": "Ahlers, Adolf, Gastwirt, Bahnhofstr. 30."
+          },
+          {
+            "extension": "210",
+            "text": "Ahlers, Hans, Gastwirt, Hammoor"
+          },
+          {
+            "extension": "233",
+            "text": "Ahlers, Heinrich, Landwirt, Hammoor"
+          },
+          {
+            "extension": "434",
+            "text": "Ahrens, H., Bäckerei, Fischbeck"
+          },
+          {
+            "extension": "228",
+            "text": "Allwardt, Heinr., Manuf.-W., Hamb. Str. 2"
+          },
+          {
+            "extension": "216",
+            "text": "Amtsgericht Bargteheide, Pferdemarkt"
+          },
+          {
+            "extension": "324",
+            "text": "Andresen, Hans, Baumschule, Voßkühlenw. 9"
+          },
+          {
+            "extension": "342",
+            "text": "Arfsten, Wilh., Kapitän, Tremsb. Weg"
+          },
+          {
+            "extension": "278",
+            "text": "Barckmann, Heinr., Schlachterm., Langereihe."
+          },
+          {
+            "extension": "266",
+            "text": "Barkmann, M., Meierei, Hammoor"
+          },
+          {
+            "extension": "409",
+            "text": "Bastian, Alb., Schmiedemstr., Hamb. Str. 10"
+          },
+          {
+            "extension": "393",
+            "text": "Becker, Edgar, Kfm., Alte Landstr. 47"
+          },
+          {
+            "extension": "413",
+            "text": "Behrens, Louise, Spielwr., Bahnhofstr. 5"
+          },
+          {
+            "extension": "380",
+            "text": "Behrens, Wilh., Geflügelhof, Timmerhorn"
+          },
+          {
+            "extension": "234",
+            "text": "Berodt, Olga, Gastwirtschaft, Lasbek"
+          },
+          {
+            "extension": "486",
+            "text": "Bertz, Otto, Autorepar., Hamb. Str. 28"
+          },
+          {
+            "extension": "487",
+            "text": "Ders., privat, Tremsbütteler Weg 41"
+          },
+          {
+            "extension": "223",
+            "text": "Bertz, Wilhelm, Meierei, Bargteheide"
+          },
+          {
+            "extension": "958",
+            "text": "Rover Adolf Landw Fischhoker Weg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 0 994 986\" data-label=\"Text\"><p>504 Bielefeld, Wun., Backerei, Landstr. 43<br/>828 Böge, J., Gasthof, Siebenbergen<br/>334 Böhme, Willi, Gartenbau, Hasselbusch 36<br/>235 Bordewieck, J., Kaufmann, Alte Landstr. 64.<br/>239 Brockmann, Aug., Tischlerei, Delingsdorf<br/>250 Brückmann, Julius, Struhbarg 7<br/>238 Brügmann, Hans, Drescherei, Hamb. Str. 30<br/>240 Bruhns, Hans, Manuf.-W., Ad.Hitler Str. 8<br/>260 Bruns, J., Geflügel, Bahnhofstr. 21<br/>379 Büchner, Paul, Strickerei, Alte Landstr. 90<br/>243 Burmeister, Fritz, Gastw., Vorburg-Tremsbüttel.<br/>464 Busch, H., Hofbes., Schweinemarkt 1<br/>320 Christenson, Rudolf, Lohe 42<br/>247 Christiani, Arthur, Kfm., Struhbarg 15<br/>229 Dampfzieg. Jacobi &amp; Heecks, Alte Ldstr. 101<br/>249 Denckert, Rudolf, Buchdruck., Hamb.-Str.<br/>220 Geschw. Doriwat, Pension, Lasbek-Gut<br/>230 Doriwat, Wern., Tischler, Voßkuhlenweg 22<br/>242 Drews, Wilh., Stellmach., Delingsdorf<br/>255 Dülßen, Hans, Bäckermstr., Hannover<br/>252 Dwenger, Adolf, Tischlerei, Alte Landstr. 32</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 15 990 993\" data-label=\"List-Group\"><p>284 Eggers, Chr., Mühle, Alte Landstr.<br/>261 Einfeldt, Paul, Kolonialwr., Lübeckerstr.<br/>282 Elbschloß-Brauerei, Niederl., Hamb. Str. 2<br/>217 Elektrizitätswerk Bargteheide, Auf d. Lohe.<br/>370 Elwes, Aug., Roßhaarzuricht., Jersb.-Str. 49<br/>345 Espenhain, G., Bäckermstr., Hamb. Str. 6<br/>428 Feddersen, Idalotte, Lübecker Str. 21<br/>264 Filter, Aug., Musikleiter, Butterwiete 2<br/>439 Fischer, Paul, Kfm., Jersbecker Str. 40<br/>221 Fock, Hans, Schmiede, Tremsbüttel<br/>215 Försterei, Revier-, Sattenfelde<br/>265 Frank, Paul, Buchdruckerei, Am Markt<br/>286 Otto u. Fritz Freund, Dentisten, Mittelweg<br/>224 Froböse, W., Kfm., Gut Lasbek<br/>492 Fröhlich, Herm., Fuhrbetr., Jersbeckerstr. 36<br/>424 Fürst, Hugo, Bäckerei, Mittelweg 7<br/>387 Gast- u. Lichtspielhaus U. d. Linden, Hamb. Str.<br/>340 Gatermann, Ernst, Milch, Am Markt 19<br/>267 Gaycken, H., Baumater., Hammoorweg<br/>322 Gaycken, Max, Gastwirt. Timmerhorn.<br/>072 Ohe Paul Landwirt Elmanhorst</p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"220 0 987 990\" data-label=\"Text\"><table><tbody><tr><td>309</td><td>Gemeindeverwaltung Bargteheide</td></tr><tr><td>326</td><td>Gemeindeverwaltung Dellingsdorf</td></tr><tr><td>291</td><td>Gemeindeverwaltung Hammoor</td></tr><tr><td>460</td><td>Gemeindeverwaltung Tremsbüttel</td></tr><tr><td>392</td><td>Gendarmerieposten Bargteheide I, Voßk.-Weg</td></tr><tr><td>207</td><td>Gendarmerieposten Bargteheide II, Butterwiete</td></tr><tr><td>241</td><td>Gendarmerieposten Bargteheide III, Hamb.<br/>Straße 4</td></tr><tr><td>205</td><td>Gendarmerieposten Bargfeld</td></tr><tr><td>285</td><td>Gerken, Emil, Landmann, Gerkenfelde.</td></tr><tr><td>287</td><td>Görtz, Ernst, Gasth. zum Pferdemarkt</td></tr><tr><td>312</td><td>Görtz, Fritz, Tischlerei, Jersbekerstr. 29.</td></tr><tr><td>323</td><td>Görtz, H., Baugesch., Jersbekerstr. 52.</td></tr><tr><td>289</td><td>Gräser, Adolf, Straßenbau, Lohe 24</td></tr><tr><td>290</td><td>Graff, Herm., Fahrräder Hamburgerstr. 25</td></tr><tr><td>212</td><td>Grote, Dr., Arzt, Bahnhofstr.</td></tr><tr><td>245</td><td>Gülde, Ernst, Tischlerei, Lohe 28</td></tr><tr><td>427</td><td>Guhl, Willy, Fuhrw., Tremsbütteler Weg 34</td></tr><tr><td>295</td><td>Gutsverwaltung Tremsbüttel</td></tr><tr><td>218</td><td>Hagemeister, Dr., Tierarzt, Tremsb.-Weg 31</td></tr><tr><td>293</td><td>Hager, Dr. C., Verwaltungsdir., Struhbarg</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"863 875 891 979\" data-label=\"Image\"><img alt=\"Small circular logo or stamp in the bottom right corner.\"/>A small, dark, circular logo or stamp is located in the bottom right corner of the page. It appears to be a publisher's or library's mark, possibly containing a stylized letter or symbol.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"21 10 998 972\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>405</td>\n<td>Höche, Wilh., Musiklehrer, Alte Landstr. 37</td>\n</tr>\n<tr>\n<td>319</td>\n<td>Hölty, H., Bekleidung, Jersbeker Str.</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Hof, Rudolf, Fette, Alte Landstr. 70</td>\n</tr>\n<tr>\n<td>344</td>\n<td>Hof u. Schulz, techn. Fette, Haub.-Str. 3</td>\n</tr>\n<tr>\n<td>327</td>\n<td>Hüttmann, R., R.-A.[N], Struhbarg 23</td>\n</tr>\n<tr>\n<td>298</td>\n<td>Itsch, Albert, Ingenieur</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Jahcke, Walter, Klempn., Kruthorst 15</td>\n</tr>\n<tr>\n<td>442</td>\n<td>Jentsch, Joh., Gartenbau, Gärtnerstr. 6</td>\n</tr>\n<tr>\n<td>275</td>\n<td>Kaufmann, J., Kapitän, Fischbeck</td>\n</tr>\n<tr>\n<td>502</td>\n<td>Kettelback, Nora, Hebamme, Markt 20</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Kielhorn, Gust., Landw., Mönkenbrook</td>\n</tr>\n<tr>\n<td>331</td>\n<td>Kirchheim, Emil, Schmiede, Dellingsdorf</td>\n</tr>\n<tr>\n<td>332</td>\n<td>Kistner, Georg, Schlachter, Am Markt.</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Klockmann, Edm., Kfm., Gut Lasbeck</td>\n</tr>\n<tr>\n<td>335</td>\n<td>Knickrehm, W., Schlossermstr., Jersb.-Str. 11</td>\n</tr>\n<tr>\n<td>338</td>\n<td>Kock, C., Schlachtermstr., Bargfeld</td>\n</tr>\n<tr>\n<td>339</td>\n<td>Köhn, Martin, Bavaria-Ndrlg., Bargfeld.</td>\n</tr>\n<tr>\n<td>310</td>\n<td>Kohl u. Arpe, Geflügelzucht, Alte Landstr. 91</td>\n</tr>\n<tr>\n<td>341</td>\n<td>Krebs, Hans, Bürovorst., Hasselbusch.</td>\n</tr>\n<tr>\n<td>352</td>\n<td>Krebs, Paul, Lastautobes., Elmenhorst</td>\n</tr>\n<tr>\n<td>314</td>\n<td>Kröger, Ernst, Bauer, Timmerhorn</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"25 972 756",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>359</td>\n<td>Krohn, Gertrud, Kaffeehaus, Lübl. Str. 17</td>\n</tr>\n<tr>\n<td>348</td>\n<td>Krohn, Heinrich, Bauer, Hartwigsahl.</td>\n</tr>\n<tr>\n<td>506</td>\n<td>Krohn, Wilh., Süßmosterei, Tremsb. Weg 46</td>\n</tr>\n<tr>\n<td>347</td>\n<td>Küster, Aug., Goldwr., Bahnhofstr. 2</td>\n</tr>\n<tr>\n<td>397</td>\n<td>Laasch, Fritz, Kohlen, Bahnhofstr. 10</td>\n</tr>\n<tr>\n<td>388</td>\n<td>Lamberti, Daniel, Autofuhrw., Kruthorst 47</td>\n</tr>\n<tr>\n<td>351</td>\n<td>Lampe Nf., A., Mühlenbetr., Lindenstr. 44</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Landesbrandkasse, Kommiss., Struhbarg 6</td>\n</tr>\n<tr>\n<td>349</td>\n<td>Larsson, Rud., Gastw., Fasanenhof, Jersbek</td>\n</tr>\n<tr>\n<td>350</td>\n<td>Lasbeker Mühle, Mühlenbetrieb, Gut Lasbek</td>\n</tr>\n<tr>\n<td>360</td>\n<td>Lepthien, Heinr., Kondit., Ad.-Hitler-Str. 4</td>\n</tr>\n<tr>\n<td>353</td>\n<td>Lienau, Heinr., Bauer, Rögen</td>\n</tr>\n<tr>\n<td>369</td>\n<td>Lienau, Herm., Gasthof, Elmenhorst.</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Lindemann, E., Lesezirk., Tremsbütt. Weg 44</td>\n</tr>\n<tr>\n<td>355</td>\n<td>Lindlein, Heinr., Fleischw., Am Markt 19</td>\n</tr>\n<tr>\n<td>357</td>\n<td>Löding, Henry, Eisenwaren, Am Markt 21.</td>\n</tr>\n<tr>\n<td>361</td>\n<td>Loeschen, Erich, Architekt, Bahnhof 2</td>\n</tr>\n<tr>\n<td>263</td>\n<td>Lohe, Erich, Direktor, Struhbarg</td>\n</tr>\n<tr>\n<td>362</td>\n<td>Lohse, Emil, Bauer, Hartwigsahl</td>\n</tr>\n<tr>\n<td>377</td>\n<td>Lübben, G., Lastautobetr., Ad.-Hitler-Str. 7</td>\n</tr>\n<tr>\n<td>467</td>\n<td>Lücke, E., Kondit., Elmenhorst. Barf. Str.</td>\n</tr>\n",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 992 986\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>TELEFONNUMMER</th>\n<th>NAMEN, FIRMEN, BERUFE, ORTE</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>368</td>\n<td>Luther, Martin, Lohndrescherei, Hammoor.</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Maack, Hermann, Pension</td>\n</tr>\n<tr>\n<td>373</td>\n<td>Mangels, Carl, Kim. Tremsbüttelerweg 66</td>\n</tr>\n<tr>\n<td>382</td>\n<td>Martens, Emil, Kupferschmied, Marktplatz.</td>\n</tr>\n<tr>\n<td>875</td>\n<td>Martens, Ernst, Bierverl., Ad.-Hitler-Str. 30</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Martens, Heinrich, Baumat., Bahnhofstr.</td>\n</tr>\n<tr>\n<td>411</td>\n<td>Matthees, H. F., Zimmermstr., Hasselbusch 55</td>\n</tr>\n<tr>\n<td>372</td>\n<td>Meierei-Genossenschaft, Elmenhorst</td>\n</tr>\n<tr>\n<td>386</td>\n<td>Melners, Edmund, Sturmf., Alte Landstr. 54</td>\n</tr>\n<tr>\n<td>374</td>\n<td>Meyer-Bothling, Dr., Zahnarzt, Bahnhofstr. 28</td>\n</tr>\n<tr>\n<td>483</td>\n<td>Möller, Ernst, Eisenwr., Ad.-Hitler-Str. 5</td>\n</tr>\n<tr>\n<td>376</td>\n<td>Möller, Heinr., Klempner, Bargfeld</td>\n</tr>\n<tr>\n<td>508</td>\n<td>Möller, Rich., Gewerbelehr., Jersbek</td>\n</tr>\n<tr>\n<td>227</td>\n<td>Möller, Rud., Malermstr., Tremsb. Weg 88</td>\n</tr>\n<tr>\n<td>378</td>\n<td>Mollwitz, Wilh., Schlachter, Bargfeld</td>\n</tr>\n<tr>\n<td>381</td>\n<td>Müller, Hans Th., Tremsb. Weg 58</td>\n</tr>\n<tr>\n<td>478</td>\n<td>Niemeyer, Emil, Delingsdorf</td>\n</tr>\n<tr>\n<td>292</td>\n<td>Nissen, Albert, Gut Jersbek</td>\n</tr>\n<tr>\n<td>294</td>\n<td>NSDAP., Ortsgruppe, Tremsbüttler Weg</td>\n</tr>\n<tr>\n<td>412</td>\n<td>Nuppenau, F. C., Büretenfabr., Ad.Hitler.Str. 29</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 956 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>367</td>\n<td>Nuppenau, Hugo, Spediteur, Jersb. Str. 17</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Nuppenau, Otto, Gartenbau, Lübecker Str.</td>\n</tr>\n<tr>\n<td>438</td>\n<td>Nuppenau, Wilh., Gastw., Langerelhe</td>\n</tr>\n<tr>\n<td>232</td>\n<td>Nuppnau, Ernst, Autobetrieb, Delingsdorf</td>\n</tr>\n<tr>\n<td>321</td>\n<td>Oellerich, Jonny, Gut Tremsbüttel</td>\n</tr>\n<tr>\n<td>313</td>\n<td>Offen, Hans, Bauer, Fischbeck</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Offen, Hugo, Elektr. Anl., Jersb. Str. 7</td>\n</tr>\n<tr>\n<td>279</td>\n<td>Oldörp, Frieda, Gastw., Fischbek, Old. Str.</td>\n</tr>\n<tr>\n<td>236</td>\n<td>Ove, Joh., Gastw., Delingsdorf</td>\n</tr>\n<tr>\n<td>395</td>\n<td>Pastorat Bargteheide, Lindenstr. 2</td>\n</tr>\n<tr>\n<td>391</td>\n<td>Peemöller, Heinr., Gastwirt, Kl.-Hansdorf</td>\n</tr>\n<tr>\n<td>493</td>\n<td>Peemüller, Aug., Milchtransp., Kl. Hansdorf</td>\n</tr>\n<tr>\n<td>280</td>\n<td>Pemöller, Henry, Gastwirt, Fischbek</td>\n</tr>\n<tr>\n<td>383</td>\n<td>Peters, Rudolf, Mühlenbau, Fischb. Weg 2</td>\n</tr>\n<tr>\n<td>398</td>\n<td>Petersen, Gust., Trabfarm, Jersb.-Str. 60</td>\n</tr>\n<tr>\n<td>396</td>\n<td>Pluns, Oscar F., Privatm., Tremsb.-Weg 14.</td>\n</tr>\n<tr>\n<td>406</td>\n<td>Pöhlisen, Gust., Drogerie, Bahnhofstr. 21</td>\n</tr>\n<tr>\n<td>451</td>\n<td>Pöhlisen, Hans, Kolonialwr., Jersb. Str. 13</td>\n</tr>\n<tr>\n<td>204</td>\n<td>Polizei: Amtsvorsteher</td>\n</tr>\n<tr>\n<td>296</td>\n<td>Dies., Jersbek, Amtsvorsteher, Elmenhorst</td>\n</tr>\n<tr>\n<td>220</td>\n<td>Rau Adalbert Gahlochter Hammer</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Text\"><p>401 Kau, Gustav, Viehhdlg., Hammoor, Kampstr.<br/>414 Redletsen, Wilhelm, Lehrer, Jersbek<br/>213 Reichsbahn, Bahnhof u. Güterabfertigung<br/>303 Reichspost, Postamt<br/>268 Reichspostministerium, Erholungsheim<br/>484 Reimer Nf., Erich, sanit. Art., Markt 9<br/>407 Relling, Adolf, Gastwirt, Am Markt 6.<br/>420 Relling, Ernst, Sattler, Jersbekerstr. 12.<br/>283 Richter, Walter, Kfm., Fischbek<br/>228 Robrahn, Heinr., Bekleid., Hamb. Str. 2<br/>358 Roggenkamp, Aug., Zimmermeister<br/>445 Ruge, Heinr., Bauer, Hannover<br/>422 Ruge, Karl, Landw., Langereihe<br/>389 Salomon, Gust. H., Landw., Mönkenbrook<br/>450 Sambraus, Otto, Eisenwr., Lindenstr. 3<br/>209 Sawall, E., Obergerichtsvollz., Struhbarg 2<br/>461 Schacht, Emil, Schlachter, Lüß.-Str. 9<br/>259 Schacht, Heinr., Schlachter, Voßkuhlenweg 5<br/>336 Schacht, Hugo, Klempnermeister<br/>496 Schacht, Wilhelm, Kolonialwr., Am Markt 8.<br/>452 Schacht, Willy, Kfm., Tremsbüttel</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 967\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>415</td>\n<td>Scheel, Gust. Fr., Baugeesch., Hasselbusch 12</td>\n</tr>\n<tr>\n<td>251</td>\n<td>Scheel, Wilh., Tabakwr., Mittelweg</td>\n</tr>\n<tr>\n<td>417</td>\n<td>Schlesw. Holst. landw. Hauptgenoss. eGmbH.</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Schlesw.-Holst. Stromversorg.-A.-G Stormarn.</td>\n</tr>\n<tr>\n<td>269</td>\n<td>Schütt, Henry, Viehverw., Jersb. Str. 42</td>\n</tr>\n<tr>\n<td>419</td>\n<td>Schützenverein e. V., Schützenplatz</td>\n</tr>\n<tr>\n<td>430</td>\n<td>Schulze, Gustav, Weißwr., Bahnhofstr. 27</td>\n</tr>\n<tr>\n<td>446</td>\n<td>Schulze, Otto, Autovermiet., Bahnhofstr. 22</td>\n</tr>\n<tr>\n<td>366</td>\n<td>Seegrön's Drogerie, Jersbekkerstr. 9</td>\n</tr>\n<tr>\n<td>423</td>\n<td>Seifert, Willi, Schlachterei.</td>\n</tr>\n<tr>\n<td>363</td>\n<td>Seydel, Dr., Zahnarzt, Baumschulenstr. 17</td>\n</tr>\n<tr>\n<td>431</td>\n<td>Siegmund, Ernst, Gärtnerei, Alte Landstr.</td>\n</tr>\n<tr>\n<td>509</td>\n<td>Singelmann, Ernst, Gemischtwr., Hannover</td>\n</tr>\n<tr>\n<td>432</td>\n<td>Soll, Gust., Sattler, Bahnhofstr. 24.</td>\n</tr>\n<tr>\n<td>465</td>\n<td>Spar- u. Darlehnskasse, eGmbH, Bargfeld</td>\n</tr>\n<tr>\n<td>390</td>\n<td>Spar- u. Darlehnskasse Delingsdorf.</td>\n</tr>\n<tr>\n<td>469</td>\n<td>Spar- u. Leihkasse</td>\n</tr>\n<tr>\n<td>433</td>\n<td>Sparkasse d. Kr. Stormarn, Hammoor</td>\n</tr>\n<tr>\n<td>306</td>\n<td>Dieselbe, Elmenhorst</td>\n</tr>\n<tr>\n<td>475</td>\n<td>Dieselbe, Tremsbüttel</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Bargen: Domä",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"21 11 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>281</td>\n<td>Spering, Joh., Bauer, Mönkenbrook</td>\n</tr>\n<tr>\n<td>311</td>\n<td>Spering, Wilhelm, Bauer, Fischbek</td>\n</tr>\n<tr>\n<td>337</td>\n<td>Splettstösser, Adolf, Kfm., Tremsb. Weg</td>\n</tr>\n<tr>\n<td>222</td>\n<td>Splettstösser, H. U., Gemeindevorst.</td>\n</tr>\n<tr>\n<td>402</td>\n<td>Stahmer, Otto, Rechtsanwalt, Markt 14</td>\n</tr>\n<tr>\n<td>437</td>\n<td>Stapelfeldt, Ernst, Viehhdlg., Jersbekerstr. 20</td>\n</tr>\n<tr>\n<td>246</td>\n<td>Starck, Carl, Gastw., Rehbrook, Tremsbüttele</td>\n</tr>\n<tr>\n<td>440</td>\n<td>Starck, Richard, Getreide, Tremsbüttel</td>\n</tr>\n<tr>\n<td>444</td>\n<td>Steckmeister, Ad., Tischlerei, Mittelweg 10</td>\n</tr>\n<tr>\n<td>443</td>\n<td>Steenbock, Hans, Lehrer, Fischbek</td>\n</tr>\n<tr>\n<td>310</td>\n<td>Steffens, Joh., Landw., Elmenhorst</td>\n</tr>\n<tr>\n<td>497</td>\n<td>Steinmatz, Rudolf, Tremsbütteler Weg 55</td>\n</tr>\n<tr>\n<td>448</td>\n<td>Stoffers, Henry, Bauer, Fischbek</td>\n</tr>\n<tr>\n<td>455</td>\n<td>Stoffers, Rudolf, Bauer, Elmenhorst.</td>\n</tr>\n<tr>\n<td>456</td>\n<td>Stoltenberg, Johs., Bauuntern., Elmenhorst.</td>\n</tr>\n<tr>\n<td>472</td>\n<td>Stricker, Franz, Gärtner, Hammoor</td>\n</tr>\n<tr>\n<td>459</td>\n<td>Struck, Hans, Kaffeelager, Bahnhofstr. 5</td>\n</tr>\n<tr>\n<td>316</td>\n<td>Süllaus Gasthof, Am Markt 9</td>\n</tr>\n<tr>\n<td>244</td>\n<td>Thode, Rudolf, Architekt, Struhbarg 5</td>\n</tr>\n<tr>\n<td>457</td>\n<td>Tidow, Georg, Bauer, Kl.-Hansdorf.</td>\n</tr>\n<tr>\n<td>466</td>\n<td>Tiedt, Franz, Glaserel, Jersbekerstr. 30</td>\n</tr>\n<tr>\n<td>482</td>\n<td>Tierärzte-Vorwärtner-Anat. Rinninratat.</",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 988\" data-label=\"Text\"><p>449 Lietjen, Aug., Baugesch., Hannover<br/>435 Timm, Hans, Fleischbeschau, Delingsdorf<br/>441 Timm, Willy, Baugesch., Elmenhorst<br/>468 Ueckermann, Fritz, Töpferei, Kehrzwieder 4<br/>470 Ufer, Walter, R.-A.[N], Baumsch. Str. 15<br/>477 Untiedt, Claus, Delingsdorf<br/>471 Unverhau, Erich, Gartenbau, Mönkenbrook<br/>447 Vagt jr., Adolf, Jersbeker Str.<br/>478 Vagt, Adolf, Tiefbauunternehmen<br/>488 Vagt, Carl, Sägewerk.<br/>494 Vagt, Willy, Schützenhof, Jersbekerstr.<br/>272 Voigts, E., Gastw., Bargfeld<br/>481 Voss, Adolf, Gastwirt, Delingsdorf.<br/>473 Voss, H., Schlachtereie, Gut Lasbek.<br/>421 Voß, Henning, Treuhänder, Elmenhorst<br/>495 Voß, Julius, Gastwirt, Elmenhorst.<br/>254 Voß, Willy, Lohndrescherei, Delingsdorf<br/>482 Wagner, H., Landw., Fischbek<br/>490 Wagner, Heinr., Baugeschäft, Kruthorst.<br/>333 Weidenhöfer, Albert, Bauer, Jersbek<br/>426 Weilandt, A., Strühbarg 44</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 31 960 976\" data-label=\"List-Group\"><p>454 Westphal, Alb., Bäckernstr., Jersb.Str. 18<br/>385 Wiebers, Egon, Bauer, Tremsbüttel<br/>503 Wiegand, Johanna, Struhbarg 32<br/>277 Wilke, R., Schornsteinfeg., Tremsb. W. 28<br/>485 Willhöft, Heinr., Kohlen, Bahnhofstr. 20<br/>491 Witte, Anna, Fischhdlg., Jersbekerst. 8<br/>364 Wolgast, Aug., Bäckerei, Elmenhorst<br/>410 Wolgast, Fritz, Schlachtermstr., Elmenhorst<br/>425 Wolgast, Heinrich, Gastwirt, Elmenhorst.<br/>400 Wulff, Dr. Bruno, Tierarzt, Am Hünengrab<br/>371 Wurr, Ernst, Schmiedemstr., Hammoor<br/>505 Zander, Joh., Obersteward, Tremsbüttel<br/>498 Zöftig, Emil, Kolonialwr., Tremsbüttel</p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Barkenfelde (Kr. Schlochau)[Pommern]",
+        "entries": [
+          {
+            "extension": "26",
+            "text": "Affeldt, Bauer, Barkenfelde"
+          },
+          {
+            "extension": "63",
+            "text": "Bäuerl. Brennereigenossensch. Schildberg u. Umgegend, eGmbH."
+          },
+          {
+            "extension": "17",
+            "text": "Bannhagel Joh., Gastwirt"
+          },
+          {
+            "extension": "65",
+            "text": "Brennerel-Genossensch. eGmbH, Bischofswalde"
+          },
+          {
+            "extension": "52",
+            "text": "Brüssau, Bernh., Landwirt"
+          },
+          {
+            "extension": "71",
+            "text": "Bürgermeister Bischofswalde"
+          },
+          {
+            "extension": "66",
+            "text": "Christfelder Darlehnskass.-Verein, eGmbH"
+          },
+          {
+            "extension": "37",
+            "text": "Feuerbach, Philipp, Bauer"
+          },
+          {
+            "extension": "39",
+            "text": "Flatau, Clemens, Bauer"
+          },
+          {
+            "extension": "41",
+            "text": "Forstschutzgehöft Bärenwalde"
+          },
+          {
+            "extension": "60",
+            "text": "Gendarmerie-Postenbereich Bischofswalde"
+          },
+          {
+            "extension": "38",
+            "text": "Guse, Klara, Hebamme"
+          },
+          {
+            "extension": "54",
+            "text": "Hartwig, Heinz, Landw., Dunkershof"
+          },
+          {
+            "extension": "59",
+            "text": "Hoffmann, Herbert, Bauer, Bischofswalde"
+          },
+          {
+            "extension": "68",
+            "text": "Hoppe, J. J., Bauer, Christfelde"
+          },
+          {
+            "extension": "55",
+            "text": "Hoppe, Marie, Ww., Landwirt"
+          },
+          {
+            "extension": "51",
+            "text": "Jack, M., Landw., Christfelder Mühle"
+          },
+          {
+            "extension": "30",
+            "text": "Jaster, August, Bauer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Text\"><p>61 Knuth, Theodor, Bauer, Christfelde<br/>27 Landw. Warengenossenschaft eGmbH<br/>56 Liebenau, Bauer, Rehhof<br/>23 Missionshaus-Cor Jesu, Bärenwalde<br/>36 Molkerei, Bärenwalde, Heinr. Feuerbach<br/>14 Mühlen- u. Handelsgesellsch. Schlochau GmbH<br/>19 Pankuin, Erwin, Landwirt<br/>57 Patzer, K., Amtsvorst., Schildberg<br/>18 Podlass, Gastwirt<br/>16 Poeplau, Bauer<br/>70 Poeplau, Paul, Bauer, Christfelde<br/>15 Prigann, Hermann, Mühle, Christfelde<br/>22 Reddies, Emil, Gastw., Bärenwalde<br/>32 Reichsbahn, Güterabfertigung, Bärenwalde<br/>53 Dieselbe, Bischofswalde<br/>12 Ritgen, Georg, Bauer, Barkenfelder Mühle<br/>45 Rutz, Albert, Gastwirt<br/>13 Rutz, F., Barkenfelde, Abb.<br/>33 Smolinski, Gustav<br/>28 Spar- u. Darlehnskasse Barkenfelde<br/>35 Straßenmeisterei Nr. 4. Robert Janke</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 0 648 353\"}]",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Barleben (Kr. Wolmirstedt)[Prov. Sachsen]",
+        "entries": [
+          {
+            "extension": "90",
+            "text": "Amtsvorstehrer u. Bürgermeister Ebendorf,Neuhaldenaleber Str. 6"
+          },
+          {
+            "extension": "54",
+            "text": "Badewitz, Waldemar, Farben, Breite Weg 162"
+          },
+          {
+            "extension": "15",
+            "text": "Becker, Herm., Gasthaus, Breite Weg 34"
+          },
+          {
+            "extension": "79",
+            "text": "Behrend, O., Gärtn., Ebendorf, Magd. Str. 9"
+          },
+          {
+            "extension": "68",
+            "text": "Beinhoff, Otto, Schlächterei, Breite Weg 63"
+          },
+          {
+            "extension": "53",
+            "text": "Benecke &amp; Höroldt, Drogen, Breite Weg 145"
+          },
+          {
+            "extension": "11",
+            "text": "Bergemann u. Thieme, Käserei, Breite Weg 73"
+          },
+          {
+            "extension": "105",
+            "text": "Bloch, Otto, Dachd., Ebendorf, H.-Wessel-Str. 1"
+          },
+          {
+            "extension": "48",
+            "text": "Blumberg, Rich., Landwirt, Ebendorf"
+          },
+          {
+            "extension": "97",
+            "text": "Bollmann sen., G., Ebendorf, Magdb. Str. 15"
+          },
+          {
+            "extension": "85",
+            "text": "Borg, Ww. Gertr., Schuhhaus, Breite Weg 146"
+          },
+          {
+            "extension": "4",
+            "text": "Brandt, Frau Anna, Landw., Breite Weg 123"
+          },
+          {
+            "extension": "22",
+            "text": "Brandt, A. C., Adolf-Hitler-Str. 20"
+          },
+          {
+            "extension": "(41)",
+            "text": "Brandt, Fritz, Landw., Ad.-Hitler.-Str. 22"
+          },
+          {
+            "extension": "55",
+            "text": "Brauer, Georg, Tischlermstr., Straße d. SA. 32"
+          },
+          {
+            "extension": "(4)",
+            "text": "Bremer, Curt, Landw., Breite Weg 123"
+          },
+          {
+            "extension": "36",
+            "text": "Bürgermeister u. Amtsvorst., Burgenserstr. 4"
+          },
+          {
+            "extension": "61",
+            "text": "Buschang, Hans, Gastw., Breite Weg 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 992 304\" data-label=\"Text\"><p>84 Conrad, Heinr., Autoverm., Breite Weg 113 |<br/>69 Danehl, Herb., Landw., Hansenstr. 42</p></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 765 350 925\" data-label=\"Text\"><p><b>le — Barlt: lbs</b></p></div><div data-bbox=\"515 765 758 945\" data-label=\"Text\"><p><b>(Band I) 217</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 10 760 995\" data-label=\"Text\"><p>60 Dönicke, Fritz, Fleischerm., Breite Weg 140<br/>88 Drähne, Herm., Malermstr., Breite Weg 179<br/>111 Ebering, Gust., Fahrradhdlg., Bahnhofstr. 14<br/>120 Evangel. Pfarramt, Kirchstr. 44<br/>118 Evangel. Pfarramt Ebendorf, Kirchstr. 25<br/>77 Finke, Heinr., Landwirt, Breite Weg 132<br/>35 Fuhrmann, Gustav, Schleimerei, Südstr. 18<br/>25 Fuhrmann, Osk., Schlächterei, Burgenserstr. 36<br/>44 Gaede, Otto, Baumater., Burgenserstr. 59<br/>76 Gädicke, Willy, Kfm., Breiteweg 144<br/>94 Gartenstadt-Siedlung eGmbH, Birkenstr. 19<br/>34 Gasthaus z. schwarzen Adler, Breiteweg 49<br/>64 Gasthof Deutsches Haus, Breiteweg 146<br/>12 Gastst. Kaffee Hindenburg, Bahnhofstr. 20<br/>62 Gemeindekrug, A. Lohse, Straße d. SA. 6<br/>112 Genander, Friedr., Kohlen, Meitzendorfer Str. 9<br/>21 Gendarmerieposten I, Südstr. 19<br/>124 Gendarmerieposten II, Südstr. 6<br/>41 Germer, Ernst, Landw., Ad.-Hitler-Str. 22<br/>9 Glade, Otto, Bäckerei, Breite Weg 138<br/>8 Goedicke, Frau A., Landw., Str. d. SA. 8<br/>99 Goedicke W Schlachtermstr A .Hitler-Str 6</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 754 990\" data-label=\"Text\"><p>86 Görges, Rich., Viehhdlg., Ad.HitlerStr. 7<br/>116 Götze, Fritz, Gartenbau, Olvenstedter Str. 6<br/>45 Hänel, Walter, Bäckerei, Hirtentor 1<br/>42 John, Otto, Viehhdlr., Barleben, Breiteweg 30<br/>75 Jürgens, Wilh., Schäferei, Burgenserstr. 35<br/>18 Käse-Riechert, Käsefabr., Breite Weg 75<br/>78 Kalinke, Walter, Zigarren, Breite Weg 42<br/>91 Keindorf, Heinr., Amtsvorst., Ad.HitlerStr. 8<br/>30 Kelterer, Aug., Lebensmittel, Breite Weg 181<br/>14 Knackmuß, Wilh., Gasth., Breiteweg 131<br/>28 Knobbe, Wigand, Landw., Burgenser Str. 66<br/>5 Koch, Max, Landw., Breiteweg 147<br/>16 Köhne, Alb., Landw., Kirchstr. 11<br/>92 Kreissparkasse Wolmirstedt, Breite Weg 151<br/>39 Krumrieg, W., Landw., Ebendorf, Magd. Str. 17<br/>108 Küster, Bruno, Autorep., Breite Weg 126<br/>33 Kuhlmann, Wilh., Fleischer, Vorwerkstr. 4.<br/>37 Ländl. Spar-u.Darlehnskasse eGmbH, Bhistr.12<br/>29 Lange, Friedrich Fleischerel, Ad.HitlerStr. 6<br/>1 Lengefeld, Fritz, Fuhrw., Burgenser Str. 13<br/>13 Lippig, Albrecht, Tierarzt, Breiteweg 118</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 750 970\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>27 Lüdecke, Ernst, Elektr. Anl., Burgenserstr. 33</li>\n<li>121 Mertens, Gertrud, Textilwr., Hindenb. Pl. 9</li>\n<li>52 Meyer, Ernst, Walzenmühle, Breite Weg 134</li>\n<li>66 Meyer, Paul, Dachziegel, Breite Weg 95</li>\n<li>40 Meyer, Wilh., Bauer, Burgenser Str. 3</li>\n<li>67 Möhring, Otto, Baugeschäft, Feldstr. 14</li>\n<li>80 Moers, Gustav, Spediteur, Südstr. 15</li>\n<li>89 Moers, Wilh., Autorepar., Breite Weg 127</li>\n<li>43 Müller, Joh., Gartenbau, Ebendorf</li>\n<li>38 Müller, Walter, Klempnerei, Breite Weg 116</li>\n<li>109 Napiontek, Jos., Fuhrw., Schulstr. 3</li>\n<li>95 NS.-Volkswohlfahrt, G. Schulze, Breite Weg 52</li>\n<li>106 Otto, Herm., Bäckerei, Hind. Platz 5</li>\n<li>101 Pfeifer, Wilhelm, Fleischerei, Burgenser Str. 61</li>\n<li>72 Pilkenroth, Herm., Lebensm., Straße d. SA. 15</li>\n<li>58 Plagemann, O., Bäckermstr., Breite Weg 38</li>\n<li>20 <b>Ravia-Spoer A.-G., Schokoladenfabriken, Bar-<br/>leben b. Magdeburg. T Raspo P Mgdbg. 19798</b></li>\n<li>10 Reichsbahn, Güterabfertigung</li>\n<li>0 Reichspost, Postamt</li>\n</ul>\n</div>\n<div data-bbox=\"25 965 700 995\" data-label=\"Page-Footer\">\n<p>... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ... - ...",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 755 992\" data-label=\"Text\"><p>2 Riechert, G. H., u. SA.-Büro, Breiteweg 70<br/>83 Riechert, Walter, Dentist, Breite Weg 52<br/>56 Rost, Otto, Fuhruntern., Hansenstr. 41<br/>31 Rüffer, Karl, Kohlenhandlung, Breite Weg 82<br/>47 Schaeper, Gustav, Motormühle, Str. d. SA 5<br/>102 Scherping, G., Landw., Ebendorf, Krugstr. 18<br/>93 Schmidt, Curt, Breite Weg 31<br/>(94) Schneider, Konr., Fleischbesch., Birkenstr. 19<br/>123 Schnelle, Erich, Drescherei, A.-Hitler-Str. 19<br/>3 Schütte, Friedr., Bauer, Breite Weg 50<br/>26 Schulze, Ernst, Eisenwr., Hirtentor 2<br/>107 Schulze, Dr. Hans, Zahnarzt, Bahnhofstr. 19<br/>82 Schulze, Martin, Landw., Burgenserstr. 65<br/>70 Schuppe, Dr. G., Arzt, Bahnhofstr. 18<br/>115 Sesse, Friedr., Bauer, Ebendorf, Krugstr. 5<br/>104 Spoer, Elisabeth, Str. d. SA. 33<br/>17 Staufenbiel, Herm., Fleisch., Breite Weg 117<br/>50 Stübing, Friedr., Kol.-W., Breite Weg 59<br/>74 Thiclepape, Ursula, Ärztin, Breite Str. 52<br/>51 Toepfer, Otto, Käserei, Breite Weg 115<br/>46 Ude, Jul., Fleischermstr., Ebendorf, Tiestr. 8</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 743 976\" data-label=\"Text\"><p>01 Vinkci, Ivan., Buchh., Bihler Weg 33<br/>19 Vahldieck, Wilh., Landesprod., Bhfstr. 34<br/>114 Volksschule, Breiteweg 158<br/>73 Wahrenberg, O., Landesprod., Breite Weg 137<br/>103 Wallstab, Fritz, Bauernf., Breiteweg 184<br/>100 Wegener, Otto, Bauuntern., Meitzend. Str. 1<br/>24 Wesche, Rud., Gutsbes., Str. d. SA. 34<br/>23 Wiemann, R., Stellmacherei, Ebend. Str. 1.<br/>65 Wischeropp, Otto, Landwirtschaft, Ebendorf,<br/>Magdeburger Str. 29<br/>7 Woche, Herta, Ww., Straße der SA. 9<br/>63 Zachau, Heinr., Landw., Ad.-Hitler-Str. 1<br/>98 Ziske, Alb., Dachdeckerei, Heimattal 22</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Barlt (ab. Meldorf) [Holstein]",
+        "entries": [
+          {
+            "extension": "13",
+            "text": "Bartels, Hermann, Bauer, Busenwurth"
+          },
+          {
+            "extension": "08",
+            "text": "Beeck, Hans, Bauer, Klitzhusen"
+          },
+          {
+            "extension": "21",
+            "text": "Beenck, Jul., Bauer, Barlter-Kamp"
+          },
+          {
+            "extension": "24",
+            "text": "Behrens, Reinhard, Bauer"
+          },
+          {
+            "extension": "22",
+            "text": "Behrens, Th., Bauer, Kronprinzenkoog Nord"
+          },
+          {
+            "extension": "42",
+            "text": "Blesemann, Nik., Bauer, Trennew., Neuend."
+          },
+          {
+            "extension": "19",
+            "text": "Boie, Peter, Bauer, Trennewurth"
+          },
+          {
+            "extension": "50",
+            "text": "Boje, Wilken, Bauer, Barlter Altendeich"
+          },
+          {
+            "extension": "82",
+            "text": "Delfs, Herm., Webstoffwaren."
+          },
+          {
+            "extension": "66",
+            "text": "Dierks, Wilhelm, Bauer"
+          },
+          {
+            "extension": "18",
+            "text": "Dohrn, Joh., Bauer, Barlterfelde"
+          },
+          {
+            "extension": "64",
+            "text": "Frenßen, Hans, Bauer"
+          },
+          {
+            "extension": "33",
+            "text": "Genossenschafts-Melerei"
+          },
+          {
+            "extension": "57",
+            "text": "Gerdes, Edo, Bauer, Trennewurther Kroge"
+          },
+          {
+            "extension": "30",
+            "text": "Gerdes, Sieb., Bauer, Barlter Neuendeich"
+          },
+          {
+            "extension": "32",
+            "text": "Hanssen, Hans, Bauer, B.-Altendeich"
+          },
+          {
+            "extension": "16",
+            "text": "Heesch, Wilh., Bauer, Barlter Neuendeich"
+          },
+          {
+            "extension": "33",
+            "text": "Hellmann, Heinrich, Bauer, Trennewurth"
+          },
+          {
+            "extension": "77",
+            "text": "Heuer, Walter, Kohlen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 736 563\" data-label=\"List-Group\"><ul><li>17 Huesmann, Ferd., Bauer, Kronprinzenkoog-N.</li><li>18 Huesmann, Ludolf, Trennewurther Deich</li><li>51 Huesmann, Otto, Bauer</li><li>39 Ibs, Julius, Bauer, Kannemoor</li><li>30 Ibs, Richard, Frau, Bäuerin, Kannemoor</li><li>49 Ibs, Wilh., Bauer, Kannemoor</li></ul></div><div data-bbox=\"453 574 498 667\" data-label=\"Page-Footer\"><p>28</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

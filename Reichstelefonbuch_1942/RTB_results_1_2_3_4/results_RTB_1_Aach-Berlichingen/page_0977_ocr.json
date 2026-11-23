@@ -1,0 +1,984 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 948 993 978\" data-label=\"Image\"><img alt=\"A thick black horizontal line at the bottom of the page.\"/>A thick, solid black horizontal line spanning the width of the page near the bottom edge.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Kaufhaus „Geswah“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Kauf-Bullinger &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"264 132 589 375\"}, {\"label\": \"Text\", \"bbox\": \"476 425 966 555\"}, {\"label\": \"Text\", \"bbox\": \"273 614 840 753\"}, {\"label\": \"Text\", \"bbox\": \"480 791 766 908\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"225 50 998 925\" data-label=\"List-Group\"><p>B5 84 11 Maler, Josef, Verkauf von Möbeln, Tape-<br/>zierer, XI/79, Drischützgasse 10</p><p>B3 22 50 Möbelhaus Neubauhof Edm. Schaller,<br/>Wien VII/62, Neubaugasse 66</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"334 98 888 541\"}, {\"label\": \"Text\", \"bbox\": \"395 578 828 855\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Wien-Mödling.",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Wilhelmshaven.",
+        "entries": []
+      },
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"346 61 867 977\" data-label=\"Text\"><p><i>J. Berenberg</i><br/><i>Wienburg</i><br/><i>Chambers 10 Tel. 22431</i></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"238 196 962 326\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Altheide (Schles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Bruck an der Mur 1 (Stiarnmark)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "4071. Möbel u. Innendekor.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Melle (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Metz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "MÖBELHAUS",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Stolp (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 20 998 875\" data-label=\"Text\"><p>B27 3 29 | Wien VI/56, Mariahilfer Straße 31<br/>Erblich &amp; Richter, Möbelhandlung, VI/56,<br/>Mariahilfer Str. 79</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Friedrich A. Flamme",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "4073. Möbel: Bugholzmöbel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"132 227 855 820\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Döbeln (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 0 276 145\"}, {\"label\": \"Text\", \"bbox\": \"73 165 981 485\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 787 970 955\" data-label=\"Text\"><p><b>tion (Fachgeschäfte) — 4083.</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Luckenwalde (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "434 HIRO-Metallwerk",
+        "entries": []
+      },
+      {
+        "region_name": "Nagold (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Remich (Luxemburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Gebrüder Moes",
+        "entries": []
+      },
+      {
+        "region_name": "Eisenhandlung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Ruppichteroth (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Sehma (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Triberg (Schwarzwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Vellbert (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"203 33 998 631\" data-label=\"Text\"><p>belbeschläge u. Metallgießerei, V/55,<br/>Brandmayergasse 9</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"92 214 901 279\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"58 204 941 266\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Bad Homburg v. d. Höhe.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"217 207 770 276\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 114 192 330\" data-label=\"Text\"><p><b>Wien.</b></p></div><div data-bbox=\"0 364 986 744\" data-label=\"Text\"><p>B2 94 05 Mages, Hans, Möbelleder, Marke „Hammag“, Wien VI/56, Kasernengasse 14</p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"102 222 886 792\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Mettmann (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "4080. Möbelposamenten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Buchholz (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"204 207 770 744\"}]",
+      "cells": [
+        "col3_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Vellbert (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"67 54 915 352\"}, {\"label\": \"Text\", \"bbox\": \"241 386 746 962\"}]",
+      "cells": [
+        "col3_sec19.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"445 178 450 212\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col3_sec20.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"132 292 672 319\"}]",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"27 21 138 964\" data-label=\"Image\"><img alt=\"Logo of Freitag &amp; Co. featuring a triangle with the letter 'F' inside and '&amp; Co.' below it.\"/>A logo consisting of a triangle. Inside the triangle, there is a diamond shape containing the letter 'F'. Below the triangle, the text '&amp; Co.' is written.</div><div data-bbox=\"182 50 748 399\" data-label=\"Text\"><p><b>Freitag &amp; Co.</b> Komm.-Ges.<br/>Schloßfabrik</p></div><div data-bbox=\"230 421 704 585\" data-label=\"Text\"><p>Möbel- und Schatullenschlösser</p></div><div data-bbox=\"291 606 639 770\" data-label=\"Text\"><p>Stanz- und Ziehartikel</p></div><div data-bbox=\"182 791 384 950\" data-label=\"Text\"><p>Meerstraße 4</p></div><div data-bbox=\"538 787 743 958\" data-label=\"Text\"><p><b>Fernspr. 2089</b></p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"74 10 745 937\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"73 290 146 468\" data-label=\"Text\"><p>2716</p></div><div data-bbox=\"73 503 146 688\" data-label=\"Text\"><p>2717</p></div><div data-bbox=\"204 59 728 412\" data-label=\"Text\"><p><b>Joh. Fr. Müller K. G.</b></p></div><div data-bbox=\"250 485 689 684\" data-label=\"Text\"><p>Schloß- u. Metallwarenfabrik</p></div><div data-bbox=\"297 714 638 908\" data-label=\"Text\"><p>Hohenzollernstr. 6—12</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"73 85 148 250\"}, {\"label\": \"Section-Header\", \"bbox\": \"248 10 687 287\"}, {\"label\": \"Text\", \"bbox\": \"165 352 773 727\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "4083. Möbelstoffe s. a. Mokettwebereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Ruchholz (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"65 106 140 352\"}, {\"label\": \"Text\", \"bbox\": \"65 425 140 661\"}, {\"label\": \"Text\", \"bbox\": \"65 701 140 947\"}, {\"label\": \"Text\", \"bbox\": \"252 16 645 322\"}, {\"label\": \"Text\", \"bbox\": \"306 395 600 661\"}, {\"label\": \"Text\", \"bbox\": \"351 701 561 947\"}]",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": [
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main.)",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Grünbach (Vogtl.).",
+        "entries": []
+      }
+    ]
+  }
+]

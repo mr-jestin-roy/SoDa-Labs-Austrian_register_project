@@ -1,0 +1,931 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 671 600 875\" data-label=\"Text\"><p><b>172 (Branchenteil)</b></p></div><div data-bbox=\"774 665 998 845\" data-label=\"Text\"><p><b>1264. EI</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"367 54 873 210\" data-label=\"Text\"><p><b>Litzmannstäder Eisengießerei</b></p></div><div data-bbox=\"357 214 881 561\" data-label=\"Text\"><p><b>„Ferrum“</b></p></div><div data-bbox=\"265 559 972 675\" data-label=\"Text\"><p><b>Inhaber: Edmund Bauer und Alfons Weidmann</b></p></div><div data-bbox=\"393 697 847 815\" data-label=\"Text\"><p><b>Litzmannstadt, Buschlinie 121</b></p></div><div data-bbox=\"389 824 854 955\" data-label=\"Text\"><p><b>Fernsprecher 218 20 u. 218 37</b></p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Lohr (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Lüneburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Lümen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Mägdesprung (Ostharz).",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"269 61 940 375\"}, {\"label\": \"Text\", \"bbox\": \"377 444 896 524\"}, {\"label\": \"Text\", \"bbox\": \"362 596 848 675\"}, {\"label\": \"Text\", \"bbox\": \"420 714 804 792\"}, {\"label\": \"Text\", \"bbox\": \"389 834 877 921\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Offenbach (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Oldenburg (Oldb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Olmütz (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"245 46 299 240\"}, {\"label\": \"Section-Header\", \"bbox\": \"395 37 854 477\"}, {\"label\": \"Text\", \"bbox\": \"533 490 737 917\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Ostenburg (Bez. Zichenau).",
+        "entries": []
+      },
+      {
+        "region_name": "Pabianice (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 699 998 942\" data-label=\"Text\"><p><b>SEN (Eisengießereien) — 1267.</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "| Pardubitz (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"189 20 831 955\" data-label=\"Text\"><p><b>Josef Prokop's Söhne</b><br/><b>Maschinenfabrik u. Eisengießerei</b><br/><b>Pardubitz</b><br/><b>Fernsprecher 2831. 2832</b></p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Peine (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Pöhlä (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "STADT ROKITZANEREISENWERKS-DIREKTION",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Saalfeld (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Saargemünd (Lothringen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Eisengießerei Saargemünd",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Sandersleben (Anh.).",
+        "entries": []
+      },
+      {
+        "region_name": "St. Georgen (Schwarzwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Schmallkalden.",
+        "entries": []
+      },
+      {
+        "region_name": "Schwandorf (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwelm (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Schwerin (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Sohrau (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Solingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Sprottau (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stein (Südkärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Thür. Staatswerke Steinach (Thür.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Stockach (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"10 697 825 945\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Gießerei u. Maschinenfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Torgau (Elbe).",
+        "entries": []
+      },
+      {
+        "region_name": "Torgelow (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Triberg (Schwarzwald).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Ueckermünde (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ulm (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Unterwellenborn (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Velbert (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"192 322 914 375\" data-label=\"Text\"><p>-----<br/>fabrik u. Eisengießerei, Schlossstr. 11</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 50 155 900\" data-label=\"Text\"><p><b>SmI.-</b><br/><b>Nr.</b><br/><b>2816</b></p></div><div data-bbox=\"160 50 185 900\" data-label=\"Text\"><p><b>{</b></p></div><div data-bbox=\"240 50 585 600\" data-label=\"Text\"><p><b>Emil Hohagen</b></p></div><div data-bbox=\"610 280 910 600\" data-label=\"Text\"><p><b>Velbert (Rhld.)</b></p></div><div data-bbox=\"345 630 800 950\" data-label=\"Text\"><p><b>siehe Tempergießereien</b></p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Vietz (Ostbahn).",
+        "entries": []
+      },
+      {
+        "region_name": "Warnsdorf (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Weiherhammer b. Weiden (Oberpfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Weilbach (Mainfranken).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Welunger Industrie- und Handelsgesellschaft",
+        "entries": [
+          {
+            "extension": "",
+            "text": "I. Verkauf von Landmaschinen aller Art, insbesondere Erzeugnisse der Firmen H. Lanz Akt. Ges. Mannheim und R. Sack Leipzig II. Eigene Maschinenfabrik, Eisengießerei und Modelltischlerei: Ausführung von Reparaturen sämtlicher Landmaschinen, sowie Bau derselben"
+          }
+        ]
+      },
+      {
+        "region_name": "Welungen / Wartheland",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 40 563 144\" data-label=\"Text\"><p><b>Werdau (Sachs.).</b></p></div><div data-bbox=\"75 183 170 247\" data-label=\"Text\"><p>2404</p></div><div data-bbox=\"242 141 759 293\" data-label=\"Text\"><p><b>Unger &amp; Co.</b></p></div><div data-bbox=\"775 141 931 291\" data-label=\"Text\"><p>Eisen-<br/>gießerei</p></div><div data-bbox=\"0 334 618 437\" data-label=\"Text\"><p><b>Wertheim (Baden).</b></p></div><div data-bbox=\"98 434 981 582\" data-label=\"Text\"><p>408 Dummig, Jakob, Eisengießerei, Wertheim,<br/>Fabrikweg 1</p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or tables.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Gebrüder Haren",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Witten (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Wülfraß (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      },
+      {
+        "region_name": "Zabern (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"259 29 519 160\" data-label=\"Text\"><p><b>Elektro-Gerätebau</b></p></div><div data-bbox=\"139 160 641 399\" data-label=\"Text\"><p><b>Blanc &amp; Fischer</b></p></div><div data-bbox=\"215 441 565 587\" data-label=\"Text\"><p><b>Oberderdingen (Württ.)</b></p></div><div data-bbox=\"66 606 714 809\" data-label=\"Text\"><p><b>Werk „VOGESIA“ Zabern (Els.)</b></p></div><div data-bbox=\"306 824 473 963\" data-label=\"Text\"><p><b>Fernruf 24</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Zell i. Wiesental (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Zgierz (Kr. Litzmannstadt) [Wartheland].",
+        "entries": []
+      },
+      {
+        "region_name": "Zichenau (Südostr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zorge (Südharz).",
+        "entries": []
+      },
+      {
+        "region_name": "Zweibrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Zwickauer Eisengießerei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "1265. Eisenhochbau",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Hersfeld (H/N.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Newwied.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"43 236 721 820\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "1267. Eisenkurzwaren",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Artern (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  }
+]

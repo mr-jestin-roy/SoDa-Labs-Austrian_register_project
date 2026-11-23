@@ -1,0 +1,942 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "100",
+            "text": "(Band II) Berlin: Café"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"217 10 993 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>63 08 10</td>\n<td>Café Buchholz, Ndwde Brückenstr. 24</td>\n</tr>\n<tr>\n<td>21 35 61</td>\n<td>Café City, W 9, Potsdamer Str. 11</td>\n</tr>\n<tr>\n<td>97 39 37</td>\n<td>Café Conrad, Hal Kurfürstend. 96</td>\n</tr>\n<tr>\n<td>92 08 04</td>\n<td>Café Corso, Chb 2 Hardenbergstraße 27a</td>\n</tr>\n<tr>\n<td>16 17 41</td>\n<td>Café am Dönhoffpl., C 2, Jerus. Str. 15</td>\n</tr>\n<tr>\n<td>17 13 82</td>\n<td>Café Eckert, SW 68, Friedrichstr. 3</td>\n</tr>\n<tr>\n<td>41 35 26</td>\n<td>Café Failer, NW 7, Friedrichstr. 131a</td>\n</tr>\n<tr>\n<td>53 45 74</td>\n<td>Café Flink, C 2, Landsb. Str. 32</td>\n</tr>\n<tr>\n<td>63 03 90</td>\n<td>Café Flugplatz, Joh Sternplatz 11</td>\n</tr>\n<tr>\n<td>46 26 36</td>\n<td>Café Franz, E. Menzel, N 65, Fenustr. 4</td>\n</tr>\n<tr>\n<td>47 24 65</td>\n<td>Café-Frohnau, Fro Ludolfingerpl. 2</td>\n</tr>\n<tr>\n<td>66 16 79</td>\n<td>Café Gerber, SW 29, Hasenheide 61</td>\n</tr>\n<tr>\n<td>41 04 01</td>\n<td>Café Gerstensaft, N 4, Chausseestr. 101</td>\n</tr>\n<tr>\n<td>45 26 53</td>\n<td>Café Goldammer, N 58, Starg. Str. 19</td>\n</tr>\n<tr>\n<td>17 22 84</td>\n<td>Café Grüger, SW 61, B.-Allianze-Pl. 6</td>\n</tr>\n<tr>\n<td>17 02 80</td>\n<td>Café Günther, SW 68, Friedrichstr. 25</td>\n</tr>\n<tr>\n<td>11 11 38</td>\n<td>Café Guland, W 8, Behrenstr. 50</td>\n</tr>\n<tr>\n<td>91 22 06</td>\n<td>Café Hanka, W 15, Kurf.-Damm 51</td>\n</tr>\n<tr>\n<td>99 22 01</td>\n<td>Café „An der Heerstraße“, Chb 9 Heerst. 28</td>\n</tr>\n<tr>\n<td>41 09 55</td>\n<td>Café Henry, NW 7, Friedrichstr. 127</td>\n</tr>\n<tr>\n<td>59 03 92</td>\n<td>Café Hörning, O 17, Gr. Frankf. Str. 10</td>\n</tr>\n<tr>\n<td>42 92 30</td>\n<td>Café Ilona Plz Wollankstr. 1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"221 0 993 980\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>34 78 82</td>\n<td>Café Inge, CNO 5 Winkelschierstr. 13</td>\n</tr>\n<tr>\n<td>19 43 80</td>\n<td>Café Jahn, SW 61, Belle-Alliance-Pl. 13</td>\n</tr>\n<tr>\n<td>59 15 88</td>\n<td>Café Jannowitz, C 2, Alex.-Str. 55</td>\n</tr>\n<tr>\n<td>31 49 10</td>\n<td>Café Kant-Eck, Chb 4 Kantstr. 68</td>\n</tr>\n<tr>\n<td>34 58 58</td>\n<td>Café a. Knie, Chb 2 Berl. Str. 166</td>\n</tr>\n<tr>\n<td>53 04 18</td>\n<td>Café am Königstor, NO 18, N. Königstr. 1</td>\n</tr>\n<tr>\n<td>17 61 36</td>\n<td>Café Kommandantenh., SW 68, Komm.-<br/>Straße 15</td>\n</tr>\n<tr>\n<td>53 14 29</td>\n<td>Café-Kond. Helene Woicke, C 2, Prenzl.<br/>Straße 59</td>\n</tr>\n<tr>\n<td>78 06 61</td>\n<td>Café u. Kurhaus Grunewald, Dahl K.-<br/>Luise-Str.</td>\n</tr>\n<tr>\n<td>42 85 67</td>\n<td>Café „Lang“, NW 7, Friedr.Str. 133a</td>\n</tr>\n<tr>\n<td>61 31 28</td>\n<td>Café Leonidas, SW 68, Prinzenstr. 41</td>\n</tr>\n<tr>\n<td>39 70 20</td>\n<td>Café Lessing, NW 87, Lessingstr. 28</td>\n</tr>\n<tr>\n<td>50 80 36</td>\n<td>Café Mahlsdorf, Mlad Böner Str. 75</td>\n</tr>\n<tr>\n<td>58 50 17</td>\n<td>Café Margot, O 34, Petersburger Str. 17</td>\n</tr>\n<tr>\n<td>46 54 58</td>\n<td>Café Mars, N 65, Chausseestr. 94</td>\n</tr>\n<tr>\n<td>98 22 28</td>\n<td>Café Melodie, Hal Kurfürstend. 70</td>\n</tr>\n<tr>\n<td>25 46 45</td>\n<td>Café Mertens, W 30, Motzstr. 58</td>\n</tr>\n<tr>\n<td>34 14 74</td>\n<td>Café Meyer, Chb 2 Berliner Str. 46</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"222 0 997 994\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>66 18 80</td>\n<td>Café Odeón, SW 29, Hasenheide 39</td>\n</tr>\n<tr>\n<td>44 08 17</td>\n<td>Café Paul, N 58, Schönhauser Allee 21</td>\n</tr>\n<tr>\n<td>67 52 47</td>\n<td>Café Prinzenhof, SW 68, Prinzenstr. 78</td>\n</tr>\n<tr>\n<td>55 09 86</td>\n<td>Café Rathaus, Lbg Frankf. Allee 250</td>\n</tr>\n<tr>\n<td>52 03 06</td>\n<td>Café Am Rathaus, C 2, Spand. Str. 26</td>\n</tr>\n<tr>\n<td>62 70 90</td>\n<td>Café Rathaus, Neuk Flughafenstr. 13</td>\n</tr>\n<tr>\n<td>77 20 64</td>\n<td>Café Rats-Klause Schö K.-Wilh.-Pl. 2</td>\n</tr>\n<tr>\n<td>58 84 56</td>\n<td>Café Reni, O 112, Rigaer Str. 56</td>\n</tr>\n<tr>\n<td>73 49 93</td>\n<td>Café-Restaur., Mfde Welterpfad 40</td>\n</tr>\n<tr>\n<td>41 41 08</td>\n<td>Café-Restaur. A. Kunisch, N 4, Oranienb.<br/>Straße 39</td>\n</tr>\n<tr>\n<td>17 32 22</td>\n<td>Café-Rest. Oranieneck, SW 68, Lindenstr. 38</td>\n</tr>\n<tr>\n<td>35 22 51</td>\n<td>Café-Rest. Pommern, NW 40, Rathen-<br/>Straße 8</td>\n</tr>\n<tr>\n<td>19 42 82</td>\n<td>Café-Restaurant l. d. Saarlandstr., SW 11,<br/>Saarlandstr. 15</td>\n</tr>\n<tr>\n<td>53 55 29</td>\n<td>Café Rheineck, NO 18, Friedenstr. 29</td>\n</tr>\n<tr>\n<td>55 12 42</td>\n<td>Café Rheingau, Lbg Frankf. Allee 206</td>\n</tr>\n<tr>\n<td>59 14 79</td>\n<td>Café Rietz, O 17, Andreasstr. 68</td>\n</tr>\n<tr>\n<td>44 29 46</td>\n<td>Café Roland, NO 55, Prenzl. Allee 196</td>\n</tr>\n<tr>\n<td>44 67 02</td>\n<td>Café Schenk, N 58, Schönhauser All. 33</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "22 38 38      Café am Tiergarten G. m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Straße 97",
+        "entries": [
+          {
+            "extension": "46",
+            "text": "77 03 Café Zech, N 65, Müllerstr. 25"
+          },
+          {
+            "extension": "41",
+            "text": "61 46 Caffier, Dr. P., Prof., NW 7, Artilleriestr. 18"
+          },
+          {
+            "extension": "25",
+            "text": "46 13 Cahier, Dagmar, W 62, Keithstr. 22"
+          },
+          {
+            "extension": "71",
+            "text": "12 69 Cahn, Br., Kfm., Schb Paulustr. 24"
+          },
+          {
+            "extension": "16",
+            "text": "12 13 Cahn, Carl, i. Liqu., Bankgesch., W 8,Taubenstr. 22"
+          },
+          {
+            "extension": "88",
+            "text": "25 08 Cahn, Rud., Kfm., Frdn Ringstr. 6"
+          },
+          {
+            "extension": "53",
+            "text": "13 95 Dr. Cahn & Franck, Chem. Fb., C 2,Georgenkirchstraße 42"
+          },
+          {
+            "extension": "87",
+            "text": "14 18 Cahnheim, Traut, Wilm Landh. St. 30"
+          },
+          {
+            "extension": "84",
+            "text": "38 04 Cailloud, Alb., Min.-Rat, Zehl Mühlenfelde 5"
+          },
+          {
+            "extension": "97",
+            "text": "34 59 Cajar, Rud., Baurat, Grw Marg.-Str. 1 (96 36 05) Calandbund e.V., Elisab., Klavierschule,Chb 4 Sybelstr. 29"
+          },
+          {
+            "extension": "80",
+            "text": "72 08 Calandrelli, L., Archit., Stsd Bergstr. 24"
+          },
+          {
+            "extension": "86",
+            "text": "81 43 Calatrö, Dr. P., Wilm Brandenb. Str. 18"
+          },
+          {
+            "extension": "46",
+            "text": "72 93 Calatz, G., Glasreinig., N 20, Prinzenallee 70"
+          },
+          {
+            "extension": "48",
+            "text": "42 76 Calckhois Apotheke, Bho Hauptstr. 14"
+          },
+          {
+            "extension": "48",
+            "text": "22 14 Calderarav, K., Pol.-Rat, Pko LaudaerStraße 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"221 0 998 944\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>80 33 12</td>\n<td>Cale, Maria, Chb 3 Düsselb. 3</td>\n</tr>\n<tr>\n<td>80 33 37</td>\n<td>Caleb, Else, Frau, Wilm Uhlandstr. 62</td>\n</tr>\n<tr>\n<td>91 33 54</td>\n<td>Calbow, Er., Abt.-Leit., W 15, Uhlandstr. 32</td>\n</tr>\n<tr>\n<td>26 39 63</td>\n<td>Calero, José, Dr. jur., W 30, Münch. Str. 15</td>\n</tr>\n<tr>\n<td>96 27 29</td>\n<td>Calgér, Wilh., Kfm., Chb 4 Droyssenstr. 18</td>\n</tr>\n<tr>\n<td>32 31 55</td>\n<td>Calice, Dr. Heinr., Graf, Leg.-Sekr., Chb 4<br/>Weim. Str. 48</td>\n</tr>\n<tr>\n<td>64 26 05</td>\n<td>Caliebe, Ernst, Post-Insp., Köp Biesd. Str. 10</td>\n</tr>\n<tr>\n<td>67 17 86</td>\n<td>Caliebe, Rich., Feinkost, SW 68, Dresdener<br/>Straße 90</td>\n</tr>\n<tr>\n<td>35 15 69</td>\n<td>Calics. Franz. NW 40, Werftstr. 2</td>\n</tr>\n<tr>\n<td>Sammel-<br/>Nr.</td>\n<td rowspan=\"2\">{ Caliqua Wärmegesellschaft m. b. H., Ber-<br/>lin-Charlottenburg 2, Hardenbergstr. 9a.</td>\n</tr>\n<tr>\n<td>31 50 46</td>\n</tr>\n<tr>\n<td>19 38 43</td>\n<td>Calisay, A.C. Dung, SW 68, Wilhelmstr. 122a</td>\n</tr>\n<tr>\n<td>61 57 30</td>\n<td>Calix, Gertr., SO 36, Schröderdamm 43</td>\n</tr>\n<tr>\n<td>91 69 51</td>\n<td>Callam, Gertr., Säng., W 15, Pariser St. 28</td>\n</tr>\n<tr>\n<td>39 02 45</td>\n<td>Callam, Dr. G., R.A.[N], NW 87, Flensb. Str. 10</td>\n</tr>\n<tr>\n<td>87 48 15</td>\n<td>Callam, Hans, Kfm., W 15, Düsseldorf. Str. 70</td>\n</tr>\n<tr>\n<td>22 12 51</td>\n<td>Callé, H. G., Sportlehr., W 35, Hildebr. Str. 17</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "- Caro",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "27",
+            "text": "68"
+          },
+          {
+            "extension": "97",
+            "text": "31"
+          },
+          {
+            "extension": "42",
+            "text": "62"
+          },
+          {
+            "extension": "84",
+            "text": "85"
+          },
+          {
+            "extension": "84",
+            "text": "04"
+          },
+          {
+            "extension": "31",
+            "text": "74"
+          },
+          {
+            "extension": "66",
+            "text": "73"
+          },
+          {
+            "extension": "30",
+            "text": "91"
+          },
+          {
+            "extension": "59",
+            "text": "09"
+          },
+          {
+            "extension": "42",
+            "text": "96"
+          },
+          {
+            "extension": "35",
+            "text": "15"
+          },
+          {
+            "extension": "49",
+            "text": "40"
+          },
+          {
+            "extension": "60",
+            "text": "61"
+          },
+          {
+            "extension": "35",
+            "text": "08"
+          },
+          {
+            "extension": "30",
+            "text": "29"
+          },
+          {
+            "extension": "26",
+            "text": "42"
+          },
+          {
+            "extension": "80",
+            "text": "41"
+          },
+          {
+            "extension": "26",
+            "text": "24"
+          },
+          {
+            "extension": "30",
+            "text": "78"
+          },
+          {
+            "extension": "71",
+            "text": "41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 986\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>76 54 04</td>\n<td>Callmeyer, Kap.-Ltn., Ltj Gardesch.-W. 16</td>\n</tr>\n<tr>\n<td>26 14 80</td>\n<td>Callomon, Dr. Fritz Israel, jüd. Krankenbeh., W 30, Heilbr. Str. 13</td>\n</tr>\n<tr>\n<td>92 12 56</td>\n<td>Calloni-Vagts, Gerda, Chb2 Uhlandstr. 183</td>\n</tr>\n<tr>\n<td>84 57 28</td>\n<td>Callsen, Cl., Klempn., Zehl Hartmannsweiler Weg 36</td>\n</tr>\n<tr>\n<td>85 26 32</td>\n<td>Callsen, Curt, Ing., Zehl Berl. Str. 27</td>\n</tr>\n<tr>\n<td>42 16 98</td>\n<td>Callsen, H., Lederfärb., C2, N. Schönh. Str. 12</td>\n</tr>\n<tr>\n<td>30 91 55</td>\n<td>Callsen, Hans, Drogen, Tgl Kamenerw. 11</td>\n</tr>\n<tr>\n<td>84 23 83</td>\n<td>Callsen, O., Zentralheiz., Zehl O. Tomstr. 115</td>\n</tr>\n<tr>\n<td>86 23 47</td>\n<td>Callsen, Willh., Pol.-Hptm., Wilm Uhlandstraße 110</td>\n</tr>\n<tr>\n<td>83 47 77</td>\n<td>Calm, H., Baumstr., Wilm Rüdesh. Str. 6</td>\n</tr>\n<tr>\n<td>47 20 27</td>\n<td>Calm, Julius, Hrnsd Friedrichst. W. 31</td>\n</tr>\n<tr>\n<td>27 04 02</td>\n<td>Calmbach, Max, W 35, Potsd. Str. 193</td>\n</tr>\n<tr>\n<td>97 09 48</td>\n<td>Calmeyer, Emilie, Hal Paulsborner Str. 92</td>\n</tr>\n<tr>\n<td>27 28 51</td>\n<td>Calojannis, N., Schwämme, W 35, Alvenslebenstr. 26</td>\n</tr>\n<tr>\n<td>19 43 34</td>\n<td>Calor Emag Elektr. AG, W 9, Köth. Str. 7</td>\n</tr>\n<tr>\n<td>49 41 10</td>\n<td>Calov, Curt, ReiO Romansh. W. 212</td>\n</tr>\n<tr>\n<td>83 46 58</td>\n<td>Calow, Oskar, Frdn Hauptstr. 76</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "88",
+            "text": "27"
+          },
+          {
+            "extension": "39",
+            "text": "31"
+          },
+          {
+            "extension": "79",
+            "text": "67"
+          },
+          {
+            "extension": "46",
+            "text": "02"
+          },
+          {
+            "extension": "12",
+            "text": "04"
+          },
+          {
+            "extension": "34",
+            "text": "33"
+          },
+          {
+            "extension": "25",
+            "text": "34"
+          },
+          {
+            "extension": "24",
+            "text": "77"
+          },
+          {
+            "extension": "19",
+            "text": "12"
+          },
+          {
+            "extension": "75",
+            "text": "36"
+          },
+          {
+            "extension": "39",
+            "text": "49"
+          },
+          {
+            "extension": "89",
+            "text": "43"
+          },
+          {
+            "extension": "31",
+            "text": "72"
+          },
+          {
+            "extension": "12",
+            "text": "32"
+          },
+          {
+            "extension": "42",
+            "text": "47"
+          },
+          {
+            "extension": "73",
+            "text": "68"
+          },
+          {
+            "extension": "46",
+            "text": "33"
+          },
+          {
+            "extension": "87",
+            "text": "88"
+          },
+          {
+            "extension": "34",
+            "text": "60"
+          },
+          {
+            "extension": "22",
+            "text": "22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 3 994 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>24 46 35</td>\n<td>Cammann, Hedwig, W 50, Prager Str. 8</td>\n</tr>\n<tr>\n<td>46 35 82</td>\n<td>Cammann, H., Dentist, N 65, Pankstr. 10</td>\n</tr>\n<tr>\n<td>66 39 27</td>\n<td>Cammeratt, Dr. R., Arzt, Temp Wies. Str. 37</td>\n</tr>\n<tr>\n<td>34 89 65</td>\n<td>Cammerer, Hans, Ing., Siem Geitelstr. 7</td>\n</tr>\n<tr>\n<td>97 59 44</td>\n<td>Cammerer, Th., Hal Westfäl. Str. 38</td>\n</tr>\n<tr>\n<td>16 74 17</td>\n<td>Cammert, E., Juwelenfasser, SW 68, Grün-<br/>straße 13</td>\n</tr>\n<tr>\n<td>17 32 48</td>\n<td>Cammert, O., Goldschmied, SW 68, A.<br/>Jakobstr. 18</td>\n</tr>\n<tr>\n<td>87 51 60</td>\n<td>Cammisar, L., Vertr., Wilm Uhlandstr. 123</td>\n</tr>\n<tr>\n<td>71 10 45</td>\n<td>Cammisar, Max, Major, Schö Mer. Str. 42</td>\n</tr>\n<tr>\n<td>97 29 37</td>\n<td>Camnitzer, Clara, Wilm Brandenb. Str. 42</td>\n</tr>\n<tr>\n<td>92 02 65</td>\n<td>Camnitzer, H., Frau, Wilm Zähr. Str. 24</td>\n</tr>\n<tr>\n<td>30 38 18</td>\n<td>de Camp, E., Frau, Chb1 Fabriciusstr. 18</td>\n</tr>\n<tr>\n<td>83 52 51</td>\n<td>de Camp, H.-F., Kfm., Frdn Südwestk. 12</td>\n</tr>\n<tr>\n<td>92 19 74</td>\n<td>Campani, Huss., Kfm., W 15, Lietzenb. Str. 5</td>\n</tr>\n<tr>\n<td>71 49 28</td>\n<td>Campbell, Malc., Journ., Schö Kufst. Str. 49</td>\n</tr>\n<tr>\n<td>73 40 80</td>\n<td>Campbell, W., Gen. Maj., Lt/ Finck. All. 114</td>\n</tr>\n<tr>\n<td>92 11 04</td>\n<td>Campe, Anna, W 50, Rankestr. 2</td>\n</tr>\n<tr>\n<td>58 40 70</td>\n<td>Campe, E., Jalousie-Werkst., O 112, Boxh.<br/>Straße 87</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 967\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>11 10 12</td>\n<td>Campe, Georg, Buchh., West Hauptstr. 6</td>\n</tr>\n<tr>\n<td>25 04 01</td>\n<td>Campe, G., Rechtswahr., W30, Luitp.Str. 28</td>\n</tr>\n<tr>\n<td>39 35 56</td>\n<td>Campe, Herm., Gastw., NW 87, Helmh.Str. 17</td>\n</tr>\n<tr>\n<td>48 21 23</td>\n<td>Campe, Marg., <i>Heinrich</i> Perchtastr. 11</td>\n</tr>\n<tr>\n<td>62 05 02</td>\n<td>Campe, Marta. Gastw., <i>Neuk</i> Jonasstr. 28</td>\n</tr>\n<tr>\n<td>64 66 07</td>\n<td>v.Campe, Siegfried, Oberst.-Feldmstr., <i>Frhrg</i><br/>Müggelsee-Damm 241</td>\n</tr>\n<tr>\n<td>26 33 23</td>\n<td>Campe, Wern., Ing., W 30, Treuchtl. Str. 7</td>\n</tr>\n<tr>\n<td>71 16 16</td>\n<td>Campe &amp; Co, Beleucht., <i>Schö</i> Ebersstr. 28</td>\n</tr>\n<tr>\n<td>55 08 93</td>\n<td>Campehl, Paul, Vertr., <i>Lbg</i> Parkaue 38</td>\n</tr>\n<tr>\n<td>31 46 56</td>\n<td>v. Campenhausen, Frhr. Bodo, Maler <i>Chb</i> 2<br/>Hardenbergstr. 33</td>\n</tr>\n<tr>\n<td>31 16 02</td>\n<td>v. Campenhausen, Marg., Freiin, <i>Chb</i> 2<br/>Uhlandstraße 15</td>\n</tr>\n<tr>\n<td>99 15 79</td>\n<td>Camphausen, Ad., Dir., <i>Chb</i> 9 Lindenall. 4</td>\n</tr>\n<tr>\n<td>30 48 16</td>\n<td>Camphausen, Alf., <i>Chb</i> 1 Eosanderstr. 7</td>\n</tr>\n<tr>\n<td>87 19 87</td>\n<td>Camphausen, Eva, <i>Wilm</i> Süchs. Str. 65</td>\n</tr>\n<tr>\n<td>91 81 81</td>\n<td>F. W. Camphausen, KG, Gastst., W 15,<br/>Kurf.Damm 23</td>\n</tr>\n<tr>\n<td>92 29 44</td>\n<td>Camphausen, F. W., Dr. jur., W 15, Jo-<br/>achimstaler Str. 22</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"15 971 969 993\" data-label=\"Page-Footer\">\n<p>104 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100</p>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Erläuteru",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "27",
+            "text": "20"
+          },
+          {
+            "extension": "78",
+            "text": "26"
+          },
+          {
+            "extension": "55",
+            "text": "39"
+          },
+          {
+            "extension": "83",
+            "text": "65"
+          },
+          {
+            "extension": "93",
+            "text": "31"
+          },
+          {
+            "extension": "84",
+            "text": "52"
+          },
+          {
+            "extension": "86",
+            "text": "10"
+          },
+          {
+            "extension": "41",
+            "text": "17"
+          },
+          {
+            "extension": "89",
+            "text": "28"
+          },
+          {
+            "extension": "49",
+            "text": "46"
+          },
+          {
+            "extension": "79",
+            "text": "44"
+          },
+          {
+            "extension": "71",
+            "text": "87"
+          },
+          {
+            "extension": "84",
+            "text": "83"
+          },
+          {
+            "extension": "31",
+            "text": "12"
+          },
+          {
+            "extension": "24",
+            "text": "45"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 986\" data-label=\"Table\"><table><tr><td>79 52 73</td><td>Cantieny, Georg, Dir., Strgl</td><td>Leps.Str. 110</td></tr><tr><td>84 34 01</td><td>Cantignon, Erich, Dir.,</td><td>Zehl Klelnm. Weg</td></tr><tr><td>92 61 83</td><td>Cantina, Gaststätte,</td><td>Chb 2 Fas.-Str. 78</td></tr><tr><td>84 14 97</td><td>Cantor, H., Assess.,</td><td>Zehl Limastr. 2</td></tr><tr><td>99 57 66</td><td>Cantow, Margot,</td><td>Chb 9 Ebereschenallee 58</td></tr><tr><td>88 03 21</td><td>Cantow, Wilh., Bäckerm.,</td><td>Wilm Detm. Str. 59</td></tr><tr><td>76 03 01</td><td>Cantrup, Dr. A.,</td><td>Wirtsch.-Prüfer, Dahl<br/>Rohlfstr. 33</td></tr><tr><td>76 09 73</td><td>Ders., Büro,</td><td>Dahl Schweinfurthstr. 94</td></tr><tr><td>88 76 18</td><td>Cantrup, Else, Volksw.,</td><td>Wilm Wetzl. Str. 3</td></tr><tr><td>93 55 07</td><td>Cantzler, Otto, Dir.,</td><td>Chb 9 Hölderl. Str. 10</td></tr><tr><td>48 63 87</td><td>Canzler, P., Stadttamtm.,</td><td>Pko Florastr. 88</td></tr><tr><td>39 74 12</td><td>Canzler, Werner,</td><td>Schiffsoffiz., NW 21,<br/>Ess. Str. 7</td></tr><tr><td>17 09 40</td><td>Canzler &amp; Hoffmann,</td><td>Puppenfbr., SW 68,<br/>Ritterstraße 45</td></tr><tr><td>53 59 45</td><td>Cap, Ad., Bürobed.,</td><td>NO 55, Grifaw. Str. 43a</td></tr><tr><td>35 38 76</td><td>Cap, Anny, Friseur,</td><td>NW 21, Jonasstr. 3</td></tr><tr><td>41 37 40</td><td>Cap. Cour., Buchhülg.,</td><td>N 54, Veteranenstr. 5</td></tr><tr><td>19 09 87</td><td>Capaldo, Gaetano,</td><td>SW 11, Saarl. Str. 58</td></tr><tr><td>31 45 97</td><td>Capas, Vladas, Kanzlichef,</td><td>Chb 4 Kantstr. 46</td></tr></table></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "47",
+            "text": "14"
+          },
+          {
+            "extension": "52",
+            "text": "31"
+          },
+          {
+            "extension": "52",
+            "text": "31"
+          },
+          {
+            "extension": "50",
+            "text": "03"
+          },
+          {
+            "extension": "88",
+            "text": "28"
+          },
+          {
+            "extension": "27",
+            "text": "19"
+          },
+          {
+            "extension": "99",
+            "text": "16"
+          },
+          {
+            "extension": "63",
+            "text": "44"
+          },
+          {
+            "extension": "76",
+            "text": "28"
+          },
+          {
+            "extension": "68",
+            "text": "36"
+          },
+          {
+            "extension": "68",
+            "text": "19"
+          },
+          {
+            "extension": "64",
+            "text": "67"
+          },
+          {
+            "extension": "25",
+            "text": "70"
+          },
+          {
+            "extension": "50",
+            "text": "11"
+          },
+          {
+            "extension": "73",
+            "text": "77"
+          },
+          {
+            "extension": "56",
+            "text": "87"
+          },
+          {
+            "extension": "62",
+            "text": "74"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 997 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>30 80 03</td>\n<td>Capitol-Lichtspiele, <i>Higsee</i> Bekassinenw. 24</td>\n</tr>\n<tr>\n<td>37 71 58</td>\n<td>Capitol-Lichtspiele, <i>Staa</i> Eichholz. 37</td>\n</tr>\n<tr>\n<td>47 24 04</td>\n<td>Capitol-Lichtspieltheater Frohnau</td>\n</tr>\n<tr>\n<td>91 50 68</td>\n<td>Capitolverlag Schamberger &amp; Co, Berlin<br/>W 50, Rankestr. 5</td>\n</tr>\n<tr>\n<td>17 26 32</td>\n<td>Caplick, Lilli, Jugendleit., SW 68, A. Jakob-<br/>straße 124</td>\n</tr>\n<tr>\n<td>44 75 24</td>\n<td>Capo, chem. Reinig., N 20, Badstr. 8b</td>\n</tr>\n<tr>\n<td>25 89 62</td>\n<td>Capodilista, Gabr. Emo, Graf, Ital. Bot-<br/>schaftssekr., W 62, Keithstr. 42</td>\n</tr>\n<tr>\n<td>48 35 48.</td>\n<td>Cappel, Walter, Kim., <i>Pko</i> Achterm. Str. 42</td>\n</tr>\n<tr>\n<td>89 09 29</td>\n<td>Cappellari, Dr. S., <i>Grw</i> Ilmen. Str. 9</td>\n</tr>\n<tr>\n<td>89 35 63</td>\n<td>Cappenberg, Dr. A., Dir., <i>Dahl</i> Podb. Allee 32</td>\n</tr>\n<tr>\n<td>92 74 65</td>\n<td>Cappenberg, Dr. W., Jur., W 15, Schaper-<br/>straße 20</td>\n</tr>\n<tr>\n<td>64 93 41</td>\n<td>Capptuller, Alfr., Prok., <i>Wilho</i> Kaiserstr. 31</td>\n</tr>\n<tr>\n<td>76 38 76</td>\n<td>Capretz, Felix. <i>Ltz</i> U.d. Eichen 94a</td>\n</tr>\n<tr>\n<td>24 75 62</td>\n<td>Capri, Ristorante Italiano, W 60, Spichern-<br/>straße 23</td>\n</tr>\n<tr>\n<td>89 58 79</td>\n<td>v. Caprivi, L., Dr., <i>Wilm</i> Sodener Str. 36</td>\n</tr>\n<tr>\n<td>84 88 37</td>\n<td>v. Caprivi. L., Oberst. <i>Zehl</i> Schützallee 43</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "81",
+            "text": "00"
+          },
+          {
+            "extension": "86",
+            "text": "18"
+          },
+          {
+            "extension": "87",
+            "text": "61"
+          },
+          {
+            "extension": "24",
+            "text": "88"
+          },
+          {
+            "extension": "58",
+            "text": "35"
+          },
+          {
+            "extension": "92",
+            "text": "01"
+          },
+          {
+            "extension": "25",
+            "text": "25"
+          },
+          {
+            "extension": "19",
+            "text": "75"
+          },
+          {
+            "extension": "89",
+            "text": "28"
+          },
+          {
+            "extension": "55",
+            "text": "10"
+          },
+          {
+            "extension": "76",
+            "text": "17"
+          },
+          {
+            "extension": "25",
+            "text": "32"
+          },
+          {
+            "extension": "71",
+            "text": "41"
+          },
+          {
+            "extension": "87",
+            "text": "35"
+          },
+          {
+            "extension": "(92)",
+            "text": "80"
+          },
+          {
+            "extension": "41",
+            "text": "36"
+          },
+          {
+            "extension": "51",
+            "text": "43"
+          },
+          {
+            "extension": "52",
+            "text": "01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 952\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>24 53 44</td>\n<td>Carbonit, W 50, Nürnbg. Str. 35</td>\n</tr>\n<tr>\n<td>16 66 11</td>\n<td>Carhurol GmbH, W 8, Schinkelpl. 1</td>\n</tr>\n<tr>\n<td>45 38 63</td>\n<td>Cardinal. Curt Töpfer, N 31, Waltatr. 10</td>\n</tr>\n<tr>\n<td>45 34 03</td>\n<td>Cardinal, Hugo, Töpfer, N 31, Strals. Str. 69</td>\n</tr>\n<tr>\n<td>68 84 63</td>\n<td>Cardinal, Margarete, SO 36, Bouchéstr. 16</td>\n</tr>\n<tr>\n<td>66 80 24</td>\n<td>Cardinal, Osk., Rohprod., SW 29, Böckhstraße 26</td>\n</tr>\n<tr>\n<td>44 82 82</td>\n<td>Cardinal, Wilh., Töpferm., N 4, Bernauerstraße 87</td>\n</tr>\n<tr>\n<td>96 13 77</td>\n<td>Cardinal von Widdern, Clärc, Chb 4 Roscherstraße 3</td>\n</tr>\n<tr>\n<td>40 19 21</td>\n<td>Cardué, Jos., Autorep., N 65, Limb. Str. 42</td>\n</tr>\n<tr>\n<td>91 10 15</td>\n<td>Careel - Parfüm. F. H. Prignitz, W 15, Kurfürstendamm 48</td>\n</tr>\n<tr>\n<td>89 20 03</td>\n<td>Carell, Carl. Grw Hohenz.-Damm 140</td>\n</tr>\n<tr>\n<td>34 66 68</td>\n<td>Carell, C. H., Schausp., Chb 5 Kantstr. 38</td>\n</tr>\n<tr>\n<td>97 44 85</td>\n<td>Carell, Erna. Hof Kurf. Damm 135</td>\n</tr>\n<tr>\n<td>24 74 48</td>\n<td>Carell, Nina, Moden, W 62, Budap. Str. 17</td>\n</tr>\n<tr>\n<td>46 18 85</td>\n<td>Cares. Herb., Bankangest., N 65, Winds. Str. 3</td>\n</tr>\n<tr>\n<td>02 47 11</td>\n<td>Cares, Walter, Zigarren, W 15, Kurf. D. 211</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "ng der Orts- und Vorortsabkürzungen und",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 754 994\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>69 08 71</td>\n<td>Carganico, Victor, Oberst, <i>Temp</i> Berl. Str. 17</td>\n</tr>\n<tr>\n<td>39 88 85</td>\n<td>Cario, A., Arzt, NW 87, Händelallee 38</td>\n</tr>\n<tr>\n<td>66 34 62</td>\n<td>Cario, Paul, Patentanw., <i>Temp</i> Bouckeistr. 39</td>\n</tr>\n<tr>\n<td>97 36 21</td>\n<td>Carise, Erna. <i>Hil</i> Albr. Achillesstr. 5</td>\n</tr>\n<tr>\n<td>25 86 41</td>\n<td>Caritas, Krankenschwestern, W 62, Kleiststruße 13</td>\n</tr>\n<tr>\n<td>16 19 86</td>\n<td>Caritasverband f. Berlin, eV., C2, Niederw.-Straße 11</td>\n</tr>\n<tr>\n<td>16 01 56</td>\n<td>Ders., Fürsorgest. f. Alkoholkranke</td>\n</tr>\n<tr>\n<td>62 27 66</td>\n<td>Caritas, Kurt, Kfm., SW 29, Kottb. D. 69</td>\n</tr>\n<tr>\n<td>83 55 45</td>\n<td>Carius, Albin, Amtsrat, <i>Frdn</i> Cccilieng. 31</td>\n</tr>\n<tr>\n<td>83 02 34</td>\n<td>Carius, Alfr., Install., <i>Frdn</i> Hertelstr. 4</td>\n</tr>\n<tr>\n<td>39 71 87</td>\n<td>Carius, Fr., Vertr., NW 87, Elberf. Str. 15</td>\n</tr>\n<tr>\n<td>25 11 54</td>\n<td>Carius, Fritz, Farben, W 62, Lützowufer 22</td>\n</tr>\n<tr>\n<td>21 41 24</td>\n<td>Carius, Fritz, Fris., W 9, Potsd. Platz, Col.-Haus</td>\n</tr>\n<tr>\n<td>58 71 55</td>\n<td>Carius, Fr., Stud.-Rat, O 112, Knorrprom. 7</td>\n</tr>\n<tr>\n<td>63 37 34</td>\n<td>Carius, K., Gem. Ltr., Joh Sternplatz 7</td>\n</tr>\n<tr>\n<td>68 83 59</td>\n<td>Carius, Max. Sargfbr., SO 36, Lausitzerstr. 9</td>\n</tr>\n<tr>\n<td>34 58 20</td>\n<td>Carius, P., Seifen, Chb 2 W.-Siemens-Str. 19</td>\n</tr>\n<tr>\n<td>92 44 48</td>\n<td>Carius, Dr. W., Stud. Rat, W 15, Eins. Str. 39a</td>\n</tr>\n<tr>\n<td>66 95 62</td>\n<td>Carius Erich Anz Vartr <i>Temp</i> Ruel Str 1A</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 757 232\" data-label=\"Text\">\n<table>\n<tbody>\n<tr>\n<td>17 33 56</td>\n<td>Ders., Buro SW 68, Markg.Str. 4</td>\n</tr>\n<tr>\n<td>25 08 24</td>\n<td>Carl, Adolf, Autoart., W 30, Geisbergstr. 43</td>\n</tr>\n<tr>\n<td>80 69 22</td>\n<td>Carl, Albert, Dr.-Ing., Nik Beskidenstr. 54</td>\n</tr>\n<tr>\n<td>46 57 55</td>\n<td>Carl, Alb., Bauf., N 20, Osloer Str. 99</td>\n</tr>\n<tr>\n<td>67 48 57</td>\n<td>Carl, Alb., Drogen, SW 68, Dresd.Str. 112</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"0 235 754 990\" data-label=\"Text\">\n<table>\n<tbody>\n<tr>\n<td><b>Sammel-</b></td>\n<td><b>Albert Carl &amp; Co.</b></td>\n</tr>\n<tr>\n<td><b>Nr.</b></td>\n<td><b>Industrie-Chemikalien en gros,</b></td>\n</tr>\n<tr>\n<td><b>68 92 26</b></td>\n<td><b>Berlin 80 36, Lausitzer Straße 22</b></td>\n</tr>\n<tr>\n<td>79 35 66</td>\n<td>Carl, A. G., Ingen., Stggl Erlcnstr. 1</td>\n</tr>\n<tr>\n<td>21 26 68</td>\n<td>Carl, Alfons, Lektor, W 35, Bülowstr. 74</td>\n</tr>\n<tr>\n<td>73 48 54</td>\n<td>Carl, Aloys, Vertr., Lt/ W, Ringstr. 106</td>\n</tr>\n<tr>\n<td>71 05 98</td>\n<td>Carl, A., Färberei, Schb Gruncw. Str. 58</td>\n</tr>\n<tr>\n<td>45 35 59</td>\n<td>Carl, Bruno, Rest., N 113, Kuglerstr. 65</td>\n</tr>\n<tr>\n<td>22 05 44</td>\n<td>Carl, Charlotte, W 35, Kurf.-Str. 20</td>\n</tr>\n<tr>\n<td>72 28 91</td>\n<td>Carl, E., Hutmacher, Stggl Albrechtstr. 1</td>\n</tr>\n<tr>\n<td>50 25 80</td>\n<td>Carl, Edith, Lehr., Krish Schmiede W. 80</td>\n</tr>\n<tr>\n<td>35 01 00</td>\n<td>Carl, Er., Kim., NW 21, Quitzowstr. 140</td>\n</tr>\n<tr>\n<td>34 22 53</td>\n<td>Carl, Erna, Chb 1 OsnabrückerStr. 22</td>\n</tr>\n<tr>\n<td>53 05 11</td>\n<td>Carl, Ernst, Archit., NO 55, Prenzl.Allee 30</td>\n</tr>\n<tr>\n<td>73 94 63</td>\n<td>Carl, Frieda, Lt/ Steinäckerstr. 11</td>\n</tr>\n<tr>\n<td>67 38 55</td>\n<td>Carl, Frieda. Schneiderin, SW 68, Prinzen-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"143 0 278 21\" data-label=\"Page-Header\">DRESDEN</div>\n<div data-bbox=\"0 22 757 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>21 47 56</td>\n<td>Carl, Fritz, Autoreifen, W 35, Ludend. Str. 88</td>\n</tr>\n<tr>\n<td>66 14 86</td>\n<td>Carl, Fritz, Bildberichterst., S W 61, Großb. Straße 54</td>\n</tr>\n<tr>\n<td>31 15 23</td>\n<td>Carl, G., Zigarren, Chb 4 K. Frdr. Str. 50a</td>\n</tr>\n<tr>\n<td>26 17 54</td>\n<td>Carl, Georg, Ing., W 30, Münchener Str. 42</td>\n</tr>\n<tr>\n<td>62 22 38</td>\n<td>Carl, Hildeg., Neuk Hermannstr. 59</td>\n</tr>\n<tr>\n<td>34 68 16</td>\n<td>Carl, Irma, Chb 1 Röntgenstr. 9</td>\n</tr>\n<tr>\n<td>83 55 43</td>\n<td>Carl, Leonh., Ing., Frdn Wiesb. Str. 13</td>\n</tr>\n<tr>\n<td>87 62 74</td>\n<td>Carl, Maja, Frau, Wilm Fischerstr. 14</td>\n</tr>\n<tr>\n<td>66 20 23</td>\n<td>Carl, Marg., Frau, SW 29, Hasenheide 78</td>\n</tr>\n<tr>\n<td>91 68 97</td>\n<td>Carl, Oswald, Chb 2 Grolmanstr. 40</td>\n</tr>\n<tr>\n<td>63 14 53</td>\n<td>Carl, O., Grabdenkm., Bschw Baumsch. Straße 93</td>\n</tr>\n<tr>\n<td>79 61 90</td>\n<td>Carl, Paul, Stegl Düppelstr. 24</td>\n</tr>\n<tr>\n<td>72 71 56</td>\n<td>Carl, Peter, Vertr., Stegl Südendstr. 14</td>\n</tr>\n<tr>\n<td>55 41 29</td>\n<td>Carl, Rich., Kfm., Lbg Ruschestr. 41</td>\n</tr>\n<tr>\n<td>97 40 57</td>\n<td>Carl, R., Hal J. Friedr. Str. 30</td>\n</tr>\n<tr>\n<td>64 11 73</td>\n<td>Carl, Rob., Wirtsh., Köp Bismarckwarte</td>\n</tr>\n<tr>\n<td>35 40 77</td>\n<td>Carl, Wanda, NW 21, Lübecker Str. 4</td>\n</tr>\n<tr>\n<td>92 11 97</td>\n<td>Carl, Willi, Kfm., W 15, Uhlandstr. 57</td>\n</tr>\n<tr>\n<td>07 21 20</td>\n<td>Carl, W. Hahn, Carl, Heinrich, ...</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 758 990\" data-label=\"Text\"><table><tbody><tr><td>31 76 69</td><td>Carlbergh, Ernst, Kfm., Chb 4 Wiel.Str. 7</td></tr><tr><td>73 71 52</td><td>Carlile, Dr. H., Arzt, Lkw Marienstr. 12</td></tr><tr><td>64 65 67</td><td>Carlitschek, R., Fuhrw., Frhg Wilh.Str. 25</td></tr><tr><td>64 36 55</td><td>Carlitscheck, Rich., Frhg Jastr. W. 5</td></tr><tr><td>69 05 74</td><td>Carloff, Hans, Tmp Thuyring 62</td></tr><tr><td>24 07 60</td><td>Carlos, Th., Tanzlehr., W 15, Kaiseralle 203</td></tr><tr><td>55 43 61</td><td>Carll, Kath., Tabak, Lbg Fanningenstr. 64</td></tr><tr><td>24 10 70</td><td>Carlos, Walter, W 50, Regensb. Str. 27</td></tr><tr><td>39 38 46</td><td>Carlow, Br., Insp., NW 87, Alt.-Str. 32</td></tr><tr><td>80 53 10</td><td>v. Carlowitz, Adolf, Nik Gerkr. Str. 10</td></tr><tr><td>24 81 77</td><td>v. Carlowitz, Elis., W 50, Achenb. Str. 6</td></tr><tr><td>39 04 98</td><td>v. Carlowitz, H., Frau, NW 87, Brückenallee 5</td></tr><tr><td>2 08 32</td><td>Carls, Clara, Ww., Chb 4 Wilmeisd. Str. 107a</td></tr><tr><td>72 24 89</td><td>Carls, Gust., Töpfer, Stegl Schöneb. Str. 15</td></tr><tr><td>53 32 36</td><td>Carls, Herta, Schneid., NO 18, Landsb.<br/>Straße 113</td></tr><tr><td>35 14 81</td><td>Carls, Joh., Kfm., NW 21, Wilsn. Str. 59</td></tr><tr><td>59 37 79</td><td>Carls, P., Kfm., NO 55, Imm.-Kirchstr. 37</td></tr><tr><td>69 04 50</td><td>Carls, Reinh., Versich., SW 61, Hagelb. Str. 12</td></tr><tr><td>25 36 08</td><td>Carls, R., Versich., W 62, Bayreuther Str. 39</td></tr><tr><td>73 60 33</td><td>Carlsen, Carla, Sängerin, Lt/ Klingsorstr. 98</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "27",
+            "text": "25"
+          },
+          {
+            "extension": "73",
+            "text": "30"
+          },
+          {
+            "extension": "66",
+            "text": "05"
+          },
+          {
+            "extension": "48",
+            "text": "05"
+          },
+          {
+            "extension": "86",
+            "text": "88"
+          },
+          {
+            "extension": "86",
+            "text": "87"
+          },
+          {
+            "extension": "57",
+            "text": "13"
+          },
+          {
+            "extension": "24",
+            "text": "34"
+          },
+          {
+            "extension": "24",
+            "text": "33"
+          },
+          {
+            "extension": "21",
+            "text": "37"
+          },
+          {
+            "extension": "65",
+            "text": "65"
+          },
+          {
+            "extension": "24",
+            "text": "07"
+          },
+          {
+            "extension": "44",
+            "text": "29"
+          },
+          {
+            "extension": "71",
+            "text": "63"
+          },
+          {
+            "extension": "20",
+            "text": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 754 951\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>71 59 47</td>\n<td>v. Carnap-Bornheim, Marg., Baronin, <i>Schö</i><br/>Park 19</td>\n</tr>\n<tr>\n<td>83 31 12</td>\n<td>v. Carnap-Quernheimb., Georg, Apoth.,<br/><i>Frdn</i> Bornstr. 24</td>\n</tr>\n<tr>\n<td>22 28 78</td>\n<td>v. Carnap-Quernheimb, M.-Luise, W 35,<br/>Lützowstr. 42</td>\n</tr>\n<tr>\n<td>71 05 07</td>\n<td>v. Carnap-Quernheimb, Rüdiger, <i>Schö</i><br/>Eisackstr. 13</td>\n</tr>\n<tr>\n<td>92 13 46</td>\n<td rowspan=\"2\">\n<b>von Carnap und Franck,</b><br/>\n<b>Automobil-Handelsgesellschaft,</b><br/>\n<b>(vorm. Neumann Automobile),</b><br/>\n<b>Berlin W 15, Kurfürstendamm 48</b>\n</td>\n</tr>\n<tr>\n<td>92 13 47</td>\n</tr>\n<tr>\n<td>79 41 09</td>\n<td>Carnarius, P., O.-Insp., <i>Stegl</i> Schildh. Str. 87</td>\n</tr>\n<tr>\n<td>31 58 32</td>\n<td>Carnatz, A., <i>Chb</i> 2 Kneschebeckstr. 6</td>\n</tr>\n<tr>\n<td>73 47 89</td>\n<td>Carnatz, El-e, <i>Lt</i> Holbeinstr. 46</td>\n</tr>\n<tr>\n<td>92 55 31</td>\n<td>Carnatz, Rob., <i>Wilm</i> Zähr. Str. 1a</td>\n</tr>\n<tr>\n<td>64 65 26</td>\n<td>Carnofil GmbH, <i>Frh</i> Müggelsced. 208</td>\n</tr>\n<tr>\n<td>35 12 03</td>\n<td>Caro &amp; Jellinek, Sped. u. Lagerh. AG,<br/>NW 40, Alt-Moabit 140</td>\n</tr>\n<tr>\n<td>79 76 05</td>\n<td>Caro, Alfr., Ing., <i>Stegl</i> Kurze Str. 9a</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

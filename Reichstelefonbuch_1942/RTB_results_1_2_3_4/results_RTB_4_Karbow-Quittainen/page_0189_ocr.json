@@ -1,0 +1,908 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "siehe am Kopf von Köln (S. 132).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 10 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 14 25</td>\n<td>Larbolette sen., Karl, <i>Brf</i> Milit.Str. 17</td>\n</tr>\n<tr>\n<td>4 64 45</td>\n<td>Large, H. R., Kfm., <i>Lth</i> R.Koch-Str. 2a</td>\n</tr>\n<tr>\n<td>4 84 51</td>\n<td>Larisch, Leo, Obering., <i>Lth</i> Kerp.Str. 5</td>\n</tr>\n<tr>\n<td>1 42 12</td>\n<td>Lascheid, H. J., Pfarrer, Kalk, Rodderg. 5</td>\n</tr>\n<tr>\n<td>5 72 88</td>\n<td>Laska, Anton, Vertr., Gladb.Str. 8</td>\n</tr>\n<tr>\n<td>7 72 95</td>\n<td>Laska, Heinz, Eigelstein 66</td>\n</tr>\n<tr>\n<td>7 43 73</td>\n<td>Laska, L., Küchengerate, <i>Np</i> NeußerStr. 267</td>\n</tr>\n<tr>\n<td>21 58 35</td>\n<td>Lasné, Hans, Kfm., Brab.Str. 42</td>\n</tr>\n<tr>\n<td>21 54 96</td>\n<td>Laßen, J., elektr. Anl., Pantaleonsm.G. 38</td>\n</tr>\n<tr>\n<td>9 26 34</td>\n<td>Lassleben, P., Schreiner, v.d.Siebenb. 33</td>\n</tr>\n<tr>\n<td>7 68 80</td>\n<td>Last, Gg., Kfm., RiehlerStr. 83</td>\n</tr>\n<tr>\n<td>5 62 22</td>\n<td>Lasthaus Söhne, F., Schrein., <i>Ehf</i> Thielenstraße 15</td>\n</tr>\n<tr>\n<td>4 37 02</td>\n<td>Lasthaus, Fritz, Sülz, ZülpicherStr. 189</td>\n</tr>\n<tr>\n<td>22 58 34</td>\n<td>Lasthaus, S., Große Sandkaul 11</td>\n</tr>\n<tr>\n<td>5 53 70</td>\n<td>Latsch, Wilh., Zigarren, VenloerStr. 35</td>\n</tr>\n<tr>\n<td>5 57 47</td>\n<td>Ders., Whg., Bismarckstr. 27</td>\n</tr>\n<tr>\n<td>5 74 00</td>\n<td>Latten, Jos., Baubeschlagfabr., <i>Ehf</i> Grüner Weg 6</td>\n</tr>\n<tr>\n<td>5 33 08</td>\n<td>Latten, M., Fbrkt., <i>Ehf</i> VenloerStr. 463</td>\n</tr>\n<tr>\n<td>5 58 93</td>\n<td>Latten, Quirin, Malergesch., <i>Ehf</i> Stamm-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"239 13 998 972\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 40 48</td>\n<td>Latten, W., Restaur.,</td>\n<td>Ehf Venl.Str. 395</td>\n</tr>\n<tr>\n<td>5 58 02</td>\n<td>Lattreuter, G., Vertr.,</td>\n<td>Gilbachstr. 15</td>\n</tr>\n<tr>\n<td>21 15 78</td>\n<td>Latussek, J., Dr.,</td>\n<td>Lochnerstr. 1</td>\n</tr>\n<tr>\n<td>5 59 75</td>\n<td>Latußek, Paul, Obst,</td>\n<td>BrüsselerStr. 52</td>\n</tr>\n<tr>\n<td>9 36 35</td>\n<td>Latz, Franz, Ing.,</td>\n<td>Rdk Schlageterstr. 4</td>\n</tr>\n<tr>\n<td>5 38 78</td>\n<td>Latz, H., Farbw.,</td>\n<td>Bick Rochusstr. 93</td>\n</tr>\n<tr>\n<td>4 86 09</td>\n<td>Latz, Jos., Friseur,</td>\n<td>Sülz, Gottesweg 137</td>\n</tr>\n<tr>\n<td>1 20 69</td>\n<td>Latz, M., Dentist,</td>\n<td>Kalk, Vereinsstr. 2</td>\n</tr>\n<tr>\n<td>1 49 24</td>\n<td>Latz, Math., Metzger,</td>\n<td>Poll, Hauptstr. 23a</td>\n</tr>\n<tr>\n<td>1 13 88</td>\n<td>Latz, Math., Großtankst.,</td>\n<td>Kalk, D.Kalker Straße 117.</td>\n</tr>\n<tr>\n<td>5 61 91</td>\n<td>Latzel, Alfr., Dir.,</td>\n<td>Bick Sandweg 15</td>\n</tr>\n<tr>\n<td>5 53 95</td>\n<td>Latzel, Dr. Er.,</td>\n<td>Treuhänder, Hansar. 59</td>\n</tr>\n<tr>\n<td>5 72 77</td>\n<td>Latzel, Willy, Insp.,</td>\n<td>Brf Kämpchensweg 16</td>\n</tr>\n<tr>\n<td>1 12 00</td>\n<td>Lau, Walter, Maler,</td>\n<td>Kalk, Victorstr. 36</td>\n</tr>\n<tr>\n<td>5 68 97</td>\n<td>Laubach, Arthur, Fbrkt.,</td>\n<td>Brf Aach.Str. 635</td>\n</tr>\n<tr>\n<td>5 83 24</td>\n<td>Laubach, Herm.,</td>\n<td>Maschinenfabr., Ehf Geißelstr. 95</td>\n</tr>\n<tr>\n<td>4 54 27</td>\n<td>Laubach, Max, Fbrkt.,</td>\n<td>Lth Virchowstr. 24</td>\n</tr>\n<tr>\n<td>5 71 08</td>\n<td>Laube, Bismarckstr.</td>\n<td>51</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"252 967 997 993\" data-label=\"Page-Footer\">\n<p>4 20 00 Y - L - A - B - C - D - E - F - G - H - I - J - K - L - M - N - O - P - Q - R - S - T - U - V - W - X - Y - Z</p>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Leupoltstr. 15",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 992 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4 69 19</td>\n<td>Lauff, G., Dekor.,</td>\n<td><i>Lth</i> Kappelm.Str. 37</td>\n</tr>\n<tr>\n<td>4 67 15</td>\n<td>Lauff, J., Baugesch.,</td>\n<td>Sülz, Eusk.Str. 19</td>\n</tr>\n<tr>\n<td>21 67 66</td>\n<td>Lauff, Tony, Metzgerei,</td>\n<td>Peterstr. 12</td>\n</tr>\n<tr>\n<td>(4 76 59)</td>\n<td>Lauffenberg, G., Autoverm.,</td>\n<td><i>Lth</i> Dürener<br/>Straße 120</td>\n</tr>\n<tr>\n<td>21 68 12</td>\n<td>Lauffenberg, Frau K.,</td>\n<td>Molkereiprod.,<br/>Rothgerberbach 40</td>\n</tr>\n<tr>\n<td>4 76 59</td>\n<td>Lauffenberg, W., Drog.,</td>\n<td><i>Lth</i> Dürener Str. 120</td>\n</tr>\n<tr>\n<td>1 49 16</td>\n<td>Lauing, Elisab., Lebensm.,</td>\n<td><i>Osth</i> Stein-<br/>rutschweg 45</td>\n</tr>\n<tr>\n<td>5 64 04</td>\n<td>Lauing, Gust., Maler,</td>\n<td>Moltkestr. 66</td>\n</tr>\n<tr>\n<td>6 04 19</td>\n<td>Laumann, Ant., Gastst.,</td>\n<td><i>Mth</i> K. upstr. 106</td>\n</tr>\n<tr>\n<td>22 92 63</td>\n<td>Laumann, Hellmut,</td>\n<td>Domhof 12</td>\n</tr>\n<tr>\n<td>7 18 07</td>\n<td>Laumen, Ernst, Prok.,</td>\n<td>Riehl, Bod.Str. 1</td>\n</tr>\n<tr>\n<td>21 72 38</td>\n<td>Laumen, H., Stickerel,</td>\n<td>Albertusstr. 1</td>\n</tr>\n<tr>\n<td>7 99 78</td>\n<td>Laun, Dr. Fritz, Arzt,</td>\n<td>Domstr. 45</td>\n</tr>\n<tr>\n<td>7 18 70</td>\n<td>Laupichler, O., Kfm.,</td>\n<td>Riehl, J. Müller Str. 44</td>\n</tr>\n<tr>\n<td>9 69 84</td>\n<td>Laura-Oelbermann,</td>\n<td>Kinderg., Sev.Str. 158</td>\n</tr>\n<tr>\n<td>22 19 84</td>\n<td>Lausberg, Jos., Kondit.,</td>\n<td>Kattenbug 37</td>\n</tr>\n<tr>\n<td>7 36 32</td>\n<td>Lausch, P., Schornsteinf.,</td>\n<td>Brandenb.Str. 12</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Doppelherz - Energien für Blut und",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 33 998 988\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 27 51</td>\n<td>Lauterborn, J. C., Metalle, Junkersdorf, Vogelsanger Weg 6</td>\n</tr>\n<tr>\n<td>4 77 32</td>\n<td>Lautmann, E., Sülz, NeuenhöferAllee 41</td>\n</tr>\n<tr>\n<td>4 76 36</td>\n<td>Lautz, Hans, Dir., Sülz, NideggerStr. 20</td>\n</tr>\n<tr>\n<td>7 11 95</td>\n<td>Lautz, Karl, Drogerie, Eigelstein 34</td>\n</tr>\n<tr>\n<td>4 26 94</td>\n<td>Lautz, Ludw., Ing.-Büro, Sülz, Sülzg. 25</td>\n</tr>\n<tr>\n<td>21 42 92</td>\n<td>Lauven, Pet., Chemotechn., Görresstr. 8</td>\n</tr>\n<tr>\n<td>4 27 71</td>\n<td>Lauvenberg, G., Angest., <i>Lth</i> Zülp.Str. 387</td>\n</tr>\n<tr>\n<td>6 12 69</td>\n<td>Laux, E., Mineralwasser, <i>Mh</i> Danzierstraße 110</td>\n</tr>\n<tr>\n<td>22 51 98</td>\n<td>Laux, Fr., Krs.-Amtsltr., Filzengr. 20</td>\n</tr>\n<tr>\n<td>9 98 27</td>\n<td>Laux, Frdr., Gastst., Übierring 22</td>\n</tr>\n<tr>\n<td>9 59 13</td>\n<td>Laux, Friedr., Weinhdlg., Josefstr. 41</td>\n</tr>\n<tr>\n<td>4 23 32</td>\n<td>Laux, Gg., Schuhm., <i>Lth</i> Zülp.Str. 383</td>\n</tr>\n<tr>\n<td>22 93 83</td>\n<td>Laux, G., Elektroinst., M.Ablaßpl. 6a</td>\n</tr>\n<tr>\n<td>22 96 27</td>\n<td>Laux, Joh., Tuche, Krebsg. 5</td>\n</tr>\n<tr>\n<td>21 31 67</td>\n<td>Laux, J., Motorradrep., Werthstr. 236</td>\n</tr>\n<tr>\n<td>21 95 65</td>\n<td>Laux, Josefine, Kaiser-Wilhelm-Ring 50</td>\n</tr>\n<tr>\n<td>4 56 30</td>\n<td>Laux, Rich., Kfm., <i>Lth</i> Rurstr. 1</td>\n</tr>\n<tr>\n<td>4 98 85</td>\n<td>Lauxen, A., Vertr., Sülz, Petersb.Str. 87</td>\n</tr>\n<tr>\n<td>22 96 53</td>\n<td>Laven, Dr. Ldw., Arzt, Mohrenstr. 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "50"
+          },
+          {
+            "extension": "4",
+            "text": "60"
+          },
+          {
+            "extension": "7",
+            "text": "36"
+          },
+          {
+            "extension": "22",
+            "text": "37"
+          },
+          {
+            "extension": "4",
+            "text": "43"
+          },
+          {
+            "extension": "4",
+            "text": "84"
+          },
+          {
+            "extension": "4",
+            "text": "67"
+          },
+          {
+            "extension": "4",
+            "text": "44"
+          },
+          {
+            "extension": "6",
+            "text": "08"
+          },
+          {
+            "extension": "7",
+            "text": "18"
+          },
+          {
+            "extension": "21",
+            "text": "74"
+          },
+          {
+            "extension": "9",
+            "text": "42"
+          },
+          {
+            "extension": "7",
+            "text": "70"
+          },
+          {
+            "extension": "4",
+            "text": "12"
+          },
+          {
+            "extension": "9",
+            "text": "56"
+          },
+          {
+            "extension": "21",
+            "text": "79"
+          },
+          {
+            "extension": "4",
+            "text": "78"
+          },
+          {
+            "extension": "1",
+            "text": "00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>6 25 59</td>\n<td>Lechner, Leo, Wein, <i>Mh</i> Wallstr. 100</td>\n</tr>\n<tr>\n<td>5 66 71</td>\n<td>Lechte, Alex., Bevollm., <i>Eh</i>/ Nußb.Str. 74</td>\n</tr>\n<tr>\n<td>21 67 79</td>\n<td>v. d. Leck, E., Ausfuhr, Schaafenstr. 55</td>\n</tr>\n<tr>\n<td>9 97 31</td>\n<td>Leckebusch, Hans, NSKK., Overst.Str. 2</td>\n</tr>\n<tr>\n<td>4 50 36</td>\n<td>Ledderhose, Dr., Pianist, <i>Lth</i> Sielsd.Str. 1</td>\n</tr>\n<tr>\n<td>4 14 65</td>\n<td>Leddin, Otto, Vertr., Sülz, Sülb.Str. 189</td>\n</tr>\n<tr>\n<td>6 32 30</td>\n<td>Leder, W., Abt.-Ltr., <i>Dbt</i> Waldh.Str. 10</td>\n</tr>\n<tr>\n<td>4 61 42</td>\n<td>Ledervertriebs-Ges. mbH, <i>Lth</i> Frdr.-SchmidtStr. 6</td>\n</tr>\n<tr>\n<td>22 64 75</td>\n<td>Leding, Fr., Büromasch., Filzengr. 26</td>\n</tr>\n<tr>\n<td>7 39 96</td>\n<td>Ledosquet, Jos., Justizr., <i>Np</i> Auerstr. 19</td>\n</tr>\n<tr>\n<td>4 11 50</td>\n<td>Ledschbor, E., Kfm., Sülz, Aegid.Str. 16</td>\n</tr>\n<tr>\n<td>4 27 30</td>\n<td>Leege, Heinz, Dir., <i>Br</i>/ Kitschb.Str. 247</td>\n</tr>\n<tr>\n<td>21 68 26</td>\n<td>Leenders, Heinrich, Hildeboldpl. 17</td>\n</tr>\n<tr>\n<td>6 38 78</td>\n<td>Leendertz, O., Photogr., K.Mühl.Str. 406</td>\n</tr>\n<tr>\n<td>9 39 23</td>\n<td>Leenen &amp; Atkinson, Buchdr., Perlengr. 7</td>\n</tr>\n<tr>\n<td>21 12 80</td>\n<td>Leenen, Franz, BrüsselerStr. 23</td>\n</tr>\n<tr>\n<td>5 27 32</td>\n<td>Leenen, Friedr., Buchdr., Venl.Str. 10</td>\n</tr>\n<tr>\n<td>4 68 96</td>\n<td>Lers, Heinr., Zimmermstr., Sülz, Neuerhöfer Allee 10</td>\n</tr>\n<tr>\n<td>22 43 91</td>\n<td>Leers. J., Weinhdlr., Neumarkt 39</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "08"
+          },
+          {
+            "extension": "5",
+            "text": "43"
+          },
+          {
+            "extension": "21",
+            "text": "43"
+          },
+          {
+            "extension": "5",
+            "text": "04"
+          },
+          {
+            "extension": "5",
+            "text": "18"
+          },
+          {
+            "extension": "4",
+            "text": "53"
+          },
+          {
+            "extension": "7",
+            "text": "46"
+          },
+          {
+            "extension": "21",
+            "text": "40"
+          },
+          {
+            "extension": "22",
+            "text": "65"
+          },
+          {
+            "extension": "21",
+            "text": "24"
+          },
+          {
+            "extension": "21",
+            "text": "71"
+          },
+          {
+            "extension": "6",
+            "text": "36"
+          },
+          {
+            "extension": "6",
+            "text": "29"
+          },
+          {
+            "extension": "1",
+            "text": "43"
+          },
+          {
+            "extension": "22",
+            "text": "68"
+          },
+          {
+            "extension": "6",
+            "text": "19"
+          },
+          {
+            "extension": "9",
+            "text": "34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>1 15 82</td>\n<td>Lehmacher, J., Pferdech., Deutz, Temp.-<br/>Straße 48</td>\n</tr>\n<tr>\n<td>4 65 31</td>\n<td>Lehmacher, Käthe, <i>Brf</i> Aach.Str. 329</td>\n</tr>\n<tr>\n<td>4 51 38</td>\n<td>Lehmacher, M., Autorep., <i>Lhk</i> Dür.Str. 132</td>\n</tr>\n<tr>\n<td>1 15 63</td>\n<td>Lehmacher, Pet., Deutz, Schauertestr. 2</td>\n</tr>\n<tr>\n<td>7 10 23</td>\n<td>Lehmacher, Peter, Kfm., Maybachstr. 173</td>\n</tr>\n<tr>\n<td>21 88 00</td>\n<td>Lehmacher, Theod., Kfm., Friesenw. 62</td>\n</tr>\n<tr>\n<td>21 32 62</td>\n<td>Lehmacher, Dr. Wilh., Ger.-Rat, Friesen-<br/>straße 35</td>\n</tr>\n<tr>\n<td>21 54 82</td>\n<td>Lehmann, Arth., Kfm., Blumenstr. 20</td>\n</tr>\n<tr>\n<td>6 03 61</td>\n<td>Lehmann, Ww. Auguste, Blechetik., <i>Mth</i><br/>Regentenstr. 36</td>\n</tr>\n<tr>\n<td>9 45 93</td>\n<td>Lehmann, Carl, <i>Rdk</i> Ad.Hitler-Ufer 22</td>\n</tr>\n<tr>\n<td>21 59 22</td>\n<td>Lehmann Dr. Carl, San.-Rat, Limb.Str. 3</td>\n</tr>\n<tr>\n<td>5 28 15</td>\n<td>Lehmann, Curt, Vertr., <i>Brf</i> Maarweg 31</td>\n</tr>\n<tr>\n<td>9 12 01</td>\n<td>Lehmann, Elsa, <i>Rdk</i> Ad.Hitler-Ufer 22</td>\n</tr>\n<tr>\n<td>9 45 02</td>\n<td>Lehmann, Emil, Schneider, Jakobstr. 22</td>\n</tr>\n<tr>\n<td>7 93 18</td>\n<td>Lehmann, Fritz, RiehlerWall 2</td>\n</tr>\n<tr>\n<td>(22 48 97)</td>\n<td>Lehmann, F., Bücher, Im Klapperhof 20</td>\n</tr>\n<tr>\n<td>21 09 81</td>\n<td>Lehmann, G. C., Tapeten, Hohenz.Rg. 48</td>\n</tr>\n<tr>\n<td>9 93 37</td>\n<td>Lehmann, Dr. Heinr., Prof., <i>Rau</i> W.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, numbers, or markings visible.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "NERVEN!",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "32"
+          },
+          {
+            "extension": "6",
+            "text": "20"
+          },
+          {
+            "extension": "9",
+            "text": "15"
+          },
+          {
+            "extension": "9",
+            "text": "66"
+          },
+          {
+            "extension": "21",
+            "text": "60"
+          },
+          {
+            "extension": "9",
+            "text": "25"
+          },
+          {
+            "extension": "1",
+            "text": "19"
+          },
+          {
+            "extension": "5",
+            "text": "06"
+          },
+          {
+            "extension": "9",
+            "text": "52"
+          },
+          {
+            "extension": "1",
+            "text": "37"
+          },
+          {
+            "extension": "21",
+            "text": "48"
+          },
+          {
+            "extension": "7",
+            "text": "75"
+          },
+          {
+            "extension": "7",
+            "text": "78"
+          },
+          {
+            "extension": "9",
+            "text": "31"
+          },
+          {
+            "extension": "4",
+            "text": "88"
+          },
+          {
+            "extension": "9",
+            "text": "67"
+          },
+          {
+            "extension": "21",
+            "text": "46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4 75 05</td>\n<td>Lehr, Karl, Musiker, <i>Lth</i> Mommsenstr. 35</td>\n</tr>\n<tr>\n<td>7 45 08</td>\n<td>Lehrian, Georg, Wirt, Belfortstr. 13</td>\n</tr>\n<tr>\n<td>9 20 67</td>\n<td>Lehringer, A., Maler, <i>Bay</i> Bonifazstr. 22</td>\n</tr>\n<tr>\n<td>22 80 40</td>\n<td>Lehrlingshaus St. Jos., Weißg.Eckg. 2</td>\n</tr>\n<tr>\n<td>9 68 55</td>\n<td>Lehrmann, H., Drogerie, Sever.Str. 57a</td>\n</tr>\n<tr>\n<td>5 05 89</td>\n<td>Lehsau, C., Mechaniker, <i>Eh</i>/ Wahlenstr. 26</td>\n</tr>\n<tr>\n<td>5 21 83</td>\n<td>Lehwald, Kurt, Gummi, Werderstr. 20</td>\n</tr>\n<tr>\n<td>21 21 89</td>\n<td>Leibel, W., Dachdecker, Dasselstr. 75</td>\n</tr>\n<tr>\n<td>4 67 20</td>\n<td>Leiberich, Herbert, Geschäftsf., Sülz,<br/>Stenzelbergstr. 12</td>\n</tr>\n<tr>\n<td>9 40 04</td>\n<td>Leiberich, W., Kfm., <i>Bay</i> Goltst.Str. 209</td>\n</tr>\n<tr>\n<td>22 42 78</td>\n<td>Leibner, Paul, Musikinstr., Ursulastr. 7</td>\n</tr>\n<tr>\n<td>7 33 17</td>\n<td>Deraelbe, Wohnung, Brandenb.Str. 25</td>\n</tr>\n<tr>\n<td>9 70 45</td>\n<td>Leichenich, Chr., Buchdr., <i>Bay</i> Marienh. 18</td>\n</tr>\n<tr>\n<td><b>5 15 20</b></td>\n<td><b>Leicht, Svoboda &amp; Co.</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Köln, Antwerperner Straße 35</b></td>\n</tr>\n<tr>\n<td>21 46 82</td>\n<td>Leichenich, J., Taxator, Marsilstein 28</td>\n</tr>\n<tr>\n<td>5 56 04</td>\n<td>Leicht, Friedr., Kfm., <i>Br</i>/ Erkel.Str. 3</td>\n</tr>\n<tr>\n<td>22 25 85</td>\n<td>Leidecker, Franz, Befracht., Holzmarkt 87</td>\n</tr>\n<tr>\n<td>4 95 34</td>\n<td>Dr. Leidecker &amp; Cie, Parfümfabrik, <i>Lth</i><br/>Rachmarstr 22</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 987\" data-label=\"Table\"><table><tr><td>7 10 82</td><td>H. &amp; W. Leuckecker, Kulte., Thurmchensw. 57</td></tr><tr><td>9 22 41</td><td>Leidel, Leonh., Kohlen, Ubiering 47</td></tr><tr><td>21 53 86</td><td>D. Leiden GmbH, Weine, Händelstr. 51</td></tr><tr><td>9 71 77</td><td>Leiden, H. K., Konsul, Sachsenring 67</td></tr><tr><td>6 05 77</td><td>Leidermann, Jak., Kfm., <i>Mh</i> Adamsstr. 27</td></tr><tr><td>21 20 04</td><td>Leidig, A., Bekleidung, Weyerstr. 39</td></tr><tr><td>21 84 59</td><td>Leifer, Ww. J., Wirt, Weyerstr. 24</td></tr><tr><td>6 29 19</td><td>Leifert, Dr. Jos., Arzt, <i>Mh</i> Guilleaume-<br/>straße 31</td></tr><tr><td>6 29 19</td><td>Leifert-Weiß, Dr., Ärztin, Guilleaume-<br/>straße 31</td></tr><tr><td>4 64 83</td><td>Leimberg, Paul, Kfm., <i>Lth</i> Corrensstr. 20</td></tr><tr><td>6 25 25</td><td>Leimbert, J., Vertr., <i>Mh</i> Fürstenb. Str. 36</td></tr><tr><td>22 70 80</td><td>Leinen, Dr. Hans, R.-A., Domkloster 1</td></tr><tr><td>5 15 33</td><td>Leinen, Math., Kartoffeln, Brabantenstr. 51</td></tr><tr><td>4 28 02</td><td>Leineßer, L., Prok., Süß, Süßgürtel 54</td></tr><tr><td>9 16 73</td><td>Leineweber, Ww., Dr., O. Studiendir., Volks-<br/>gartenstr. 16</td></tr><tr><td>5 29 46</td><td>Leineweber, E., Ing., <i>Brf</i> Kämpch. Weg 4</td></tr><tr><td>5 51 41</td><td>Leineweber, Wilh., <i>Brf</i> Büsdorfer Str. 16</td></tr><tr><td>9 92 10</td><td>Leipheimer, Ludw., Agent, Ubiering 51</td></tr></table></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "22",
+            "text": "88"
+          },
+          {
+            "extension": "5",
+            "text": "44"
+          },
+          {
+            "extension": "4",
+            "text": "29"
+          },
+          {
+            "extension": "22",
+            "text": "12"
+          },
+          {
+            "extension": "4",
+            "text": "14"
+          },
+          {
+            "extension": "4",
+            "text": "15"
+          },
+          {
+            "extension": "9",
+            "text": "16"
+          },
+          {
+            "extension": "1",
+            "text": "22"
+          },
+          {
+            "extension": "22",
+            "text": "41"
+          },
+          {
+            "extension": "1",
+            "text": "41"
+          },
+          {
+            "extension": "9",
+            "text": "73"
+          },
+          {
+            "extension": "5",
+            "text": "76"
+          },
+          {
+            "extension": "21",
+            "text": "70"
+          },
+          {
+            "extension": "1",
+            "text": "43"
+          },
+          {
+            "extension": "1",
+            "text": "10"
+          },
+          {
+            "extension": "22",
+            "text": "68"
+          },
+          {
+            "extension": "21",
+            "text": "26"
+          },
+          {
+            "extension": "5",
+            "text": "92"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>4 96 65</td>\n<td>Leithaus, E., Maler, Sülz, Lechenicherstr. 5</td>\n</tr>\n<tr>\n<td>21 57 05</td>\n<td>Lejeune, Dr. Fritz, Prof., Hohenz.R. 1</td>\n</tr>\n<tr>\n<td>21 10 26</td>\n<td>Lejeune, Jak., Büffetier, Weyerstr. 106</td>\n</tr>\n<tr>\n<td>4 41 71</td>\n<td>Lejeune, Klaus, <i>Lth</i> Theresienstr. 23</td>\n</tr>\n<tr>\n<td>5 67 65</td>\n<td>Lejeune, Luise, Bismarckstr. 70</td>\n</tr>\n<tr>\n<td>21 71 21</td>\n<td>Lejeune, Maria, Friesenpl. 5</td>\n</tr>\n<tr>\n<td>21 25 14</td>\n<td>Lejeune, Dr. W., R.-A., Norbertstr. 24</td>\n</tr>\n<tr>\n<td>22 38 85</td>\n<td>Lemacher, Heinr. Ursulagartenstr. 4</td>\n</tr>\n<tr>\n<td>5 25 19</td>\n<td>Lemaire, Hans, Vertr., <i>Bick</i> Gravenst.Str. 5</td>\n</tr>\n<tr>\n<td>4 57 13</td>\n<td>Lembach, Karl, Dr. med., <i>Brf</i> Hültzstr. 13</td>\n</tr>\n<tr>\n<td>6 02 28</td>\n<td>Lembeck, Joh., Feinkost, <i>Mh</i> Windm.<br/>Straße 166</td>\n</tr>\n<tr>\n<td>7 20 79</td>\n<td>Lemkes, Herb., Graph., Riehl, Riehler<br/>Tal 2</td>\n</tr>\n<tr>\n<td>5 53 93</td>\n<td>Lemkes, M., Kunstgew., Moltkestr. 129</td>\n</tr>\n<tr>\n<td>5 32 45</td>\n<td>Lemm, A., Blumen, <i>Ek/</i> VenloerStr. 271</td>\n</tr>\n<tr>\n<td>6 26 90</td>\n<td>Lemm, Ernst, Baugesch., <i>Mh</i> Mülheimer<br/>Freiheit 121</td>\n</tr>\n<tr>\n<td>22 28 81</td>\n<td>Lemm, M. B., Etuis, Appelhofpl. 9</td>\n</tr>\n<tr>\n<td>7 73 89</td>\n<td>Lemmen, Carl, Tabak, Alvensl.Str. 2</td>\n</tr>\n<tr>\n<td>4 45 79</td>\n<td>Lemmen, Hans, Immob., Sülz, Blankenh.</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 967\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>21 71 12</td>\n<td>Lemmen, Heinrich, Thieboldsg. 41b</td>\n</tr>\n<tr>\n<td>9 62 08</td>\n<td>Lemmen, Henriette, Lebensm., <i>Bay</i> Goltsteinstr. 28</td>\n</tr>\n<tr>\n<td>7 36 08</td>\n<td>Lemmens, Hch., Tapezierer, Servasg. 7</td>\n</tr>\n<tr>\n<td>5 96 92</td>\n<td>Lemmens, Leo, Kfm., <i>Mkn</i> Feldkass. W. 11</td>\n</tr>\n<tr>\n<td>(6 02 87)</td>\n<td>Lemmer, A., Weine, Frankf.Str. 85</td>\n</tr>\n<tr>\n<td>6 05 36</td>\n<td>Lemmer, Ernst, Weine, <i>Mh</i> Adamstr. 77</td>\n</tr>\n<tr>\n<td>6 02 87</td>\n<td>Lemmer, F., Weine, <i>Mh</i> Glücksb.Str. 9</td>\n</tr>\n<tr>\n<td>21 82 49</td>\n<td>Lemmer, Paul, Apostelnstr. 2a</td>\n</tr>\n<tr>\n<td>7 28 68</td>\n<td>Lemmies, Vilma, Sekr., Weißenb.Str. 24</td>\n</tr>\n<tr>\n<td>21 36 01</td>\n<td>Lemper, Aug., Mechan., Alex.Str. 27</td>\n</tr>\n<tr>\n<td>1 47 60</td>\n<td>Lemper, H., Lebensm., Kalk, Nass.Str. 96</td>\n</tr>\n<tr>\n<td>5 61 58</td>\n<td>Lemper, Lorenz, <i>Bick</i> Weißdornweg 29</td>\n</tr>\n<tr>\n<td>22 94 31</td>\n<td>Lempertz, Dr. C., R.-A., Zeppelinstr. 2</td>\n</tr>\n<tr>\n<td>4 51 73</td>\n<td>Ders., Wohn., <i>Brf</i> Voigtelstr. 29</td>\n</tr>\n<tr>\n<td>4 37 03</td>\n<td>Lempertz, Dr. H. G., Kunsthistoriker, Stülz, Siebengebirgsallee 126</td>\n</tr>\n<tr>\n<td>22 79 40</td>\n<td>Lempertz, Math., Buchhdlg., Neumarkt 3</td>\n</tr>\n<tr>\n<td>9 27 76</td>\n<td>Lempfrid Corn., Ger.-Rat, Mainz.Str. 27</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "e — Leopold (Band IV) 181",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 11 796 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>22 95 33</td>\n<td>Lenau, Ed., Friseur, A. d. Berlich 37</td>\n</tr>\n<tr>\n<td>9 43 65</td>\n<td>Lenders, Edm., Archit., Friedenstr. 17</td>\n</tr>\n<tr>\n<td>22 59 07</td>\n<td>Lenders Ed., Pension, Bischofsg.Str. 14</td>\n</tr>\n<tr>\n<td>4 58 34</td>\n<td>Lenders, Herb., Kfm., Sülz, Sülzg. 64</td>\n</tr>\n<tr>\n<td>9 22 69</td>\n<td>Lenders, Herm., <i>Bay</i> Samariterstr. 1</td>\n</tr>\n<tr>\n<td>9 64 77</td>\n<td>Lenders, Dr. Jos., Kfm., Novalisstr. 12</td>\n</tr>\n<tr>\n<td>21 27 68</td>\n<td>Lenders, Karl, Kfm., Hansaring 22</td>\n</tr>\n<tr>\n<td>4 82 71</td>\n<td>Lenders, Karl, Kfm., Hermesk.Str. 3</td>\n</tr>\n<tr>\n<td>7 27 68</td>\n<td>Lenders, W., Kunstanst., Kref.Str. 73</td>\n</tr>\n<tr>\n<td>22 86 21</td>\n<td>Lenders &amp; Cie, Leinen, Obermarspf. 42</td>\n</tr>\n<tr>\n<td>9 99 40</td>\n<td>v. Lengerke, F. Carl, Eifelstr. 19</td>\n</tr>\n<tr>\n<td>21 85 77</td>\n<td>Lengersdorf, C., Pfeilstr. 37</td>\n</tr>\n<tr>\n<td>6 37 63</td>\n<td>Lengersdorf, Hans, <i>Hw</i> Isenb.Kirchw. 41</td>\n</tr>\n<tr>\n<td>4 33 83</td>\n<td>Lengersdorf, P., Immob., Sülz, Süzb.<br/>Straße 239</td>\n</tr>\n<tr>\n<td>1 28 71</td>\n<td>Lengersdorff, C., Rath., Rösr.Str. 254</td>\n</tr>\n<tr>\n<td>21 11 13</td>\n<td rowspan=\"2\">} <b>M. Lengfeld'sche Buchhandlung,</b><br/><b>Zeppelinstraße 9</b></td>\n</tr>\n<tr>\n<td>21 11 23</td>\n</tr>\n<tr>\n<td>4 69 22</td>\n<td>Lengsdorf, A., Masch., Sülz, Schleid.Str. 19</td>\n</tr>\n<tr>\n<td>21 51 73</td>\n<td>Lenhardt, Carl, Glaserei, Weyerstr. 120</td>\n</tr>\n<tr>\n<td>4 44 89</td>\n<td>Lenhartz, Erwin, <i>Brf</i> AachnerStr. 401</td>\n</tr>\n<tr>\n<td>0 44 60</td>\n<td>Lenhartz, Honni Kleinwördenstr. 90</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"9 0 794 986\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>7 65 28</td>\n<td>Lenk, Arno, Alvenslebenstr. 11</td>\n</tr>\n<tr>\n<td>5 69 08</td>\n<td>Lennartz, Chr., Holzhdlg., <i>Bick</i> Roseng. 83</td>\n</tr>\n<tr>\n<td>9 40 68</td>\n<td>Lennartz, E., Kfm., Isabellenstr. 27</td>\n</tr>\n<tr>\n<td>9 49 26</td>\n<td>Lennartz, Ernst, Dentist, Quirinstr. 6</td>\n</tr>\n<tr>\n<td>4 51 07</td>\n<td>Lennartz, Fr., Wäsch., Sülz, Wicht.Str. 3</td>\n</tr>\n<tr>\n<td>4 59 79</td>\n<td>Lennartz, J., Vertr., Sülz, Wittck.Str. 17</td>\n</tr>\n<tr>\n<td>4 77 60</td>\n<td>Lennartz, Jos., Apotheke., <i>Lth</i> Fürst<br/>PücklerStr. 8</td>\n</tr>\n<tr>\n<td>21 65 67</td>\n<td>Lennartz, P., Pantaleonsmühleng. 42</td>\n</tr>\n<tr>\n<td>7 53 03</td>\n<td>Lennartz, Peter, Uhren, Eigelstein 42</td>\n</tr>\n<tr>\n<td>9 23 04</td>\n<td>Lennartz, R., Futterstoffe Eifelstr. 21</td>\n</tr>\n<tr>\n<td>4 56 40</td>\n<td>Lennartz, Wilh., Vertr., <i>Lth</i> KrielerStr. 50</td>\n</tr>\n<tr>\n<td>21 65 86</td>\n<td>Lennartz &amp; Gerresheim, Schlosserei,<br/>AlexianerStr. 10</td>\n</tr>\n<tr>\n<td>4 72 14</td>\n<td>Lennarz, Jos., Dir., <i>Lth</i> Mommsenstr. 6</td>\n</tr>\n<tr>\n<td>22 93 73</td>\n<td>Lenné, Dr., Domkapitular, Burgmauer 27</td>\n</tr>\n<tr>\n<td>6 18 23</td>\n<td>Lennefer, Th., Gastw., <i>Mh</i> Holw.Str. 1</td>\n</tr>\n<tr>\n<td>5 68 06</td>\n<td>von Lennep, Vertr., Bismarckstr. 14</td>\n</tr>\n<tr>\n<td>4 57 69</td>\n<td>v. Lennep, W., Öle, Sülz, Lux.Str. 134</td>\n</tr>\n<tr>\n<td>5 64 52</td>\n<td>Lennertz, Hugo, Café, VenloerStr. 37</td>\n</tr>\n<tr>\n<td>22 27 29</td>\n<td>Lennertz, Kunststopferei, Mohrenstr. 5</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "21",
+            "text": "31"
+          },
+          {
+            "extension": "9",
+            "text": "56"
+          },
+          {
+            "extension": "7",
+            "text": "46"
+          },
+          {
+            "extension": "4",
+            "text": "89"
+          },
+          {
+            "extension": "22",
+            "text": "40"
+          },
+          {
+            "extension": "21",
+            "text": "82"
+          },
+          {
+            "extension": "4",
+            "text": "65"
+          },
+          {
+            "extension": "22",
+            "text": "89"
+          },
+          {
+            "extension": "1",
+            "text": "38"
+          },
+          {
+            "extension": "21",
+            "text": "17"
+          },
+          {
+            "extension": "5",
+            "text": "09"
+          },
+          {
+            "extension": "22",
+            "text": "16"
+          },
+          {
+            "extension": "9",
+            "text": "76"
+          },
+          {
+            "extension": "9",
+            "text": "13"
+          },
+          {
+            "extension": "22",
+            "text": "60"
+          },
+          {
+            "extension": "21",
+            "text": "72"
+          },
+          {
+            "extension": "6",
+            "text": "29"
+          },
+          {
+            "extension": "4",
+            "text": "22"
+          },
+          {
+            "extension": "22",
+            "text": "63"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 787 990\" data-label=\"Text\"><table><tbody><tr><td>9 68 00</td><td>Lenz, Dr. G., Treuhänd., Overst.Str. 4</td></tr><tr><td>21 49 66</td><td>Lenz, Hans, Radio, JülicherStr. 19</td></tr><tr><td>21 53 15</td><td>Lenz, Hch., Ing., R.WagnerStr. 5</td></tr><tr><td>7 41 35</td><td>Lenz, Dr. Hubert, R.-A., Hülchr.Str. 5</td></tr><tr><td>4 94 89</td><td>J. Lenz &amp; Co., Toil.Art., Sülz, Emmastr. 11</td></tr><tr><td>5 71 54</td><td>Lenz, Joh., Elektrogesch., Mastr.Str. 22</td></tr><tr><td>21 93 19</td><td>Derselbe, Wohn., Hohenstauferring 59</td></tr><tr><td>22 99 57</td><td>Lenz, Karl, Weine, Ursulapl. 9</td></tr><tr><td>21 10 17</td><td>Lenz, Maria, Frau, Händelstr. 20</td></tr><tr><td>4 76 53</td><td>Dies., Whg., Sülz, Nikolauspl. 1</td></tr><tr><td>4 26 13</td><td>Lenz, Maria, Frau, <i>Lth</i> Landgr.Str. 68</td></tr><tr><td>21 50 19</td><td>Lenz, Martin, R.-A., Am Römerturm 9</td></tr><tr><td>21 24 68</td><td>Lenz, Peter, Ehrenstr. 49</td></tr><tr><td>1 25 89</td><td>Lenz, Peter, Dir., <i>Rath</i> Kellereiweg 5</td></tr><tr><td>1 15 58</td><td>Lenz, Raym., Bäcker, Deutz, Siegesstr. 26</td></tr><tr><td>4 92 97</td><td>Lenz, Stephan, Wäsch., <i>Lth</i> Franzstr. 51</td></tr><tr><td>5 60 58</td><td>Lenz, W., Milch., <i>Bick</i> Takustr. 85</td></tr><tr><td>9 21 91</td><td>Lenz, Willi., Spedition, Karolinerring 13</td></tr><tr><td>21 88 25</td><td>Lenz, Willi., Lampensch., Pfälzerstr. 30</td></tr><tr><td>4 61 53</td><td>Lenz, Willy, Metzg., <i>Lth</i> Lindenth.G. 51</td></tr><tr><td>1 33 75</td><td>Lenze, Ww. Anton, Milch, Poll, Vingster-</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "39 00 Lenze, A., Metallgieß., Mh Dellbr.Str. 25"
+          },
+          {
+            "extension": "6",
+            "text": "09 07 Lenze, Hans, Mh El. BreuerStr. 40"
+          },
+          {
+            "extension": "1",
+            "text": "10 53 Lenze, H., Pelzmod., Deutz, D.Freiheit 58"
+          },
+          {
+            "extension": "7",
+            "text": "79 74 Lenze, J., Polsterwr., Np Yorkstr. 10"
+          },
+          {
+            "extension": "1",
+            "text": "33 75 Karl u. Jak. Lenze, Fuhrgesch., Poll,VingsterStr. 214"
+          },
+          {
+            "extension": "6",
+            "text": "22 34 Lenze, Wilh., Wäschefbr., Mh Rüd.Str. 33"
+          },
+          {
+            "extension": "21",
+            "text": "84 10 Lenzen Nf., A., Leder, Apostelnstr. 36"
+          },
+          {
+            "extension": "7",
+            "text": "39 08 Lenzen, Anna, KrefelderStr. 23"
+          },
+          {
+            "extension": "7",
+            "text": "87 13 Lenzen, Anton, Dagobertstr. 41"
+          },
+          {
+            "extension": "4",
+            "text": "61 31 Lenzen, Aug., Bauuntern., Sülz, Meister-Ekkehart-Str. 7"
+          },
+          {
+            "extension": "6",
+            "text": "26 24 Lenzen, G., Metzger, Mh Kattow.Str. 32"
+          },
+          {
+            "extension": "6",
+            "text": "28 29 Lenzen, Hans, Ballhaus, Dbr Möhlstr. 15"
+          },
+          {
+            "extension": "6",
+            "text": "36 07 Lenzen, H. L., Rektor, Hw Märchenstr. 35"
+          },
+          {
+            "extension": "22",
+            "text": "36 85 Lenzen, Joh., Sped., StraßburgerG. 1"
+          },
+          {
+            "extension": "22",
+            "text": "48 38 Lenzen, Maria, Friseuse, Mohrenstr. 13"
+          },
+          {
+            "extension": "21",
+            "text": "95 93 P. Lenzen & Sülz, Buchdr., Gereonsw. 67"
+          },
+          {
+            "extension": "6",
+            "text": "36 98 Lenzenbach, Heinrich, Maler, Mh Glücks-burgstr. 21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 786 945\" data-label=\"Text\"><table><tbody><tr><td>1 12 90</td><td>Lenzmann, Wilh., Versich., Kalk, Amts-<br/>straße 9</td></tr><tr><td>9 29 57</td><td>Leo-Werke GmbH, Dreikönigenstr. 26</td></tr><tr><td>4 75 17</td><td>Leon, Dr., Oberstlttn., Sülz, Nik.Pl. 4</td></tr><tr><td>4 88 43</td><td>Leonard, Hch., Vertr., Sülz, Lux.Str. 269</td></tr><tr><td>9 77 80</td><td>Leonhard, Dr., Präs., <i>Bay</i> Schillerstr. 103</td></tr><tr><td>7 94 38</td><td>Leonhard, Theodor, Fremdenheim, Johan-<br/>nisstr. 77</td></tr><tr><td>22 78 81</td><td>Leonhard, W., Juwel., Sachsenhausen 22</td></tr><tr><td>6 12 94</td><td>Leonhardt, C., Geschäftsführer, <i>Mih</i> Pr.<br/>Heinr.Str. 58</td></tr><tr><td>22 80 60</td><td>Leonhardt, Carl, Bettwäsche, Brückenstr.1</td></tr><tr><td>7 99 66</td><td>Leonhardt, Josef, Prok., <i>Np</i> Monh.Str. 11</td></tr><tr><td>4 78 06</td><td>Leonhardt, Wilh., Dir., <i>Lth</i> Univ.Str. 55</td></tr><tr><td>21 86 81</td><td>Leopold, Berta, Kürschn., Albertusstr. 4</td></tr><tr><td>4 70 87</td><td>Leopold, Eduard, <i>Lth</i> Franzstr. 16</td></tr><tr><td>22 93 61</td><td>Leopold, Hans, Zigarren., Streitzeugg. 9</td></tr><tr><td>5 70 01</td><td>Leopold, Heinr., Kondit., VenloerStr. 736.</td></tr><tr><td>22 23 37</td><td>Leopold, Hub., Wild, Andreaskloster 14</td></tr><tr><td>22 46 12</td><td>Leopold, Josef, Geflügel, Breitestr. 81</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

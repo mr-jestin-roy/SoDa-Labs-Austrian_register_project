@@ -1,0 +1,917 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"236 675 476 929\"}, {\"label\": \"Text\", \"bbox\": \"647 675 998 929\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 13 981 978\" data-label=\"Text\"><p>184 Sparkasse des Kreises Hameln-Pyrmont<br/>118 Specht, Karl, Kfm., Gr. Berkel<br/>199 Stahlhuth, Rob., Postinspekt., Bahnhofstr.<br/>235 Starke, Ernst, Stuhlfr., Reher.<br/>218 Stumpenhagen, Fritz, Gasth., Gr. Berkel 185<br/>170 Tonue, Heinrich, Bäckernistr., Gr. Berkel.<br/>191 Vietmeyer, Willy, Kraftfahrzeuge, Reher<br/>224 Volksbank Aerzen eGmbH<br/>144 Vollbrecht, Wilh., Kfm., Gr. Berkel 59.<br/>221 Waldquelle, Restaur., W. Rieke<br/>155 Waltermann, Ernst, Zimmermstr., Reher<br/>127 Wattrodt, Karl, Maschinenfr.<br/>145 Wellhausen, Georg, Bauer, Dehrenberg<br/>176 Wesemann, Fr., Gastw., Reher<br/>117 Wiebrock, Wilh., Schuhwr., Gr. Berkel<br/>158 Wittrock, L., Gastwirt, Gruppenhagen<br/>201 Zumbusch, Walther, Apotheke, Osterstr. 14.</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Affeln (üb. Neuenrade)[Westf.]",
+        "entries": [
+          {
+            "extension": "18",
+            "text": "Affeler Spar- u. Durlehns-Kassenverein."
+          },
+          {
+            "extension": "12",
+            "text": "Berghoff, Wilh., Sommerfrische, Oberhof."
+          },
+          {
+            "extension": "50",
+            "text": "Bischoff, Herm., Jagdaufseher, Küntrop"
+          },
+          {
+            "extension": "10",
+            "text": "Cormann-Briukmann, Anton, Bauer, Blintrop"
+          },
+          {
+            "extension": "30",
+            "text": "Cormann-Sasse, Bernard, Bauer, Blintrop"
+          },
+          {
+            "extension": "64",
+            "text": "Erner, Anton, Ortswalter d. DAF."
+          },
+          {
+            "extension": "77",
+            "text": "Fröndt, Jos., Viehhdlg., Küntrop"
+          },
+          {
+            "extension": "24",
+            "text": "Fuderholz, Joh., Fuhrgesch., Küntrop"
+          },
+          {
+            "extension": "52",
+            "text": "Gödde, Fritz, Holzhandlung."
+          },
+          {
+            "extension": "27",
+            "text": "Guntermann, Franziska, Hebamme"
+          },
+          {
+            "extension": "53",
+            "text": "Habel, Josef, Bauer"
+          },
+          {
+            "extension": "67",
+            "text": "Hagen, Heinrich, Bauunternehmer"
+          },
+          {
+            "extension": "58",
+            "text": "Hagen, Johann, Gutsbes., Kracht."
+          },
+          {
+            "extension": "63",
+            "text": "Hagen, Kaspar, Bauer, Altenaffeln"
+          },
+          {
+            "extension": "85",
+            "text": "Hellickes, Theod., Gasth., Küntrop"
+          },
+          {
+            "extension": "19",
+            "text": "Henneke, Frz., Landw., Hespe"
+          },
+          {
+            "extension": "72",
+            "text": "Hesse-Severin, Anton, Bauer, Altenaffeln"
+          },
+          {
+            "extension": "29",
+            "text": "Hochstein, Franz, Gasthof."
+          },
+          {
+            "extension": "79",
+            "text": "Jagdhaus Hespe i. d. Hespe bei Altenaffeln or Math Deuwent Affeln"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 0 976 986\" data-label=\"Table\">\n<table>\n<tr><td>26</td><td>Kath. Vikarie, Affeln</td></tr>\n<tr><td>28</td><td>Keimper, Fritz, Schneidermstr.</td></tr>\n<tr><td>71</td><td>Kempmann, Wilh., Bauer, Küntrop</td></tr>\n<tr><td>69</td><td>Klöwer, F., Kolonialwaren</td></tr>\n<tr><td>70</td><td>Klüppel, Clemens, Bauer, Blintrop</td></tr>\n<tr><td>57</td><td>Klüter, Hubert, Bauer, Freientrop</td></tr>\n<tr><td>88</td><td>Köper, Josef, Küntrop</td></tr>\n<tr><td>78</td><td>Kraft, Josef, Lehrer, Hauptstr. 22</td></tr>\n<tr><td>43</td><td>Kremer, Hch., Bürgermstr.</td></tr>\n<tr><td>34</td><td>Kühling, Joh., Bauer, Freientrop</td></tr>\n<tr><td>40</td><td>Levermann, Anton, Manufakturwr.</td></tr>\n<tr><td>68</td><td>Lübke, Franz, Bauer</td></tr>\n<tr><td>74</td><td>Maas, Franz, Bauer, Küntrop</td></tr>\n<tr><td>42</td><td>Michels, Ewald, Autovermiet., Altenaffeln</td></tr>\n<tr><td>31</td><td>Midderhoff, Franz, Milch, Altenaffeln</td></tr>\n<tr><td>22</td><td>Müller, Anton, Kornmühle, Affeler Mühle</td></tr>\n<tr><td>17</td><td>Müller, Bernh., Sägewerk, Affeler Mühle</td></tr>\n<tr><td>55</td><td>Müller gen. Lohmann, Jos., Landwirt, A.-Aff.</td></tr>\n<tr><td>14</td><td>Müller, Stefan, Bauer, Hespe</td></tr>\n<tr><td>86</td><td>Müller-Lohschulte, Stefan, Bauer</td></tr>\n<tr><td>38</td><td>Muschert, Hubert, Gastwirt, Küntrop</td></tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"220 18 991 993\" data-label=\"Text\"><p>16 Peterschulte, Franz, Bauer<br/>66 Pingel, Josef, Bauer<br/>61 Plaßmann, Lili, Ww., Allehof<br/>35 Rademacher, Franz, Holzhdlg., Hespe<br/>89 Reichsarbeitsdienst f. d. weibl. Jugend Lager 21/91<br/>20 Reichspost, Poststelle<br/>37 Sasse, Anton, Haus Kuschert, Bauer<br/>59 Sasse, Franz, Bauer, Altenaffeln<br/>60 Sauer, Jos., Landw., Allehof<br/>51 Schirp, Franz, Gastwirt<br/>33 Schlotmann, Anton, Bauer, Kracht<br/>65 Schlotmann, Wilh., Bürgermstr., Küntrop<br/>21 Schmalohr, Heinrich, Bauer<br/>41 Schulte, Joh., Bauer, Altenaffeln<br/>23 Schulte, Joh., Installateur<br/>36 Schulte, Theodor, Schneidermstr.<br/>66 Schulte, Wilh., Bauer, Severinshof<br/>76 Schweitzer, Anton, Kolonialwaren, Küntrop<br/>84 Schwesternheim<br/>87 Verse, Wilhelm, Bauer, Küntrop<br/>42 <i>Mannheim</i> <i>Neithof</i> <i>Dilten</i></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Affing (Bay.)",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "Bergmoser, Franz, Tierheilkunde"
+          },
+          {
+            "extension": "4",
+            "text": "Eichner, Ignaz, Bäckerei"
+          },
+          {
+            "extension": "10",
+            "text": "Endrös, Dr. Ludwig, Arzt"
+          },
+          {
+            "extension": "2",
+            "text": "Führer, Ludwig, Gastwirt."
+          },
+          {
+            "extension": "8",
+            "text": "Geudarmerlestation Affing."
+          },
+          {
+            "extension": "17",
+            "text": "Kipp, W., v. Gravenreuth-Güterinspekt."
+          },
+          {
+            "extension": "7",
+            "text": "Kling, Anton, Sägewerk, Mühelhausen"
+          },
+          {
+            "extension": "16",
+            "text": "Mayr, Josef, Baugeschäft"
+          },
+          {
+            "extension": "12",
+            "text": "Riemensperger, Joh., Bauer, Pfaffenzell"
+          },
+          {
+            "extension": "14",
+            "text": "Riemensperger, Thomas, Spedition"
+          },
+          {
+            "extension": "11",
+            "text": "Schaller, Josef, Spenglermeister"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Affinghausen (Ob. Bassum)[Hann.]",
+        "entries": [
+          {
+            "extension": "131",
+            "text": "Ahlers, H., Landwirt. Engeln."
+          },
+          {
+            "extension": "125",
+            "text": "Bensemann, H., Gastwirt, Affinghausen 5"
+          },
+          {
+            "extension": "140",
+            "text": "Blauwitz, C., Viehhdlg., Sudwalde-Sudbruch."
+          },
+          {
+            "extension": "198",
+            "text": "Blauwitz, Willi, Viehhändler"
+          },
+          {
+            "extension": "153",
+            "text": "Bodenstab, H., Tischlerei, Weseloh 27."
+          },
+          {
+            "extension": "223",
+            "text": "Bösselmann, Joh., Zimmerei, Nr. 108"
+          },
+          {
+            "extension": "176",
+            "text": "Bolland, Friedr., Halbmeier, Hache 1."
+          },
+          {
+            "extension": "213",
+            "text": "Bolte, Friedr., Schapsen"
+          },
+          {
+            "extension": "130",
+            "text": "Bolte. Heinr., Vollmeier, Otersen 9."
+          },
+          {
+            "extension": "216",
+            "text": "Brüggemann, Fr., Viehhdlg., Affinghausen."
+          },
+          {
+            "extension": "138",
+            "text": "Brümmmer, Dietr., Bauer, Eitzen 27"
+          },
+          {
+            "extension": "121",
+            "text": "Brümmmer, Joh., Gastwirt, Bensen 11"
+          },
+          {
+            "extension": "147",
+            "text": "Bründer, Christian. Hofbesitzer, Weseloh 12."
+          },
+          {
+            "extension": "139",
+            "text": "Brüning, H., Bauer. Weseloh 1."
+          },
+          {
+            "extension": "179",
+            "text": "Bürgermeistermeister in Affinghausen"
+          },
+          {
+            "extension": "161",
+            "text": "Bürgermeistermeister in Oerdinghausen"
+          },
+          {
+            "extension": "141",
+            "text": "Bürgermeistermeister in Sudwalde"
+          },
+          {
+            "extension": "185",
+            "text": "Coors, Friedr., Landw., Sudwalde 39"
+          },
+          {
+            "extension": "190",
+            "text": "Delekat, Fritz, Landw., Eitzen 31"
+          },
+          {
+            "extension": "100",
+            "text": "Reichardt, Th. ..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"206 0 973 518\" data-label=\"List-Group\"><ul><li>145 Engelke, Hein., Mühlenbes., Affinghausen 70</li><li>224 Friedrichs, Joh., Obst, Nr. 60</li><li>212 Früchtenicht, Hch., Gastwirt, Menninghausen</li><li>201 Grube, Hch., Hofbesitzer, Hache 4.</li><li>202 Hagemann, Otto, Bauer, Affinghausen 26</li><li>164 Hartwig, Wilhelm, Mülerei, Sudwalde 45.</li><li>122 Heidhoff, A., Bauer, Clövinghausen 22</li></ul></div><div data-bbox=\"0 575 21 625\" data-label=\"Page-Footer\">5</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 687 998 930\" data-label=\"Text\"><p><b>asse -- Ahaus: Güterabfertigung</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 11 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>156</td>\n<td>Heltmann, Alb., Bauer, Sudwalde 82.</td>\n</tr>\n<tr>\n<td>215</td>\n<td>Heltmann, Friedr., Bauer, Oerdinghausen 8</td>\n</tr>\n<tr>\n<td>142</td>\n<td>Hilbers, Karl, Gastwirt, Sudwalde 29.</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Hillmann, H., Vollmeier, Clövinghausen</td>\n</tr>\n<tr>\n<td>158</td>\n<td>Hingst, H. Zum, Hofbes., Hache 6.</td>\n</tr>\n<tr>\n<td>133</td>\n<td>Holste. Erdwig, Hofbes., Clövinghausen.</td>\n</tr>\n<tr>\n<td>188</td>\n<td>Jasper, Heinr., Bauer, Nr. 30</td>\n</tr>\n<tr>\n<td>194</td>\n<td>Kastens, J., Schmied, Affinghausen 64</td>\n</tr>\n<tr>\n<td>218</td>\n<td>Kastens, Johann, Vollmeier, Schapen.</td>\n</tr>\n<tr>\n<td>135</td>\n<td>Kehibeck, Frau Lina, Hofbes., Affinghausen 25</td>\n</tr>\n<tr>\n<td>157</td>\n<td>Klusmann, W., Landwirt, Sudwalde 108</td>\n</tr>\n<tr>\n<td>162</td>\n<td>Klussmann, Albert, Mühlenp., Sudwalde 82.</td>\n</tr>\n<tr>\n<td>150</td>\n<td>Klussmann, Joh., Hofbes., Affinghausen.</td>\n</tr>\n<tr>\n<td>199</td>\n<td>Knake, Heinr., Malermstr., Affinghausen</td>\n</tr>\n<tr>\n<td>167</td>\n<td>Koch, Emil, Lehrer, Affinghausen 93</td>\n</tr>\n<tr>\n<td>196</td>\n<td>Krüger, Hch., Sattlermstr., Affingh. 118</td>\n</tr>\n<tr>\n<td>219</td>\n<td>Laasch, Herbert, Mühlenbauer, Affinghausen</td>\n</tr>\n<tr>\n<td>208</td>\n<td>Lakemann, Herm., Hofbesitzer, Affingh. 23</td>\n</tr>\n<tr>\n<td>182</td>\n<td>Landjägerposten Sudwalde, Menninghausen 21</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Laue, Gerd., Hofbesitzer, Bensen 13.</td>\n</tr>\n<tr>\n<td>221</td>\n<td>Leopold, Wilh., Schmiedemstr., Nr. 94</td>\n</tr>\n<tr>\n<td>129",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 991\" data-label=\"Text\"><p>226 Logemann, Georg, Schneidermstr., Nr. 74<br/>206 Meyer, Fr., Viehhändler, Affinghausen 8<br/>177 Meyer, Fritz, Gastwirt, Carolei 8.<br/>171 Meyer, Fritz, Halbmeier, Weseloh 6.<br/>152 Meyer, Heinr., Landwirt, Bensen 7.<br/>127 Meyer, Hinr., Vollmeier, Reihausen.<br/>166 Meyer, Joh., Hofbes., Affinghausen 32<br/>204 Meyer, Wilh., Gastwirt, Weseloh.<br/>187 Meverkord, Wilhelm, Bauer, Affinghausen 67<br/>129 Möller, Lehrer, Engeln 53<br/>205 Molkerei e. G. m. u. H., Affinghausen<br/>175 Müller, Chr., Landwirt, Eitzen I<br/>207 Nordhausen, Joh., Landw., Affinghausen.<br/>179 NSDAP., Ortsgruppe Affinghausen<br/>167 Dies., NSV., Ortsgruppenamtsleitung<br/>128 v. Ohlen, H., Bauer, Weseloh<br/>200 Ottens, Wilh., Fleischbeschauer, Engeln 11<br/>193 Peters, Joh., Landw., Sudwalde 85<br/>126 Pfarramt Sudwalde<br/>134 Platter, H., Zimmerei, Bensen 20.<br/>192 Rohlfis, Heinr., Elektro-Matr., Sudwalde 83</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 20 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>209</td>\n<td>Rolappe, W., Landw., Sudwalde 7</td>\n</tr>\n<tr>\n<td>191</td>\n<td>Rust, Willy, Klempnerei, Affinghausen 78</td>\n</tr>\n<tr>\n<td>180</td>\n<td>Schaltstat. d. Elektrizitätsagen. eGmuH</td>\n</tr>\n<tr>\n<td>155</td>\n<td>Schröder, D., Kaufmann, Engeln 46.</td>\n</tr>\n<tr>\n<td>197</td>\n<td>Schumacher, Ehler, Bauer, Schaapsen 14</td>\n</tr>\n<tr>\n<td>184</td>\n<td>Schumacher, W., Viehhdlg., Mennighausen</td>\n</tr>\n<tr>\n<td>195</td>\n<td>Schwenker, Herm., Installation, Affingh. 88</td>\n</tr>\n<tr>\n<td>186</td>\n<td>Schwesternstation Sudwalde</td>\n</tr>\n<tr>\n<td>170</td>\n<td>Spar- u. Darlehnskasse eGmuH, Affinghausen</td>\n</tr>\n<tr>\n<td>149</td>\n<td>Sparkasse des Kreises Diepholz, Sudwalde</td>\n</tr>\n<tr>\n<td>178</td>\n<td>Steding, Johann, Hdl., Affinghausen 105</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Steffe, Georg, Bauer, Bensen 3</td>\n</tr>\n<tr>\n<td>170</td>\n<td>Strahmann, Wilh., Kfm., Affinghausen 83.</td>\n</tr>\n<tr>\n<td>124</td>\n<td>Stühring, Alb., Landw., Affinghausen 92.</td>\n</tr>\n<tr>\n<td>144</td>\n<td>Stühring, Heinr., Tischlerel Affingh. 71.</td>\n</tr>\n<tr>\n<td>181</td>\n<td>Stühring, Herm., Gastwirt, Sudwalde 26</td>\n</tr>\n<tr>\n<td>136</td>\n<td>Sudhop, Herm., Bauer, Bensen 4</td>\n</tr>\n<tr>\n<td>169</td>\n<td>Tasto, Herm., Halbmeier, Weseloh 8.</td>\n</tr>\n<tr>\n<td>168</td>\n<td>Tasto, Johann, Bauer, Weseloh</td>\n</tr>\n<tr>\n<td>174</td>\n<td>Thielbar, D., Hofbesitzer, Bensen.</td>\n</tr>\n<tr>\n<td>100</td>\n<td>Thielbar - Tasso - Tanne - Tannhausen 02</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 966\" data-label=\"Text\"><p>217 T'wietmeyer, Dietr., Hofbes., Meuninghausen.<br/>183 Uchtmann, Heinr., Straßenbau, Weseloh 19<br/>160 Uhlig, Oswald, Weseloh 2<br/>132 Wachendorf, H., Gastwirt, Engeln.<br/>151 Wachendorf, Joh., Gemeindevorst., Engeln.<br/>143 Wachsmann, Fr., Landw., Sudwalde.<br/>165 Warnecke, Waldo, Gemischtwr., Sudwalde 84<br/>210 Wicke, Fritz, Landw., Sudwalde 31<br/>154 Winte, D., Halbmeier, Weseloh 4.<br/>159 Winter, Chr., Mühle, Bensen<br/>173 Wolter, Johann, Vollmeier, Bensen.<br/>203 Wriszenberg, Joh., Kfm., Weseloh 23.</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Aflenz, Kurort (steiermark)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 40 947 942\" data-label=\"Text\"><p><b>Aflenz-Kurort.</b> Bekannter Luftkurort am Fuße des Hochschwab. 765 m ü. d. M. Infolge seiner Höhenluft und Höhensonne ein geeigneter Ort für Erholungsbedürftige. Schöne kleine Waldspaziergänge. Talpartie in das Fölz-<br/>tal mit Fölzklamm. Herrliche Höhenwand-<br/>erungen. Ausgangspunkt für Bergtouren in<br/>das ausgedehnte Hochschwabgebiet (2277 m).<br/>Sehenswert ist der Steirerhof und die alte<br/>Kirche. Aflenz gehört zu den bedeutendsten Win-<br/>tersportplätzen der Ostmark. Gelegenheit zu allen<br/>Wintersportarten. — Auskunft: Kurausschuß.</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 979 631\" data-label=\"Text\"><p>15 Brüder Hinterleitner, Möbel<br/>12 Hochreiter, Rosa, Gasthof z. schwarzen Adler<br/>30 Hofhans, Dr. Richard, Veter.-Inspektor<br/>11 Hotel-Pension Hubertushof<br/>2 Huher, Johann, Kaufmann<br/>3 (Dauerverbindung) Karlon, Anton, Hotel-Pension, „Zur Post“, Autofuhrgeschäft, Fleischerei<br/>1 Karlon, Franz, Gasthof<br/>15 Leopold Klammer<br/>Baumeister — Bauunternehmen<br/>18 Koberwein, Dr. A., Kurarzt</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "13 Viktor Krenn",
+        "entries": []
+      },
+      {
+        "region_name": "5 Johann Pengg, EisenwerkeThörl bei Aflenz",
+        "entries": []
+      },
+      {
+        "region_name": "18 Sonnenapotheke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"19 10 802 115\" data-label=\"Text\"><p>7 Vogel, Ernst, Betriebsführer i. R. 118</p></div><div data-bbox=\"19 115 580 192\" data-label=\"Text\"><p>19 Zahnatclier Simon Fluch</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Afling bei Bärnbach(Steiermark)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Afritz (Kärnten)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Aggsbach, Dorf (Niederdonau)",
+        "entries": [
+          {
+            "extension": "1",
+            "text": "Bissinger, Ludwig, Gastwirt 19"
+          },
+          {
+            "extension": "2",
+            "text": "Gendarmerieposten"
+          },
+          {
+            "extension": "3",
+            "text": "Neger, Josef, Holzhandlg."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Aggsbach, Markt (Niederdonauberg)",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "Bahnhof"
+          },
+          {
+            "extension": "3",
+            "text": "Gemeindevorsteher, 35"
+          },
+          {
+            "extension": "2",
+            "text": "Gendarmerieposten"
+          },
+          {
+            "extension": "4",
+            "text": "Revierförsterei d. Forstamt. Arnsdorf d. Reichsforstverwaltung"
+          },
+          {
+            "extension": "5",
+            "text": "Sternecker, Alois, Holzhandlg., 14"
+          },
+          {
+            "extension": "1",
+            "text": "Trondl, Karl, Wirtschaftsbesitzer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Aglasterhausen (Baden)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 999 991\" data-label=\"Table\"><table><tr><td>166</td><td>Geiger, Dr. Lore, Zahnärztin</td></tr><tr><td>205</td><td>Gemeindeverwaltung Aglasterhausen</td></tr><tr><td>139</td><td>Dieselbe, Bürgermeister-Wohnung</td></tr><tr><td>178</td><td>Gemeindeverwaltung Asbach</td></tr><tr><td>172</td><td>Gemeindeverwaltung Breitenbronn</td></tr><tr><td>183</td><td>Gemeindeverwaltung Daudenzell</td></tr><tr><td>158</td><td>Gemeindeverwaltung Michelbach</td></tr><tr><td>175</td><td>Gemeindeverwaltung Mörtelstein</td></tr><tr><td>130</td><td>Gemeindeverwaltung Neunkirchen</td></tr><tr><td>129</td><td>Gemeindeverwaltung Reichartshausen</td></tr><tr><td>143</td><td>Gemeindeverwaltung Unterschwarzach</td></tr><tr><td>140</td><td>Gendarmeriestation</td></tr><tr><td>149</td><td>Gendarmeriestation Neunkirchen</td></tr><tr><td>195</td><td>Götz, Georg, Autovermietung</td></tr><tr><td>189</td><td>Gottmann, Jos., Landw., Untere Str. 179</td></tr><tr><td>220</td><td>Grimm, Otto, Kaufmann.</td></tr><tr><td>186</td><td>Hack, Adam, Mühle, Reichartshausen</td></tr><tr><td>124</td><td>Hafelder, Aug., Metzgerel u. Wirt.</td></tr><tr><td>144</td><td>Heybach, Gust., Unterschwarzach.</td></tr><tr><td>144</td><td>Himmelnmann, V., Verwalter, Friedrichsfeld</td></tr><tr><td>192</td><td>Hüther, Eduard, Fbk., Hauptstr. 5</td></tr></table></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 19 979 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>128</td>\n<td>Humburger, Ernst, Eisen, Maschinen</td>\n</tr>\n<tr>\n<td>218</td>\n<td>Ingold, Friedr., Sattler</td>\n</tr>\n<tr>\n<td>156</td>\n<td>Kalteninaier, Dr., Arzt</td>\n</tr>\n<tr>\n<td>139</td>\n<td>Kiesel, Herb., Architekt.</td>\n</tr>\n<tr>\n<td>179</td>\n<td>Klempp, Fritz, Kfm.</td>\n</tr>\n<tr>\n<td>176</td>\n<td>Knörzer, Karl, Bäckerei, Neunkirchen</td>\n</tr>\n<tr>\n<td>162</td>\n<td>Ländl. Kreditverein</td>\n</tr>\n<tr>\n<td>142</td>\n<td>Leibfried, Wilh., Bürgermstr., Neunkirchen</td>\n</tr>\n<tr>\n<td>181</td>\n<td>Liebig, Karl, Gasthaus, Schwanheim</td>\n</tr>\n<tr>\n<td>(210)</td>\n<td>Malsack, Dr. Fritz</td>\n</tr>\n<tr>\n<td>125</td>\n<td>Mannschott, F., Blechwrfr., Reichartshausen</td>\n</tr>\n<tr>\n<td>152</td>\n<td>Meister, Karl, Metzgerei.</td>\n</tr>\n<tr>\n<td>221</td>\n<td>Meister, Ludwig. Badischer Hof.</td>\n</tr>\n<tr>\n<td>127</td>\n<td>Merz &amp; Sälzer, Sägewerk</td>\n</tr>\n<tr>\n<td>196</td>\n<td>Merz-Ruppert, Weilermühle, Helmst. Str. 148</td>\n</tr>\n<tr>\n<td>191</td>\n<td>Nauen, Louise, Fabrikant., Hauptstr. 9</td>\n</tr>\n<tr>\n<td>138</td>\n<td>Neidig, August, Kaufmann.</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Notariat, Rad.,</td>\n</tr>\n<tr>\n<td>184</td>\n<td>Raber, Karl, Gasthof, Breitenbronn.</td>\n</tr>\n<tr>\n<td>202</td>\n<td>Rehn, Gutspächter, Schwarzacherhof</td>\n</tr>\n<tr>\n<td>104</td>\n<td>Wachsmuth-Blundt</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 977 630\" data-label=\"Text\"><p>209 Reichsbahn, Bahnhof<br/>65 Dies., Bahnhof Asbach<br/>200 Reichspost, Vorsteher<br/>51 Römmele, Emil, Gasth. z. Deutschen Kaiser<br/>77 Rüdinger, Fritz, Autoverm., Reparaturen<br/>80 Rüdinger, Ph., Ww.<br/>63 Schäfer, Wilh., Elektroinstall.<br/>85 Scheible, Gg., Amtsdienner, Marktstr. 208<br/>210 Scherer &amp; Klemp, Peltschenfabrik.<br/>81 Schifferdecker, A., Gemischtwr., Michelbach.<br/>78 Schlebusch, Dr. E., Ärztin, Mosbach</p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"178 672 184 707\" data-label=\"Text\"><p>1</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 9 781 993\" data-label=\"Text\"><p>159 Schmitt, Heinr., Gasth., Reichartshausen<br/>161 Schmitt, Karl, Baumater., Unterschwarzach<br/>126 Schneckenburger, Karl, Kohlen<br/>150 Schöneber, Herm., Gemischtwr., Asbach.<br/>174 Schumacher, Hr., Ratschr., Neunkirchen<br/>182 Schwarzacherhof, Zweiganstalt<br/>184 Schwelckert, Otto Adam<br/>215 Seifert, Karl, Kfm., Neunkirchen<br/>136 Senn, Adolf, Autoreparaturen<br/>207 Sold, K. Fr., Gasth. z. d. drei Königen<br/>164 Sold, Karl, Bäcker, Ortsgr. d. NSDAP.<br/>147 Sparkasse, öff., Eberbach, Neunkirchen<br/>168 Stähle, Georg, Metzgerei, Neunkirchen<br/>137 Stumpf, Oskar, Bettfedernfabrik<br/>219 Tonwerk Uuterachwarzach, Karl Liebig.<br/>193 Volksdeutsche Mittelstelle, Schwarzacherhof<br/>157 Wolbert, Aug., Kol.-W.<br/>170 Wolf, Phil., Schlosserei, Reichartshausen<br/>201 Ziegelwerk GmbH<br/>208 Ziegler, Hermann, Dr. med.<br/>182 Ziegler, Karl, Autorep., Helmstedter Str. 154<br/>125 Zimmermann Anna Gasth Raltonhronn</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 770 40\" data-label=\"Page-Header\"><p>| 160 Zimmermann, W., Baugesch., Kelchartshausen</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Aglohnen (Kr. Meme')[Ostpreußen]",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "Aglohner Darlehnskassen-Verein eGmbH."
+          },
+          {
+            "extension": "12",
+            "text": "Blyze, Amtsvorsteher, Wannagen"
+          },
+          {
+            "extension": "16",
+            "text": "Einars, Hans, Gastwirt, Garbsten"
+          },
+          {
+            "extension": "1",
+            "text": "Gendarmeriestation Aglohnen"
+          },
+          {
+            "extension": "3",
+            "text": "Killus, Amtsvorsteher, Wannagen"
+          },
+          {
+            "extension": "13",
+            "text": "Klingbeil, Eduard, Bauer, Rooken"
+          },
+          {
+            "extension": "8",
+            "text": "Nikolaus, Erich, Bürgermeister, Paaschken"
+          },
+          {
+            "extension": "5",
+            "text": "NSDAP., Ortsgr.-Leit. Rassau"
+          },
+          {
+            "extension": "11",
+            "text": "Dies., NSV.-Amt f. Volkswohlfahrt"
+          },
+          {
+            "extension": "7",
+            "text": "Szobries, Martin, Wannagen"
+          },
+          {
+            "extension": "6",
+            "text": "Wlegratz, Alfred, Bürgernstr., Grabsten"
+          },
+          {
+            "extension": "2",
+            "text": "Wilks, Johann, Gemeindevorsteher"
+          },
+          {
+            "extension": "10",
+            "text": "Wosylus, Pfarrer"
+          },
+          {
+            "extension": "14",
+            "text": "Zollaufsichtsstelle Piktaschen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Ahaus (Westf.)",
+        "entries": []
+      },
+      {
+        "region_name": "Wes Wes = Wessum (Westf.)",
+        "entries": [
+          {
+            "extension": "351",
+            "text": "Ahaus-Ensch. Eisenbahngesellschaft"
+          },
+          {
+            "extension": "453",
+            "text": "Alfert-Büscher, Bauer, Ahle 31"
+          },
+          {
+            "extension": "433",
+            "text": "Allgemeine Ortskrankenkasse für Kreis Ahaus"
+          },
+          {
+            "extension": "318",
+            "text": "Althoff, Hch., Bäckerei, Oldenburg-Ammeln"
+          },
+          {
+            "extension": "236",
+            "text": "Amt Wessum"
+          },
+          {
+            "extension": "444",
+            "text": "Amtagerecht"
+          },
+          {
+            "extension": "300",
+            "text": "Amtskasse Wüllen, Wüllen, Reichsstr. 164"
+          },
+          {
+            "extension": "495",
+            "text": "Apotheker Hopmann, Schloßplatz 4"
+          },
+          {
+            "extension": "356",
+            "text": "Arbeitsamt, Wüllenerstr. 5"
+          },
+          {
+            "extension": "272",
+            "text": "Bäuerl. Bez. u. Abs.Gen. eGmbH, Ottenstein"
+          },
+          {
+            "extension": "273",
+            "text": "Bäuerl. Bezugs- u. Abs.-Gen. eGmbH, Wessum"
+          },
+          {
+            "extension": "475",
+            "text": "Bahnhof Wessum"
+          },
+          {
+            "extension": "255",
+            "text": "Bahnhofs-Hotel, Felix Burlage"
+          },
+          {
+            "extension": "487",
+            "text": "Banken, Carl, Getreide"
+          },
+          {
+            "extension": "455",
+            "text": "Banken, Herm., Ottenstein, Ahauser Str. 97"
+          },
+          {
+            "extension": "496",
+            "text": "Bauhaus, Alois, Elektr. Anl., Deldenstr."
+          },
+          {
+            "extension": "257",
+            "text": "Beckering, J. G., Kfm., Markt 4"
+          },
+          {
+            "extension": "555",
+            "text": "Benncker, Fr. H., Spedition"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 774 993\" data-label=\"Text\"><p>452 Betting, F., Mühle<br/>282 Bez. Fürst. d. Reichsnährstandes, Coesf.Str. 83<br/>247 Bienhüls, Aloys, Schloßstr. 3<br/>467 Bienhüls, Heinr., Holzhdlg., Deldenstr. 9<br/>392 Bley, J., Manuf.W., Markt 10<br/>493 F. &amp; J. Böcker, Getreide, Wessum<br/>493 Böcker, Ww. Fr., Gastw. in Wessum<br/>421 Böcker, Heinr., Kfm., Wessum, am Bahnhof<br/>560 Böcker, J., Pol.-Hptwachtm., Wss Bhfstr. 104<br/>202 Bonato, Fr., Kfm., Ottenstein (Westf.)<br/>476 Gebr. Boomers, Fahrzeuge, Coesf.Str. 2<br/>221 Boomers, Jos., Metzger, Ad.HitlerStr. 27<br/>320 Boonk, Bernh., Fuhrw., Wüllen, Stadtl. Str.143<br/>368 Born, Jos., Kondit., Ad.-Hitler-Str. 2<br/>410 Brandis, Felix, R.-A. [N], Marktstr. 14<br/>364 Bröcker, Fr., Autoverm., Wüllener Str.<br/>552 Brömmelhaus, Joh., Kol.-W., Hochstr. 10<br/>514 Brüwer, Aloys, Kolonialwaren<br/>265 Büning, B., Futtermittel, Schorlemmerstr. 1<br/>311 Büning, Bernh., Bauer, Ammeln<br/>461 Runsen, Dr. Theodor, Arzt, Kreuzstr. 8</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 766 980\" data-label=\"Text\"><p><b>220</b> <b>DURUAU, LOUJAE, VANDERENSTR. 52</b><br/><b>329</b> <b>Busch, Hch., Kolonialwr., Ottenstein</b><br/><b>459</b> <b>Busen, F. H., Getreide, v. DeldenStr.22</b><br/><b>337</b> <b>Daume, Carl, Dachdeckermstr., Schulstr. 4</b><br/><b>402</b> <b>van Delden, Anni, Ad.HitlerStr. 91</b><br/><b>401</b> <b>van Delden, Gerrit Jan, Ad.HitlerStr. 93</b><br/><b>251</b> <b>van Delden, Willy Dr., Kreuzstr. 2</b><br/><b>310</b> <b>Demes, Oeing, Ww., Ortwick 20</b><br/><b>212</b> <b>Dennemann, Ww., B., Landw., Wss Averesch46</b><br/><b>416</b> <b>Deutsche Zündholzfabriken AG., Werk Ahaus</b><br/><b>279</b> <b>Döme, Cl., Metzgerei, Marktstr. 20</b><br/><b>380</b> <b>Dües, Bernardine, Holzschuhfr., Wss Aver-</b><br/><b>each 90</b><br/><b>544</b> <b>Dieselbe, Wohn., Jakobistr. 63</b><br/><b>422</b> <b>Dues, Heinrich, Holzschuhfr., Schloßstr. 25</b><br/><b>405</b> <b>Düce, Johann. Schuhfr., Willenerstr. 11</b><br/><b>209</b> <b>Dües, Karl, Fabrikant, Schloßstr. 55</b><br/><b>219</b> <b>Dües, Paul, Schloßstr. 57</b><br/><b>317</b> <b>Efing, Heinr., Bäckerei, Wss Kirchpl. 32</b><br/><b>333</b> <b>Ehlers, Herm., Automobile</b><br/><b>262</b> <b>Eier Ein- u. Verk.Gen. Ottenstein-Ammeloe</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 761 994\" data-label=\"Text\"><p>379 Elfering, B., Manuf.-W., Wessum<br/>365 Elkemann, Hub., Warenhaus, Graes 127<br/>191 Enning, Gerhard, Metzgerei, Markt 7<br/>200 Enning, Jos., Wirtschaft u. Zeitverleih<br/>477 Enning-Harmann, Bauer, Ammeln<br/>184 Ertelt, Dachdeckermstr.<br/>374 Ev. Pfarramt Ahaus-Vreden, Hindenb.Allee 28<br/>106 Fahrzeugwerke B. Orthaus u. Söhne, Wüllen<br/>381 Feldhaus, Aug., Tierheilkund., Wüllenerstr. 12.<br/>166 Feldhues, Casp., Gastwirt, Wüllenerstr. 4.<br/>227 Ferié, Dr. Schorlemmerstr.<br/>290 Flüeck, Jos., Mühlenbes., Coesfelderstr. 60<br/>145 Fürstenau, Dr., Kreistierarzt, Kreuzstr. 4.<br/>332 Gohluegelfarm Elsinuhoef, Wüllen<br/>112 Gehring, Anton, Metzgerei, v.Deldenstr. 18<br/>136 Gendarmerie-Kreisführer Seemann<br/>338 Gerwens, Franz, Eisenwr., Marktstr. 22<br/>362 Gewerbebank, Adolf-Hitler-Str. 4<br/>183 Gombault, Bernh., Konditorei<br/>180 Gombault, Dr. J., Zahnarzt, Ad.HitlerStr. 5<br/>142 Grinowald Fr. Riorwarlar Wassumstr 92</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

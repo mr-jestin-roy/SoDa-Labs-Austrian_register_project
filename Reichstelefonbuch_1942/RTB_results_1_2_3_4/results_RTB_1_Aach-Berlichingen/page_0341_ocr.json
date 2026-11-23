@@ -1,0 +1,678 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 85 993 895\" data-label=\"List-Group\"><ul><li>2 Gutsverwaltung Rzewin</li><li>4 Ostpr. Landgesellsch. mbH, Gutsverw. Zbyszyno</li><li>1 Reichsbahn, Güterabfertigung</li></ul></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Bach (Lechtal)[Tirol]",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "Gastwirtschaft Hermann Heel, Bach, Nr. 43"
+          },
+          {
+            "extension": "1",
+            "text": "Landesbauführung"
+          },
+          {
+            "extension": "3",
+            "text": "Oskar u. Benjamin Scheidle, Autowerkstatt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Bacharach (Rhein) [Rheinpr.]",
+        "entries": [
+          {
+            "extension": "265",
+            "text": "Adams, Jakob, Fuhruntern., Spurgasse 6"
+          },
+          {
+            "extension": "115",
+            "text": "Agentur d. Köln-Düsseldorffer Dampfschiff."
+          },
+          {
+            "extension": "104",
+            "text": "Dieselbe in Niederheimbach"
+          },
+          {
+            "extension": "215",
+            "text": "Apotheke Binz, Koblenzerstr."
+          },
+          {
+            "extension": "114",
+            "text": "Bacharacher Volksbank"
+          },
+          {
+            "extension": "220",
+            "text": "Bast, Wilh., Metzgerei"
+          },
+          {
+            "extension": "239",
+            "text": "Bastian, Ww. Chr., Weinhdlg., Apostelhofk."
+          },
+          {
+            "extension": "246",
+            "text": "Bastian, Fritz, Weingut, Oberstr. 63"
+          },
+          {
+            "extension": "212",
+            "text": "Bastian, Heinrich Otto, Wein, Langstr. 48"
+          },
+          {
+            "extension": "105",
+            "text": "Baumann, Helm., Weingutsbes., MainzerStr."
+          },
+          {
+            "extension": "179",
+            "text": "Bernhard, H., Ing., St. Goar, Kobl. Str. 7"
+          },
+          {
+            "extension": "225",
+            "text": "Blüchertal-Steeg, Weinhaus, Lieschied"
+          },
+          {
+            "extension": "111",
+            "text": "Borniger, Karl, Buchdr., Blücherstr. 8"
+          },
+          {
+            "extension": "256",
+            "text": "Borniger, Phil., Weingutsbes., Steeg"
+          },
+          {
+            "extension": "243",
+            "text": "Braun, A., Feink., Oberheimbach, Schart.Str."
+          },
+          {
+            "extension": "109",
+            "text": "Bürgermeister, Breitscheid"
+          },
+          {
+            "extension": "250",
+            "text": "Bürgermeister, Manubach"
+          },
+          {
+            "extension": "204",
+            "text": "Bürgermeister, Niederheimbach"
+          },
+          {
+            "extension": "253",
+            "text": "Bürgermeister, Oberdiebach"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"223 0 998 993\" data-label=\"List-Group\"><p>157 Bürgermeister, Steeg<br/>124 Bürgermeisteramt, Stadt u. Land<br/>150 Bungert, Hans, Gartenbau, Oberstr. 19<br/>147 Burg Sooneck, Schloßverwaltung<br/>(240) Garstensen, Weinbaudir., Mainzer Str. 16<br/>281 Orell, Joh., Metzgermstr., Oberstr. 16.<br/>208 Cramer, Ww. H. C., Pension, Stadtm. 18<br/>251 Eberhard, Ad., II. Ehrenbürgermstr., Steeg<br/>134 Felten u. Guilleaume, Carlswerk AG, Lang-<br/>gasse 23<br/>285 Fendel I, Ferd., Gastw., Niederheimbach.<br/>191 Fendel, Ferd., Wcingut, Niederheimbach<br/>232 Fendel Erben, J. O., Petersackerhof.<br/>136 J. J. Fendel &amp; Co., Weingroßhandel, Steeg<br/>Haus Nr. 34. T Fendel Bacharachrhein<br/>222 Fischel jr., M., Weinhdlg., Benzin, Öle<br/>193 Frickhofen II, St., Metzger, Niederheimbach,<br/>Rheinstr.<br/>(257) Fülber, Pet., Kellerei, Oberstr. 3<br/>201 Georg Geiling &amp; Co. Aktiengesellschaft, Sekt-<br/>kellerei Bacharach a. Rhein</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"221 0 994 987\" data-label=\"List-Group\"><ul style=\"list-style-type: none; padding-left: 0;\"><li>199 Gendarmerieposten I</li><li>139 Gendarmerieposten II</li><li>188 Gendarmerieposten III</li><li><b>238 Götz, Hch., Weingutsbes., Koblenzer Str. 26</b></li><li>269 Grund, Emil, Maurermstr., Oberdiebach, Dorfstraße 1b</li><li>254 Günster, Frau, Obst, Oberstr. 4</li><li>153 Haus Gerold, Fremdenheim, Fleischstr.</li><li><b>161 Haus Utsch, Koblenzer Str. 7</b></li><li>168 Hauser, Wilh., Metzgerei, Langstr. 46</li><li>267 Heinen, F., Kol.-W., Oberheimbach, Markt</li><li>261 Heinzen, Al., Metzg., Niederheimbach, Rheinstraße</li><li>159 Hertzig, Alfred, Dir., Blücherstr. 20</li><li>264 Heisecke, Fritz, Eisenhdlg., Blücherstr. 14</li><li>227 Herter, Ww. Jak., Bäckerei, Lange Str.</li><li><b>241 Heß, Heinr., Küfermstr., Steeg.</b></li><li>178 Heß, Johann, Autovermiet., Oberstr. 35</li><li>112 Heß, Rudolf, Konditorei, Oberstr. 25</li><li>183 Hölz, Ferd., Ww., Oberdiebach</li><li>153 Hohmann, Anton, Elektromstr.</li></ul></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"220 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>262</td>\n<td>Hotel Blüchertal, Oberstr. 38</td>\n</tr>\n<tr>\n<td>141</td>\n<td>Hotel Burg Sooneck, Niederheimbach</td>\n</tr>\n<tr>\n<td>255</td>\n<td>Hotel Gelber Hof, H. Mades, Blücherstr. 26</td>\n</tr>\n<tr>\n<td>205</td>\n<td>Hotel Herbrecht, Am Bahnhof *</td>\n</tr>\n<tr>\n<td>180</td>\n<td>Hotel Kalter Keller, Langstr. 7</td>\n</tr>\n<tr>\n<td>151</td>\n<td>Hotel Pfälzer Hof, Niederheimbach</td>\n</tr>\n<tr>\n<td>248</td>\n<td>Hotel Rheinhotel, Lange Str. 48</td>\n</tr>\n<tr>\n<td>146</td>\n<td>Hotel zum Kranenturm, Rheinfront</td>\n</tr>\n<tr>\n<td>135</td>\n<td>Hotel zur Rose, Marktstr. 8</td>\n</tr>\n<tr>\n<td>206</td>\n<td><b>Hütwohl, Jacob, Weinbau u. Weinhandel, Steeg<br/>bei Bacharach. T Hütwohl Bacharach P Köln 787</b></td>\n</tr>\n<tr>\n<td>142</td>\n<td>Jäger, Ernst, Kolonialwr., Oberstr. 60</td>\n</tr>\n<tr>\n<td>137</td>\n<td>Jäger, Karl, Bäcker, Nauheim-Str. 1</td>\n</tr>\n<tr>\n<td>162</td>\n<td>Jörg, Heinr., Bäckerei, Niederheimbach</td>\n</tr>\n<tr>\n<td>216</td>\n<td>Jost, Adam, Weingutsbes., Oberstr. 14.</td>\n</tr>\n<tr>\n<td>176</td>\n<td>Jost, Josef, Metzgerei, Oberstr. 34.</td>\n</tr>\n<tr>\n<td>155</td>\n<td>Jost, Ww. Phil., Küchengerate</td>\n</tr>\n<tr>\n<td>165</td>\n<td>Jugendherberge, Burg Stahleck</td>\n</tr>\n<tr>\n<td>247</td>\n<td>Kaiser, Dr., Arzt, Oberstr. 1.</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Katholisches Schwesterhaus</td>\n</tr>\n<tr>\n<td>140</td>\n<td><b>Wannelins Witte Clotho Blüchertal 261</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 0 993 990\" data-label=\"List-Group\"><ul style=\"list-style-type: none; padding-left: 0;\"><li>116 Kilsbach, Emil, Obst</li><li>223 Gebrüder Knebel, Weinbau, Blücherstr. 15</li><li>185 Knippenbergs Kunstverlag, Oberstr. 11</li><li>113 Kober, Friedr., Metzgerei, Blücherstr.</li><li>196 Kober, Phil. Jak., Weingutsbes., Rheindieb.</li><li>138 Kohr, P., Frau, Niederheimbach, H.-Göring-<br/>Straße 68</li><li>106 Krahe, Revierförster, Niederheimbach</li><li>131 Kreissparkasse</li><li>275 Kröber, Wilh., Holz, Breitscheid</li><li>119 Leininger, St., Manufakturwr.</li><li>238 Lieberz, Christ. Jos., Weinbau, Oberstr. 5</li><li>154 Lieschied, G. W., Weingut Steeg, Dorfstr. 110a</li><li>125 Lieschied, Karl, Bäckerei, Steeg, Blücherstr. 30</li><li>168 Mackenthun, Werner, Obstbau, Rheininsel</li><li>145 Mades, H. W., Buchhdlg., Markt 56</li><li>183 Mai, Karl, Installateur, Oberstr.</li><li>218 Mall &amp; Prass, Weinhdlg., Steeg, Blücherstr. 21</li><li>171 Marbach, Hub., Kfm., Koblenzer Str.</li><li>170 Wilh. Marbach &amp; Söhne KG, Weingut, Ober-<br/>straße 66</li></ul></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"682 796 998 930\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"761 23 784 48\" data-label=\"Page-Header\">5</div><div data-bbox=\"0 13 998 993\" data-label=\"Table\"><table><tr><td>258</td><td>Ortswart Medenscheid</td></tr><tr><td>257</td><td>Ortswart Neurath</td></tr><tr><td>259</td><td>Ortswart Rheindiebach</td></tr><tr><td>260</td><td>Ortswart Winzberg</td></tr><tr><td>189</td><td>Ott, Friedr., Geschäftsf., Mannbach, Dorfstr. 23</td></tr><tr><td>156</td><td>Otto, Heinr. Phil., Gasthof, Manubach</td></tr><tr><td>161</td><td>Pension Haus Utsch</td></tr><tr><td>221</td><td>Pfarramt, Kathol., Bacharach</td></tr><tr><td>184</td><td>Prov.-Neubauabt. Koblenz</td></tr><tr><td>202</td><td>Reichsbahn, Bahnhof Bacharach</td></tr><tr><td>173</td><td>Dies., Güterabfertig.</td></tr><tr><td>195</td><td>Dieselbe, Bahnhof, Güterabt. Niederheinbach</td></tr><tr><td>128</td><td>Reichsfinanzverwalt. Zollamt III, Langestr. 23</td></tr><tr><td>217</td><td>Reichsluftschutzbund e. V., Blücherstr. 20</td></tr><tr><td>122</td><td>Reichspost, Postamt</td></tr><tr><td>228</td><td>Reuter, Ww. Herm., Fischhdlg., Oberstr.</td></tr><tr><td>229</td><td>Reuter, Nikol., Fischhdl., Fleischstr. 3</td></tr><tr><td>263</td><td>Rhein-Nahe-Kraftversorgung, GmbH</td></tr><tr><td>127</td><td>Rudersdorf, Emil, Pfarrer, Oberdiebach</td></tr><tr><td>288</td><td>Scherb, Wilh., Install.</td></tr><tr><td>103</td><td>Schmitt, Franz, Oberstr. 56</td></tr><tr><td>944</td><td>Schmitt, Th. Gasth. Amt Zollstr. 4</td></tr></table></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "251 Verkehrsamt\n  Bacharach",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 10 998 942\" data-label=\"List-Group\"><p>120 VONCK, HILDE, AUFVONCK, VONCK, 2<br/>240 Weinbauamt d. Landesbauernsch., „Rheinland“<br/>163 Weyermanns Gartenbau, Obst<br/>213 Winzerverein Niederheimbach<br/>166 Winzerverein zu Oberdiebach, eGmbH<br/>270 Zettelmeyer, Peter, Fabrikant</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Bachhagel (Bay.)",
+        "entries": [
+          {
+            "extension": "11",
+            "text": "Bürgermeisteramt Zöschingen"
+          },
+          {
+            "extension": "8",
+            "text": "Bunk, Georg, Gastw., Ballhausen"
+          },
+          {
+            "extension": "10",
+            "text": "Darlehenskassenverein eGmuH."
+          },
+          {
+            "extension": "2",
+            "text": "Forstamtsaußenstelle Zöschingen"
+          },
+          {
+            "extension": "3",
+            "text": "Foratverwalter, Staufen."
+          },
+          {
+            "extension": "4",
+            "text": "Gendarmeriestation Oberbechingen."
+          },
+          {
+            "extension": "28",
+            "text": "Hihler, Kath., Hobamme, Ballhausen"
+          },
+          {
+            "extension": "6",
+            "text": "Kästle, Max, Gasthaus, Zöschingen"
+          },
+          {
+            "extension": "27",
+            "text": "Kling, Leonhard, Gastwirt, Hs. Nr. 12"
+          },
+          {
+            "extension": "29",
+            "text": "Mittelschwäbische Überlandzentrale AG"
+          },
+          {
+            "extension": "9",
+            "text": "RAD. f. die wbl. Jgd., Lg. 14/131"
+          },
+          {
+            "extension": "5",
+            "text": "Recht, Georg, Käserel, Burghagel"
+          },
+          {
+            "extension": "1",
+            "text": "Rettenberger, Karl, Gastwirt, Landshausen"
+          },
+          {
+            "extension": "26",
+            "text": "Rettenberger, Meinrad, Baugesch., Landshausen"
+          },
+          {
+            "extension": "7",
+            "text": "Rieblinger, Dr. Jost, Arzt"
+          },
+          {
+            "extension": "19",
+            "text": "Scharpf, Karl, Baugesch., Zöschingen"
+          },
+          {
+            "extension": "12",
+            "text": "Schweizer, Leonhard, Sägewerk"
+          },
+          {
+            "extension": "14",
+            "text": "Wiedenmann, Ed., Gastwirt, Unterbechingen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Bachmanning (Oberdonau)",
+        "entries": [
+          {
+            "extension": "3",
+            "text": "Fellner, Dr. Franz, Arzt"
+          },
+          {
+            "extension": "9",
+            "text": "Forst- und Sägebetrieb BachmanningGes. m. b. H."
+          },
+          {
+            "extension": "4",
+            "text": "Gemeindeamt"
+          },
+          {
+            "extension": "12",
+            "text": "Gendarmerie"
+          },
+          {
+            "extension": "5",
+            "text": "Gruber, Alois, Kroiß Nr., Kaufmann"
+          },
+          {
+            "extension": "2",
+            "text": "Kiener, Fritz, Gutsbesitzer"
+          },
+          {
+            "extension": "11",
+            "text": "Kiemeswenger, Rudolf, Gastwirt"
+          },
+          {
+            "extension": "8",
+            "text": "Mühllleitner, Georg, Meierhof, Hundhagen"
+          },
+          {
+            "extension": "10",
+            "text": "Schmalwieser, Johann, Landesprodukte"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Backnang (wrtb.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 986 944\" data-label=\"Text\"><p>464 <b>Arbeitsamt Ludwigsburg</b> ,Nebenstelle<br/>659 <b>Arnold, K. Th., Dentist</b>, W.-Murr-Allee 69<br/>556 <b>Bacher, Karl</b>, Sägerei, Eugen-Adolf-Str. 9<br/>455 <b>Bacher, Reinh., Arch.</b>, Breuningerstr. 2<br/>495 <b>Backnanger Holzwrfr.</b> Ulr. Schiller &amp; Sohn<br/>423 <b>Backnanger Kunstlederfabrik</b><br/>430 <b>Backnanger Tagblatt</b>,<br/>654 <b>Bäuerle, Gotth., Autoverm.</b>, Heiningen<br/>596 <b>Bäuerle, Maria</b>, Filmtheater<br/>372 <b>Bäuerle, Otto</b>, Baugesch., Zwischenäckerle 29<br/>685 <b>Bahnhofshotel</b><br/>482 <b>v. Bank, Alfred</b>, Glasbläserei, Bismarckstr. 22<br/>690 <b>Bareiß, G., Schreinerei.</b><br/>700 <b>Bay, Pauline</b>, Lebensm., Schillerstr. 47<br/>224 <b>Bay, Richard</b>, Vertr., Marktstr. 13<br/>235 <b>Fr. &amp; Otto Belz</b>, Sägewerk, Unterbrüden<br/>340 <b>Benignus, Reinh.</b>, Gartenbau, Weissacher Str.<br/>365 <b>Benzenhöfer, W.</b>, Bäckerei, Etzwiesenstr. 1<br/>401 <b>Berger, Otto</b>, Bezirksgeometer<br/>660 <b>Bertsch, Dr. A.</b>, Arzt, Hindenburgpl. 4</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and contains no text or markings.\"/></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 792 998 951\" data-label=\"Text\"><p><b>vo: Gutsverwaltung — Backnang</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"9 9 992 972\" data-label=\"List-Group\"><p>835 Beutelsbacher, Karl, Prok., Sulzb. Str. 51<br/>446 Bezirksabgabestelle Backnang<br/>702 Bezirksabgabestelle, Versandhalle Reichenberg-<br/>Oppenweiler<br/>450 Bezirksnotariat II, Weissacher Str. 33<br/>572 Bezirksnotariat Unterweissach<br/>763 Bezirksschulamt, Stuttgarter Str. 103<br/>233 Bleyle, Wilh., Kol.-W., Oberbrüden<br/>225 Bosler, Dr. Alfred, Arzt<br/>473 Boß, Fr., Herrenkleidung, Grabenstr. 1<br/>338 Braun, Friedrich, Hafnermstr., Schillerstr. 46<br/>598 Braun, Karl, Baumstr., Sulzbacherstr.<br/>373 Breckle, Karl, Bäckerei, Wilhelmstr. 21<br/>258 Breitechwerdt, Aug., Zivilingenieur<br/>439 Brenner, Eugen, Autorepar., Stuttg. Str. 41<br/>476 Breuninger, Alfr., Ing., Weißacher Str. 29<br/>680 Breuninger, C., Baugeschäft.<br/>(453) ( Breuninger, Louis, Dir. der J. F. Adolf AG.,<br/>419 ( Eugen-Adolf-Str. 85<br/>260 Breuninger, Ww. Paul, Gartenbaubetrieb<br/>381 Breuninger, Walt., Wilhelmstr. 11</p></div><div data-bbox=\"12 969 519 992\" data-label=\"Page-Footer\"><p>442 D 220 11 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 994\" data-label=\"Text\"><p>345 Bruder, Karl, Studienrat, Ludwigstr. 38<br/>374 Brunold, Jos., Architekt., Schillerstr. 44<br/>713 Bürkle, Erwin, Silberwr.<br/>398 Bürkler, Karl, Metzgerei, Karlstr. 12<br/>216 Burchardt, Dr. Hans, Arzt, Weissacher Str.<br/>371 Burgel, Rich., Radio, Marktstr. 25<br/>583 Butsch, Karl, Sägewerk, Rietenau<br/>573 Butsch, Wilhelm, Lederfabr.<br/>313 Darlehnskasse (J. Schwaderer), Burgstall<br/>742 Daumüller, Karl, Schreinermstr.<br/>776 Dauner, Karl, Geschäftsf., Winnenden<br/>461 Degele, Herm., Sattlerei.<br/>236 Dekanatatamt, Ev.<br/>466 Deutsche Gerbervereinigg. f. Haeres- u. Marine-<br/>bedarf<br/>497 Deutsche Volks- u. Mittelschule<br/>201 Deutsches Rotes Kreuz<br/>337 Diehl, Rud., Kfm., Maubach<br/>635 Dieterich, Jakob, Malerm., Wilhelmstr. 24<br/>(522) Dinkelacker, Fr., Vertr.<br/>592 Dinkelacker Paul Manufaktur</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 993 991\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>619</td>\n<td>Distler, Jon., Eisenhandlung</td>\n</tr>\n<tr>\n<td>523</td>\n<td>Dorn, Julius, Drogerie</td>\n</tr>\n<tr>\n<td>781</td>\n<td>Eckstein, Klothilde, Ww., Schlageterstr.</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Eckstein, Kurt, Vertreter, Gerberstr. 29</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Ehrmann, Friedr., Bez.-Not., Gartenstr. 34</td>\n</tr>\n<tr>\n<td>207</td>\n<td>Eisele, Eugen, Prok., Eugen-Adolf-Str. 108</td>\n</tr>\n<tr>\n<td>290</td>\n<td>Eisenmann, R., Malerm., Breuninger Str. 17</td>\n</tr>\n<tr>\n<td>220</td>\n<td>Ekert, Herm., Ing., Walksteige 39</td>\n</tr>\n<tr>\n<td>255</td>\n<td>Ellinger, Eug., Musikh., E.-Adolf-Str. 55</td>\n</tr>\n<tr>\n<td>271</td>\n<td>Erb, Adolf, Gemischtwaren, Großaspach</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Erb, Gotthilf, Kupferschmiede.</td>\n</tr>\n<tr>\n<td>605</td>\n<td>Erlenbusch, Karl, Autoverm., Unterweissach</td>\n</tr>\n<tr>\n<td>330</td>\n<td>Esswein, Theodor, Dentist, Aspacher Str. 40</td>\n</tr>\n<tr>\n<td>270</td>\n<td>Ev. Kirchenpflege, Ed.-Breuninger-Str. 41</td>\n</tr>\n<tr>\n<td>727</td>\n<td>Ev. Pfarramt, Unterweissach</td>\n</tr>\n<tr>\n<td>676</td>\n<td>Faber, R.-A., Eduard-Breuninger-Str. 1</td>\n</tr>\n<tr>\n<td>275</td>\n<td>Fahrbach, Friedr., mech. Glaserei</td>\n</tr>\n<tr>\n<td>682</td>\n<td>Fahrbach, Wilh., Fensterfabrkt., Grabenstr. 9</td>\n</tr>\n<tr>\n<td>408</td>\n<td>Fauß, Dr., Reg.-Vet.-Rat, Limpurgweg 2</td>\n</tr>\n<tr>\n<td>512</td>\n<td>Feigion, Karl, Metzgerei, Wilhelmstr. 28</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Felger, Alb., Gipsermstr., Sulzb. Str. 109</td>\n</tr>\n</tbody>\n</table>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>788</th>\n<th>Felle, Fritz, Gasthaus</th>\n</tr>\n<tr>\n<th>376</th>\n<th>Feucht, Karl, Baumat., Obere Bahnhofstr. 4</th>\n</tr>\n<tr>\n<th>268</th>\n<th>Ders., Wohn., Stuttgarter Str. 34</th>\n</tr>\n<tr>\n<th>608</th>\n<th>Feyl, Rosine, Hebamme, Maubach</th>\n</tr>\n<tr>\n<th>411</th>\n<th>Fischer, Friedrike, D.-Konfekt., Schillerstr. 9</th>\n</tr>\n<tr>\n<th>322</th>\n<th>Fischer, Karl, Maßschneid., Rosenstr. 10</th>\n</tr>\n<tr>\n<th>458</th>\n<th>Fischer, Rich., Zimmergesch.</th>\n</tr>\n<tr>\n<th>474</th>\n<th>Fleischer, Walt., Photo, Erbstetterstr. 4</th>\n</tr>\n<tr>\n<th>215</th>\n<th>Forstamtsaußenstelle Unterweissach</th>\n</tr>\n<tr>\n<th>467</th>\n<th>Freitag, Friedr., Baugesch.</th>\n</tr>\n<tr>\n<th>231</th>\n<th>Friederich, Dr. L., Arzt, Albertstr. 1</th>\n</tr>\n<tr>\n<th>761</th>\n<th>Fritz, Heinr., Elektr. Anl., Waldrems</th>\n</tr>\n<tr>\n<th>530</th>\n<th>Fritz, Max, Studienrat, Schöntaler Str.</th>\n</tr>\n<tr>\n<th>356</th>\n<th>Frohmaier, Dr. Anna, Ärztin, Hindenb. Pl. 4</th>\n</tr>\n<tr>\n<th>331</th>\n<th>Funk, G., Schäftemacher, Kesselgasse 9</th>\n</tr>\n<tr>\n<th>540</th>\n<th>Gaiser, Karl, Versich., Eugen-Adolf-Str. 53</th>\n</tr>\n<tr>\n<th>592</th>\n<th>Gastst. Adler, Holzwarth, Waldrems</th>\n</tr>\n<tr>\n<th>498</th>\n<th>Gastst. Eintracht, E. Jung, Gartenstr. 149</th>\n</tr>\n<tr>\n<th>595</th>\n<th>Gastst. Eisenbahn, Holzwarth, Breuninger Str. 2</th>\n</tr>\n<tr>\n<th>741</th>\n<th>Gastst. Engel, Alb. Nesper</th>\n</tr>\n<tr>\n<th>000</th>\n<th>Anatol Hirsch Duda Tr...</th>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\"><table><tr><td>771</td><td>Gastst.</td><td>Krone, Konr. Renz, Unterweissach</td></tr><tr><td>363</td><td>Gastst.</td><td>Hugo Kurz</td></tr><tr><td>273</td><td>Gastst.</td><td>Lamm, Michelfelder jr., Großaspach</td></tr><tr><td>673</td><td>Gastst.</td><td>Limpurg, Aspacher Str. 57</td></tr><tr><td>560</td><td>Gastst.</td><td>Linde, F. Hartner, Stuttg. Str. 58</td></tr><tr><td>276</td><td>Gastst.</td><td>Löwen, K. Lutz, Marktstr. 22</td></tr><tr><td>227</td><td>Gastst.</td><td>Löwen, E. Scheub, Oppenweiler</td></tr><tr><td>720</td><td>Gastst.</td><td>Ochsen, Karl Wild</td></tr><tr><td>524</td><td>Gastst.</td><td>Rößle, H. Klopfer, Stuttg. Str. 34</td></tr><tr><td>274</td><td>Gastst.</td><td>Rupp, Alb., z. Ochsen, Großaspach</td></tr><tr><td>610</td><td>Gastst.</td><td>Sauer, Julie, z. Anker</td></tr><tr><td>277</td><td>Gastst.</td><td>Rob. Schneider, z. Bären, Marktstr. 14</td></tr><tr><td>481</td><td>Gastst.</td><td>Sonne, Karl Renner, Großaspach</td></tr><tr><td>211</td><td>Gastst.</td><td>Sonne, K. Wiedmann, Oppenweiler</td></tr><tr><td>729</td><td>Gastst.</td><td>Stern, A. Eckstein, Gerberstr. 2</td></tr><tr><td>218</td><td>Gastst.</td><td>Traube, R. Preßler, Aspacher Str. 23</td></tr><tr><td>384</td><td>Gastst.</td><td>Thomas Volz, z. Dt. Kaiser</td></tr><tr><td>(426)</td><td>Gastst.</td><td>Waldhorn, L. Friedrich</td></tr><tr><td>362</td><td>Gastst.</td><td>Waldhorn, W. Holzwarth, Maubach</td></tr><tr><td>334</td><td>Gemeindehaus,</td><td>evang., E.-Breuninger-Str. 13</td></tr><tr><td>493</td><td>Gemeindeverwaltung</td><td>Allmersbach</td></tr></table></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 937 980\" data-label=\"Table\">\n<table>\n<thead>\n<tr>\n<th>200</th>\n<th>Gemeindeverwaltung</th>\n<th>Altenbachtal, Maiwald</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>740</td>\n<td>Gemeindeverwaltung</td>\n<td>Bruch</td>\n</tr>\n<tr>\n<td>307</td>\n<td>Gemeindeverwaltung</td>\n<td>Burgstall</td>\n</tr>\n<tr>\n<td>769</td>\n<td>Gemeindeverwaltung</td>\n<td>Ebersberg</td>\n</tr>\n<tr>\n<td>295</td>\n<td>Gemeindeverwaltung</td>\n<td>Erbstetten</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Gemeindeverwaltung</td>\n<td>Großaspach</td>\n</tr>\n<tr>\n<td>691</td>\n<td>Gemeindeverwaltung</td>\n<td>Heiningen</td>\n</tr>\n<tr>\n<td>779</td>\n<td>Gemeindeverwaltung</td>\n<td>Lippoldsweiler</td>\n</tr>\n<tr>\n<td>248</td>\n<td>Gemeindeverwaltung</td>\n<td>Oberbrüden</td>\n</tr>\n<tr>\n<td>740</td>\n<td>Gemeindeverwaltung</td>\n<td>Oberweissach-Bruch</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Gemeindeverwaltung</td>\n<td>Reichenberg</td>\n</tr>\n<tr>\n<td>283</td>\n<td>Gemeindeverwaltung</td>\n<td>Rietenau</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Gemeindeverwaltung</td>\n<td>Steinbach</td>\n</tr>\n<tr>\n<td>204</td>\n<td>Gemeindeverwaltung</td>\n<td>Strümpfelbach</td>\n</tr>\n<tr>\n<td>470</td>\n<td>Gemeindeverwaltung</td>\n<td>Unterbrüden</td>\n</tr>\n<tr>\n<td>212</td>\n<td>Gemeindeverwaltung</td>\n<td>Unterweissach</td>\n</tr>\n<tr>\n<td>228</td>\n<td>Gemeindeverwaltung</td>\n<td>Waldrems</td>\n</tr>\n<tr>\n<td>757</td>\n<td>Gendarmerie</td>\n<td>Backnang, Stiftshof 16</td>\n</tr>\n<tr>\n<td>669</td>\n<td>Gendarmerie</td>\n<td>Oppenweiler, Hauptstr.</td>\n</tr>\n<tr>\n<td>563</td>\n<td>Gendarmerie</td>\n<td>Unterbrüden</td>\n</tr>\n<tr>\n<td>321</td>\n<td>Geng, E., Fuhrunternehmen,</td>\n<td>Großaspach</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with minor scanning artifacts.\"/></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 727 994\" data-label=\"Text\"><p>309 Genkinger, Leopold, Möbel, Burgstall<br/>697 Gerichtsvollzieherherstelle, Schillerpl. 3<br/>(216) Gesundheitsamt (Staatl.)<br/>336 Gewerbliche Berufsschule<br/>682 Gix, Hermann, Dentist<br/>264 Gläser, Adolf, Baumstr., Großaspach<br/>571 Gläser, Friedr., Autoverm., Oppenweiler,<br/>Burggartenstraße<br/>766 Gläser, Karl, Baugesch., Großaspach<br/>261 Gläser, Lukas, Baugeschäft, Großaspach<br/>733 Gläser, Wilh., Bäckerei, Bismarckstr. 6<br/>332 Glöck, Karl, Masch.-Bau, Gerberstr. 51<br/>244 Glück, Gotthilf, Baumeister, Albertstr. 16<br/>463 K. u. E. Gockenbach, Käferei<br/>278 Gonsior, Walter, Malermstr., Rosenstr. 7<br/>784 Greß, Erw., Dahlienw. 16<br/>483 Grom, Josef, Maler, Wilhelmstr. 2<br/>223 Groß, Fritz, Metzgerei, Marktstr. 21<br/>688 Groß, Dr. Walter, Arzt.<br/>653 Große, Emilie, Hebamme, Biegel 2<br/>737 Gruber, Hugo, Gastst., Uhlandstr. 13<br/>K15 Gröhle, Hermann <i>Claminochthrus Ananasoides</i></p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 778 994\" data-label=\"Text\"><p>387 Gundel, Eugen, Gemischtwr., Hügelstr. 21<br/>490 Haag, J., Manufakturwr.<br/>529 Haag, Luise, Obst, Wilhelmstr. 12<br/>604 Haar, Friedr., Käferei<br/>519 Haas, Josef, Architekt, Gneisenaustr. 1<br/>603 Hackenschuh, Eugen, Korkwfbr.<br/>208 Häberle, Ernst, Metzgerei, Oppenweiler<br/><b>(452) Häcker, E., Dir. der J. F. Adolf AG., Eugen-<br/>Adolf-Str. 102</b><br/><b>346 Fritz Häuser A.-G., Lederfabrik</b><br/>640 Dies., Betrieb, Gartenstr.<br/>631 Häuser, Karl, Lederfabrik<br/>350 Häuser, Otto, Gemischtwr., Unterweissach,<br/>Kirchberg 14<br/>214 Häuser, Rich., Gasths. z. Hirsch, U.-Weissach.<br/>240 Häuser, Robert, Lederfbr., W. Murrallee 7<br/>395 Häuser, Rudolf, Bauer, Hagenbach.<br/><b>422 Häuser-Vogt, Gottlieb, Lederfabrik, Backnang<br/>(Württemberg), Gerberstr. 35</b><br/>656 Häußermann, G., Gartenbau, Oppenweiler<br/>310 Häußermann, Gotth. Landw. Wolfshälden</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 780 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>454</td>\n<td><b>Hu.</b> <b>Mauner &amp; Söhne, Malergesch., Zwischen-</b><br/><b>äckerle 1</b></td>\n</tr>\n<tr>\n<td>478</td>\n<td><b>Hager, Dr. Lotte, Ärztin, Schillerstr. 18</b></td>\n</tr>\n<tr>\n<td>616</td>\n<td><b>Hahn, Emil, Fahrräder</b></td>\n</tr>\n<tr>\n<td>219</td>\n<td><b>Haug, Emil, Eisenhandlung</b></td>\n</tr>\n<tr>\n<td>775</td>\n<td><b>Hammer, Georg, Teigwaren</b></td>\n</tr>\n<tr>\n<td>253</td>\n<td><b>Hefelen, H., Ger.-Rat, auf d. Hagenb. 8</b></td>\n</tr>\n<tr>\n<td>561</td>\n<td><b>Heil- u. Mineralbad Rietenau</b></td>\n</tr>\n<tr>\n<td>666</td>\n<td><b>Henninger, Margarete, Erholungsheim</b></td>\n</tr>\n<tr>\n<td>302</td>\n<td><b>Herrmann, W., Gartenbau, AspacherStr. 64</b></td>\n</tr>\n<tr>\n<td>716</td>\n<td><b>Hirschmann, Ad., Prok., Giebelau 2</b></td>\n</tr>\n<tr>\n<td>392</td>\n<td><b>Hirschmiller, Aug., R.-A., Schillerstr. 44</b></td>\n</tr>\n<tr>\n<td>730</td>\n<td><b>Hodum, Albr., Kfin., Gerberstr. 52</b></td>\n</tr>\n<tr>\n<td>594</td>\n<td><b>Hodum, Arth., Ww., Schöntaler Str. 2</b></td>\n</tr>\n<tr>\n<td><b>670</b></td>\n<td><b>Hodum, A., Lederfabrik, Backnang (Wrttb.),</b><br/><b>Wilhelmstr. 43</b></td>\n</tr>\n<tr>\n<td>263</td>\n<td><b>Hoelderlin, Otto, Eisen, Großaspach</b></td>\n</tr>\n<tr>\n<td>303</td>\n<td><b>Holz, Alb., Möbelfbr., Burgstall</b></td>\n</tr>\n<tr>\n<td>645</td>\n<td><b>Holzhäuser, Max, Sturmführer, Schönt. Str. 43</b></td>\n</tr>\n<tr>\n<td>590</td>\n<td><b>Holzwarth, Dr. Erwin, Stadttierarzt</b></td>\n</tr>\n<tr>\n<td><b>686</b></td>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 777 993\" data-label=\"Text\"><p>591 <b>Holzwarth, Herm., Massage, Albertstr. 7</b><br/>203 <b>Holzwarth, Wilh., Schuhfr., Maubach</b><br/>245 <b>Horn, Chr., Seemühle,</b><br/>407 <b>Hotel zur Post, Emil Wintermantel</b><br/>296 <b>Huissel, Ernst, Metzgerei, Unterweissach</b><br/>672 <b>Idler, Ernst, Metzgerei, Gerberstr. 13</b><br/>438 <b>Isenflamm sen., Albert, Eisenhdlg.</b><br/>354 <b>Jäger, Herm., Schreiner, Schönt. Str. 29</b><br/>254 <b>Jernß, Eugen, Gerberstr. 47</b><br/>201 <b>Jordan, G., Maubacher Str.</b><br/>377 <b>Jung, Christ., Gasth. Hirsch, Unterbrüden</b><br/>541 <b>Carl Kaelble G. m. b. H., Maschinen- und Mo-</b><br/><b>torenfabrik, Backnang</b><br/>510 <b>Kaelble, Herm., Ing., Auf d. Hagenbach 27</b><br/>646 <b>Carl Kaess GmbH, Lederfr.,</b><br/>202 <b>KäB, Carl, Fbrkt.</b><br/>526 <b>Kaffee Friedrich, Fr. Philipp, Steinbach</b><br/>396 <b>Kaffee Gebhardt, Otto, Sulzbacher Str. 1</b><br/>418 <b>Kaffee Müller, Karl, Schillerpl. 12</b><br/>593 <b>Kaffee Traub, Karl, Unterschöntal</b><br/>600 <b>Kaffee Windmann, Ulrich, Schillerpl. 10</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 775 991\" data-label=\"Text\"><p>403 Kapphan, Ferdinand, Hüte, Schillerstr. 25<br/>651 Kapphan, Karl, Vertr., Dahlienweg 2<br/>652 Kath. Stadtpfarramt, Ob. Bahnhofstr. 26<br/>588 Keck, Karl, Möbelschreinerei<br/>424 Keitel, Dr. Werner, R.-A.[N], Marktstr. 38<br/>282 Kemmler, J., Papierhdlg., Aspacher Str. 7<br/>323 Kempf, P., Buchdruck., beim Friedhof<br/>780 Kinzelbach, Emma, Schillerstr. 3<br/>609 Kinzer, Herm., Gerbstoffe, Schillerstr. 18 a<br/>247 Klaß, Christian, Marktstr. 10<br/>266 Klenk, Christian, Gärtnerei, Großaspach<br/>339 Klenk, Karl, Malergeschäft<br/>622 Klotz, Rob., Flaschnermstr.<br/>489 Knapp, J., Wagenbau<br/>615 Kneer, Otto, Autoverm., Kesselgasse 7<br/>379 Koch u. Böttinger, Gipser, Adolfstr. 39<br/>413 Koch, Jakob, Beim Bahnwarthau 3, Erbstetten<br/>297 Koch, Wilh., Vertr., Hügelstr. 10<br/>694 Kontrollst. 7 d. Landesvers.-Anst., Größeweg<br/>762 Koppert, Dr. W., Justiziar, Bismarckstr. 13<br/>300 Kraftwerk, Altwürtt. AG., Umspannw. Mau-</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"77 0 150 19\" data-label=\"Page-Header\">WUOL</div><div data-bbox=\"0 22 775 974\" data-label=\"List-Group\"><p>625 Dass., Bez.-Stelle, Marktstr. 36<br/>717 Krankenpflegeverein, Schillerplatz 2<br/>368 Krauß, Alfr., Wirtschaft, Burgstall<br/>358 Krauter, Karl, Versich., Rötclensweg 11<br/>658 Krauth, Herm., Dentist, Unterweissach<br/>798 Krautter, W., Bäckerei, Unterweissach<br/>460 Kreditverein Backnang eGmbH, Schillerstr. 18<br/>612 Kreiskrankenhaus, Dr. Krische<br/>351 Kreisverband<br/>397 Kreß, Karl, Archit., Burgpl. 3<br/>696 Kreutzmann, K., Buchhdlg.,<br/>678 Kriegsgefangenenlager, Aspacher Str. 65<br/>420 Kroll, Simon, Install., Stuttg. Str. 64<br/>731 Krüger, Erich, Major, Blütengarten 22<br/>576 Kübler, Wilh., Steinfbr., Maubach<br/>628 Kühnle, Friedr., Metzgerei<br/>627 Kühnle, Gottl., Germannsweiler<br/>311 Kugler, J., Mühlenbau, Burgstall<br/>683 Kummerer, G. F., Eisenwr., Karlstr. 24<br/>575 J. Kummerer &amp; Co., Nähmaschinen</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

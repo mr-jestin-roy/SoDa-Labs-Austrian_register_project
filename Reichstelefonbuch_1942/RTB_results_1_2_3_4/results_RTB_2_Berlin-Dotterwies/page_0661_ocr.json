@@ -1,0 +1,1394 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"180 10 998 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>62 92 68</td>\n<td>Schmidt, B., Ing.,</td>\n<td>Neuk Thiem.-Str. 15</td>\n</tr>\n<tr>\n<td>71 58 33</td>\n<td>Schmidt, B., Ing.,</td>\n<td>Schb Reppichstr. 30</td>\n</tr>\n<tr>\n<td>80 94 02</td>\n<td>Schmidt, B., Buchh.,</td>\n<td>Tgl Brachfeldw. 26</td>\n</tr>\n<tr>\n<td>30 46 14</td>\n<td>Schmidt, B., Kfm.,</td>\n<td>Chb 1 Berl. Str. 56</td>\n</tr>\n<tr>\n<td>39 68 62</td>\n<td>Schmidt, B., Kohlen,</td>\n<td>NW 87, Alt-Moabit 79</td>\n</tr>\n<tr>\n<td>73 71 32</td>\n<td>Schmidt, B., Neuh.,</td>\n<td>Mfde Berl. Str. 15</td>\n</tr>\n<tr>\n<td>66 87 20</td>\n<td>Schmidt, B., Dent.,</td>\n<td>SW 61, Blücherstr. 3</td>\n</tr>\n<tr>\n<td>87 51 36</td>\n<td>Schmidt, B., Lastw.-Anhäng.,</td>\n<td>Wilm Brandenburgische Str. 74</td>\n</tr>\n<tr>\n<td>24 50 75</td>\n<td>Schmidt, B., Schuhm.,</td>\n<td>W 50, Marb. Str. 15</td>\n</tr>\n<tr>\n<td>67 28 50</td>\n<td>Schmidt, Bernhard,</td>\n<td>Leihbüch., SO 18, Neanderstr. 22</td>\n</tr>\n<tr>\n<td>30 46 62</td>\n<td>Schmidt, B., Sekr.,</td>\n<td>Chb 1 Eosanderstr. 27</td>\n</tr>\n<tr>\n<td>92 18 21</td>\n<td>Schmidt, Berta,</td>\n<td>W 15, Darmstädter Str. 1</td>\n</tr>\n<tr>\n<td>53 12 26</td>\n<td>Schmidt, Berta,</td>\n<td>Café, NO 18, Friedrichshain 33</td>\n</tr>\n<tr>\n<td>91 01 67</td>\n<td>Schmidt, Berta,</td>\n<td>Milch, Chb Bleibtreustr. 48</td>\n</tr>\n<tr>\n<td>42 10 25</td>\n<td>Schmidt, Bertha,</td>\n<td>C 2, Weinmeisterstr. 39</td>\n</tr>\n<tr>\n<td>44 90 23</td>\n<td>Schmidt, Berth.,</td>\n<td>Dent., N 113, Behmstr. 79</td>\n</tr>\n<tr>\n<td>61 55 08</td>\n<td>Schmidt, Betty,</td>\n<td>Kol.-W., SW 68, Seb.-Straße 78</td>\n</tr>\n<tr>\n<td>60 17 41</td>\n<td>Schmidt R</td>\n<td>Kfm Zwolak Antonstr 9</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "71",
+            "text": "75 22 Schmidt, Bruno., Fris., Schö Eisenacher Straße 77"
+          },
+          {
+            "extension": "25",
+            "text": "74 86 Schmidt, Bruno, W 62, Lützowufer 22"
+          },
+          {
+            "extension": "72",
+            "text": "81 08 Schmidt, Bruno, Stegl Fregestr. 37"
+          },
+          {
+            "extension": "91",
+            "text": "18 40 Schmidt, B., W 15, Brandenb. Str. 26"
+          },
+          {
+            "extension": "87",
+            "text": "32 33 Schmidt, Br., Dr. Ing., Wilm Helmst. Str. 5"
+          },
+          {
+            "extension": "47",
+            "text": "29 30 Schmidt, Bruno, Abt. Leit., Hmsd Moltke- straße 14"
+          },
+          {
+            "extension": "76",
+            "text": "09 00 Schmidt, B., Apoth., Lt Drakestr. 26a"
+          },
+          {
+            "extension": "86",
+            "text": "37 97 Schmidt, Br., Amtsrat, Wilm Barstr. 24"
+          },
+          {
+            "extension": "39",
+            "text": "22 67 Schmidt, B., Apoth., NW 87, Sol. Str. 3"
+          },
+          {
+            "extension": "97",
+            "text": "51 08 Schmidt, B., Friseur, Hal Paulsb. Str. 1"
+          },
+          {
+            "extension": "55",
+            "text": "01 06 Schmidt, B., Bäck., Rmb Leopoldstr. 1"
+          },
+          {
+            "extension": "37",
+            "text": "74 38 Schmidt, B., Beam., Staa Ungewitt. W. 68"
+          },
+          {
+            "extension": "41",
+            "text": "27 12 Schmidt, B., Därme, N 54, Zehden. Str. 12"
+          },
+          {
+            "extension": "72",
+            "text": "22 27 Schmidt, B., Dentist, Stegl Ahornstr. 19"
+          },
+          {
+            "extension": "30",
+            "text": "85 56 Schmidt, B., Dir., Tgl Alt-Tegel 17"
+          },
+          {
+            "extension": "62",
+            "text": "85 26 Schmidt, B., Gürtel, Neuk Reuterstr. 90"
+          },
+          {
+            "extension": "70",
+            "text": "98 58 Schmidt, B., Droschke, Ltra Freiertweg 35"
+          },
+          {
+            "extension": "35",
+            "text": "43 95 Schmidt, Bruno, Fuhrunt., NW 21, Oldenb. Straße 8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "02",
+            "text": "31"
+          },
+          {
+            "extension": "56",
+            "text": "05"
+          },
+          {
+            "extension": "76",
+            "text": "54"
+          },
+          {
+            "extension": "53",
+            "text": "57"
+          },
+          {
+            "extension": "55",
+            "text": "34"
+          },
+          {
+            "extension": "62",
+            "text": "40"
+          },
+          {
+            "extension": "93",
+            "text": "35"
+          },
+          {
+            "extension": "47",
+            "text": "04"
+          },
+          {
+            "extension": "44",
+            "text": "56"
+          },
+          {
+            "extension": "73",
+            "text": "18"
+          },
+          {
+            "extension": "75",
+            "text": "98"
+          },
+          {
+            "extension": "59",
+            "text": "24"
+          },
+          {
+            "extension": "56",
+            "text": "22"
+          },
+          {
+            "extension": "35",
+            "text": "57"
+          },
+          {
+            "extension": "63",
+            "text": "72"
+          },
+          {
+            "extension": "84",
+            "text": "62"
+          },
+          {
+            "extension": "17",
+            "text": "72"
+          },
+          {
+            "extension": "77",
+            "text": "24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "59",
+            "text": "33"
+          },
+          {
+            "extension": "39",
+            "text": "19"
+          },
+          {
+            "extension": "84",
+            "text": "32"
+          },
+          {
+            "extension": "87",
+            "text": "88"
+          },
+          {
+            "extension": "96",
+            "text": "10"
+          },
+          {
+            "extension": "31",
+            "text": "76"
+          },
+          {
+            "extension": "83",
+            "text": "21"
+          },
+          {
+            "extension": "34",
+            "text": "48"
+          },
+          {
+            "extension": "17",
+            "text": "70"
+          },
+          {
+            "extension": "64",
+            "text": "66"
+          },
+          {
+            "extension": "34",
+            "text": "35"
+          },
+          {
+            "extension": "53",
+            "text": "59"
+          },
+          {
+            "extension": "48",
+            "text": "43"
+          },
+          {
+            "extension": "19",
+            "text": "27"
+          },
+          {
+            "extension": "19",
+            "text": "08"
+          },
+          {
+            "extension": "30",
+            "text": "30"
+          },
+          {
+            "extension": "34",
+            "text": "41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "92",
+            "text": "50"
+          },
+          {
+            "extension": "39",
+            "text": "72"
+          },
+          {
+            "extension": "50",
+            "text": "07"
+          },
+          {
+            "extension": "73",
+            "text": "69"
+          },
+          {
+            "extension": "72",
+            "text": "32"
+          },
+          {
+            "extension": "41",
+            "text": "58"
+          },
+          {
+            "extension": "58",
+            "text": "16"
+          },
+          {
+            "extension": "85",
+            "text": "28"
+          },
+          {
+            "extension": "87",
+            "text": "87"
+          },
+          {
+            "extension": "85",
+            "text": "27"
+          },
+          {
+            "extension": "52",
+            "text": "41"
+          },
+          {
+            "extension": "51",
+            "text": "16"
+          },
+          {
+            "extension": "22",
+            "text": "39"
+          },
+          {
+            "extension": "53",
+            "text": "21"
+          },
+          {
+            "extension": "73",
+            "text": "60"
+          },
+          {
+            "extension": "93",
+            "text": "54"
+          },
+          {
+            "extension": "69",
+            "text": "02"
+          },
+          {
+            "extension": "53",
+            "text": "60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"176 10 992 960\" data-label=\"Text\"><table><tbody><tr><td>21 02 20</td><td>Schmidt, C. H.,</td><td>Vertr., W 35, Kurf.Str. 56</td></tr><tr><td>46 31 46</td><td>Schmidt, C. H.,</td><td>Arch., N 20, Prinz.A. 57</td></tr><tr><td>42 81 85</td><td>Schmidt, Carl J.,</td><td>Schreibm.-Repar., C 2,<br/>Weinmeisterstr. 18</td></tr><tr><td>55 07 27</td><td>Schmidt, Carl J.,</td><td>Dir., <i>Lbg</i> Stadtpark 8</td></tr><tr><td>88 55 97</td><td>Schmidt, Carl Kasimir,</td><td>Immob., <i>Frdn</i><br/>Baumeisterstr. 3</td></tr><tr><td>93 11 36</td><td>Carl Ludw. Schmidt &amp; Cie,</td><td>Dek.Maler,<br/><i>Chb</i> Kurländer Allee 35</td></tr><tr><td>27 08 25</td><td>Schmidt, C. R.,</td><td>Kaffee, W 35, Potsd.Str.144</td></tr><tr><td>84 27 74</td><td>Schmidt, C. R.,</td><td>Schuhm., <i>Zehl</i> Limastr. 16</td></tr><tr><td>68 80 55</td><td>Schmidt, C. W.,</td><td>Grauguß, SO36, Köp.Str.10a</td></tr><tr><td>68 22 00</td><td>Schmidt, C. W.,</td><td>Dr. phil., <i>Tmp</i> Sleg.W.10</td></tr><tr><td>19 45 21</td><td>Schmidt, C. W.</td><td>Rich., SW 11, Saarl. Str. 9</td></tr><tr><td>64 75 50</td><td>Schmidt, Caroline,</td><td>Schlächt., Schöneiche,<br/>H.-Wessel-Str. 4</td></tr><tr><td>56 27 89</td><td>Schmidt, Charitas,</td><td><i>Weiβ</i> Heinersd.Str. 27</td></tr><tr><td>46 36 76</td><td>Schmidt, Ch.,</td><td>Zig., N 65, Liebenw.Str. 57</td></tr><tr><td>66 38 21</td><td>Schmidt, Charlotte,</td><td><i>Tmp</i> Innelm.-Str. 19</td></tr><tr><td>58 81 63</td><td>Schmidt, Charlotte,</td><td>O 94, Thaerstr. 61</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"39 275 48 312\" data-label=\"Page-Header\">1</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "1",
+            "text": "und 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 12 994 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>46 01 67</td>\n<td>Schmidt, Charlotte,</td>\n<td>N 65, Afrik. Str. 144c</td>\n</tr>\n<tr>\n<td>22 41 36</td>\n<td>Schmidt, Charlotte,</td>\n<td>W 35, Frobenstr. 3</td>\n</tr>\n<tr>\n<td>66 48 95</td>\n<td>Schmidt, Charlotte,</td>\n<td>SW 29, Planufer 92b</td>\n</tr>\n<tr>\n<td>35 21 72</td>\n<td>Schmidt, Charlotte,</td>\n<td>NW 21, Wilhelms-</td>\n</tr>\n<tr>\n<td></td>\n<td>havener Str. 31</td>\n<td></td>\n</tr>\n<tr>\n<td>25 57 78</td>\n<td>Schmidt, Charlotte,</td>\n<td>W 30, N. Winterf.-Str. 34</td>\n</tr>\n<tr>\n<td>71 74 96</td>\n<td>Schmidt, Charlotte,</td>\n<td><i>Schub</i> Willmannnd. 20</td>\n</tr>\n<tr>\n<td>74 01 11</td>\n<td>Schmidt, Charlotte,</td>\n<td><i>Lkw</i> Charl. Str. 52</td>\n</tr>\n<tr>\n<td>72 81 09</td>\n<td>Schmidt, Charlotte,</td>\n<td><i>Stegl</i> A. Stadtp. 2</td>\n</tr>\n<tr>\n<td>79 28 15</td>\n<td>Schmidt, Charlotte,</td>\n<td><i>Stegl</i> Feuerb. Str. 31</td>\n</tr>\n<tr>\n<td>66 61 90</td>\n<td>Schmidt, Charlotte,</td>\n<td><i>Tmp</i> Höhndorfstr. 10b</td>\n</tr>\n<tr>\n<td>91 12 31</td>\n<td>Schmidt, Charlotte,</td>\n<td><i>Wilm</i> Brand. Str. 23</td>\n</tr>\n<tr>\n<td>68 49 07</td>\n<td>Schmidt, Charlotte,</td>\n<td>Zig., Schles. Tor</td>\n</tr>\n<tr>\n<td>66 33 50</td>\n<td>Schmidt, Charlotte,</td>\n<td>Buchhalt., SW 61,</td>\n</tr>\n<tr>\n<td></td>\n<td>Möckernstr. 71</td>\n<td></td>\n</tr>\n<tr>\n<td>37 55 15</td>\n<td>Schmidt, Charlotte,</td>\n<td><i>Spd</i> Schonw. Str. 10</td>\n</tr>\n<tr>\n<td>63 47 98</td>\n<td>Schmidt, Charlotte,</td>\n<td>Stud. Rät., <i>Bschw</i></td>\n</tr>\n<tr>\n<td></td>\n<td>Scheiblerstr. 14</td>\n<td></td>\n</tr>\n<tr>\n<td>39 01 33</td>\n<td>Schmidt, Charlotte,</td>\n<td>Kolonialwr., NW 87,</td>\n</tr>\n<tr>\n<td></td>\n<td>Agricolastr. 16</td>\n<td></td>\n</tr>\n<tr>\n<td>35 54 94</td>\n<td>Schmidt, Charlotte,</td>\n<td>Konrektor., NW 21,</td>\n</tr>\n<tr>\n<td></td>\n<td>Oldenhurgner Str. A</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 993 987\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>59 61 47</td>\n<td>Schmidt, Charlotte, Obst, C 2, Linienstraße 247</td>\n</tr>\n<tr>\n<td>46 37 90</td>\n<td>Schmidt, Charlotte, Verw. Sekretärin, N 65, Fritz-Schulz-Str. 63</td>\n</tr>\n<tr>\n<td>67 24 50</td>\n<td>Schmidt, Christa, SO 16, Michaelk.-Pl. 22</td>\n</tr>\n<tr>\n<td>39 73 65</td>\n<td>Schmidt, Chr., Stud., NW 87, Siegm. H. 1</td>\n</tr>\n<tr>\n<td>72 29 74</td>\n<td>Schmidt, Ch., Buchhdlg., Stegl Süd.-Str. 55</td>\n</tr>\n<tr>\n<td>91 01 90</td>\n<td>Schmidt, Christine, Hüte, W 15, Kurf.-D. 190</td>\n</tr>\n<tr>\n<td>87 58 19</td>\n<td>Dies., Wohn., Wilm Hohenz. D. 36</td>\n</tr>\n<tr>\n<td>71 84 70</td>\n<td>Schmidt, Chr., Eigent., Schö Naum. Str. 15</td>\n</tr>\n<tr>\n<td>66 27 34</td>\n<td>Schmidt, Christian, Ing., SW 29, Schleiermacher Str. 24</td>\n</tr>\n<tr>\n<td>13 32 46</td>\n<td>Schmidt, Christian, Gen.-Vertreter, Chb 5 Neue Kantstr. 15</td>\n</tr>\n<tr>\n<td>84 19 81</td>\n<td>Schmidt, Chr., Uhren, Zehl Telt. D. 32</td>\n</tr>\n<tr>\n<td>59 04 50</td>\n<td>Schmidt, Clara, Stick., C 2, Holzmarktstr. 64</td>\n</tr>\n<tr>\n<td>91 52 54</td>\n<td>Schmidt, Clara, Trept Joachimst. Str. 35</td>\n</tr>\n<tr>\n<td>72 21 54</td>\n<td>Schmidt, Clara, Stegl Ahornstr. 4</td>\n</tr>\n<tr>\n<td>68 07 97</td>\n<td>Schmidt, Clara, Trept Trept. Park 59</td>\n</tr>\n<tr>\n<td>47 02 29</td>\n<td>Schmidt, Clara, Wäscherei, Waidm Waidmannsluster Damm 139</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "66",
+            "text": "47"
+          },
+          {
+            "extension": "62",
+            "text": "82"
+          },
+          {
+            "extension": "42",
+            "text": "30"
+          },
+          {
+            "extension": "83",
+            "text": "05"
+          },
+          {
+            "extension": "71",
+            "text": "40"
+          },
+          {
+            "extension": "34",
+            "text": "82"
+          },
+          {
+            "extension": "27",
+            "text": "23"
+          },
+          {
+            "extension": "47",
+            "text": "10"
+          },
+          {
+            "extension": "64",
+            "text": "65"
+          },
+          {
+            "extension": "34",
+            "text": "03"
+          },
+          {
+            "extension": "58",
+            "text": "42"
+          },
+          {
+            "extension": "41",
+            "text": "41"
+          },
+          {
+            "extension": "93",
+            "text": "14"
+          },
+          {
+            "extension": "68",
+            "text": "58"
+          },
+          {
+            "extension": "70",
+            "text": "95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 997\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>84 12 84</td>\n<td>Schmidt, Curt, Zlg.,</td>\n<td>Zehl Kronpr. Allee 333</td>\n</tr>\n<tr>\n<td>75 84 61</td>\n<td>Schmidt, C. K.,</td>\n<td>Filme, Süd Oehlertstr. 9</td>\n</tr>\n<tr>\n<td>64 98 63</td>\n<td>Schmidt, Dr. Detlev,</td>\n<td>Chemiker, Wilkg Fürstenwalder Allee 1152</td>\n</tr>\n<tr>\n<td>88 79 24</td>\n<td>Schmidt, Dietm.,</td>\n<td>Frdn Baumeisterstr. 3</td>\n</tr>\n<tr>\n<td>84 82 98</td>\n<td>Schmidt, Dora,</td>\n<td>Zehl Spandauer Weg 31</td>\n</tr>\n<tr>\n<td>(17 29 04)</td>\n<td>Schmidt, Dora,</td>\n<td>Kleider, SW 68, Zimmerstraße 69</td>\n</tr>\n<tr>\n<td>66 37 78</td>\n<td>Schmidt, Dora,</td>\n<td>Temp Wiesenerstr. 41</td>\n</tr>\n<tr>\n<td>30 77 67</td>\n<td>Schmidt, Dora,</td>\n<td>Mass., Tgl Moorweg 8</td>\n</tr>\n<tr>\n<td>89 63 33</td>\n<td>Schmidt, Doris,</td>\n<td>Grw Salzbrunner Str. 14</td>\n</tr>\n<tr>\n<td>72 13 74</td>\n<td>Schmidt, Doris,</td>\n<td>Zlg., Steyl Albr.-Str. 83</td>\n</tr>\n<tr>\n<td>57 08 30</td>\n<td>Schmidt, Dorothea,</td>\n<td>O 112, Leubachstr. 8</td>\n</tr>\n<tr>\n<td>84 32 64</td>\n<td>Schmidt, Dorothea,</td>\n<td>Zehl Argent. A. 175</td>\n</tr>\n<tr>\n<td>97 88 91</td>\n<td>Schmidt, Doroth. Ch.,</td>\n<td>Hal Kurf.D. 105</td>\n</tr>\n<tr>\n<td>93 51 45</td>\n<td>Schmidt, E.,</td>\n<td>Chb 5 Gustloffstr. 58</td>\n</tr>\n<tr>\n<td>97 30 86</td>\n<td>Schmidt, Eberhard,</td>\n<td>Hal Kurf.-Damm 157</td>\n</tr>\n<tr>\n<td>91 06 07</td>\n<td>Schmidt, Eberh.,</td>\n<td>W 15, Konst. Str. 64</td>\n</tr>\n<tr>\n<td>44 33 15</td>\n<td>Ders., Büro,</td>\n<td>N 58, Bernauer Str. 47</td>\n</tr>\n<tr>\n<td>16 34 06</td>\n<td>E. Schmidt &amp; Co.,</td>\n<td>Blusen, C2, Hausvogt. Pl. 5</td>\n</tr>\n<tr>\n<td>12 21 00</td>\n<td>E. Schmidt &amp; Co.,</td>\n<td>H.-Art., NW 7. Fried-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "87",
+            "text": "22"
+          },
+          {
+            "extension": "88",
+            "text": "11"
+          },
+          {
+            "extension": "56",
+            "text": "10"
+          },
+          {
+            "extension": "91",
+            "text": "73"
+          },
+          {
+            "extension": "26",
+            "text": "54"
+          },
+          {
+            "extension": "75",
+            "text": "94"
+          },
+          {
+            "extension": "73",
+            "text": "28"
+          },
+          {
+            "extension": "66",
+            "text": "69"
+          },
+          {
+            "extension": "71",
+            "text": "56"
+          },
+          {
+            "extension": "55",
+            "text": "21"
+          },
+          {
+            "extension": "44",
+            "text": "34"
+          },
+          {
+            "extension": "93",
+            "text": "10"
+          },
+          {
+            "extension": "80",
+            "text": "59"
+          },
+          {
+            "extension": "62",
+            "text": "31"
+          },
+          {
+            "extension": "37",
+            "text": "92"
+          },
+          {
+            "extension": "50",
+            "text": "86"
+          },
+          {
+            "extension": "83",
+            "text": "52"
+          },
+          {
+            "extension": "63",
+            "text": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "68",
+            "text": "08"
+          },
+          {
+            "extension": "96",
+            "text": "26"
+          },
+          {
+            "extension": "75",
+            "text": "06"
+          },
+          {
+            "extension": "44",
+            "text": "07"
+          },
+          {
+            "extension": "62",
+            "text": "61"
+          },
+          {
+            "extension": "72",
+            "text": "27"
+          },
+          {
+            "extension": "56",
+            "text": "14"
+          },
+          {
+            "extension": "93",
+            "text": "07"
+          },
+          {
+            "extension": "91",
+            "text": "11"
+          },
+          {
+            "extension": "97",
+            "text": "99"
+          },
+          {
+            "extension": "71",
+            "text": "75"
+          },
+          {
+            "extension": "59",
+            "text": "07"
+          },
+          {
+            "extension": "77",
+            "text": "26"
+          },
+          {
+            "extension": "92",
+            "text": "51"
+          },
+          {
+            "extension": "89",
+            "text": "36"
+          },
+          {
+            "extension": "27",
+            "text": "20"
+          },
+          {
+            "extension": "63",
+            "text": "77"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Be",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 10 998 994\" data-label=\"Text\"><table><tbody><tr><td>75 06 98</td><td>Schmidt, Elisabeth, Bibliothekarin, <i>Temp</i><br/>Kaiser-Wilhelm-Str. 41</td></tr><tr><td>27 51 24</td><td>Schmidt, Elis., W 30, Hohenst.Str. 63</td></tr><tr><td>80 88 96</td><td>Schmidt, Elisabeth, Gaststätte, <i>Grolie</i><br/>Ad.-Hitler-Allee 36</td></tr><tr><td>83 06 19</td><td>Schmidt, Elisabeth, <i>Frdn</i> Sponh. Str. 4a</td></tr><tr><td>73 42 58</td><td>Schmidt, Elisabeth, <i>Lkw</i> Leonorenstr. 93</td></tr><tr><td>72 25 83</td><td>Schmidt, E., Hebamme, <i>Stegl</i> Alth.Str. 11</td></tr><tr><td>93 71 27</td><td>Schmidt, Elis., <i>Chö</i> 5 N. Kantstr. 7</td></tr><tr><td>73 18 22</td><td>Schmidt, Elis., Ww., <i>Lt/W</i> Brahmsstr. 44</td></tr><tr><td>64 96 31</td><td>Schmidt, Elis., <i>Hessw</i> Kanalstr. 5</td></tr><tr><td>96 14 70</td><td>Schmidt, Elis., Lehr., <i>Grw</i> Humb. Str. 34</td></tr><tr><td>25 64 22</td><td>Schmidt, Elis., W 62, Nettelbeckstr. 14</td></tr><tr><td>97 70 00</td><td>Schmidt, Elise, <i>Hal</i> J.Friedr.Str. 5</td></tr><tr><td>73 70 94</td><td>Schmidt, Elise, Frau, <i>Lt/</i> Hinden.-D. 96</td></tr><tr><td>52 02 12</td><td>Schmidt, Elise, Obst, C 2, Zentral-Markt-<br/>halle Stand 239</td></tr><tr><td>84 80 71</td><td>Schmidt, Elise, <i>Zehl</i> Leuchtenb.Str. 5</td></tr><tr><td>68 51 12</td><td>Schmidt, Elise, SO 36, A.Trept.Park 34</td></tr><tr><td>46 58 72</td><td>Schmidt, Elise, N 65, Brüsseler Str. 2</td></tr><tr><td>52 49 80</td><td>Schmidt, Ella, C 2, Zentral-Markthalle<br/>Reihe 4 Stand 17K</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "27",
+            "text": "80"
+          },
+          {
+            "extension": "66",
+            "text": "42"
+          },
+          {
+            "extension": "45",
+            "text": "33"
+          },
+          {
+            "extension": "93",
+            "text": "39"
+          },
+          {
+            "extension": "58",
+            "text": "99"
+          },
+          {
+            "extension": "48",
+            "text": "47"
+          },
+          {
+            "extension": "76",
+            "text": "28"
+          },
+          {
+            "extension": "86",
+            "text": "68"
+          },
+          {
+            "extension": "83",
+            "text": "33"
+          },
+          {
+            "extension": "21",
+            "text": "12"
+          },
+          {
+            "extension": "46",
+            "text": "89"
+          },
+          {
+            "extension": "86",
+            "text": "04"
+          },
+          {
+            "extension": "26",
+            "text": "01"
+          },
+          {
+            "extension": "86",
+            "text": "15"
+          },
+          {
+            "extension": "17",
+            "text": "10"
+          },
+          {
+            "extension": "50",
+            "text": "17"
+          },
+          {
+            "extension": "97",
+            "text": "88"
+          },
+          {
+            "extension": "72",
+            "text": "37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "73",
+            "text": "36"
+          },
+          {
+            "extension": "62",
+            "text": "56"
+          },
+          {
+            "extension": "79",
+            "text": "71"
+          },
+          {
+            "extension": "48",
+            "text": "43"
+          },
+          {
+            "extension": "39",
+            "text": "35"
+          },
+          {
+            "extension": "99",
+            "text": "54"
+          },
+          {
+            "extension": "41",
+            "text": "41"
+          },
+          {
+            "extension": "86",
+            "text": "33"
+          },
+          {
+            "extension": "87",
+            "text": "69"
+          },
+          {
+            "extension": "71",
+            "text": "35"
+          },
+          {
+            "extension": "93",
+            "text": "07"
+          },
+          {
+            "extension": "34",
+            "text": "18"
+          },
+          {
+            "extension": "59",
+            "text": "24"
+          },
+          {
+            "extension": "97",
+            "text": "56"
+          },
+          {
+            "extension": "46",
+            "text": "75"
+          },
+          {
+            "extension": "86",
+            "text": "46"
+          },
+          {
+            "extension": "35",
+            "text": "07"
+          },
+          {
+            "extension": "24",
+            "text": "25"
+          },
+          {
+            "extension": "44",
+            "text": "46"
+          },
+          {
+            "extension": "40",
+            "text": "41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "79",
+            "text": "36"
+          },
+          {
+            "extension": "76",
+            "text": "24"
+          },
+          {
+            "extension": "88",
+            "text": "33"
+          },
+          {
+            "extension": "26",
+            "text": "40"
+          },
+          {
+            "extension": "49",
+            "text": "31"
+          },
+          {
+            "extension": "73",
+            "text": "41"
+          },
+          {
+            "extension": "46",
+            "text": "87"
+          },
+          {
+            "extension": "55",
+            "text": "39"
+          },
+          {
+            "extension": "88",
+            "text": "74"
+          },
+          {
+            "extension": "34",
+            "text": "21"
+          },
+          {
+            "extension": "27",
+            "text": "49"
+          },
+          {
+            "extension": "35",
+            "text": "38"
+          },
+          {
+            "extension": "96",
+            "text": "16"
+          },
+          {
+            "extension": "56",
+            "text": "02"
+          },
+          {
+            "extension": "52",
+            "text": "20"
+          },
+          {
+            "extension": "46",
+            "text": "57"
+          },
+          {
+            "extension": "65",
+            "text": "61"
+          },
+          {
+            "extension": "87",
+            "text": "87"
+          },
+          {
+            "extension": "45",
+            "text": "27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "44",
+            "text": "51"
+          },
+          {
+            "extension": "62",
+            "text": "48"
+          },
+          {
+            "extension": "75",
+            "text": "93"
+          },
+          {
+            "extension": "45",
+            "text": "29"
+          },
+          {
+            "extension": "27",
+            "text": "16"
+          },
+          {
+            "extension": "27",
+            "text": "59"
+          },
+          {
+            "extension": "68",
+            "text": "48"
+          },
+          {
+            "extension": "22",
+            "text": "35"
+          },
+          {
+            "extension": "92",
+            "text": "28"
+          },
+          {
+            "extension": "21",
+            "text": "12"
+          },
+          {
+            "extension": "26",
+            "text": "32"
+          },
+          {
+            "extension": "41",
+            "text": "14"
+          },
+          {
+            "extension": "72",
+            "text": "08"
+          },
+          {
+            "extension": "87",
+            "text": "19"
+          },
+          {
+            "extension": "64",
+            "text": "17"
+          },
+          {
+            "extension": "59",
+            "text": "05"
+          },
+          {
+            "extension": "41",
+            "text": "00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 965\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>62 95 22</td>\n<td>Schmidt, Emma, Ztg., <i>Neuk</i> Lessingstr. 10</td>\n</tr>\n<tr>\n<td>46 01 87</td>\n<td>Schmidt, Emma, Zigarren, N 65, Fenustr. 57</td>\n</tr>\n<tr>\n<td>71 38 79</td>\n<td>Schmidt, E., Innendek., <i>Schb</i> Wartb.-Str. 16</td>\n</tr>\n<tr>\n<td>76 08 09</td>\n<td>Schmidt, Emmi, Photogr., <i>Lf</i> Knes. Str. 10</td>\n</tr>\n<tr>\n<td>37 11 66</td>\n<td>Schmidt, Emmi, Wollwr., <i>Spd</i> Schönwalder Str. 110</td>\n</tr>\n<tr>\n<td>79 36 30</td>\n<td>Schmidt, Emmy, <i>Stegl</i> Forststr. 31</td>\n</tr>\n<tr>\n<td>66 20 65</td>\n<td><b>Schmidt, Erdmann Paul, Fabrikation von Rahmen u. Goldbleisten, Berlin SW 61, Blücherstr. 22</b></td>\n</tr>\n<tr>\n<td>21 11 03</td>\n<td>Schmidt, Erhard, W 35, Ludendorffstr. 26</td>\n</tr>\n<tr>\n<td>92 66 88</td>\n<td>Schmidt, Erhard, Architekt, W 15, Melnekestr. 22</td>\n</tr>\n<tr>\n<td>83 58 11</td>\n<td>Ders., Wohn., <i>Wilm</i> Rüdesh. Pl. 7</td>\n</tr>\n<tr>\n<td>89 07 31</td>\n<td>Schmidt, Dr. Erh., Dir., <i>Grw</i> Hub. Str. 16</td>\n</tr>\n<tr>\n<td>74 15 21</td>\n<td>Schmidt, Erh., Arzt, <i>Lkw</i> Frobenstr. 15</td>\n</tr>\n<tr>\n<td>27 02 08</td>\n<td>Schmidt, Erh., Kfm., W 35, Kirchb. Str. 18</td>\n</tr>\n<tr>\n<td>80 41 76</td>\n<td>v. Schmidt, Erhard, SA.-Brigadeführer, <i>KMn</i> Norkusweg 5</td>\n</tr>\n<tr>\n<td>31 61 33</td>\n<td>Schmidt, Dr. Erh., Prof., <i>Chb</i> Bism. Str. 107</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Lin: Schmidt (Band II) 643",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 734 984\" data-label=\"Text\"><table><tbody><tr><td>99 30 71</td><td>Schmidt, Erich, <i>Chb</i> 9 Reichsstr. 29</td></tr><tr><td>99 48 87</td><td>Schmidt, Erich, Dr., <i>Chb</i> 9 Reichsstr. 80</td></tr><tr><td>24 80 59</td><td>Schmidt, Erich, W 50, Prager Str. 23</td></tr><tr><td>72 08 31</td><td>Schmidt, Erich, <i>Stegl</i> Lepsiusstr. 61</td></tr><tr><td>88 69 68</td><td>Schmidt, Erich, <i>Frdn</i> Fehlerstr. 13</td></tr><tr><td>70 83 84</td><td>Schmidt, Erich, <i>Ltra</i> Wünsd. Str. 119</td></tr><tr><td>37 73 51</td><td>Schmidt, Erich, <i>Staa</i> Fort Hahneberg</td></tr><tr><td>39 92 08</td><td>Schmidt, E., Ing., NW 87, Elberf. Str. 15</td></tr><tr><td>56 18 67</td><td>Schmidt, Erich, <i>Weiβ</i> Trarbacher Str. 18</td></tr><tr><td>75 08 07</td><td>Schmidt, Erich, Kfm., <i>Ma</i> Dorfstr. 28a</td></tr><tr><td>68 38 17</td><td>Schmidt, Erich, Klempn., SO 36, Schlesische Str. 3</td></tr><tr><td>44 97 17</td><td>Schmidt, Erich, Fleischer, N 113, Schivelbeinerstr. 19</td></tr><tr><td>21 14 86</td><td>Schmidt, E., Fris., W 35, Lützowstr. 18</td></tr><tr><td>45 19 10</td><td>Schmidt, E., Schornsteinf., N 58, Stubbenkammer Str. 4</td></tr><tr><td>34 06 22</td><td>Schmidt, E., Fuhrw., <i>Chb</i> Knobelsd. Str. 28</td></tr><tr><td>64 14 36</td><td>Schmidt, E., Buchdr., <i>Köp</i> Joach. Str. 8</td></tr><tr><td>42 39 57</td><td>Schmidt, Erich, Buchbinderei, Berlin NW 7, Marienstr. 12</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "63",
+            "text": "48"
+          },
+          {
+            "extension": "46",
+            "text": "34"
+          },
+          {
+            "extension": "65",
+            "text": "63"
+          },
+          {
+            "extension": "31",
+            "text": "95"
+          },
+          {
+            "extension": "92",
+            "text": "34"
+          },
+          {
+            "extension": "73",
+            "text": "25"
+          },
+          {
+            "extension": "39",
+            "text": "26"
+          },
+          {
+            "extension": "50",
+            "text": "26"
+          },
+          {
+            "extension": "63",
+            "text": "73"
+          },
+          {
+            "extension": "26",
+            "text": "30"
+          },
+          {
+            "extension": "97",
+            "text": "45"
+          },
+          {
+            "extension": "26",
+            "text": "44"
+          },
+          {
+            "extension": "79",
+            "text": "41"
+          },
+          {
+            "extension": "75",
+            "text": "82"
+          },
+          {
+            "extension": "46",
+            "text": "73"
+          },
+          {
+            "extension": "75",
+            "text": "77"
+          },
+          {
+            "extension": "88",
+            "text": "74"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "kowstr. 32",
+        "entries": [
+          {
+            "extension": "30",
+            "text": "86 29 Schmidt, Erich, Kraftf., Tgl Berl. Str. 5"
+          },
+          {
+            "extension": "96",
+            "text": "11 55 Schmidt, Dr. E., Prof., Hal Kath.-Str. 4"
+          },
+          {
+            "extension": "49",
+            "text": "12 02 Schmidt, E., Kleidernäh., Rei Hauptstr. 34"
+          },
+          {
+            "extension": "50",
+            "text": "85 66 Schmidt, Dr. E., Rat, Mlsd Hön. Str. 116"
+          },
+          {
+            "extension": "31",
+            "text": "32 37 Schmidt, Erich, Kunsthandlung, Chb 2"
+          }
+        ]
+      },
+      {
+        "region_name": "Knesebeckstr. 3",
+        "entries": [
+          {
+            "extension": "76",
+            "text": "25 50 Schmidt, E., Malerei, Ltf Gardesch. W. 5"
+          },
+          {
+            "extension": "48",
+            "text": "58 09 Schmidt, E., Masch. Mstr., Pko Berl. Str. 93"
+          },
+          {
+            "extension": "44",
+            "text": "31 06 Schmidt, E., Pianos, N 31, Brunnenstr. 115"
+          },
+          {
+            "extension": "42",
+            "text": "89 16 Schmidt, E., Mechan., NO 55, Saarb. Str. 22"
+          },
+          {
+            "extension": "93",
+            "text": "43 20 Schmidt, E., Landw. Rat, Chb Soorstr. 77"
+          },
+          {
+            "extension": "37",
+            "text": "23 85 Schmidt, E., Kfm., Spd Charl. Str. 29"
+          },
+          {
+            "extension": "97",
+            "text": "14 67 Schmidt, Dr. E., Reg. Rat, Hul Paulsb. Str. 20"
+          },
+          {
+            "extension": "60",
+            "text": "81 20 Schmidt, Erich, Mineral-Öle, Buck"
+          }
+        ]
+      },
+      {
+        "region_name": "Chausseestr. 59",
+        "entries": [
+          {
+            "extension": "65",
+            "text": "54 49 Schmidt, E., Ger. Vollz., AGlie Höhenst. 7"
+          },
+          {
+            "extension": "75",
+            "text": "46 53 Schmidt, Dr. E., Reg. Rat. Süd Lindenstr. 5"
+          },
+          {
+            "extension": "79",
+            "text": "38 20 Schmidt, E., Pat. Ing., Süd Benzm.-Str. 10"
+          },
+          {
+            "extension": "63",
+            "text": "43 70 Schmidt, E., Insp., Joh Wegedestr. 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 732 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>46 19 39</td>\n<td>Schmidt, Erich, Amtm., N 65, Boyenstr. 3</td>\n</tr>\n<tr>\n<td>72 81 81</td>\n<td>Schmidt, E., Ob.-Insp., <i>Stegl</i> Menckenstr. 2</td>\n</tr>\n<tr>\n<td>22 34 08</td>\n<td>Schmidt, Erich. Prozeßag., W 35, Körnerstr. 5</td>\n</tr>\n<tr>\n<td>60 01 56</td>\n<td>Schmidt, Erich, Insp., <i>Neuk</i> Werrastr. 1</td>\n</tr>\n<tr>\n<td>44 83 30</td>\n<td>Schmidt, Erich, Ing., N 31, Jasm. Str. 7</td>\n</tr>\n<tr>\n<td>22 18 54</td>\n<td>Schmidt, Dr. Erich, Verleger, W 35,<br/>Woyrschstr. 30g</td>\n</tr>\n<tr>\n<td>48 56 55</td>\n<td>Schmidt, Erich, Reg. Rat, <i>Pko</i> Elsa-<br/>Brandström-Str. 12</td>\n</tr>\n<tr>\n<td>62 50 02</td>\n<td>Schmidt, E., Gastw., <i>Neuk</i> Gangh.-Str. 1</td>\n</tr>\n<tr>\n<td>65 92 70</td>\n<td>Schmidt, Dr. E., Schriftst., <i>Eichw</i> Kron-<br/>prinzenstraße 36</td>\n</tr>\n<tr>\n<td>19 18 54</td>\n<td>Ders., Büro, SW 11. Dessauer Str. 18</td>\n</tr>\n<tr>\n<td>79 47 19</td>\n<td>Schmidt, E., R.-A., <i>Stegl</i> Heimst. W. 16</td>\n</tr>\n<tr>\n<td>72 81 19</td>\n<td>Schmidt, E., Hptm., <i>Stegl</i> Menck. Str. 30</td>\n</tr>\n<tr>\n<td>83 45 27</td>\n<td>Schmidt, E., Amtm., <i>Frdn</i> Taunusstr. 3</td>\n</tr>\n<tr>\n<td>50 78 56</td>\n<td>Schmidt, Erich, Angest., <i>Klsd</i> Adolfstr. 8</td>\n</tr>\n<tr>\n<td>41 05 95</td>\n<td>Schmidt, E., Restaur., C 2, Weinm. Str. 1</td>\n</tr>\n<tr>\n<td>55 46 97</td>\n<td>Schmidt, E., Schuhw., <i>Lbg</i> Scheffelstr. 11</td>\n</tr>\n<tr>\n<td>75 98 67</td>\n<td>Schmidt, Erich, Schweißmstr., <i>Ma</i><br/>Brussauer Weg 18</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 731 986\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>58 40 80</td>\n<td>Schmidt, Erich, Synikus, NW 07, Wardenberg-Str. 6</td>\n</tr>\n<tr>\n<td>50 76 27</td>\n<td>Schmidt, E., Vertr., <i>Misd</i> Akaz.A. 27a</td>\n</tr>\n<tr>\n<td>41 40 45</td>\n<td>Schmidt, Erich, Wild, Ackerstr. 23, Ackerhalle Stand 228</td>\n</tr>\n<tr>\n<td>72 47 93</td>\n<td>Schmidt, E., Spielwr., <i>Stegl</i> Albr.Str. 6</td>\n</tr>\n<tr>\n<td>52 32 31</td>\n<td>Schmidt, E., Textilwr., C 2, Poststr. 31</td>\n</tr>\n<tr>\n<td>44 53 53</td>\n<td>Ders., Wohn., N 20, Wriezener Str. 43</td>\n</tr>\n<tr>\n<td>87 26 14</td>\n<td>Schmidt, E., Tischl., <i>Wilm</i> Pfalzb.Str. 69</td>\n</tr>\n<tr>\n<td>41 53 73</td>\n<td>Schmidt, Erich, Strickwr., C 2, Kaiser-Wilhelm-Str. 34</td>\n</tr>\n<tr>\n<td>85 31 16</td>\n<td>Ders., Wohn., <i>Zehl</i> Hochwildpfad 38</td>\n</tr>\n<tr>\n<td>34 21 91</td>\n<td>Schmidt, E., Sekr., <i>Chb</i> 2 Guer. Str. 20</td>\n</tr>\n<tr>\n<td>62 47 60</td>\n<td>Schmidt, E., Obersekr., <i>Neuk</i> Rich.-Str. 60</td>\n</tr>\n<tr>\n<td>31 72 35</td>\n<td>Schmidt, Dr. E., Zahnarzt, <i>Chb</i> Sav.Pl. 6</td>\n</tr>\n<tr>\n<td>(24 06 50)</td>\n<td>Schmidt, E., Zwangsverw., W 50, Bud.Str. 49</td>\n</tr>\n<tr>\n<td>47 01 42</td>\n<td>Schmidt, Erich K. O., Dr. Ing., <i>Hrmsd</i> Kaiserstraße 25</td>\n</tr>\n<tr>\n<td>62 37 23</td>\n<td>Erich Schmidt &amp; Co., Kohlen, SW 29, Kottbusser Damm 67</td>\n</tr>\n<tr>\n<td>88 46 01</td>\n<td>Schmidt, Dr. E. L., <i>Frdn</i> Beckerstr. 20a</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

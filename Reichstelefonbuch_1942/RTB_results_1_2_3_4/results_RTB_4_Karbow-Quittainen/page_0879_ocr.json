@@ -1,0 +1,933 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "-",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"240 11 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>8 02 28</td>\n<td>Hahn, Joh., Briefmark., Untermenzing,<br/>Gartenstr. 3</td>\n</tr>\n<tr>\n<td>37 20 19</td>\n<td>Hahn, Joh., Kol.W., Jak.Klarstr. 14</td>\n</tr>\n<tr>\n<td>7 27 25</td>\n<td>Hahn, Jos., Spengler, A.Schmidtstr. 29</td>\n</tr>\n<tr>\n<td>2 36 62</td>\n<td>Hahn, Julie, Oberlehr., Steinsd.Str. 15</td>\n</tr>\n<tr>\n<td>8 03 24</td>\n<td>Hahn, Karin, Tewex-Vertrieb, <i>Obm</i> Rat-<br/>hochstr. 39</td>\n</tr>\n<tr>\n<td>8 95 67</td>\n<td>Hahn, Leop., Bildhauer, Krailling, Franz-<br/>straße 18</td>\n</tr>\n<tr>\n<td>(2 04 19)</td>\n<td>Derselbe, Atelier</td>\n</tr>\n<tr>\n<td>7 24 39</td>\n<td>Hahn, Ludw., Wurst, Kistlerhofstr. 137</td>\n</tr>\n<tr>\n<td>37 22 48</td>\n<td>Hahn, Magda, M 13, Isabellastr. 34</td>\n</tr>\n<tr>\n<td>5 41 89</td>\n<td>Hahn, Maria, Ww., Dachauerstr. 46</td>\n</tr>\n<tr>\n<td>1 32 89</td>\n<td>Hahn, M., Gummiwrfbr., Neuhauserstr. 12</td>\n</tr>\n<tr>\n<td>47 23 06</td>\n<td>Hahn, Mich., Kol.-W., Unterfaching</td>\n</tr>\n<tr>\n<td>5 55 62</td>\n<td>Hahn, Dr. Otto, Arzt, Dachauerstr. 2</td>\n</tr>\n<tr>\n<td><b>3 16 73</b></td>\n<td><b>Hahn, Paul, Bürobedarf u. Hartpapier-Er-</b><br/><b>zeugnisse, München 23, Leopoldstraße 9</b></td>\n</tr>\n<tr>\n<td>2 33 51</td>\n<td>Hahn, Rosa, Ww., Sternstr. 15</td>\n</tr>\n<tr>\n<td>2 70 00</td>\n<td>Hahn, Dr. Rud., Arzt, Müllerstr. 42</td>\n</tr>\n<tr>\n<td>2 72 04</td>\n<td>R. u. H. Hahn, Zahners., Adalb.Str. 53</td>\n</tr>\n<tr>\n<td>9 00 20</td>\n<td>Hahn, Josef, Wein, Militärbuchhandl. 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 998 991\" data-label=\"Text\"><table><tbody><tr><td>5 88 04</td><td>Hahn, Stephan, Milch, Maistr. 20</td></tr><tr><td>5 29 55</td><td>Hahn, Toni, Vertr., Schützenstr. 9</td></tr><tr><td>3 16 91</td><td>Hahn, Werner, Obering., Hollandstr. 21</td></tr><tr><td>8 00 55</td><td>Hahn, X., Schreiner, <i>Das</i> Reuterstr. 2</td></tr><tr><td>4 01 85</td><td>Hahn, Xaver, Vertr., Kirchenstr. 54c</td></tr><tr><td>48 02 54</td><td>Hahne, Friedr., Photo, Oberführl. Str. 90</td></tr><tr><td>8 13 94</td><td>Hahne, Olga, Ww., <i>Das</i> Parkstr. 43</td></tr><tr><td>7 24 36</td><td>Hahne, W., Ing., Hammersb. Str. 23</td></tr><tr><td>6 24 56</td><td>Hahner, Ferd., Oberstlttn., W. Dietr. Str. 26</td></tr><tr><td>5 45 48</td><td>Hahner, G., Kaminfeger, Blütenb. Str. 44</td></tr><tr><td>5 80 01</td><td>Haibel, W., Spieleleiter, Schellingstr. 128</td></tr><tr><td>36 06 78</td><td>Haible, Erwin, Simmernstr. 10</td></tr><tr><td>5 35 37</td><td>Haid &amp; Wacker, Tuchc, Bayerstr. 71</td></tr><tr><td>6 16 04</td><td>Haid, Alb., Nahrungsmittel, Trivastr. 9</td></tr><tr><td>4 45 56</td><td>Haid, Hans, Versich., Wolfenstr. 5</td></tr><tr><td>48 08 47</td><td>Haid, Jos., Ziegelei, Oberführlingerstr. 88</td></tr><tr><td>48 07 10</td><td>Haid, Lorenz, Ziegelei, Oberführling 76</td></tr><tr><td>4 05 38</td><td>Haid, W., J., Baugesch., Josephsb. Str. 68</td></tr><tr><td>6 38 10</td><td>Haidel, Curt, Vertr., Nibelungenstr. 19</td></tr><tr><td>8 93 09</td><td>Haidel, E., Maler, Stockdorf, Heimstr.</td></tr><tr><td>5 24 39</td><td>Haidel, Gg., Photo, Schwanth. Str. 39</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "35"
+          },
+          {
+            "extension": "37",
+            "text": "24"
+          },
+          {
+            "extension": "59",
+            "text": "66"
+          },
+          {
+            "extension": "6",
+            "text": "67"
+          },
+          {
+            "extension": "79",
+            "text": "46"
+          },
+          {
+            "extension": "47",
+            "text": "46"
+          },
+          {
+            "extension": "2",
+            "text": "46"
+          },
+          {
+            "extension": "7",
+            "text": "28"
+          },
+          {
+            "extension": "5",
+            "text": "17"
+          },
+          {
+            "extension": "4",
+            "text": "33"
+          },
+          {
+            "extension": "2",
+            "text": "00"
+          },
+          {
+            "extension": "7",
+            "text": "35"
+          },
+          {
+            "extension": "3",
+            "text": "56"
+          },
+          {
+            "extension": "37",
+            "text": "02"
+          },
+          {
+            "extension": "1",
+            "text": "04"
+          },
+          {
+            "extension": "79",
+            "text": "31"
+          },
+          {
+            "extension": "6",
+            "text": "63"
+          },
+          {
+            "extension": "6",
+            "text": "30"
+          },
+          {
+            "extension": "2",
+            "text": "21"
+          },
+          {
+            "extension": "6",
+            "text": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 0 995 992\" data-label=\"Text\"><table><tbody><tr><td>5 69 29</td><td>Haimerl, G., Linieranstalt, Tumbelstr. 12</td></tr><tr><td>2 85 81</td><td>Haimerl, Hanna, Mietauto, Liebigstr. 12</td></tr><tr><td>59 65 71</td><td>Haimerl, Joh. B., Transporte, Heßstr. 27</td></tr><tr><td>36 00 18</td><td>Haimerl, Jos., Kfm., Destouchesstr. 28</td></tr><tr><td>3 17 74</td><td>Derselbe, Geschäft</td></tr><tr><td>59 60 29</td><td>Hain, Jos., Textilabfälle, Linprunstr. 90</td></tr><tr><td>2 37 90</td><td>E. Haindl K-G, Holzhdlg., Knöblstr. 14</td></tr><tr><td>2 12 46</td><td>Franz Haindl &amp; Co, Bank, Theresienstr. 22</td></tr><tr><td>6 26 73</td><td>Haindl, Friedr., Reg.-Baumstr., Prinzenstraße 9</td></tr><tr><td>37 04 55</td><td>Haindl, Fritz, Vertr., Adelheidstr. 4</td></tr><tr><td>29 73 39</td><td>Haindl, Hans, Konditor, Ledererstr. 16</td></tr><tr><td>2 34 14</td><td>Haindl, Dr. Hans, R.-A., Pettenbeckstr. 5</td></tr><tr><td>3 36 55</td><td>Haindl, Dr. Ludwig, Arzt, Leinth. Str. 10</td></tr><tr><td>47 25 19</td><td>Haindl, Ludw., Fuhruntern., Unterhaching, Goringstr. 3</td></tr><tr><td>37 14 57</td><td>Hainemann, Laura, Bauerstr. 21</td></tr><tr><td>37 21 47</td><td>Haingaertner, A., Musikal., Hohenz. Str. 61</td></tr><tr><td>3 48 55</td><td>Hainlin, Alfred, Kraftfahrer, Karl-Theodorstraße 75</td></tr><tr><td>7 15 08</td><td>Hainthaler, Benno, Speisenwürze, Baier-</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"372 0 585 23\" data-label=\"Page-Header\">MÄNNLICH VOR. V</div>\n<div data-bbox=\"232 23 990 972\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>6 08 69</td>\n<td>Hainthaler sen., J., Landw., Ludwigsfeld 3</td>\n</tr>\n<tr>\n<td>(1 35 74)</td>\n<td>Hainz, Dr. Fritz, R.-A., Sendl.Str. 55</td>\n</tr>\n<tr>\n<td>6 32 61</td>\n<td>Hainz, Georg, Zimmerci, Barellistr. 4</td>\n</tr>\n<tr>\n<td>36 20 73</td>\n<td>Ders., Werk, Lerechenau, Nelkenstr.</td>\n</tr>\n<tr>\n<td>2 88 64</td>\n<td>Hainzl, Jak., Kfm., Schönfeldstr. 34</td>\n</tr>\n<tr>\n<td>2 32 10</td>\n<td>Hainzlmayr, L., Waschanst., Holzstr. 15</td>\n</tr>\n<tr>\n<td>47 54 68</td>\n<td>Haiss, Rob., Kfm., Sperberstr. 58</td>\n</tr>\n<tr>\n<td>5 90 16</td>\n<td>Haist, Elise, Vertrectung, Kobellstr. 2</td>\n</tr>\n<tr>\n<td>5 55 84</td>\n<td>Haist, Karl, Holzbearb.-Masch., Bayerst. 71</td>\n</tr>\n<tr>\n<td>6 28 91</td>\n<td>Ders., Wohn. d. Inh., Hindenburgstr. 61</td>\n</tr>\n<tr>\n<td>29 76 26</td>\n<td>Haitz, Käthe, Blütenstr. 21</td>\n</tr>\n<tr>\n<td>2 45 50</td>\n<td>Hajek, Anton, R.-A., Orlandostr. 1</td>\n</tr>\n<tr>\n<td>3 59 56</td>\n<td>v. Hake, A. Wolf-J., Kfm., MainzerStr. 7c</td>\n</tr>\n<tr>\n<td>29 73 77</td>\n<td>v. Hake, Doris, Schriftst., Amalienstr. 8</td>\n</tr>\n<tr>\n<td>1 02 22</td>\n<td>Hako Hammer K-G, Schuhhaus, Weinstr. 1</td>\n</tr>\n<tr>\n<td>48 00 92</td>\n<td>Halasz, Joh., Konstrukt., Mauerk.Str. 18</td>\n</tr>\n<tr>\n<td>49 36 04</td>\n<td>Halbauer, Jos., Fuhrunt., Peißenb.Str. 22</td>\n</tr>\n<tr>\n<td>3 15 95</td>\n<td>Halbe, Max, Dr., Martiusstr. 6</td>\n</tr>\n<tr>\n<td>1 24 70</td>\n<td>Halbedel, Karl, Holz, Ob.Anger 45</td>\n</tr>\n<tr>\n<td>36 21 52</td>\n<td>Halbedel, Hans, Friseur, Römerstr. 33</td>\n</tr>\n<tr>\n<td>aa aa aa</td>\n<td>TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR - IL - II - TR",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Herbergstr. 877",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "94 08 Halberg Masch.-Bau u. Gießerei A.G., Vertr. Ing. W. Pongratz"
+          },
+          {
+            "extension": "6",
+            "text": "67 44 Halberg-Krauss, Fritz, Kunstmaler, Her- renreiterstr. 4"
+          },
+          {
+            "extension": "7",
+            "text": "30 69 Halbich, G., Bildhauerei, Fürstenr. Str. 257"
+          },
+          {
+            "extension": "49",
+            "text": "27 43 Halbich, Peter, Steinmetz, Gies. Bhfl. 9"
+          },
+          {
+            "extension": "37",
+            "text": "14 40 Halbig, Math., Ww., Elisabethstr. 15"
+          },
+          {
+            "extension": "29",
+            "text": "75 93 R. u. H. Halbig, Schreiner, Auenstr. 27"
+          },
+          {
+            "extension": "48",
+            "text": "07 60 Halbinger, Mich., Zimmermstr., Pos. Str. 21"
+          },
+          {
+            "extension": "6",
+            "text": "24 98 Halbleib, Fritz, Ing., Nibelungenstr. 14"
+          },
+          {
+            "extension": "3",
+            "text": "06 49 Halbreiter, Sophie, Martinusstr. 7"
+          },
+          {
+            "extension": "8",
+            "text": "21 75 Halder, Eugen, Oberstlttn., Weichselbau- merstr. 15"
+          },
+          {
+            "extension": "3",
+            "text": "00 39 Halder, Eugen, Malermstr., Herzogstr. 81"
+          },
+          {
+            "extension": "3",
+            "text": "43 61 Halder, Jos., Schulrat, Simmernstr. 12"
+          },
+          {
+            "extension": "5",
+            "text": "13 32 Halder, Paul, Major a. D., Sophienstr. 1 a"
+          },
+          {
+            "extension": "3",
+            "text": "40 96 Haldmaier, Ferdin., Obst, Bandstr. 4"
+          },
+          {
+            "extension": "36",
+            "text": "22 06 Haldy, Dr. Alex., Geschäftsf., Friedrich- straße 26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "37",
+            "text": "01"
+          },
+          {
+            "extension": "5",
+            "text": "14"
+          },
+          {
+            "extension": "8",
+            "text": "02"
+          },
+          {
+            "extension": "79",
+            "text": "44"
+          },
+          {
+            "extension": "7",
+            "text": "36"
+          },
+          {
+            "extension": "7",
+            "text": "10"
+          },
+          {
+            "extension": "48",
+            "text": "01"
+          },
+          {
+            "extension": "5",
+            "text": "45"
+          },
+          {
+            "extension": "36",
+            "text": "22"
+          },
+          {
+            "extension": "3",
+            "text": "11"
+          },
+          {
+            "extension": "7",
+            "text": "09"
+          },
+          {
+            "extension": "8",
+            "text": "83"
+          },
+          {
+            "extension": "5",
+            "text": "30"
+          },
+          {
+            "extension": "2",
+            "text": "67"
+          },
+          {
+            "extension": "4",
+            "text": "45"
+          },
+          {
+            "extension": "2",
+            "text": "74"
+          },
+          {
+            "extension": "6",
+            "text": "02"
+          },
+          {
+            "extension": "3",
+            "text": "28"
+          },
+          {
+            "extension": "5",
+            "text": "72"
+          },
+          {
+            "extension": "40",
+            "text": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 998 990\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>8 94 80</td>\n<td>Haller, Hans, Zentralheizung, <i>Pla Adolf-Wagner-Str.</i> 18</td>\n</tr>\n<tr>\n<td>8 12 59</td>\n<td><b>Hans Haller Komm.-Ges., Kunstmühle, München-Pasing, Steinerstraße 1</b></td>\n</tr>\n<tr>\n<td>5 14 93</td>\n<td>Haller, Joh. Bapt., PaulHeysestr. 1</td>\n</tr>\n<tr>\n<td>7 22 09</td>\n<td>Haller, Jos., Beamte., Lindenschm.Str. 54</td>\n</tr>\n<tr>\n<td>2 58 55</td>\n<td>Haller, Jos., Gänsemästerei, Viktualienm.</td>\n</tr>\n<tr>\n<td>2 51 82</td>\n<td>Haller, Ludw., Farben, Lilienstr. 36</td>\n</tr>\n<tr>\n<td>3 30 34</td>\n<td>Haller, Ludwig, Vertr., Römerstr. 6</td>\n</tr>\n<tr>\n<td>6 16 52</td>\n<td>Haller, R. &amp; L., Wendl-Dietr.-Str. 10</td>\n</tr>\n<tr>\n<td>5 95 10</td>\n<td>Haller, Rud., Dir., Senefelderstr. 9</td>\n</tr>\n<tr>\n<td>47 65 46</td>\n<td>Haller, Xaver, <i>Geis</i> Seidl-Str. 39a</td>\n</tr>\n<tr>\n<td>29 60 01</td>\n<td>Haller-Göttler, Gg., Komponist, Thierschstraße 47</td>\n</tr>\n<tr>\n<td>48 12 57</td>\n<td>Haller v. Hallerstein, Maria, Freifr., Mauerkircher Str. 31</td>\n</tr>\n<tr>\n<td>4 25 96</td>\n<td>Hallermayer, K., Mech., St.Emer.Str. 18</td>\n</tr>\n<tr>\n<td>2 40 11</td>\n<td>Hallesche Krankenkasse, Marienpl. 11</td>\n</tr>\n<tr>\n<td>3 07 20</td>\n<td><b>Hallhuber, Josef, Herstellung von Möbeln, kunstgewerbliche Werkstätten für Möbel und Innenarchitektur, München 13,</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"187 0 528 20\" data-label=\"Page-Header\">\n<p>W I N D E R M A R K</p>\n</div>\n<div data-bbox=\"11 20 992 992\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>36 21 74</td>\n<td>Hallinger, Adele, Frau, BerlinerStr. 41</td>\n</tr>\n<tr>\n<td>1 06 05</td>\n<td>Gebr. Hallinger, Ingenieurbüro G.m.b.H.,<br/>Industrieanlagen, Fürstenfelder Str. 10</td>\n</tr>\n<tr>\n<td>3 03 00</td>\n<td>Hallinger, Gottfried, Bauunternehmung,<br/>München 23, Giselastraße 1</td>\n</tr>\n<tr>\n<td>7 15 10</td>\n<td>Hallinger, G., Dpl.Ing., Valleystr. 54a</td>\n</tr>\n<tr>\n<td>8 90 06</td>\n<td>Hallinger, Hans, Zimmerel, <i>Pla</i> Mathilden-<br/>straße 13</td>\n</tr>\n<tr>\n<td>3 51 85</td>\n<td>Hallinger, Johannes, Ing., Kaiserpl. 2</td>\n</tr>\n<tr>\n<td>48 07 22</td>\n<td>Hallwachs, Otto, Syndikus, Möhlstr. 37</td>\n</tr>\n<tr>\n<td>5 40 48</td>\n<td>Halm, Theo, Dentist, Rothmundstr. 8</td>\n</tr>\n<tr>\n<td>2 85 11</td>\n<td>Halmburger &amp; Höflich GmbH, Automobile,<br/>Erhardtstr. 8</td>\n</tr>\n<tr>\n<td>1 20 78</td>\n<td>Halmburger, Fritz, Kfm., Neuh.Str. 13</td>\n</tr>\n<tr>\n<td>7 28 06</td>\n<td>Halmheu jr., K. L., Darmschleimerei,<br/>GotzingerPl. 4</td>\n</tr>\n<tr>\n<td>5 75 81</td>\n<td>Hals-, Nasen- Ohrenklin., Pettenk.Str. 8</td>\n</tr>\n<tr>\n<td>59 71 13</td>\n<td>Dieselbe, Oberarzt</td>\n</tr>\n<tr>\n<td>5 30 24</td>\n<td>Dics., Privatabt., Pettenk.Str. 4a</td>\n</tr>\n<tr>\n<td>3 15 36</td>\n<td>Halseband, Friedr., Mottlstr. 6</td>\n</tr>\n<tr>\n<td>2 77 70</td>\n<td>Tr... ..</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>6 36 76</td>\n<td>Halsebrand, Kurt W.,</td>\n<td>Obm Fasanenstr. 16</td>\n</tr>\n<tr>\n<td>59 72 06</td>\n<td>Halter, Adam, H.-Moden,</td>\n<td>Bayerstr. 45</td>\n</tr>\n<tr>\n<td>5 55 31</td>\n<td>Halter, Georg, Prof.,</td>\n<td>Nymphenb.Str. 50</td>\n</tr>\n<tr>\n<td>6 10 85</td>\n<td>Haltmayr, L., Kfm.,</td>\n<td>Thurneyssenstr. 22</td>\n</tr>\n<tr>\n<td>7 28 12</td>\n<td>Haltmeyer, Eugen, Kfm.,</td>\n<td>Gangh.Str. 58</td>\n</tr>\n<tr>\n<td>49 23 35</td>\n<td>Haltmeyer, O. W., Kfm.,</td>\n<td>Üb.d.Klause 7</td>\n</tr>\n<tr>\n<td>37 15 25</td>\n<td>Hamader, Dr. Otto,</td>\n<td>Stahlbau, Agnesstr. 36</td>\n</tr>\n<tr>\n<td>2 64 83</td>\n<td>Hamann, Ed., Leder,</td>\n<td>Ickstattstr. 2b</td>\n</tr>\n<tr>\n<td>7 32 01</td>\n<td>Ders., Wohnung,</td>\n<td>Stielerstr. 7</td>\n</tr>\n<tr>\n<td>5 43 22</td>\n<td>Hamann, Dr. Fritz,</td>\n<td>R.-A., Ottostr. 3</td>\n</tr>\n<tr>\n<td>79 45 08</td>\n<td>Ders., Wohn., Solln,</td>\n<td>Buchhierlstr. 10</td>\n</tr>\n<tr>\n<td>2 47 62</td>\n<td>Hamann, Margarete,</td>\n<td>Jägerstr. 30</td>\n</tr>\n<tr>\n<td>3 38 16</td>\n<td>Hamann, Amtsgcr.-Rat,</td>\n<td>BonnerStr. 24</td>\n</tr>\n<tr>\n<td>36 22 90</td>\n<td>Hambeck, Jos., Hauptm.,</td>\n<td>Hollandstr. 7</td>\n</tr>\n<tr>\n<td>8 23 27</td>\n<td>Hamberger, Aloys,</td>\n<td>Tierarzt i.R., Lochham,<br/>H.-Norkus-Str. 7</td>\n</tr>\n<tr>\n<td>7 49 16</td>\n<td>Hamberger, Ernst,</td>\n<td>Lebensmittel, Forsten-<br/>rieder Str. 26</td>\n</tr>\n<tr>\n<td>29 60 45</td>\n<td>Ders., Kfm.,</td>\n<td>Schraudolphstr. 14</td>\n</tr>\n<tr>\n<td>4 08 98</td>\n<td>Gebr. Hamberger,</td>\n<td>Mehl, Orleansstr. 63</td>\n</tr>\n<tr>\n<td>37 02 53</td>\n<td>Hamberger, Jos.,</td>\n<td>Buchdr., Georgenstr. 113</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "09"
+          },
+          {
+            "extension": "6",
+            "text": "37"
+          },
+          {
+            "extension": "5",
+            "text": "27"
+          },
+          {
+            "extension": "7",
+            "text": "28"
+          },
+          {
+            "extension": "1",
+            "text": "14"
+          },
+          {
+            "extension": "5",
+            "text": "09"
+          },
+          {
+            "extension": "2",
+            "text": "53"
+          },
+          {
+            "extension": "1",
+            "text": "33"
+          },
+          {
+            "extension": "2",
+            "text": "09"
+          },
+          {
+            "extension": "48",
+            "text": "01"
+          },
+          {
+            "extension": "1",
+            "text": "34"
+          },
+          {
+            "extension": "36",
+            "text": "03"
+          },
+          {
+            "extension": "5",
+            "text": "71"
+          },
+          {
+            "extension": "3",
+            "text": "49"
+          },
+          {
+            "extension": "1",
+            "text": "12"
+          },
+          {
+            "extension": "6",
+            "text": "62"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 951\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2 88 24</td>\n<td>Hamerschmid, P.,</td>\n<td>Stand.-Führer,</td>\n<td>Frühlingstr. 27</td>\n</tr>\n<tr>\n<td>37 07 26</td>\n<td>Hameter, Josef,</td>\n<td>Metzger,</td>\n<td>Hiltenssp.Str. 15</td>\n</tr>\n<tr>\n<td>3 32 08</td>\n<td>Hamm, Ed.,</td>\n<td>Dr. jur.,</td>\n<td>Friedrichstr. 17</td>\n</tr>\n<tr>\n<td>2 24 97</td>\n<td>Hamm, Eugen,</td>\n<td>Vertr.,</td>\n<td>Reitmorstr. 54</td>\n</tr>\n<tr>\n<td>8 21 05</td>\n<td>Hamm, Dr. Franz,</td>\n<td>Oberbahnarzt,</td>\n<td>Lochham, Lärchenstr. 7</td>\n</tr>\n<tr>\n<td>2 28 85</td>\n<td>Hamm, Jochen,</td>\n<td>Vertr.,</td>\n<td>Rumfordstr. 2</td>\n</tr>\n<tr>\n<td>3 45 04</td>\n<td>Hamm, Klara,</td>\n<td>Schmuck,</td>\n<td>Werneckstr. 15</td>\n</tr>\n<tr>\n<td>1 20 38</td>\n<td>Hamm, Leonh.,</td>\n<td>Kfm.,</td>\n<td>Löwengrube 22</td>\n</tr>\n<tr>\n<td>49 23 16</td>\n<td>Hammann, Ernst,</td>\n<td>Präsident,</td>\n<td>Ulmenstr. 7</td>\n</tr>\n<tr>\n<td>6 71 44</td>\n<td>Hammann, H.,</td>\n<td>Dr. med.,</td>\n<td>Gutenbergstr. 15</td>\n</tr>\n<tr>\n<td>5 48 14</td>\n<td>Hammann, Joh.,</td>\n<td>Malcr,</td>\n<td>Adalb.Str. 55</td>\n</tr>\n<tr>\n<td>6 37 69</td>\n<td>Hammann, Jul.,</td>\n<td>Geschäftsf.,</td>\n<td>Nibel.Str. 12</td>\n</tr>\n<tr>\n<td>47 65 28</td>\n<td>Hammel, Ernst,</td>\n<td>Rbk.-Dir. a. D.,</td>\n<td>Reinckeistr. 30</td>\n</tr>\n<tr>\n<td>6 47 05</td>\n<td>Hammel, Heinz,</td>\n<td>Volkswirt,</td>\n<td>Nibel.Str. 12</td>\n</tr>\n<tr>\n<td>5 21 31</td>\n<td>Hammel, Karl,</td>\n<td>Abbrüche,</td>\n<td>Luisenstr. 46</td>\n</tr>\n<tr>\n<td>6 13 06</td>\n<td>Hammel, W.,</td>\n<td>Abbrüche,</td>\n<td>Dachauer Str. 347</td>\n</tr>\n<tr>\n<td>3 10 62</td>\n<td>Hammelbacher, Ed.,</td>\n<td>Kfm.,</td>\n<td>Antw.Str. 24</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "München: Hal",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 12 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 95 32</td>\n<td>Hammer, A.,</td>\n<td>Architekt,</td>\n<td>Grasserstr. 7</td>\n</tr>\n<tr>\n<td>8 07 13</td>\n<td>Hammer, Anton,</td>\n<td>Bäckerei,</td>\n<td>Neuaubing, Brunhamstr. 24</td>\n</tr>\n<tr>\n<td>4 48 88</td>\n<td>Dres. Anton u. Karl Hammer</td>\n<td>Physiker,</td>\n<td>Lamontstr. 6</td>\n</tr>\n<tr>\n<td>4 40 98</td>\n<td>Hammer, Carl,</td>\n<td>Ing.,</td>\n<td>Lamontstr. 1</td>\n</tr>\n<tr>\n<td>4 09 46</td>\n<td>Carl Hammer &amp; Co,</td>\n<td>Holz,</td>\n<td>Orleansstr. 3</td>\n</tr>\n<tr>\n<td>3 50 75</td>\n<td>Hammer, E.,</td>\n<td>Vertr.,</td>\n<td>Morawitzkystr. 3</td>\n</tr>\n<tr>\n<td>59 71 24</td>\n<td>Hammer, Erwin,</td>\n<td>Schlosserei,</td>\n<td>Heßstr. 76</td>\n</tr>\n<tr>\n<td>5 36 80</td>\n<td>Hammer, Dr. Franz,</td>\n<td>R.-A.,</td>\n<td>Arnulfstr. 16</td>\n</tr>\n<tr>\n<td>6 62 92</td>\n<td>Hammer, Hans,</td>\n<td>Amortstr.</td>\n<td>1</td>\n</tr>\n<tr>\n<td>1 28 49</td>\n<td>Hammer, Hubert,</td>\n<td>Hackenstr.</td>\n<td>4</td>\n</tr>\n<tr>\n<td>8 90 57</td>\n<td>Hammer, Karl,</td>\n<td>Bäcker,</td>\n<td><i>Pla</i> Pas.Str. 30</td>\n</tr>\n<tr>\n<td>4 33 81</td>\n<td>Hammer, Karl,</td>\n<td>Preysingstr.</td>\n<td>16</td>\n</tr>\n<tr>\n<td>2 53 89</td>\n<td>Hammer, Dr. Paul,</td>\n<td>Bankpräś.,</td>\n<td>Ludw.Str. 1</td>\n</tr>\n<tr>\n<td>7 42 47</td>\n<td>Hammer, P.,</td>\n<td>Vertr.,</td>\n<td><i>Grha</i> Löns-Str. 9</td>\n</tr>\n<tr>\n<td>29 71 89</td>\n<td>Hammerdinger,</td>\n<td>Käthe,</td>\n<td>Schneiderin, Schnorrstr. 1</td>\n</tr>\n<tr>\n<td>7 39 39</td>\n<td>Hammerer &amp; Krenn,</td>\n<td>Musikl.,</td>\n<td>Gotz.Pl. 5</td>\n</tr>\n<tr>\n<td>6 36 47</td>\n<td>Hammerer, Jos.,</td>\n<td>Metzgerm.,</td>\n<td>Renatastr. 30</td>\n</tr>\n<tr>\n<td>5 24 90</td>\n<td>Hammerl, Franziska,</td>\n<td>Fußpf.,</td>\n<td>Bavariar. 30</td>\n</tr>\n<tr>\n<td>6 04 12</td>\n<td>Hammerl</td>\n<td>Ter</td>\n<td>Tanddentist</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Unterman</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "zing, Moosacher Str. 110",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "22 81 Hammerl, M., Schreiner, Weißenb. Str. 44"
+          },
+          {
+            "extension": "29",
+            "text": "74 85 Hammerl, Wilh., Kraftwagenführer, Königininstr. 33"
+          },
+          {
+            "extension": "1",
+            "text": "01 96 Hammermann, Hch., Damenhüte, Maxim.-Platz 12"
+          },
+          {
+            "extension": "6",
+            "text": "45 81 Hammerschmidt, Elise, Ww., Klugstr. 156"
+          },
+          {
+            "extension": "79",
+            "text": "32 24 Hammerschmidt, Franz, Dipl.-Ing., Pu Wolfratshauser Str. 46"
+          },
+          {
+            "extension": "4",
+            "text": "28 88 Hammerschmidt, W., Kfm., Hofang. Str. 66"
+          },
+          {
+            "extension": "3",
+            "text": "50 67 Hammler, Jak., Spengl., Hohenz. Str. 47"
+          },
+          {
+            "extension": "2",
+            "text": "76 02 Hammon, Hans, Blumen, Schellingstr. 29"
+          },
+          {
+            "extension": "6",
+            "text": "03 74 Hammon, Hans, Zigarren, Leonrodstr. 16"
+          },
+          {
+            "extension": "2",
+            "text": "09 06 Hammon, Joh., Vertr., Schlotth. Str. 15"
+          },
+          {
+            "extension": "6",
+            "text": "19 69 Hammon, Ludw., Bankdir., Böcklinstr. 18"
+          },
+          {
+            "extension": "59",
+            "text": "73 30 Hamp, L., Mineralw., Schwanth. Str. 141"
+          },
+          {
+            "extension": "48",
+            "text": "06 58 Hampe, W., Reichsrichter, Mauerk. Str. 3"
+          },
+          {
+            "extension": "7",
+            "text": "31 17 Hampel, Jos., Mechan., Thalk. Str. 98"
+          },
+          {
+            "extension": "5",
+            "text": "39 62 Hamp, Amanda, Ww., Luisenstr. 54"
+          },
+          {
+            "extension": "3",
+            "text": "50 17 Hamp, Frz., Metzgermstr., Pündterpl. 2"
+          },
+          {
+            "extension": "29",
+            "text": "63 01 Hamp, Jos., Amtmann, Klenzestr. 83"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "3",
+            "text": "10"
+          },
+          {
+            "extension": "5",
+            "text": "46"
+          },
+          {
+            "extension": "5",
+            "text": "54"
+          },
+          {
+            "extension": "4",
+            "text": "15"
+          },
+          {
+            "extension": "5",
+            "text": "61"
+          },
+          {
+            "extension": "4",
+            "text": "03"
+          },
+          {
+            "extension": "3",
+            "text": "01"
+          },
+          {
+            "extension": "2",
+            "text": "28"
+          },
+          {
+            "extension": "2",
+            "text": "50"
+          },
+          {
+            "extension": "2",
+            "text": "37"
+          },
+          {
+            "extension": "1",
+            "text": "15"
+          },
+          {
+            "extension": "5",
+            "text": "15"
+          },
+          {
+            "extension": "36",
+            "text": "06"
+          },
+          {
+            "extension": "6",
+            "text": "14"
+          },
+          {
+            "extension": "5",
+            "text": "83"
+          },
+          {
+            "extension": "5",
+            "text": "23"
+          },
+          {
+            "extension": "8",
+            "text": "01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>59 71 55</td>\n<td>Handon Labor. H. Domenges jr. u. Paula Doenges, SchleißheimerStr. 55</td>\n</tr>\n<tr>\n<td>48 10 10</td>\n<td>Handrek, H., Obering., Kufst.Str. 2</td>\n</tr>\n<tr>\n<td>7 14 12</td>\n<td>Handschuch, Aug., Insp., Isartalstr. 38</td>\n</tr>\n<tr>\n<td>4 51 59</td>\n<td>Handschuch, Franz, Schreinerei, Neubiberg, Schulzstr. 113</td>\n</tr>\n<tr>\n<td>6 33 68</td>\n<td>Handschuch, Gg., Insp., De-la-Paz-Str. 12</td>\n</tr>\n<tr>\n<td><b>SmI.-Nr</b></td>\n<td rowspan=\"2\"><b>( Handschuhfabrik J. Roeckl, gegr. 1839, Roecklplatz 2. T German P 970</b></td>\n</tr>\n<tr>\n<td><b>7 26 07</b></td>\n</tr>\n<tr>\n<td>4 09 03</td>\n<td>Handschuhmacher, Heini, Schausp., Holbeinstr. 36</td>\n</tr>\n<tr>\n<td>(2 18 41)</td>\n<td>Handstick. Ges.mBH, Rindermarkt 8</td>\n</tr>\n<tr>\n<td>2 13 87</td>\n<td>Handwerck, Dr. Carl, Arzt, H.Rud.Str. 8</td>\n</tr>\n<tr>\n<td>2 68 41</td>\n<td>Handwerk, das Bayerische, Rumfordstr. 27</td>\n</tr>\n<tr>\n<td>2 23 22</td>\n<td>Handwerker, Dr. Otto, Dir., Rosenb.Str. 5</td>\n</tr>\n<tr>\n<td><b>1 31 34</b></td>\n<td><b>Handwerkskammer München, München, 6 Sch, Damenstiftstr. 5</b></td>\n</tr>\n<tr>\n<td>3 27 27</td>\n<td>Haneder, Max, Schreinerei, Giselastr. 27</td>\n</tr>\n<tr>\n<td>37 08 24</td>\n<td>Hanemann, Fr., O.Kirchenrat, Tengstr. 20</td>\n</tr>\n<tr>\n<td>6 08 75</td>\n<td>Hanemann, Irene, Frau, Fuchsstr. 5</td>\n</tr>\n<tr>\n<td>3 40 59</td>\n<td>Hanewacker, O., Tonkünstl., Hohenz.-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"187 0 387 23\" data-label=\"Page-Header\">\n<p>WUOLW 170</p>\n</div>\n<div data-bbox=\"0 23 987 972\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>3 32 53</td>\n<td>Hanfstaengl, Dr. Eberh., Dir. i. R., GedonstraÙe 4</td>\n</tr>\n<tr>\n<td>2 84 48</td>\n<td>Hanfstaengl, Edgar, Kfm., Widenm.Str. 18</td>\n</tr>\n<tr>\n<td>79 43 61</td>\n<td>Hanfstaengl, Erna, Solln, Marg.Str. 6</td>\n</tr>\n<tr>\n<td>1 04 31</td>\n<td>Hanfstaengl, Franz, Kunsthdlg., Karlspl. 7</td>\n</tr>\n<tr>\n<td>2 95 56</td>\n<td>Hanfstaengl, Franz, Kunstanst., Widenmayerstr. 18</td>\n</tr>\n<tr>\n<td>47 15 89</td>\n<td>Hanfstängl, Jos., Wald-Café, Straßlach</td>\n</tr>\n<tr>\n<td>6 62 03</td>\n<td>Hanfstängl, K., zur grünen Eiche 37</td>\n</tr>\n<tr>\n<td>3 18 25</td>\n<td>Hanfstaengl, Marie, Ww., Leop.Str. 135a</td>\n</tr>\n<tr>\n<td>2 31 57</td>\n<td>Hanft, K., Schausp., Pestalozzistr. 21</td>\n</tr>\n<tr>\n<td>59 71 64</td>\n<td>Hanft, O., Prok., Waltherstr. 21</td>\n</tr>\n<tr>\n<td>59 66 38</td>\n<td>Hangl, Joseph, Gaststätte, Bayerstr. 81</td>\n</tr>\n<tr>\n<td>48 07 12</td>\n<td>Haniel, Curt, Pienzenauerstr. 38</td>\n</tr>\n<tr>\n<td>48 09 38</td>\n<td>Haniel, Franz, Dr., Am Priel 2</td>\n</tr>\n<tr>\n<td>5 40 27</td>\n<td>Haniels Handelsges., Kohlen, Ottostr. 11</td>\n</tr>\n<tr>\n<td>5 57 56</td>\n<td>Hanigk, Rich., Vertr., Zentnerstr. 7</td>\n</tr>\n<tr>\n<td>6 18 10</td>\n<td>Hanisch, Bruno, Straßenbau, Volpinistr. 2</td>\n</tr>\n<tr>\n<td>6 71 46</td>\n<td>Ders., Lagerplatz, Unt.Krautstr. 27</td>\n</tr>\n<tr>\n<td>1 18 49</td>\n<td>Hanisch, Curt, Ingen., Briennerstr. 8</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"0 972 970 994\" data-label=\"Page-Footer\">\n<p>— 41 —</p>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 950\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>79 47 56</td>\n<td>Hanisch, Wilh., Dipl.-Ing., Solle, Hofbrunnstr. 6</td>\n</tr>\n<tr>\n<td>79 47 27</td>\n<td>Hankamer, Dr. Paul, Prof., Solln, Hofbrunnstr. 51</td>\n</tr>\n<tr>\n<td>79 41 60</td>\n<td>Hanke, Erich, Ing., Großhesselohe, Rosenstraße 9</td>\n</tr>\n<tr>\n<td>4 48 35</td>\n<td>Hanke, Oskar, Daglfinger Str. 82</td>\n</tr>\n<tr>\n<td>4 47 60</td>\n<td>Hankofer, Franz, Keplerstr. 7</td>\n</tr>\n<tr>\n<td>47 64 47</td>\n<td>Hann, G., Kammerlänger, Reineckestr. 10</td>\n</tr>\n<tr>\n<td>47 23 55</td>\n<td>Hannaberger, Franziska, Hebamme, Unterhaching, Ad. Hitler-Str. 6</td>\n</tr>\n<tr>\n<td>2 68 09</td>\n<td>Hannamann, Fritz, Möbel, Barerstr. 37</td>\n</tr>\n<tr>\n<td>7 36 79</td>\n<td>Hannamann, Gg., Tapezier., Großhadern Fürstenstr. 1</td>\n</tr>\n<tr>\n<td>5 92 76</td>\n<td>Hannemann, D. K., Arzt, R. Wagner-Str. 5</td>\n</tr>\n<tr>\n<td>37 22 00</td>\n<td>Hannemann, Walter, Maler, Bauerstr. 20</td>\n</tr>\n<tr>\n<td>5 76 76</td>\n<td>Hannemann, Wilh., Drog., Heßstr. 88</td>\n</tr>\n<tr>\n<td>3 05 78</td>\n<td>Hanner, Josef, Baugesch., Friedrichstr. 28</td>\n</tr>\n<tr>\n<td>2 55 18</td>\n<td>Hannes, M., Bücherrev., Corneliusstr. 3</td>\n</tr>\n<tr>\n<td>2 74 56</td>\n<td>Hannes, Pauline, Ww., Isartorpl. 5</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "m — Harrsch (Band IV) 859",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 11 771 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4 08 92</td>\n<td>Hannesen, E.,</td>\n<td>Vertr., Schneckenb.Str. 17</td>\n</tr>\n<tr>\n<td>47 35 07</td>\n<td>Hanneschläger, Ludw.,</td>\n<td>Wirt, Riem 6</td>\n</tr>\n<tr>\n<td>2 02 63</td>\n<td>Hannov. Lebensversich.aG,</td>\n<td>Tal 18</td>\n</tr>\n<tr>\n<td>79 33 80</td>\n<td>Hanny, Seb.,</td>\n<td>Buchhalter, <i>Pu</i> Hitlerstr. 49</td>\n</tr>\n<tr>\n<td>8 97 81</td>\n<td>Hanold, Joh.,</td>\n<td>Milch, <i>Pla</i> Münchener Str. 8</td>\n</tr>\n<tr>\n<td>6 47 19</td>\n<td>Hanomag-Automobile,</td>\n<td>Dachauer Str. 112</td>\n</tr>\n<tr>\n<td>5 68 22</td>\n<td>Hanomag-Schlepper,</td>\n<td>Lindwurinstr. 77</td>\n</tr>\n<tr>\n<td>3 35 54</td>\n<td>Hanomag-Schlepper,</td>\n<td>Reparat., Freisinger<br/>Landstr. 43</td>\n</tr>\n<tr>\n<td>4 09 04</td>\n<td>Hanrieder, Franz,</td>\n<td>Kohlen, Lohstr. 17</td>\n</tr>\n<tr>\n<td>49 31 20</td>\n<td>Hanrieder, H.,</td>\n<td>Baugesch., Schönchenstr. 10</td>\n</tr>\n<tr>\n<td>8 14 91</td>\n<td>Hanrieder, J.,</td>\n<td>Mech.-Werkstatt, <i>Pa</i>s Mün-<br/>chener Str. 30</td>\n</tr>\n<tr>\n<td>59 77 91</td>\n<td>Ders.,</td>\n<td>Wohnung, Trappentreustr. 31</td>\n</tr>\n<tr>\n<td>37 22 58</td>\n<td>Hanrieder, L.,</td>\n<td>Schlosser, Schleißh.Str. 130</td>\n</tr>\n<tr>\n<td>4 49 44</td>\n<td>Hans Mielich-Apotheke,</td>\n<td>Konradinstr. 16</td>\n</tr>\n<tr>\n<td>2 94 41</td>\n<td>Hans-Sachs-Bad GmbH,</td>\n<td>H.Sachs-Str. 14</td>\n</tr>\n<tr>\n<td>(1 02 52)</td>\n<td>Hans-Sachs-Lichtspiele,</td>\n<td>H.Sachs-Str. 20</td>\n</tr>\n<tr>\n<td>2 23 18</td>\n<td>Hans-Schemm-Aufbauschule,</td>\n<td>Frühl.Str. 1</td>\n</tr>\n<tr>\n<td>8 04 60</td>\n<td>Hans-Schemm-Hochschule</td>\n<td>f. Lehrerbil-<br/>dung, <i>Pa</i>s Bismarckstr. 20</td>\n</tr>\n<tr>\n<td>2 17 54</td>\n<td>Dieselbe</td>\n<td>Studentenschaft</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 767 989\" data-label=\"Table\">\n<table>\n<tr>\n<td>2 50 82</td>\n<td>Hans, Alb., Malernstr., Ickstattstr. 20</td>\n</tr>\n<tr>\n<td>37 11 40</td>\n<td>Hansadruckerei, Arcisstr. 61</td>\n</tr>\n<tr>\n<td>47 35 51</td>\n<td>Hansa Flugdienst GmbH, Riem, Flughafen</td>\n</tr>\n<tr>\n<td>79 44 60</td>\n<td>Hansa Kettenfbr. Haunschild &amp; Co, Großhesseloher Str. 8</td>\n</tr>\n<tr>\n<td>47 35 51</td>\n<td>Hansa Luftbild-Ges.mbH, Riem</td>\n</tr>\n<tr>\n<td>5 74 85</td>\n<td>Hanse, Die, Krankenschutz, Karlspl. 24</td>\n</tr>\n<tr>\n<td>1 26 47</td>\n<td>Hanscatische v. 1826 u. Merkur Ersatzkasse, Neuhauserstr. 14</td>\n</tr>\n<tr>\n<td>2 04 94</td>\n<td>Hanscatische Krankenvers. v. 1875 Merkur, Rindermarkt 6</td>\n</tr>\n<tr>\n<td>3 38 46</td>\n<td>Hanselmann, G., Dentist, Hanselm. Str. 23</td>\n</tr>\n<tr>\n<td>4 36 46</td>\n<td>Hanselmann, Hans, Prok., Alpenpl. 5</td>\n</tr>\n<tr>\n<td>2 29 96</td>\n<td>Hanselmann, L., Molkerei, H. Rudolf-St. 28</td>\n</tr>\n<tr>\n<td>8 96 22</td>\n<td>Hanselmann, P., Maler, <i>Gräf</i> Im Tann 1</td>\n</tr>\n<tr>\n<td>6 19 82</td>\n<td>Hanselmann, Wilh., Bäcker, Leonrodstr. 47</td>\n</tr>\n<tr>\n<td>4 25 62</td>\n<td>Hansen, Emil, Prok., L. Grahn-Str. 42</td>\n</tr>\n<tr>\n<td>4 30 60</td>\n<td>Hansen, Oscar M., Vertr., Trogerstr. 46</td>\n</tr>\n<tr>\n<td>3 51 67</td>\n<td>Hansen, Peter, Kunstmaler, Ohmstr. 8</td>\n</tr>\n<tr>\n<td>8 91 82</td>\n<td>Ders., Wohn., Stockdorf, Bahnstr. 24</td>\n</tr>\n<tr>\n<td>8 12 95</td>\n<td>Hansen, P. A., Baurat, <i>Obm</i> Grandastr. 44</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 17 762 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 16 13</td>\n<td>Hansjakob, Peter, Früchtehdlg., Triftstr. 4</td>\n</tr>\n<tr>\n<td>1 36 39</td>\n<td>Hansmann, Dora, Maximilianspl. 15</td>\n</tr>\n<tr>\n<td>79 34 09</td>\n<td>Hanssen, Dr. K. W., Min.-Rat, <i>Pu</i> Heimweg 33</td>\n</tr>\n<tr>\n<td>59 74 92</td>\n<td>Hanstein, Carl, BriennerStr. 32</td>\n</tr>\n<tr>\n<td>6 45 40</td>\n<td>Hantschk, A., Metzger, Sandrartstr. 22</td>\n</tr>\n<tr>\n<td>8 14 62</td>\n<td>Hanusch, Arth., Install., <i>Obm</i> Betzenstr. 7</td>\n</tr>\n<tr>\n<td>7 43 67</td>\n<td>Hanutko, Erich, Prokurist, Schong.Str. 6</td>\n</tr>\n<tr>\n<td>6 22 65</td>\n<td>Hanzer, Willy, Betriebsl., Nymph.Str. 78</td>\n</tr>\n<tr>\n<td>1 33 13</td>\n<td>Hanzl, Dr. Franz, Arzt, Rosental 19</td>\n</tr>\n<tr>\n<td>3 31 56</td>\n<td>Hapfelmeier, G., Spengler, Theodorstr. 90</td>\n</tr>\n<tr>\n<td>8 12 34</td>\n<td>Happach, Adalb., Spenglermstr., Pasing, Horst-Wessel-Str. 21</td>\n</tr>\n<tr>\n<td>7 13 04</td>\n<td>Happel, Therese, Friseur, Zegginstr. 3</td>\n</tr>\n<tr>\n<td>7 33 12</td>\n<td>Gebr. Happich, GmbH, <i>Grha</i> Heiglstr. 20</td>\n</tr>\n<tr>\n<td>2 17 05</td>\n<td>Harand, Max, Ingen., Auenstr. 2</td>\n</tr>\n<tr>\n<td>7 43 71</td>\n<td>Harbauer, Max, Dir., Kriegersiedlung 22</td>\n</tr>\n<tr>\n<td>4 20 36</td>\n<td>Harbeck, Alois, Fuhrbetrieb, <b>M 8, Orleans-</b><br/><b>straße 29</b></td>\n</tr>\n<tr>\n<td>2 74 17</td>\n<td>Ders., Wohnung, Widenmayerstr. 14</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"10 964 716 992\" data-label=\"Page-Footer\">\n<p>AN 00 20      Telefonbuch      A      Das      Dokumente      EX1414      A</p>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 760 990\" data-label=\"Text\"><table><tbody><tr><td>5 15 19</td><td>Harburger Gummiw.-Fbr., Phoenix AG,<br/>Mittererstr. 10</td></tr><tr><td>7 46 56</td><td>Harder, Meiser &amp; Co, Gotzinger Str. 48</td></tr><tr><td>7 29 98</td><td>Dies., Einfuhrstelle, Thalkirchner Str. 128</td></tr><tr><td>2 35 21</td><td>Harder, Josef, Immob., Amalienstr. 11</td></tr><tr><td>6 29 86</td><td>Harder, Jos. Arthur, Kfm., Lampad.Str. 8</td></tr><tr><td>5 42 43</td><td>Harder, Luise, Friseur, DachauerStr. 2</td></tr><tr><td>5 58 92</td><td>Harder, Marie, Moden, Karlstr. 13</td></tr><tr><td>2 30 31</td><td>Harder, Dr. Rich., Prof., Ludwigstr. 19</td></tr><tr><td>1 24 37</td><td>Hardt, Karl, R.-A., Karlsplatz 6</td></tr><tr><td>8 10 84</td><td>Ders., Wohnung, M 42, Schackystr. 23</td></tr><tr><td>5 76 96</td><td>Rich.. Hardt KG, Zentralheiz.-Bedarf,<br/>Landwehrstr. 85</td></tr><tr><td>8 93 43</td><td>Hardung, Marie, Stockdorf, Tellhöhe 32</td></tr><tr><td>4 04 01</td><td>Urs. Hareißer &amp; Hans Bauer, Uhren, Inn.<br/>Wiener Str. 23</td></tr><tr><td>6 31 22</td><td>Hargasser, Georg, Milch, Leonrodstr. 28</td></tr><tr><td>7 13 46</td><td>Hargesheimer, Jos., Rappenseestr. 2</td></tr><tr><td>3 00 61</td><td>Haring, Heinr., Dek.Maler, Römerstr. 33</td></tr><tr><td>8 82 76</td><td>Harjes, Louise, Gauting, Unterbr.Str. 47</td></tr><tr><td>37 18 59</td><td>Harlacher, L., Hiltenspergerstr. 28</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "münster Str. 9",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "94 51 Harleß, Fritz, Kfm., Bayerstr. 95"
+          },
+          {
+            "extension": "5",
+            "text": "70 12 Harless, Hans, Photoatel., Kazinairstr. 35"
+          },
+          {
+            "extension": "2",
+            "text": "74 97 Harley-Davidson, Motorräder, Isarthorpl. 3"
+          },
+          {
+            "extension": "2",
+            "text": "74 89 Harlinghausen, Fr., Auskunftsei, Ludwig- straße 11"
+          },
+          {
+            "extension": "1",
+            "text": "07 35 Harlsse, Dr. Bruno, Arzt, Kaufingerstr. 37"
+          },
+          {
+            "extension": "8",
+            "text": "07 75 Ders., Wohn., Agnes-Bernauer-Pl. 4"
+          },
+          {
+            "extension": "8",
+            "text": "90 54 Harm, Herm., Krailling, Dürerstr. 18"
+          },
+          {
+            "extension": "2",
+            "text": "67 99 Harm, Wilhelm, Ickstattstr. 5"
+          },
+          {
+            "extension": "3",
+            "text": "17 05 v. Harnier, Dr. Frhr. Adolf, R.A., Hohen- staufenstr. 5 (3 10 53) v. Harnier, Frhr. G., Vertr., Plancttastr. 8"
+          },
+          {
+            "extension": "29",
+            "text": "62 35 Harnisch, K., Oberltn., Adelg.Str. 36"
+          },
+          {
+            "extension": "2",
+            "text": "34 34 Harpener Bergbau AG, Liebigstr. 39"
+          },
+          {
+            "extension": "37",
+            "text": "04 89 Harpfinger, A., Fahrlehrer, Adelh.Str. 10"
+          },
+          {
+            "extension": "4",
+            "text": "02 26 Harpfinger, Mich., Fahrräder, Walpurgis- straße 14"
+          },
+          {
+            "extension": "3",
+            "text": "10 74 v. Harrach, Graf Hans-Albrecht, Bildh., BiedersteinerStr. 21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 754 943\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>37 25 84</td>\n<td>Harrach, K., Finanzrat, Elisabethstr. 30</td>\n</tr>\n<tr>\n<td>2 08 34</td>\n<td>Harrach, Mecht., Gräf., Amalienstr. 4</td>\n</tr>\n<tr>\n<td>2 66 72</td>\n<td>Harras, Anna, Strickerei, Orlandostr. 1</td>\n</tr>\n<tr>\n<td>29 66 73</td>\n<td>Harras, Arnulf, Ingenieur, Triststr. 13</td>\n</tr>\n<tr>\n<td>2 12 43</td>\n<td>Harras, G., Vervielfält., Sternstr. 10</td>\n</tr>\n<tr>\n<td>8 22 97</td>\n<td>Harras, Maria, Musiklehr., <i>Das</i> Irminfriedstr. 3</td>\n</tr>\n<tr>\n<td>37 16 27</td>\n<td>Harras, Rob., Vertr., KrumbacherStr. 4</td>\n</tr>\n<tr>\n<td>5 30 62</td>\n<td>Harras, Rob., Chem.Fbr., Lindwurmstr. 77</td>\n</tr>\n<tr>\n<td>7 11 43</td>\n<td>Harras-Lichtspiele, Plinganserstr. 42</td>\n</tr>\n<tr>\n<td>6 47 99</td>\n<td>Harrasser, Rud., Archit., Hanfst.Str. 8</td>\n</tr>\n<tr>\n<td>37 24 71</td>\n<td>Harrer, Alfons, Schleißheimer Str. 71</td>\n</tr>\n<tr>\n<td>37 11 92</td>\n<td>Harrer, Hans, Metzger, Schleißh.Str. 77</td>\n</tr>\n<tr>\n<td>(2 36 55)</td>\n<td>Harrer, Hans, Strümpfe, Ohlmüllerstr. 1</td>\n</tr>\n<tr>\n<td>(2 59 87)</td>\n<td>Harrer, J., Käsegroßhandlung</td>\n</tr>\n<tr>\n<td>2 36 55</td>\n<td>Harrer, Käthe, Stickerei, Ohlmüllerstr. 1</td>\n</tr>\n<tr>\n<td>4 11 50</td>\n<td>Harrer, Luise, Hausbes., Inn.Wienerstr. 50</td>\n</tr>\n<tr>\n<td>48 12 97</td>\n<td>Harrer, Otto, Frau, MauerkircherStr. 12</td>\n</tr>\n<tr>\n<td>79 47 11</td>\n<td>Harrfeldt, H., Dr., Solln, Hindenb.-Str. 33</td>\n</tr>\n<tr>\n<td>6 01 82</td>\n<td>H. Harrsch Nf GmbH, Lachnerstr. 1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"488 959 510 989\" data-label=\"Page-Footer\">\n<p>*</p>\n</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

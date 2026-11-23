@@ -1,0 +1,733 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "· siehe am Kopf von Linz (S. 522).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"293 11 998 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>25 97 34</td>\n<td>Forstner, K., Schlosserei, Klammstr. 3</td>\n</tr>\n<tr>\n<td>25 98 12</td>\n<td>Fragner, Anna, Kol.-W., Drouostr. 3</td>\n</tr>\n<tr>\n<td>25 22 01</td>\n<td>Franck, Dr. A., Amtsleit., Bürgerstr. 35</td>\n</tr>\n<tr>\n<td>2 21 28</td>\n<td>Franck, Carl, Frau, Khevenh.Str. 22</td>\n</tr>\n<tr>\n<td>2 39 87</td>\n<td>Franck, Gust. Hch., Auf der Gugl 48</td>\n</tr>\n<tr>\n<td><b>2 64 16</b></td>\n<td><b>Heinrich Franck Söhne G. m. b. H., Kaffeemittelfabrik, Linz/Donau</b></td>\n</tr>\n<tr>\n<td>2 29 47</td>\n<td>Franck, Walter, Fbr., Franckstr. 2</td>\n</tr>\n<tr>\n<td>2 35 48</td>\n<td>Ders., Waldhaus, Pöstlingsberg</td>\n</tr>\n<tr>\n<td>2 47 59</td>\n<td>Frank, Eugen, Kfm., Stelzhamerstr. 2</td>\n</tr>\n<tr>\n<td>25 32 86</td>\n<td>Frank, Hermann, Landstr. 44</td>\n</tr>\n<tr>\n<td>25 34 13</td>\n<td>Frank, Marianne, Landstr. 60</td>\n</tr>\n<tr>\n<td>25 65 71</td>\n<td>Frank, Osw., Reg.-Rat, Volksf.Str. 8</td>\n</tr>\n<tr>\n<td><b>2 47 59</b></td>\n<td><b>Frank &amp; Moormann, Holzwohlinindustrie u. Holzhandelsges., Stelzhamer Straße 2</b></td>\n</tr>\n<tr>\n<td>25 68 84</td>\n<td>Dies., Lager und Hobelwerk</td>\n</tr>\n<tr>\n<td>25 83 22</td>\n<td>Franke, Anton, Rudolfstr. 30</td>\n</tr>\n<tr>\n<td>25 75 06</td>\n<td>Franta, Prof., H., Kunstmal., Landstr. 57</td>\n</tr>\n<tr>\n<td>25 24 13</td>\n<td>Franzmaier, Osk., Kfm., Mittelgasse 3</td>\n</tr>\n<tr>\n<td>25 24 13</td>\n<td>Franzmaier &amp; Bartl, Likörfbr.</td>\n</tr>\n<tr>\n<td>2 17 18</td>\n<td>Frauen- u. Entbind.-Hein d. Dtsch. Roten Kreuzes Kharanhillenstr. 10</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 0 998 990\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>2 41 56</td>\n<td>Frauenberufsschule, staatl. gewerbl. u. hauswirtsch., Harrachstr. 26</td>\n</tr>\n<tr>\n<td>2 47 35</td>\n<td>Frauenklinik, Keplerstr. 47</td>\n</tr>\n<tr>\n<td>25 90 43</td>\n<td>Fraunberger, Gerlinde, Hundepfl., Kapellenstr. 7</td>\n</tr>\n<tr>\n<td>25 90 43</td>\n<td>Fraunberger, R., Tierarzt, Kap.Str. 7</td>\n</tr>\n<tr>\n<td>3 91 11</td>\n<td>Freier Grundner, Neunkirchen, Baustelle Hermann-Göring-Werke</td>\n</tr>\n<tr>\n<td>2 42 89</td>\n<td>Freibankstelle Urfahr, Rudolfstr. 18</td>\n</tr>\n<tr>\n<td>25 56 84</td>\n<td>Freilinger, Franz, Dr., Ing.Stern-Str. 8</td>\n</tr>\n<tr>\n<td>25 40 41</td>\n<td>Freinhofer, Jos., Gemischtwr., Kapuzinerstraße 29</td>\n</tr>\n<tr>\n<td>2 27 61</td>\n<td>Freiseisen, R., Vertr., Volksf.Str. 20</td>\n</tr>\n<tr>\n<td>2 45 15</td>\n<td>Fremuth, Dr. C., Zahnarzt, Schillerstr. 1</td>\n</tr>\n<tr>\n<td>2 45 14</td>\n<td>Derselbe, Wohnung, Schillerstr. 1</td>\n</tr>\n<tr>\n<td>25 42 04</td>\n<td>Frenzel, Dr. Hans, Ing.-chem.</td>\n</tr>\n<tr>\n<td>2 38 15</td>\n<td>Freund, Ad., SA.Fhr., Rainerstr. 12</td>\n</tr>\n<tr>\n<td>25 32 41</td>\n<td>Freund, A., Zollinsp., Schwarzstr. 45</td>\n</tr>\n<tr>\n<td>25 43 55</td>\n<td>Frey, Benj., Rechn.-Dir., Mozartstr. 26</td>\n</tr>\n<tr>\n<td>25 70 51</td>\n<td>Fridrich, Oskar, Marienstr. 11</td>\n</tr>\n<tr>\n<td>25 86 83</td>\n<td>Friedhof, Israelitischer, Lustenau 101</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "25",
+            "text": "97"
+          },
+          {
+            "extension": "25",
+            "text": "80"
+          },
+          {
+            "extension": "2",
+            "text": "28"
+          },
+          {
+            "extension": "2",
+            "text": "35"
+          },
+          {
+            "extension": "25",
+            "text": "36"
+          },
+          {
+            "extension": "39",
+            "text": "06"
+          },
+          {
+            "extension": "3",
+            "text": "83"
+          },
+          {
+            "extension": "25",
+            "text": "23"
+          },
+          {
+            "extension": "2",
+            "text": "30"
+          },
+          {
+            "extension": "25",
+            "text": "30"
+          },
+          {
+            "extension": "25",
+            "text": "66"
+          },
+          {
+            "extension": "25",
+            "text": "50"
+          },
+          {
+            "extension": "25",
+            "text": "40"
+          },
+          {
+            "extension": "25",
+            "text": "24"
+          },
+          {
+            "extension": "25",
+            "text": "21"
+          },
+          {
+            "extension": "25",
+            "text": "49"
+          },
+          {
+            "extension": "25",
+            "text": "30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"287 0 997 991\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>25 94 83</td>\n<td>Fröschl, Karol., Gemischtwr., Marg.Str. 15</td>\n</tr>\n<tr>\n<td>2 26 01</td>\n<td>Fröstl, Walter, Radio, Herrenstr. 24</td>\n</tr>\n<tr>\n<td>25 66 12</td>\n<td>Fröstl, W., Techn.-Kfm., Walterstr. 26</td>\n</tr>\n<tr>\n<td>2 29 11</td>\n<td>Fromherz, Dr. Paul, R.-A., Graben 9</td>\n</tr>\n<tr>\n<td>25 74 23</td>\n<td>Froschauer, J., Schuldirl., Elisab.Str. 9</td>\n</tr>\n<tr>\n<td>25 66 93</td>\n<td>Froß, M., Geflügel, Klosterstr. 3</td>\n</tr>\n<tr>\n<td>2 20 65</td>\n<td>Fruchtbörse, Oberösterr., Humb.Str. 35</td>\n</tr>\n<tr>\n<td>25 92 95</td>\n<td>Frühwirth, Berta, Gemischtwr., Frei-<br/>städterStr. 123</td>\n</tr>\n<tr>\n<td>25 68 91</td>\n<td>Frühwirth, H., Glaserei, Schreberstr. 11</td>\n</tr>\n<tr>\n<td>25 27 05</td>\n<td>Frühwirth, Marie, Landstr. 83</td>\n</tr>\n<tr>\n<td>25 27 14</td>\n<td>Fruhwirth, Th., Ing., Hofrat, Hptstr. 35</td>\n</tr>\n<tr>\n<td>2 18 79</td>\n<td>Fuchs, Aug., Bäckerei, Bethl.Str. 46</td>\n</tr>\n<tr>\n<td>25 44 55</td>\n<td>Fuchs, E., Uhrmacher, Mozartstr. 7</td>\n</tr>\n<tr>\n<td>39 07 23</td>\n<td>Fuchs, Fr., Uhrmacher, Ebelsberg 37</td>\n</tr>\n<tr>\n<td>25 54 42</td>\n<td>Fuchs, H., Konditorei, Hirschgasse 2</td>\n</tr>\n<tr>\n<td>2 20 50</td>\n<td>Fuchs, Joh., Auto-Rep., Fabrikstr. 32</td>\n</tr>\n<tr>\n<td>2 19 96</td>\n<td><b>Karl Fuchs</b> Handels-<br/>vertreter<br/>Linz/Donau, Hagenstraße 17</td>\n</tr>\n<tr>\n<td>2 50 27</td>\n<td>Maria u. Paula Fuchs, K.WiserStr. 9</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "25 90 31 Franz Fürlinger",
+        "entries": [
+          {
+            "extension": "25",
+            "text": "23"
+          },
+          {
+            "extension": "2",
+            "text": "33"
+          },
+          {
+            "extension": "2",
+            "text": "64"
+          },
+          {
+            "extension": "2",
+            "text": "51"
+          },
+          {
+            "extension": "2",
+            "text": "22"
+          },
+          {
+            "extension": "25",
+            "text": "80"
+          },
+          {
+            "extension": "2",
+            "text": "45"
+          },
+          {
+            "extension": "25",
+            "text": "47"
+          },
+          {
+            "extension": "25",
+            "text": "57"
+          },
+          {
+            "extension": "2",
+            "text": "42"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "straße 4",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Linz a. d. Donau, Hellergasse 1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 0 998 991\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>25 55 94</td>\n<td>Gasthaus Dreifaltigkeit, Hotgasse 14</td>\n</tr>\n<tr>\n<td>39 04 51</td>\n<td>Gasthaus Frz. Ecker, Dauphinstr. 19</td>\n</tr>\n<tr>\n<td>2 30 36</td>\n<td>Gasthaus Elisabethbad, Freist.Str. 16</td>\n</tr>\n<tr>\n<td>2 51 10</td>\n<td>Gasthaus Eurichs Bierhalle, Domg. 5</td>\n</tr>\n<tr>\n<td>2 20 00</td>\n<td>Gasthaus Goldenes Kreuz, Pfarrpl. 11</td>\n</tr>\n<tr>\n<td>2 42 57</td>\n<td>Gasthaus Gösser Bierhaus zur Stadt Salzburg, Hauptstr. 57</td>\n</tr>\n<tr>\n<td>25 29 71</td>\n<td>Gasthaus Gösser-Keller, Pfarrg. 8</td>\n</tr>\n<tr>\n<td>39 03 05</td>\n<td>Gasthaus Hoffellner, Turmstr. 12</td>\n</tr>\n<tr>\n<td>25 51 32</td>\n<td>Gasthaus Hofwirt, Kaisergasse 6</td>\n</tr>\n<tr>\n<td>25 91 63</td>\n<td>Gasthaus Jäger im Tal, Leonf.Str. 73</td>\n</tr>\n<tr>\n<td>25 87 15</td>\n<td>Gasthaus Jägermeier, Frb Waldegg 7</td>\n</tr>\n<tr>\n<td>25 46 72</td>\n<td>Gasthaus Kaiser Josef, Jahnstr. 9</td>\n</tr>\n<tr>\n<td>2 37 47</td>\n<td>Gasthaus Linzer Bräu-Stüüberl, Ldstr. 36</td>\n</tr>\n<tr>\n<td>2 29 61</td>\n<td>Gasthaus Märzenkeller, Bockg. 2</td>\n</tr>\n<tr>\n<td>25 87 14</td>\n<td>Gasthaus Milchmariandl, Römerstr. 97</td>\n</tr>\n<tr>\n<td>2 50 08</td>\n<td>Gasthaus Neue Brücke, Brückenstr. 2</td>\n</tr>\n<tr>\n<td>25 87 63</td>\n<td>Gasthaus Paradiesgarten, Römerstr. 92</td>\n</tr>\n<tr>\n<td>25 52 61</td>\n<td>Gasths. Prielmayrhof, Derflingerstr. 24</td>\n</tr>\n<tr>\n<td>2 39 01</td>\n<td>Gasthaus Johann Puchinger, Holzstr. 8</td>\n</tr>\n<tr>\n<td>25 61 61</td>\n<td>Gasthaus Rosenthal, Lustenau 65</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>W</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 992 992\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>2 30 09</td>\n<td>Gasthaus zum Auerhahn, Steg 70</td>\n</tr>\n<tr>\n<td>25 52 02</td>\n<td>Gasthaus z. bayr. Hof, BlumauerStr. 16</td>\n</tr>\n<tr>\n<td>25 60 84</td>\n<td>Gasthaus zum Berggeist, Sandgasse 18</td>\n</tr>\n<tr>\n<td>25 22 42</td>\n<td>Gasthaus z. Böhmerwald, Gürtelstr. 30</td>\n</tr>\n<tr>\n<td>39 01 02</td>\n<td>Gasthaus zum Brunnenfeld, WienerReichsstraße 218</td>\n</tr>\n<tr>\n<td>25 33 01</td>\n<td>Gasthaus zum Edelweiß, Leonf.Str. 4</td>\n</tr>\n<tr>\n<td>25 37 92</td>\n<td>Gasthaus z. eis. Kreuz, Wr.Reichsstr. 6</td>\n</tr>\n<tr>\n<td>3 89 10</td>\n<td>Gasth. z. englischen Garten, Scharlinz 7</td>\n</tr>\n<tr>\n<td>25 60 32</td>\n<td>Gasthaus z. Flugrad, K.Wiser-Str. 25</td>\n</tr>\n<tr>\n<td>25 54 13</td>\n<td>Gasthaus zum Fuchs, Klammstr. 12</td>\n</tr>\n<tr>\n<td>25 85 14</td>\n<td>Gasthaus z. Füchselbach, Untergaumb. 4</td>\n</tr>\n<tr>\n<td>25 97 72</td>\n<td>Gasthaus zum goldenen Adler, Urfahr</td>\n</tr>\n<tr>\n<td>25 65 93</td>\n<td>Gasthaus zum goldenen Anker, Hofig. 5</td>\n</tr>\n<tr>\n<td>2 15 29</td>\n<td>Gasthaus z. gold. Apfel, Fabrikstr. 23</td>\n</tr>\n<tr>\n<td>25 59 87</td>\n<td>Gasth. z. goldenen Dach, Hafnerstr. 27</td>\n</tr>\n<tr>\n<td>25 66 21</td>\n<td>Gasthaus zum goldenen Hirschen, <i>Urf</i><br/>OttensheimerStr. 94</td>\n</tr>\n<tr>\n<td>25 32 13</td>\n<td>Gasthaus zum Grabnerhof, Waldegg 37</td>\n</tr>\n<tr>\n<td>25 91 11</td>\n<td>Gasthaus z. Gründberghof, Gründberg 17</td>\n</tr>\n<tr>\n<td>25 95 22</td>\n<td>Gasth. z. grünen Hain, Aubergstr. 49</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "50 50 Gasthaus z. grünen Tür, Mariahilfg. 1"
+          },
+          {
+            "extension": "25",
+            "text": "36 44 Gasth. z. grünen Wald, Unterpuchcnau 21"
+          },
+          {
+            "extension": "25",
+            "text": "92 75 Gasthaus zum Hagen, Hagenstr. 43"
+          },
+          {
+            "extension": "25",
+            "text": "31 83 Gasthaus zum Innviertel, Rudolfstr. 21"
+          },
+          {
+            "extension": "25",
+            "text": "44 62 Gasthaus z. Mostbauer, Pöstlingberg 11"
+          },
+          {
+            "extension": "2",
+            "text": "45 05 Gasthaus zum Mühlviertler, Graben 24"
+          },
+          {
+            "extension": "25",
+            "text": "77 63 Gasthaus zum Posthof, Keplerstr. 99"
+          },
+          {
+            "extension": "2",
+            "text": "51 06 Gasthaus zum Rathaus, Ad.Hitler-Pl. 34"
+          },
+          {
+            "extension": "25",
+            "text": "67 23 Gasthaus z. Regenbogen, Waldeggstr. 69"
+          },
+          {
+            "extension": "25",
+            "text": "35 12 Gasthaus zum Schwan, Baumbachstr. 18"
+          },
+          {
+            "extension": "25",
+            "text": "88 52 Gasthaus z. schwarz. Rössl, Blumauerstr."
+          },
+          {
+            "extension": "25",
+            "text": "44 92 Gasthaus zum Stahlrad, Unionstr. 11"
+          },
+          {
+            "extension": "2",
+            "text": "46 69 Gasth. z. stillen Zecher, Brucknerstr. 15"
+          },
+          {
+            "extension": "25",
+            "text": "22 24 Gasthaus zum Stockhof, Stockhofstr. 27"
+          },
+          {
+            "extension": "25",
+            "text": "30 83 Gasthaus zum Tiger, Stockhofstr. 36"
+          },
+          {
+            "extension": "25",
+            "text": "62 74 Gasthaus zum Tiroler, F.Foisher-Pl. 9"
+          },
+          {
+            "extension": "25",
+            "text": "77 04 Gasthaus zum Waldhorn, Schillerstr. 26"
+          },
+          {
+            "extension": "25",
+            "text": "33 13 Gasthaus z. weißen Adler, Stifterstr. 18"
+          },
+          {
+            "extension": "25",
+            "text": "70 62 Gasthaus zum weißen Bock, Bockg. 3"
+          },
+          {
+            "extension": "25",
+            "text": "86 23 Gasth. z. weißen Lamm, Ottensch.Str. 72"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 947\" data-label=\"Table\">\n<table>\n<tr>\n<td>25 72 91</td>\n<td>Gasth. z. blauen Traube, Kapuzinerstr. 5</td>\n</tr>\n<tr>\n<td>25 98 54</td>\n<td>Gasthaus z. Blumau, Starhemb.Str. 68</td>\n</tr>\n<tr>\n<td>25 34 83</td>\n<td>Gasthaus zur Eiche, WienerReichsstr. 13</td>\n</tr>\n<tr>\n<td>25 64 91</td>\n<td>Gasthaus z. Eisbahn, Bockg. 5</td>\n</tr>\n<tr>\n<td>2 32 65</td>\n<td>Gasth. z. eisernen Hand, Eisenh.Str. 43</td>\n</tr>\n<tr>\n<td>25 84 32</td>\n<td>Gasth. z. ewigen Ruh, Friedhofstr. 12</td>\n</tr>\n<tr>\n<td>25 91 33</td>\n<td>Gasthaus z. Frühlingsluft, Martinsg. 2</td>\n</tr>\n<tr>\n<td>2 48 17</td>\n<td>Gasthaus zur Goldhaube, Freiheitstr. 39</td>\n</tr>\n<tr>\n<td>2 29 73</td>\n<td>Gasth. z. Gondelfahrt, Steg bei Urfahr</td>\n</tr>\n<tr>\n<td>3 86 34</td>\n<td>Gasth. z. Kremstalbahn, W.Reichsstr. 161</td>\n</tr>\n<tr>\n<td>25 59 43</td>\n<td>Gasthaus zur Linde, Brucknerstr. 28</td>\n</tr>\n<tr>\n<td>2 22 36</td>\n<td>Gasth. z. Lokomotive, Weingartsh.Str. 40</td>\n</tr>\n<tr>\n<td>25 93 48</td>\n<td>Gasth. z. Mühlkreisbahn, Rudolfstr. 78</td>\n</tr>\n<tr>\n<td>39 01 01</td>\n<td>Gasthaus z. Neugasse, Schumannstr. 34</td>\n</tr>\n<tr>\n<td>2 42 48</td>\n<td>Gasthaus zur Pfeife, Herrenstr. 25</td>\n</tr>\n<tr>\n<td>25 80 64</td>\n<td>Gasthaus z. Pyhrnbahn, Gaumberg 10</td>\n</tr>\n<tr>\n<td>25 58 22</td>\n<td>Gasth. z. Regensburg, Unt. Donaul. 32</td>\n</tr>\n<tr>\n<td>25 25 23</td>\n<td>Gasth. z. Schiffbrücke, Unt.Donaul. 84</td>\n</tr>\n<tr>\n<td>2 24 02</td>\n<td>Gasth. z. Schiffmühle, Urfahrwände 21</td>\n</tr>\n<tr>\n<td>25 87 93</td>\n<td>Gasth. z. schön. Aussicht, Römerstr. 94</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory. The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry or a page where no data was present in the original document.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Linz (Donau): For",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 11 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2 24 09</td>\n<td>Gasth. z. schön. Aussicht, Pöstlingb. 9</td>\n</tr>\n<tr>\n<td>2 18 97</td>\n<td>Gasthaus zur Sonne, Marienstr. 5</td>\n</tr>\n<tr>\n<td>25 77 23</td>\n<td>Gasthaus z. Staatsbahn, Waldeggstr. 55</td>\n</tr>\n<tr>\n<td>39 04 04</td>\n<td>Gasth. z. Stadt Ems, WienerReichsstr. 184</td>\n</tr>\n<tr>\n<td>2 19 08</td>\n<td>Gasth. z. Stadt Innsbruck, Schratzstr. 4</td>\n</tr>\n<tr>\n<td>2 23 02</td>\n<td>Gasth. z. Stadt Krummau, Unt.Donaul. 15</td>\n</tr>\n<tr>\n<td>2 43 56</td>\n<td>Gasthaus z. Stadt Linz, Bethl.Str. 72</td>\n</tr>\n<tr>\n<td>25 68 71</td>\n<td>Gasthaus z. Stadt Meran, Figulystr. 30</td>\n</tr>\n<tr>\n<td>2 41 16</td>\n<td>Gasth. z. Stadt Wien, Mühlkreisb.Str. 11</td>\n</tr>\n<tr>\n<td>2 41 33</td>\n<td>Gasth. z. Stadt Würzburg, Adlerg. 6</td>\n</tr>\n<tr>\n<td>25 97 91</td>\n<td>Gasth. z. Südbahn, GrünauerStr. 4</td>\n</tr>\n<tr>\n<td>25 85 13</td>\n<td>Gasth. z. Übersetz, Untergaumberg 1</td>\n</tr>\n<tr>\n<td>2 15 67</td>\n<td>Gasth. z. Waldegg, Wiener Reichsstr. 62</td>\n</tr>\n<tr>\n<td>25 41 83</td>\n<td>Gasth. z. weißen Rose, Rosenstr. 1</td>\n</tr>\n<tr>\n<td>25 82 03</td>\n<td>Gasth. z. Wiener Neustadt, Dingh.Str. 52</td>\n</tr>\n<tr>\n<td>39 08 22</td>\n<td>Gasth. z.Wr.Reichsstr., Wr.Reichsstr. 288</td>\n</tr>\n<tr>\n<td>25 96 21</td>\n<td>Gasthaus zwei Adler, Wr.Reichsstr. 73</td>\n</tr>\n<tr>\n<td>2 43 49</td>\n<td>Gasthof Therese Aigner, Jungwirthstr. 4</td>\n</tr>\n<tr>\n<td>2 30 65</td>\n<td>Gasthof Drei Kronen, Bürgerstr. 2</td>\n</tr>\n<tr>\n<td>2 21 51</td>\n<td>Gasthof Drei Mohren, Promenade 17</td>\n</tr>\n<tr>\n<td>25 49 85</td>\n<td>Gasthof Drei Rosen, Hafnerstr. 4</td>\n</tr>\n<tr>\n<td>9 25 90</td>\n<td>Gasthof Ambrina Vorplatz 94</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "2 46 54 Gasthof „Wilder Mann“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>23 76 52</td>\n<td>Gasthof z. gold. Hirschen, Hirschg. 4</td>\n</tr>\n<tr>\n<td>2 23 76</td>\n<td>Gasthof z. gold. Löwen, Ottensch. Str. 8</td>\n</tr>\n<tr>\n<td>2 48 64</td>\n<td>Gasthof zum gold. Röbl, Pfarrg. 7</td>\n</tr>\n<tr>\n<td>2 19 98</td>\n<td>Gasthof z. gold. Stern, Humboldtstr. 9</td>\n</tr>\n<tr>\n<td>2 44 06</td>\n<td>Gasthof z. grünen Baum, Bethl. Str. 4</td>\n</tr>\n<tr>\n<td>2 27 10</td>\n<td>Gasthof z. schwarz. Bock, Altstadt 22</td>\n</tr>\n<tr>\n<td>2 25 98</td>\n<td>Gasthof zum Stadtgut, Volksgartenstr. 2</td>\n</tr>\n<tr>\n<td>2 43 44</td>\n<td>Gasthof zum Weinberg, Adlerg. 14</td>\n</tr>\n<tr>\n<td>2 43 77</td>\n<td>Gasthof z. weißen Kreuz, Herrenstr. 42</td>\n</tr>\n<tr>\n<td>25 59 81</td>\n<td>Gasthof z. weißen Lamm, Herrenstr. 54</td>\n</tr>\n<tr>\n<td>25 56 92</td>\n<td>Gasthof zur gold. Krone, Hofberg 5</td>\n</tr>\n<tr>\n<td>25 66 82</td>\n<td>Gasthof zur gold. Sense, Klosterstr. 16</td>\n</tr>\n<tr>\n<td>25 59 21</td>\n<td>Gasthof zur Stadt Bozen, Graben 8</td>\n</tr>\n<tr>\n<td>2 18 86</td>\n<td>Gasthof zur Stadt Budweis, Hptstr. 33</td>\n</tr>\n<tr>\n<td>2 17 55</td>\n<td>Gasthof zur Stadt Gmunden, Badg. 14</td>\n</tr>\n<tr>\n<td>2 26 00</td>\n<td>Gasthof zur Stadt Linz, Ur/Ottensch. Str. 12</td>\n</tr>\n<tr>\n<td>2 44 52</td>\n<td>Gasthuber, W., Kreisleit., Garnis. Str. 5</td>\n</tr>\n<tr>\n<td>2 24 14</td>\n<td>Gastinger, R., Parkettfabr., Hopfeng. 14</td>\n</tr>\n<tr>\n<td>2 51 21</td>\n<td>Gastwirtsch. städt. Volksgartensäle, Volksgartenstr. 23</td>\n</tr>\n<tr>\n<td>2 33 01</td>\n<td>Gatterbauer, Ant., Möbel, Graben 16</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "25",
+            "text": "51"
+          },
+          {
+            "extension": "25",
+            "text": "67"
+          },
+          {
+            "extension": "25",
+            "text": "59"
+          },
+          {
+            "extension": "25",
+            "text": "56"
+          },
+          {
+            "extension": "2",
+            "text": "27"
+          },
+          {
+            "extension": "25",
+            "text": "93"
+          },
+          {
+            "extension": "2",
+            "text": "33"
+          },
+          {
+            "extension": "2",
+            "text": "44"
+          },
+          {
+            "extension": "25",
+            "text": "86"
+          },
+          {
+            "extension": "25",
+            "text": "75"
+          },
+          {
+            "extension": "2",
+            "text": "24"
+          },
+          {
+            "extension": "25",
+            "text": "45"
+          },
+          {
+            "extension": "25",
+            "text": "76"
+          },
+          {
+            "extension": "25",
+            "text": "31"
+          },
+          {
+            "extension": "25",
+            "text": "30"
+          },
+          {
+            "extension": "2",
+            "text": "14"
+          },
+          {
+            "extension": "25",
+            "text": "95"
+          },
+          {
+            "extension": "25",
+            "text": "44"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 15 992 987\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2 62 81</td>\n<td>Geheime Staatspolizei, Staatspolizeistelle<br/>Gesellenhausstr. 1</td>\n</tr>\n<tr>\n<td>25 60 11</td>\n<td>Geiblinger, Fr., Gemischtwr., Dr.Dürn-<br/>bergerStr. 5</td>\n</tr>\n<tr>\n<td>39 01 73</td>\n<td><b>Geiblinger, Johann, Sand, Kies u. Schotter,<br/>Linz-Kleinmünchen, Siedlung Nr. 516</b></td>\n</tr>\n<tr>\n<td>25 99 53</td>\n<td>Geier, Friedr., Wilh., Jägerstr. 20</td>\n</tr>\n<tr>\n<td>2 41 20</td>\n<td>Geier, M., Optiker, Landstr. 10</td>\n</tr>\n<tr>\n<td>25 98 52</td>\n<td>Geiger, L., Elektroutern., Goethestr. 40</td>\n</tr>\n<tr>\n<td>25 47 14</td>\n<td>Geisler, Major, Trefflingerweg 18</td>\n</tr>\n<tr>\n<td>3 82 68</td>\n<td>Gemeindeamt Ebelsberg</td>\n</tr>\n<tr>\n<td>3 85 84</td>\n<td>Gemeindeamt Kleinmünchen</td>\n</tr>\n<tr>\n<td>2 36 24</td>\n<td>Gemeindeamt Leonding</td>\n</tr>\n<tr>\n<td>2 24 03</td>\n<td>Gemeindeamt Puchenau</td>\n</tr>\n<tr>\n<td>2 50 76</td>\n<td>Gemeindeamt St. Magdalena</td>\n</tr>\n<tr>\n<td>2 19 83</td>\n<td>Gemeinnützige Kleinsiedlungsgen., Baum-<br/>bachstr. 16</td>\n</tr>\n<tr>\n<td>25 42 92</td>\n<td>Gemeinschaft d. Ruhestandsbeamten</td>\n</tr>\n<tr>\n<td>2 31 17</td>\n<td>Gemeinsch. d. Ruhestandsbeamt. u. Be-<br/>amtenhinterblieb. eV, Humboldtstr. 35</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 20 992 943\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 24 08</td>\n<td>Gendarmerie Puchenau</td>\n</tr>\n<tr>\n<td>2 14 88</td>\n<td>Generalinspektor für das deutsche Straßenwesen, Brückenamt Linz, Mozartstr. 3</td>\n</tr>\n<tr>\n<td>2 42 35</td>\n<td>Gepäckträgergen. a. Bhf. Linz rGmbH</td>\n</tr>\n<tr>\n<td>25 54 32</td>\n<td>Gerbert, K., Elektrohaus, Wr.Reichsstr. 5</td>\n</tr>\n<tr>\n<td>25 37 73</td>\n<td>Geretschläger, Heinrich's Ww., Holz, Webergasse 16</td>\n</tr>\n<tr>\n<td>2 29 62</td>\n<td>Gerhardinger, Gg., Oblatenfbr., Bethlehemstraße 20</td>\n</tr>\n<tr>\n<td>25 92 42</td>\n<td>Gerhardinger-Vogelsang, Ilse, Schloß Hag.</td>\n</tr>\n<tr>\n<td>25 38 22</td>\n<td>Gerlitz, Art., Dipl.-Ing., Fabrikstr. 2</td>\n</tr>\n<tr>\n<td>39 02 81</td>\n<td>Gerstlohner, Jos., Schulinsp., Hoppichlerstr. 26</td>\n</tr>\n<tr>\n<td>25 69 12</td>\n<td>Gerstmayer, Jos., Ing., Ziegeleistr. 45</td>\n</tr>\n<tr>\n<td>2 45 17</td>\n<td>Gertler, Carola, Landstr. 35b</td>\n</tr>\n<tr>\n<td>25 63 31</td>\n<td>Gerwig, Kamilla, Landstr. 44</td>\n</tr>\n<tr>\n<td>2 36 75</td>\n<td>Gerwig, Therese, Tabakwr., Rathausg. 6</td>\n</tr>\n<tr>\n<td>25 61 92</td>\n<td>Gerzer, Gertrude, Altstadt 30</td>\n</tr>\n<tr>\n<td>25 72 02</td>\n<td>Ges. f. autom., Teleph., Starhembergstr. 58</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, numbers, or markings visible.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "stner — Grill (Band IV) 525",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 10 817 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>3 91 11</td>\n<td>Ges. f. Hochdruckrohrleitungen mbH<br/>(Berlin), Baust. Herm. Göring-Werke</td>\n</tr>\n<tr>\n<td>2 27 00</td>\n<td>Gesellschaftsreisen- u. Rundfahrtenbüro,<br/>Landstr. 76</td>\n</tr>\n<tr>\n<td>2 28 73</td>\n<td>Geßner, Rich., Dir., Kaplanhofstr. 1</td>\n</tr>\n<tr>\n<td>25 68 76</td>\n<td>Geßwagner, Dr. Fr., Staatsanw., Fig.Str. 36</td>\n</tr>\n<tr>\n<td>2 46 06</td>\n<td>Gesundheitsamt, Städt., Wurmstr. 7</td>\n</tr>\n<tr>\n<td>2 38 69</td>\n<td>Gewerbe-Aufsichtsamt Linz, Hahneneng. 3</td>\n</tr>\n<tr>\n<td>2 39 28</td>\n<td>Gewerbeförderungsstelle d. Handwerks-<br/>kammer Linz, Scharitzerstr. 12</td>\n</tr>\n<tr>\n<td>2 43 10</td>\n<td>Geyer Nf., J., D.-Moden, Schmidtstr. 6</td>\n</tr>\n<tr>\n<td>25 42 02</td>\n<td>Geyer, Lothar, Starhembergstr. 35a</td>\n</tr>\n<tr>\n<td>2 50 14</td>\n<td>M. Geyer &amp; Söhne, Kurzw., Hitlerpl. 13</td>\n</tr>\n<tr>\n<td>25 70 24</td>\n<td>Gfellner, Vikt., Tierzuchtamtsstr., Tegett-<br/>hoffstr. 22</td>\n</tr>\n<tr>\n<td>2 42 43</td>\n<td>Gfrerer, M., techn. Büro, Promenade 30</td>\n</tr>\n<tr>\n<td>2 32 40</td>\n<td>Gickhorn, Rich., Ing., Bürgerstr. 34</td>\n</tr>\n<tr>\n<td>25 71 64</td>\n<td>Gieber, Käthe, Kol.-W., Franckstr. 60</td>\n</tr>\n<tr>\n<td>25 78 21</td>\n<td>Giebl, Gust., Ing., Ld.-Baudir., Fabrikstr. 3</td>\n</tr>\n<tr>\n<td>25 81 46</td>\n<td>Gielge, Ludw., Buchsachverst., Starhem-<br/>bergstr. 45</td>\n</tr>\n<tr>\n<td>9 AA 80</td>\n<td>Ginzler D SA -Mühler Khevenh Str 99</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 807 987\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2 36 86</td>\n<td>Gilhofer, U., Vertr., Gesellenstr. 15</td>\n</tr>\n<tr>\n<td>25 49 52</td>\n<td>Gilhofer, L., SA.-Führer, Beeth.Str. 18</td>\n</tr>\n<tr>\n<td>25 69 75</td>\n<td>Gindelstrasser, J., Kol.-W., Pfarrg. 11</td>\n</tr>\n<tr>\n<td>25 25 33</td>\n<td>Gintenreiter, H., Fris., Magazing. 1</td>\n</tr>\n<tr>\n<td>25 43 57</td>\n<td>Ginthör, Erna, Priv., Mozartstr. 28</td>\n</tr>\n<tr>\n<td>25 47 44</td>\n<td>Gintner, Dr. Hilde, Lehrerin, Knabenseminarstr. 23</td>\n</tr>\n<tr>\n<td>25 20 51</td>\n<td>Gissinger, Karl, Dir., Bürgerstr. 2</td>\n</tr>\n<tr>\n<td>25 64 13</td>\n<td>Gittler, J., O.-Betr.-Mstr., A.d.Gugl 46</td>\n</tr>\n<tr>\n<td><b>2 34 92</b></td>\n<td><b>Glaciol-Werk Dr. Dom. Miklosich</b></td>\n</tr>\n<tr>\n<td></td>\n<td>Linz, Handel-Mazzetti-Straße 5</td>\n</tr>\n<tr>\n<td>25 66 15</td>\n<td>Gläser, Hermine, Walterstr. 26</td>\n</tr>\n<tr>\n<td>25 69 73</td>\n<td>Glanzer, Karl, Friseur, Pfarrg. 11</td>\n</tr>\n<tr>\n<td>25 37 82</td>\n<td>Glas, Hans, Briefmarken, Spittelw. 15</td>\n</tr>\n<tr>\n<td>39 06 11</td>\n<td>Glaser, Hans, Karlhofsiedl., Bau D</td>\n</tr>\n<tr>\n<td>25 30 53</td>\n<td>Glasl, Jos., Sachverständ., Graben 29</td>\n</tr>\n<tr>\n<td>25 52 42</td>\n<td>Glasmalerei, Oberösterr., Promenade 41</td>\n</tr>\n<tr>\n<td>2 48 71</td>\n<td>Glaß, Helene, Dr., Pleschingerhof</td>\n</tr>\n<tr>\n<td>2 35 57</td>\n<td>Glaß jr., Rud., Sämereien, Klammstr. 10</td>\n</tr>\n<tr>\n<td>25 56 03</td>\n<td>Glaubacker, F., Kunstn., Schar.Str. 9</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Hermann-Göring-Werke Linz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "3",
+            "text": "91 21 Stahlbau GmbH."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 800 986\" data-label=\"Table\">\n<table>\n<tr>\n<td>25 80 01</td>\n<td>Gradauer, Josef, Kol.-w., Burgersur. 9</td>\n</tr>\n<tr>\n<td>2 16 59</td>\n<td>Gracel, Edm., Korv.-Kpt., Römerstr. 17</td>\n</tr>\n<tr>\n<td>2 39 93</td>\n<td>Gräf &amp; Stift, Automobile, Wiener Automobilfabriks-AG, Schmiedeg. 15</td>\n</tr>\n<tr>\n<td>25 26 42</td>\n<td>Gräflinger, Hans, Prok., Hauptstr. 37</td>\n</tr>\n<tr>\n<td>2 35 87</td>\n<td>Gräfner, Karl, Ing., GrünauserStr. 10</td>\n</tr>\n<tr>\n<td>2 39 03</td>\n<td>Gräfner, Karl, Install., Graben 25</td>\n</tr>\n<tr>\n<td>25 38 03</td>\n<td>Graf, Herm., Dir., Humboldtstr. 50</td>\n</tr>\n<tr>\n<td>25 80 33</td>\n<td>Graf, Heinr., Bauassess., Gärtnerstr. 4</td>\n</tr>\n<tr>\n<td>2 28 11</td>\n<td>Grafenauer, Karl, Leder, Zollamtsstr. 3</td>\n</tr>\n<tr>\n<td>25 45 25</td>\n<td>Derselbe. Wohn., Huemerstr. 14</td>\n</tr>\n<tr>\n<td>25 74 34</td>\n<td>Gramann, Engelb., Maler, Grillp.Str. 3</td>\n</tr>\n<tr>\n<td>25 92 14</td>\n<td>Grammer, Ferd., Bäck., Ob Leonf.Str. 9</td>\n</tr>\n<tr>\n<td>25 58 42</td>\n<td>Granzner, Dr. Oskar, Arzt, Herrenstr. 2</td>\n</tr>\n<tr>\n<td>2 37 68</td>\n<td>Grassi, O., Buchsachverst., Lessingstr. 12</td>\n</tr>\n<tr>\n<td>25 79 02</td>\n<td>Grafßmann, Karl, Angest., Lissag. 7</td>\n</tr>\n<tr>\n<td>2 45 88</td>\n<td>Gratz, Josef, Bandagist, Dorn. 22</td>\n</tr>\n<tr>\n<td>25 91 44</td>\n<td>Gredler, Alois, Direktor, Schmiedeg. 13</td>\n</tr>\n<tr>\n<td>25 21 34</td>\n<td>Gregroćic, Joh., Tischlerm., Kaisergr. 11</td>\n</tr>\n<tr>\n<td>25 80 94</td>\n<td>Grehs, Emma, Südbhf., Neublock E</td>\n</tr>\n<tr>\n<td>25 94 53</td>\n<td>Grehs, Karl, Dir., Volksfeststr. 26</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 102 800 902\" data-label=\"Text\"><table><tbody><tr><td>25 46 04</td><td>Greimel, M., Zahnatelier, Schillerstr. 12</td></tr><tr><td>2 22 26</td><td>Greiner, Anna, Sägewerk, Freist.Str. 113</td></tr><tr><td>2 48 55</td><td>Greiner, E., Büromasch., Bürgerstr. 9</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Franz Greiner",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 14 799 503\" data-label=\"Text\"><table><tbody><tr><td>25 91 23</td><td>Greiner, Hch., Elektroart., Hptstr. 6</td></tr><tr><td>25 45 64</td><td>Greiner, Johann, Bauer, Bachl 10</td></tr><tr><td>25 23 04</td><td>Greiner, K., Friseur, Schubertstr. 15</td></tr><tr><td>25 32 81</td><td>Greiner, Mart., Werkzeuge, Magazing. 11</td></tr><tr><td>25 40 22</td><td>Greßlehner, L., Maler., H.Mazetti-Str. 7</td></tr><tr><td>2 28 72</td><td>Greutter, Eberhard, Ing., Pfarrpl. 1</td></tr><tr><td>25 89 35</td><td>Grill, Franz, Oberlehrer</td></tr><tr><td>25 58 15</td><td>Grill, Hans, Vertr., Klosterstr. 1</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

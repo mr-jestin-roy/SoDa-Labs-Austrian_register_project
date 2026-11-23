@@ -1,0 +1,923 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"215 723 456 944\" data-label=\"Text\"><p>58 (Band I)</p></div><div data-bbox=\"633 718 998 904\" data-label=\"Text\"><p><b>Altkemnitz: B</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"200 11 987 993\" data-label=\"List-Group\"><p>349 Blemelt, Albert, Kohlen, Krommenau 15<br/>270 Böhmert, Reinhard, Sägewerk, Ludwigsdorf<br/>228 Bormann, Richard, Ndr. Mühle Berthelsdorf<br/>(228) Bormann, Rud., Holz, Berthelsdorf<br/>263 Breßler, Graf, Altkemnitz<br/>301 Bürgermeister, Berthelsdorf<br/>233 Bürgermeister, Blumeudorf<br/>359 Bürgermeister Ludwigsdorf<br/>341 Bürgermeister Neukemnitz, Dorfstr. 45<br/>331 Clemens, Bruno, Malerustr., Dorfstr. 71<br/>317 Derr, Oswald, Rittergut Hindorf<br/>229 Ellguth, Max, Mühlenbes., Berthelsdorf<br/>217 Ellßel, Bruno, Landmaschinen, Spiller 10<br/>312 Evangel. Pfarramt, Altkemnitz<br/>232 Evangel. Pfarramt, Reibnitz<br/>250 Evangel. Pfarramt, Seifersbau<br/>335 Evang. Pfarramt Spiller<br/>330 Fischer, Johanna, Berthelsdorf<br/>201 Fliegel, H., Maschinenbauanstalt u. Eisen-<br/>gießerei, Berthelsdorf über Greifenberg<br/>226 Försterei, Henkel'sche, Gotthardsberg<br/>007 Nicolaus, Ludwigsdorf, Schafmutsch'sche</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"207 0 997 986\" data-label=\"List-Group\"><p>224 Diebelbe, Seiferschan, Schaffgotsch'sche<br/>223 Freigut Berthelsdorf, Kr. Hirschberg<br/>245 Friedrich, Bruno, Autovermietung, 92<br/>310 Friedrich, H., Sattlermeister, Nr. 27<br/>843 Frischlich, Julius, Fleischerm., Spiller 71<br/>321 Fritsch, Otto, Fleischerei, Seiferschau 159<br/>326 Gäbler, Ernst, Nutzholzhdlg., Antoniwald 27<br/>235 Gasthof Brauner Hirsch, Spiller 2<br/>239 Gasthof Deutscher Hof, Berthelsdorf<br/>219 Gasthof Hoppe, Rich., Berthelsdorf<br/>324 Gasthaus z. Bahnhof, Dorfstr. 64<br/>316 Gasth. zum Gerichtskretschem Altkemnitz<br/>808 Gasth. zum Gerichtskretschem, Berthelsdorf<br/>231 Gasthaus „Zum Gerichtskretschem“, Inh.:<br/>B. Stelzer, Krommenau<br/>247 Gasth. zum Gerichtskr. Neukemnitz<br/>238 Gasth. zum Gerichtskretschem Reibnitz 146<br/>264 Gasth. zum Oberkretschem Reibnitz Nr. 66<br/>336 Gasth. zur Brauerei, Altkemnitz<br/>357 Gasth. zur Brauerei, Spiller Nr. 78<br/>329 Gasth. zur Freundlichkeit Nr. 102</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"206 0 997 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Nummer</th>\n<th>Name</th>\n<th>Beruf</th>\n<th>Ort</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>334</td>\n<td>Gasth.</td>\n<td>zur Schmiede</td>\n<td>Ludwigsdorf</td>\n</tr>\n<tr>\n<td>240</td>\n<td>Geisler, Robert</td>\n<td>Fahrräder, Spiller</td>\n<td>23</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Gemeindeamt</td>\n<td>Reibnitz</td>\n<td>Nr. 136</td>\n</tr>\n<tr>\n<td>265</td>\n<td>Gendarmerie-Gruppenposten</td>\n<td>Altkemnitz</td>\n<td></td>\n</tr>\n<tr>\n<td>338</td>\n<td>Giersberg, Erich</td>\n<td>Schornsteinfegerinstr.</td>\n<td>Nr. 17</td>\n</tr>\n<tr>\n<td>212</td>\n<td>Gober, Karl</td>\n<td>Fleischermstr.</td>\n<td>Nr. 20</td>\n</tr>\n<tr>\n<td>307</td>\n<td>Gringmuth, Br.</td>\n<td>Fleischerm.</td>\n<td>Ludwigsdorf 85</td>\n</tr>\n<tr>\n<td>222</td>\n<td>Händler, Bruno</td>\n<td>Fleischermstr.</td>\n<td>Dorfstr. 203</td>\n</tr>\n<tr>\n<td>209</td>\n<td>Harazim, E.</td>\n<td>Dentistln</td>\n<td>222</td>\n</tr>\n<tr>\n<td>268</td>\n<td>Hein, Robert</td>\n<td>Reichshalle</td>\n<td>Hindorf 43</td>\n</tr>\n<tr>\n<td>269</td>\n<td>Hoferichter, Reinhard</td>\n<td>Bauer</td>\n<td>Hindorf</td>\n</tr>\n<tr>\n<td>323</td>\n<td>Hoferichter, Willi</td>\n<td>Vorwerk</td>\n<td>Seiferschau 24</td>\n</tr>\n<tr>\n<td>259</td>\n<td>Hoffmann, Rich.</td>\n<td>Autovermiet.</td>\n<td>Berthelsdorf</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Hübner, Bernh.</td>\n<td>Baugesch.</td>\n<td>Nr. 69</td>\n</tr>\n<tr>\n<td>350</td>\n<td>Jahn, Alois</td>\n<td>Bäckermeister</td>\n<td>Dorfstr. 75</td>\n</tr>\n<tr>\n<td>348</td>\n<td>Kath. Pfarramt</td>\n<td></td>\n",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"202 0 998 991\" data-label=\"Text\"><p>815 Kocharz, Fritz, Viehkastrierer, Dorfstr. 73<br/>313 König, Fritz, Viehhdlg., Dorfstr. 23<br/>809 König, Paul, Fuhruntern., Krommenau Nr. 22<br/>345 König, Reinhold, Fahrräder, Hindorf 116<br/>856 König, Wilh., Gemüse, Ludwigsdorf<br/>362 Laeder, Curt, Konditorei, Dorfstr. 73<br/>203 Landeshuter Leinen AG.<br/>365 Landhaus, Elisabeth, Ludwigsdorf<br/>272 Liebig, Alfr., Landw., Seiferschau Nr. 88<br/>218 Martens, P., Dentist, Seiferschau 55<br/>360 Mattheus, Bernd, Lehngut, Spiller<br/>322 Meier, Rich., Bauer, Spiller, No. 5<br/>213 Müller, G. A., Landmaschfbr., Spiller 38b<br/>271 NSDAP., Nr. 226<br/>202 Papierfbr. Schubert &amp; Co K-G., Berthelsdorf<br/>318 Petersen-Borstel, H., Arzt, Seiferschau Dorfstr.<br/>236 Pohl, Rich., Fuhruntern., Spiller 101<br/>364 Reich, Fritz, Viehhdlg., Spiller, Nr. 31<br/>205 Reichsbahn, Güterabfertigung<br/>847 Dieselbe, Bahnhof Reibnitz, Betriebsamt 2<br/>246 Reichsgräfl. v. Breßlersches Rentamt</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"200 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>ORT</th>\n<th>NUMMER, NAME, BEZIEHUNG, WIRTSCHAFTSART</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>208</td>\n<td>Rittergutsverwaltung Berthelsdorf</td>\n</tr>\n<tr>\n<td>306</td>\n<td>Röhrich, Erwin, Bauer, No. 91</td>\n</tr>\n<tr>\n<td>204</td>\n<td>Sanatorium u. Lungenheilstalt Berthelsdorf</td>\n</tr>\n<tr>\n<td>202</td>\n<td>Schubert &amp; Co. Komm.-Ges., Holzstoff- u. Papierfabrik, Berthelsdorf über Greifenberg (Schles.)</td>\n</tr>\n<tr>\n<td>(202)</td>\n<td>Dieselben, Max Schnerr, Prokurst</td>\n</tr>\n<tr>\n<td>211</td>\n<td>Scheuermann, H., Hölzgesch., Krommenau 17</td>\n</tr>\n<tr>\n<td>243</td>\n<td>Scholz, Adolf, Gut Reibnitz, Nr. 1</td>\n</tr>\n<tr>\n<td>249</td>\n<td>Schwanitz, Oswald, Landeserzeugnisse, Kohlen</td>\n</tr>\n<tr>\n<td>339</td>\n<td>Seidel, Karl, Fleischerei, Krommenau 29</td>\n</tr>\n<tr>\n<td>327</td>\n<td>Seiffert, Ernst, Bauer, Reibnitz, Nr. 86</td>\n</tr>\n<tr>\n<td>300</td>\n<td>Spar- u. Darlehnskasse Altkemnitz</td>\n</tr>\n<tr>\n<td>234</td>\n<td>Spar- u. Darlehnskasse, Spiller 74</td>\n</tr>\n<tr>\n<td>332</td>\n<td>Spar- u. Darlehnskassenverein Krommenau 76</td>\n</tr>\n<tr>\n<td>242</td>\n<td>Spar- u. Darlehnskassenverein Reibnitz</td>\n</tr>\n<tr>\n<td>221</td>\n<td>Stabrin, Herbert, Landwirt, Gut Reibnitz</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Titze, R., Schneidemühlenbes., Antoniwald 60</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Töpler, Paul, Bäckerei, Reibnitz 42</td>\n</tr>\n<tr>\n<td>207</td>\n<td>Tschopp-Tobler, H. A., Hindorfer Str. 65</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"197 20 988 930\" data-label=\"List-Group\"><ul><li>268 <b>Warmer, Reinh., Fleischer, Ludwigsdorf 5</b></li><li>319 <b>Weichert, Paul, Gut Bergrieden 8</b></li><li>230 <b>Weldegenossenschaft, Höllengrund, GmbH. 17</b></li><li>337 <b>Worbs, Ernst, Baugeschäft, Berthelsdorf</b></li><li>248 <b>Ziegert, Karl, Fuhruntern., Reibnitz 152</b></li></ul></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Altkessel (Kr. Grünberg)[Niederschles.]",
+        "entries": [
+          {
+            "extension": "37",
+            "text": "Bürgermstr. Heppner, Deutschkessel, Dorfstr. 22"
+          },
+          {
+            "extension": "27",
+            "text": "Bürgermstr. Hoffmann, Altkessel 112"
+          },
+          {
+            "extension": "20",
+            "text": "Rich. Doil u. Sohn, Tiefbau, Lawaldau 5"
+          },
+          {
+            "extension": "5",
+            "text": "Eickmann, Friedrich, Landw., Restgut Prittag"
+          },
+          {
+            "extension": "13",
+            "text": "Fechner, Arthur, Tabakgroßhdl., Lawaldau"
+          },
+          {
+            "extension": "80",
+            "text": "Fechner, Karl, Fleischbeschauer, Lawaldau 10"
+          },
+          {
+            "extension": "1",
+            "text": "Felereis, Max, Landwirt, Dt.-Kessel"
+          },
+          {
+            "extension": "4",
+            "text": "Fiedler, Paul, Obst, Lawaldau, Hauptstr. 1b"
+          },
+          {
+            "extension": "28",
+            "text": "Försterei, Preuß. Revier-, Altkessel"
+          },
+          {
+            "extension": "25",
+            "text": "Gehlich, Albert, Fleischermstr., Prittag 11"
+          },
+          {
+            "extension": "18",
+            "text": "Gendarmerieposten Deutschkessel"
+          },
+          {
+            "extension": "7",
+            "text": "Gendarmerieposten Prittag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 717 972 937\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 12 998 995\" data-label=\"Text\"><p>29 Graf Pfeil, Deutschkessel<br/>8 Grasoow, Bürgermstr., Prittag<br/>31 Mielacher, Rudolf, Gasth. z. Eisenbahn<br/>6 Hoffmann, Rich., Mühle, Prittag 66<br/>33 Jikel, Oskar, Feinkost, Deutschkessel 48<br/>3 Kloy, Paul, Futtermittel.<br/>23 Kubatzky, Oskar, Fleischermstr., Prittag<br/>11 Kühn, Robert, Bäckerei, Lawaldau, Dorfstr. 89<br/>12 Märk. Elektrizitätsw. AG Nr. 60<br/>28 Moormann, Mart., Gasthof, Deutschkessel<br/>35 Nippe, Paul, Gasthof, Lawaldau Nr. 88<br/>36 NSDAP., Droschkau<br/>9 Piertzik, Alfr., Sägewerk, No. 93<br/>38 Pitschke, Wilhelm, Fleischermstr., Altkessel 2<br/>16 Reichsarbeitsdienst, w. Jugend, Schloß<br/>2 Reichsbahn, Bahnhof<br/>15 Reimann, Kurt, Gasthofbes., Altkessel 72<br/>22 Röschke, Gust., Gasth., Deutschkessel<br/>17 Roocke, Herm., Elektromstr., Dorfstr. 85<br/>14 Schröter, Otto, Kunststeinwerke, Altkessel<br/>19 Schwalm, Otto, Tabakwr., Lawaldau 84<br/>10 Arnold Anthold Kraftfahrwesen</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 10 850 912\" data-label=\"List-Group\"><p><b>32 Thost, Rittergut Altkessel</b><br/><b>34 Walter, Emma, Gasthaus, Lawaldau 1a</b><br/><b>24 Weidegenossenschaft eGmbH, Prittag</b></p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Altkirchen (Ostpr.-Süd)",
+        "entries": [
+          {
+            "extension": "40",
+            "text": "Adler-Apotheke, E. Schoen"
+          },
+          {
+            "extension": "6",
+            "text": "Bahlo, A., Gastwirt"
+          },
+          {
+            "extension": "9",
+            "text": "Baptistengemeinde"
+          },
+          {
+            "extension": "38",
+            "text": "Bednarz, Karl, Bauer, Neukirchen"
+          },
+          {
+            "extension": "47",
+            "text": "Bork, Emma, Hebamme"
+          },
+          {
+            "extension": "43",
+            "text": "Bürgermeisteramt Altkirchen"
+          },
+          {
+            "extension": "28",
+            "text": "Bürgermeisteramt Seenwalde"
+          },
+          {
+            "extension": "2",
+            "text": "Dampfsägewerk Grünwalde, Rich. Anders"
+          },
+          {
+            "extension": "20",
+            "text": "Dzwonek, Eisenwaren"
+          },
+          {
+            "extension": "28",
+            "text": "Evangelisches Pfarramt"
+          },
+          {
+            "extension": "10",
+            "text": "Försterei Tiefensee, Seenwalde Abb."
+          },
+          {
+            "extension": "15",
+            "text": "Forstkasse Grünwalde"
+          },
+          {
+            "extension": "14",
+            "text": "Gayk, Ewald, Tischlerei, Seenwalde"
+          },
+          {
+            "extension": "12",
+            "text": "Gendarmerieamt"
+          },
+          {
+            "extension": "32",
+            "text": "Hinz, Holz, Grünwalde"
+          },
+          {
+            "extension": "22",
+            "text": "Kattanek, Paul, Kaufmann"
+          },
+          {
+            "extension": "3",
+            "text": "Kompa, Mühle"
+          },
+          {
+            "extension": "5",
+            "text": "Kowalewski, Otto, Manuf.-W."
+          },
+          {
+            "extension": "34",
+            "text": "Kreuz-Drogerie, Kurt Brenke"
+          },
+          {
+            "extension": "40",
+            "text": "Krinital Ernst Dantlet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 894 988\" data-label=\"Text\"><p>11 Kulessa, Otto, Kaufmann<br/>1 Lutzki, Walter, Kaufmann<br/>28 Mrotzek, Wilh., Viehandlung<br/>24 NSDAP, NSV., Ortsgruppe<br/>25 Perk, Dr., Arzt<br/>8 Platzeck, G., Zementwarenfr.<br/>19 Posdziech, Bauer, Gr. Jerutten<br/>29 Raiffeisenkasse eGmH.<br/>45 Randzio, Aug., Kaufmann, Grünwalde<br/>16 Reichsarbeitsdienst für die weibl. Jugend<br/>4 Reichsbahn-Güterabfertigung<br/>21 Rieger, Artur, Gastw., Grünwalde<br/>39 Rothe, Paul<br/>62 Rutkowski, Gastwirt, Alt-Kiwitten<br/>31 Sack, Margarete, Hebamme<br/>18 Schuchna, Richard, Mühle, Seenwalde<br/>17 Sembowski, Kfm.<br/>30 Sontowski, Maria, Hebamme<br/>13 Todzi, Fritz, Fleischerm., Gr. Jerutten<br/>27 Todzi, Karl, Fleischermstr.<br/>37 Todzi, Wilhelm, Fleischermmeister</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 20 788 343\" data-label=\"Text\"><p>41 Woelk, Erika, Dentistin</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Altkischau (Westpr.)",
+        "entries": [
+          {
+            "extension": "9",
+            "text": "Amtskommissar d. Amtsbez. Altkischau"
+          },
+          {
+            "extension": "7",
+            "text": "Fischer, Dr., Arzt"
+          },
+          {
+            "extension": "(7)",
+            "text": "Fischer, Emmi, Hebamme"
+          },
+          {
+            "extension": "13",
+            "text": "Gend.-Posten, Altkischau"
+          },
+          {
+            "extension": "13",
+            "text": "Gend.-Posten, Konarschin"
+          },
+          {
+            "extension": "18",
+            "text": "Gutsverwaltung, Adl.-Boschpol"
+          },
+          {
+            "extension": "11",
+            "text": "Harthun, Groß-Pallubin"
+          },
+          {
+            "extension": "17",
+            "text": "Klatt, Fettviehhdlg., Altbukowitz"
+          },
+          {
+            "extension": "22",
+            "text": "Kowalski, Otto, Fleischermstr."
+          },
+          {
+            "extension": "2",
+            "text": "Ostlandbetrieb Elsental"
+          },
+          {
+            "extension": "25",
+            "text": "Ostlandbetrieb Ruda"
+          },
+          {
+            "extension": "3",
+            "text": "Ostlandbetrieb Schernikau"
+          },
+          {
+            "extension": "8",
+            "text": "Neumann, Gerh., Nied.-Mahlkau, Post Pogurtken"
+          },
+          {
+            "extension": "15",
+            "text": "Plombon, Fahrräder"
+          },
+          {
+            "extension": "4",
+            "text": "Recke, Heinz, Landw., Schloß Kischau"
+          },
+          {
+            "extension": "16",
+            "text": "Schwanke, Bäckerstr."
+          },
+          {
+            "extension": "6",
+            "text": "Weiß"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Altkloster (üb. Wollstein)[Wartheland]",
+        "entries": [
+          {
+            "extension": "15",
+            "text": "Amtskommissar, Deutschendorf"
+          },
+          {
+            "extension": "9",
+            "text": "Amtskommissar f. d. Bez. Seefurt"
+          },
+          {
+            "extension": "2",
+            "text": "Domäne Weine"
+          },
+          {
+            "extension": "6",
+            "text": "Försterel (Revier-) Waldheim"
+          },
+          {
+            "extension": "1",
+            "text": "Gendarmerieposten, Dorfstr. 5"
+          },
+          {
+            "extension": "13",
+            "text": "Genosa. Molkerei, Deutschendorf eGmbH"
+          },
+          {
+            "extension": "14",
+            "text": "Günther, Staatl. Forstmeister"
+          },
+          {
+            "extension": "12",
+            "text": "Hermasch, Gendarmerieinstr., Dorfstr. 201"
+          },
+          {
+            "extension": "4",
+            "text": "Konsum Altkloster"
+          },
+          {
+            "extension": "10",
+            "text": "Metzler, Marta, Sägewerk, Dorfstr. 22"
+          },
+          {
+            "extension": "3",
+            "text": "Polizei Seefurt"
+          },
+          {
+            "extension": "4",
+            "text": "Raschke, Albert"
+          },
+          {
+            "extension": "8",
+            "text": "Reichsarbeitsd. weibl. Jugend 6/280"
+          },
+          {
+            "extension": "4",
+            "text": "Spar- u. Darlehnskasse"
+          },
+          {
+            "extension": "11",
+            "text": "Winter, Wilh., Fischerm., Fehlen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Alt Kolziglow (Kr. Rummelsburg)[Pommern]",
+        "entries": [
+          {
+            "extension": "35",
+            "text": "Apotheke „Hubertus-Apotheke“"
+          },
+          {
+            "extension": "54",
+            "text": "Arbeitsamt Stolp, Hilfst. Alt Kolziglow"
+          },
+          {
+            "extension": "70",
+            "text": "Beyerlein, Dr., Arzt"
+          },
+          {
+            "extension": "61",
+            "text": "Birr, W. B., Mühlenbes., Kamenzmühle"
+          },
+          {
+            "extension": "26",
+            "text": "Branka, Mühle u. Bäckerei"
+          },
+          {
+            "extension": "78",
+            "text": "Burzlaff, Emil, Fleischbeschauer"
+          },
+          {
+            "extension": "59",
+            "text": "Diesing, Bürgermeister, Neukolziglow"
+          },
+          {
+            "extension": "49",
+            "text": "Draht, Ewald, Fahrradhdl."
+          },
+          {
+            "extension": "24",
+            "text": "Evang. Kirche, Kirchengemeinde Zettin"
+          },
+          {
+            "extension": "18",
+            "text": "Forstbehörden: Försterei Reinfeld B"
+          },
+          {
+            "extension": "79",
+            "text": "Forsthaus Barnower Mühle"
+          },
+          {
+            "extension": "23",
+            "text": "Gendarmerieposten"
+          },
+          {
+            "extension": "66",
+            "text": "Gräfl. v. Bismarcksche Landw., Reinfeld"
+          },
+          {
+            "extension": "25",
+            "text": "Gutsverwaltung Zettin"
+          },
+          {
+            "extension": "17",
+            "text": "Meyer, Meta, Hebamme"
+          },
+          {
+            "extension": "60",
+            "text": "Hildebrandt, Gerhard, Fleischermstr."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with some minor scanning artifacts.\"/>This image is a scan of a blank page from a 1942 German telephone directory. The page is entirely empty, with no text, numbers, or markings visible. There are a few very small, faint dark specks scattered across the white background, which appear to be scanning artifacts or dust particles.</div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks.\"/>This image is a scan of a blank white page. It contains several small, dark artifacts or dust specks scattered across the surface. There is no text, handwriting, or printed content on the page.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 12 842 993\" data-label=\"Text\"><p>47 Jänicke, Erich, Dentist<br/>83 Jansen, Gastw., Reinfeld B<br/>29 Kuack, Oskar, Gemischtwr.<br/>41 Koch, Heinz, Kaufmann<br/>44 Kreissparkasse Rummelsburg<br/>71 Krüppelheim<br/>37 Kruska, Johannes .<br/>21 Landjahrlager, Reddies<br/>30 Lietzau, Paul, Bäckernstr.<br/>39 Ludeau, Paul, Kaufmann<br/>50 Mielke, Rich., Lebensm.<br/>58 Mix, Artur, Bürgermeister, Darsekow<br/>28 Müller, Gastwirtschaft<br/>77 NSDAP: NSV, Schule Reddies<br/>64 Pfarramt, Ev.<br/>63 v. Puttkamer, Barnow<br/>62 v. Puttkamer, Poberow<br/>12 v. Puttkamer, Landw., Neukolziglow<br/>65 v. Puttkamer, Landw., Versin<br/>85 v. Puttkamer, Zettin<br/>53 v. Puttkamer, kleines Haus, Barnow<br/>AK Anstalt Dr. Mannsack Wain</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 992 990\" data-label=\"Text\"><p>75 Ramlow, Paul, Viehverwert.-Gen. eGmbH.<br/>74 Randt, Max, Bauer, Poberow<br/>73 Randt, Robert, Gastw., Poberow<br/>40 Reck, Fritz, Autotransporte, Dorfstr.<br/>15 Reck, Heinz, Baugeschäft<br/>67 Reichsbahn-Güterabfertigung Barnow<br/>68 Reichsbahn-Güterabfertigung Neukolziglow<br/>72 Roller, Bürgermeister<br/>16 Schaar, Molkerei, Reinfeld<br/>31 Schlawe-Kummelsb. Landw. Ein- u. Verkaufs-<br/>verein eGmbH, Neukolziglow<br/>78 Schmidt, Prov.-Straßenmstr., Chausseehaus<br/>14 Schröder, Bruno, Gemischtwaren<br/>36 Schulz, Tierarzt<br/>34 Schwarz, Wilhelm, Bürgermeister, Versin<br/>52 Schwuchow, Paul, Reddies<br/>51 Sedler, Robert, Brunnenbau<br/>19 Seils, Berthold, Bürgermeister, Zettin<br/>48 Spar- u. Darlehnskasse, eGmbH., Ländl.<br/>27 Szczesny, Carl, Kfm., Reddies<br/>43 Tornow, Alfred, Gasthofbes., Neukolziglow</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Altkünkendorf (Mark Brandenburg)",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "Evang. Pfarramt, Dorfstr."
+          },
+          {
+            "extension": "3",
+            "text": "Jüngling, R., Gasth. z. Linde"
+          },
+          {
+            "extension": "2",
+            "text": "Lepke, Willy, Bürgermstr., Dorfstr."
+          },
+          {
+            "extension": "7",
+            "text": "Martinek'sche Gutsverwaltung, Wolletz"
+          },
+          {
+            "extension": "1",
+            "text": "Richtberg, Karl, Rittergut, Altkünkendorf."
+          },
+          {
+            "extension": "4",
+            "text": "Richtberg'sche Forstverwaltung"
+          },
+          {
+            "extension": "5",
+            "text": "Schröder, Bürgermstr., Glambeck"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Altlandsberg (Mark Brandenburg)",
+        "entries": [
+          {
+            "extension": "272",
+            "text": "Adam, Herm., Klempnermstr., Berl. Allee 9"
+          },
+          {
+            "extension": "250",
+            "text": "Allg. Ortskrankenkasse, Straub.-Str. 2."
+          },
+          {
+            "extension": "411",
+            "text": "Allner, Kurt, Pelztierzucht, Wolfshagen"
+          },
+          {
+            "extension": "361",
+            "text": "Amtsgericht, Altlandsberg."
+          },
+          {
+            "extension": "202",
+            "text": "Andree, Paul, Getreidehdlg., Berl. Str. 6."
+          },
+          {
+            "extension": "203",
+            "text": "Apotheke H. Heimen, Bernauer Str. 18"
+          },
+          {
+            "extension": "219",
+            "text": "Arbeiter, Alfred, Furage, Bernauer Str. 20"
+          },
+          {
+            "extension": "326",
+            "text": "Arbeiter, Josef, Furage, Klosterstr. 13"
+          },
+          {
+            "extension": "297",
+            "text": "Autovermietg., H.-Norkus-Str. 22"
+          },
+          {
+            "extension": "238",
+            "text": "Badtke, Albert, Mühle, Berl. Chaussee 12"
+          },
+          {
+            "extension": "247",
+            "text": "Baklanoff, G., Bruchmühle, Ad. Hitler Str. 40"
+          },
+          {
+            "extension": "265",
+            "text": "Barnowski, Fr., Brunnenbau, Klosterstr. 15."
+          },
+          {
+            "extension": "288",
+            "text": "Baumbach, E., Friseur, Fredersd. Chaussee 1"
+          },
+          {
+            "extension": "310",
+            "text": "Berger, Walter, Just. Rentmstr., Berl. Ch. 1"
+          },
+          {
+            "extension": "280",
+            "text": "Binsch, A., Hotel Dt. Haus, Berl. Str. 17"
+          },
+          {
+            "extension": "338",
+            "text": "Birkholtz, Franz, Gastw., Krummensee"
+          },
+          {
+            "extension": "328",
+            "text": "Böhm, K., Kehrmstr., Berl. Ch. 3"
+          },
+          {
+            "extension": "312",
+            "text": "Boock, Herm., Autobes., Altlandsb.-Süd"
+          },
+          {
+            "extension": "412",
+            "text": "Bredereck, Ferd., Bauer, Berliner Str. 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 933 995\" data-label=\"Text\"><p>270 Bredereke, Paul, Gastw., Seeberg.<br/>351 Bürgermeister Altlandsberg<br/>841 Bürgermeister, Bruchmühle, Hitlerstr. 48<br/>409 Capitol, Otto Klester, Berl. Ch. 2<br/>315 Clamann, Alfons, Landw., Klosterstr. 9<br/>253 Damm, Josef, Schützenhaus.<br/>306 Dannert, Victor, Kfm., Buchholz<br/>369 Dechow, Herbert, Malermstr., Bruchmühle<br/>279 Deglerk, Adolf, Klempn., Strausb.-Str. 11<br/>321 Dörnte, Albert, Amtsfreihelt 29<br/>389 Domänenwerk Krummensee<br/>337 Dommert Emilie, Hebamme, Gähdestr. 1<br/>266 Ebel, Richard, Landwirt Krummensee<br/>357 Ehwe, Heinz, Arzt, Berliner Allee 18<br/>392 Eiling, Ed., Gärtn., Seeberg, Waldallee 4<br/>215 Erdmann, Alfred, Landwirt, Poststr. 12<br/>236 Evang. Pfarramt, Berliner Str. 16<br/>314 Fiedler, Heinz, Lebensm., Poststr. 11<br/>267 Fielitz, Adolf, Landw., Krummensee.<br/>251 Fielitz, Alfred. Bauer, Krummensee<br/>259 Finck, Ellaabeth. Poststr. 6.</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 982\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>201</td>\n<td>GRUNE, FRIE, FISCHERMANNA., HAU FL. U. DA. 2</td>\n</tr>\n<tr>\n<td>205</td>\n<td>Fincke, Gottlieb, Gasthof, Poststr. 13</td>\n</tr>\n<tr>\n<td>297</td>\n<td>Fisch, Hedwig, Bruchmühle, H.-Norkus-Str.</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Freiwillige Feuerwehr Krummensee, Dorfstr.</td>\n</tr>\n<tr>\n<td>290</td>\n<td>Gebauer, Edwin, Installateur, Bruchmühle</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Gees, Paul, Kohlen, Nord, Lindenstr. 24</td>\n</tr>\n<tr>\n<td>407</td>\n<td>Gemeinde Mehrow, // Siedl., Stelle 17</td>\n</tr>\n<tr>\n<td>320</td>\n<td>Gemeinde-Pflegestation</td>\n</tr>\n<tr>\n<td>370</td>\n<td>Gemeindeschwester, Altl.-Süd, Kronpr.Str. 35</td>\n</tr>\n<tr>\n<td>252</td>\n<td>Gemeindeverwaltung Seeberg</td>\n</tr>\n<tr>\n<td>278</td>\n<td>Gendarmerie-Amt, Kirchstr. 4a</td>\n</tr>\n<tr>\n<td>246</td>\n<td>Gendarmerieposten, Berl. Chaussee 3</td>\n</tr>\n<tr>\n<td>287</td>\n<td>Geache, Herbert, Bauer, Buchholz, Dorfstr. 6</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Giese, Herm., Landwirt, Seeberg, Dorfstr. 7</td>\n</tr>\n<tr>\n<td>335</td>\n<td>Görke, Dora, Lebensin., Poststr. 5</td>\n</tr>\n<tr>\n<td>386</td>\n<td>Grabert, F. Wehrf., Bruchm., Radebrück 25</td>\n</tr>\n<tr>\n<td>301</td>\n<td>Graminsky, Karl, Dachdecker, Poststr. 17</td>\n</tr>\n<tr>\n<td>213</td>\n<td>Graßmann, Robert, Schlächter Krummensee.</td>\n</tr>\n<tr>\n<td>244</td>\n<td>Grewé, Artur, elektr. Anl., Bernauer Str. 15</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Griesbach, Paul, Fleisch., Berliner Allee 11</td>\n</tr>\n<tr>\n<td>289</td>\n<td>Großkreuz, Otto, Mühlenbes., Seeberg.</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 0 784 191\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 752 995\" data-label=\"Text\"><p>348 Hahm, Wilh., Baumat., Bernauerstr. 5<br/>277 Hähnel, Felix, Papierhdlg., Berliner Str. 5<br/>209 Hänisch, Georg, Postm. a. D., Schwerinstr. 3 I<br/>395 Hans, Willy, Zimmerm., Manf.-v.-Richthofen-<br/>Straße 96<br/>366 Happatz, E., Bücherrev., Goethestr. 3<br/>268 Hartmann, Wilhelm, Sattlermstr.<br/>204 Hellenbrand, Dr. W., Arzt, Bernauer-Str. 20<br/>368 Hermann, E., Schlächtermstr., Krummenseestr. 3<br/>398 Herrguth, Aug., Gen.-Litzmann-Str. 16<br/>383 Hoehle, Franz, An der Promenade 1<br/>230 Hönow, Karl, Bauer, Buchholz<br/>261 Holm, Karl, Molkerei, Bruchmühle<br/>293 Hunold, Philipp, Bauer, Poststr. 7<br/>275 Huß, Paul, Landwirt, Poststr. 9<br/>295 Jacobs, Helene, Altlandsb.-Süd, Bruchm. Str.<br/>302 Jacoby, Benno, Holzhdlg., Altlandsberg-Süd<br/>214 Joch, Werner, Dampfsägewerk, Berl. Chaussee<br/>254 John, Paul, R.-A.[N], Berliner Allee 10c.<br/>359 Jordan, K., Fleischermstr., Bruchm. Str. 47<br/>309 Junker's-Expreß-Omnibusse, Bruchmühle<br/>255 Turabol Franz Grundst-Mobiler Bruchmühle</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 746 990\" data-label=\"Text\"><p>358 <b>Kaatz, Friedr., Kohlen, v.-Richth.-Str. 82</b><br/>316 <b>Kahl, Otto, Gastw., Radebrück</b><br/>240 <b>Kanow, Frau M., Landwirtin, Paulshof</b><br/>365 <b>Keller, Hermann, gärtn.Betrieb</b><br/>330 <b>Keusch, Ludwig, Landw., Seeberg, Dorfstr. 1</b><br/>208 <b>Kieß, Max, Metallwrfbr., Bruchm.-Str. 26</b><br/>211 <b>Kleinhahnverwaltung, Bahnhof.</b><br/>212 <b>Kletke, Dr., Eb., R.-A.[N], Berl. Chaussee 1</b><br/>378 <b>Koch, Carl, Kaufhaus, Berliner Str. 6</b><br/>345 <b>Körper, Bernh., Landw., Poststr. 1</b><br/>327 <b>Kohl, Johs., Töpfermstr., Berl.Allee 5</b><br/>313 <b>Kreiskrankenhaus</b><br/>285 <b>Kreissparkasse Niederbarnim</b><br/>207 <b>Krostack, Paul, Schlächterm., Straub. Str. 8</b><br/>311 <b>Kucznick, Paul, Fleischermstr., Poststr. 2</b><br/>239 <b>Künecke, Wilh., Baumat., Süd, Cranachstr. 37</b><br/>406 <b>Laaß, Fr., Schneid., Krummensee</b><br/>356 <b>Lass, Hertha, Kol.W., Kronprinzenstr. 13</b><br/>282 <b>Gebr.Lauermann, Mühle, Altlandsberg</b><br/>296 <b>Leib, Elise, Lebensmittel, Süd, Goethestr.</b><br/>388 <b>Leitzke, Otto, Kondit., Berl. Allee 6</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 712 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Nummer</th>\n<th>Name, Beruf, Adresse</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>273</td>\n<td>Lex, Dr., Arzt</td>\n</tr>\n<tr>\n<td>385</td>\n<td>Ley, Paul, Hypoth., Neuhönow 30</td>\n</tr>\n<tr>\n<td>221</td>\n<td>Liedtke, Kurt, Gastwirt, Altlandsb.-Süd</td>\n</tr>\n<tr>\n<td>360</td>\n<td>Liepolt, Alfr., Klempn., Bruchmühle</td>\n</tr>\n<tr>\n<td>318</td>\n<td>Liersch, Georg, Kondit., Pl. d. SA. 3</td>\n</tr>\n<tr>\n<td>227</td>\n<td>Limpach, Herm., Wagenfhr., Berliner-Str. 29.</td>\n</tr>\n<tr>\n<td>377</td>\n<td>Lütke, Karl, Schlossermstr., Poststr. 19</td>\n</tr>\n<tr>\n<td>387</td>\n<td>Makarow, S., Baugesch., Seeberg, Goethestr.</td>\n</tr>\n<tr>\n<td>390</td>\n<td>Melde, Rich., Fredersd. Chaussee 61</td>\n</tr>\n<tr>\n<td>323</td>\n<td>Miksits, Dr. R., Ing., Bruchmühle</td>\n</tr>\n<tr>\n<td>292</td>\n<td>Minge, Wilh., Gastwirt, Bruchm. Str. 33</td>\n</tr>\n<tr>\n<td>248</td>\n<td>Mirisch, Hans, Drogerie, Bernauer Str. 9</td>\n</tr>\n<tr>\n<td>247</td>\n<td>Mittelschule Klosterstr. 16</td>\n</tr>\n<tr>\n<td>222</td>\n<td>Müller, Friedrich, Bauer, Krummensee</td>\n</tr>\n<tr>\n<td>243</td>\n<td>Müller, Rich., R.-A.[N], Berliner Allee 7.</td>\n</tr>\n<tr>\n<td>232</td>\n<td>Müller, Th., Senatspräsid. a. D., Renzstr. 31</td>\n</tr>\n<tr>\n<td>332</td>\n<td>Münchehofe, Adolf, Landwirt, Seeberg, 13 a</td>\n</tr>\n<tr>\n<td>283</td>\n<td>Münchehofe, Richard, Bauer, Seeberg, 13</td>\n</tr>\n<tr>\n<td>260</td>\n<td>Muth, Emil, Wagenbau, Poststr. 4</td>\n</tr>\n<tr>\n<td>375</td>\n<td>Nabben, Jos., Mützen, Bruchmühle</td>\n</tr>\n<tr>\n<td>071</td>\n",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 744 990\" data-label=\"Text\"><p>224 Neubauer, Emma, Kartoffelhdlg.<br/>233 Noack, Adolf, Bauer, Krummensee<br/>339 NSDAP. Altlandsberg, Berl. Str. 15<br/>229 Dieselbe, SA-Sturm 25/207, Berliner Str. 15<br/>354 Dieselbe, NS-Frauenschaft, Bernauer Str. 11<br/>307 Dieselbe, NS.-Volkswohlfahrt, Berl. Str. 15<br/>263 Oleischeck, R., Kol.W., Pl. d. SA. 4<br/>218 Palm, J., Fuhrw., Berlinerstr. 32—33.<br/>349 Peter, Joachim, Schwerinstr. 3<br/>304 Pfafferott. Agathon, Bruchmühle, Norkusstr. 2<br/>220 Plrwitz, Max, Gastw., Krummensee.<br/>397 Plath, H., Baugesch., Seeberg, Münch. Str.<br/>255 Pulvers, Max, Gastw., Buchholz, Dorfstr. 13<br/>367 Rakewitz, Ernst, Gartenbau, Bernauer Str. 22<br/>415 Rauter, Willi, Kartoffelhdlg., Klosterstr. 1<br/>382 Reichspost, Postamt<br/>336 Reppert, G., Fleischermstr., Alt-Landsb.-Süd<br/>258 Rodrian, Willy, Textilwr., Berl.Str. 25<br/>223 Rommel, Martha, Seeberg<br/>401 Rosemann &amp; Sohn, Furnierfabr., Bruchmühle,<br/>Post Fredersdorf b. Berlin</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 744 976\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>TUO</th>\n<th>ANZEIGEN, UDO., EINGANG, BERECHN., UNTERZIEH.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>241</td>\n<td><b>Schidlowski, Joseph, Gastw., Amtsfreiheit 3</b></td>\n</tr>\n<tr>\n<td>364</td>\n<td>Schmädicke, Otto, Kol.W., Seeberg-Ausbau</td>\n</tr>\n<tr>\n<td>256</td>\n<td>Schmidt, Otto, Möbel, Markt 6</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Schmidtke, Otto, Alt1.-Süd, Pos. Str.</td>\n</tr>\n<tr>\n<td>217</td>\n<td>Schrader, Helmut, Domäne, Altlandsberg</td>\n</tr>\n<tr>\n<td>234</td>\n<td>Schreiber, H., Fleischerei, Bernauer Str. 14</td>\n</tr>\n<tr>\n<td>228</td>\n<td>Schreiber, Paul, Dachd., Kronprinzenstr. 22</td>\n</tr>\n<tr>\n<td>201</td>\n<td>Schultheiß-Patzenhofer-Brauerei AG, Berliner Chaussee 14</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Schultz, C., Baugesch., Berliner Allee 15</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Schulz, Max, Landw., Werneuchener Weg</td>\n</tr>\n<tr>\n<td>353</td>\n<td>Schulze, Erich, Bäckerei, Krummensee</td>\n</tr>\n<tr>\n<td>343</td>\n<td>Schulze, Max, Fleischermstr., Kirchstr. 1</td>\n</tr>\n<tr>\n<td>334</td>\n<td>Schurmann, A., Fleischkons., Bruchmühle</td>\n</tr>\n<tr>\n<td>379</td>\n<td>Schwanz, Albert, Kohlen, Bruchmühle</td>\n</tr>\n<tr>\n<td>391</td>\n<td>Schwengberg, Bruno, Baumstr., Bruchmühle</td>\n</tr>\n<tr>\n<td>206</td>\n<td>Sommer, Hans, Bauer, Krummensee, 18</td>\n</tr>\n<tr>\n<td>373</td>\n<td>Sorge, Paul, Seeberg, Alt1. Chaussee</td>\n</tr>\n<tr>\n<td>294</td>\n<td><b>Spar- und Darlehnskasse e. G. m. b. H., Bernauer Straße 17</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 730 967\" data-label=\"Text\"><p><b>351 Stadtverwaltung Altlandsberg, Altlandsberg<br/>(Mark)</b><br/>329 Stenzel, R., Bäckerm., Posen. Str.<br/>347 Streese, Max, Damen-Bekleid., Goethestr. 35<br/>333 Stronge, Friedr., Kfm., Fredersd. Ch. 51<br/>271 Tausch, Kurt, Dentist Klosterstr. 12<br/>350 Techtow, Willy, D.-Bekleid., Klosterstr. 18<br/>344 Teeske, Gust., Landwirt, Neuhönow 13<br/>303 Tempel, Br., Hotel Friedrichslust, Berl.Ch. 2<br/>317 Thurau, Frdr., Gasth., Bruchmühle<br/>276 Trox, Paul, Gerichtslauhe, Berl. Allee 8<br/>319 Unterlauf's Hotel, Strausberger Str. 4<br/>298 Wagner, Marie, Buchdr. Res., Bruchmühle<br/>418 Walter, Alfred, Schuhm. Mstr., Poststr. 413<br/>281 Walter, Erich, O. Gerichtsvollz., Bern. Str. 13<br/>348 Wedeking, Herm., Kolonialwr., Poststr. 18<br/>324 Wendt, Otto, Baumstr., Gähdestr. 3<br/>264 Werner, Hermann, Holz, Marktstr. 11<br/>371 Wiebesiek, Hedwig, Zeitg. Berl. Allee 10b<br/>308 Wilhelm, Ernst, Landw., Seeberg, Dorfstr.</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

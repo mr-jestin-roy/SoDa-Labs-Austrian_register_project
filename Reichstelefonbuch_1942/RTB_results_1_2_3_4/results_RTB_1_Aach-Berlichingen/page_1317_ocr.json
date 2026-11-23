@@ -1,0 +1,717 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which are likely scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"207 12 998 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>(35670)</td>\n<td><b>Emmerich, Dr. Wilh.,</b> Hompeschstr. 15</td>\n</tr>\n<tr>\n<td>60137</td>\n<td><b>Fritze, Dr. Herbert,</b> Hans-Sachs-Str. 55</td>\n</tr>\n<tr>\n<td>32668</td>\n<td><b>Hartmann, Dr. Paul,</b> Wirtschaftsprüfer,<br/>Kaiserswerther Str. 164</td>\n</tr>\n<tr>\n<td>31252</td>\n<td><b>Hendel, Dr. Rudolf,</b> Arnoldstr. 7</td>\n</tr>\n<tr>\n<td>30225</td>\n<td><b>Hinssen, Heinr.,</b> Martin-Faust-Str. 13</td>\n</tr>\n<tr>\n<td>37027</td>\n<td><b>Höppner, Dr. Mart.,</b> v.Stransky-Str. 34</td>\n</tr>\n<tr>\n<td>52182</td>\n<td><b>Huffelmann, Dr. Carl,</b> <i>Ok</i> Wildenbr. Str. 9</td>\n</tr>\n<tr>\n<td>63708</td>\n<td><b>Klötzer, Dr. Hermann,</b> Sybelstr. 1</td>\n</tr>\n<tr>\n<td>25553</td>\n<td rowspan=\"2\">\n<b>Kontinentale Treuhandgesellschaft m. b.</b><br/>\n<b>H., Hofgartenstr. 9c. T Fachgenossen</b>\n</td>\n</tr>\n<tr>\n<td>25554</td>\n</tr>\n<tr>\n<td>64349</td>\n<td><b>Künster, Fritz,</b> Grafenb. All. 77</td>\n</tr>\n<tr>\n<td>65010</td>\n<td><b>Metzeler, Dr. Fritz,</b> Uhlandstr. 4</td>\n</tr>\n<tr>\n<td>51018</td>\n<td><b>Montel, Walter,</b> <i>Obk</i> Luegallee 66</td>\n</tr>\n<tr>\n<td>25553</td>\n<td><b>Price, Waterhouse &amp; Co.,</b> Hofgartenstr. 9c</td>\n</tr>\n<tr>\n<td>25553</td>\n<td><b>Rätsch, Herbert,</b> Hofgartenstr. 9c</td>\n</tr>\n<tr>\n<td>37952</td>\n<td><b>Saalfeld, Adolf,</b> Collenbachstr. 12</td>\n</tr>\n<tr>\n<td>60054</td>\n<td><b>Sartorius, Dr. Heinrich,</b> Wirtschaftsprüfer,<br/>Düsseldorf 1, Humboldtstr. 57a</td>\n</tr>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Eger (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Elbing (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Elmshorn.",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Erlangen.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Eßlingen (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Ettlingen (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Forst (Lausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankenthal (Pfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"192 14 993 960\" data-label=\"Table\"><table><tr><td>446 63</td><td>Löffler, Walter, Quinckestr. 29</td></tr><tr><td>553 01</td><td>Löfke, Victor, Mittelweg 34</td></tr><tr><td>523 74</td><td>Lückel, Hugo, Gärtnerweg 7</td></tr><tr><td>564 38</td><td>Marc, Reinhold, Leerbachstr. 101</td></tr><tr><td>626 25</td><td>Marquardt, Theodor, A. d. Mühlenberg 6</td></tr><tr><td>217 60</td><td>Nat. Treuh. u. Revis.-Ges.mbH, Goethepl. 7</td></tr><tr><td>(127 87)</td><td>Praetorius, Hermann, Hostatostr. 18</td></tr><tr><td>563 03</td><td>Premßler, Ernst, Hermannstr. 36</td></tr><tr><td>579 39</td><td>Preusel, Dr. Erich, Vogtstr. 52</td></tr><tr><td>716 66</td><td>Revisionsges. f. Betriebsunternehmungen, GmbH, Feuerbachstr. 29</td></tr><tr><td>127 87</td><td>Rhein-Mainische Steuer-Treuh.-Ges.mbH, Hostatostr. 18</td></tr><tr><td>578 68</td><td>Rosalino, Lothar, Stalburgstr. 40</td></tr><tr><td>786 97</td><td>Schaffner, Georg, Kettenhofweg 57</td></tr><tr><td>645 39</td><td>Schindler, Paul, Holbeinstr. 62</td></tr><tr><td>778 38</td><td>Schmidt, Aug. Herm., Elsa BrandströmStr. 6</td></tr><tr><td>549 19</td><td>Schmitt, Dr. Phil., Holzhausenstr. 11</td></tr><tr><td>756 54</td><td>Schnabel, Georg Michael, Kettenh.W. 102</td></tr><tr><td>932 93</td><td>Schönmüller, Franz, Fallersl. Str. 31</td></tr></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 15 545 65\" data-label=\"Text\"><p>- - - - -</p></div>\n<div data-bbox=\"838 195 855 265\" data-label=\"Text\"><p>1.</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Freiberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Breisgau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Garmisch-Partenkirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gera.",
+        "entries": []
+      },
+      {
+        "region_name": "Gießen.",
+        "entries": []
+      },
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Goslar.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Gotha.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Grevenbrück (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Grünberg (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Halberstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"94 0 830 25\" data-label=\"Page-Header\">\n<p>126 — D I S T R I K T E N, U R T — U N T E R S T R A S S E N</p>\n</div>\n<div data-bbox=\"94 25 818 75\" data-label=\"Text\">\n<p><i>Rahl</i> = Rahlstedt; <i>Wbk</i> = Wandsbek</p>\n</div>\n<div data-bbox=\"10 85 995 990\" data-label=\"List-Group\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>24 07 14</td>\n<td>Alig. Treuhandges. in Hamburg m. b. H.,<br/>1, Gr. Alice 20/21</td>\n</tr>\n<tr>\n<td>33 53 58</td>\n<td>Allg. Wirtsch. Prüf. A.-G., Herm.-Str. 26</td>\n</tr>\n<tr>\n<td>34 80 55</td>\n<td>Baxmann, Heinr. C. A., 36, Neuer Wall 16</td>\n</tr>\n<tr>\n<td>31 33 67</td>\n<td>Beck, Heinrich, 11, Trostbrücke 1</td>\n</tr>\n<tr>\n<td>49 25 44</td>\n<td>Bergmann, G., <i>Oth</i> Kl. Flottb. Weg 6</td>\n</tr>\n<tr>\n<td>36 50 32</td>\n<td>Blunk, Albert, 11, Kl. Joh. Str. 6</td>\n</tr>\n<tr>\n<td>44 68 46</td>\n<td>Bräuer, Wilhelm, 13, Moorweidenstr. 34</td>\n</tr>\n<tr>\n<td>Sml.-Nr. {</td>\n<td>Büick, Hans, Wirtschaftsprüfer, Hamburg-</td>\n</tr>\n<tr>\n<td>42 15 69 {</td>\n<td>Altona 1, Turnstr. 12</td>\n</tr>\n<tr>\n<td>33 43 53</td>\n<td>Burkhardt, Dr. Kurt, 1, Rathausstr. 27</td>\n</tr>\n<tr>\n<td>36 32 48</td>\n<td>Busch, Friedr. C., 11, Graskeller 6</td>\n</tr>\n<tr>\n<td>27 11 67</td>\n<td>Demgenski Jr., Karl, <i>Rahl</i> Jungf. St. 4</td>\n</tr>\n<tr>\n<td>24 10 71</td>\n<td>Dt. Waren-Treu. A.-G., 1, An d. Alster 85</td>\n</tr>\n<tr>\n<td>34 20 21</td>\n<td>Diederich, Bruno, 36, Neuer Wall 70</td>\n</tr>\n<tr>\n<td>36 30 ",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 18 998 970\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>53 36 79</td>\n<td>Großmann, Heinrich, 20, Husumer Str. 10</td>\n</tr>\n<tr>\n<td>33 43 53</td>\n<td>„Habetreu“ Hamb. Buchprüf. u. Treuhand-Gesellschaft, Rathauss r. 27</td>\n</tr>\n<tr>\n<td>36 50 32</td>\n<td>Hamb. Treuh.Ges. Blunk, Kl.Joh.Str. 6</td>\n</tr>\n<tr>\n<td>24 07 14</td>\n<td>Heichlinger, Dr. Otto, 1, Gr. Allee 20</td>\n</tr>\n<tr>\n<td>24 02 45</td>\n<td>Heydtmann, John, 1, Langereihe 29</td>\n</tr>\n<tr>\n<td>42 44 44</td>\n<td>Horn, Dr. Gg.-Friedr., Alt Friedensall. 46</td>\n</tr>\n<tr>\n<td>26 32 52</td>\n<td>Keller, J. P., 26, Hirtenstr. 16</td>\n</tr>\n<tr>\n<td>33 31 24</td>\n<td>Koob, Dr. Alexander, Wirtschaftsprüfer<br/>Rechtsanwalt, Fachanwalt für Steuerrecht*<br/>Hbg. 1, Alstertor 1</td>\n</tr>\n<tr>\n<td>(33 53 58)</td>\n<td>Koppe, Richard, 1, Hermanstr. 26</td>\n</tr>\n<tr>\n<td>36 30 55</td>\n<td>Kroll, Dr. Karl, 11, Gr. Reichenstr. 51</td>\n</tr>\n<tr>\n<td>34 65 85</td>\n<td>Krumm, Dr. Joh., 36, Neuer Wall 32</td>\n</tr>\n<tr>\n<td>33 31 24</td>\n<td>van der Laan, Walther, 1, Alstertor 1</td>\n</tr>\n<tr>\n<td>33 37 43</td>\n<td>Lang u. Stolz, Wirtsch.Prüf.Ges., 1, Berg-<br/>straße 11</td>\n</tr>\n<tr>\n<td>33 48 55</td>\n<td>Lemberg, T. U., 1, Speersort 1</td>\n</tr>\n<tr>\n<td>33 65 69</td>\n<td>Löhde, Cäsar, 1, Kl.Bäckerstr. 20</td>\n</tr>\n<tr>\n<td>33 38 25</td>\n<td>Lübcke, Hermann, 1, Rathausstr. 29</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Liefer u. Wirtschaftsprüfungsges",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"24 11 993 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>37</td>\n<td>40</td>\n<td>29</td>\n<td>Lünstroth, Wilh., <i>Hrb</i> Gr. Schippsee 18</td>\n</tr>\n<tr>\n<td>33</td>\n<td>53</td>\n<td>00</td>\n<td>Mäurer, Heinrich, 1, Mönckebergstr. 17</td>\n</tr>\n<tr>\n<td>34</td>\n<td>68</td>\n<td>90</td>\n<td>Markert, Willy, 36, Jungfernstieg 8</td>\n</tr>\n<tr>\n<td>34</td>\n<td>05</td>\n<td>94</td>\n<td>Meier, C. H. A., Wirtschaftsprüfer, Hamburg 36, Neuer Wall 75</td>\n</tr>\n<tr>\n<td>34</td>\n<td>05</td>\n<td>94</td>\n<td>Meier, Ludwig, 36, Neuer Wall 75</td>\n</tr>\n<tr>\n<td>42</td>\n<td>90</td>\n<td>08</td>\n<td>Metzner, Herm., <i>Alt</i> Flottb. Ch. 95</td>\n</tr>\n<tr>\n<td>33</td>\n<td>67</td>\n<td>75</td>\n<td>Middelhaube, Dr. W., Pferdemarkt 45</td>\n</tr>\n<tr>\n<td>36</td>\n<td>34</td>\n<td>26</td>\n<td>Miehlmann, John, Wirtschaftsprüfer, Hamburg 11, Alter Wall 12</td>\n</tr>\n<tr>\n<td>35</td>\n<td>23</td>\n<td>44</td>\n<td>Möhrie, Ernst, 36, Dammtorstr. 14</td>\n</tr>\n<tr>\n<td>33</td>\n<td>43</td>\n<td>53</td>\n<td>Müller v. Blumencron, Kurt, 1, Rathausstraße 27</td>\n</tr>\n<tr>\n<td>42</td>\n<td>44</td>\n<td>44</td>\n<td>Nordd. Buchf. und Verw.-A.-G., <i>Alt</i> Friedensallee 46</td>\n</tr>\n<tr>\n<td>46</td>\n<td>27</td>\n<td>84</td>\n<td>Pfeiffer, Georg, <i>Bb</i> Mörikestr. 24</td>\n</tr>\n<tr>\n<td>49</td>\n<td>46</td>\n<td>60</td>\n<td>Philippi, Dr. Otto, <i>Niend</i> K. Jacobstr. 7</td>\n</tr>\n<tr>\n<td>55</td>\n<td>34</td>\n<td>44</td>\n<td>Post,",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 992 986\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>33 61 49</td>\n<td>Schniagge, Dr. Walth., 1, Bergstr. 7</td>\n</tr>\n<tr>\n<td>(32 69 97)</td>\n<td>Schmidkunz, Friedrich, 1, Alstertor 2</td>\n</tr>\n<tr>\n<td>32 34 33</td>\n<td>Schmidt, Walther, 1, Breitestr. 34</td>\n</tr>\n<tr>\n<td>33 48 54</td>\n<td>Schneider, Elmar Leop., 1, Speersort 1</td>\n</tr>\n<tr>\n<td>49 32 73</td>\n<td>Schneider, Dr. Walter, Nienstedten,<br/>Weetenk. 4</td>\n</tr>\n<tr>\n<td>34 82 05</td>\n<td>Schünemann, L., 36, Königstr. 21</td>\n</tr>\n<tr>\n<td>23 29 47</td>\n<td>van der Smissen, Jul., 24, Hartwicustr. 4</td>\n</tr>\n<tr>\n<td>49 20 28</td>\n<td>Soltau, Dr. Friedr., <i>Othm</i> Zietenstr. 22</td>\n</tr>\n<tr>\n<td>33 43 53</td>\n<td>Spiegelberg, Dr. Karl, Rathausstr. 27</td>\n</tr>\n<tr>\n<td>44 66 84</td>\n<td>Steinrück, Alfons, 13, Harvesteh. Weg 124</td>\n</tr>\n<tr>\n<td>49 36 81</td>\n<td>Stemmler, Werner, <i>Oth</i> Sievek.-W. 81</td>\n</tr>\n<tr>\n<td>33 37 43</td>\n<td>Stolz, Fr. O., 1, Bergstr. 11</td>\n</tr>\n<tr>\n<td>44 68 46</td>\n<td>Strathus, Max, 13, Moorweidenstr. 34</td>\n</tr>\n<tr>\n<td>49 56 91</td>\n<td>Teschner, Eugen, Gr. Flottbek, Dürerstr. 7</td>\n</tr>\n<tr>\n<td>36 09 31</td>\n<td>Thies, Otto, 11, Trostbrücke 4</td>\n</tr>\n<tr>\n<td>32 02 80</td>\n<td>Tospann, Dr. Ernst, 1, Alstertor 1</td>\n</tr>\n<tr>\n<td>33 08 38</td>\n<td>Tredup, Dr. A. E., 1, Bergstr. 23</td>\n</tr>\n<tr>\n<td>34 23",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Hameln.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannau (Hess.-Nass.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 3 990 951\" data-label=\"Text\"><table><tbody><tr><td>62421</td><td><b>Dieke, Adolf, Wedekindstr. 15</b></td></tr><tr><td>29496</td><td><b>Dittner, Dr., K-G, Lowestr. 36</b></td></tr><tr><td>63351</td><td><b>Ehr, Dr. Lothar, Podbielskistr. 18</b></td></tr><tr><td>64996</td><td><b>Freiberg, Bruno, Walderseestr. 37</b></td></tr><tr><td>60555</td><td><b>Güttler, Otto, Waldstr. 46</b></td></tr><tr><td>20020</td><td><b>Hampe, Dr. Erich, Georgstr. 23</b></td></tr><tr><td>29382</td><td><b>Hintzmann, Erwin, Friedenstr. 2</b></td></tr><tr><td>20020</td><td><b>Hoffschmidt, Dr. Rich., Georgstr. 23</b></td></tr><tr><td>21404</td><td><b>Kalender, Dr. Hans, Ellernstr. 9</b></td></tr><tr><td>25454</td><td><b>Koch, Dr. Egon, Schiffgraben 36</b></td></tr><tr><td>20254</td><td><b>Lindheimer, Kurt, Wirtschaftsprüfer-Büro, Hannover M, Georgstr. 33</b></td></tr><tr><td>25181</td><td><b>Lückhardt, Dr. Ludwig, Ad.HitlerStr. 5</b></td></tr><tr><td>26890</td><td><b>Nartën, Dr. Ernst, Prinzenstr. 13</b></td></tr><tr><td>63218</td><td><b>Schumann, Paul, N, Darwinstr. 1</b></td></tr><tr><td>85032</td><td><b>Siever, Heinr., S, Altenbr. Damm 37</b></td></tr><tr><td>20254</td><td><b>Streutker, Heinz, Georgstr. 33</b></td></tr><tr><td>61871</td><td><b>Treuhand- und Wirtschaftsprüfungs-Ges. m. b. H. zu Hannover</b></td></tr><tr><td>61871</td><td><b>Wagner, Arthur, Brahmstr. 2</b></td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Heilbronn.",
+        "entries": [
+          {
+            "extension": "2715",
+            "text": "Freudenberger, Alfred, Kaiserstr. 25"
+          },
+          {
+            "extension": "5141",
+            "text": "Heilbronner Treuh.-Ges. mbH, Titotstr. 8"
+          },
+          {
+            "extension": "5143",
+            "text": "Mack, Emil, Titotstr. 8"
+          },
+          {
+            "extension": "5141",
+            "text": "Mössinger, Emil, Titotstr. 8"
+          },
+          {
+            "extension": "2755",
+            "text": "Treuhandges. für Handel u. Industrie,Iglauer Str. 11"
+          },
+          {
+            "extension": "2560",
+            "text": "Wahl, Erich, Werderstr. 142"
+          }
+        ]
+      },
+      {
+        "region_name": "Herford.",
+        "entries": [
+          {
+            "extension": "2572",
+            "text": "Woeike, Dr. Franz Helnr., Bielef. Str. 15"
+          }
+        ]
+      },
+      {
+        "region_name": "Hildesheim.",
+        "entries": [
+          {
+            "extension": "5344",
+            "text": "Nicolai, Friedrich, Straße der SA 62"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Hirschberg (Riesengeb.).",
+        "entries": [
+          {
+            "extension": "2707",
+            "text": "Folgner, Wilhelm, Ad.Hitler-Str. 25"
+          },
+          {
+            "extension": "2698",
+            "text": "Hagen, Oskar, Mentzelstr. 14"
+          },
+          {
+            "extension": "2454",
+            "text": "Reier, Dr. Otto, Adolf-Hitler-Platz 6"
+          },
+          {
+            "extension": "2644",
+            "text": "Schmidt, Max, Dr.-Ing., Museumstr. 7"
+          }
+        ]
+      },
+      {
+        "region_name": "Holle (Hann.).",
+        "entries": [
+          {
+            "extension": "132",
+            "text": "Francke, Rühle, Derneburg"
+          }
+        ]
+      },
+      {
+        "region_name": "Itzehoe.",
+        "entries": [
+          {
+            "extension": "2121",
+            "text": "Hagedorn, Robert, Bahnhofstr. 10"
+          }
+        ]
+      },
+      {
+        "region_name": "Jocketa (Sachs.).",
+        "entries": [
+          {
+            "extension": "74",
+            "text": "Kern, Richard A., Polenzstr. 24E"
+          }
+        ]
+      },
+      {
+        "region_name": "Kaiserslautern.",
+        "entries": [
+          {
+            "extension": "1294",
+            "text": "Vogl, Franz, Benzmoring 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/>This image is a completely blank white page. It contains no text, markings, or illustrations. It appears to be a separator page or a page with no content from a document.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Karlsruhe (Baden).",
+        "entries": [
+          {
+            "extension": "4391",
+            "text": "Dittmann, Albert, Kriegsstr. 248"
+          },
+          {
+            "extension": "2756",
+            "text": "Heudorfer, Dr. Herm., Beiertheimer Allee 21"
+          },
+          {
+            "extension": "4584",
+            "text": "Lutwitz, Dr. Karl, Kaiser-Allee 7a"
+          },
+          {
+            "extension": "4584",
+            "text": "Vogt, Friedrich, Kaiser-Allee 7a"
+          }
+        ]
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": [
+          {
+            "extension": "34339",
+            "text": "Ludwig, Adolf, Terrasse 17"
+          },
+          {
+            "extension": "33427",
+            "text": "Merten, Kurt, Adm.-Scheer-Str. 15"
+          }
+        ]
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": [
+          {
+            "extension": "33995",
+            "text": "{ Deutsche Revisions- und Treuhand-Aktiengesellschaft, Zweigniederlassung Kattowitz, Woyrschstr. 13. T Treuarbeit"
+          },
+          {
+            "extension": "33996",
+            "text": "{ Dieselbe, nur für den Fernverkehr"
+          },
+          {
+            "extension": "33997",
+            "text": "{ Neue Revisions- u. Treuhand-Ges.m.b.H., Friedrichstr. 6"
+          },
+          {
+            "extension": "35758",
+            "text": "{ Rievel, Dr. Ernst, Ludendorffstr. 60"
+          },
+          {
+            "extension": "35484",
+            "text": "{ Rohde, Karl Friedrich, Kirchstr. 6"
+          },
+          {
+            "extension": "30711",
+            "text": "{ Treuhand-Aktiengesellschaft, Zweigniederlassung Kattowitz, Kurfürstenstraße 2. 30779"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 726 989\" data-label=\"Text\"><table><tbody><tr><td>4 54 61</td><td><b>Dietes, Hermann, Sülz, Simm.Str. 21</b></td></tr><tr><td>5 27 95</td><td><b>Gerhardt, Wilhelm, Spichernstr. 55</b></td></tr><tr><td>4 70 26</td><td><b>Hartkopf, Dr. Herm., Lindenthal, Landgrafenstr. 103</b></td></tr><tr><td>22 43 30</td><td><b>Hermann, Carl F., Deichmannhaus</b></td></tr><tr><td>21 19 60</td><td><b>Hillmeister, Dr. Leo, Hohenz.-Ring 22</b></td></tr><tr><td>5 66 67</td><td><b>Knippprath, Wilh., Kais.-Wilh.-Ring 1</b></td></tr><tr><td>22 32 41</td><td><b>Knorr, Dr. Ernst, Deichmannhaus</b></td></tr><tr><td>7 38 41</td><td><b>Krumpe, Joh. Heinr., Worringer Str. 10</b></td></tr><tr><td>7 55 54</td><td><b>Lauter, Dr. Franz, Deutscher Ring 46</b></td></tr><tr><td>7 16 82</td><td><b>Leidecker, H., Thürmchenswall 57</b></td></tr><tr><td>7 16 82</td><td><b>Leidecker, Willi, Thürmchenswall 57</b></td></tr><tr><td>7 58 44</td><td><b>Lietz, Maximilian, Deutscher Ring 20</b></td></tr><tr><td>9 63 61</td><td><b>Loenertz, Dr. Paul, Marienburg, Ronderferstr. 20</b></td></tr><tr><td>1 35 02</td><td><b>Mathée, Kurt, Deutz, Konstantinstr. 86</b></td></tr><tr><td>7 45 73</td><td><b>Maus, Dr. Josef, Dipl.-Kfm., Wirtschaftsprüfer, Merlostr. 8</b></td></tr><tr><td>4 65 91</td><td><b>Minz, Dr. Willy, Sülz, Siebengeb.-All. 23</b></td></tr><tr><td>4 86 82</td><td><b>Modert, Dr. Hch., Lindenthal, Lindent.G.15</b></td></tr><tr><td>7 57 94</td><td><b>Mohr, Franz, Riehler Str. 39</b></td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 22 725 995\" data-label=\"Text\">\n<table border=\"0\">\n<tr>\n<td>4 81 34</td>\n<td><b>Prinz, Hubert, Stülz, Kyburger Str. 14</b></td>\n<td></td>\n</tr>\n<tr>\n<td>21 50 41</td>\n<td><b>Rentrop, Dr. Siegr., Gereonskloster 22</b></td>\n<td></td>\n</tr>\n<tr>\n<td>SmI.-Nr.</td>\n<td rowspan=\"2\">{ <b>Rheinisch-Westfälische „Revision“ Treu-</b></td>\n<td rowspan=\"2\"><b>Treu-</b></td>\n</tr>\n<tr>\n<td>22 45 55</td>\n<td><b>hand A.-G., Unter-Sachsenhausen 11/15</b></td>\n</tr>\n<tr>\n<td>4 69 58</td>\n<td><b>Röttgermann, Hans, Aegidienb. Str. 14</b></td>\n<td></td>\n</tr>\n<tr>\n<td>4 56 19</td>\n<td><b>Schlüter, Dr. K., Lindenthal, Kerp.Str. 3</b></td>\n<td></td>\n</tr>\n<tr>\n<td>22 72 30</td>\n<td><b>Schubert, Dr. H. Th., Unter-Sachsenh. 14</b></td>\n<td></td>\n</tr>\n<tr>\n<td>22 26 33</td>\n<td><b>Schwarz, Dr. Joh., Deichmannhaus</b></td>\n<td></td>\n</tr>\n<tr>\n<td>7 21 76</td>\n<td><b>Simon, Dr. Hans, Riehl, Xant.Str. 131</b></td>\n<td></td>\n</tr>\n<tr>\n<td>6 29 88</td>\n<td><b>Sistig, Dr. Alfons, Dellbrück, Brambach-</b></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td><b>straße 86</b></td>\n<td></td>\n</tr>\n<tr>\n<td>22 58 54</td>\n<td><b>Spengler, Dr. Alex., Gereonshaus</b></td>\n<td></td>\n</tr>\n<tr>\n<td>9 76 15</td>\n<td><b>Treuhand-Aktienges., Marienburg, W.-</b></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Müller-Str. 16</b></td>\n<td></td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">{ <b>Treuhand-K.-G. Hartkopf &amp; Rentrop,</b></td>\n<td rowspan=\"2\"><b>Wirtschaftsprüfungsgesellschaft, Gereons-</b></td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td><b>kloster 22</b></td>\n</tr>\n<tr>\n",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Krakau (Generalgouvernement).",
+        "entries": []
+      },
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Lahr (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Landsberg (Warthe).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"441 16 497 104\" data-label=\"Text\"><p>222</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

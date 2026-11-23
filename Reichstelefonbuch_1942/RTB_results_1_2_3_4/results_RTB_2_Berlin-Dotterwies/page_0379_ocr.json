@@ -1,0 +1,930 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"261 10 999 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>93 56 74</td>\n<td>Köhler, Dr. Karl, Studienrat, <i>Chb</i> Witzlebenstr. 19</td>\n</tr>\n<tr>\n<td>31 62 93</td>\n<td>Köhler, Karl, Techn., <i>Chb</i> Wilm. Str. 117</td>\n</tr>\n<tr>\n<td>50 93 33</td>\n<td>Köhler jun., Karl, Buchdr., <i>Misd</i> Pilsener Str. 10</td>\n</tr>\n<tr>\n<td>85 18 72</td>\n<td>Koehler, K. F., Gartengestalter, <i>Zehl</i> Hammerstr. 12</td>\n</tr>\n<tr>\n<td>89 19 16</td>\n<td>K. Köhler &amp; Co, Verlag, <i>Smgd</i> Hundenkehlestraße 10</td>\n</tr>\n<tr>\n<td>35 21 34</td>\n<td>Köhler, K.-H., Staatsanw., NW 40, Melanchthonstr. 22</td>\n</tr>\n<tr>\n<td>59 11 04</td>\n<td>Köhler, Karoline, C 2, Holzmarktstr. 6</td>\n</tr>\n<tr>\n<td>45 30 32</td>\n<td>Köhler, K., Bauausf., NO 55, Prenzl. A. 147</td>\n</tr>\n<tr>\n<td>51 34 74</td>\n<td>Köhler, K., Bekleid., C 2, Memhardstr. 19</td>\n</tr>\n<tr>\n<td>79 23 70</td>\n<td>Köhler, K., Ing., <i>Stegl</i> Klingsorstr. 14</td>\n</tr>\n<tr>\n<td>49 37 86</td>\n<td>Köhler, K., Kfm., <i>Witt</i> Elsenpfuhlstr. 41</td>\n</tr>\n<tr>\n<td>56 12 26</td>\n<td>Köhler, K., Kompon., <i>Weiß</i> Soonwaldstraße 12</td>\n</tr>\n<tr>\n<td>65 66 10</td>\n<td>Köhler, Kurt, Vertr., <i>Grü</i> Büxensteinall. 19</td>\n</tr>\n<tr>\n<td>25 83 26</td>\n<td>Köhler, Dr. Kurt, Pat.-Anw., W 35, Corneliusstr. 1</td>\n</tr>\n<tr>\n<td>10 99 12</td>\n<td>Dore Rürn ArnRhoaronstr 09</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"257 0 998 988\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>31 32 49</td>\n<td>Köhler, K.,</td>\n<td>Schiachter, <i>Chb</i> Pestal. Str. 27</td>\n</tr>\n<tr>\n<td>80 57 75</td>\n<td>Köhler, K. G.,</td>\n<td>Reg.-R., <i>Nik</i> Kirschweg 25</td>\n</tr>\n<tr>\n<td>25 01 39</td>\n<td>Köhler, K. Max,</td>\n<td>W 62, Budapester Str. 16</td>\n</tr>\n<tr>\n<td>68 37 92</td>\n<td>Köhler, Lena,</td>\n<td>Feink., SO 36, Skalitzer<br/>Straße 31</td>\n</tr>\n<tr>\n<td>48 04 76</td>\n<td>Köhler, L.,</td>\n<td>Zahnarzt, N 65, Fennstr. 43</td>\n</tr>\n<tr>\n<td>50 04 56</td>\n<td>L. u. Hellm.</td>\n<td>Köhler, Kfm., <i>Krlsh</i> Marks-<br/>burgstr. 39</td>\n</tr>\n<tr>\n<td>66 92 22</td>\n<td>Köhler, Leopold,</td>\n<td>Schürzenfbr., SW 29,<br/>Gneisenaustr. 19</td>\n</tr>\n<tr>\n<td>53 22 06</td>\n<td>Köhler, L.,</td>\n<td>Vorst.-Mitgl., NO 18, Knip-<br/>rodestraße 3</td>\n</tr>\n<tr>\n<td>84 14 80</td>\n<td>Koehler, Leopoldine,</td>\n<td><i>Zehl</i> Hohenz. Str. 19</td>\n</tr>\n<tr>\n<td>80 60 38</td>\n<td>Koehler, Lina,</td>\n<td><i>KlMn</i> Märkische Heide 44</td>\n</tr>\n<tr>\n<td>75 86 84</td>\n<td>Köhler, Loth.,</td>\n<td><i>Tmp</i> Friedr.-Karl-Str. 88</td>\n</tr>\n<tr>\n<td>57 21 18</td>\n<td>Köhler, Louis,</td>\n<td>Möbeltischl., O 34, Königs-<br/>berger Straße 3</td>\n</tr>\n<tr>\n<td>65 56 95</td>\n<td>Köhler, Lucie,</td>\n<td><i>Grü</i> Sandbacher Weg 66</td>\n</tr>\n<tr>\n<td>19 02 74</td>\n<td>Köhler, Lucie,</td>\n<td>Konfit., SW 61, Belle-All.-<br/>Platz 11a</td>\n</tr>\n<tr>\n<td>31 79 20</td>\n<td>Köhler, Ludwig,</td>\n<td><i>Chb</i> Goethestr. 79</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "87",
+            "text": "11"
+          },
+          {
+            "extension": "26",
+            "text": "04"
+          },
+          {
+            "extension": "57",
+            "text": "15"
+          },
+          {
+            "extension": "31",
+            "text": "70"
+          },
+          {
+            "extension": "31",
+            "text": "33"
+          },
+          {
+            "extension": "79",
+            "text": "27"
+          },
+          {
+            "extension": "88",
+            "text": "33"
+          },
+          {
+            "extension": "92",
+            "text": "64"
+          },
+          {
+            "extension": "87",
+            "text": "27"
+          },
+          {
+            "extension": "64",
+            "text": "26"
+          },
+          {
+            "extension": "37",
+            "text": "55"
+          },
+          {
+            "extension": "44",
+            "text": "92"
+          },
+          {
+            "extension": "96",
+            "text": "19"
+          },
+          {
+            "extension": "62",
+            "text": "55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 0 994 992\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>92 19 90</td>\n<td>Köhler, Max, Kfm.,</td>\n<td>Wilm Zähr. Str. 39</td>\n</tr>\n<tr>\n<td>66 91 65</td>\n<td>Köhler, Max, Photogr.,</td>\n<td>SW 61, Methfessel-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>straße 17</td>\n</tr>\n<tr>\n<td>39 71 80</td>\n<td>Köhler, Max, Friseur,</td>\n<td>NW 87, Gotzkowky-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>straße 18</td>\n</tr>\n<tr>\n<td>34 80 29</td>\n<td>Köhler, Max, Insp.,</td>\n<td>Ch Kamminerstr. 29</td>\n</tr>\n<tr>\n<td>24 39 87</td>\n<td>Köhler, M., Glas,</td>\n<td>W 50, Nürnberger Str. 37</td>\n</tr>\n<tr>\n<td>62 60 40</td>\n<td>Köhler, Max,</td>\n<td>Schneidermstr., Britz,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Chausseestr. 66</td>\n</tr>\n<tr>\n<td>17 26 23</td>\n<td>Köhler, Max, Unif.-Fbr.,</td>\n<td>SW 68, Mark-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>grafenstraße 87</td>\n</tr>\n<tr>\n<td>26 14 64</td>\n<td>Ders., Wohn.,</td>\n<td>W 30, Stübbenstr. 3</td>\n</tr>\n<tr>\n<td>68 79 96</td>\n<td>Max u. Hans Köhler,</td>\n<td>App.-Bau, SO 36,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Oranienstr. 20</td>\n</tr>\n<tr>\n<td>66 23 59</td>\n<td>Köhler, M., Kleider,</td>\n<td>SW 29, Kottb. D. 22</td>\n</tr>\n<tr>\n<td>51 31 00</td>\n<td>Köhler, Minna,</td>\n<td>Wild, Zentr.-Markth. 1</td>\n</tr>\n<tr>\n<td>47 10 48</td>\n<td>Köhler, Minna,</td>\n<td>Waidm Hubertusstr. 5</td>\n</tr>\n<tr>\n<td>49 31 65</td>\n<td>Köhler, O., Dentist,</td>\n<td>ReiO Prov.-Str. 61</td>\n</tr>\n<tr>\n<td>83 48 96</td>\n<td>Köhler, Osk., Kfm.,</td>\n<td>Frdn Kaiserallee 101</td>\n</tr>\n<tr>\n<td>53 16 13</td>\n<td>Köhler, Oskar,</td>\n<td>Polstermat., NO 55, Greifs-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>walder Str. 195</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 993 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>54 81 58</td>\n<td>Köhler, Uak., Kempt., <i>UZO</i> Berliner Str. 154</td>\n</tr>\n<tr>\n<td>62 92 18</td>\n<td>Köhler, Osw., Gaatw., Britz. Rud.-Str. 51</td>\n</tr>\n<tr>\n<td>50 88 26</td>\n<td>Köhler, Otto, Bücherrev., <i>Msd</i> Hönower<br/>Straße 72</td>\n</tr>\n<tr>\n<td>17 31 70</td>\n<td>Köhler, Otto, Graph. Ind., SW 68, Neuenb.<br/>Straße 37</td>\n</tr>\n<tr>\n<td>56 88 25</td>\n<td>Koehler, Otto, Kfm., Buch, Viereckweg 76</td>\n</tr>\n<tr>\n<td>61 22 65</td>\n<td>Köhler, O., Kunstanst., SW 68, Curth-<br/>damm 46</td>\n</tr>\n<tr>\n<td>31 75 83</td>\n<td>Köhler, O., Malerei, <i>Chb</i> Pestal. Str. 20</td>\n</tr>\n<tr>\n<td>58 21 69</td>\n<td>Köhler, O., Möbelfbr., O 112, Frankf.<br/>Allee 36</td>\n</tr>\n<tr>\n<td>79 74 49</td>\n<td>Köhler, O., Reg.-R., <i>Stegl</i> Rothenb. Str. 45</td>\n</tr>\n<tr>\n<td>62 55 85</td>\n<td>Köhler, Otto, Steuerberat., <i>Neuk</i> Boddin-<br/>straße 43</td>\n</tr>\n<tr>\n<td>66 29 83</td>\n<td>Köhler, Otto, Rat, <i>Tmp</i> Richth. Str. 196</td>\n</tr>\n<tr>\n<td>91 36 63</td>\n<td>Köhler, Dr. O., Zahnarzt. W 15, Meinekestr. 11</td>\n</tr>\n<tr>\n<td>37 59 52</td>\n<td>Koehler, Ottokar, Kfm., <i>Spd</i> Pichelsd.<br/>Straße 12</td>\n</tr>\n<tr>\n<td>64 75 57</td>\n<td>Köhler, Paul, Schöneiche, Gutenbergstr. 20</td>\n</tr>\n<tr>\n<td>93 10 05</td>\n<td>Köhler. Paul. Melk., <i>Chb</i> 5 Potsd. Str. 18</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "76",
+            "text": "46"
+          },
+          {
+            "extension": "42",
+            "text": "06"
+          },
+          {
+            "extension": "41",
+            "text": "03"
+          },
+          {
+            "extension": "34",
+            "text": "11"
+          },
+          {
+            "extension": "24",
+            "text": "41"
+          },
+          {
+            "extension": "44",
+            "text": "77"
+          },
+          {
+            "extension": "72",
+            "text": "23"
+          },
+          {
+            "extension": "73",
+            "text": "14"
+          },
+          {
+            "extension": "53",
+            "text": "47"
+          },
+          {
+            "extension": "91",
+            "text": "06"
+          },
+          {
+            "extension": "66",
+            "text": "93"
+          },
+          {
+            "extension": "30",
+            "text": "10"
+          },
+          {
+            "extension": "67",
+            "text": "15"
+          },
+          {
+            "extension": "66",
+            "text": "21"
+          },
+          {
+            "extension": "52",
+            "text": "30"
+          },
+          {
+            "extension": "56",
+            "text": "19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "1",
+            "text": "und 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "56",
+            "text": "23"
+          },
+          {
+            "extension": "35",
+            "text": "13"
+          },
+          {
+            "extension": "27",
+            "text": "52"
+          },
+          {
+            "extension": "16",
+            "text": "80"
+          },
+          {
+            "extension": "63",
+            "text": "11"
+          },
+          {
+            "extension": "25",
+            "text": "49"
+          },
+          {
+            "extension": "73",
+            "text": "03"
+          },
+          {
+            "extension": "93",
+            "text": "02"
+          },
+          {
+            "extension": "60",
+            "text": "16"
+          },
+          {
+            "extension": "44",
+            "text": "39"
+          },
+          {
+            "extension": "56",
+            "text": "18"
+          },
+          {
+            "extension": "59",
+            "text": "11"
+          },
+          {
+            "extension": "39",
+            "text": "30"
+          },
+          {
+            "extension": "71",
+            "text": "18"
+          },
+          {
+            "extension": "89",
+            "text": "65"
+          },
+          {
+            "extension": "27",
+            "text": "30"
+          },
+          {
+            "extension": "44",
+            "text": "39"
+          },
+          {
+            "extension": "72",
+            "text": "00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>75 09 31</td>\n<td>Ders., Gärtn. II, <i>Mjde</i> Daimlerstr. 11</td>\n</tr>\n<tr>\n<td>42 43 77</td>\n<td>Köhler, R., Blitzabl., N 4, Elsässer Str. 21</td>\n</tr>\n<tr>\n<td>66 60 58</td>\n<td>Köhler, Rob., Frbkt., <i>Tmp</i> Paradestr. 73</td>\n</tr>\n<tr>\n<td>16 22 16</td>\n<td>Rob. Köhler &amp; Co, Kleider, W 8, Mohrenstraße 37</td>\n</tr>\n<tr>\n<td>93 44 51</td>\n<td>Köhler, R., Fabrkt., <i>Chb</i> Herbartstr. 27</td>\n</tr>\n<tr>\n<td>84 42 88</td>\n<td>Köhler, Dr. Rud., Kfm., <i>KlMa</i> Kamp 27</td>\n</tr>\n<tr>\n<td>67 31 33</td>\n<td>Köhler, R., Klempernermstr., SW 68, Neue Jakobstr. 5</td>\n</tr>\n<tr>\n<td>62 54 62</td>\n<td>Köhler, Rud., Beamte., <i>Neuk</i> Oderstr. 21</td>\n</tr>\n<tr>\n<td>44 67 40</td>\n<td>Köhler, Rudolf, Kunststeinf., N 20, Spanheimstraße 3</td>\n</tr>\n<tr>\n<td>88 40 45</td>\n<td>Köhler, Rud., Insp., <i>Frdn</i> Thorwaldsenstraße 11</td>\n</tr>\n<tr>\n<td>92 24 60</td>\n<td>Köhler, Rud., Amtm., W 15, Hohenz.-Damm 4</td>\n</tr>\n<tr>\n<td>76 55 22</td>\n<td>Köhler, Rud., Kfm., <i>Lt/</i> Kyllmannstr. 2</td>\n</tr>\n<tr>\n<td>72 19 18</td>\n<td>Köhler, Ruth, <i>Süd</i> Hanstedt. Weg 2</td>\n</tr>\n<tr>\n<td>84 14 19</td>\n<td>Köhler, Ulrich, Kfm., <i>Zehl</i> Fischerhüttenstraße 65a</td>\n</tr>\n<tr>\n<td>32 25 81</td>\n<td>Ulrike Köhler u. Marg. Bering, <i>Chb</i> Bis-</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"191 0 429 18\" data-label=\"Page-Header\">\n<p>RAUENBERG</p>\n</div>\n<div data-bbox=\"0 27 998 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>72 77 86</td>\n<td>Köhler, Ursula, <i>Stegl</i> Paulsenstr. 44</td>\n</tr>\n<tr>\n<td>91 91 81</td>\n<td>Köhler, V., Hotelbes., W 15, Kurf.-D. 25</td>\n</tr>\n<tr>\n<td>27 64 52</td>\n<td>Koehler, Valaska, W 30, Habsburg. Str. 6</td>\n</tr>\n<tr>\n<td>16 10 91</td>\n<td>Köhler, Vinzenz, Stick., SW 68, Seydelstraße 26</td>\n</tr>\n<tr>\n<td>26 33 70</td>\n<td>Köhler, Waldem., Vertr., W 30, Barbarossastr. 49</td>\n</tr>\n<tr>\n<td>62 56 54</td>\n<td>Köhler, Walli, <i>Neuk</i> Kl. Innstr. 7</td>\n</tr>\n<tr>\n<td>50 21 89</td>\n<td>Köhler, W., Baugesch., Biesenthal, Weseler Str. 7</td>\n</tr>\n<tr>\n<td>32 23 05</td>\n<td>Köhler, W., Beam., <i>Chö</i> Niebuhrstr. 55</td>\n</tr>\n<tr>\n<td>88 75 52</td>\n<td>Köhler, Walter, <i>Frdn</i> Lepsiusstr. 8</td>\n</tr>\n<tr>\n<td>11 37 38</td>\n<td>Köhler, Walter, W 8, Mauerstr. 2</td>\n</tr>\n<tr>\n<td>46 76 28</td>\n<td>Köhler, W., Blumen, N 65, Müllerstr. 75</td>\n</tr>\n<tr>\n<td>63 14 63</td>\n<td>Köhler, Walt., Ing., <i>Ndwe</i> Kölln. Str. 46</td>\n</tr>\n<tr>\n<td>50 98 20</td>\n<td>Köhler, W., Angest., <i>Biesd</i> Tierg. Str. 23</td>\n</tr>\n<tr>\n<td>30 36 09</td>\n<td>Köhler, Walter, Ing., <i>Siem</i> Schwiegersteig 15</td>\n</tr>\n<tr>\n<td>87 64 87</td>\n<td>Köhler, Dr. W., Physik., <i>Wilm</i> Nikolsb. Platz 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "62",
+            "text": "48"
+          },
+          {
+            "extension": "53",
+            "text": "39"
+          },
+          {
+            "extension": "16",
+            "text": "29"
+          },
+          {
+            "extension": "31",
+            "text": "42"
+          },
+          {
+            "extension": "19",
+            "text": "20"
+          },
+          {
+            "extension": "85",
+            "text": "23"
+          },
+          {
+            "extension": "89",
+            "text": "29"
+          },
+          {
+            "extension": "48",
+            "text": "42"
+          },
+          {
+            "extension": "62",
+            "text": "99"
+          },
+          {
+            "extension": "86",
+            "text": "65"
+          },
+          {
+            "extension": "99",
+            "text": "03"
+          },
+          {
+            "extension": "24",
+            "text": "28"
+          },
+          {
+            "extension": "58",
+            "text": "03"
+          },
+          {
+            "extension": "72",
+            "text": "79"
+          },
+          {
+            "extension": "44",
+            "text": "77"
+          },
+          {
+            "extension": "75",
+            "text": "87"
+          },
+          {
+            "extension": "84",
+            "text": "53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 948\" data-label=\"Text\"><table><tbody><tr><td>11 38 83</td><td>Köhler &amp; Ihlenfeld, Bankgesch., W 8, Leipz. Str. 19</td></tr><tr><td>59 22 74</td><td>Köhler &amp; Jacob, Fleischwr., C 2, Georgenkirchstr. 40</td></tr><tr><td>12 38 62</td><td>Koehler &amp; Volckmar, W 9, Potsdamer Str. 26</td></tr><tr><td>42 72 64</td><td>Köhler's Festsäle, N 4, Tieckstr. 24</td></tr><tr><td>80 51 32</td><td>Koehler-Blenko, Gertraud, <i>Nik</i> Normanenstr. 6</td></tr><tr><td>86 14 40</td><td>Köhler-Helfrich, Heinr., Regiss., <i>Wilm</i> Trautenaustr. 20</td></tr><tr><td>12 57 53</td><td>Koehler-Laurent, Dr. P., R.-A.[N], W 8, Französische Str. 8</td></tr><tr><td>24 33 81</td><td>Derselbe, Wohn., Passauer Str. 2</td></tr><tr><td>21 38 72</td><td>Koehlers, K. F., Antiquar., W 8, Kanonierstraße 2</td></tr><tr><td>45 17 96</td><td>Köhler, Eduard, Wattepolsterfbr., N 31, Graunstr. 29</td></tr><tr><td>93 37 96</td><td>Köhler, Gerh., <i>Grw</i> Am Fliederbusch 10</td></tr><tr><td>89 72 57</td><td>Koehlert, Heinz, Dipl.-Ing., <i>Grw</i> Hagenstraße 32</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin: Köhle",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "83",
+            "text": "73"
+          },
+          {
+            "extension": "49",
+            "text": "40"
+          },
+          {
+            "extension": "71",
+            "text": "09"
+          },
+          {
+            "extension": "51",
+            "text": "48"
+          },
+          {
+            "extension": "91",
+            "text": "57"
+          },
+          {
+            "extension": "84",
+            "text": "10"
+          },
+          {
+            "extension": "34",
+            "text": "16"
+          },
+          {
+            "extension": "27",
+            "text": "42"
+          },
+          {
+            "extension": "39",
+            "text": "47"
+          },
+          {
+            "extension": "58",
+            "text": "75"
+          },
+          {
+            "extension": "27",
+            "text": "83"
+          },
+          {
+            "extension": "44",
+            "text": "04"
+          },
+          {
+            "extension": "88",
+            "text": "37"
+          },
+          {
+            "extension": "84",
+            "text": "41"
+          },
+          {
+            "extension": "44",
+            "text": "48"
+          },
+          {
+            "extension": "01",
+            "text": "02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "69",
+            "text": "06"
+          },
+          {
+            "extension": "74",
+            "text": "15"
+          },
+          {
+            "extension": "50",
+            "text": "87"
+          },
+          {
+            "extension": "72",
+            "text": "01"
+          },
+          {
+            "extension": "92",
+            "text": "36"
+          },
+          {
+            "extension": "80",
+            "text": "55"
+          },
+          {
+            "extension": "76",
+            "text": "28"
+          },
+          {
+            "extension": "84",
+            "text": "22"
+          },
+          {
+            "extension": "62",
+            "text": "27"
+          },
+          {
+            "extension": "44",
+            "text": "69"
+          },
+          {
+            "extension": "89",
+            "text": "43"
+          },
+          {
+            "extension": "84",
+            "text": "93"
+          },
+          {
+            "extension": "89",
+            "text": "15"
+          },
+          {
+            "extension": "35",
+            "text": "45"
+          },
+          {
+            "extension": "49",
+            "text": "31"
+          },
+          {
+            "extension": "79",
+            "text": "68"
+          },
+          {
+            "extension": "70",
+            "text": "83"
+          },
+          {
+            "extension": "88",
+            "text": "76"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 978\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>77 01 10</td>\n<td>Köln, Neuk</td>\n<td>Gertrud, Ilsestr. 16</td>\n</tr>\n<tr>\n<td>62 42 50</td>\n<td>Köln, Schb</td>\n<td>Hauptstr. 118</td>\n</tr>\n<tr>\n<td>71 53 42</td>\n<td>Köln, Gustav, NW 87,</td>\n<td>Sollinger Str. 1</td>\n</tr>\n<tr>\n<td>39 02 66</td>\n<td>Köln, G., Bäckerei,</td>\n<td>Klad Parnem. W. 3</td>\n</tr>\n<tr>\n<td>80 88 48</td>\n<td>Köln, H., Kleider,</td>\n<td>Pko Berliner Str. 102</td>\n</tr>\n<tr>\n<td>48 60 49</td>\n<td>Köln, Hans, Vertr.,</td>\n<td>Ltra Wünsd. Str. 115</td>\n</tr>\n<tr>\n<td>70 99 42</td>\n<td>Köln, Dr. Heinr.,</td>\n<td>Chb 4 Waltzstr. 13</td>\n</tr>\n<tr>\n<td>97 45 49</td>\n<td>Köln, Hermann, W 50,</td>\n<td>Schaperstr. 33</td>\n</tr>\n<tr>\n<td>24 11 15</td>\n<td>Köln, Herm.,</td>\n<td>Kaffee-Automat., Wilm</td>\n</tr>\n<tr>\n<td>86 41 47</td>\n<td>Walter-Fischer-Straße</td>\n<td>10</td>\n</tr>\n<tr>\n<td>46 35 74</td>\n<td>Köln, H., Konfit.,</td>\n<td>N 65, Nazarethk.-Str. 40</td>\n</tr>\n<tr>\n<td>62 86 44</td>\n<td>Köln, Dr. Herm.,</td>\n<td>Arzt, Neuk Bergstr. 45</td>\n</tr>\n<tr>\n<td>64 12 81</td>\n<td>Köln, H., Dir.,</td>\n<td>Müggelheim, Duchrother-</td>\n</tr>\n<tr>\n<td></td>\n<td>Straße</td>\n<td>25</td>\n</tr>\n<tr>\n<td>41 50 23</td>\n<td>Köln, Hertha,</td>\n<td>Lehr., N 4, Bergstr. 37</td>\n</tr>\n<tr>\n<td>25 16 17</td>\n<td>Köln, Hildeg.,</td>\n<td>Fotopaus., W 50, Bamb.</td>\n</tr>\n<tr>\n<td></td>\n<td>Straße</td>\n<td>11</td>\n</tr>\n<tr>\n<td>24 85 64</td>\n<td>Dies., Wohn.,</td>\n<td>W 50, Spichernstr. 21</td>\n</tr>\n<tr>\n<td>55 35 39</td>\n<td>Köln, Hugo,</td>\n<td>Kfm., Lbg Siegfriedstr. 9</td>\n</tr>\n<tr>\n<td>61 20 60</td>\n<td>Köln, Johanna,</td>\n<td>Bürobed., SW 68, Was-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>92 23 27</td>\n<td>Köhn, K., Gastw., W 15, Darmstädter Str. 1</td>\n</tr>\n<tr>\n<td>85 01 88</td>\n<td>Köhn, Kurt, Gärtner, <i>Zehl</i> Berl. Str. 48</td>\n</tr>\n<tr>\n<td>37 93 57</td>\n<td>Köhn, M., <i>Spd</i> Winzerstr. 25</td>\n</tr>\n<tr>\n<td>34 23 48</td>\n<td>Köhn, Marg., Gastw., <i>Chb</i> 1 Rich.-Wagner-Str. 49</td>\n</tr>\n<tr>\n<td>35 07 91</td>\n<td>Köhn, Marie, NW 21, Bandelstr. 42</td>\n</tr>\n<tr>\n<td>44 77 30</td>\n<td>Köhn, Max, Hausverw., N 31, Hussitenstraße 41</td>\n</tr>\n<tr>\n<td>72 56 90</td>\n<td>Köhn, O., Insp., <i>Stegl</i> Friedrichsr. Str. 12</td>\n</tr>\n<tr>\n<td>34 65 90</td>\n<td>Köhn, O., Kfm., <i>Chb</i> K.-Augusta-All. 43</td>\n</tr>\n<tr>\n<td>80 50 35</td>\n<td>Koehn, O., Ing., <i>Nik</i> Teutonenstr. 4</td>\n</tr>\n<tr>\n<td>71 94 04</td>\n<td>Koehn, Osk., <i>Schb</i> Merseb. Str. 9</td>\n</tr>\n<tr>\n<td>42 74 39</td>\n<td>Köhn, O., Drechsler, N 31, Ackerstr. 133</td>\n</tr>\n<tr>\n<td>39 24 75</td>\n<td>Köhn, Paul, Gastw., NW 87, Jagowstr. 17</td>\n</tr>\n<tr>\n<td>51 31 95</td>\n<td>Köhn, Paul, C 2, Seefische, Zentr.-Markthalle Ia</td>\n</tr>\n<tr>\n<td>24 72 95</td>\n<td>Ders., Wohn., W 50, Kulmb. Str. 8</td>\n</tr>\n<tr>\n<td>67 54 81</td>\n<td>Köhn, Richard, Billiardart., SO 16, Neanderstr. 12</td>\n</tr>\n<tr>\n<td>35 04 54</td>\n<td>Koehn, Rich., Bäckerm., NW 21, Bandelstraße 42</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "40",
+            "text": "31"
+          },
+          {
+            "extension": "99",
+            "text": "20"
+          },
+          {
+            "extension": "97",
+            "text": "66"
+          },
+          {
+            "extension": "44",
+            "text": "98"
+          },
+          {
+            "extension": "47",
+            "text": "43"
+          },
+          {
+            "extension": "85",
+            "text": "15"
+          },
+          {
+            "extension": "58",
+            "text": "25"
+          },
+          {
+            "extension": "85",
+            "text": "17"
+          },
+          {
+            "extension": "61",
+            "text": "54"
+          },
+          {
+            "extension": "64",
+            "text": "91"
+          },
+          {
+            "extension": "70",
+            "text": "95"
+          },
+          {
+            "extension": "56",
+            "text": "04"
+          },
+          {
+            "extension": "58",
+            "text": "24"
+          },
+          {
+            "extension": "86",
+            "text": "01"
+          },
+          {
+            "extension": "44",
+            "text": "37"
+          },
+          {
+            "extension": "80",
+            "text": "73"
+          },
+          {
+            "extension": "69",
+            "text": "07"
+          },
+          {
+            "extension": "27",
+            "text": "53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 986 956\" data-label=\"Text\"><table><tbody><tr><td>34 18 66</td><td>Köhne, Else, Lehr.,</td><td>Chb Kals.Frdr.Str. 7</td></tr><tr><td>73 11 29</td><td>Köhne, E., Kfm.,</td><td>Lf Kommand.Str. 85</td></tr><tr><td>49 15 34</td><td>Köhne, Friedr., Rektor,</td><td>ReiO NordbahnstraÙe 33</td></tr><tr><td>30 11 77</td><td>Köhne, Heinr., Autodienst,</td><td>Chb 1 Rich.-Wagner-Str. 36</td></tr><tr><td>85 10 65</td><td>Koehne, Hildegard,</td><td>Privatkindergärtn., Zehl Dallwitzstr. 30</td></tr><tr><td>68 46 28</td><td>Köhne, Dr. Jul., Bürgermstr.,</td><td>SO 36, Am Treptower Park 36</td></tr><tr><td>87 20 18</td><td>Koehne, Margarete,</td><td>Wilm Nikolsb. Pl. 2</td></tr><tr><td>92 24 75</td><td>Köhne, Martin, Dr.,</td><td>Chb 2 Bleibtreustr. 10</td></tr><tr><td>68 55 20</td><td>Köhne, Otto, Schuhm.,</td><td>SO 36 Oppelner StraÙe 2</td></tr><tr><td>19 07 64</td><td>Koehne, Rich.,</td><td>SW 61, Möckernstr. 112</td></tr><tr><td>88 14 37</td><td>Köhne, Wilh., Werkluftschutzleiter,</td><td>Frda Wiesbadener Str. 86</td></tr><tr><td>96 22 12</td><td>Köhne, Wilh., Vertr.,</td><td>Chb Gervin.Str. 8</td></tr><tr><td>31 20 23</td><td>Koehne-Schneider, P.,</td><td>Gebrauchswerber, Chb 4 Weimarer Str. 27</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "r — Köllmann (Band II) 367",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 14 777 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>27 89 77</td>\n<td>Köhnenmann, Elise, W 30, Schwäb. Str. 17a</td>\n</tr>\n<tr>\n<td>26 51 33</td>\n<td>Köhnenmann, Else, W 30, Rosenh. Str. 25</td>\n</tr>\n<tr>\n<td>21 43 87</td>\n<td>Köhnenmann, Gg., Autolicht, W 35, Ludendorffstraße 38</td>\n</tr>\n<tr>\n<td>16 30 71</td>\n<td>Köhnen, E., Steuerber., W 8, Jägerstr. 54</td>\n</tr>\n<tr>\n<td>89 10 72</td>\n<td>Ders., Wohn. <i>Dahl</i> Pücklerstr. 37</td>\n</tr>\n<tr>\n<td>48 31 86</td>\n<td>Köhnen Nf., E., Goldwr., <i>Pko</i> Breite Str. 11</td>\n</tr>\n<tr>\n<td>50 53 92</td>\n<td>Köhnen, Jak., Rekt., <i>Hhschö</i> Treskowstr. 4</td>\n</tr>\n<tr>\n<td>48 32 59</td>\n<td>Köhnen, Käte, <i>Ndschs</i> Seckendorffstr. 9</td>\n</tr>\n<tr>\n<td>79 77 68</td>\n<td>Koehnhorn, E., Baurat, <i>Stegl</i> Grunew. Str.</td>\n</tr>\n<tr>\n<td>73 78 25</td>\n<td>Koehnhorn, L., Oberstltn., <i>Lt/L</i> Lorenzstr. 67</td>\n</tr>\n<tr>\n<td>19 23 14</td>\n<td>Koehnhorn, T. R., Dipl. Ing., Dr. A. Mentzel u. Dipl.-Ing. Peter Wirth, Patentanwälte, SW 11, Großbeerestraße 93</td>\n</tr>\n<tr>\n<td>75 33 86</td>\n<td>Dies., Wohn. Koehnhorn, <i>Süd</i> Anh. Str. 1</td>\n</tr>\n<tr>\n<td>62 86 66</td>\n<td>Köhnke, Aimée, <i>Neuk</i> W.-Walt. Str. 23</td>\n</tr>\n<tr>\n<td>89 06 02</td>\n<td>Köhnke, H., <i>Grw</i> Florenz.-D. 88a</td>\n</tr>\n<tr>\n<td>93 11 43</td>\n<td>Köhnke, Karl, Kammermusiker, <i>Chb</i> 5, Salderustr. 3</td>\n</tr>\n<tr>\n<td>48 05 84</td>\n<td>Köhnke, Loth., Ob.-Insp., <i>Pko</i> Karlst. Straße 3</td>\n</tr>\n<tr>\n<td>94 77 99</td>\n<td>Köhnke Dr M Johannst Chb 9 Rio</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "marckstr. 8",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 771 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>63 34 87</td>\n<td>Ders., Wohn., Joh Gr.</td>\n<td>BerlinerDamm 35</td>\n</tr>\n<tr>\n<td>67 29 91</td>\n<td>Köhnel &amp; Sohn Nr., Asbest,</td>\n<td>SO 16,<br/>Michaelkirchstr. 20</td>\n</tr>\n<tr>\n<td>25 39 02</td>\n<td>Köke, Max, W 30,</td>\n<td>Hohenstaufenstr. 22</td>\n</tr>\n<tr>\n<td>87 18 23</td>\n<td>Köker, Gust., Wilm</td>\n<td>Paretzer Str. 17</td>\n</tr>\n<tr>\n<td>88 18 52</td>\n<td>Kökert, Alex., Schauspieler,</td>\n<td>Wilm Bonner<br/>Straße 3</td>\n</tr>\n<tr>\n<td>88 22 27</td>\n<td>Köktürk, Nejdet, Sekr.,</td>\n<td>Wilm Wetzlarer<br/>Straße 12</td>\n</tr>\n<tr>\n<td>44 77 35</td>\n<td>Christiane Kölbel &amp; Co.,</td>\n<td>Bettfedern, N 113,<br/>Schönhaus. Allee 87</td>\n</tr>\n<tr>\n<td>93 47 08</td>\n<td>Kölbel, Else, Frau,</td>\n<td>Chb 9 Haeselerstr. 17</td>\n</tr>\n<tr>\n<td>62 11 10</td>\n<td>Kölbel, Georg, Gärtenfabr.,</td>\n<td>SW 29, Kott-<br/>busser Damm 90</td>\n</tr>\n<tr>\n<td>27 45 25</td>\n<td>Kölbel, Hch., Kelln.,</td>\n<td>W 35, Winterf.-Str. 27</td>\n</tr>\n<tr>\n<td>62 22 14</td>\n<td>Kölbel, W., Elektrik,</td>\n<td>Neuk Reuterstr. 77</td>\n</tr>\n<tr>\n<td>92 25 88</td>\n<td>Kölber, Helene, Mod.,</td>\n<td>W 15, Pariser Str. 5</td>\n</tr>\n<tr>\n<td>93 33 90</td>\n<td>Kölber, Oskar, Amtm.,</td>\n<td>Chb 5 Gustloffstr. 17</td>\n</tr>\n<tr>\n<td>30 25 29</td>\n<td>Koelbl, A., Ing.,</td>\n<td>Siem Lenthaler Steig 15</td>\n</tr>\n<tr>\n<td>72 78 68</td>\n<td>Kölbl, H., Masseur,</td>\n<td>Stegl Presselstr. 10</td>\n</tr>\n<tr>\n<td>22 02 02</td>\n<td>Winkl T Gastw.</td>\n<td>NW 07 Elnach Str 14</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 770 994\" data-label=\"Text\"><table><tbody><tr><td>92 17 18</td><td>Kölble, Jos., Dr. jur., W 15, Xantener Straße 15</td></tr><tr><td>47 05 70</td><td>Kölble, Jos., Ing., Frohnau, Zelt. Str. 72</td></tr><tr><td>76 02 39</td><td>Koelfen, Hans, Min.-Rat, <i>Dahl</i> Hüninger Straße 9</td></tr><tr><td>79 28 39</td><td>Koelitz, Dr. E., Kfm., <i>Stegl</i> Munat.D. 36</td></tr><tr><td>84 42 08</td><td>Koelitz, Marie, <i>Zehl</i> Kronpr.Allee 343</td></tr><tr><td>22 15 68</td><td>Kölkenbeck, Gert J., R.-A., W 35, Potsd. Straße 102</td></tr><tr><td>86 51 67</td><td>Ders., Wohn., <i>Wilm</i> Koblenzer Str. 1</td></tr><tr><td>25 75 84</td><td>Kölker, Paul, Dir., W 62, Lützowufer 21</td></tr><tr><td>73 24 17</td><td>Kölle, Fritz, Kfm., <i>Lt/</i> Hildb. Str. 138</td></tr><tr><td>34 72 47</td><td>Kölle, Dr. H. W., Physik., <i>Chb5</i> Schloßstraße 45</td></tr><tr><td>47 08 24</td><td>Kölle, Hch., Bettfedern, <i>Waidm</i> Zabel-Krüger-Damm 25</td></tr><tr><td>73 67 26</td><td>Kölle, Wald., Korv.-Kpt., <i>Lkw</i> Bruchwitzstraße 14</td></tr><tr><td>68 76 32</td><td>Koelle, W., Dr. phil., <i>Trept</i> Leiblstr. 1</td></tr><tr><td>48 18 32</td><td>Küller, Anna, Papier, <i>Pko</i> Breite Str. 13</td></tr><tr><td>39 41 94</td><td>Küller R. Molkerei NW 87 Hüttenstr. 70</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 769 982\" data-label=\"Text\"><table><tbody><tr><td>23 54 55</td><td>v. Koller, Elisabeth, Woz, NeuLeideckstr. 24</td></tr><tr><td>86 28 19</td><td>Köller, Dr. F., Arzt, Wilm Nass. Str. 56</td></tr><tr><td>62 42 05</td><td>Köller, Frz., Schornsteinfegermstr., Neuk<br/>Schillerpromenade 14</td></tr><tr><td>37 70 67</td><td>Köller, Fritz, Dipl.-Ing., Spd Ruhleb. Str. 16</td></tr><tr><td>42 60 67</td><td>Köller, Hans, N 54, A. Schönh. Str. 19</td></tr><tr><td>87 13 70</td><td>Koeller, Irene, Lehr., Wilm Sigm. Str. 24</td></tr><tr><td>92 29 59</td><td>Koeller, Joach., Wilm Zähringer Str. 39e</td></tr><tr><td>25 90 01</td><td>v. Köller, J., R.A.[N], W 62, Keithstr. 26</td></tr><tr><td>31 78 71</td><td>Ders., Wohn., Chb Bism.-Str. 69</td></tr><tr><td>59 45 33</td><td>Koeller, Karl, Kfm., C 2, Blumenstr. 87</td></tr><tr><td>86 03 90</td><td>v. Köller, M-G., Maj., Wilm Kaiserpl. 11</td></tr><tr><td>34 30 93</td><td>Köller, O., Gastw., Chb S.-Charl.-Str. 1</td></tr><tr><td>97 54 76</td><td>Köller, Reinh., Lehr., Hal Seesener Str. 20</td></tr><tr><td>97 47 30</td><td>Köllich &amp; Co, Grw Königsallee 1b</td></tr><tr><td>99 53 10</td><td>Kölliker, Dr., Reg.Rat, Chb Stendal. W. 49</td></tr><tr><td>53 11 32</td><td>Kölling, Ad., Beamte., NO 55, Hosemann-<br/>straße 62</td></tr><tr><td>24 25 71</td><td>Koelling, Dr. A., Photo, W 50, Schaper-<br/>straße 37</td></tr><tr><td>41 51 71</td><td>Kölling, Bernh., Hundebad, NW 7, Marien-</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 763 956\" data-label=\"Text\"><table><tbody><tr><td>59 46 75</td><td>Kölling, Franz, Mützenfr., C 2, Kl. Frankfurter Str. 11</td></tr><tr><td>50 75 28</td><td>Kölling, Gertrud, Kleider, <i>Misd</i> Taxusweg 19</td></tr><tr><td>21 36 69</td><td>Kölling, Hans, Photo, W 35, Großadm. v. Koester-Ufer 83</td></tr><tr><td>76 09 38</td><td>Kölling, Heinr., <i>Lf</i> Undinestr. 6</td></tr><tr><td>32 25 24</td><td>Kölling, Hch., Archit., <i>Chb</i> 4 Schlüterstraße 31</td></tr><tr><td>73 04 59</td><td>Kölling, Hr., El. Anl., <i>Lf</i> Hindenb.D. 33</td></tr><tr><td>93 12 82</td><td>Kölling, Kurt, <i>Chb</i> 5 Suarezstr. 44</td></tr><tr><td>17 62 40</td><td>Kölling, Kurt, Kfm., SW 68, Alexandrinenstr. 119</td></tr><tr><td>66 97 78</td><td>P. u. H. Kölling, Klempn., SW 61, Möckernstr. 82</td></tr><tr><td>31 48 09</td><td>Kölling, Rich., <i>Chb</i> 5 Windscheidstr. 30</td></tr><tr><td>17 17 27</td><td>Kölling &amp; Schmitt, Essenzfabrik, SW 68, Alexandrinenstr. 119/120</td></tr><tr><td>30 90 64</td><td>Köllmann Werke AG, Konradshöhe Eichelhäherstr. 13</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

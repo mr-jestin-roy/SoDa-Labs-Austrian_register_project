@@ -1,0 +1,880 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a blank white page, likely a separator or a page with no content from a 1942 German telephone directory. It contains several small, dark specks which appear to be scanning artifacts or dust particles.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with faint, illegible horizontal lines suggesting ghosting of text from the reverse side.\"/></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"391 236 814 317\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Auerbach (Oberpfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Bergen (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 9 998 994\" data-label=\"List-Group\"><p>21 37 32 <b>H. H. Dohmessen &amp; Co.,</b> Uniformen-<br/>Maßschneiderei, Berlin W 9, Hermann-<br/>Göring-Str. 4</p><p>17 70 76 <b>Frank, Hermann,</b> Uniform- u. Regen-<br/>mäntelfabrik, SW 68, Zimmerstr. 68</p><p>52 05 62 { <b>Fuhrmann, Carl,</b> Herrenkleiderfabrik,<br/>52 05 63 { Berlin C 2, Spandauer Str. 18</p><p>41 38 15 <b>Giebel, August,</b> Uniform- und Zivilwerk-<br/>stätten, Berlin C 2, Spandauer Str. 39</p><p>51 49 68 { <b>Heisler, Karl,</b> Uniformfabrik, C 2, Maga-<br/>51 49 69 { zinstr. 14</p><p>24 13 03 <b>Holters, Wilhelm,</b> Uniformen, Herren-<br/>moden, Militäreffekten, Berlin W 50,<br/>Tautentzienstraße 16</p><p>57 34 98 <b>Holz &amp; Binkowski</b><br/>Uniformen und Herrenkleiderfabrik,<br/>Berlin O 17, Große Frankfurter Str. 137</p><p>59 06 73 <b>Hübner, Theodor,</b> Uniformen, Berlin C 2,<br/>Brauner Weg 4</p><p>16 02 26 <b>Roger Kauert Kom.-Ges.,</b> Uniformen-Aus-<br/>riistung Berlin W 8, Mohrenstr. 40</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 0 998 978\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>67 19 93</td>\n<td rowspan=\"2\">{</td>\n<td><b>MARISCHE BEKLEIDUNG- UND WÄSCHENSTELLUNG H. SCHARFFENSTEIN K.-G., SO 16,</b></td>\n</tr>\n<tr>\n<td>67 39 88</td>\n<td><b>Wusterhauser Straße 15/16</b></td>\n</tr>\n<tr>\n<td>41 42 03</td>\n<td></td>\n<td><b>Mögelin, Felix, Uniformfabrik, Berlin N 54,</b><br/><b>Schönhauser Allee 9</b></td>\n</tr>\n<tr>\n<td>58 33 16</td>\n<td></td>\n<td><b>Norddeutsche Bekleidungswerkstätten G.</b><br/><b>m. b. H., Fabrikation von Uniformen,</b><br/><b>O 112, Frankfurter Allee 316</b></td>\n</tr>\n<tr>\n<td>67 26 90</td>\n<td rowspan=\"2\">{</td>\n<td><b>Oldag, Hans, Werkstatt für Uniformen</b></td>\n</tr>\n<tr>\n<td>67 14 06</td>\n<td><b>und Bekleidung, Berlin SO 16, Köpenicker</b><br/><b>Straße 71</b></td>\n</tr>\n<tr>\n<td>45 38 79</td>\n<td></td>\n<td><b>Paul Opalla &amp; Co., Uniformfabrik, N 58,</b><br/><b>Pappelallee 78/79</b></td>\n</tr>\n<tr>\n<td>45 18 04</td>\n<td></td>\n<td><b>Schultz, Helmuth, Uniformen u. Herren-</b><br/><b>bekleidung, N 58, Pappelallee 78/79</b></td>\n</tr>\n<tr>\n<td>59 56 04</td>\n<td></td>\n<td><b>Strehlow, Martin, Uniformfabrik, Berlin</b><br/><b>O 17, Andreasstr. 40</b></td>\n</tr>\n<tr>\n<td>46 10 53</td>\n<td></td>\n<td><b>Struck, Franz, Uniformfabrik, N 20, Ex-</b><br/><b>erzierstr. 19</b></td>\n</tr>\n<tr>\n<td>59 51 12</td>\n<td></td>\n<td><b>Uniformfabrikation Heinz Daberkow &amp; Co.</b><br/><b>C 2, Alexanderstr. 51</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Böhlen (Thüringer Wald).",
+        "entries": []
+      },
+      {
+        "region_name": "Bösingfeld (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bonn.",
+        "entries": []
+      },
+      {
+        "region_name": "Brandenburg (Havel).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"257 76 941 335\"}, {\"label\": \"Text\", \"bbox\": \"341 401 856 539\"}, {\"label\": \"Text\", \"bbox\": \"305 580 890 723\"}, {\"label\": \"Text\", \"bbox\": \"453 731 748 899\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"266 29 993 511\" data-label=\"Text\"><p>1647 Uniformfabrik „Industria“, Julius Neumann, Kurfürstenstraße 8</p></div><div data-bbox=\"200 661 643 951\" data-label=\"Text\"><p><b>Brünn (Mähren).</b></p></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"460 41 787 361\" data-label=\"Text\"><p><b>Uniformen für die<br/>Wehrmacht u. Partei<br/>Waffen-Effekten</b></p></div><div data-bbox=\"301 378 889 606\" data-label=\"Text\"><p><b>Vally Innerhuber</b></p></div><div data-bbox=\"441 617 817 938\" data-label=\"Text\"><p><b>Militär-Warenhaus<br/>Brünn, Rennergasse 22<br/>Fernsprecher: 15805</b></p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Bürgel (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"100 940 110 960\" data-label=\"Page-Footer\"><p>.</p></div><div data-bbox=\"950 790 995 935\" data-label=\"Page-Footer\"><p>6</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 33 970 937\" data-label=\"Text\"><p><b>34386 Gebr. Müller, Uniform-Maßanfertigung,<br/>Militäreffekten, Ludendorffstraße 19</b></p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Eggenfelden (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Erlangen.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenwalde (Spree).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Grönenbach (Allgäu).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"87 0 993 180\" data-label=\"Text\"><p>2095 Wotschak, Leo, Herrenschnneider, Friedrich-Wilhelm-Straße 11</p></div><div data-bbox=\"10 205 464 330\" data-label=\"Text\"><p><b>Halle (Saale).</b></p></div><div data-bbox=\"70 328 869 470\" data-label=\"Text\"><p>32586 <b>G. Assmann</b></p></div><div data-bbox=\"205 496 950 589\" data-label=\"Text\"><p>Uniformfabrik, Gr. Ulrichstraße 50/57</p></div><div data-bbox=\"70 585 993 839\" data-label=\"Text\"><p>36352 <b>Mitteldeutsche Uniformen- und Ausrüstungswerkstätten</b>, Inh.: Kurt Renne, Taubenstraße 25</p></div><div data-bbox=\"12 868 350 981\" data-label=\"Text\"><p><b>Hamburg.</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"131 33 875 411\"}, {\"label\": \"Text\", \"bbox\": \"214 490 793 723\"}, {\"label\": \"Text\", \"bbox\": \"286 705 720 947\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "J. C. Gotthier &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"178 20 823 490\" data-label=\"Text\"><p><b>W. Langemeier</b></p></div><div data-bbox=\"161 490 914 955\" data-label=\"Text\"><p>vorm. W. Neustadt,<br/>Hamburg 1, Plan 5, Fernspr. 33 45 83</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Idar (Nahe).",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"81 39 176 125\" data-label=\"Text\">5684</div><div data-bbox=\"478 39 703 132\" data-label=\"Text\"><b>J. Robrecht</b></div><div data-bbox=\"187 136 978 339\" data-label=\"Text\">Inh.: Hans Thiele, Armee-, Marine- u.<br/>Tropenausrüstungen, Schloßgarten 15</div><div data-bbox=\"0 326 796 473\" data-label=\"Text\"><b>Klein Umstadt (Hessen).</b></div><div data-bbox=\"0 460 978 665\" data-label=\"Text\">Groß Umstadt 288 Blitz, Georg, Uniformfabrik,<br/>Klein-Umstadt (Hessen)</div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 783 998 937\" data-label=\"Text\"><p><b>655. Uniformen — 6356. Unifo</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"108 154 179 313\"}, {\"label\": \"Text\", \"bbox\": \"425 85 721 544\"}, {\"label\": \"Text\", \"bbox\": \"258 559 875 927\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Köppelsdorf (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Komotau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Lauingen (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Metzingen (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"46 0 993 25\" data-label=\"Page-Header\">\n<p>1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Alb. Hilbert &amp; Co.",
+        "entries": []
+      },
+      {
+        "region_name": "Uniformfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Trier.",
+        "entries": []
+      },
+      {
+        "region_name": "Weißenburg (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"138 61 842 343\"}, {\"label\": \"Text\", \"bbox\": \"117 375 861 925\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 786 243 937\" data-label=\"Text\"><p><b>meffekten</b></p></div><div data-bbox=\"410 786 766 950\" data-label=\"Text\"><p>(Branchenteil) 773</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 46 768 661\" data-label=\"Text\"><p><b>U 3 88 00 Cischek, Anton Karl, Schneidermeister,</b><br/><b>Anfertigung von Uniformen und moderner</b><br/><b>Herrenbekleidung, XV/101, Holocher-</b><br/><b>gasse 55</b></p></div><div data-bbox=\"13 654 709 964\" data-label=\"Text\"><p><b>R 5 15 23 Hansa &amp; Peschek, Uniformfabrik</b><br/><b>Wien IX/66, Roßauerlände 23</b></p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"98 70 683 320\"}, {\"label\": \"Text\", \"bbox\": \"125 386 661 558\"}, {\"label\": \"Text\", \"bbox\": \"194 602 617 744\"}, {\"label\": \"Text\", \"bbox\": \"272 768 537 912\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "HAUDEK &amp; GRABL",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 29 762 257\" data-label=\"Text\"><p><b>R2 04 01 Kafferlein, O., Herrenschnneider, Uniformen, Wien I/1, Augustinerstraße 8</b></p></div><div data-bbox=\"10 253 762 481\" data-label=\"Text\"><p><b>U2 70 63 Kühn, Hans, Zivil- und Uniformschneider, I/1, Am Hof 11</b></p></div><div data-bbox=\"10 477 718 921\" data-label=\"Text\"><p><b>B2 50 45 { Lieferungsunternehmen der Kleidermacher A.G.</b></p><p><b>B2 50 46 { Landeslieferungsge. für Uniformen Wien VI, Schmalzhofgasse 28</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"147 71 622 311\"}, {\"label\": \"Text\", \"bbox\": \"61 320 708 570\"}, {\"label\": \"Text\", \"bbox\": \"103 606 668 735\"}, {\"label\": \"Text\", \"bbox\": \"212 757 550 886\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"124 125 643 322\"}, {\"label\": \"Text\", \"bbox\": \"97 375 673 485\"}, {\"label\": \"Text\", \"bbox\": \"129 561 640 687\"}, {\"label\": \"Text\", \"bbox\": \"218 759 555 888\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Ostmärkische",
+        "entries": []
+      },
+      {
+        "region_name": "Uniform- und Bekleidungs-Werkstätten",
+        "entries": []
+      },
+      {
+        "region_name": "Werner Bachofen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Uniformfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"66 111 139 250\" data-label=\"Text\">2858</div><div data-bbox=\"37 271 168 964\" data-label=\"Image\"><img alt=\"Logo of Rud. Meinel featuring a crown and a ribbon with the text 'Rud. Meinel' and '1872'.\"/>A logo for Rud. Meinel. It features a crown at the top. Below the crown, the name 'Rud. Meinel' is written in a stylized, curved font. Underneath the name, there is a ribbon or banner with the year '1872' written on it. The entire logo is rendered in black and white.</div><div data-bbox=\"172 26 734 960\" data-label=\"Text\"><p><b>Rud. Meinel</b> Inh. Rud. Niedergesäß<br/>Uniform - Ausrüstung - Bekleidung,<br/>Effekten, Orden, Ehrenzeichen für<br/>sämtl. Formationen, Herrenartikel,<br/>Schirme. Collegienstr. 18</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wundertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"47 75 148 227\"}, {\"label\": \"Text\", \"bbox\": \"47 253 150 412\"}, {\"label\": \"Text\", \"bbox\": \"173 75 712 395\"}, {\"label\": \"Text\", \"bbox\": \"113 430 646 606\"}, {\"label\": \"Text\", \"bbox\": \"151 617 335 789\"}, {\"label\": \"Text\", \"bbox\": \"151 796 337 951\"}, {\"label\": \"Text\", \"bbox\": \"425 617 596 770\"}, {\"label\": \"Text\", \"bbox\": \"420 796 600 947\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Znaim (Niederdonaustau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "6356. Uniformeffekten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Annaberg (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ansbach (Mittelfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 156 143 812\" data-label=\"Text\"><p>Sammel-<br/>Nr.<br/>17 22 62</p></div><div data-bbox=\"156 15 737 950\" data-label=\"Text\"><p><b>Woldemar Wimmer</b><br/>Militäreffekten u. Stickereien jeder Art<br/>SW 68, Lindenstraße 71/72</p></div>",
+      "cells": [
+        "col4_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col4_sec18.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,868 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"265 930 995 975\" data-label=\"Image\"><img alt=\"A thick black horizontal line at the bottom of the page.\"/>A thick, solid black horizontal line spanning the width of the page near the bottom.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"389 85 853 391\"}, {\"label\": \"Text\", \"bbox\": \"442 389 799 529\"}, {\"label\": \"Text\", \"bbox\": \"369 587 875 746\"}, {\"label\": \"Text\", \"bbox\": \"514 778 732 937\"}]",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 20 992 500\" data-label=\"Text\"><p>B5 12 39 <b>Ziegler, Rudolf</b>, Gemischtwarenhandlung,<br/>hdlager. prot., XI/79, Grillgasse 40</p></div><div data-bbox=\"244 636 651 904\" data-label=\"Text\"><p><b>Wiener Neustadt</b></p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Otto Lisey",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Wilhelmsburg (Niederdonaustau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"302 29 992 190\" data-label=\"Text\"><p>2766 } Edeka Großhandel e. G. m. b. H., Städt.<br/>2767 } Lagerhaus, Wilhelmshaven</p></div><div data-bbox=\"316 197 937 516\" data-label=\"Text\"><p>107 } <b>Krieger &amp; Sohn</b><br/>839 } Lebensmittelgroßhandlung<br/>Wilhelmshaven, Roonstr. 153</p></div><div data-bbox=\"242 559 867 671\" data-label=\"Text\"><p><b>Willkau-Haßlau (Sachs.).</b></p></div><div data-bbox=\"242 669 991 830\" data-label=\"Text\"><p>Zwickau 6106 Triebel, Herm., Inh. Berancck &amp;<br/>Brückner, Zimmerstraße 2</p></div><div data-bbox=\"242 871 764 980\" data-label=\"Text\"><p><b>Wilz (Luxemburg).</b></p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Gebrüder Clarens G. m.b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Wismar (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wissen (Sieg).",
+        "entries": []
+      },
+      {
+        "region_name": "Witten (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Worms.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Zossen (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Zwettl (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"320 50 998 355\" data-label=\"Text\"><p>157 <b>Findeis, Franz</b>, Lebensmittelgroßverkauf,<br/>Kommissionsgeschäft, Stadthofgasse 3</p></div><div data-bbox=\"304 427 591 561\" data-label=\"Text\"><p>Reichs-Telefonbuch</p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"908 714 988 848\" data-label=\"Page-Footer\"><p><b>35</b></p><hr/></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"248 270 743 704\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Wesermünde.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"86 266 903 705\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Coburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Dessau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Gerstetten (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kalisch (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Königshütte (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Mainbernheim (Mainfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Oberhöchststadt (Taunus).",
+        "entries": []
+      },
+      {
+        "region_name": "Pardubitz (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"371 10 819 244\" data-label=\"Text\"><p>Inhaber Rudolf Sturm</p></div><div data-bbox=\"10 473 583 869\" data-label=\"Text\"><p><b>Pulsnitz (Sachs.).</b></p></div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 16 754 977\" data-label=\"Image\"><img alt=\"Circular library stamp from the 'Sächs. Geb. d. Kirchen' (Saxon Church Archives) library, dated 'seit 1558' (since 1558).\"/><p>A circular library stamp with a thick black border. The text 'SÄCHS. GEB.' is written in a bold, sans-serif font along the top inner edge. The text 'D. KIRCHEN.' is written in a similar font along the bottom inner edge. In the center of the circle, the word 'Sachs.' is written in a cursive script. Below it, the text 'seit 1558' is written in a cursive script, with '1558' being the most prominent part of the date.</p></div>",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"256 0 477 960\" data-label=\"Text\"><p>Wien</p></div><div data-bbox=\"500 0 743 960\" data-label=\"Text\"><p>Wien</p></div>",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"78 157 992 955\" data-label=\"Text\"><p><b>500 Gottlieb Bubnick, seit 1829, Leb- u. Honig-</b><br/><b>kuchenfabrik. Kamener Str. 1. P Dresd. 500</b></p></div>",
+      "cells": [
+        "col2_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"92 207 162 399\" data-label=\"Text\"><p>608</p></div><div data-bbox=\"223 102 687 546\" data-label=\"Text\"><p><b>E. C. Groschky</b></p></div><div data-bbox=\"723 102 993 546\" data-label=\"Text\"><p>gegr. 1825 im<br/>Rietschelhaus</p></div><div data-bbox=\"13 625 198 886\" data-label=\"Text\"><p><b>Wien.</b></p></div>",
+      "cells": [
+        "col2_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"53 114 953 365\"}, {\"label\": \"Text\", \"bbox\": \"221 415 789 886\"}]",
+      "cells": [
+        "col2_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col2_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Wien-Perchtoldsdorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Wilsdruff (Bez. Dresden).",
+        "entries": []
+      },
+      {
+        "region_name": "Zella-Mehlis (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"224 227 765 313\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"172 222 812 736\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"80 26 913 120\" data-label=\"Text\"><p><b>Kaiser-Wilhelm-Institut für Lederforschung</b><br/>Dresden A 24, Wielandstr. 2. Fspr. 43541</p></div><div data-bbox=\"8 130 818 193\" data-label=\"Text\"><p><b>Aberttham (Sudetenland).</b></p></div><div data-bbox=\"132 195 183 233\" data-label=\"Text\"><p>23</p></div><div data-bbox=\"401 193 786 240\" data-label=\"Text\"><p><b>Fritz Klöpsch</b></p></div><div data-bbox=\"298 240 888 287\" data-label=\"Text\"><p>Handschuhleder, Marktplatz 4</p></div><div data-bbox=\"8 296 620 360\" data-label=\"Text\"><p><b>Alling (Oberpfalz).</b></p></div><div data-bbox=\"8 360 988 442\" data-label=\"Text\"><p>Regensburg 4333 <b>Alkor-Werk Karl Lissmann</b></p></div><div data-bbox=\"201 449 989 629\" data-label=\"Text\"><p>München-Solln. Werkstoffe für die leder-<br/>verarbeitende Industrie. Werk Alling<br/>bei Regensburg, Hauptverwaltung Mün-<br/>chen-Solln</p></div><div data-bbox=\"8 645 904 702\" data-label=\"Text\"><p><b>Alzenau-Kälberau (Mainfranken).</b></p></div><div data-bbox=\"8 706 989 801\" data-label=\"Text\"><p>Alzenau 352 Lederfabrik Privat G. m. b. H., Fabrik<br/>farbiger Leder, Kälberau</p></div><div data-bbox=\"8 818 791 882\" data-label=\"Text\"><p><b>Auschwitz (Oberschles.).</b></p></div><div data-bbox=\"8 882 989 930\" data-label=\"Text\"><p>Lodygowitz 5 Lederfabrik „Auschwitz“ G.m.b.H.</p></div><div data-bbox=\"8 941 600 992\" data-label=\"Text\"><p><b>Backnang (Wrtth.).</b></p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Bad Frankenhausem (Kyffh.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Kreuznach.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Oldesloe (Holst.).",
+        "entries": []
+      },
+      {
+        "region_name": "Barr (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Lederfabrik",
+        "entries": []
+      },
+      {
+        "region_name": "Emil Haas",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"250 171 755 451\"}, {\"label\": \"Text\", \"bbox\": \"131 537 882 921\"}, {\"label\": \"Text\", \"bbox\": \"781 604 880 912\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"386 41 625 167\" data-label=\"Text\"><p><b>G. m. b. H.</b></p></div><div data-bbox=\"105 231 905 359\" data-label=\"Text\"><p><b>Boxkalf- und Rindsportleder</b></p></div><div data-bbox=\"187 434 819 555\" data-label=\"Text\"><p><b>Barr (Eis.), Landsberger Str. 15</b></p></div><div data-bbox=\"153 636 394 869\" data-label=\"Text\"><p><b>Fernsprecher<br/>12</b></p></div><div data-bbox=\"571 636 890 875\" data-label=\"Text\"><p><b>Postscheckkonto<br/>Straßburg 829</b></p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Bensberg (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Böhmisch Kamitz (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"130 0 998 175\" data-label=\"Text\"><p>52 <b>Donmisch-Kammitzer Lederfabriken u.</b><br/><b>Treibriemenkonfektion, Konr.-Henlein-Pl.</b></p></div><div data-bbox=\"10 207 630 343\" data-label=\"Text\"><p><b>Bopfingen (Wrttb.).</b></p></div><div data-bbox=\"106 339 998 555\" data-label=\"Text\"><p>233 <b>F. M. Hisber's Erben, Lederfabrik, Marke</b><br/><b>„JE Supremo“, Roßchevreux</b></p></div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 770 240 930\" data-label=\"Text\"><p><b>rfabriken</b></p></div><div data-bbox=\"413 770 778 945\" data-label=\"Text\"><p>(Branchenteil) 441</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Brackwede (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Deutsche Lederfabrik",
+        "entries": []
+      },
+      {
+        "region_name": "Brieg (Bez. Breslau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bromberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"109 125 680 408\"}, {\"label\": \"Text\", \"bbox\": \"259 404 525 528\"}, {\"label\": \"Text\", \"bbox\": \"183 537 606 680\"}, {\"label\": \"Text\", \"bbox\": \"183 705 608 861\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Erkelenz (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eschwege (Hess.-Nass.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eschweiler (Kr. Aachen).",
+        "entries": []
+      },
+      {
+        "region_name": "Eßlingen (Neckar) [Wrttb.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

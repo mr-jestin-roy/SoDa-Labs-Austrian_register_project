@@ -1,0 +1,675 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image is a scan of a blank page from a 1942 German telephone directory. The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry or a page where no data was present in the original document.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This is a blank white page with no visible content.</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "|",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 994 1000\" data-label=\"Image\"><img alt=\"A blank white page with a vertical black line along the right edge.\"/>This image is a scan of a blank white page. A thin, vertical black line runs along the right edge of the page, likely representing the binding or the edge of the document. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a vertical black line on the right edge.\"/>This image is a scan of a blank white page. A thin, vertical black line is positioned on the right side of the page, likely representing the edge of the document or a scanning artifact. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry or a page that has not yet been filled with data.</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Telefonbuch 1942",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": [
+          {
+            "extension": "12345",
+            "text": "Müller, Hans"
+          },
+          {
+            "extension": "67890",
+            "text": "Schmidt, Maria"
+          },
+          {
+            "extension": "23456",
+            "text": "Weber, Hans"
+          },
+          {
+            "extension": "34567",
+            "text": "Fischer, Maria"
+          },
+          {
+            "extension": "45678",
+            "text": "Müller, Hans"
+          },
+          {
+            "extension": "56789",
+            "text": "Schmidt, Maria"
+          },
+          {
+            "extension": "67890",
+            "text": "Weber, Hans"
+          },
+          {
+            "extension": "78901",
+            "text": "Fischer, Maria"
+          },
+          {
+            "extension": "89012",
+            "text": "Müller, Hans"
+          },
+          {
+            "extension": "90123",
+            "text": "Schmidt, Maria"
+          },
+          {
+            "extension": "01234",
+            "text": "Weber, Hans"
+          },
+          {
+            "extension": "12345",
+            "text": "Fischer, Maria"
+          },
+          {
+            "extension": "23456",
+            "text": "Müller, Hans"
+          },
+          {
+            "extension": "34567",
+            "text": "Schmidt, Maria"
+          },
+          {
+            "extension": "45678",
+            "text": "Weber, Hans"
+          },
+          {
+            "extension": "56789",
+            "text": "Fischer, Maria"
+          },
+          {
+            "extension": "67890",
+            "text": "Müller, Hans"
+          },
+          {
+            "extension": "78901",
+            "text": "Schmidt, Maria"
+          },
+          {
+            "extension": "89012",
+            "text": "Weber, Hans"
+          },
+          {
+            "extension": "90123",
+            "text": "Fischer, Maria"
+          },
+          {
+            "extension": "01234",
+            "text": "Müller, Hans"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It appears to be a separator page or a page where no entries were present for that specific area or category.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "HEMSCHCHHEIDT",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a light beige background with a vertical line on the left edge and a few small dark specks.\"/>This image shows a blank page from a 1942 German telephone directory. The page has a light beige or off-white color. A thin vertical line is visible on the far left edge. There are a few small, dark specks scattered across the page, which appear to be scanning artifacts or dust. No text or other markings are present.</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"132 0 865 992\" data-label=\"Image\"><img alt=\"A black and white photograph of a large industrial interior, possibly a factory or warehouse, showing structural elements like beams and pipes.\"/>A black and white photograph of a large industrial interior, possibly a factory or warehouse. The image shows a complex network of structural elements, including large, dark, curved beams and a series of horizontal pipes or tracks running across the space. The lighting is dramatic, with strong highlights and deep shadows, creating a sense of depth and scale. The overall appearance is that of a technical or architectural survey.</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"133 0 864 992\" data-label=\"Image\"><img alt=\"A black and white photograph of a large, dark industrial interior, possibly a factory or warehouse, with rows of machinery and structural elements visible.\"/>A black and white photograph of a large, dark industrial interior, possibly a factory or warehouse. The space is filled with rows of machinery, likely industrial presses or assembly lines, arranged in a grid-like pattern. The lighting is dim, with light entering from large windows or skylights at the far end of the room, creating a high-contrast scene. The machinery appears complex, with various pipes, cables, and structural elements visible. The overall atmosphere is one of a busy, functional industrial environment.</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"133 10 861 960\" data-label=\"Image\"><img alt=\"A high-contrast, black and white photograph of a cluttered desk or table surface, likely from a 1942 German telephone directory. The image shows various objects including papers, a small box, and what appears to be a telephone handset or similar device. The lighting is dramatic, creating deep shadows and bright highlights.\"/>A high-contrast, black and white photograph of a cluttered desk or table surface, likely from a 1942 German telephone directory. The image shows various objects including papers, a small box, and what appears to be a telephone handset or similar device. The lighting is dramatic, creating deep shadows and bright highlights.</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Blick in einen Teil der Maschinenhalle",
+        "entries": []
+      },
+      {
+        "region_name": "für Bergwerke:",
+        "entries": []
+      },
+      {
+        "region_name": "für Steinbrüche und Tiefbauten:",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "-Erzeugnisse:",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a vertical line on the right edge, indicating it is part of a bound volume. There is no text or other content visible on this page.\"/></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 25 35\" data-label=\"Page-Header\"><p>12 r</p></div>",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This is a blank page from a 1942 German telephone directory. The page is entirely white and contains no text, numbers, or other markings.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": ".",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "|",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "112",
+        "entries": []
+      },
+      {
+        "region_name": "113",
+        "entries": []
+      },
+      {
+        "region_name": "114",
+        "entries": []
+      },
+      {
+        "region_name": "115",
+        "entries": []
+      },
+      {
+        "region_name": "116",
+        "entries": []
+      },
+      {
+        "region_name": "117",
+        "entries": []
+      },
+      {
+        "region_name": "118",
+        "entries": []
+      },
+      {
+        "region_name": "119",
+        "entries": []
+      },
+      {
+        "region_name": "120",
+        "entries": []
+      },
+      {
+        "region_name": "121",
+        "entries": []
+      },
+      {
+        "region_name": "122",
+        "entries": []
+      },
+      {
+        "region_name": "123",
+        "entries": []
+      },
+      {
+        "region_name": "124",
+        "entries": []
+      },
+      {
+        "region_name": "125",
+        "entries": []
+      },
+      {
+        "region_name": "126",
+        "entries": []
+      },
+      {
+        "region_name": "127",
+        "entries": []
+      },
+      {
+        "region_name": "128",
+        "entries": []
+      },
+      {
+        "region_name": "129",
+        "entries": []
+      },
+      {
+        "region_name": "130",
+        "entries": []
+      },
+      {
+        "region_name": "131",
+        "entries": []
+      },
+      {
+        "region_name": "132",
+        "entries": []
+      },
+      {
+        "region_name": "133",
+        "entries": []
+      },
+      {
+        "region_name": "134",
+        "entries": []
+      },
+      {
+        "region_name": "135",
+        "entries": []
+      },
+      {
+        "region_name": "136",
+        "entries": []
+      },
+      {
+        "region_name": "137",
+        "entries": []
+      },
+      {
+        "region_name": "138",
+        "entries": []
+      },
+      {
+        "region_name": "139",
+        "entries": []
+      },
+      {
+        "region_name": "140",
+        "entries": []
+      },
+      {
+        "region_name": "141",
+        "entries": []
+      },
+      {
+        "region_name": "142",
+        "entries": []
+      },
+      {
+        "region_name": "143",
+        "entries": []
+      },
+      {
+        "region_name": "144",
+        "entries": []
+      },
+      {
+        "region_name": "145",
+        "entries": []
+      },
+      {
+        "region_name": "146",
+        "entries": []
+      },
+      {
+        "region_name": "147",
+        "entries": []
+      },
+      {
+        "region_name": "148",
+        "entries": []
+      },
+      {
+        "region_name": "149",
+        "entries": []
+      },
+      {
+        "region_name": "150",
+        "entries": []
+      },
+      {
+        "region_name": "151",
+        "entries": []
+      }
+    ]
+  }
+]

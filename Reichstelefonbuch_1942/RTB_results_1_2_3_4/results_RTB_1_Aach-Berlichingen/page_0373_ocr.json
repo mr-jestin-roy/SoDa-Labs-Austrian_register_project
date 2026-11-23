@@ -1,0 +1,584 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"211 9 997 992\" data-label=\"Text\"><p>242 Pape, Aug., Kol.-W., Ad.-Hitler-Str. 198<br/>357 Peckmann, Wilh., Kfm., Schulstr. 65<br/>369 Pfarramt, ev.-luth., Kirchstr. 1<br/>443 Polizeimeister Schirinecher, Ahnstr. 13<br/>431 Polizeiverwaltung<br/>450 Räckel, Wilh., Malermstr., Straße d. SA.<br/>269 Rath, Diedr., Bekleidung, Ad.Hitlerstr.<br/>270 Rathmann, Alwin, Zimmercl, Barbis 18<br/>379 Regenhardt, H., Tabakwr., Ad.-Hitler-Str. 164<br/>310 Reichhardt, W., Kartonf., Ad.Hitlerstr. 83<br/>391 Reichhardt, Wilh., Bürobed., Ad.-Hitler-Str.148<br/>490 Reichsbahn, Bahnhof<br/>315 Reichsbahn, Güterabf., Bhf. Lauterberg<br/>235 Dieselbe, Güterabf., Bhf. Odertal<br/>419 Dieselbe, Güterabf., Osterhagen<br/>240 Dieselbe, Güterabf., Bhf. Scharzfeld<br/>201 Reichs-Postamt, Amtsvorsteher<br/>488 Rekord-Pinselabr., Wilh. Hofmann, Schuhstr. 65<sup>1</sup><br/>474 Richter, Ad., Fabrikbes., Ritscherstr. 3<br/>312 Rieke, Wilh., Getr., Ad.Hitler-Str. 184<br/>226 Röger, Heinr., Kohlen, Wißmannstr. 24<br/>000 Dusseldorf-Hamm... Ahnstr. 1</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"208 0 993 992\" data-label=\"Table\">\n<table>\n<tr>\n<td>222</td>\n<td>Rudolphi, Carl, Webwr., Ad.Hitlerstr. 115</td>\n</tr>\n<tr>\n<td>251</td>\n<td>Schäfer, Dr., Arzt, Promenade 17</td>\n</tr>\n<tr>\n<td>385</td>\n<td>Scherbening, Hüttendir., Erikastr. 8</td>\n</tr>\n<tr>\n<td>457</td>\n<td>Scherbening, Hans-Georg, Kirchberg 2</td>\n</tr>\n<tr>\n<td>467</td>\n<td>Otto Schickert &amp; Co.</td>\n</tr>\n<tr>\n<td>468</td>\n<td>Kommanditgesellschaft</td>\n</tr>\n<tr>\n<td>469</td>\n<td>Bad Lauterberg (Harz)</td>\n</tr>\n<tr>\n<td></td>\n<td>T Schickertco P Hannover 1354</td>\n</tr>\n<tr>\n<td>468</td>\n<td>Schlichting, Kurt, Bankrat, Kummelhaus</td>\n</tr>\n<tr>\n<td>326</td>\n<td>Schneider, H., Odertal</td>\n</tr>\n<tr>\n<td>376</td>\n<td>Schomburg, Louis, Sägewerk, Osterhagen 15</td>\n</tr>\n<tr>\n<td>280</td>\n<td>Schotte, Alb., Burgrestaur., Hausberg</td>\n</tr>\n<tr>\n<td>346</td>\n<td>Schrader, Herm., Tischler, Hüttenstr. 38</td>\n</tr>\n<tr>\n<td>418</td>\n<td>Schubert, K., Kol.-W., Ad.-Hitler-Str. 130</td>\n</tr>\n<tr>\n<td>289</td>\n<td>Schuchardt, H. F., Eisenwr., Ad.Hitlerstr. 165</td>\n</tr>\n<tr>\n<td>459</td>\n<td>Schulze, M., Fuhrbetr., Ad.-Hitler-Str. 224</td>\n</tr>\n<tr>\n<td>491</td>\n<td>Schulze, Otto, Ing., Erikastr. 2</td>\n</tr>\n<tr>\n<td>451</td>\n<td>Schwanert, Dora, Kraftwagenbetrieb</td>\n</tr>\n<tr>\n<td>322</td>\n<td>Schwesternstat. Ost, Ad.-Hitler-Str. 158</td>\n</tr>\n<tr>\n<td>239</td>\n<td>Schwesternstat. West, Scharzf. Str. 44</td>\n</tr>\n<tr>\n<td>227</td>\n<td>Schwickert. H.. Eisenwr.. Ad.Hitlerstr. 88</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"211 0 995 981\" data-label=\"Text\"><p>314 <b>Wucher &amp; Varius, Baugestonian</b><br/>303 Siebert, Wilh., Fleischermstr., Ad.Hitlerstr. 38<br/>449 Sievers, Richard, Färberei<br/>486 A. Sievers &amp; Co., Baugesch., Odertal<br/>431 { <b>Städtische Behörden und Betriebe, Badeverwaltung, Bad Lauterberg, Zentrale verbindet mit</b><br/>432 { <b>sämtlichen Dienststellen</b><br/>330 <b>Städt. Kurhaus Inh. Heinr. Schilleper, Bad Lauterberg</b><br/>435 Stadtsparkasse, Straße der SA. 5<br/>255 Steinecke, Dr. A., Zahnarzt, Ad.Hitlerstr. 168<br/>353 Stolberg, Gerh., Feinkost, Ad.-Hitler-Str. 164<br/>311 Stollberg, Wilh., Fabrikbes., Barbis<br/>318 <b>Südarz.Pflastersteinbrüche GmbH, Scharzfeld</b><br/>400 Svoboda, Dr. H.-J., Arzt, Scharzf. Str. 8<br/>458 Taubach, Fritz, Bau-Ing., Wolfsgrube<br/>292 Teitzel, C., Getreide, Ad.Hitler-Str. 200<br/>411 Thiele, H., Scharzfeld<br/>362 Timpe, Ernst, Fleischerei, Ad.-Hitler-Str. 136<br/>343 Tolle, Dr. Karl, Arzt, Wissmannstr. 14<br/>454 Trüter, Otto, Bäckermstr., Ad.-Hitler-Str. 74</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"208 10 994 992\" data-label=\"Text\"><p>390 Uhde, Ferd., Kneippdrogerie<br/>405 Veith, Major, Straße der SA. 37<br/>247 Verbrauchergenoss. eGmbH, Ad.-Hitl.-Str. 80<br/>493 Verein. Rohrleitungsb., Baust. Lauterberg<br/>421 Verein. Werke Dr. Rud. Alberti u. Co.<br/>216 Dies., Nebenbetrieb Scharzfeld<br/>219 Voges, Rechtsanwalt [N], Erikastr. 2<br/>261 Volksbank eGmbH, Schulstr. 52<br/>358 Volksd. Mittelst. Umsiedlg., Lager<br/>408 Volksschule, Schanzenstr. 5<br/>448 Weber, Walter, R.-A., Ritscherstr. 1<br/>445 Wedekind, Otto, Repar.-Werkst., Barbis<br/>304 Wehner, Paul, Bierverlag, Ad.-Hitl.-Str. 76<br/>495 Wollergehausen, Bierbrauerei, Wieserbeck 13<br/>335 Wenzel, Aug., Feinkost, Ad.-Hitler-Str. 154<br/>335 Wenzel, Herm., Kohlen, Ad. Hitlerstr. 154<br/>215 Westharz. Kraftwerke GmbH, Osterode, Harz<br/>417 Gebr. Wicke, Juweliere<br/>371 Wiedemann, A., Elektrotechn., WiGm. Str. 25<br/>272 Wiedemann, W., Schlächtl., Ad. Hitlerstr. 101<br/>409 Wierart Rud Gärtnerai</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"210 0 993 964\" data-label=\"List-Group\"><p>339 W inneim, Lichtspiele, Wismannstr. 51<br/>484 Wirth, Ing., Osterode, Wolfsgrube 42<br/><b>302 Wistoba-Pinselfabrik, Inh.: Wilhelm Stollberg,<br/>Barbis</b><br/>342 Wolter, Aug., Baugeschäft, Bartolfelde<br/>489 Wolter, Karl, Zimmerei, Bartolfelde 105<br/>465 Zapfe, Franz, Tabakwr., Ad. Hitlerstr. 71<br/>252 Zeppel, Ww. B., Schlächter., Hitlerstr. 77<br/>238 Zirkler, Louis, Schlächter, Osterh. Str. 2<br/>367 Zollamt, Ahnstr. 6<br/>398 Züchner, Rud., Konservendosen, Kirchberg</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Bad Liebenstein (Thür.)",
+        "entries": [
+          {
+            "extension": "245",
+            "text": "Albeke, Werner, Juwelier, Ad.-Hitler-Str. 38"
+          },
+          {
+            "extension": "256",
+            "text": "Alvermann, A., Pfeifenfbr., Schweina"
+          },
+          {
+            "extension": "596",
+            "text": "Amborn, Fritz, Fleischermstr."
+          },
+          {
+            "extension": "332",
+            "text": "Amborn, Georg, Kolonialwaren."
+          },
+          {
+            "extension": "129",
+            "text": "Ambronn, Karl, Steinbach."
+          },
+          {
+            "extension": "545",
+            "text": "Amm, Erich, Kraftwagenf., Schweina"
+          },
+          {
+            "extension": "226",
+            "text": "Anacker, C., Fuhrwesen, Altensteinerstr. 83."
+          },
+          {
+            "extension": "228",
+            "text": "Anacker, Oskar, Bäckerei"
+          },
+          {
+            "extension": "148",
+            "text": "Apfel, Christian, Bier, Steinbach."
+          },
+          {
+            "extension": "294",
+            "text": "Apotheke Cöster Barchfeld"
+          },
+          {
+            "extension": "439",
+            "text": "Apotheke Dr. Biedermann"
+          },
+          {
+            "extension": "212",
+            "text": "Arbeitsamt, Bahnhofstr. 152"
+          },
+          {
+            "extension": "469",
+            "text": "Augenheilanstalt Herzogin Charlotte"
+          },
+          {
+            "extension": "425",
+            "text": "Bach, Fritz, Bankdir., Schw Bhistr. 30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 29 996 736\" data-label=\"List-Group\"><p>440 Badedirektion (Herzogl. Bad)<br/>397 Barchfelder Darlehnskassen-Verein e. G. m.<br/>u. H., Barchfeld (Werra), Schulstr. 13<br/>185 Bauer, Osk., Architekt, A. Bahnhof 16<br/>320 Belz, Bauamtman, Parkweg<br/>327 Berlit, Gustav, Zimmermstr., Steinbach.<br/>462 Berns, Dr. A., Arzt, Herges. Auwallenburg<br/>146 Berufsschule Bad Liebenstein</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"769 800 996 930\" data-label=\"Text\"><p><b>Bad La</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 20 992 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>374</td>\n<td>Bürgermeister Bairoda</td>\n</tr>\n<tr>\n<td>435</td>\n<td>Bürgermeister Meimers</td>\n</tr>\n<tr>\n<td>445</td>\n<td><b>Bürgermeister Schweina</b><br/><b>mit Polizei, Standesamt, Wohlfahrtsamt, Käm-</b><br/><b>merei, Steuerabteilung u. Elektrizitätswerk</b></td>\n</tr>\n<tr>\n<td>430</td>\n<td>Claus, Dr., Med.-Rat, Badcarzt</td>\n</tr>\n<tr>\n<td>259</td>\n<td>Claus, Carl, Gemüse, Neue Str.</td>\n</tr>\n<tr>\n<td>557</td>\n<td>Danz, Albert, Bierhdlg., Schweina</td>\n</tr>\n<tr>\n<td>588</td>\n<td>Danz, Eduard, Zimmergesch., Schweina</td>\n</tr>\n<tr>\n<td>532</td>\n<td>Danz, Karl, Sägewerk, Schweina</td>\n</tr>\n<tr>\n<td>427</td>\n<td>Danz, Robert, <i>Schw</i> Ad.-Hitler-Str. 66</td>\n</tr>\n<tr>\n<td>324</td>\n<td>Darlehnskassenver. f. Trusen, <i>He Au</i></td>\n</tr>\n<tr>\n<td>244</td>\n<td>Denner, Edwin, Eisen, Barchfeld</td>\n</tr>\n<tr>\n<td>113</td>\n<td>Diätheim Johanna Irmisch</td>\n</tr>\n<tr>\n<td>322</td>\n<td>Döring, Paul, Direktor</td>\n</tr>\n<tr>\n<td>268</td>\n<td>Domäne Sorga</td>\n</tr>\n<tr>\n<td>162</td>\n<td>Düring, Richard, Textilwaren</td>\n</tr>\n<tr>\n<td>215</td>\n<td>Eberlein, Rich., Schlosser, Rabolsgrube 2</td>\n</tr>\n<tr>\n<td>133</td>\n<td>Eck, August, Tischlerei, Bahnhofstr.</td>\n</tr>\n<tr>\n<td>176</td>\n<td><b>Richard Eck</b> Stuhl- und Holzwarenfabrik</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 926 992\" data-label=\"Text\"><p>412 Forstamt, Thüring., Bad Liebenstein<br/>419 Försterwohnung Bad Liebenstein<br/>418 Försterwohnung Steinbach<br/>411 Försterwohnung Am Altenstein<br/>417 Försterwohnung Trautvetter<br/>414 Försterwohnung Jagdhaus Kissel<br/>204 Fremdenheim Rohmer, Fröbelstr. 4<br/>546 Fremdenheim Villa Maric, Aschenb. Str. 18<br/>361 Friedrich, Franz, Friseur, Steinbach<br/>388 Friedrich, Karl, Dachdeckerei, Schweina<br/>373 Fröbelhaus Schweina<br/>429 Fülles, Dora<br/>132 Galster, Haus, Agent, Parkstr. 19<br/>422 Gasfernversorg. Thüringen AG<br/>175 Gasthaus Altenstein.<br/>576 Gasthaus Grüner Baum, Steinbach<br/>252 Gasthaus Krone, Barchfeld<br/>342 Gasthaus Krone, Schweina<br/>308 Gasthaus Krone, Steinbach<br/>573 Gasthaus Luthergrund, Steinbach<br/>514 Gasthaus Thüringer Hof</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>302</td>\n<td>Gasthaus z. Wuppertu, Barchfeld</td>\n</tr>\n<tr>\n<td>303</td>\n<td>Gasthaus zum Klosterbräu, Barchfeld</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Gasthaus zur Sonne, Barchfeld</td>\n</tr>\n<tr>\n<td>242</td>\n<td>Gasth. u. Fleischerei z. Erholung</td>\n</tr>\n<tr>\n<td>302</td>\n<td>Gasthof zum Löwen, Inh. K. Reich</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Gasthof u. Logierhaus Auerhof, Marienthal</td>\n</tr>\n<tr>\n<td>538</td>\n<td>Gasthof u. Pensionshaus goldener Hirsch</td>\n</tr>\n<tr>\n<td>130</td>\n<td>Gast- u. Pensionshaus Felsenkeller</td>\n</tr>\n<tr>\n<td>449</td>\n<td>Gehrke Dr. Arzt, Kurh. Holsatia.</td>\n</tr>\n<tr>\n<td>364</td>\n<td>Gendarmerieposten Barchfeld</td>\n</tr>\n<tr>\n<td>489</td>\n<td>Gewerkschaft Mommel, Herges-Auwallenburg</td>\n</tr>\n<tr>\n<td>466</td>\n<td>Gierth, Dr., Arzt, Steinbach.</td>\n</tr>\n<tr>\n<td>126</td>\n<td>Giessler, Lagerhalter, Trusen.</td>\n</tr>\n<tr>\n<td>453</td>\n<td>Glanz, Dr. Erich, Zahnarzt</td>\n</tr>\n<tr>\n<td>508</td>\n<td>Göcking, Fritz, Konfektion, Schweina</td>\n</tr>\n<tr>\n<td>597</td>\n<td>Götz, Paul, Bürgermstr., Steinbach</td>\n</tr>\n<tr>\n<td>416</td>\n<td>Grabley, Dr., Arzt, Villa Edelweiß.</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Grimm, Karl, Autoverm., Fröbelstr. 3</td>\n</tr>\n<tr>\n<td>463</td>\n<td>Günther, Arth., Pol.-Hptwachtinstr., Ad.-Hitler-Str. 40</td>\n</tr>\n<tr>\n<td>586</td>\n<td><u>Hartmann, Ed., Schuhhaus</u></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Text\"><p>180 Haus Else, K. Paukert, Str. d. SA.<br/>159 Haus Erika, Theaterstr. 14<br/>330 Haus Erna u. Haus Hertha, Bes. W. Luther<br/>181 Haus Helene, Pensionshaus, Bes. C. Roth<br/>555 Haus Hubertus, Pension, Am Aschenberg<br/>186 Haus Margarete, Fremdenheim, Geschw. Roth<br/><b>550 Haus Maria Regina, Pensionshaus, Bad<br/>Liebenstein, Leitung kath. Schwestern</b><br/>356 Haus Stilles Heim, R. Ranft<br/>333 Helbig, August, Tünchermstr., Steinbach<br/><b>237 (F. &amp; A. Helbig, Herstellung von Stahlwaren<br/>238 (aller Art, Steinbach, Kreis) Meiningen</b><br/>258 Heller, Albert, Metzgerei, Meimers.<br/>(409) Heller, Alfred, Haus am Aschenberg<br/>537 Heller, Ernst, Kommerzienrat, Burgberg.<br/>402 Gebr. Heller, Kugelfabrik, Marienthal.<br/>227 Heller, Gustav, Bauschloss., Hauptstr. 13<br/>541 Heller, Hedwig, Pension<br/>123 Heller, Jakob, Fahrräder, Schweina<br/>587 Heller, Karl, Kommerzienrat, Marienthal</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a light beige background with faint vertical lines and a small, illegible stamp in the bottom right corner.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page has a light beige or off-white color with a subtle texture. There are faint vertical lines running down the page, likely from the binding or scanning process. In the bottom right corner, there is a small, faint, illegible stamp or mark. The overall appearance is that of an old, slightly worn document.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 796 998 959\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 11 997 978\" data-label=\"List-Group\"><p><b>409 Heller, Ludwig, Eisen- u. Metallwarenfabrik,<br/>Bau- und Kistenbeschläge, Damentaschen- und<br/>Börsenbügel, Fröbelstr. 2</b></p><p>536 Heller, Max, Parkweg 6</p><p>370 Heller, Rud., Kohlen, Schweina</p><p>348 Hellmann, Alfr., Zimmergesch.</p><p>214 Hellmann, Chr., Sägewerk, Immelborn.</p><p>342 Herbst, Walter, Fleischbeschauer, Schweina</p><p>543 Hergert, Robert, Schweina</p><p>122 Herrmann, Heinr., Möbelgeschäft</p><p>581 Herrmann, Karl, Friseur</p><p>524 Herweg, Peter, Gen.Konsul, Gut Bairoda</p><p>353 Hess, Albin, Lebensmittel, Schweina.</p><p>115 Hopf, E., Glaserei, Hauptstr. 218.</p><p>138 Hopf, F., Frisiersalon</p><p>150 Hoßfeld, Ernst, Bierniederlage, Schweina.</p><p>210 Hotel gute Quelle, R. Salzman</p><p>140 Hotel u. Pension Gonnemann, Inh. Otto Erbe</p><p>542 <b>Hotel „Herzog Bernhard“,<br/>Pension und Fremdenheim, Esplanade</b></p><p>165 Hotel Herzogin Charlotte</p><p>~ ~ ~</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Text\"><p>401 Kammgarbspinnerei Glücksbunn GmbH.<br/>117 Kamps Kurhotel, Hauptstr. 61a<br/>307 Kehr, Paul, Bäcker, Grumbachstr.<br/>237 Kehr-Ritz, Ernst, Kfm., Steinbach<br/>220 Kehr-Ritz, Jac., Stahlwr., Steinbach.<br/>328 Kellner, Chr., Kol.-W., Schweina, Hauptstr.<br/>187 Keybe, Oskar, Papierwr., Ad.-Hitler-Str. 6<br/>376 Keybe, Wilhelm, Autovermietung<br/>582 Kirst, Gerh., Arzt, <i>Schw</i> Bahnhofstr. 19<br/>386 Klein, Hugo, Messerfabr., <i>Stb</i> Schleifkatengrund<br/>135 Kley, A. O., Photograph.<br/>319 Knauf, Albert, Tischlerei, Hauptstr. 29<br/>306 Knieling, Julius, Spediteur, Steinbach<br/>293 Knieling, Otto, Install., Steinbach<br/>251 Konditorei Herbert Krech<br/>561 Krankenkraftwagen Deutsches Rotes Kreuz,<br/>Karl Kehr<br/>478 Kreiskrankenhaus Schweina.<br/>101 Kreissparkasse Meiningen, Zweigstelle<br/>275 Krupp'sche Grube Arminus, Steinbach<br/>230 Dieselbe, Eisensteinbetr., Atterode</p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 987 972\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>111</th>\n<th>122</th>\n<th>133</th>\n<th>144</th>\n<th>155</th>\n<th>166</th>\n<th>177</th>\n<th>188</th>\n<th>199</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>134</td>\n<td>Kruspe, Otto, Konditorei, Bahnhofstr.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>565</td>\n<td>Kühn, A. R., Pfeifenbr., Schweina</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>167</td>\n<td>Kürschner, Herm., Kol.-W., Schweina</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>406</td>\n<td>Kürschner, Ulrich, Export, Barchf. Str. 66</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>568</td>\n<td>Kunze, Max, Industriebed., Haus a. d. Wahl</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>449</td>\n<td>Kurheim Holsatia</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>437</td>\n<td>Kurheim Villa Georg</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>279</td>\n<td>Lapp, Max, Gastw., Steinbach, Hauptstr. 172.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>454</td>\n<td>Lauterbach, Lore, Dr., Haus Viktoria</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>191</td>\n<td>Lemnitzer, Werner, Dachdeckernstr.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>250</td>\n<td>Luther, Otto, Fabrikbesitzer</td>\n</tr>\n<tr>\n<td>330</td>\n<td>Luther, Wilhelm, Möbel</td>\n</tr>\n<tr>\n<td><b>501</b></td>\n<td><b>R. &amp; O. Lux, Aktien-Gesellschaft</b></td>\n</tr>\n<tr>\n<td></td>\n<td>Metallwarenfabrik, Marienthal. P Erfurt 2383</td>\n</tr>\n<tr>\n<td>240</td>\n<td>Malsch, Albert, Konfektion, Schweina, Hauptetr.</td>\n</tr>\n<tr>\n<td>407</td>\n<td>Malsch Sohn, Aug. Fr., Schloßfabr., Steinbach</td>\n</tr>\n<tr>\n<td>530</td>\n<td>Malsch, David, Stahlwarenfabrik, Steinbach</td>\n</tr>\n<tr>\n<td>566</td>\n<td>G. &amp; A. Malsch, Glaserei, Schweina</td>\n</tr>\n<tr>\n<td>358</td>\n<td>Malsch, Hugo, Schraubendreherei, Steinbach.</td>\n</tr>\n<tr>\n<td>221</td>\n<td>Malsch Sohn, K. G., Stahlwrfbr., Steinbach</td>\n</tr>\n<tr>\n<td><b>289</b></td>\n<td><b>O. &amp; R. Malsch,</b> Metallwarenfabrik,<br/>Steinbach, Kr. Meiningen</td>\n</tr>\n<tr>\n<td>219</td>\n<td>Malsch Sohn, Paul Jul., Kfm., Steinbach</td>\n</tr>\n<tr>\n<td>553</td>\n<td>Malsch, T., Metallwrfbr., Steinbach</td>\n</tr>\n<tr>\n<td>272</td>\n<td>Malsch, Wilh., Kolonialwr., <i>Schw</i> Hauptetr.</td>\n</tr>\n<tr>\n<td><b>525</b></td>\n<td><b>Malsch &amp; Ambonn</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Stahlwaren- u. Mopfabrik, Steinbach</b></td>\n</tr>\n<tr>\n<td>297</td>\n<td>Malsch &amp; Schirmer, Metallwrfbr., <i>Schw</i> Bhfstr. 9</td>\n</tr>\n<tr>\n<td>350</td>\n<td>Malsch &amp; Volkert, Metallwrfbr., <i>Bf</i> Schloßw. 1</td>\n</tr>\n<tr>\n<td>188</td>\n<td>Malsch-Snitzer. Carl. Stahlwrfbr. Steinbach</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 990\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>392</td>\n<td>Muy, Uuu, Diervray, Steinbach</td>\n</tr>\n<tr>\n<td>337</td>\n<td>Menz, Ludwig, Klempner, Bf Nürnb. Str.</td>\n</tr>\n<tr>\n<td>346</td>\n<td>Mertens, Karl, Glas, Lebensmittel</td>\n</tr>\n<tr>\n<td>145</td>\n<td>Messerschmidt, Reinh., Baugesch., Steinbach</td>\n</tr>\n<tr>\n<td>216</td>\n<td>Mittelbach, A., Matratzenfedern, Schweina</td>\n</tr>\n<tr>\n<td>104</td>\n<td>Möller, Waschanstalt, Barchfeld</td>\n</tr>\n<tr>\n<td>351</td>\n<td>Möller, Fritz, Schuhwaren, Bf Lieb. Str.</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Möller, Wilh., Fleischermstr., Stb Steier 197</td>\n</tr>\n<tr>\n<td>522</td>\n<td>Müller, Carl Friedrich, Optiker</td>\n</tr>\n<tr>\n<td>249</td>\n<td>Müller, Erich, Fuhrgesch., Schw-Marienthal</td>\n</tr>\n<tr>\n<td>295</td>\n<td>Müller, E., Eiergroßhdlg., Meimers</td>\n</tr>\n<tr>\n<td>195</td>\n<td>Geschwister Müller, Masseure, Aschenberg 24</td>\n</tr>\n<tr>\n<td>278</td>\n<td>Müller, Martha, Modew., Ad.-Hitler-Str. 2</td>\n</tr>\n<tr>\n<td>507</td>\n<td>Müller, Otto, Lebensm., Hauptstr.</td>\n</tr>\n<tr>\n<td>518</td>\n<td>Munck jr., Valtin, Maurermstr., Schweina.</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Munkel, Georg, Autorepar., Elektroanlagen</td>\n</tr>\n<tr>\n<td>482</td>\n<td>Nasdal, W., Dr. med., Schweina</td>\n</tr>\n<tr>\n<td>314</td>\n<td>Neuse, Karl, Konditorei, Schweina</td>\n</tr>\n<tr>\n<td>349</td>\n<td>Niederdrenk, W., Str. d. SA. 21</td>\n</tr>\n<tr>\n<td>196</td>\n<td>Nieper, Anna, Schloß Glücksbrunn, Schw</td>\n</tr>\n<tr>\n<td>260</td>\n<td>Noback, Heinr., Konfektionsh., Barchfeld</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 763 995\" data-label=\"Text\"><p>292 NSDAP, Kreisltg., Meiningen-Nord, Schweina<br/>431 Dies., NS.-Frauenschaft, Auenweg 6<br/>290 Nürnberger, Christ., Spedit., Schweina.<br/>344 Nürnberger, W., Landwirt, Schweina<br/>313 Oberschule u. Landeserzieh. Anstalt<br/>415 Obmann, Dr. med., Arzt, Schweina.<br/>488 Obmann, Dr. Rud., Zahnarzt, Bahnhofstr.<br/>125 Ohlsen, Georg, Seifen, Schweina<br/>281 Ortskrankenk., Allgeme., Bahnhofstr. 11<br/>153 Pallas-Werke, Fahrradzubeh., Barchfeld<br/>175 Paukert, Karl, Gasthaus Altenstein<br/>360 Peter, Fr. Hermann, Maurermstr., Trusen.<br/>172 Peter, Osk., Kolonialwr., Schweina<br/>317 Pfannstiel, E., Fleischwr., Ad.-Hitler-Str. 3<br/>517 Pfannstiel, Fried., Metzgerei, Schweina.<br/>355 Pfarramt, evangel., Bad Liebenstein.<br/>458 Pfarramt, evangl., Barchfeld<br/>264 Pfarramt, evangel., Schweina.<br/>460 Pfarramt, evangel., Steinbach<br/>231 Pflieger, Julius, Kol.-W., Schweina.<br/>339 Pilger, Rich., Tischlerei, Schweina<br/>100 Dann a Metallwerk Caden Altenst C4-</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 760 993\" data-label=\"Text\"><p>512 Prinz Ernst von Sachsen-Meiningen, Schloß<br/>Altenstein<br/>192 Raßbach, Hugo, Kohlen, Ladestr. 10<br/>404 <b>Aug. Reich Söhne</b> Pfeifen-<br/>fabrik<br/>544 Reich, C. S., Pfeifenfabrik, Schweina<br/>217 Reich, Ehrhardt, Stahlwrfbr., <i>Schw</i> Breiteg.<br/>184 Reich, Friedrich, Fabrikbes., <i>Schw</i> Bhfstr.<br/>261 Reich, Fritz, Wohnungskunst<br/>535 Reich, Karl, Fabrikbes., <i>Schw</i> Salzung. Str. 2<br/>206 Reich, Karl, Spediteur.<br/>580 Reich, Otto, Gasthaus zur Einnahme<br/>426 Reichsbahn, Güterabf. Liebenstein-Schweina.<br/>446 Reichsbahn, Güterabf. Immelborn.<br/>456 Dieselbe, Güterabfert., Steinbach<br/>490 Reichspost, Postamt<br/>483 Dieselbe, Postamt Barchfeld-Werra<br/>485 Dieselbe, Postamt Schweina<br/>486 Dieselbe, Postamt Steinbach<br/>396 Reinicke, Herm., Maschinen, Schweina<br/>999 <b>Dorf Haus</b> <b>Stammplatz</b> <b>Pl. Nünnich</b> <b>Str. A</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 760 992\" data-label=\"Text\"><p><b>366 Resch, Otto, Unternehmung für Tier- und<br/>Straßenbau, Bad Liebenstein</b><br/>575 Reum, August, Dienstmann<br/>556 Reum, Eduard, Metallwrfbr., Barchfeld<br/>161 Reum, Otto, Dekorateur, Altenst. Str. 1<br/>269 Reum, Wilh., Metallwrfbr., Trusen<br/>571 Richter &amp; Ochs GmbH, Haushaltsartikel,<br/>Schweina<br/>277 Riesmann, Rich., Manufakturwr., Schweina.<br/>516 Rittergut Farnbach<br/>334 Aug. Rössling &amp; Co., Messerfbr., Steinbach<br/>383 Rommel, Georg, Gastwirt<br/>595 Rommel, Rich., Malergesch.<br/>236 Rommel, Wilh., Kartonnagen, <i>Schw</i> Hauptstr.<br/>280 Roth, Gustav, Tapetengesch.<br/>589 Roth, Gustav, Malermstr., Schweina<br/>570 Roth, L., Kolonialwr., Barchfelderstr.<br/>171 Roth, Richard, Tapeten, <i>Schw</i> Pfarrgasse<br/>149 G. &amp; R. Rübsam, Möbelwerkst., Grenzweg 16<br/>381 Ruge, Alfred, am Mühlweg 3<br/>288 Rußwurm, Alfr., Vertreter, Mühlweg 1</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "408) Sanatorium, Liebenstein",
+        "entries": [
+          {
+            "extension": "593",
+            "text": "Scharfenberg, H., Metallwrfbr., Schweina"
+          },
+          {
+            "extension": "263",
+            "text": "Schellenberger, Herm., Dentist, Bahnhofstr."
+          },
+          {
+            "extension": "168",
+            "text": "Scheumeister, Ernst, Architekt, Schweina"
+          },
+          {
+            "extension": "472",
+            "text": "Schilling, Carl, Drogerie, Schweina."
+          },
+          {
+            "extension": "504",
+            "text": "Schirmer, Karl, Glaserstr, Bf"
+          },
+          {
+            "extension": "513",
+            "text": "Schloßgärtneri Altenstein"
+          },
+          {
+            "extension": "175",
+            "text": "Schloßgaststätten Altenstein"
+          },
+          {
+            "extension": "405",
+            "text": "Schlotterhoss, Afr., Fabrikant, Steinbach"
+          },
+          {
+            "extension": "301",
+            "text": "Schmalz, F. F. S., Gastw., Bf Nürnb. S. 45"
+          },
+          {
+            "extension": "592",
+            "text": "Schmalz Sohn, F. A., Fleischerei, Barchfeld"
+          },
+          {
+            "extension": "252",
+            "text": "Schmalz jr., Ferd., Fleischer, Barchfeld"
+          },
+          {
+            "extension": "310",
+            "text": "Schmalz, Otto, Fleischerei, Barchfeld"
+          },
+          {
+            "extension": "213",
+            "text": "Schmalz, Otto, Tabak, Barchfeld"
+          },
+          {
+            "extension": "400",
+            "text": "Schmeer, Karl, Kreisamtsleiter, Schweina"
+          },
+          {
+            "extension": "577",
+            "text": "Schmeisser, L., Bäckerei, Herges-Auwallenburg"
+          },
+          {
+            "extension": "305",
+            "text": "Schmidt, August, Fleischermstr., Schweina"
+          },
+          {
+            "extension": "205",
+            "text": "Schmidt, Aug., Kaufhaus Bekl., Bf"
+          },
+          {
+            "extension": "343",
+            "text": "Schmidt, Aug., Schuhwr., Schweina 449"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "520 Schneiders Hotel u. Pension",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 761 985\" data-label=\"Text\"><p><b>280</b> Schuize, Udo, Gastwirt, Eisenkurzwir.<br/><b>266</b> Schwarz, Karl, Klempner, Hauptstr.<br/><b>529</b> Schwerdt, Paul, Vertreter, Steinbach<br/><b>410</b> Seifert, Dr. Karl, Arzt, Theaterstr. 16<br/><b>452</b> Selge, Dr. med., Arzt.<br/><b>347</b> Seitz, Dr. Herm., Studienrat, Baumb. Str. 11<br/><b>594</b> Sippel, Rob., Gastwirt, Schweina<br/><b>160</b> <b>Otto Simon</b><br/><b>Stahlwarenfabrik, Steinbach (Kr. Meiningen)</b><br/><b>189</b> Spar- u. Darlehnskassenverein<br/><b>233</b> Starker, Gut Profisch<br/><b>183</b> v. Stein, Freiherr, Barchfeld.<br/><b>239</b> Steiner, Erich, Massageinstitut, Rückertstr. 3<br/><b>468</b> Stephan, Ilse, Theaterstr. 16<br/><b>253</b> Storch, Albert Gerhard, Atterode<br/><b>506</b> Stumpf, Erich, Geschirrhalter, <i>Bf</i><br/><b>121</b> Täfler, Ferd., Metallwrfbr., Barchfeld.<br/><b>359</b> Tennisplätze Club Grün-Weiß, am Elis. Park<br/><b>380</b> Thomä, Rolf E., Dentist, Schweina, Hauptstr.<br/><b>451</b> Thür. Elektr.-Lief.-AG, Steinbach<br/><b>420</b> Dieselbe, Bez.-Monteur Schmidt, Barchfeld</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

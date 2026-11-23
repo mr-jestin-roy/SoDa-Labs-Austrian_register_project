@@ -1,0 +1,681 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"281 10 999 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>4498</td>\n<td>Weissbach, Hugo, Dir., Provinostr. 47</td>\n</tr>\n<tr>\n<td>4577</td>\n<td>Weiß Schleife, Gastst., Frauentorstr. 43</td>\n</tr>\n<tr>\n<td>33131</td>\n<td>Weißbenburger, L., Bürgerm., Gögg Bayerstr</td>\n</tr>\n<tr>\n<td>7662</td>\n<td>Weißenhorn, Annie, Ww., Bahnhofstr. 18½</td>\n</tr>\n<tr>\n<td><b>4991</b></td>\n<td><b>H. Weissenhorn &amp; Cie., Spedition, Möbeltransport, Bahnhofstr. 21. P München 131</b></td>\n</tr>\n<tr>\n<td>4046</td>\n<td>Weißenhorn, Max, Kfm., Frohsinnstr. 18</td>\n</tr>\n<tr>\n<td>5561</td>\n<td>Weißenhorn, M., Wäscherei, Spitalg. 26</td>\n</tr>\n<tr>\n<td>4857</td>\n<td>Weißenrieder, Wilh., Radio, Lutherpl. 2</td>\n</tr>\n<tr>\n<td>7882</td>\n<td>Weißkirchen, H., Stukkat., Völkstr. 32</td>\n</tr>\n<tr>\n<td>8413</td>\n<td>Weißler, Maria, D.-Hüte, Karolinenstr. 27</td>\n</tr>\n<tr>\n<td>4547</td>\n<td>Weithmann, Jos., Mützen, Kaiserpl. 3</td>\n</tr>\n<tr>\n<td>8986</td>\n<td>Weitlauff, Joh., Weinhdg., Bäckergr. 14</td>\n</tr>\n<tr>\n<td>30278</td>\n<td>J. A. Weitmann &amp; Co, Kieswerk, Kissing</td>\n</tr>\n<tr>\n<td>5078</td>\n<td>Weitnauer, E., Lederwr., Hint.Perlachb. 2</td>\n</tr>\n<tr>\n<td>36383</td>\n<td>Weizenegger, F., Bäckerm., Stadtb. Str. 8</td>\n</tr>\n<tr>\n<td><b>4961</b></td>\n<td><b>Welsch, Dr. Karl, Arzt, Prinzreg.Str. 1</b></td>\n</tr>\n<tr>\n<td>7331</td>\n<td>Welter, J., Betriebsleit., Frickingerstr. 10</td>\n</tr>\n<tr>\n<td>6629</td>\n<td>Welty, Ant., Mineralöle, Lauterlech 42a</td>\n</tr>\n<tr>\n<td>4448</td>\n<td>Weng, F., Telegr.Insp., Gögg Hitlerstr. 89</td>\n</tr>\n",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"278 0 998 991\" data-label=\"Text\"><table><tbody><tr><td>31249</td><td>Weng, J., Fuhruntern., Guterinnannstr. 3a</td></tr><tr><td>6586</td><td>Weng, Johann, Kohlen, ob. Jakobermauer 8</td></tr><tr><td>6946</td><td>Wengenmeier, Carl, Leder, Neidhartstr. 10</td></tr><tr><td>(6946)</td><td>Wengenmeier, N., Putzwolle, Neidh. Str. 10</td></tr><tr><td>8679</td><td>Weninger, Frieda, Blumen, Wertachstr. 12</td></tr><tr><td>7410</td><td>Weninger, Konrad, Blumen, Pferseer Str. 11</td></tr><tr><td>5478</td><td>Weuzel, A., Architekt, Gabelsbergerstr. 3</td></tr><tr><td>7167</td><td>Werkst. für Bronzekunst, Georgenstr. 24</td></tr><tr><td>31475</td><td>Werther, W., Bildh., Mittl. Osterfeldstr. 25</td></tr><tr><td>7295</td><td>Weschbach, Dr. P., Oberarzt, Bismarckstr. 12</td></tr><tr><td>6967</td><td>Wesche, Ad., Polsternmöbel, Karol. Str. 7</td></tr><tr><td>31939</td><td>Wessels jr., A., Betriebsleit., Steppach, Hofleitenstr. 5</td></tr><tr><td>31602</td><td>Aug. Wessels Schuhfabr. GmbH, Feldstr. 5</td></tr><tr><td>7856</td><td>Dies., Wohn. A. Wessels sen., Christoph-von-Schmid-Str. 9</td></tr><tr><td>31940</td><td>Wessels, Otto, Kfm., Steppach, Hofl.-Str. 5</td></tr><tr><td>31725</td><td>Weßner, Georg Metzgerel, Ebnerstr. 13</td></tr><tr><td>7913</td><td>Wetzel, Franz, Vertr., Prinzstr. 25</td></tr><tr><td>7564</td><td>H. Wetzer &amp; Co., Sägenfabr., Gögg Bergstr. 23</td></tr><tr><td>4567</td><td>Weyl, Gertrud, Sängerin, Hindenburgstr. 38</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"295 0 987 27\" data-label=\"Page-Header\">\n<p>7400 WICHTENDAHL, WIDEMANN, WIEDEMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, WIDMANN, W",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"269 0 998 995\" data-label=\"Table\">\n<table>\n<tr>\n<td>6657</td>\n<td>Wiedemann, J., Autorepar., Georgenstr. 20</td>\n</tr>\n<tr>\n<td>6191</td>\n<td>Wiedemann, Jul., Ingen., Sanderstr. 8</td>\n</tr>\n<tr>\n<td>4334</td>\n<td>Wiedemann, Jul., Glashdl., Bäckergr. 4</td>\n</tr>\n<tr>\n<td>8702</td>\n<td>Wiedemann, Dr. K., R.-A., Ludwigstr. 7</td>\n</tr>\n<tr>\n<td>6019</td>\n<td>Wiedemann, Leop., Kfm., Jakoberw.-Str. 17</td>\n</tr>\n<tr>\n<td>8838</td>\n<td>Wiedemann, Matth., Kfm., Thommstr. 10</td>\n</tr>\n<tr>\n<td>33278</td>\n<td>Wiedemann, Max, Kol.W., Gögg Wellenburger Str. 15</td>\n</tr>\n<tr>\n<td>7373</td>\n<td>Wiedemann, Dr. O., Prok., Klinkerb. 30</td>\n</tr>\n<tr>\n<td>36500</td>\n<td>Wiedemann, O., Werkmstr., Uhlandstr. 19</td>\n</tr>\n<tr>\n<td>6698</td>\n<td>Wiedemann, Th., Komm.Rat, Provinuoststr. 43</td>\n</tr>\n<tr>\n<td>4333</td>\n<td>Wiedemann &amp; Co., Tuche, Bahnhofstr. 18½</td>\n</tr>\n<tr>\n<td>37327</td>\n<td>Wiedemann u. Söhne, Därme, Humboldtstr. 31</td>\n</tr>\n<tr>\n<td>6101</td>\n<td>Wiedemann, F., Leder, Karlstr. 6</td>\n</tr>\n<tr>\n<td>6884</td>\n<td>Wiedemann, Mich., Postinsp., Alpenstr. 1</td>\n</tr>\n<tr>\n<td>37235</td>\n<td>Wiedemayer, P., Baugesch., Kulturstr. 18</td>\n</tr>\n<tr>\n<td>8518</td>\n<td>Wiedemann, Albr., Bäcker, Pfannenstiel 25.</td>\n</tr>\n<tr>\n<td>7200</td>\n<td>Wiegand, Dr. Louis, Zahnarzt, Steing. 10</td>\n</tr>\n<tr>\n<td>37193</td>\n<td>G. u. J. Wichler, Lebensm., Neub.Str. 62</td>\n</tr>\n<tr>\n<td>4083</td>\n<td>Wiehr, Günther, Bavousstr. 6</td>\n</tr>\n<tr>\n<td>31827</td>\n<td>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"268 0 991 983\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>30285</td>\n<td>Wielau, Jon., Metzger, Duerriesr. 59</td>\n</tr>\n<tr>\n<td>36445</td>\n<td>Wiesbauer, Jos., Kfm., Leitershofenstr. 26</td>\n</tr>\n<tr>\n<td>6406</td>\n<td>Wieser, Franz, Metzger, Klinkertorstr. 7</td>\n</tr>\n<tr>\n<td>31169</td>\n<td>Wieser, Friedr., Metzgermstr., Hummelstr. 18</td>\n</tr>\n<tr>\n<td>7531</td>\n<td>Wieser, Jos., Schuhm., Jakobskirche 5</td>\n</tr>\n<tr>\n<td>4263</td>\n<td>Wiesinger, H. H., Vertr., Kaiserstr. 65</td>\n</tr>\n<tr>\n<td>4870</td>\n<td>Wiesinger, Hans, Metzgerm., Windhof 2</td>\n</tr>\n<tr>\n<td>31123</td>\n<td>Wiesmüller, Dr. Jak., Arzt, Donauw.-Str. 2</td>\n</tr>\n<tr>\n<td>6762</td>\n<td>Wiest, Karl, Lederwr., Ludwigstr. 8</td>\n</tr>\n<tr>\n<td>8317</td>\n<td>Wiest, Leonh., Wagenbau, Lauterlech 17</td>\n</tr>\n<tr>\n<td>6906</td>\n<td>Wildenrother, Dr. F., Arzt, B.-Fischer-Str. 11</td>\n</tr>\n<tr>\n<td>7029</td>\n<td>Wilhelm, Anselm, Baugesch., Ottmarsgäßchen 12</td>\n</tr>\n<tr>\n<td>8228</td>\n<td>Wilhelm, Christian, Insp., Hofmaierstr. 19</td>\n</tr>\n<tr>\n<td>33216</td>\n<td>Georg &amp; Karl Wilhelm, Schreiner, Gögg Radaustr. 37</td>\n</tr>\n<tr>\n<td>31219</td>\n<td>Wilhelm, H., Tel.-Werkmstr., Osterf.Str. 45</td>\n</tr>\n<tr>\n<td>33171</td>\n<td>Wilhelm, J., Fbr.-Dir., Gögg Radaustr. 21</td>\n</tr>\n<tr>\n<td>5554</td>\n<td>Wilhelm, Karl, Archt., Hermanstr. 21</td>\n</tr>\n<tr>\n<td>36415</td>\n<td>Wilhelm, Paul, Ludwig-Thoma-Str. 36</td>\n</tr>\n<tr>\n<td>7558</td>\n<td>Wikens, Hugo, Dir., Nibel.Str. 18</td>\n</tr>\n</tbody>\n",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"264 10 990 979\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>6049</td>\n<td>Willburger, Dr. Arzt, Maxim.Str. 38</td>\n</tr>\n<tr>\n<td>31853</td>\n<td>Willer, Viktoria, Metzg., Branderstr. 23</td>\n</tr>\n<tr>\n<td>7153</td>\n<td>Willig, Joh., Transporte, Calmb. Str. 9</td>\n</tr>\n<tr>\n<td>6925</td>\n<td>Willms, Heinr., Ingen., Volkhartstr. 15</td>\n</tr>\n<tr>\n<td>31851</td>\n<td>Willms, Walter, Dr.-Ing., Saarb. Str. 15</td>\n</tr>\n<tr>\n<td>7729</td>\n<td>Wimmer, G., Fahrzeugbau, Karreng. 11</td>\n</tr>\n<tr>\n<td>31283</td>\n<td>Wimmer, Gg., Lebensm., T.-Maurer-Str. 9</td>\n</tr>\n<tr>\n<td><b>7079</b></td>\n<td><b>Wimmer &amp; Co.</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Automobile, Reparaturwerk, Großgarage,</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>DKW Generalvertretung, Senkelbachstr. 29</b></td>\n</tr>\n<tr>\n<td>4180</td>\n<td>Winand, M., Versich., Schäzlerstr. 4</td>\n</tr>\n<tr>\n<td>5024</td>\n<td>Windeck, Georg, Verlag, Schülestr. 4</td>\n</tr>\n<tr>\n<td>37236</td>\n<td>Windegger, Ludw., Radio, Radetzkystr. 13</td>\n</tr>\n<tr>\n<td>31937</td>\n<td>Winden, M., Hebamme, Wertinger Str. 81</td>\n</tr>\n<tr>\n<td><b>7382</b></td>\n<td><b>Windenfabrik G. Schober, Inh. A. &amp; W. Pfaff</b></td>\n</tr>\n<tr>\n<td>5936</td>\n<td>Wiederl, G., Chem. Prod., Inn. Uferstr. 17</td>\n</tr>\n<tr>\n<td>7407</td>\n<td>Windsheimer Quellprodukte, J.-Haag-Str. 16</td>\n</tr>\n<tr>\n<td>4530</td>\n<td>Winkler, Alois, Rauchwr., Äuß. Pfaffeng. 15e</td>\n</tr>\n<tr>\n<td>8477</td>\n<td>Winkler, G., Goldschmied, Maxim.-Str. 22</td>\n</tr>\n<tr>\n<td>6841</td>\n<td>Winkler,",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"565 854 574 875\" data-label=\"Page-Footer\"><p>-</p></div><div data-bbox=\"966 808 993 930\" data-label=\"Page-Footer\"><p>A</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 11 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>6277</td>\n<td>Josef Winkler u. Gustav Schumacher, Malermeister, Leonhardstr. 11</td>\n</tr>\n<tr>\n<td>7903</td>\n<td>Winkler, Jos., Baugeschäft, Sonnenstr. 11.</td>\n</tr>\n<tr>\n<td>6279</td>\n<td>Winkler, K., Zimmerm., Gögg Hitlerstr. 79</td>\n</tr>\n<tr>\n<td>6625</td>\n<td>Winter, Adolf, Goldschmied, Welserstr. 21</td>\n</tr>\n<tr>\n<td>8244</td>\n<td>Winter, Josef, Chemiker, Wolframstr. 6</td>\n</tr>\n<tr>\n<td>30289</td>\n<td>Winter, Ludw., Hochbau, Friedb.Str. 106</td>\n</tr>\n<tr>\n<td>31292</td>\n<td>Winter, Dr. M., Zahnarzt, Gath Augsb. Str. 19</td>\n</tr>\n<tr>\n<td>8340</td>\n<td>Wirsching, Karl, Bücherrev., Alpenstr. 19</td>\n</tr>\n<tr>\n<td>37309</td>\n<td>Wirth, Carl, Gärtnerei, Stätzlinger Str. 11</td>\n</tr>\n<tr>\n<td>5193</td>\n<td>Wirth, Karl, Postamttn., Stadtjägerstr. 10</td>\n</tr>\n<tr>\n<td>7208</td>\n<td>Wirth, Otto, Spengler, Pilgerhausg. 10</td>\n</tr>\n<tr>\n<td>36201</td>\n<td>Wirthmüller, Jos., Ing., Lutzstr. 18</td>\n</tr>\n<tr>\n<td>4012</td>\n<td>Wirtschaftsgr. Ambul. Gewerbe, Schmiedb15</td>\n</tr>\n<tr>\n<td>7125</td>\n<td><b>Wirtschaftsgruppe Bauindustrie, Ortsgr. Augsburg u. Schwaben, Baumgartnerstr. 8a</b></td>\n</tr>\n<tr>\n<td>4475</td>\n<td>Desgl., Gaststättengewerbe, Fuggerstr. 9</td>\n</tr>\n<tr>\n<td>5866</td>\n<td>Wirtsch.-Kammer Bayern, Einzelhandel, Karlstr. 6</td>\n</tr>\n<tr>\n<td>7820</td>\n<td>Wisotzki, Dr. Kurt, Arzt, Karlstr. 19</td>\n</tr>\n<tr>\n<td>7757</td>\n<td><b>Witt, Josef, Weiden, Webwarenversand, Lager</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Anreiner Chausse 1 anklammels</b></td>\n</tr",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>7960</td>\n<td>Wittig, Arthur, Dachdeck., Kathar.G. 13</td>\n</tr>\n<tr>\n<td>7050</td>\n<td>Wittlinger, A., Autodroschik., Schützenstr. 16</td>\n</tr>\n<tr>\n<td>33107</td>\n<td>Wittmann, Babette, Geflügel, Gögg Lindauer Straße 26</td>\n</tr>\n<tr>\n<td>31685</td>\n<td>Wittmann, Franz, Metzg., Schelkl. Str. 26</td>\n</tr>\n<tr>\n<td>8412</td>\n<td>Wittmann, Hans, Spedit., Frauentorstr. 21</td>\n</tr>\n<tr>\n<td>7601</td>\n<td>Wittmann, M., Verdunkl.-Anl., Hochf.Str. 21</td>\n</tr>\n<tr>\n<td>6090</td>\n<td>Wittmann, P., Schneider, Ph.-Welser-Str. 19</td>\n</tr>\n<tr>\n<td>8235</td>\n<td>Wittmer, Domin., Chem. Fbr., Zwerchg. 4</td>\n</tr>\n<tr>\n<td>8308</td>\n<td>Witty, Xaver, Tabakwr., Kaiserstr. 17</td>\n</tr>\n<tr>\n<td>(6729)</td>\n<td>Witzler, E., Referend., Ludwigstr. 5</td>\n</tr>\n<tr>\n<td>8332</td>\n<td>Wöchnerinnenheim, Hindenburgstr. 59</td>\n</tr>\n<tr>\n<td>36516</td>\n<td>Wöckner, A., Ing., Stadtbergen, Hitlerstr. 34</td>\n</tr>\n<tr>\n<td>36470</td>\n<td>Wöhr, Fritz, Buchdr., Körnerstr. 11</td>\n</tr>\n<tr>\n<td>6786</td>\n<td>Wöhrl, Michael, Bäckermstr., Remboldstr. 3</td>\n</tr>\n<tr>\n<td>33139</td>\n<td>Woelfel, Chl., Elektr. Anl., Gögg Hitlerstr.</td>\n</tr>\n<tr>\n<td>4205</td>\n<td>Wölfel, Joh., Vulkan.-Anst., Bäckergr. 10a</td>\n</tr>\n<tr>\n<td>37229</td>\n<td>Wölfl, Georg, Gärtner, Derchingerstr. 30.</td>\n</tr>\n<tr>\n<td>6340</td>\n<td>Wölfl, Jos., Buchbind., Karmeliteng. 20</td>\n</tr>\n<tr>\n<td>4779</td>\n<td>Wöller, E., Fleischereimasch., Jakoberstr. 36</td>\n</tr>\n<tr",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 980\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>vorw.</th>\n<th>vorname, nachn., u. s., adresse, w., telefonnr.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5074</td>\n<td>Wörle, Anton, Tapezler, Maxim.-Str. 81</td>\n</tr>\n<tr>\n<td>37161</td>\n<td>Wörle, A., Autobetrieb, Gneisenaustr. 14</td>\n</tr>\n<tr>\n<td>8017</td>\n<td>Wörle, Ign., Möbelfbr., Gögg Hitlerstr. 101</td>\n</tr>\n<tr>\n<td>37111</td>\n<td>Wörle, Joh., Fuhrw., Blücherstr. 76a</td>\n</tr>\n<tr>\n<td>37161</td>\n<td>Wörle, Jos., Autobetrieb, Gneisenaustr. 14</td>\n</tr>\n<tr>\n<td>5805</td>\n<td>Wörle, Joseph, Install., Wintergasse 9</td>\n</tr>\n<tr>\n<td>7188</td>\n<td><b>Wörle, Josef, Vertrieb von Kartoffeln u. Futtermitteln, Heinrich-von-Buz-Str. 18</b></td>\n</tr>\n<tr>\n<td>8227</td>\n<td>Wörle &amp; Rosenberger, Bürobed., Karol.Str.29</td>\n</tr>\n<tr>\n<td>6766</td>\n<td>Wörlein, Hans, Ingenieur, H.-König-Str. 3</td>\n</tr>\n<tr>\n<td>4576</td>\n<td>Wörner, Hch., Spengler, Kohlergasse 16</td>\n</tr>\n<tr>\n<td>4662</td>\n<td>Wörner, Dr. Karl, Reg. Dir., Holbeinstr. 10</td>\n</tr>\n<tr>\n<td>7667</td>\n<td>Wörner, Karl, Gartenbau, Gänsbühl 33</td>\n</tr>\n<tr>\n<td>33257</td>\n<td>Wörder, Mart., Transp., Gögg Gabelsb. Str.</td>\n</tr>\n<tr>\n<td>5797</td>\n<td>Wörtz, Wilhelm, Alpenstr. 33</td>\n</tr>\n<tr>\n<td>8543</td>\n<td>Wohllaib, Lucie, Heilinst., Ludwigstr. 26</td>\n</tr>\n<tr>\n<td>4519</td>\n<td>Wörz, Rudolph, Gabelsbergerstr. 5</td>\n</tr>\n<tr>\n<td>37208</td>\n<td>Wohlfarth, Otto, Kol.-W., Schneelingstr. 3</td>\n</tr>\n<tr>\n<td>31351</td>\n<td>Wohlhüter, H",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "30266",
+            "text": "Wohlwend, Hans, Gärtner, Friedb. Str. 135"
+          },
+          {
+            "extension": "30274",
+            "text": "Hans Wohlwend jr., Baumschulen, Garten-gestaltung, Augsburg-Hochzoll 11"
+          },
+          {
+            "extension": "30290",
+            "text": "Wohlwend, Jos., Gärtner, Zugspitzstr. 66"
+          },
+          {
+            "extension": "31704",
+            "text": "Wohlwend, Maria, Hebamme, Ulmer Str. 10"
+          },
+          {
+            "extension": "4614",
+            "text": "Wolber, G., Frickingerstr. 2"
+          },
+          {
+            "extension": "8001",
+            "text": "Wolf, Ant., Versich., Schmiedberg 4"
+          },
+          {
+            "extension": "7787",
+            "text": "Wolf, Dr. Anton, R.-A., Maxim. Str. 12"
+          },
+          {
+            "extension": "33212",
+            "text": "Derselbe, Wohnung"
+          },
+          {
+            "extension": "4783",
+            "text": "Wolf, Anton, Schneider, Volkhartstr. 18a"
+          },
+          {
+            "extension": "36254",
+            "text": "Wolf, Balth., Kohlen, Eberlestr. 66"
+          },
+          {
+            "extension": "5896",
+            "text": "J. &amp; H. Wolf, Werkzeugmach., Alte G. 16"
+          },
+          {
+            "extension": "31354",
+            "text": "Wolf, Jos., Käsehdlg., Reinöhlstr. 57"
+          },
+          {
+            "extension": "4738",
+            "text": "Wolf, Jos., Ingenieur, Rugendasstr. 3."
+          },
+          {
+            "extension": "7240",
+            "text": "Wolf, J., Ulrich, Schreiner, Georgenstr. 41"
+          },
+          {
+            "extension": "6944",
+            "text": "Wolf, Lor., Bierhdlg., Siedl. d. Volkes 4"
+          },
+          {
+            "extension": "7316",
+            "text": "Wolf, Martin, Lebensm., J.-Haag-Str. 3"
+          },
+          {
+            "extension": "8530",
+            "text": "Wolff, R. E., Nutzholz, Friedb. Str. 47"
+          },
+          {
+            "extension": "7495",
+            "text": "v. Wolfram, Irma, Wwe., Maxim. Pl. 6"
+          },
+          {
+            "extension": "6403",
+            "text": "Wolfram Lammen AG. O. Lochdammstr. 51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 984\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>4401</td>\n<td>W. Wollrath &amp; Co AG, Fürstenh. Hauptstr., Böheimstr. 3</td>\n</tr>\n<tr>\n<td>5577</td>\n<td>Wolfrum, Dr. L., Arzt, SchießgrabenStr. 24</td>\n</tr>\n<tr>\n<td>33136</td>\n<td>Wolfrum, Margarete, Gögg Römerweg 22</td>\n</tr>\n<tr>\n<td>37141</td>\n<td>Wollmann, Nik., Metzger, Hubertuspl. 6</td>\n</tr>\n<tr>\n<td>4837</td>\n<td>Emil Wolsdorf KG, Zigarren, Maxim. Str. 10</td>\n</tr>\n<tr>\n<td>7748</td>\n<td>Woltmann, Hermann, Gögg Afraweg 3</td>\n</tr>\n<tr>\n<td>7711</td>\n<td>Wolz, Auguste, Ww., Frohsinnstr. 8</td>\n</tr>\n<tr>\n<td>33154</td>\n<td>Woock, Georg, Insp., Gögg Landger. Str. 6</td>\n</tr>\n<tr>\n<td>7443</td>\n<td>F.W. Woolworth Co. GmbH, Warenhaus, Saugäßchen 1</td>\n</tr>\n<tr>\n<td>8320</td>\n<td>Wrublick, Hugo, Lebensm., Rosenaustr. 44</td>\n</tr>\n<tr>\n<td>33163</td>\n<td>Wucher, Ulr., Buchbind., Gögg Butzstr. 13</td>\n</tr>\n<tr>\n<td>7745</td>\n<td>H. Wündisch GmbH, Textilwr., HindStr. 17b</td>\n</tr>\n<tr>\n<td>31262</td>\n<td>Wünsch, Hans, Dentist, Ulmer-Str. 190</td>\n</tr>\n<tr>\n<td>5489</td>\n<td>Wünsch K., Elektrowerkst., Oblatt. Str. 1</td>\n</tr>\n<tr>\n<td>5407</td>\n<td>Wünsch, Karl, Lehrer, Bismarckstr. 21</td>\n</tr>\n<tr>\n<td>31514</td>\n<td>Württ. Feuerversich. AG, Zainerstr. 4</td>\n</tr>\n<tr>\n<td>7268</td>\n<td>Württ. Metallwrfbr., Maximil. Str. 12</td>\n</tr>\n<tr>\n<td>4674</td>\n<td>Würzb. Weinstube, Burgergäßchen 4</td>\n</tr>\n<tr>\n<td>36179</td>\n<td>Wüst, W., Dr., Stadtbergen, Osterf.-Str. 28</td>\n</tr>\n</table>\n</",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 981\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>31455</td>\n<td>Wünder, Jos., Elektr. Anl., Höchstetterstr. 19</td>\n</tr>\n<tr>\n<td>7566</td>\n<td>Wunderl, Mich., Blumen, Lange Gasse 25</td>\n</tr>\n<tr>\n<td>6284</td>\n<td>Wunsch, A., Kühl anl., Dominik.-Gasse 13</td>\n</tr>\n<tr>\n<td>6492</td>\n<td>Wunsch, Peter, Wäsch., Vord. Lech 10</td>\n</tr>\n<tr>\n<td>7689</td>\n<td>Wurm, Herm., Optik, Unter d. Bogen 2</td>\n</tr>\n<tr>\n<td>36168</td>\n<td>Wurm, Maria, Kol.-W., Anger 11</td>\n</tr>\n<tr>\n<td>8598</td>\n<td>Wurst, Karl, Schlosserei, Spenglerg. 33</td>\n</tr>\n<tr>\n<td>8747</td>\n<td>Wurst, Ludw., Schloss., Kath. Gasse 24</td>\n</tr>\n<tr>\n<td>7338</td>\n<td>Wurster, Dr. H., Ing.-Pilot, Rosenaustr. 60</td>\n</tr>\n<tr>\n<td>31385</td>\n<td>Zacherl, Anton, Kondit., Schönspr. Str. 1</td>\n</tr>\n<tr>\n<td>8249</td>\n<td>Zahler, Hans, Bäckerm., Mittl. Graben 8</td>\n</tr>\n<tr>\n<td>7638</td>\n<td>Zahler, Wilh., Kohlenvertr., Dammstr. 8</td>\n</tr>\n<tr>\n<td>4828</td>\n<td><b>Wilhelm Zahler GmbH, Kohlengroßhandlung, Schwimmschulstraße 9a</b></td>\n</tr>\n<tr>\n<td>7859</td>\n<td><b>Dieselbe, Gesellschafter F. Sauer</b></td>\n</tr>\n<tr>\n<td><b>SmI.-Nr.</b></td>\n<td><b>(Zahnräderfabrik Augsburg vorm. Joh. Renk (Act.-Ges.), Augsburg, Hindenburgstr. 73-79.</b></td>\n</tr>\n<tr>\n<td><b>5851</b></td>\n<td><b>(T Zahnräderfabrik P München 4091</b></td>\n</tr>\n<tr>\n<td>7678</td>\n<td>Zanker, Jacob, Install., Theres.-Str. 12</td>\n</tr>\n<tr>\n<td>5284</td>\n<td>Zanker, J., Schornsteinieg., Morellstr. 11</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 792 998 955\" data-label=\"Text\"><p><b>Ungsburg: Weissbach — Augustfeld</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 12 998 963\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>5408</td>\n<td>Zaß, Anton, Geschäftsf., Bahnhofstr. 12½</td>\n</tr>\n<tr>\n<td>5880</td>\n<td>Zauner, Otto, Ing., Neunkirchenstr. 10</td>\n</tr>\n<tr>\n<td>8884</td>\n<td>Joh. &amp; A. Zauper, Pflastergesch., Katzenst. 24</td>\n</tr>\n<tr>\n<td>8214</td>\n<td>Zech, Ant., Malermstr., Springergäßch. 6</td>\n</tr>\n<tr>\n<td>8714</td>\n<td>Zech, Eugen, Thommstr. 9½</td>\n</tr>\n<tr>\n<td>6898</td>\n<td>Zech, Karl, Obering., Ludwigstr. 28</td>\n</tr>\n<tr>\n<td>5564</td>\n<td>Zeeb, Gottl., Schneider, Schnarrbr. 4</td>\n</tr>\n<tr>\n<td>6676</td>\n<td>Zeh, Herm., Reformgesch., Maximil. Str. 35</td>\n</tr>\n<tr>\n<td>36497</td>\n<td>Zehrer, Fritz, Sänger, Augsb. Str. 1½</td>\n</tr>\n<tr>\n<td>5611</td>\n<td>Zeibig, Eduard, Vertr., Schülestr. 1.</td>\n</tr>\n<tr>\n<td>4525</td>\n<td>Zeiler, W., Café, Phil.-Welser-Str. 19</td>\n</tr>\n<tr>\n<td>8870</td>\n<td>Zeitler, Dr. Georg, Arzt, Kesselmarkt 4</td>\n</tr>\n<tr>\n<td>8341</td>\n<td>Zeitlmann, Rup., R.-A., Kesselm. 4</td>\n</tr>\n<tr>\n<td>4904</td>\n<td>Zeitner, K., Chem. Reinigung, Schmiedlech. 2</td>\n</tr>\n<tr>\n<td>36581</td>\n<td>Zeiträg, Wilh., Malermstr., Löwenstr. 6.</td>\n</tr>\n<tr>\n<td>31774</td>\n<td>Gebr. Zeller, Schuhhandl., Flurstr. 61</td>\n</tr>\n<tr>\n<td>31541</td>\n<td>Zeller, Ludw., Schuhfabrkt., Helmschmiedstr. 6</td>\n</tr>\n<tr>\n<td>8004</td>\n<td>Zeller, Seb., Vertr., Pettenk.-Str. 8b</td>\n</tr>\n<tr>\n<td>4967</td>\n<td>Zenger, Anna, Ww., Kaiserstr. 27</td>\n</tr>\n<tr>\n<td>5033</td>\n<td>Zenger, O., Betriebsleit., Hochfeldstr. 51</td>\n</tr>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>8441</td>\n<td>Zentralheizungsgesellschaft Nagel &amp; Paul,<br/>Kesterstr. 27</td>\n</tr>\n<tr>\n<td>7258</td>\n<td>Zenzs, Jos., Schneider, Vord. Lech 8</td>\n</tr>\n<tr>\n<td>8978</td>\n<td>Zettl, Mich., Baugeesch., Katzenstadcl 22</td>\n</tr>\n<tr>\n<td>8958</td>\n<td>Zettler, Gottfr., Bankrat, Pranthochstr. 3 1/4</td>\n</tr>\n<tr>\n<td>8785</td>\n<td>Zetzsche, Walter, Dr.-ing., Frölichstr. 12 1/2</td>\n</tr>\n<tr>\n<td>5652</td>\n<td rowspan=\"2\">Wilh. Zeuners Nachf. Friedrich Stärker K.G.,<br/>Eisenwarenfabrik, Verzinkerei, Blitzab-<br/>leiterartikel, Blechgroßhandlung, Klinker-<br/>torstr. 12. P München 819</td>\n</tr>\n<tr>\n<td>5653</td>\n</tr>\n<tr>\n<td>33286</td>\n<td>Ziegelei Augsb., A. Schwarz u. Co., Göggingen</td>\n</tr>\n<tr>\n<td>33208</td>\n<td>Ziegelei Hochfeld Weis &amp; Co., Göggingen</td>\n</tr>\n<tr>\n<td>33208</td>\n<td>Ziegelei Inningen, Gögg Hochfeldstr. 138 1/2</td>\n</tr>\n<tr>\n<td>33210</td>\n<td>Ziegelei Maurer, Göggingen</td>\n</tr>\n<tr>\n<td>33210</td>\n<td>Ziegelei Stadtbergen, Demharter, Morgante<br/>u. Schweiger, Sitz: Göggingen b. Augsburg,<br/>Hochfeldstr. 138 1/2 a</td>\n</tr>\n<tr>\n<td>7904</td>\n<td>Ziegler, Alf., Zuckerwr., Pfärrle 11</td>\n</tr>\n<tr>\n<td>7947</td>\n<td>Ziegler, August, Zahnatel., Maxim.Str. 15</td>\n</tr>\n<tr>\n<td>31954</td>\n<td>Ziegler, G., Gasthof, Gsth Augsb. Str.</td>\n</tr>\n<tr>\n<td>22220</td>\n<td>Ziegler H. Gartenbau Gögg Pfersseerstr. 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 984\" data-label=\"Table\">\n<table>\n<tr>\n<td>37124</td>\n<td>Ziegler, Heinrich, Lebewissn., Neidesur. 11</td>\n</tr>\n<tr>\n<td>31784</td>\n<td>Ziegler, Jos., Drog., Steppach, Ulm. Str. 20</td>\n</tr>\n<tr>\n<td>7293</td>\n<td>Ziegler, K., Fahrschule, Kl. Kathar. G. 1</td>\n</tr>\n<tr>\n<td>6213</td>\n<td>Ziegler, Karl, Schlosser, Morellstr. 19.</td>\n</tr>\n<tr>\n<td>4124</td>\n<td>Ziegler, Leo, Straßebau, K.-Wertachstr. 5</td>\n</tr>\n<tr>\n<td>5002</td>\n<td>Ziegler, Theodor, Vertr., Rosenaustr. 67</td>\n</tr>\n<tr>\n<td>6792</td>\n<td><b>Zientner, Johann, graph. Kunstanstalt u. Verlag, Etition vipermo, Hinter dem Schwalbenneck 13</b></td>\n</tr>\n<tr>\n<td>8194</td>\n<td>Zierhut, H., NS.-Bund Dtsch. Techn., Richt-<br/>hofenstraße 4</td>\n</tr>\n<tr>\n<td>5173</td>\n<td>Zierl, Karl, Baumstr., Malmedystr. 10</td>\n</tr>\n<tr>\n<td>8587</td>\n<td>Zigarr.-, Zigaretten.-Vertrieb Ziluda, Steing. 10</td>\n</tr>\n<tr>\n<td>4620</td>\n<td>Ziller, App &amp; Co. oH, Garne, M. Lech 42</td>\n</tr>\n<tr>\n<td>37166</td>\n<td>Zimmer, Karl, Vertr., Brentanostr. 8</td>\n</tr>\n<tr>\n<td>4503</td>\n<td>Zimmerly, H., Install., Oblatterwallstr. 48b</td>\n</tr>\n<tr>\n<td>4637</td>\n<td>Zimmermann, Adolf, Sprachinst., Maximi-<br/>lianstraße 50</td>\n</tr>\n<tr>\n<td>6016</td>\n<td>Zimmermann, A. E., Volksw., Georgenstr. 24</td>\n</tr>\n<tr>\n<td>33159</td>\n<td>Zimmermann, A., Viehhdlr., Bergheim 26</td>\n</tr>\n<tr>\n<td>6737</td>\n<td>Zimmermann, G., Dr.-Ing., Neunk. Str. 15</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>6323</td>\n<td>Zimmermann, Jos., Seilerwr., Mauerb. 4</td>\n</tr>\n<tr>\n<td>6393</td>\n<td>Zimmermann, J., Bäck., Burgfr.-Str. 15</td>\n</tr>\n<tr>\n<td>4560</td>\n<td>Zimmermann, K., Textilwr., Steingasse 7</td>\n</tr>\n<tr>\n<td>31102</td>\n<td>Zimmermann, M., Elektr. Anl., Täfertingen</td>\n</tr>\n<tr>\n<td>6547</td>\n<td>Zimmermann, Mich., Maler, Singerstr. 14</td>\n</tr>\n<tr>\n<td>36330</td>\n<td>Zimmermann, Otto, Metzgerei, Leitershofen</td>\n</tr>\n<tr>\n<td>8038</td>\n<td>W. &amp; F. Zimmermann, Elektr. Anl., Annastr. 23</td>\n</tr>\n<tr>\n<td>36104</td>\n<td>Zink, Leo, Zimmermstr., Hessenbachstr. 27</td>\n</tr>\n<tr>\n<td>8503</td>\n<td>Zink, Max, Dentist, Steingasse 13</td>\n</tr>\n<tr>\n<td>5978</td>\n<td>Zinsmeister, Elis., Geschäftsführerin, Maxim.-<br/>Straße 57</td>\n</tr>\n<tr>\n<td>7547</td>\n<td>Zinsmeister, Gg., Zuckerwr., Quergäßch. 1</td>\n</tr>\n<tr>\n<td>31258</td>\n<td>Zinsmeister Joh., Farben, Donauw. Str. 19</td>\n</tr>\n<tr>\n<td>6913</td>\n<td>Zinsmeister, Max, Bäcker, Singerstr. 8.</td>\n</tr>\n<tr>\n<td>4062</td>\n<td>Zinsmeister, Otto, Kol. W., Bäckergasse 8</td>\n</tr>\n<tr>\n<td>33201</td>\n<td>Zinth, Franz, Malerm., Gögg Radaustr. 10</td>\n</tr>\n<tr>\n<td>36561</td>\n<td>Zintner, Rich., Hauptm., Am grasigen Weg 4</td>\n</tr>\n<tr>\n<td>6680</td>\n<td>Ziolkowsky, Paula, Verleg., Welser Str. 4</td>\n</tr>\n<tr>\n<td>7625</td>\n<td>Ziolkowsky, Dr. R., Verlagsl., Hermanstr. 21</td>\n</tr>\n<tr>\n<td>7818</td>\n<td>Zippich, J., Schokolade, Steingasse 4</td>\n</tr>\n<tr>\n<td>7229</td>\n<td>Zohal Anna Dir. Rohranenstr. 9</td>\n</tr>\n</tbody",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 972\" data-label=\"Table\">\n<table>\n<tr>\n<td>7120</td>\n<td>Zölls, Adolf, Bz. Verw., Franthochstr. 8</td>\n</tr>\n<tr>\n<td>8833</td>\n<td>W. u. O. Zöpfl, Autolackier., Wörthstr. 4</td>\n</tr>\n<tr>\n<td>7640</td>\n<td>Zollitsch, L., Lederwr., Maximilianstr. 19</td>\n</tr>\n<tr>\n<td>8387</td>\n<td><b>Zollnecker, Ganoveva, Buchbinderei, Klinkertorstraße 13</b></td>\n</tr>\n<tr>\n<td>31528</td>\n<td>Zorn, Dr. H., Chem. Erz., Reinöhlstr. 33</td>\n</tr>\n<tr>\n<td>8181</td>\n<td>Zorn, Max, Lagervertr., Oblatterwallstr. 22</td>\n</tr>\n<tr>\n<td>7853</td>\n<td>Zott, Hans, Prokur., Volkhardtstr. 14</td>\n</tr>\n<tr>\n<td>8687</td>\n<td><b>Zuber, Fritz, Holzgroßhandelsmakler u. Holzgroßhandlung, Thommstr. 9½</b></td>\n</tr>\n<tr>\n<td>8825</td>\n<td>Zugfriegel, Hans, Bäcker, Elsenbornstr. 5</td>\n</tr>\n<tr>\n<td>7168</td>\n<td>Zumstein, Ant., Textilw., Maxim. Str. 16</td>\n</tr>\n<tr>\n<td>31526</td>\n<td>Zunhammer, A., Schloss., Schallerstr. 17</td>\n</tr>\n<tr>\n<td>33291</td>\n<td>Zwirnerei &amp; Nähfadenfabrik Göggingen</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Augustdorf (Lippe) [Westf.]",
+        "entries": [
+          {
+            "extension": "24",
+            "text": "Anstalt Bethel, Hermannsheide"
+          },
+          {
+            "extension": "51",
+            "text": "Baubüro Lopshorn"
+          },
+          {
+            "extension": "12",
+            "text": "Bent, Aug., Schlachterei, Nr. 158."
+          },
+          {
+            "extension": "10",
+            "text": "Bent, Fr., Herrenmoden, Augustdorf 161"
+          },
+          {
+            "extension": "27",
+            "text": "Böger, Fritz"
+          },
+          {
+            "extension": "38",
+            "text": "Derselbe, Kalkwerk, Dörenschlucht"
+          },
+          {
+            "extension": "28",
+            "text": "Böger, Herm., Kolonialvr., Nr. 227"
+          },
+          {
+            "extension": "54",
+            "text": "Brackemann u. Co., Pivitsheide V. L. 134"
+          },
+          {
+            "extension": "60",
+            "text": "Bruelhelde, Gustav, Zementwarenfr., Nr. 176"
+          },
+          {
+            "extension": "65",
+            "text": "Büker, Fr., Sägewerk."
+          },
+          {
+            "extension": "64",
+            "text": "C. A. Delius &amp; Söhne, Weberei."
+          },
+          {
+            "extension": "53",
+            "text": "Dörenkrug—Habermann"
+          },
+          {
+            "extension": "15",
+            "text": "Ebert jr., Heinrich, Ziegeleibesitzer"
+          },
+          {
+            "extension": "40",
+            "text": "Erdbrink, Friedr., Kantine 2, Übungslager"
+          },
+          {
+            "extension": "43",
+            "text": "Gendarmerieposten, Oberwchtm. Strohmeier"
+          },
+          {
+            "extension": "44",
+            "text": "Gendarm.-Posten, Oberwchtm. Rauhut"
+          },
+          {
+            "extension": "23",
+            "text": "Gräser, Karl, Bäckerei, Nr. 146"
+          },
+          {
+            "extension": "13",
+            "text": "Hagemann, Gottlieb, Nr. 32"
+          },
+          {
+            "extension": "68",
+            "text": "Hagemann, Hermann, Landwirt, Nr. 37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 999 533\" data-label=\"Text\"><table border=\"1\"><tr><td>35</td><td>Heeresrevierförsterei Augustdorf</td></tr><tr><td>34</td><td>Heistermann, Fritz, Fuhrgesch., Nr. 27</td></tr><tr><td>59</td><td>Heistermann, Herm., Kohlen, Nr. 24</td></tr><tr><td>18</td><td>Heistermann, W., Kol.-W., Lohndrescherei</td></tr><tr><td>17</td><td>Heitbrink, August, Kol.-W., Nr. 144</td></tr></table></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 787 358 954\" data-label=\"Text\"><p><b>un: Reichspost</b></p></div><div data-bbox=\"527 787 800 954\" data-label=\"Text\"><p><b>(Band I) 123</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 12 784 993\" data-label=\"List-Group\"><ul><li>46 Hofmeister, Wilh., Baugesch., Nr. 286</li><li>63 Humann, Herm., Landwirt, Stukenbrock.</li><li>26 Kanne, Heinrich, Schuhgeschäft, Nr. 187</li><li>61 Kipshagen, Bauer, Stukenbrock 131</li><li>25 Köster, Hermann, Schlosserei, Nr. 153</li><li>55 Kommandantur Truppenübungsplatz Sennc</li><li>69 Kronshage, Heinr., Landwirt Nr. 61.</li><li>67 Kronshage, Herm., Landwirt, Nr. 197.</li><li>33 Krumme, Rob., Gasthof, Nr. 91</li><li>66 Kuhlmann, Ww. L., Meierei, Lopshorn.</li><li>50 Lübbecke, Herm., Möbelwerkstätte</li><li>49 Meier, A., Fuhrgesch., Pivitsheide V. L. Nr. 139</li><li>42 Möller, Fritz, Kies, Pivitsheide V. L. 99</li><li>71 Moshage, Landwirt, Nr. 54.</li><li>16 Multhaupt, Ludw., Kol.-W., Gasthof</li><li>31 Peters, Heinr., Fuhrgesch., Nr. 213</li><li>36 Pfarramt, evang.-reform.</li><li>32 Pollmann, Heinrich, Gasthof</li><li>29 Rehm, Wilh., Malernstr., Nr. 174</li><li>20 Reichspost</li><li>37 Revierförsterel (Fürster Nebelsiek)</li><li>no ...- ...- ... Pivitsheide</li></ul></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 760 960\" data-label=\"List-Group\"><ul><li>70 Rubart, Gustav, Kohlen, Nr. 22</li><li>52 Schullandheim Alte Mühle</li><li>19 Voß, Karl, Herren- u. Damenmoden, Nr. 162</li><li>62 Welschhof, Gut Stukenbrock.</li><li>14 Wiedey, Heinr., Autovermietung</li><li>47 Wieneke, Willi, Eisenwr.</li><li>39 Wisabrok, Fritz, Bäckerei</li><li>45 Wistinghausen, Heinrich, Polsterei</li></ul></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Augustfehn (oldb.)",
+        "entries": [
+          {
+            "extension": "89",
+            "text": "Achtermann, Arnold, Klempnerel"
+          },
+          {
+            "extension": "105",
+            "text": "Achtermann, Gustav, Autovermietung"
+          },
+          {
+            "extension": "21",
+            "text": "Apener Bank, eGmbH, Apen"
+          },
+          {
+            "extension": "91",
+            "text": "Apotheke Augustfehn, Inh.: H. Ibbeken"
+          },
+          {
+            "extension": "3",
+            "text": "Arnscheid, Fritz, Handelsvertr., Apen"
+          },
+          {
+            "extension": "57",
+            "text": "Barre, Hans, NSDAP-Verkehrslokal"
+          },
+          {
+            "extension": "61",
+            "text": "Behmann, Herm., Bäckermstr., Hollen"
+          },
+          {
+            "extension": "66",
+            "text": "Berlinius, Elim., Dampfbäckerei"
+          },
+          {
+            "extension": "82",
+            "text": "Bley, Tischlermstr., Südgeorgsfehner Str."
+          },
+          {
+            "extension": "15",
+            "text": "Böhlje, Fr., Müller, Hengstforde"
+          },
+          {
+            "extension": "119",
+            "text": "Boekhoff, Theodor, Manuf.-W., Hollen"
+          },
+          {
+            "extension": "54",
+            "text": "Boekhoven, Joh., Kfm., Südgeorgsfehner Str."
+          },
+          {
+            "extension": "101",
+            "text": "Borchers, Georg, Baugeschäft"
+          },
+          {
+            "extension": "22",
+            "text": "Bremer, Georg, Gastwirt, Aperberg"
+          },
+          {
+            "extension": "50",
+            "text": "Brüggemann, Alwin, Augustfehnerhof"
+          },
+          {
+            "extension": "117",
+            "text": "Brumund, Heinrich, Fahrzeugbau"
+          },
+          {
+            "extension": "62",
+            "text": "Bruns, Emil, Gastwirt"
+          },
+          {
+            "extension": "34",
+            "text": "Gebr. Bruns, Haushaltart."
+          },
+          {
+            "extension": "118",
+            "text": "Bruns, Wilhelm, Fahrzeuge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 787 996\" data-label=\"Text\"><p>28 Buschmann, Gerhard, Malermstr.<br/>13 Detering, Heinr., Versicher., Apen<br/>20 Eierverkaufsgen. f. Gemeinde Apen u. Umg.<br/>56 Eilers, Diedrich, Gasthof, Apen<br/>107 Eilers, Gust., Bürgermstr., Apen<br/>67 Eilers, Hermann, Möbel<br/>38 Farm, Siems, Inh. Sielmann, Apen<br/>10 Fiedler, Fritz, Gastwirt, Apen<br/>37 Fleischwr.- u. Konservenfbr. Apen, Inh. Joh.<br/>Siems, Apen<br/>74 Fromberg, Otto, Fleischwarenfabrik<br/>52 Gaswerk Augustfehn<br/>81 Gemeindevorsteher Apen<br/>108 Gendarmeriestandort Apen<br/>39 Derselbe, Augustfehn<br/>90 Gerken, Otto, Bauer, Hengstforde<br/>25 Gersema, Joh., Bier- u. Weinhdg<br/>110 Goldenstein, B., Mühle, Südgeorgsfehn<br/>131 Goldenstein, H., Konstrukteur<br/>16 Hafer, Diedr., Gastw., Südgeorgsfehn<br/>110 <del>der</del> <del>Wachere</del> <del>Publ</del> Müller Anonstfehn</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 782 988\" data-label=\"Text\"><p>79 Hecmers, Georg, Landwirt, Apen<br/>84 Hilfers, Johann, Landwirt<br/>14 Hinrichs, Carl, Masch., Eisenwr.<br/>113 Hinrichs, Hans, Kfm., Apen<br/>88 Hinrichs, Paul, Kurzwir.<br/>18 Hinrichs Söhne, J. H., Viehandlung, Apen<br/>42 Hörisch, Joh., Gasth. „Zur Mühle“<br/>55 Janssen, Heinrich, Schlachtereie<br/>92 Janßen, Tamme, Schuhwaren, Apen<br/>28 Jensen, T. E.<br/>127 Jürgens, E., Bürgermstr., Südgeorgsfehn<br/>128 Junior, Ad., Handelsbevollm., Mühlenstr.<br/>33 Kahlen, Willy, Malerinstr.<br/>53 Kampen, Harrbert, Schmiedem., Hollen<br/>19 Kautscher, Gerhard, Schützenhof<br/>94 zu Klampen, Wilh., Gastwirt, Apen<br/>6 Kramer &amp; Bruns, Landesprodukte<br/>194 Kuhlmann, Gg., Kaufm., Vreschen-Bokel<br/>51 Kurtz, Tönjes, Landw. Sparkasse, Hollen<br/>12 Landes-Elektrizitätsverb. Oldenburg<br/>60 Landw. Bezugs-genossenschaft, GmBH, Apen,</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"108 0 196 25\" data-label=\"Page-Header\">LW 501</div><div data-bbox=\"0 18 781 974\" data-label=\"List-Group\"><p>98 Lassen, Heinr., Buchdruckerei<br/>35 Leonhards, Theod.<br/>68 Lüers, Friedr., Baumstr., Apen<br/>2 Marine-Ausweichlager Augustfehn<br/>23 Martens, Bäcker, Apen<br/>58 Meyer, D., Kaufm., Apen<br/>106 Meyer, Friedr. Wilhelm, Räucherel, Apen<br/>130 Meyer, Wilh., Lehrer, Apen, Osterend. Str. 178<br/>104 Meyrose, Carl, Vertr., Westerstede<br/>80 Möhlmann, Joh., Bauunternehmer, Bokel<br/>109 Molkerei Hollen<br/>115 Molkereigenossenschaft GmbH, Apen<br/>31 Mundt, C. W., Gärtnerei, Apen<br/>59 Mumme, Eilert, Viehhdlg., Vreschen-Bokel<br/>100 Müller, Paul Alfred, Direktor<br/>49 Neuhaus, Georg, Fahrzeuge, Apen<br/>40 Niemann, Arzt<br/>135 Niemann, D., Straßenbau, Vreschen-Bokel,<br/>Hauptstr. 42<br/>11 Ohmstede, Hinrich, Versicherung</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 675 712\" data-label=\"Text\"><p>45 Orth, Fritz, Textilwaren<br/>36 Orth, Georg, Kunstdünger, Apen<br/>5 Orth, Wilhelm, Kaufmann<br/>64 Pastorei, Apen<br/>102 Pastorei Hollen (Ostfrld.)<br/>116 Peters, Hrn., Baugesch., Apen<br/>30 Plagge, H., Holzhdig., Apen<br/>8 Reichsbahn, Bhf. Augustfehn<br/>9 Reichsbahn, Bhf. Apen<br/>196 Reichspost, Zweigpostamt Apen<br/>186 Reichspost, Zweigpostamt Augustfehn</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

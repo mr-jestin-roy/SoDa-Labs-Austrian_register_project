@@ -1,0 +1,926 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 10 998 981\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>93 78 28</td>\n<td>Mütsam, Gloria, Schausp., Chb 5 Gustloff<br/>straße 11</td>\n</tr>\n<tr>\n<td>97 42 72</td>\n<td>Mütterheim, Grw Gneiststr. 10</td>\n</tr>\n<tr>\n<td>76 19 44</td>\n<td>Mütze, Aug., Dir., Lt/ Gardesch.W. 117</td>\n</tr>\n<tr>\n<td>19 15 62</td>\n<td>Mütze, Dr. H., RA, SW 11, Bernb.Str. 13</td>\n</tr>\n<tr>\n<td>42 87 11</td>\n<td>Mützel, Gertr., Lott., NW7, Friedr.-Str. 121</td>\n</tr>\n<tr>\n<td>79 29 91</td>\n<td>Mützel, Gertr., Stegl Birkbuschg. 15</td>\n</tr>\n<tr>\n<td>26 37 02</td>\n<td>Mützel, Gertrud, W 30, Barbarossastr. 38</td>\n</tr>\n<tr>\n<td>37 67 62</td>\n<td>Mützel, G., Dent., Spd Gartenf.Str. 110</td>\n</tr>\n<tr>\n<td>50 75 26</td>\n<td>Mützel, Gust., Landw., -Marzahn, Landsb<br/>Chaussee 6</td>\n</tr>\n<tr>\n<td>83 38 88</td>\n<td>Mützel, Ther., Moden, Frdn Fehlerstr. 4</td>\n</tr>\n<tr>\n<td>91 03 92</td>\n<td>Mützel. W., Feink., W 15, Ludw.-Str. 14</td>\n</tr>\n<tr>\n<td>34 74 84</td>\n<td>Mützelburg, Ad., Musiker, Chb Tegel.W. 97</td>\n</tr>\n<tr>\n<td>27 24 01</td>\n<td>Mützelburg, Bernhard, Jazz-Instrumente<br/>W 62, Kleiststr. 37</td>\n</tr>\n<tr>\n<td>97 32 23</td>\n<td>Ders, Wohn., Grw Königsall. 21b</td>\n</tr>\n<tr>\n<td>68 10 83</td>\n<td>Mützelburg, H., Reg.Rat, SO 36, T.-Park 17</td>\n</tr>\n<tr>\n<td>26 38 55</td>\n<td>Mützelburg, Johannes, Reg.Baurat, Schl<br/>Barbarossastr. 25</td>\n</tr>\n<tr>\n<td>42 76 86</td>\n<td>Mützelburg, Max, Töpfermstr., N 4, Acker-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 9 998 994\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>30 82 29</td>\n<td>Mützell, Ernst, Dachdeck., <i>Hlgsee</i> Rup-<br/>piner Chaussee 197</td>\n</tr>\n<tr>\n<td>35 16 27</td>\n<td>Mützlitz, F., Sped., <i>Plötz</i> Saatw. D. 40</td>\n</tr>\n<tr>\n<td>73 40 49</td>\n<td>Mützlitz, Max, <i>Lkw</i> Dürkheimer Str. 16</td>\n</tr>\n<tr>\n<td>72 41 21</td>\n<td>Muffey, Wern. <i>Stegl</i> Björnsonstr. 30</td>\n</tr>\n<tr>\n<td>49 12 38</td>\n<td>Mugele, C., Zigarr., <i>ReiO</i>, Provinzstr. 48</td>\n</tr>\n<tr>\n<td>27 39 85</td>\n<td>Muggelberg, Charlotte, Angest., W 30,<br/>Barbar.Str. 63</td>\n</tr>\n<tr>\n<td>26 31 21</td>\n<td>Muggelberg, Helmut, Kfm., W 30, Barba-<br/>rossastr. 57</td>\n</tr>\n<tr>\n<td>50 53 72</td>\n<td>Muggelberg, Wilh., Bauführ., <i>Hschö</i><br/>Strausb. Str. 26</td>\n</tr>\n<tr>\n<td>34 08 19</td>\n<td>Muggenthaler, Ferdinand, Dipl.-Ing., <i>Siem</i><br/>Goebelstr. 118</td>\n</tr>\n<tr>\n<td>99 06 87</td>\n<td>Mugler, Amalie, <i>Chb</i> 9 Leist.-Str. 4</td>\n</tr>\n<tr>\n<td>16 05 35</td>\n<td>Muh, K., D.-Bekl., W 8, Friedr.Str. 59</td>\n</tr>\n<tr>\n<td>(52 32 64)</td>\n<td>Ders., Wohn., NO 18, Büschingstr. 35</td>\n</tr>\n<tr>\n<td>46 31 12</td>\n<td>Muhl, B., Tapet., N 65, Chausseestr. 77</td>\n</tr>\n<tr>\n<td>97 52 80</td>\n<td>Muhl, Edmund, Kfm., <i>Hal</i> Westf.Str. 51</td>\n</tr>\n<tr>\n<td>76 33 93</td>\n<td>Muhl, Elli, Prok., <i>Ll/</i> Hortens.Str. 4</td>\n</tr>\n<tr>\n<td>42 94 24</td>\n<td>Muhl Fritz <i>Ino</i> N 4 Kranenirstr 24</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "19",
+            "text": "12"
+          },
+          {
+            "extension": "87",
+            "text": "85"
+          },
+          {
+            "extension": "64",
+            "text": "70"
+          },
+          {
+            "extension": "34",
+            "text": "48"
+          },
+          {
+            "extension": "31",
+            "text": "66"
+          },
+          {
+            "extension": "31",
+            "text": "43"
+          },
+          {
+            "extension": "62",
+            "text": "63"
+          },
+          {
+            "extension": "73",
+            "text": "04"
+          },
+          {
+            "extension": "66",
+            "text": "48"
+          },
+          {
+            "extension": "25",
+            "text": "78"
+          },
+          {
+            "extension": "39",
+            "text": "27"
+          },
+          {
+            "extension": "30",
+            "text": "48"
+          },
+          {
+            "extension": "37",
+            "text": "55"
+          },
+          {
+            "extension": "87",
+            "text": "34"
+          },
+          {
+            "extension": "93",
+            "text": "53"
+          },
+          {
+            "extension": "19",
+            "text": "40"
+          },
+          {
+            "extension": "58",
+            "text": "35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 0 992 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>W</th>\n<th>U</th>\n<th>U</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"207 0 991 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>65 98 73</td>\n<td>Mukrosch, Fritz, Kfm.,</td>\n<td>Schulz Telt Eichw.-<br/>Straße 22</td>\n</tr>\n<tr>\n<td>87 62 12</td>\n<td>Mulach, Herb., Insp.,</td>\n<td>Wilm Babelsb. Str. 8</td>\n</tr>\n<tr>\n<td>50 78 37</td>\n<td>Mulack, Adolf,</td>\n<td>Misd Münsterb. Str. 135</td>\n</tr>\n<tr>\n<td>58 07 14</td>\n<td>Mulack, A., Mal.,</td>\n<td>O 112, Grünb. Str. 86</td>\n</tr>\n<tr>\n<td>48 65 06</td>\n<td>Mulack, F., Fische,</td>\n<td>Pko Gaillardstr. 3</td>\n</tr>\n<tr>\n<td>64 12 08</td>\n<td>Mulack, Gustav,</td>\n<td>Gastst., Köp Kietz 24</td>\n</tr>\n<tr>\n<td>75 41 28</td>\n<td>Mulack, J., Zimmerm.,</td>\n<td>Ad Kurf.-Str. 28</td>\n</tr>\n<tr>\n<td>63 85 52</td>\n<td>Mulack, Otto, Funrw.,</td>\n<td>AGlie Rud.Str. 57</td>\n</tr>\n<tr>\n<td>62 47 26</td>\n<td>Mulack, Rich., Kfm.,</td>\n<td>Neuk Richardpl. 12</td>\n</tr>\n<tr>\n<td>55 07 10</td>\n<td>Mulack, Walter,</td>\n<td>Frde Miquelstr. 10</td>\n</tr>\n<tr>\n<td>(51 19 98)</td>\n<td>Mulack &amp; Bülow,</td>\n<td>Ideal-Fräserfellen, C 2,<br/>Heiligegeiststr. 13</td>\n</tr>\n<tr>\n<td>68 07 80</td>\n<td>Mularczyk, Leo,</td>\n<td>Kolonialwr., Trept Kief-<br/>holzstr. 338</td>\n</tr>\n<tr>\n<td>37 73 43</td>\n<td>Muleit, Karl,</td>\n<td>Fuhrw., Staa Str. 20 Nr. 18</td>\n</tr>\n<tr>\n<td>83 10 85</td>\n<td>Mulert, Anna, Frau,</td>\n<td>Frdn Stub.Str. 17</td>\n</tr>\n<tr>\n<td>84 39 24</td>\n<td>Mulert, Dr. Botho,</td>\n<td>Min.-Dirig., Schlsee<br/>Span. All. 68</td>\n</tr>\n<tr>\n<td>83 47 10</td>\n<td>Muleit, Gertrud,</td>\n<td>Wilm Rüdesh. Pl. 9</td>\n</tr>\n<tr>\n<td>86 07 64</td>\n<td>Mulert, Marie,</td>\n<td>Wilm Hohenz.-Damm 15</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"201 0 987 975\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>STADT</th>\n<th>PLZ</th>\n<th>ORT</th>\n<th>BERUF</th>\n<th>TELEFON-NR.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>84 26 08</td>\n<td>Mulertt, E.</td>\n<td>Maler</td>\n<td>Zehl Stammbahn</td>\n<td>163</td>\n</tr>\n<tr>\n<td>51 15 68</td>\n<td>Multinger, Hans</td>\n<td>Techn.</td>\n<td>C2, Frankf. Str.</td>\n<td>15</td>\n</tr>\n<tr>\n<td>31 89 77</td>\n<td>Mulfinger, Wilh.</td>\n<td>Nähmasch.</td>\n<td>Chb</td>\n<td>4</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Kantstr.</td>\n<td>65</td>\n<td></td>\n</tr>\n<tr>\n<td>46 25 31</td>\n<td>Ders., Wohn., N</td>\n<td>65</td>\n<td>Rein. Str.</td>\n<td>34</td>\n</tr>\n<tr>\n<td>49 44 53</td>\n<td>Mulitze, G.</td>\n<td>Vertr.</td>\n<td>ReiO Seestr.</td>\n<td>7b</td>\n</tr>\n<tr>\n<td>63 06 09</td>\n<td>Mulitze, O.</td>\n<td>Vertr.</td>\n<td>Obw Wuhlheide</td>\n<td>78</td>\n</tr>\n<tr>\n<td>45 20 53</td>\n<td>Mulkow, F.</td>\n<td>D.-Bekl.</td>\n<td>N 31, Vinetapl.</td>\n<td>3</td>\n</tr>\n<tr>\n<td>22 56 15</td>\n<td>Mull, G.</td>\n<td>Radio</td>\n<td>W 35, Ludend.-Str.</td>\n<td>74</td>\n</tr>\n<tr>\n<td>59 03 76</td>\n<td>Mulli, Kurt</td>\n<td>Dr.</td>\n<td>NO 18, Landsh.</td>\n<td>A. 39</td>\n</tr>\n<tr>\n<td>87 47 38</td>\n<td>Mulling, Alice</td>\n<td>Wilm</td>\n<td>Schoelerpark</td>\n<td>3</td>\n</tr>\n<tr>\n<td>88 27 83</td>\n<td colspan=\"4\"><b>Multiplex,</b></td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"4\"><b>Apparatebau Alfred C. Becker,</b></td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"4\"><b>Berlin SO 36, Köpenicker Straße 152</b></td>\n</tr>\n<tr>\n<td>87 08 26</td>\n<td>Multiprint, Bürom.</td>\n<td>Wilm</td>\n<td>Uhlandstr.</td>\n<td>125</td>\n</tr>\n<tr>\n<td>44 51 43</td>\n<td>Mulz, Wenzel</td>\n<td>Pko</td>\n<td>Neumanstr.</td>\n<td>117</td>\n</tr>\n<tr>\n<td>79 58 56</td>\n<td>Mulzer, Georg</td>\n<td>Stegl</td>\n<td>Filandastr.</td>\n<td>14</td>\n</tr>\n<tr>\n<td>59 53 15</td>\n<td>Mulzof, Max</td>\n<td>Fensterreinig.</td>\n<td>NO 18, Weber-</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>straße</td>\n<td>15a</td>\n<td></td>\n</tr>\n<tr>\n<td>50 46 15</td>\n<td>Mulzoff, A.</td>\n<td>Schneid.</td>\n<td>Lbg Hoh. Str.</td>\n<td>47</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "und 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "52",
+            "text": "38"
+          },
+          {
+            "extension": "32",
+            "text": "39"
+          },
+          {
+            "extension": "68",
+            "text": "74"
+          },
+          {
+            "extension": "58",
+            "text": "84"
+          },
+          {
+            "extension": "31",
+            "text": "41"
+          },
+          {
+            "extension": "79",
+            "text": "37"
+          },
+          {
+            "extension": "87",
+            "text": "54"
+          },
+          {
+            "extension": "44",
+            "text": "77"
+          },
+          {
+            "extension": "87",
+            "text": "84"
+          },
+          {
+            "extension": "79",
+            "text": "52"
+          },
+          {
+            "extension": "72",
+            "text": "28"
+          },
+          {
+            "extension": "32",
+            "text": "12"
+          },
+          {
+            "extension": "92",
+            "text": "15"
+          },
+          {
+            "extension": "31",
+            "text": "03"
+          },
+          {
+            "extension": "37",
+            "text": "59"
+          },
+          {
+            "extension": "21",
+            "text": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "57",
+            "text": "27"
+          },
+          {
+            "extension": "26",
+            "text": "26"
+          },
+          {
+            "extension": "75",
+            "text": "16"
+          },
+          {
+            "extension": "50",
+            "text": "93"
+          },
+          {
+            "extension": "59",
+            "text": "61"
+          },
+          {
+            "extension": "46",
+            "text": "67"
+          },
+          {
+            "extension": "21",
+            "text": "28"
+          },
+          {
+            "extension": "50",
+            "text": "09"
+          },
+          {
+            "extension": "19",
+            "text": "75"
+          },
+          {
+            "extension": "87",
+            "text": "41"
+          },
+          {
+            "extension": "25",
+            "text": "86"
+          },
+          {
+            "extension": "75",
+            "text": "86"
+          },
+          {
+            "extension": "49",
+            "text": "58"
+          },
+          {
+            "extension": "63",
+            "text": "26"
+          },
+          {
+            "extension": "47",
+            "text": "07"
+          },
+          {
+            "extension": "71",
+            "text": "98"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "35",
+            "text": "58"
+          },
+          {
+            "extension": "59",
+            "text": "04"
+          },
+          {
+            "extension": "50",
+            "text": "75"
+          },
+          {
+            "extension": "97",
+            "text": "47"
+          },
+          {
+            "extension": "45",
+            "text": "04"
+          },
+          {
+            "extension": "50",
+            "text": "89"
+          },
+          {
+            "extension": "45",
+            "text": "18"
+          },
+          {
+            "extension": "68",
+            "text": "64"
+          },
+          {
+            "extension": "66",
+            "text": "78"
+          },
+          {
+            "extension": "53",
+            "text": "53"
+          },
+          {
+            "extension": "97",
+            "text": "85"
+          },
+          {
+            "extension": "71",
+            "text": "79"
+          },
+          {
+            "extension": "74",
+            "text": "02"
+          },
+          {
+            "extension": "92",
+            "text": "47"
+          },
+          {
+            "extension": "48",
+            "text": "11"
+          },
+          {
+            "extension": "68",
+            "text": "20"
+          },
+          {
+            "extension": "27",
+            "text": "22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "straße 36",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Weg 75",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin: Mütsa",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 11 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>31 97 04</td>\n<td>Mundt, Ernst, <i>Chb</i> 2 Schlüterstr. 79</td>\n</tr>\n<tr>\n<td>49 09 14</td>\n<td>Mundt, Erwin, Milch, <i>ReiW</i> Scharnweberstraße 34 a</td>\n</tr>\n<tr>\n<td>64 61 86</td>\n<td>Mundt, F., Install., <i>Frhg</i> Friedr.-Str. 85</td>\n</tr>\n<tr>\n<td>59 35 04</td>\n<td>Mundt, Franziska, C 2, Blumenstr. 3</td>\n</tr>\n<tr>\n<td>96 35 28</td>\n<td>Mundt, Frida, <i>Hal</i> Halberst. Str. 2</td>\n</tr>\n<tr>\n<td>71 89 63</td>\n<td>Mundt, Dr. Friedrich, Min.-Rat, <i>Schb</i> Nymphenb. Str. 4</td>\n</tr>\n<tr>\n<td>30 93 97</td>\n<td>Mundt, Fritz, Gartenbau, <i>Witt</i> Sangestr. 9</td>\n</tr>\n<tr>\n<td>19 06 23</td>\n<td>Mundt, G., Säng., SW 11, Hall. Ufer 10</td>\n</tr>\n<tr>\n<td>87 84 47</td>\n<td>Mundt, Gerhard, <i>Wilm</i> Babelsb. Str. 50</td>\n</tr>\n<tr>\n<td>48 55 04</td>\n<td>Mundt, Günther, <i>Pko</i> Brändst. Str. 22</td>\n</tr>\n<tr>\n<td>26 47 03</td>\n<td>Mundt, Heinr., W 30, Bamberger Str. 39</td>\n</tr>\n<tr>\n<td>87 19 75</td>\n<td>Mundt, Heinz, Kürschn, <i>Wilm</i> Berliner Straße 146</td>\n</tr>\n<tr>\n<td>71 05 34</td>\n<td>Mundt, Herb., Droschkenbetr., <i>Schb</i> Ebersstr. 36</td>\n</tr>\n<tr>\n<td>72 18 76</td>\n<td>Mundt, H., Schneid., <i>Stegl</i> Schöneb. Str. 7</td>\n</tr>\n<tr>\n<td>75 85 34</td>\n<td>Mundt, J., Elektrot., <i>Tmp</i> Attilastr. 11</td>\n</tr>\n<tr>\n<td>71 47 58</td>\n<td>Mundt, J., Elektrom., <i>Schb</i> Eisen. Str. 61</td>\n</tr>\n<tr>\n<td>65 99 82</td>\n<td>Mundt, Karl, Ing., <i>Eichw</i> Gos. Str. 5</td>\n</tr>\n<tr>\n<td>04 41 01</td>\n<td>Mundt, ...</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "53",
+            "text": "10"
+          },
+          {
+            "extension": "71",
+            "text": "99"
+          },
+          {
+            "extension": "75",
+            "text": "27"
+          },
+          {
+            "extension": "71",
+            "text": "51"
+          },
+          {
+            "extension": "65",
+            "text": "55"
+          },
+          {
+            "extension": "46",
+            "text": "68"
+          },
+          {
+            "extension": "84",
+            "text": "49"
+          },
+          {
+            "extension": "73",
+            "text": "90"
+          },
+          {
+            "extension": "56",
+            "text": "34"
+          },
+          {
+            "extension": "21",
+            "text": "42"
+          },
+          {
+            "extension": "52",
+            "text": "13"
+          },
+          {
+            "extension": "19",
+            "text": "40"
+          },
+          {
+            "extension": "72",
+            "text": "76"
+          },
+          {
+            "extension": "52",
+            "text": "39"
+          },
+          {
+            "extension": "86",
+            "text": "59"
+          },
+          {
+            "extension": "34",
+            "text": "32"
+          },
+          {
+            "extension": "48",
+            "text": "01"
+          },
+          {
+            "extension": "67",
+            "text": "29"
+          },
+          {
+            "extension": "90",
+            "text": "91"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 988 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>24 45 70</td>\n<td>Mundt-Odle, L., Ww., W 50, Nürnbg.P. 4</td>\n</tr>\n<tr>\n<td>79 64 37</td>\n<td>Mundus, Grundst.-Verw., A.-G., <i>Stegl</i><br/>Treitschkestr. 14</td>\n</tr>\n<tr>\n<td>30 72 65</td>\n<td>Munier, Elisabeth, Gen.-Vertr., <i>Hlgsee</i><br/>Schulzendorfer Str. 23</td>\n</tr>\n<tr>\n<td>26 41 30</td>\n<td>Munier, Lucie, Säng., W 50, Ansbacher Str. 27</td>\n</tr>\n<tr>\n<td>87 71 79</td>\n<td>Munk, Dr. A., Arzt, <i>Wilm</i> W. Fischer Str. 2</td>\n</tr>\n<tr>\n<td>26 17 22</td>\n<td>Munk, Else, W 30, Berchtesg. Str. 37</td>\n</tr>\n<tr>\n<td>99 18 18</td>\n<td>Munk, Prof. F., Arzt, <i>Chb</i> Platanenall. 18</td>\n</tr>\n<tr>\n<td>25 52 52</td>\n<td>Munk, Gustav, Geh.Reg.-Rat, W 50<br/>Rankestr. 22</td>\n</tr>\n<tr>\n<td>47 33 82</td>\n<td>Munk, K., Beamte., <i>Hmsd</i> Frohn. Str. 97</td>\n</tr>\n<tr>\n<td>93 75 65</td>\n<td>Munk, M., Insp., <i>Chb</i> 5 Wundtstr. 46 c</td>\n</tr>\n<tr>\n<td>68 22 44</td>\n<td>Munk, Otto, Maschinenfabr., SO 36, Wiener<br/>Straße 18</td>\n</tr>\n<tr>\n<td>65 54 47</td>\n<td>Ders., Wohn., <i>Grü</i> Buntzelstr. 11</td>\n</tr>\n<tr>\n<td>84 47 88</td>\n<td>Munk, W., Reg.-Baurat, <i>Zehl</i> Kath.-Str. 28</td>\n</tr>\n<tr>\n<td>30 70 23</td>\n<td>Munk, Wolfg., Eink., <i>Tgl</i> Biedenkopfer<br/>Straße 2</td>\n</tr>\n<tr>\n<td>62 08 91</td>\n<td>Munk, Willi, Molk., <i>Neuk</i> Kirchhofstr. 42</td>\n</tr>\n<tr>\n<td>68 45 03</td>\n<td>Munke, G., Gastw., SO 36, Eis.Str. 9</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "84",
+            "text": "10"
+          },
+          {
+            "extension": "76",
+            "text": "16"
+          },
+          {
+            "extension": "99",
+            "text": "36"
+          },
+          {
+            "extension": "27",
+            "text": "10"
+          },
+          {
+            "extension": "75",
+            "text": "40"
+          },
+          {
+            "extension": "56",
+            "text": "81"
+          },
+          {
+            "extension": "64",
+            "text": "62"
+          },
+          {
+            "extension": "60",
+            "text": "03"
+          },
+          {
+            "extension": "99",
+            "text": "44"
+          },
+          {
+            "extension": "30",
+            "text": "20"
+          },
+          {
+            "extension": "53",
+            "text": "41"
+          },
+          {
+            "extension": "62",
+            "text": "46"
+          },
+          {
+            "extension": "75",
+            "text": "92"
+          },
+          {
+            "extension": "24",
+            "text": "11"
+          },
+          {
+            "extension": "79",
+            "text": "70"
+          },
+          {
+            "extension": "96",
+            "text": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 977 982\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>23 00 04</td>\n<td>Munzel, Carl, Herreinschneid., NW 7, Marienstr. 21</td>\n</tr>\n<tr>\n<td>1 18 38</td>\n<td>Deis., Geschäft, W 8, Kronenstr. 60</td>\n</tr>\n<tr>\n<td>8 25 42</td>\n<td>Munzel, G., Kfm., O 112, Sonntagstr. 9</td>\n</tr>\n<tr>\n<td>7 15 44</td>\n<td>Munzel, Joh., Kfm., Grw Herbertstr. 11</td>\n</tr>\n<tr>\n<td>6 87 24</td>\n<td>Munzel, J., Drageefabr., N 65, Ger.Str. 12</td>\n</tr>\n<tr>\n<td>9 31 69</td>\n<td>Munzel, O., Maj., Chb Mecklenb.-Allee 22a</td>\n</tr>\n<tr>\n<td>4 79 93</td>\n<td>Munzel, Dr. Walter, Zahnarzt, N 113, Wisbyer Str. 2</td>\n</tr>\n<tr>\n<td>6 23 08</td>\n<td>Munzer, Clara, Wilm Weimar. Str. 27</td>\n</tr>\n<tr>\n<td>3 53 97</td>\n<td>Munzer, Hanna, Lehr., Chb 5 Wundtstr. 40</td>\n</tr>\n<tr>\n<td>8 20 64</td>\n<td>Munzert, Ernst, SA.-Führ., Pko Hallandstraße 37</td>\n</tr>\n<tr>\n<td>9 18 75</td>\n<td>Munzert, Heinrich, Autobestandteile, O 17, Koppenstr. 57</td>\n</tr>\n<tr>\n<td>2 55 47</td>\n<td>Munzert, K., Kohlen, Neuk Mareschstr. 7</td>\n</tr>\n<tr>\n<td>4 83 08</td>\n<td>Munzert, Kurt, Damenkl., N 31, Brunnenstraße 74</td>\n</tr>\n<tr>\n<td>6 29 16</td>\n<td>Munzert, Max, Schmokhdlg., N 65, Ungarn Straße 25</td>\n</tr>\n<tr>\n<td>2 10 04</td>\n<td>Munzinger, Else, Chb 4 Glesebrechtstr. 12</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "m — Muschan (Band II) 499",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 11 787 992\" data-label=\"List-Group\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>87 89 86</td>\n<td>Munzinger, F., <i>Wilm</i> Güntzelstr. 64</td>\n</tr>\n<tr>\n<td>97 63 75</td>\n<td>Munzinger, Senta, <i>Grw</i> Lynarstr. 19</td>\n</tr>\n<tr>\n<td>88 26 71</td>\n<td>Karl u. Dorothea Munzlinger, Maler, <i>Frdn</i><br/>Kaiserallee 142</td>\n</tr>\n<tr>\n<td>44 56 42</td>\n<td>Munzlinger, Frau Luzia, Rockkonf., N 20,<br/>Jülicher Str. 23</td>\n</tr>\n<tr>\n<td>89 19 32</td>\n<td>Mura, A., Friseur, <i>Grw</i> Charl.-Str. 2</td>\n</tr>\n<tr>\n<td>85 06 00</td>\n<td>Murach, Grete, Kunstgewerbehaus, <i>Zehl</i><br/>Teltower Damm 34</td>\n</tr>\n<tr>\n<td>71 72 88</td>\n<td>Murach, Maria, <i>Schb</i> Eisenacher Str. 66</td>\n</tr>\n<tr>\n<td>86 68 68</td>\n<td>v. Muralt, Helene, Opernsängerin, <i>Wilm</i><br/>Nassauische Str. 19</td>\n</tr>\n<tr>\n<td>66 60 31</td>\n<td>Muranka, Ernst, Kfm., SW 29, Dieffenb.-<br/>Straße 75</td>\n</tr>\n<tr>\n<td>27 27 85</td>\n<td>Muraschko, Wassyl, Oberst, W 30, Nollend.<br/>Platz 6</td>\n</tr>\n<tr>\n<td>26 20 41</td>\n<td>Muratoff, Wlad., Kfm., W 30, Heilbr.<br/>Straße 30</td>\n</tr>\n<tr>\n<td>17 53 81</td>\n<td>Muratti AG, Cigarettenfabrik, SW 68,<br/>Kommandantenstr. 20</td>\n</tr>\n<tr>\n<td>64 78 90</td>\n<td>Murawski, Arthur, Angest., <i>Frhg</i> Friedr.-<br/>Str. 109</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 784 991\" data-label=\"Text\"><table><tbody><tr><td>70 01 60</td><td>Murawski, Bernh., Milch, <i>Imp</i> AlboinstraÙe 75</td></tr><tr><td>97 87 58</td><td>Murawski, E., <i>Chb</i> 4 Sybelstr. 48</td></tr><tr><td>73 81 17</td><td>Murawski, Dr. Erich, Hauptm., <i>Lt</i> Potsdamer Str. 27</td></tr><tr><td>34 31 53</td><td>Murawski, E., Gastw., <i>Chb</i> 1 Teg. W. 35</td></tr><tr><td>88 46 05</td><td>Murawski, Georg, <i>Wilm</i> Südw.-Korso 43</td></tr><tr><td>19 76 79</td><td>Murawski, Georg, Zahntechn.-Mstr., SW 68, Wilhelmstr. 137</td></tr><tr><td>59 26 69</td><td>Murawski, Gertrud, Polstermöbelwerkst., NO 18, Weberstr. 24a</td></tr><tr><td>69 04 68</td><td>Murawski, G., Mus., SW 29, Heimstr. 9</td></tr><tr><td>59 44 95</td><td>Murawski, Hans, Zoolog. Hdlg., O 17, Andreasstr. 24</td></tr><tr><td>72 71 12</td><td>Murawski, H., Kfm., <i>Süd</i> Halskestr. 1</td></tr><tr><td>42 14 23</td><td>Murawski, K., Zig., N 4, Oranienb. Str. 27</td></tr><tr><td>87 29 80</td><td>Murawski, K., Mech., <i>Wilm</i> Prinzer.-Str. 55</td></tr><tr><td>17 39 17</td><td>Murawski, Max, SW 68, Friedrichstr. 21</td></tr><tr><td>46 89 73</td><td>Murawski, Max, Gastw., N 20, Koloniestraße 13</td></tr><tr><td>46 38 40</td><td>Murawski, O., Mänt., N 65, Fennstr. 44</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "UU UU UU Murawski, I wui, aiii, UU UU, aapuuuuuu",
+        "entries": [
+          {
+            "extension": "63",
+            "text": "33 80 Murawsky, Franz, Ing., Obw Deulstr. 15"
+          },
+          {
+            "extension": "66",
+            "text": "34 61 Murawsky, Oskar, SW 61, Planufer 20"
+          },
+          {
+            "extension": "32",
+            "text": "20 11 Murawsky, W., Seifen, Chb Goethestr. 1"
+          },
+          {
+            "extension": "72",
+            "text": "71 12 Murawski & Küter, Fuhrwesen, Stegl Hals-kestraße 1"
+          },
+          {
+            "extension": "25",
+            "text": "38 22 Musche, Helene, W 30, M.-Luther-Str. 95"
+          },
+          {
+            "extension": "53",
+            "text": "55 84 Musche, K., Insp., NO 55, Past.Str. 41"
+          },
+          {
+            "extension": "57",
+            "text": "29 09 Musche, P., Komm., O 17, Brauner W. 56"
+          },
+          {
+            "extension": "62",
+            "text": "81 17 Murchner, Karl, Kfm., Neuk Geygerstr. 17"
+          },
+          {
+            "extension": "63",
+            "text": "10 83 Mureck, Dr. Herbert, O.Reg.-Baurat,Bschw Kiefholzstr. 258"
+          },
+          {
+            "extension": "76",
+            "text": "02 84 Murero, H., Lehr., Zehl Mörch.Str. 20"
+          },
+          {
+            "extension": "92",
+            "text": "25 51 Murjahn, Maria, Wilm Nikolsb. Str. 8"
+          },
+          {
+            "extension": "84",
+            "text": "69 18 Murk, H., Kfm., Zehl Ahornstr. 21"
+          },
+          {
+            "extension": "49",
+            "text": "14 85 Murkisch, Wilhelm, Polizeihauptwach-meister i. R., ReiO Herbststr. 45"
+          },
+          {
+            "extension": "39",
+            "text": "84 04 Murkowski, Georg, Dachdeck., NW 21,Turnistr. 81"
+          },
+          {
+            "extension": "86",
+            "text": "84 04 Murl, Franz, Wilm Wagh.-Str. 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 774 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>48 55 87</td>\n<td>Murmann, R., Därme, <i>Ndschhs</i> Grabbe-A. 5</td>\n</tr>\n<tr>\n<td>44 57 64</td>\n<td>Ders., Geschäft, N 58, Schönh. Allee 62</td>\n</tr>\n<tr>\n<td>66 13 10</td>\n<td>Murr, E., Vertrieb, SW 29, Körtestr. 18</td>\n</tr>\n<tr>\n<td>65 67 91</td>\n<td>Murr, Ed., Karolinenhof, Sielower Weg 8</td>\n</tr>\n<tr>\n<td>74 05 22</td>\n<td>Murr, Dr. Liselotte, Ärztin, <i>Lf</i> Stein-<br/>äckerstr. 14</td>\n</tr>\n<tr>\n<td>72 82 02</td>\n<td>Murr, J., Baumstr., <i>Stegl</i> Markelstr. 11</td>\n</tr>\n<tr>\n<td>79 75 64</td>\n<td>Murra, W., Gastw., <i>Süd</i> Borstellstr. 37</td>\n</tr>\n<tr>\n<td>26 57 31</td>\n<td>Murray, O., Kfm., W 30, M.-Luther-Str. 24</td>\n</tr>\n<tr>\n<td>37 64 16</td>\n<td>Mursch, F., B.-Rev., <i>Spd</i> Ruhl. Str. 135</td>\n</tr>\n<tr>\n<td>37 64 15</td>\n<td>Ders., Büro, <i>Spd</i> Stresowpl. 4</td>\n</tr>\n<tr>\n<td>59 57 77</td>\n<td>Mursch, Gertrud, Hotel Ostend, O 17,<br/>Koppeustr. 95</td>\n</tr>\n<tr>\n<td>88 72 31</td>\n<td>Mursch, Heinr., <i>Frdn</i> Ringstr. 17</td>\n</tr>\n<tr>\n<td>84 12 18</td>\n<td>Mursch, Wally, Putzm.-Mstr., <i>Zehl</i> Eschers-<br/>hauser Weg 151 L</td>\n</tr>\n<tr>\n<td>30 24 64</td>\n<td>Mursch, Willi, <i>Chb</i> 5 Suarezstr. 4</td>\n</tr>\n<tr>\n<td>45 25 10</td>\n<td>Murschal, Dr. Johanna, Ärztin, NO 55,<br/>Prenzlauer Allee 190</td>\n</tr>\n<tr>\n<td>92 69 59</td>\n<td>Murschhauser, Mar., W 15, Ludw.Str. 6</td>\n</tr>\n<tr>\n<td>87 87 75</td>\n<td>Murcinckv R <i>Wilms</i> Jenaer Str 10</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 771 992\" data-label=\"Text\"><table><tbody><tr><td>25 59 04</td><td>Murszat, Fr., Kim., W 62, Schnurstr. 12</td></tr><tr><td>33 13 95</td><td>Murzilli, Tito, Komp., <i>Frdn</i> Rheinstr. 35</td></tr><tr><td>25 40 67</td><td>Murzilli, Vinc., Doz., W 30, M.-Luther-Str. 7</td></tr><tr><td>46 16 16</td><td>Murzin, St., Schneidermstr., N 65, Müllerstraße 128 a</td></tr><tr><td>25 55 50</td><td>Murzyn, Magdal., W 50, Ansb. Str. 14</td></tr><tr><td>37 30 67</td><td>Murzynski, Margarete, <i>Wilm</i> Güntzelstr. 46</td></tr><tr><td>15 24 59</td><td>Musa, Frieda, Wäschefbr., N 58, Wolliner Straße 11</td></tr><tr><td>53 05 95</td><td>Musa, G., Likörfbr., NO 55, Elb. Str. 44</td></tr><tr><td>39 14 33</td><td>Musäus, F., Blumen, <i>Smgd</i> Breite Str. 26</td></tr><tr><td>58 25 38</td><td>Ders., O 34, Petersb. Str. 5</td></tr><tr><td>24 47 96</td><td>Musaeus, Ad., Fris., W 30, Eisen. Str. 90</td></tr><tr><td>30 47 54</td><td>Musaeus, Willi, Elektrom., <i>Chb</i> 5 Nehringstraße 12</td></tr><tr><td>33 77 01</td><td>Musal, Anastasius, chem.kosm.Präp., <i>AGlie</i> Wegedorfnstr. 213</td></tr><tr><td>16 14 37</td><td>Musal, Anna, Maßanfert. f. d. eleg. Dame, W 30, Rosenheimer Str. 9</td></tr><tr><td>35 02 27</td><td>Musall, Elisabeth, NW 21, Oldenb. Str. 31</td></tr><tr><td>35 25 96</td><td>Musall. Frdr., Zahlmstr., <i>Zehl</i> Waldh.</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"475 25 495 85\" data-label=\"Image\"><img alt=\"Small black mark or logo at the top center of the page.\"/></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

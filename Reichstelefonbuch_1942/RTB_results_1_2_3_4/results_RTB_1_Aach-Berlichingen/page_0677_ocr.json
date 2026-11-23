@@ -1,0 +1,890 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Heidelberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Koblenz.",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      },
+      {
+        "region_name": "Münster (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nossen (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Torgau (Elbe).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"159 16 991 811\" data-label=\"Text\"><p><b>U 4 60 35</b> <b>nenfabrik, Wien I/1, Am Hof 6</b><br/><b>Kasal, O. H., Fahnenfabrik, Wien IV/50,</b><br/><b>Argentinierstraße 53</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"228 196 918 757\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "1454. Fahnenstoffe",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Dingelstädt (Eichsfeld).",
+        "entries": []
+      },
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Mühlhausen (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenbach (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"352 250 774 311\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bautzen.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"955 738 988 916\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 61 998 930\" data-label=\"Text\"><p>42 80 54 Ernst Machnow G. m. b. H., Fahrräder<br/>Berlin C 2, Weinmeisterstr. 8</p><p>86 01 28 { Mifa Mitteldeutsche Fahrradwerke G. m</p><p>86 01 29 { b. H., -Wilmersdorf, Hohenz.Damm 28</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"478 37 750 231\" data-label=\"Image\"><img alt=\"Stylized logo consisting of three parallel, slanted 'W' shapes, representing the brand name WANDERER.\"/></div><div data-bbox=\"22 244 997 354\" data-label=\"Text\"><p><b>17 49 81 WANDERER-WERKE</b></p></div><div data-bbox=\"270 377 951 463\" data-label=\"Text\"><p><b>Aktiengesellschaft Siegmars-Schönau</b></p></div><div data-bbox=\"225 501 997 593\" data-label=\"Text\"><p><b>WANDERER-HAUS BERLIN</b></p></div><div data-bbox=\"295 607 927 691\" data-label=\"Text\"><p><b>Berlin SW 68, Kochstraße 60/61</b></p></div><div data-bbox=\"410 717 788 801\" data-label=\"Text\"><p><b>Verteilungslager für</b></p></div><div data-bbox=\"320 811 780 886\" data-label=\"Text\"><p><b>WANDERER-Fahrräder</b></p></div><div data-bbox=\"320 891 876 967\" data-label=\"Text\"><p><b>WANDERER-Motorfahrräder</b></p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Göricke",
+        "entries": []
+      },
+      {
+        "region_name": "Bittelbronn (Kr. Horb).",
+        "entries": []
+      },
+      {
+        "region_name": "Borsdorf (Bez. Leipzig).",
+        "entries": []
+      },
+      {
+        "region_name": "Brake (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Bromberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Margarete Škiubal",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "33141 WANDERER-WERKE",
+        "entries": []
+      },
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      },
+      {
+        "region_name": "Crinitz (Niederlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Domschale (Südkärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "ES-KA-WERKE",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Enns (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Dahlem (Stammendorf)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"108 10 971 451\" data-label=\"Text\"><p><b>28 Schnelder, Konstantin, Kaufhaus, Manu-<br/>faktur, Konfektion, Eisen, Kohlen, Bau-<br/>stoffe, Nähmaschinen, Fahrräder, Land-<br/>maschinen, Adolf-Hitler-Platz 6 (Stmk.)</b></p></div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "1 Emslandkreis (Wald)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gevelsberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Gleiwitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"207 20 960 256\" data-label=\"Text\"><p>Radiogroßhandlung, Landeskrönstr. 36</p></div><div data-bbox=\"19 299 633 562\" data-label=\"Text\"><p><b>Graz (Steiermark).</b></p></div><div data-bbox=\"96 562 998 958\" data-label=\"Text\"><p>0377 Pech, Wilhelm, Fahrräder, Motorräder,<br/>Ersatzteile, Zubehör, Max-Reiner-Ring 12</p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Steyr - Daimler - Puch",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Grünberg (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Heepen üb. Bielefeld 2.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Honnef (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Jungbunzlau (Böhmen).",
+        "entries": []
+      },
+      {
+        "region_name": "Klein-Auheim (Kr. Offenbach).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Leibnitz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Lienz im Tirol (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"187 10 983 503\" data-label=\"Text\"><p>Reparatur von Motorrädern, Fahrrädern<br/>und Nähmaschinen, Humboldtstr. 1a</p></div><div data-bbox=\"0 640 488 930\" data-label=\"Text\"><p><b>Litzmannstadt.</b></p></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"125 46 854 236\" data-label=\"Text\"><p><b>Valentin Feldmann</b></p></div><div data-bbox=\"352 311 621 420\" data-label=\"Text\"><p><b>Fahrräder</b></p></div><div data-bbox=\"82 500 891 600\" data-label=\"Text\"><p><b>Fahrrad- und Auto-Zubehörteile</b></p></div><div data-bbox=\"191 669 788 774\" data-label=\"Text\"><p><b>Litzmannstadt, Oststraße 76</b></p></div><div data-bbox=\"292 840 688 928\" data-label=\"Text\"><p><b>Fernsprecher 12600</b></p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"45 20 980 620\" data-label=\"List-Group\"><p><b>27141 Neumann, Benno, Großhandlung für Fahrräder, Fahrrad- und Autozubehörteile, Friedrich-Goßler-Straße 16</b></p><p><b>12881 Hugo Piel &amp; Co., Fahrradhandlung und Zubehör, Adolf-Hitler-Straße 164</b></p><p><b>22349 Adolf Schnell</b><br/>Großverkauf von Batterien und Fahrrädern, Adolf-Hitler-Str. 105</p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 736 238 921\"}, {\"label\": \"Text\", \"bbox\": \"393 736 722 941\"}]",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Luxemburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "P. &amp; B. Echternach",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 145 714 593\" data-label=\"Text\"><p><b>2323 Kurz, Andreas, Großvertrieb v. Fahrrädern<br/>u. Nähmaschinen, Ritter-v.-Epp-Str. 6</b></p></div><div data-bbox=\"10 653 129 895\" data-label=\"Text\"><p><b>Metz.</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"144 10 574 335\"}, {\"label\": \"Text\", \"bbox\": \"282 317 453 451\"}, {\"label\": \"Text\", \"bbox\": \"85 463 646 617\"}, {\"label\": \"Text\", \"bbox\": \"134 613 597 761\"}, {\"label\": \"Text\", \"bbox\": \"240 761 490 911\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"27 62 219 958\" data-label=\"Image\"><img alt=\"A circular logo featuring a stylized face with large, expressive eyes and a small mouth, enclosed within a thick black border.\"/></div><div data-bbox=\"230 75 682 300\" data-label=\"Text\"><p><b>M. Huber &amp; Co.</b></p></div><div data-bbox=\"314 339 621 473\" data-label=\"Text\"><p><b>Fahrrad-Großhandlung</b></p></div><div data-bbox=\"239 486 660 625\" data-label=\"Text\"><p><b>Generalvertretung für Diamant</b></p></div><div data-bbox=\"318 641 604 778\" data-label=\"Text\"><p><b>Metz, Haydnstraße 9</b></p></div><div data-bbox=\"376 804 568 941\" data-label=\"Text\"><p><b>Fernruf 3253</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Mühlhausen (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Neckarsulm (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neumarkt (Oberpfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Expresswerke Neumarktöberpfalz",
+        "entries": []
+      },
+      {
+        "region_name": "Neusiedl am See (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"24 212 114 321\"}, {\"label\": \"Text\", \"bbox\": \"24 321 114 430\"}, {\"label\": \"Text\", \"bbox\": \"114 21 678 947\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"190 0 642 222\" data-label=\"Text\"><p><b>„Ogar“ Fahrradwerke</b><br/><b>Ötto Krattner</b> en gros<br/>en detail</p></div><div data-bbox=\"245 222 581 296\" data-label=\"Text\"><p><b>Pilsen, Schwefelgasse 16</b></p></div><div data-bbox=\"52 292 116 356\" data-label=\"Text\"><p><b>1341</b></p></div><div data-bbox=\"345 292 481 356\" data-label=\"Text\"><p><b>Fahrräder</b></p></div><div data-bbox=\"338 356 488 427\" data-label=\"Text\"><p><b>Motorräder</b></p></div><div data-bbox=\"242 433 585 540\" data-label=\"Text\"><p><b>Wenzel Pešík</b></p></div><div data-bbox=\"217 565 612 641\" data-label=\"Text\"><p><b>Pilsen, Dominikanergasse 12</b></p></div><div data-bbox=\"438 660 481 736\" data-label=\"Text\"><p><b>25</b></p></div>",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  }
+]

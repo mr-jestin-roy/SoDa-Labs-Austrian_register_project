@@ -1,0 +1,455 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "siehe am Kopf von Wien (S. 792).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"204 9 997 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>U1 04 31</td>\n<td>Schmutzer, Vikt., H.-R., III/40, Hießg.11</td>\n</tr>\n<tr>\n<td>B2 26 46</td>\n<td>Schmutzer, Wilhelmine, Ww., VI/56,<br/>Gumpend. Str. 81</td>\n</tr>\n<tr>\n<td>B4 49 68</td>\n<td>Schmutzer-Pilz, Karoline, Moden, VIII/65,<br/>Blindeng. 7</td>\n</tr>\n<tr>\n<td>B4 24 39</td>\n<td>Schmyrer, Jos., Möbel, VIII/65, Albertg.36</td>\n</tr>\n<tr>\n<td>A2 81 58Z</td>\n<td>Schnabel, Aug., Bankbeamter, IX/71,<br/>Rotenhausg. 8</td>\n</tr>\n<tr>\n<td>A5 46 40</td>\n<td>Schnabel, Ernst, XIII/89, St.Veltg. 17</td>\n</tr>\n<tr>\n<td>A1 92 92</td>\n<td>Schnabel, Flora, XVIII/110, Türken-<br/>schanzstr. 48</td>\n</tr>\n<tr>\n<td>B2 31 57U</td>\n<td>Schnabel, Frz., Fuhrwes., V/55, Ziegel-<br/>ofengasse 7</td>\n</tr>\n<tr>\n<td>U3 56 40</td>\n<td>Schnabel, Frz., Kohlen, XIII/89, Linzer<br/>Straße 299</td>\n</tr>\n<tr>\n<td>U3 48 43</td>\n<td>Ders., Wohn., XIV/89, Baumg.Str. 63</td>\n</tr>\n<tr>\n<td>A2 71 72Z</td>\n<td>Schnabel, Gg., Dr., VIII/65, Buchfeldg.14</td>\n</tr>\n<tr>\n<td>U3 80 73</td>\n<td>Schnabel, Gottfried, Textilmasch.-Fbr.,<br/>XV/101, Hackeng. 31</td>\n</tr>\n<tr>\n<td>A4 58 11</td>\n<td>Schnabel, Jos., Anstr., XX/20, Dresd.<br/>Straße 130</td>\n</tr>\n<tr>\n<td>TT 01 27</td>\n<td>Schnabel, Thea, Gähndeverwalt. XV/101</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"202 0 993 990\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td></td>\n<td></td>\n<td>Markgr. Kudiger-Str. 23</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>42 69</td>\n<td>Schnabel, Karl, Buchhalter, XI/79, Simm.<br/>Hauptstr. 26</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>17 31</td>\n<td>Schnabel, Karl, Lehrer, XIX/117, Bill-<br/>rothstr. 31</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>25 09</td>\n<td>Schnabel, Karl, Wäscherei, XIII/89,<br/>Baumgart. Str. 63</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>96 15</td>\n<td>Schnabel, Louis, III/40, U. Viaduktg. 1</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>78 65</td>\n<td>Schnabel, Marianne, Ww., IX/71, Schwarz-<br/>spanierstr 7</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>45 81</td>\n<td>Schnabel &amp; Co, Lederfbr., XII/87,<br/>Hetzend. Str. 17</td>\n</tr>\n<tr>\n<td>A5</td>\n<td>76 41</td>\n<td>Schnabel, Vikt., Ing., XIII/89, Schieß-<br/>manng. 14</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>99 52</td>\n<td>Schnabel, Wilh., Kfm., XV/101, Sechs-<br/>hauser Str.. 106</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>01 72</td>\n<td>Schnaberth, Dr. Karl, Arzt, V/55,<br/>Gasserg. 33</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>71 48</td>\n<td>Schnaberth, Stephanie, Ww., VIII/65,<br/>Laudong. 56</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>50 27</td>\n<td>Schnabl, Aug., Autokühlerfbr., II/27,</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"201 21 992 970\" data-label=\"List-Group\"><p><b>Wien</b></p><p>R3 04 72 Schnabl, Franz, Fuhrw., XII/82, Wiener-<br/>bergstr. 16</p><p>A4 29 81 Schnabl, Friedr., Tischlermstr., II/27,<br/>Kl.Sperlg. 8</p><p>U4 78 14 Ders., Wohn., I/1, Bösendorf.Str. 3</p><p>A3 27 37 Schnabl, Hans, Ing., V/55, Schönbr.<br/>Straße 114</p><p>B2 67 91 Schnabl, Hans, Kfm., VI/56, Mariah.<br/>Straße 105</p><p>. . . . . <b>Jac. Schnabl &amp; Co. siehe jetzt</b><br/><b>Samum Vereinigte Papier-Industrie K. G.</b><br/><b>Wien XIX/117, Krellplatz 1</b></p><p>R4 77 73 Schnabl, Jos., Meiereibes., XXI/146,<br/>WagramerStr. 127</p><p>A5 17 88 Schnabl, Karl, Beamter, XIII/89, Hietz.<br/>Hauptstr. 108</p><p>B4 13 65 Schnabl, Otto, XVIII/110, Währ.Gürt.11</p><p>A5 12 87 Schnabl, R., XIII/89, Hietz.Hauptstr. 108</p><p>B5 02 49 Schnagl, Karl, Oberstlttn., III/40, Mohsg. 4</p><p>R4 10 14 Schnardt, Dr. Marcell Israel, jüd. Kran-</p></div><div data-bbox=\"358 968 838 992\" data-label=\"Page-Footer\"><p>— 100 —</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"201 0 997 990\" data-label=\"Text\"><table><tbody><tr><td>A3 61 88</td><td>Schnarf, Dr. Karl, Prof., VI/56, Joanellig. 5</td></tr><tr><td>R3 24 16</td><td>Schnatter, Jos., Gebäude-Verwalt., XII/82, Schönbr. Str. 246</td></tr><tr><td>A1 11 41U</td><td>Schnattinger, Marie, XIX/117, Hase-<br/>nauerstr. 10</td></tr><tr><td>B1 26 39</td><td>Schnäubelt, Gust., Amtsr., XIX/117,<br/>Scheibeng. 1</td></tr><tr><td>U1 71 65Z</td><td>Schnaudt, Heinz, III/40, Parkg. 17</td></tr><tr><td>B2 92 51</td><td>Schnaus, Hans, Hüte, VI/56, Gump.<br/>Straße 139</td></tr><tr><td>B4 71 76</td><td>Schnayder, Alfr., XVI/107, Reinhartg. 18</td></tr><tr><td>B3 01 56Z</td><td>Schneck, Franz, Elektroinst., VII/62,<br/>Neubaug. 29</td></tr><tr><td>B3 37 84</td><td>Ders., Wohn., VII/62, Neubaugasse 25</td></tr><tr><td>R3 90 30</td><td>Schneck, Friedr., Weine, XV/101, Stor-<br/>cheng. 20</td></tr><tr><td>A2 27 10</td><td>Schneck, Heinr., XVIII/110, Währ. Str 163</td></tr><tr><td>R3 87 77</td><td>Schneck, Rud., Buchdr.-Walz.-Gußan-<br/>stalt, XV/101, Sechshauserstr. 47</td></tr><tr><td>B5 26 36</td><td>Schneck, Vikt., Metteur, III/40, Rasu-<br/>mofskyg. 2</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "17",
+            "text": "00 40 Telefonbuch Wien VIII/100 Seite 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"201 0 998 952\" data-label=\"Text\"><table><tbody><tr><td>U4 69 93</td><td>Schneeweis, Karl, V/55, Laurenzg. 13</td></tr><tr><td>B5 26 68</td><td>Schneeweis, Karl, Geschäftsf., III/40, Kubeckg. 15</td></tr><tr><td>U5 33 47</td><td>Schneeweiss, Frz., XVII/117, P.Klotzgasse 14</td></tr><tr><td>A3 06 85</td><td>Schneeweiß jr., Franz, Eier, IV/50, Preßgasse 17</td></tr><tr><td>B5 54 02</td><td>Schneeweiß, Franz X., Hauptkassierer, III/40, Rasumofskyg. 14</td></tr><tr><td>A6 04 06</td><td>Schneeweiss, Frdr., Drog., XXI/141, Am Spitz 4</td></tr><tr><td>R1 44 67</td><td>Schneeweiß, G., Staatsoper-Mitgl., X/75, Columbusg. 67</td></tr><tr><td>U3 74 06</td><td>Schneeweiß, Gust., Prok., XVI/107, Siedlg., Spiegelgrund, Maternaw. 6</td></tr><tr><td>R2 72 75</td><td>Schneeweiss, H., Steuerberater, I/1, Johannesg. 16</td></tr><tr><td>B3 98 38</td><td>Schneeweiß, Helene, Ww., VII/62, Schottenfeldg. 19</td></tr><tr><td>B2 64 22</td><td>Schneeweiß, J., Bettwr.-Fbr., I/1, Nibel. G. 1</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"865 912 878 947\" data-label=\"Page-Footer\">4</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 9 992 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>R5 46 60</td>\n<td>Schneeweiß, Jos., Insp., XVIII/110,<br/>Ant. Frankg. 3</td>\n</tr>\n<tr>\n<td>A3 67 67</td>\n<td>Schneeweiß, Karl, Gemischtwr., V/55,<br/>Siebenbrunneng. 16</td>\n</tr>\n<tr>\n<td>A5 45 81</td>\n<td>Schneeweiß, Käthe, Bettwr.-Fbr.,<br/>XII/89, Lainzer Str. 36</td>\n</tr>\n<tr>\n<td>A1 32 85</td>\n<td>Schneeweiss, Klara, Ww., IX/66, Nußd.<br/>Straße 32</td>\n</tr>\n<tr>\n<td>B4 04 93</td>\n<td>Schneeweiss, Maria, Kaffeehaus, IX/71,<br/>Spitalg. 1b</td>\n</tr>\n<tr>\n<td>B2 81 28U</td>\n<td>Schneeweiß, Maria, Weinhaus, V/55,<br/>Reinprechtsdorf. Str. 47</td>\n</tr>\n<tr>\n<td>B5 44 98</td>\n<td>Schneeweiß, Martin, Kfm., III/40, Sechs-<br/>krügelg. 2</td>\n</tr>\n<tr>\n<td>U1 79 00</td>\n<td>Schneeweiß, Martin, Auto-Fahrschule,<br/>Wien III/40, Rasumofskygasse 14</td>\n</tr>\n<tr>\n<td>A3 53 05</td>\n<td>Schneeweiss, R., Kol.-W., V/55, Bacherpl. 10</td>\n</tr>\n<tr>\n<td>U2 98 94</td>\n<td>Schneeglberger, Emilie, Kunstgewerbe,<br/>I/1, Herreng. 6/8</td>\n</tr>\n<tr>\n<td>U2 76 07</td>\n<td>Schneeglberger, Emilie, I/1, Jasomirg. Str. 3</td>\n</tr>\n<tr>\n<td>B2 97 68</td>\n<td>Schneeglberger, Felix, Butter, Eier, VI/56,<br/>Taimaruhana 2</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 992\" data-label=\"Text\"><table><tbody><tr><td>B2</td><td>96</td><td>25</td><td>Schneeglberger, Magda, VI/56, Girardig. 7</td></tr><tr><td>A3</td><td>48</td><td>21</td><td>Schnehen, Felicitas, I/1, Nibelung.G. 3</td></tr><tr><td>B4</td><td>27</td><td>67</td><td>Schneiberg, Josefine, Tabakwr., XVII/107,<br/>Dornerpl. 3</td></tr><tr><td>R3</td><td>31</td><td>05L</td><td>Schneid, Helene, Ww., XII/82, Roten-<br/>mühlg. 4</td></tr><tr><td>A5</td><td>77</td><td>76</td><td>Schneider, Achill., Fuhrw., XIV/89, Leeg. 4</td></tr><tr><td>A1</td><td>11</td><td>72U</td><td>Schneider, Adolf, XVIII/110, Semp. Str. 20</td></tr><tr><td>U3</td><td>38</td><td>52</td><td>Schneider, Adolf, Gasthaus, XV/101,<br/>Goldschlagstr. 53</td></tr><tr><td>B3</td><td>71</td><td>50B</td><td>Schneider, Alb., Ing., VII/62, Kaiserstr. 68</td></tr><tr><td>R2</td><td>38</td><td>47</td><td>Schneider, Albine, I/1, Kohlmarkt 7</td></tr><tr><td>U1</td><td>01</td><td>44</td><td>Schneider, Alex., Kaffee, XI/79, Grillg. 11</td></tr><tr><td>U3</td><td>21</td><td>22</td><td>Schneider, Alfons, XIII/89, Hochsalzeng. 21</td></tr><tr><td>A3</td><td>78</td><td>93</td><td>Schneider, Alfr., VI/56, Gumpend. Str. 14</td></tr><tr><td>U5</td><td>21</td><td>34L</td><td>Schneider, Alfr., Feinkost, XVII/107,<br/>Röm erg. 79</td></tr><tr><td>A5</td><td>73</td><td>04</td><td>Schneider, Alois, Dir., XIII/89, Vertinger-<br/>gasse 53</td></tr><tr><td>B2</td><td>87</td><td>19</td><td>Schneider, Alois, Kfm., VI/56, Aegidig. 10</td></tr><tr><td>B4</td><td>76</td><td>96</td><td>Schneider, Alois, Ob. Stadtbaurat i. R.,</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"200 0 685 25\" data-label=\"Page-Header\">\n<p>ANZEIGENBIBLIOTHEK, STADTVERBANDS-VERBAND</p>\n</div>\n<div data-bbox=\"10 20 995 975\" data-label=\"List-Group\">\n<ul>\n<li>A4 27 33 Schneider, Alois, Prok., XX/20, Pappenheimg. 37</li>\n<li>B3 10 92 Schneider, Alois Ludw., Baumstr., VII/62, Kircheng. 7</li>\n<li>U5 23 95 L Schneider, Andr., XVIII/110, Kreuzg. 77</li>\n<li>U1 04 63 Schneider, Anna, III/40, Mettern.G. 10</li>\n<li>A3 84 07 Schneider, Anna, V/55, Garteng. 19a</li>\n<li>B4 19 75 Schneider, Anna, VIII/65, Lercheng. 24</li>\n<li>R3 76 17 Schneider, Anna, Lebensm., XII/82, Steinackerg. 1</li>\n<li>A2 41 90 U Schneider, Ant., XVIII/110, Theresieng. 40</li>\n<li>A6 28 26 Schneider, Ant., Fuhrwes., XXI/141, Amtsstr. 10</li>\n<li>R1 61 02 Schneider, Anton, Anstreicherstr., X/75, Raaberb.G. 9</li>\n<li>A3 78 56 Schneider, A., Kfm., VI/56, Loquaipl. 1</li>\n<li>A5 26 61 Schneider, Ant., Beamter, XII/89, Hagenbergg. 39</li>\n<li>U3 69 80 Schneider, Ant., Ing., XIV/89, Reiningerweg 39</li>\n</ul>\n</div>\n<div data-bbox=\"10 965 995 995\" data-label=\"Page-Footer\">\n<p>THESE 44 OBERÖSTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN UND KUNSTE</p>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 991\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td></td>\n<td>VI/56, Aegidig. 9</td>\n<td></td>\n</tr>\n<tr>\n<td>B5 34 74</td>\n<td>Schneider, Arth., Dir. a. D., III/40, Hohlwegg. 2</td>\n<td></td>\n</tr>\n<tr>\n<td>B1 60 81</td>\n<td>Schneider, Aug., Weinimport, XIX/117, Heiligenst. Str. 41</td>\n<td></td>\n</tr>\n<tr>\n<td>A5 44 11</td>\n<td>Schneider, Aug., Referent, XIII/89, Steckhoveng. 4</td>\n<td></td>\n</tr>\n<tr>\n<td>U5 31 23L</td>\n<td>Schneider, Aug., Uhrmacher, XVI/107, Thaliastr. 70</td>\n<td></td>\n</tr>\n<tr>\n<td>U1 12 98</td>\n<td>Schneider, Betty, III/40, Strohg. 26</td>\n<td></td>\n</tr>\n<tr>\n<td>B2 63 12</td>\n<td rowspan=\"2\">\n<b>Metallwarenfabrik</b><br/>\n<b>Brüder Schneider A. G.</b>\n</td>\n<td rowspan=\"2\">\n<b>Stanz-, Zieh-, Preß- u. Präzisionsteile,</b><br/>\n<b>Uniformeffekten, Abzeichen, Sportpreise,</b><br/>\n<b>VI/56, Bürgerspitalgasse 6-10</b>\n</td>\n</tr>\n<tr>\n<td>B2 63 13</td>\n</tr>\n<tr>\n<td>A1 38 85</td>\n<td>Schneider, Bruno, Dipl. Ing., XIX/117, Döbl. Gürtel 12</td>\n<td></td>\n</tr>\n<tr>\n<td>B4 99 66</td>\n<td>Schneider, Bruno, Friseur, XVI/107, Ottakringer Str. 9</td>\n<td></td>\n</tr>\n<tr>\n<td>A5 76 12</td>\n<td>Schneider, Carl, Beamter, XIII/89, Stuttgarter Str. 9</td>\n<td></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>22 00 20</td>\n<td>Wittmann, Wm., Wittmannstr., 65, Alserstr. 55</td>\n</tr>\n<tr>\n<td>A3 17 90</td>\n<td>Schneider, Conr., Juwelen, I/1, Operng. 10</td>\n</tr>\n<tr>\n<td>B5 07 36</td>\n<td>Ders., Wohn., III/40, Heumarkt 23</td>\n</tr>\n<tr>\n<td>U4 63 23</td>\n<td>Schneider, Dr. phil., Const., Maj. a. D., IV/50, Paniglg. 9</td>\n</tr>\n<tr>\n<td>B2 89 29</td>\n<td>Schneider, Dorothea, Ww., VI/56, MariahilferStr. 115</td>\n</tr>\n<tr>\n<td>R3 22 56</td>\n<td>Schneider, Edm., Ing., XII/82, Erlg. 38</td>\n</tr>\n<tr>\n<td>B2 02 29</td>\n<td>Schneider's Ww., E., mech. Werkst., VI/56, Stumperg. 45</td>\n</tr>\n<tr>\n<td>B1 05 04</td>\n<td>Schneider, Elisabeth, Dir., XIX/117, Stürzerg. 1</td>\n</tr>\n<tr>\n<td>U3 41 37</td>\n<td>Schneider, Elise, Hemdblusenfbr., XVI/107, Ganglbauerg. 36</td>\n</tr>\n<tr>\n<td>B2 21 47Z</td>\n<td>Schneider, Emil, Zuck.-Bäck., VI/56, Mariah. Str. 121a</td>\n</tr>\n<tr>\n<td>A5 57 40</td>\n<td>Schneider, Emil, Ing., XIII/89, Gogolg. 33</td>\n</tr>\n<tr>\n<td>A5 77 95</td>\n<td>Schneider, Emilie, Prok., XIV/89, PenzingerStr. 2</td>\n</tr>\n<tr>\n<td>B1 28 71</td>\n<td>Schneider, Emma, XIX/117, Kobenzlg. 25</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 3 992 954\" data-label=\"Text\"><table><tbody><tr><td>B5 59 29</td><td>Schneider, Emma, Ww., III/40, Ldstr.<br/>Hauptstr. 86</td></tr><tr><td>B3 51 39U</td><td>Schneider, Emma, Modlistin, VII/62,<br/>Zieglerg. 62</td></tr><tr><td>U3 39 09</td><td>Schneider, Emmerich, Metallwr.-Fbr.,<br/>XV/101, Meiselstr. 31</td></tr><tr><td>B3 39 60</td><td>Schneider, Emmy, VII/62, Richtergr. 8</td></tr><tr><td>R3 87 35</td><td>Schneider, Erich, XII/82, Schönbr. Str. 287</td></tr><tr><td>U1 84 33</td><td>Schneider, Ernst, III/40, Bechardg. 17</td></tr><tr><td>A6 07 09</td><td>Schneider, Ernst, Dipl.-Kim, Prok.,<br/>XXI/141, Wilh. Raab-G. 3</td></tr><tr><td>U3 60 45</td><td>Schneider, Dr. Ernst, Zahnarzt XV/101,<br/>Vogelweidpl. 4</td></tr><tr><td>U1 50 02</td><td>Schneider, Ernst, Dir., III/40, Ungarg. 39</td></tr><tr><td>A1 74 35</td><td>Schneider, Ernst, Gen. Major, XIX/117,<br/>Hasenauerstr. 44</td></tr><tr><td>A1 13 37U</td><td>Schneider, Erwin, IX/66, Bolzmanng. 12</td></tr><tr><td>R1 51 50</td><td>Schneider, E., Drog., X/75, Quellenstr. 30</td></tr><tr><td>B3 13 67</td><td>Erwin Schneider &amp; Co., Raucherartikel,<br/>VII/62, Str. d. Julikämpfer 46</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, markings, or illustrations visible.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Wien: Schmutzer",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 14 992 993\" data-label=\"List-Group\">\n<p>\n    A5 84 35 Schneider, Eug., Zahnatelier, XIII/89,<br/>\n    Hietzinger Hauptstr. 62/64\n  </p>\n<p>\n    R4 24 16 Schneider, F., Insp., II/27, Taborstr. 102\n  </p>\n<p>\n    U2 58 67 <b>Felix Schneider</b> Mechanische<br/>\n    Zwirnroß-<br/>\n    haar- und Roßhaarstoffweberei,<br/>\n    Wien I/1, Wipplinger Straße 5\n  </p>\n<p>\n    A5 53 29 Schneider, Ferd., XIII/89, Hüsingg. 21\n  </p>\n<p>\n    B3 61 71 U Schneider, Ferd., Altwr., VII/62, Neu-<br/>\n    stiftg. 105\n  </p>\n<p>\n    A3 16 67 Schneider, Finy, Papierhdlg., IV/50,<br/>\n    Margaret. Str. 30\n  </p>\n<p>\n    R4 51 42 U Schneider, Frz., Ing., II/27, Gr. Mohreng. 16\n  </p>\n<p>\n    B4 87 76 Schneider, Frz., VIII/65, Laudong. 48\n  </p>\n<p>\n    R3 49 09 Schneider jun., Frz., Autobusbetr.,<br/>\n    XV/101, Schwenderg. 41\n  </p>\n<p>\n    B1 58 14 Schneider, Franz, Ing., XIX/117, Würth-<br/>\n    gasse 2\n  </p>\n<p>\n    R2 59 78 Schneider, Frz., D.-Schneid., I/1, Bäcker-<br/>\n    straße 14\n  </p>\n<p>\n    A3 17 27 Schneider, Frz., Gastw., V/55, Hart-<br/>\n    mann 10\n  </p>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Text\"><table><tbody><tr><td>B3 78 65</td><td>Schneider, Frz., Baurat, VII/62, Stollg. 6</td></tr><tr><td>R1 31 83</td><td>Schneider, Frz., Klempn., X/75, Hardtmuthg. 34</td></tr><tr><td>B5 73 44</td><td>Schneider, Franz, Kfm., III/40, Marok. G. 9</td></tr><tr><td>R4 90 83</td><td>Frz. Schneider's Söhne, Jos. u. Rich. Schneider, Klempn., II/27, Praterstr. 68</td></tr><tr><td>A1 78 83</td><td>Schneider, Frz., Kfm., IX/66, Boltzm. G. 13</td></tr><tr><td>A4 23 18U</td><td>Schneider, Frz., Beamter, II/27, Casteliezgasse 21</td></tr><tr><td>B3 31 80Z</td><td>Schneider, Frz., Reinig.-Anstalt, VII/62, Burgg. 102</td></tr><tr><td>U2 47 09</td><td>Schneider, Frz., Beamter, I/1, Goldsch. Gasse 8</td></tr><tr><td>R3 61 64</td><td>Schneider, Frz., Papier, XV/101, Sechs- hauserStr. 36</td></tr><tr><td>R3 81 72Z</td><td>Schneider, Frz., Tischlerei, XV/101, Staglg. 10</td></tr><tr><td>A2 31 31L</td><td>Ders., Wohn., XVIII/110, Scheibenb. G. 14</td></tr><tr><td>R3 81 18Z</td><td>Schneider, Frz., Transporte, XV/101, Reichsapfelg. 20</td></tr><tr><td>B3 81 52B</td><td>Schneider, Frz., Vertr., VII/62, Keller-</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"203 0 378 26\" data-label=\"Page-Header\">München. V</div><div data-bbox=\"9 25 992 972\" data-label=\"List-Group\"><p>B4 51 04Z Schneider, Franziska, Gasthaus,<br/>XVII/107, Thelemanng. 2</p><p>A3 63 23 Schneider, Franziska, Blumen, IV/50,<br/>Naschmarkt, Zelle 91</p><p>A1 01 51Z Schneider, Frdr., Dr. med., IX/66, Nußg. 4</p><p>A3 91 61 Schneider, Frdr., Baumstr., VI/56, Stum-<br/>perg. 35</p><p>A5 47 93 Schneider, Friedr., Dr., XIII/89, Burgkm.<br/>Gasse 17</p><p>R6 02 15 Schneider, Friedr., Bücherrev., XVIII/<br/>110, Gentzg. 135</p><p>A1 61 80 Z Schneider, Frdr., Elektriker, XVIII/110,<br/>Gentzg. 13</p><p>R3 11 16 L Schneider, Friedr., Vertr., XII/87, Kern-<br/>straße 7</p><p>A3 39 21 Schneider, Frdr., Priv.-Beamter, V/55,<br/>Nikolsdorf. Str. 3</p><p>B2 99 81 Schneider, Fritz, VI/56, Millerg. 26</p><p>U4 31 77 Schneider, Fritz, IV/50, Graf Starhem-<br/>bergg. 27</p></div><div data-bbox=\"12 970 180 992\" data-label=\"Page-Footer\">TTA 4 A 50</div><div data-bbox=\"209 970 393 992\" data-label=\"Page-Footer\">A 1 - - - 1 1</div><div data-bbox=\"413 970 597 992\" data-label=\"Page-Footer\">T - - - 77 - 11 -</div><div data-bbox=\"625 970 738 992\" data-label=\"Page-Footer\">A - - 1 - 11</div><div data-bbox=\"770 970 980 992\" data-label=\"Page-Footer\">TTTTTTTT 1 - 1 A</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Gentzg. 116",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Dasvi u",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 956\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>U5 01 10</td>\n<td>U</td>\n<td>Schneider, Hs., Kapellmstr., XVII/107,<br/>Hern. Hauptstr. 154</td>\n</tr>\n<tr>\n<td>U3 98 37</td>\n<td></td>\n<td>Schneider, Hs., Ob.Stadtbaurat, XV/101,<br/>Johnstr. 69</td>\n</tr>\n<tr>\n<td>R3 91 23</td>\n<td></td>\n<td>Schneider, Dr. Hs., R.A., XII/82, Schön-<br/>brunner Str. 245</td>\n</tr>\n<tr>\n<td>A2 83 24</td>\n<td></td>\n<td>Schneider, Hs., Sportartik., XVII/107,<br/>Hern. Hauptstr. 11</td>\n</tr>\n<tr>\n<td>B1 32 28</td>\n<td></td>\n<td>Schneider, Hs., Skontist, XIX/117,<br/>Kobenzlg. 23</td>\n</tr>\n<tr>\n<td>A4 35 55</td>\n<td rowspan=\"4\">{</td>\n<td rowspan=\"4\"><b>Hans Schneider</b> autor. Ford-<br/>händler</td>\n</tr>\n<tr>\n<td>A4 50 37</td>\n</tr>\n<tr>\n<td>B2 02 58</td>\n</tr>\n<tr>\n<td>A3 85 51</td>\n</tr>\n<tr>\n<td>B4 71 85</td>\n<td></td>\n<td>Verkauf: 11/27, Obere Donaustr. 99<br/>Derselbe: Ersatzteillager und Reparatur-<br/>werk, V/55, Hofgasse 1<br/>Schneider, Hs. C., Ing. Baumstr., IX/71,<br/>Brünnlbadg. 18</td>\n</tr>\n<tr>\n<td>B3 11 95</td>\n<td>L</td>\n<td>Schneider, Hedw., VII/62, Kaiserstr. 6</td>\n</tr>\n<tr>\n<td>U1 89 82</td>\n<td></td>\n<td>Schneider, Hch., Dr., III/40, Unt.Weiß-<br/>gerb.Str. 45</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory. The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry or a page with no visible content.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "– Schneider (Band V) 1045",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Hans Schneider & Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 751 974\" data-label=\"Text\"><table><tbody><tr><td>R3 94 97</td><td>Schneider, Hugo, Papier, XV/101, Kürnb.<br/>Gasse 4</td></tr><tr><td>U1 99 21</td><td>Schneider, Ign., Vers., III/40, Klopst. Pl. 4</td></tr><tr><td>U2 26 13</td><td>Schneider, Isa H., I/1, Seitzerg. 6</td></tr><tr><td>U1 00 52</td><td>Schneider, I., Zollspedit., III/40, Haupt-<br/>zollamt Mag., X, Kabine 2</td></tr><tr><td>U1 49 59</td><td>Schneider, Jenny, III/40, Custozzag. 13</td></tr><tr><td>A5 79 40</td><td>Schneider, Jenny, Beamtin, XIII/89,<br/>Dostoj. G. 26</td></tr><tr><td>B2 41 90</td><td>Schneider, Joh., Papierwr., VI/56, Hof-<br/>mühlg. 3</td></tr><tr><td>R3 86 18</td><td>Schneider, Joh., Gastw., XII/82, Eichen-<br/>straße 12</td></tr><tr><td>A3 70 01</td><td>Schneider, Joh., Installat., V/55, Schloßg. 16</td></tr><tr><td>A3 14 78</td><td>Ders., Wohn., V/55, Schönbrunner Str. 38</td></tr><tr><td>U3 92 67</td><td>Schneider, Jos., Dr., XIV/89, Anzbachg. 1</td></tr><tr><td>A1 36 83</td><td>Schneider, Jos., Ing., Dions.-Rat, XIX/<br/>117, Sommerg. 2</td></tr><tr><td>B3 47 55</td><td>Schneider, Jos., Elektrohdlg., VII/62,<br/>Bandg. 30</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "XV/101, Stiegerg. 10",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "A5 00 13 Schneider, Jul., Kim., XIII/89, Stuttg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "D 1 39 52 Schneider, Karl, Insp. u. Av., Glanzingg. 61",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "bastel 8",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

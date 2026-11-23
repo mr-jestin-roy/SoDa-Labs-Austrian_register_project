@@ -1,0 +1,858 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 955 993 978\" data-label=\"Image\"><img alt=\"A solid black horizontal line at the bottom of the page.\"/></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"276 145 854 830\"}]",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Karl A. Schülke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      },
+      {
+        "region_name": "Warnsdorf (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wildenschwert (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"370 165 817 541\"}, {\"label\": \"Text\", \"bbox\": \"504 598 888 859\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Amberg (Oberpfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 973 912\" data-label=\"Text\"><p><b>| Tuchhaus-Wiedemann &amp; Co. 4333 |</b><br/>Stoffe, Textil- u. Webwaren, Augsburg, Bahnhofstr. 18<sup>1/2</sup></p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"300 20 934 942\" data-label=\"Text\"><p><b>„Gro-Te-Ge“</b><br/><b>Gesellschaft für Textilgroßhandel m. b. H.</b><br/><b>Berlin C 2, Klosterstr. 21—24. Ruf 51 53 91</b><br/><b>Inland — Export</b></p></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"243 19 993 235\" data-label=\"Text\"><p>17 53 91 Kölnische Mode- und Textilgroßhandlung<br/>G. m. b. H., SW 68, Lindenstr. 51/53</p></div><div data-bbox=\"229 256 991 960\" data-label=\"Text\"><p><b>51 44 68</b> <b>Hermann König K.-G.</b> Textilgroßhandlung — Ausrüstung<br/><b>51 44 69</b> Fabrikation v. Wäsche u. Berufskleidung,<br/>Berlin C 2, Königstraße 46/47<br/><b>T</b> Webereilager</p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 145 393 820\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b><br/><b>51 41 42</b></p></div><div data-bbox=\"405 14 958 955\" data-label=\"Text\"><p><b>Hans von Mioduski</b><br/><b>Großhandlung</b><br/><b>Textilwaren – Kurzwaren – NS-Bedarf</b><br/><b>Berlin C 2, Bischofstraße 19/21</b></p></div>",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Beuthen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Bottrop (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Braunau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with faint, illegible horizontal lines suggesting ghosting or extremely faded text.\"/></div>",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"844 792 995 937\" data-label=\"Page-Footer\"><p><b>6125</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"185 54 844 243\"}, {\"label\": \"Text\", \"bbox\": \"336 295 723 407\"}, {\"label\": \"Text\", \"bbox\": \"436 427 590 613\"}, {\"label\": \"Text\", \"bbox\": \"436 651 620 750\"}, {\"label\": \"Text\", \"bbox\": \"283 796 743 934\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"110 0 998 145\" data-label=\"Text\"><p>— + — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Horst Armbrust",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"62 114 992 286\" data-label=\"Text\"><p><b>24766 Blauert, Max, Inh. Kurt Dobbeck, Textilwaren-Agenturgesch., Vorst. Graben 43</b></p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"52 156 176 354\"}, {\"label\": \"Section-Header\", \"bbox\": \"203 29 960 447\"}, {\"label\": \"Text\", \"bbox\": \"349 503 811 705\"}, {\"label\": \"Text\", \"bbox\": \"206 723 338 947\"}, {\"label\": \"Text\", \"bbox\": \"686 731 963 951\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 37 993 946\" data-label=\"List-Group\"><p>27390 <b>Dirksen, Dietrich</b>, Textilwarengroßhandel,<br/>Trikotagen, Berufsbekleidung, Schürzen-<br/>und Wäsche-Fabrikation, Danzig, Heilige<br/>Geistgasse 87—89</p><p>22286 { <b>Eduard Dirksen &amp; Co.</b>, Textil-Einzelhan-<br/>22287 {del, Holzmarkt 22</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"45 146 157 292\"}, {\"label\": \"Section-Header\", \"bbox\": \"210 54 797 343\"}, {\"label\": \"Text\", \"bbox\": \"196 375 761 930\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"44 226 168 380\" data-label=\"Text\"><p>239 37</p></div><div data-bbox=\"290 61 904 404\" data-label=\"Text\"><p><b>Kurt Frost</b> Textilwaren-<br/>Großhandlung</p></div><div data-bbox=\"274 408 909 585\" data-label=\"Text\"><p>Danzig, Gr. Wollwebergasse 9/10</p></div><div data-bbox=\"47 585 173 731\" data-label=\"Text\"><p>214 25</p></div><div data-bbox=\"196 580 984 942\" data-label=\"Text\"><p><b>Gebr. Graeser</b>, Textilwaren-Großhandel<br/>u. -Vertretungen, Danzig, Hundegasse 96</p></div>",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"41 54 163 196\"}, {\"label\": \"Text\", \"bbox\": \"200 46 807 878\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"48 205 170 343\"}, {\"label\": \"Text\", \"bbox\": \"48 354 170 492\"}, {\"label\": \"Text\", \"bbox\": \"48 503 170 641\"}, {\"label\": \"Text\", \"bbox\": \"48 652 170 790\"}, {\"label\": \"Section-Header\", \"bbox\": \"313 106 840 282\"}, {\"label\": \"Text\", \"bbox\": \"198 305 956 464\"}, {\"label\": \"Text\", \"bbox\": \"198 455 954 606\"}, {\"label\": \"Text\", \"bbox\": \"447 611 703 761\"}, {\"label\": \"Text\", \"bbox\": \"479 787 668 912\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Eipel (Böhmen).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "| Ettelbrück (Luxemburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"84 74 934 924\" data-label=\"Text\"><p><b>Textilwaren-<br/>Großhandlung<br/>Zohann Wehr<br/>Gottelbrücf<br/>(Eugenburg)<br/>Sernispreßer 2172</b></p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Falkenstein (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Oder).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Freudenstadt (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenfeld (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Gauselfingen (Hohenzoll.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gelsenkirchen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 997 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is mostly empty, with a faint vertical line on the right edge. There is a small, illegible mark near the top center.\"/></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"174 27 802 156\" data-label=\"Text\"><p><b>Kommandit-Gesellschaft</b></p></div><div data-bbox=\"209 206 771 350\" data-label=\"Text\"><p><b>Groß-Porschitscher</b></p></div><div data-bbox=\"105 381 871 527\" data-label=\"Text\"><p><b>mechanische Buntweberei</b></p></div><div data-bbox=\"78 586 890 723\" data-label=\"Text\"><p><b>Arnold Kraus Nachf.</b></p></div><div data-bbox=\"207 759 767 841\" data-label=\"Text\"><p><b>Groß-Porschitsch a. d. Mettau</b></p></div><div data-bbox=\"242 876 730 966\" data-label=\"Text\"><p><b>Fernsprecher: Hronow 17</b></p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Grünberg (Niederschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Güstrow (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gummersbach (Rhd.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hainburg (Donau) [Niederdonau].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hanau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Heidenheim (Brenz) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Hohenelbe (Riesengeb.) [Sudetenland].",
+        "entries": []
+      },
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"333 54 605 339\" data-label=\"Text\"><p>Museumstraße 14</p></div><div data-bbox=\"0 481 241 830\" data-label=\"Text\"><p><b>Iserlohn.</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"29 145 114 308\"}, {\"label\": \"Section-Header\", \"bbox\": \"180 92 689 375\"}, {\"label\": \"Text\", \"bbox\": \"124 412 740 921\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Kaiserslautern.",
+        "entries": []
+      },
+      {
+        "region_name": "Kalisch (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Textilwarenfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Karlsruhe",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      }
+    ]
+  }
+]

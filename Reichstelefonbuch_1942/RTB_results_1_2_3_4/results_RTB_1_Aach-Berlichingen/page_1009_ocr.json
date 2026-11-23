@@ -1,0 +1,879 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"270 158 353 395\"}, {\"label\": \"Section-Header\", \"bbox\": \"468 85 830 412\"}, {\"label\": \"Text\", \"bbox\": \"330 515 965 951\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Felix Krainz",
+        "entries": []
+      },
+      {
+        "region_name": "Marne (Holst.).",
+        "entries": []
+      },
+      {
+        "region_name": "Mattersburg (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Memel.",
+        "entries": []
+      },
+      {
+        "region_name": "Metz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "M. Chatam",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"554 106 680 292\"}, {\"label\": \"Text\", \"bbox\": \"454 343 783 585\"}, {\"label\": \"Text\", \"bbox\": \"329 640 907 937\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Müllhausen (Ols.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Heinrich HERTZOG-HETT",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"342 93 890 339\" data-label=\"Text\"><p><b>ERWIN JUNi</b></p></div><div data-bbox=\"309 351 935 490\" data-label=\"Text\"><p><b>Obst- u. Gemüsegroßhandlung</b></p></div><div data-bbox=\"391 544 853 710\" data-label=\"Text\"><p><b>Mülhausen (Elsaß)</b></p></div><div data-bbox=\"484 718 763 809\" data-label=\"Text\"><p>Zeughausstraße 48</p></div><div data-bbox=\"484 832 763 928\" data-label=\"Text\"><p><b>Fernsprecher 3298</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "JosefMÜLLER",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Jaime NABOT",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Luzian STECK",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "23 36 Bell, Franz, Obst, Gemüse und Südfrüchte, M 25, Großmarkthalle, Halle III, Platz 39"
+          },
+          {
+            "extension": "7",
+            "text": "22 75 Cavalleri, Ettore, M 50 Großmarkthalle"
+          },
+          {
+            "extension": "7",
+            "text": "35 69 Eschenbaum, Karl, Obst-, Gemüse- u. Südfrüchte-Großhandel, Import, Großmarkthalle München, Halle III"
+          },
+          {
+            "extension": "7",
+            "text": "27 57 { Faccio, Leonida, Südfrüchte-Gemüse,"
+          },
+          {
+            "extension": "7",
+            "text": "48 17 { Import, Großmarkthalle. T Faccio"
+          },
+          {
+            "extension": "7",
+            "text": "23 98 Fedexport Fruchthandelsges., Großm. Halle"
+          },
+          {
+            "extension": "7",
+            "text": "47 69 Gerlinger, Wilhelm, Obst und Südfrüchte, München, Großmarkthalle"
+          },
+          {
+            "extension": "7",
+            "text": "38 90 Grauvogel, Math., Obst- und Gemüsegroßhandlung, Großmarkthalle"
+          },
+          {
+            "extension": "7",
+            "text": "27 33 Klammer, Josef, Großhandels-Vertretungen in Obst — Gemüse — Südfrüchten, München 50, Großmarkthalle"
+          },
+          {
+            "extension": "7",
+            "text": "25 05 Lechler, August, Fruchthandel, M 25, Großmarkthalle, Kontorhaus"
+          },
+          {
+            "extension": "7",
+            "text": "39 64 { di Lenardo, Luigi, Obst und Südfrüchte,"
+          },
+          {
+            "extension": "7",
+            "text": "39 65 { M 25, Thalkirchner Str. 128"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"133 528 147 548\" data-label=\"Text\"><p>- 17 -</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Münster (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Muggensturm (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Mureck (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Nauheim (Kr. Groß-Gerau).",
+        "entries": []
+      },
+      {
+        "region_name": "Neubrandenburg (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neugersdorf (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neukieritzsch (Bez. Leipzig).",
+        "entries": []
+      },
+      {
+        "region_name": "Neumünster (Holst.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Oberreitnau (Bodensee).",
+        "entries": []
+      },
+      {
+        "region_name": "Osterburg (Altmark).",
+        "entries": []
+      },
+      {
+        "region_name": "Pedlau (Untersteiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Plauen (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"45 54 945 253\"}, {\"label\": \"Text\", \"bbox\": \"30 311 957 441\"}, {\"label\": \"Text\", \"bbox\": \"251 457 724 617\"}, {\"label\": \"Text\", \"bbox\": \"182 636 803 783\"}, {\"label\": \"Text\", \"bbox\": \"182 800 807 940\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"267 33 698 382\"}, {\"label\": \"Text\", \"bbox\": \"186 395 813 575\"}, {\"label\": \"Text\", \"bbox\": \"217 575 785 761\"}, {\"label\": \"Text\", \"bbox\": \"235 761 784 947\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Ravensburg (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"606 796 975 937\" data-label=\"Text\"><p><b>4263. Obst</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Reichenberg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Reutlingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Rhens (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Rheydt (Rhepr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Röhresdorf (Bez. Chemnitz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Rogätz (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Roisdorf b. Bonn.",
+        "entries": []
+      },
+      {
+        "region_name": "Rosenheim (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rostock (Seestadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Rudolstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "St. Pölten (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Schleswig.",
+        "entries": []
+      },
+      {
+        "region_name": "Schöneiche b. Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Schumburg a. D. (Sudetenland)",
+        "entries": []
+      },
+      {
+        "region_name": "Schweidnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Schwerin (Mecklb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Siegen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Simbach a. Inn (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Solbad Hall (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Solingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Stift (Donau) Windehandelsamt",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"36 20 941 361\"}, {\"label\": \"Text\", \"bbox\": \"39 399 943 774\"}, {\"label\": \"Text\", \"bbox\": \"338 770 645 947\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Spreda (üib. Vechta [Oldb.]).",
+        "entries": []
+      },
+      {
+        "region_name": "Steinkirchen (Bez. Hamburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Stendal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 796 245 941\" data-label=\"Text\"><p><b>1. Gemüse</b></p></div><div data-bbox=\"413 796 772 955\" data-label=\"Text\"><p>(Branchenteil) 525</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Steyr (Oberdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Continentale",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Straßburg (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"38 106 166 740\" data-label=\"Text\"><p>Sammel-<br/>Nr.<br/>26390</p></div><div data-bbox=\"181 10 696 861\" data-label=\"Text\"><p><b>Damm &amp; Krauss</b><br/>Fruchtimport u. Großhandlung<br/>Strassburg, Im grünen Bruch 3a<br/>Telegrammadresse Dammkrauss</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"189 61 576 317\"}, {\"label\": \"Text\", \"bbox\": \"323 313 434 433\"}, {\"label\": \"Text\", \"bbox\": \"124 433 636 561\"}, {\"label\": \"Text\", \"bbox\": \"199 550 563 680\"}, {\"label\": \"Text\", \"bbox\": \"194 680 569 920\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"93 67 674 266\" data-label=\"Text\"><p><b>Wwe. Celestine Schmitt</b></p></div><div data-bbox=\"107 296 656 437\" data-label=\"Text\"><p><b>Obstgroßverteilungsstelle</b></p></div><div data-bbox=\"182 442 579 675\" data-label=\"Text\"><p><b>Straßburg (Els.)</b></p></div><div data-bbox=\"263 680 501 804\" data-label=\"Text\"><p>Marbachgasse 8</p></div><div data-bbox=\"234 796 540 929\" data-label=\"Text\"><p><b>Fernsprecher 288 69</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"157 93 613 343\"}, {\"label\": \"Text\", \"bbox\": \"107 335 662 457\"}, {\"label\": \"Text\", \"bbox\": \"204 468 556 602\"}, {\"label\": \"Text\", \"bbox\": \"126 617 635 740\"}, {\"label\": \"Text\", \"bbox\": \"237 761 527 878\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Straßburger Frucht-Import",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"32 55 730 654\"}, {\"label\": \"Text\", \"bbox\": \"135 675 626 925\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "GebrüderWingerter",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Studenzen (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"29 104 145 308\"}, {\"label\": \"Section-Header\", \"bbox\": \"184 29 704 330\"}, {\"label\": \"Text\", \"bbox\": \"192 399 679 960\"}]",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"230 0 678 533\" data-label=\"Text\"><p>Obst — Gemüse — Süßfrüchte<br/>Versand — Großhandel<br/>Teplitz-Schönau<br/>Hamburger Straße 11</p></div>",
+      "cells": [
+        "col4_sec15.png"
+      ]
+    }
+  }
+]

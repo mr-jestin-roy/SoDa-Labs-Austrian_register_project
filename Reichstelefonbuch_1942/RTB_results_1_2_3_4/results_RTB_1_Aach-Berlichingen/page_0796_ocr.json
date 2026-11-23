@@ -1,0 +1,946 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 704 606 937\" data-label=\"Text\"><p>312 (Branchenteil)</p></div><div data-bbox=\"772 704 998 904\" data-label=\"Text\"><p>2554. H.</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brohl (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"297 35 475 253\" data-label=\"Image\"><img alt=\"Logo for A. Geißler K.G. featuring a diamond shape with 'A' and 'G' inside, and 'HOLZ' and 'BAU' below it.\"/></div><div data-bbox=\"296 57 935 252\" data-label=\"Text\"><p>HOLZBAUWERKE</p></div><div data-bbox=\"278 270 965 529\" data-label=\"Text\"><p>A. Geißler K.G</p></div><div data-bbox=\"286 572 961 708\" data-label=\"Text\"><p>DANZIG - STROHDEICH</p></div><div data-bbox=\"286 744 708 843\" data-label=\"Text\"><p>HERMSDORF - THÜR.</p></div><div data-bbox=\"574 852 958 957\" data-label=\"Text\"><p>KÖNIGSBERG-PR</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Dietfurt (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Dinslaken (Ndrh.).",
+        "entries": []
+      },
+      {
+        "region_name": "Donnerskirchen (Niederdonau)",
+        "entries": []
+      },
+      {
+        "region_name": "Erlach (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedrichshafen am Bodensee.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Hartberg (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hermsdorf (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"277 25 454 242\" data-label=\"Image\"><img alt=\"Logo for A. Geißler K.G. Holzbaulwerke, featuring a diamond shape with 'A G E' inside and 'HOLZBAU' below it.\"/></div><div data-bbox=\"471 45 916 212\" data-label=\"Text\"><p>HOLZBAUWERKE</p></div><div data-bbox=\"262 260 954 521\" data-label=\"Text\"><p><b>A. Geißler K.G.</b></p></div><div data-bbox=\"266 553 957 714\" data-label=\"Text\"><p>HERMSDORF - THÜR.</p></div><div data-bbox=\"268 742 725 837\" data-label=\"Text\"><p>DANZIG- STROHDEICH.</p></div><div data-bbox=\"556 847 954 954\" data-label=\"Text\"><p>KÖNIGSBERG-PR.</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"235 10 981 102\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Hermülheim (Rhpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Herzogenburg (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Hielgersdorf (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Kalisch (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Wien — 2555. Holzbearbeitung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Leibnitz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Lindau (Baden)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"96 102 190 274\"}, {\"label\": \"Image\", \"bbox\": \"221 87 390 854\"}, {\"label\": \"Text\", \"bbox\": \"483 16 905 378\"}, {\"label\": \"Text\", \"bbox\": \"604 395 790 569\"}, {\"label\": \"Text\", \"bbox\": \"554 585 838 757\"}, {\"label\": \"Text\", \"bbox\": \"527 776 854 947\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"14 20 988 951\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"353 10 930 950\" data-label=\"Text\"><p><b>DUIZNAU, DAGE- u. NOUWERK</b><br/><b>Aeschacher Ufer 36</b><br/><b>Einwohner: 0000</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"326 20 928 279\" data-label=\"Text\"><p>Telegr.-Adresse: <b>Schneiderwerk</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "F. SCHAFFER",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Marxhausen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"262 29 731 243\" data-label=\"Text\"><p><b>GROSS</b></p></div><div data-bbox=\"262 286 731 417\" data-label=\"Text\"><p><b>G. m. b. H.</b></p></div><div data-bbox=\"221 472 774 572\" data-label=\"Text\"><p><b>Ingenieurbüro — Holzbauten</b></p></div><div data-bbox=\"172 602 823 736\" data-label=\"Text\"><p><b>Mülhausen (Elsaß)-Burzweiler</b></p></div><div data-bbox=\"343 736 655 824\" data-label=\"Text\"><p><b>Belchenstraße 2</b></p></div><div data-bbox=\"318 861 679 960\" data-label=\"Text\"><p><b>Fernsprecher 1900</b></p></div>",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Münster (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Niesky (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"65 85 908 399\"}, {\"label\": \"Text\", \"bbox\": \"158 473 819 680\"}, {\"label\": \"Text\", \"bbox\": \"35 757 955 899\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"172 19 803 494\"}, {\"label\": \"Text\", \"bbox\": \"100 533 876 962\"}]",
+      "cells": [
+        "col2_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Stahlgaden (Stainawerl)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "esfabriken",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Velten (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Franz Baumgartner",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"61 98 950 382\"}, {\"label\": \"Text\", \"bbox\": \"61 434 943 585\"}, {\"label\": \"Text\", \"bbox\": \"239 641 811 770\"}, {\"label\": \"Text\", \"bbox\": \"347 811 695 937\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 6 182 114\" data-label=\"Text\"><p>B4 80 69</p></div><div data-bbox=\"464 6 737 114\" data-label=\"Text\"><p><b>Ernst Fritsche</b></p></div><div data-bbox=\"321 131 866 256\" data-label=\"Text\"><p><b>Zimmer- u. Brunnenmeister</b></p></div><div data-bbox=\"486 266 712 386\" data-label=\"Text\"><p><b>Holzbauten</b></p></div><div data-bbox=\"287 395 951 533\" data-label=\"Text\"><p><b>Wien XVIII/110, Naafgasse 1-3</b></p></div><div data-bbox=\"14 526 239 654\" data-label=\"Text\"><p><b>Atzgersdorf</b></p></div><div data-bbox=\"75 661 193 774\" data-label=\"Text\"><p><b>Wien-</b></p></div><div data-bbox=\"108 796 182 908\" data-label=\"Text\"><p><b>532</b></p></div><div data-bbox=\"280 526 948 934\" data-label=\"Text\"><p><b>{ Hößinger, Johann, Bautischlerei,<br/>Hallenbau, Baracken, Türen u.<br/>Treppen, Wien XXV-Atzgersdorf</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Holzbauwerk",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 117 180 348\" data-label=\"Text\"><p>R1 20 72</p></div><div data-bbox=\"398 136 793 385\" data-label=\"Text\"><p><b>Georg Jirovec Wwe.</b></p></div><div data-bbox=\"195 385 991 904\" data-label=\"Text\"><p>Zimmererei und Holzhausbau, Wien X/75,<br/>Belgradplatz-Davidgasse</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"371 54 657 162\"}, {\"label\": \"Text\", \"bbox\": \"38 214 960 473\"}, {\"label\": \"Text\", \"bbox\": \"205 524 787 640\"}, {\"label\": \"Text\", \"bbox\": \"45 683 642 805\"}, {\"label\": \"Text\", \"bbox\": \"675 683 960 805\"}, {\"label\": \"Text\", \"bbox\": \"45 822 603 944\"}, {\"label\": \"Text\", \"bbox\": \"675 822 960 944\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 178 56\" data-label=\"Text\"><p>A5 70 28</p></div><div data-bbox=\"292 10 875 56\" data-label=\"Text\"><p><b>Dr. Stollwerck &amp; Co.</b></p></div><div data-bbox=\"358 56 832 103\" data-label=\"Text\"><p>Holzbau-Ingenieur-Büro,</p></div><div data-bbox=\"196 101 986 150\" data-label=\"Text\"><p>Wien 89, XIII, Trauttmansdorfgasse 3a</p></div><div data-bbox=\"0 175 715 237\" data-label=\"Text\"><p><b>Wien-Klosterneuburg.</b></p></div><div data-bbox=\"79 236 986 330\" data-label=\"Text\"><p>1056 Neunteufel, Alois, Zimmermeister, Wien-Klosterneuburg, Ziegelofengasse 13</p></div><div data-bbox=\"0 342 468 404\" data-label=\"Text\"><p><b>Wien-Mödling.</b></p></div><div data-bbox=\"0 404 986 588\" data-label=\"Text\"><p>55 u. 60 und Wien B2 20 34 { <b>Holzwerke Ing. Josef Schleusser</b><br/>Baumeister, Großzimmerei, Sägewerk,<br/>Holzhandlung, Mödling, Schillerstraße 79</p></div><div data-bbox=\"0 600 809 659\" data-label=\"Text\"><p><b>Wiener Neustadt (Niederdonau).</b></p></div><div data-bbox=\"100 668 967 750\" data-label=\"Text\"><p>193 <b>Architekt Alois Freytag</b></p></div><div data-bbox=\"348 753 807 801\" data-label=\"Text\"><p>Baugeschäft, Zimmerei,</p></div><div data-bbox=\"223 798 955 846\" data-label=\"Text\"><p>Wiener Neustadt, Wiener Straße 100</p></div><div data-bbox=\"0 858 812 920\" data-label=\"Text\"><p><b>Wörschach (Steiermark).</b></p></div><div data-bbox=\"123 919 930 992\" data-label=\"Text\"><p>10 <b>Bauunternehmung Felix Schweiger,</b><br/>Machinelle Zimmerei</p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 141 982 826\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Anspach (Taunus).",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bachmanning (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Godesberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Baumbach (Westerwald).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Bensberg (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"116 46 658 246\"}, {\"label\": \"Text\", \"bbox\": \"53 283 726 408\"}, {\"label\": \"Text\", \"bbox\": \"97 412 684 537\"}, {\"label\": \"Text\", \"bbox\": \"69 533 706 658\"}, {\"label\": \"Text\", \"bbox\": \"208 651 564 783\"}, {\"label\": \"Text\", \"bbox\": \"87 783 690 908\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Beuthen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bielstein (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Brand-Erbisdorf (Kr. Freiberg) [Sachs.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Bremen-Lesum.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Bunzlau.",
+        "entries": []
+      },
+      {
+        "region_name": "Burggrub b. Kronach.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Butschowitz (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "D. Drucker's",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Neumarkt an der Ybbs",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Dassel (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Delmenhorst.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Elmshorn.",
+        "entries": []
+      },
+      {
+        "region_name": "Floß (Oberpfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"55 29 720 385\"}, {\"label\": \"Text\", \"bbox\": \"292 395 491 561\"}, {\"label\": \"Text\", \"bbox\": \"95 575 675 774\"}, {\"label\": \"Text\", \"bbox\": \"289 757 510 944\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Klosterfelde (Niederbarnim).",
+        "entries": []
+      }
+    ]
+  }
+]

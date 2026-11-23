@@ -1,0 +1,679 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black artifact in the bottom right corner.\"/>This image is a scan of a blank white page. It contains no text or other meaningful content. There is a small, irregular black artifact located in the bottom right corner of the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical line along the right edge.\"/>This image shows a blank white page. A thick, solid black vertical line runs along the entire right edge of the page, from top to bottom. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar along the right edge.\"/>This image shows a blank white page, likely a separator or a page with no content from a 1942 German telephone directory. A thick, solid black vertical bar runs along the entire right edge of the page, which is a common feature in digital scans of physical documents to indicate the edge of the paper or a binding.</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"915 10 975 990\" data-label=\"Image\"><img alt=\"A solid black vertical bar on the right side of the page.\"/></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"908 10 975 990\" data-label=\"Image\"><img alt=\"A thick black vertical bar on the right edge of the page.\"/></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar on the right edge.\"/>This image shows a blank white page, likely a scan of a document. A prominent, thick black vertical bar runs along the right edge of the page, possibly representing a binding or a scanning artifact. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"905 125 979 212\" data-label=\"Page-Header\">17</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"68 946 87 968\" data-label=\"Page-Footer\"><p>..</p></div><div data-bbox=\"558 946 566 968\" data-label=\"Page-Footer\"><p>.</p></div><div data-bbox=\"809 946 817 968\" data-label=\"Page-Footer\"><p>.</p></div><div data-bbox=\"881 946 968 968\" data-label=\"Page-Footer\"><p>- . - .</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Telefonbuch 1942",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical line along the left edge.\"/>This image shows a blank white page. A prominent, thick black vertical line runs along the left edge of the page, extending from the top to the bottom. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"65 10 85 990\" data-label=\"Image\"><img alt=\"A thick black vertical line on the left side of the page, likely a scanning artifact or a binding edge.\"/></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 5 75 990\" data-label=\"Image\"><img alt=\"A thick black vertical line on the left side of the page, likely a scanning artifact or a binding edge.\"/></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 10 65 985\" data-label=\"Image\"><img alt=\"A thick vertical black line on the left side of the page, likely a scanning artifact or a page margin.\"/></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": ".",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "14",
+            "text": "r"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely for a specific town or region.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with faint horizontal lines, suggesting it is a separator or a page with no entries.\"/></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "ALLGEMEINE ELEKTRO-INDUSTRIE",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "HEINRICH WINKLER",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 996 1000\" data-label=\"Image\"><img alt=\"A high-contrast, black and white photograph of an industrial facility, likely a power plant or refinery, featuring large cylindrical storage tanks and tall chimneys. The image is heavily stylized with a grainy, halftone texture.\"/>A high-contrast, black and white photograph of an industrial facility, likely a power plant or refinery. The image is heavily stylized with a grainy, halftone texture. In the foreground, a dark, silhouetted structure, possibly a building or a large tank, occupies the left side. To the right, a tall, slender chimney stands prominently against a bright, overexposed sky. Further to the right, another large, dark cylindrical structure is visible. The background shows a line of trees and more industrial structures, including what appears to be a water tower. The overall composition is stark and industrial, with deep blacks and bright whites.</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 996 1000\" data-label=\"Image\"><img alt=\"A high-contrast, black and white halftone image of a road with white lane markings.\"/>This is a high-contrast, black-and-white halftone image of a road. The road surface is dark and textured, showing a grainy pattern. Several bright white lines are painted on the road, indicating lane boundaries or markings. These lines are straight in some areas and curve in others, creating a sense of perspective. The overall image has a grainy, dotted appearance characteristic of halftone printing.</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Einheitssäule für Bremsprüf-Meldeanlagen nach R. Z. A. Bauvorschrift",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A dark, grainy, and noisy horizontal band, likely a scan artifact or a placeholder for a missing image.\"/></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which are likely scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a thin black border. There are some faint, illegible markings near the top left corner, possibly from a previous page or a stamp.\"/></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"332 951 340 968\" data-label=\"Page-Footer\"><p>-</p></div><div data-bbox=\"536 951 544 968\" data-label=\"Page-Footer\"><p>-</p></div><div data-bbox=\"630 951 638 968\" data-label=\"Page-Footer\"><p>-</p></div><div data-bbox=\"768 951 980 968\" data-label=\"Page-Footer\"><p>- . . . . .</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a horizontal line at the top and a small black mark near the bottom center.\"/>This image shows a blank page from a 1942 German telephone directory. At the top, there is a horizontal line composed of several segments, some solid and some dashed. Near the bottom center, there is a small, isolated black dot. The rest of the page is empty white space.</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "0",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a vertical black line on the right edge.\"/>This image shows a blank white page, likely a separator or a page with no content from a 1942 German telephone directory. A thin, vertical black line is visible along the right edge of the page.</div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "-----",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 14 979 27\" data-label=\"Page-Header\"><p>1942 German Telephone Directory (Reichstelefonbuch) - Page 1</p></div>",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col5_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 955 72 968\" data-label=\"Page-Footer\"><p>--</p></div>",
+      "cells": [
+        "col5_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col5_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar on the left edge.\"/>This image shows a blank white page, likely a scan of a document. A prominent, thick black vertical bar runs along the left edge of the page, possibly representing a binding or a scanning artifact. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col5_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col5_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 84 241 96\" data-label=\"Page-Header\"><p>1</p></div>",
+      "cells": [
+        "col5_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col5_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 6 66 992\" data-label=\"Image\"><img alt=\"A solid black vertical bar on the left side of the page.\"/>A solid black vertical bar is positioned on the left side of the page, extending from the top to the bottom. It is a uniform, opaque black rectangle with no internal details or text.</div>",
+      "cells": [
+        "col5_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col5_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 10 62 990\" data-label=\"Image\"><img alt=\"A thick black vertical bar on the left side of the page.\"/>A thick black vertical bar is positioned on the left side of the page, extending from the top to the bottom. It appears to be a scanning artifact or a placeholder for a page element.</div>",
+      "cells": [
+        "col5_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col5_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar along the left edge.\"/>This image shows a blank white page. A thick, solid black vertical bar runs along the entire left edge of the page, from top to bottom. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col5_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col5_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar along the left edge.\"/>This image shows a blank white page, likely a scan of a document. A prominent, thick black vertical bar runs along the left edge of the page, possibly representing a binding or a scanning artifact. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col5_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col5_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 15 35 45\" data-label=\"Image\"><img alt=\"Small black square artifact in the top-left corner.\"/></div>",
+      "cells": [
+        "col5_sec08.png"
+      ]
+    }
+  }
+]

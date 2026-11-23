@@ -1,0 +1,618 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"242 718 484 937\"}, {\"label\": \"Text\", \"bbox\": \"652 718 998 942\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"241 19 916 940\" data-label=\"List-Group\"><ul><li>3 Gendarmeriestation Anger Krs. Weiz</li><li>2 Gradwohl, Friedrich, Obstversand</li><li>10 Kowald, Dr. Robert, Arzt</li><li>12 NSDAP., Ortsgruppenleitung</li><li>13 Pappenfabrik Anger</li><li>7 Peizeder, Karl, Gerberei</li><li>9 Pichlerwerke Weiz, Bez.-Aufsicht, Anger</li><li>5 Seidl, Peter, Kaufmann</li><li>8 Talkumwerke Eduard Ellbogen Nf.</li><li>1 Talkumwerke Naintsch Kiwisch &amp; Co.</li><li>6 Thaller, Hugo, Groß-Gasthof</li></ul></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Angerapp (Ostpr.)",
+        "entries": [
+          {
+            "extension": "233",
+            "text": "Adler-Apotheke, G. Fleischer, Mühlenstr. 3"
+          },
+          {
+            "extension": "420",
+            "text": "Amtsgericht, Wilhelmstr. 132"
+          },
+          {
+            "extension": "415",
+            "text": "An- u. Verkaufsgenossenschaft"
+          },
+          {
+            "extension": "318",
+            "text": "Apotheke, Walter Dühr, Gudwallenstr. 41"
+          },
+          {
+            "extension": "330",
+            "text": "Arbeitsamt Insterburg, Kirchenstr. 63"
+          },
+          {
+            "extension": "413",
+            "text": "Arens, Dr., Arzt, Bahnhofstr."
+          },
+          {
+            "extension": "347",
+            "text": "Auerbach, Alb., Ofenbau, Bahnhofstr."
+          },
+          {
+            "extension": "462",
+            "text": "Badeanstalt"
+          },
+          {
+            "extension": "446",
+            "text": "Bahnhofswirtschaft West"
+          },
+          {
+            "extension": "339",
+            "text": "Bank der Ostpr. Landschaft, Insterb.-Str. 116a"
+          },
+          {
+            "extension": "313",
+            "text": "Bannasch, Ida, Ww., Ströpken"
+          },
+          {
+            "extension": "274",
+            "text": "Barteleit, Gust., Landwirt, Maiden"
+          },
+          {
+            "extension": "483",
+            "text": "Baubüro Ostrpeußenwerk Angerapp"
+          },
+          {
+            "extension": "247",
+            "text": "Beyrau, Bauer, Grünsiedel"
+          },
+          {
+            "extension": "429",
+            "text": "Bleß, Dr., Tierarzt"
+          },
+          {
+            "extension": "372",
+            "text": "Bluhm, Karl, Fahrräder, Markt 84"
+          },
+          {
+            "extension": "216",
+            "text": "Borowsky, Fr., Landwirt, Ottoberg"
+          },
+          {
+            "extension": "210",
+            "text": "Bouchard, Franz, Brunnenbau"
+          },
+          {
+            "extension": "250",
+            "text": "Reinhard &amp; Dummankh Insterb. Str. 116a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"235 0 998 987\" data-label=\"Text\"><p>390 Brauerei Wilhelm Krech, Markt 46<br/>307 Breyer, Dr. A., Tierarzt, Schützenstr. 151<br/>315 Broczys, Ernst, Gärtnerei, Gudwaller Str. 86<br/>409 Brünnemann, Maria, Landwirtin, Menzelswalde<br/>470 Bublitz, Willy, Goldwaren, Markt 60<br/>322 Bürgerl. Brauhaus AG, Insterburger Str. 99<br/>282 Damaschun, Franz, Kol.-W., Markt 86<br/>259 de la Chaux, H., Kreistaxat., Wilhelmstr. 166<br/>396 Didlaukies, Ernst, Dentist, Mühlenstr. 109<br/>487 Didschuneit, Max, Viehvert., Kirchenstr. 68<br/>395 Dietrich, Dr. A., Zahnarzt, Insterb. Str. 87<br/>276 Dildey, Ellard, Weine, Markt<br/>358 Dimsat sen., Ed., Viehhld., Wilhelmstr. 72<br/>369 Dimsat, Fritz, Viehhdlg., Ströpken<br/>306 Dimsat, Hans, Viehhdlg., Markt 60<br/>227 Dirichlet, Landwirt, Kl.-Brettken<br/>254 Dobrat, Walter, Kol.-W., Insterb.-Str. 117<br/>338 Dobrat, A., Bekleidungsgh., Insterb. Str. 117<br/>303 Drogerie Rogalski, Markt 111<br/>343 Dudszus, Emil, Landw., Gr. Ragauen Abbau<br/>354 Edeka Großhandel, eGmbH, Insterb. Str. 90</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 13 993 993\" data-label=\"Text\"><p>488 Feist, Hans, Kreisleführer<br/>319 Fidler, Erich, Bäckermstr., Schulstr.<br/>252 Finanzamt, Gudwaller Str.<br/>482 Fischer, Franz, Kommissar<br/>401 Fornacon, Otto, Küchengerate, Mühlenstr. 109<br/>260 Gaudian, E., Malermstr., Kirchenstr. 68<br/>(432) Gendarmerieabteilung Angerapp<br/>371 Gerhardt, Erich, Dentist, Markt 84<br/>494 Gerlach, Walter, Seiler, Insterburger Str.<br/>486 Gessulat, K., Häute, Goldaper Str. 2<br/>426 Gettkant, Fritz, Kfm., Lindenstr. 170<br/>329 Gebr. Gräwert, Tiefbau, Koblenzer Str. 22<br/>325 Graw, Bruno, Manuf.-W., Markt 111<br/>245 Grigat, Fritz, Landwirt, Kleinauerfluß<br/>295 Gronwald, Dr. Gerhard, Arzt, Lindenstr. 169<br/>397 Hahn, Max, Fleischbesch., Bergstr. 99<br/>320 Hahn, Siegfried, Bauer, Gr. Ragauen<br/>256 Hammer, Erich, Zahnarzt, Gudw. Str. 140<br/>383 Hartwich, Bauer, Gr. Bachrode<br/>201 Hausfrauenverein, eGmbH, Markt 14<br/>474 Hein Erich Schnitthof Wilhelmstr. 105</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"220 0 990 990\" data-label=\"Table\">\n<table>\n<tr>\n<td>407</td>\n<td>Heiser Nf. A., Eisenwr., Gudwaller Str. 156</td>\n</tr>\n<tr>\n<td>275</td>\n<td>Henkies, Landwirt, Klein Kamanten</td>\n</tr>\n<tr>\n<td>497</td>\n<td>Hermann, Curt, Leiter, Gudwaller Str. 42</td>\n</tr>\n<tr>\n<td>364</td>\n<td>Hinz, Ernst, Kaufmann, Ströpken</td>\n</tr>\n<tr>\n<td>473</td>\n<td>Hirt, Dr., Arzt, Gudwaller Str. 35</td>\n</tr>\n<tr>\n<td>387</td>\n<td>Hofer jr., Fritz, Fleischermstr., Schulstr. 134</td>\n</tr>\n<tr>\n<td>270</td>\n<td>Hoffmann, Alfr., Drogerie, Markt 47</td>\n</tr>\n<tr>\n<td>384</td>\n<td>Hoffmann, Heinz, Modewaren, Markt 47</td>\n</tr>\n<tr>\n<td>294</td>\n<td>Holstein, Landwirt, Gotthardsthal</td>\n</tr>\n<tr>\n<td>328</td>\n<td>Honskamp, Erich, Maschinenfabrik</td>\n</tr>\n<tr>\n<td>366</td>\n<td>Hotel Deutsches Haus, Am Markt</td>\n</tr>\n<tr>\n<td>246</td>\n<td>Hotel Dresdener Hof, Gumbinner Str. 99</td>\n</tr>\n<tr>\n<td>424</td>\n<td>Hotel Reimers Hof, Darkehmen, Marktplatz</td>\n</tr>\n<tr>\n<td>431</td>\n<td>Jonas, Adolf, Klempnermeister, Gold. Str. 1</td>\n</tr>\n<tr>\n<td>346</td>\n<td>Kaiser, Fr., Tischlern., Gumb. Str. 102</td>\n</tr>\n<tr>\n<td>269</td>\n<td>Kalweit, Hans, Kol.-W., Gudwaller Str.</td>\n</tr>\n<tr>\n<td>445</td>\n<td>Kamutzki, Kfm., Mühlenstr.</td>\n</tr>\n<tr>\n<td>239</td>\n<td>Kammer, Heinrich, Grünsiedel</td>\n</tr>\n<tr>\n<td>410</td>\n<td>Kannapin, Hebammenschwester, Gumbinner Straße 101</td>\n</tr>\n<tr>\n<td>345</td>\n<td>Kannapin, Franz, Kfm., Gudwaller Str. 25</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"225 0 987 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>377</td>\n<td>Katasteramt, Wilhelmstr.</td>\n</tr>\n<tr>\n<td>425</td>\n<td>Kath. Pfarramt, Lindenstr. 171</td>\n</tr>\n<tr>\n<td>380</td>\n<td>Katzke, Otto, Kaufmann, Gudwallen</td>\n</tr>\n<tr>\n<td>392</td>\n<td>Kaun, Fritz, Landwirt, Ursfelde</td>\n</tr>\n<tr>\n<td>205</td>\n<td>Kauschus, O., Tischler, Gudwaller Str. 141</td>\n</tr>\n<tr>\n<td>439</td>\n<td>Gebr. Kemsies, Malermstr., Ströpken</td>\n</tr>\n<tr>\n<td>336</td>\n<td>Klein, Lehrer, Gr. Grobienen</td>\n</tr>\n<tr>\n<td>477</td>\n<td>Klotz, August, Gudwaller Str. 23</td>\n</tr>\n<tr>\n<td>441</td>\n<td>Kniep, Paul, Buchhdlg., Mühlenstr. 107</td>\n</tr>\n<tr>\n<td>279</td>\n<td>Köller, Ernst, Amtsvorst., Milchbude</td>\n</tr>\n<tr>\n<td>402</td>\n<td>Kopitz, Kreisleiter, Insterb. Str.</td>\n</tr>\n<tr>\n<td>356</td>\n<td>Kräkel, Paul, Bauer, Kleinsausreppen</td>\n</tr>\n<tr>\n<td>344</td>\n<td>Krämer, Hans, Klempnern., Gudwaller Str. 38</td>\n</tr>\n<tr>\n<td>471</td>\n<td>Krause, Bürgermeister, Schlieben</td>\n</tr>\n<tr>\n<td>403</td>\n<td>Krebs, Kurt, Privatgestüt, Schimmelhof</td>\n</tr>\n<tr>\n<td>432</td>\n<td>Kreis-Ausschuß u. Landratsamt</td>\n</tr>\n<tr>\n<td>284</td>\n<td>Kreishandwerkerschaft Angerapp</td>\n</tr>\n<tr>\n<td>370</td>\n<td>Kreissparkasse, Markt 48</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Kreiskrankenhaus</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Kremp, Paul, Kol.-W., Gudwaller Str. 28</td>\n</tr>\n<tr>\n<td>168</td>\n<td>Telefon</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"221 0 977 575\" data-label=\"List-Group\"><ul><li>428 Krumm, Otto, Kurzwaren</li><li>292 Kunkel, Max, Uhren, Gumbinner Str. 101</li><li>333 Kuschinski, F., Dachdeckermstr., Insterb.Str</li><li>382 Laade, Franz, Viehhdlg., am Sportplatz</li><li>376 Laade, Karl, Viehhdlg., Abbau</li><li>261 Labinski, Hans, Landwirt, Maiden</li><li>272 Landkrankenkasse Angerapp, Lindenstr. 168</li><li>206 Landw. Buchführungsagen., Kreisbuchstelle</li></ul></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 14 998 994\" data-label=\"Text\"><p>349 Lau, Werner, Amtsger.-Rat, Lindenstr. 173<br/>311 Lautz, Fr., Landwirt, Hallweg<br/>422 Lemke, Landwirt, Schulstr. 51<br/>335 Lenkeit, Gust., Landwirt, Hallweg<br/>241 Lilleike, G., Kol.-W., Gr. Auffahrt<br/>271 Lindtner, Erwin, Kol.-W., Mühlenstr. 6<br/>234 Lorscheid, Dr., Reg.-Veterinärarzt, Goldaper<br/>Straße 208<br/>282 Lottermoser, Landwirt, Kamanten<br/>350 Luttermoser, Georg, Kfm., Mühlenstr. 7<br/>348 Maudel, R.A. u. Notar, Kirchenstr. 80<br/>203 Marold, Karl, Kfm., Ströpken<br/>448 Matthus, Franz, Gembem<br/>291 Matthus, Rich., Fahrräder, Gudwaller Str. 40<br/>296 Matthus, Willy, Sattlerwr., Gudwaller Str. 35<br/>404 Mauriszat, Paul, Dampfsäge- und Nobelwerk,<br/>Holzhandlung, Angerapp<br/>332 Meck, Ella, Hebamme, Markt 110<br/>416 Meck, Kurt, Tischlermstr.<br/>228 Mex, Ferd., Kol.-W., Gudwallerstr. 45.<br/>375 Meyer, Dr., Stadttrentmeister<br/>949 Wittwold, Horst, Dr., Arona-Str. 11</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 988\" data-label=\"Text\"><p>258 Moikerei-Gen. GmbH, Insterb. Str. 131<br/>461 Münster, Erhard, Frhr. v. Hallweg<br/>449 Neumann, Bäckermstr., Gudwaller Str.<br/>421 Niegisch, Joachim, Stud.-Rat, Gudw. Str. 35<br/>444 NSDAP., Kreisleit., Wilhelmstr. 72<br/>423 Dieselbe, Ortsgr. Angerapp, Kirchenstr. 74<br/>452 Dieselbe, Ortsgr.-Leiter Kadereit<br/>361 Dieselbe, Deutsche Arbeitsfront<br/>240 Dieselbe, NS.-Volkswohlfahrt, Kreisamtsleit.<br/>263 Ortskrankenkasse, Gudwaller Str. 35<br/>378 Ostpreußenwerk A.-G., Gudwaller Str. 25<br/>309 Ott, P., Elektromstr., Insterb. Str. 88<br/>255 Paul's, A. Otto, Buchdruckerei<br/>226 Peinert, Dr., Arzt, Lindenstr. 168<br/>386 Penell, Max, Viehhdlr., Kirchenstr. 175.<br/>440 Perner, Fleischermstr., Gumbinner Str. 102<br/>408 Peschutter, G., Eisenwaren<br/>287 Pfarramt II, Evang., Pfarrer Passauer<br/>357 Gebr. Pietsch. Ldw. Maschinen, Markt 61.<br/>267 Pipereit, Willy, Ziegelei, Schimmelhof<br/>387 Poetukat, Otto, Landw., Kleinsausreppen</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 17 997 993\" data-label=\"Text\"><p>278 Gebr. Pritzkoleit, Manuf.-W., Markt 16.<br/>257 Ramsauer, Leo, Landwirt, Sausreppen<br/>447 Reichsarbeitsdienst f. d. weibl. Jug. 12/10,<br/>Auerfluß<br/>414 Reichsluftschutzbund, Wilhelmstr.<br/>305 Reichsbahn, Güterabfert. Bhf. Ost<br/>281 Dieselbe, Güterabfertigung Bhf. West<br/>484 Dieselbe, Bhf. West<br/>485 Reichsnährstand, Kreisbauernschaft<br/>452 Reichspost, Postamt<br/>478 Reichsstelle für Getreide<br/>265 Reimann, R.A. u. Notar, Markt 60<br/>215 Richter, Ernst, Bankvorst., Kirchenstr. 75<br/>337 Riehl, H., Bauer, Gembern<br/>223 Rosummeck, Otto, Landw., Gr. Ragauen<br/>316 Rubel, Landwirt, Sandeck<br/>244 Sahm, Eugen, Landwirt, Menturren<br/>202 Salewski, G., Fleischer, Insterburgerstr. 91<br/>364 Sattler Nf., Fritz, Kol.-W., Ströpken<br/>214 Schaudinn, Alb., Landwirt, Ursfelde<br/>202 Schaller, Dr. Stranmoister, Lamharn</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>481</td>\n<td>Schelletter, Aug., Fuhrgesch., Kobl. Str. 8</td>\n</tr>\n<tr>\n<td>251</td>\n<td>Schibilla, Töpfermstr., Goldaperstr. 157.</td>\n</tr>\n<tr>\n<td>220</td>\n<td>Schindler, Kurt, Architekt</td>\n</tr>\n<tr>\n<td>204</td>\n<td>Schinz, Erich, Bäckermstr., Mühlenstr. 110</td>\n</tr>\n<tr>\n<td>293</td>\n<td>Schuklat, Aug., Landwirt, Friedrichsfelde.</td>\n</tr>\n<tr>\n<td>469</td>\n<td>Schulrat, Zdun, Lindenstr. 199</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Schulz, Ernst, Buchdruck.</td>\n</tr>\n<tr>\n<td>467</td>\n<td>Schwadrys, Bruno, Fleischerm., Alt Thalau</td>\n</tr>\n<tr>\n<td>217</td>\n<td>Schweighöfer, Kurt, Wurstwaren, Gudwaller<br/>Straße 41</td>\n</tr>\n<tr>\n<td>381</td>\n<td>Siebert, Gust., Landwirt, Schönwall</td>\n</tr>\n<tr>\n<td>495</td>\n<td>Sohn, Erwin, Bäckermstr., Vorstadtsiedlung</td>\n</tr>\n<tr>\n<td>207</td>\n<td>Sonnenberg, Frz., Schuhwaren Mühlenstr. 4</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Soujon, Landwirt, Auerfluß</td>\n</tr>\n<tr>\n<td>243</td>\n<td>Spauschus, Landwirt, Brettken</td>\n</tr>\n<tr>\n<td>229</td>\n<td>Sperling, Otto, Butter, Insterb.-Str. 90.</td>\n</tr>\n<tr>\n<td>405</td>\n<td>Spieshöfer, Abdeckerei, Abbau.</td>\n</tr>\n<tr>\n<td>236</td>\n<td>Spieshöfer, Rudolf, Fuhrhalt., Kirchenstr. 74.</td>\n</tr>\n<tr>\n<td>283</td>\n<td>Gottl. u. Karl, Sprang, Baugesch., Ströpken</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Staatliches Gesundheitsamt</td>\n</tr>\n<tr>\n<td><b>SmI.-I</b></td>\n<td><b>Stadtverwaltung Anzerand</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "248",
+            "text": "Statlich, Joh., Schornsteinf., Kobl.Str. 2"
+          },
+          {
+            "extension": "238",
+            "text": "Steiner, Landwirt, Jungferngrund"
+          },
+          {
+            "extension": "460",
+            "text": "Steinkopf, Gerh., Feldmstr., Lindenstr. 198"
+          },
+          {
+            "extension": "340",
+            "text": "Steppat, R.-A.[N], Schulstr. 51"
+          },
+          {
+            "extension": "323",
+            "text": "Stockhaus, Gust., Weißwaren"
+          },
+          {
+            "extension": "341",
+            "text": "Strasdat, Karl, Bauer, Kamanten"
+          },
+          {
+            "extension": "391",
+            "text": "Superintendenz, Kirchenstr. 70."
+          },
+          {
+            "extension": "222",
+            "text": "Teufert, Fahrräder, Insterb.Str. 94"
+          },
+          {
+            "extension": "266",
+            "text": "Thams &amp; Garfs, Gudwallerstr. 27"
+          },
+          {
+            "extension": "353",
+            "text": "Thies, Emil, Bauer, Gr.Ragauen"
+          },
+          {
+            "extension": "331",
+            "text": "Thies, Hans, Bauer, Gr.Ragauen"
+          },
+          {
+            "extension": "430",
+            "text": "Tomischat, Max, Glaserel, Markt 17"
+          },
+          {
+            "extension": "359",
+            "text": "Ullich, Meta, Damenputz, Gudw. Str. 40"
+          },
+          {
+            "extension": "264",
+            "text": "Urbschat, Wilh., Landmasch., Schulstr. 134"
+          },
+          {
+            "extension": "489",
+            "text": "Verbrauchergen. eGmbH, Gumbinner Str. 100"
+          },
+          {
+            "extension": "221",
+            "text": "Viehverwertungs-Gen., Kirchenstr. 77"
+          },
+          {
+            "extension": "362",
+            "text": "Vogeltreuter, H., Eisenwr., Markt 60"
+          },
+          {
+            "extension": "418",
+            "text": "Volksbank eGmbH."
+          },
+          {
+            "extension": "368",
+            "text": "Volkswohl-Bund, Versich. AG, Vertret."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 981\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>277</td>\n<td>Waltsgott, Fritz, Uhrmacher, Markt</td>\n</tr>\n<tr>\n<td>286</td>\n<td>Wauschkuhn, Irmgard Elis., Insterb. Str. 115</td>\n</tr>\n<tr>\n<td>326</td>\n<td>Wauschkuhn, Max, Landwirt, Schönwall</td>\n</tr>\n<tr>\n<td>268</td>\n<td>Wehrmacht, Remonteamt Gudwallen</td>\n</tr>\n<tr>\n<td>355</td>\n<td>Weichler, Otto, Viehhdlg., Hallweg</td>\n</tr>\n<tr>\n<td>898</td>\n<td>Geschw. Weiss, Galanteriewr., Mühlenstr. 4.</td>\n</tr>\n<tr>\n<td>450</td>\n<td>Wenghöfer, Hans, Gartenbau, Bahnstr.</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Wermke, Landwirt, Gailboden</td>\n</tr>\n<tr>\n<td>801</td>\n<td>Wiechert, Richard, Wassermühle</td>\n</tr>\n<tr>\n<td>300</td>\n<td>Wiechert, Ulr., Mühlenbes., Insterb. Str. 163</td>\n</tr>\n<tr>\n<td>475</td>\n<td>Wien, Seehügel</td>\n</tr>\n<tr>\n<td>419</td>\n<td>Willut, Otto, Polstermöbel, Insterb. Str. 88</td>\n</tr>\n<tr>\n<td>342</td>\n<td>Wieniewski, A., Klempner, Insterb.-Str.</td>\n</tr>\n<tr>\n<td>250</td>\n<td>Witt, Rittergut, Kleinfritzenau</td>\n</tr>\n<tr>\n<td>288</td>\n<td>Wunderlich, Viehgeschäft, Schulstr. 54.</td>\n</tr>\n<tr>\n<td>213</td>\n<td>Zilian, Karl, Baugesch., Ströpken</td>\n</tr>\n<tr>\n<td>324</td>\n<td>Zimmermann, Schulstr. 51</td>\n</tr>\n<tr>\n<td>280</td>\n<td>v. Zitzewitz, Rittergutsbesitzer, Weedern.</td>\n</tr>\n<tr>\n<td>209</td>\n<td>Derselbe, Rössningen</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text or other markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 718 586 940\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"25 158 535 826\"}]",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"54 36 965 904\" data-label=\"Text\"><p><b>Angerburg (Ostpr.)</b> Pforte Masurens, Stadt der Eissegelwochen, von Seen, Wald, gepflegten Promenaden umgeben. Lebhafter Fremdenverkehr und herrliche Dampferfahrten nach allen masurischen Seen. Erholung im Gästeheim Jägerhöh in der Nähe des schönsten Heldenfriedhofes am Schwenzaitsee</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 993\" data-label=\"Text\"><p>472 Adolf Hitler-Schule, Lötzener Str. 14<br/>390 Albath, Hugo, Bauer, Paulswalde.<br/>348 Amt für Beamte, Lötzen. Str. 4<br/>355 Amtsgericht, Schloßstr. 16.<br/>491 Angerburger Beobachter<br/>209 Angerburger Dampfmühle, Nordenb. Str.<br/>212 Dieselbe, Zweigst. Kehlener Str.<br/>255 Angerburger Kreiszeitung, Schloßstr. 4.<br/>204 An- u. Verkaufsgenossenschaft eGmbH.<br/>280 Apotheke, Adler-, Königsberger Str. 1<br/>437 Apotheke, Kreuz, Bahnhofstr. 2<br/>493 Arbeitsamt Goldap, Nebenst., Bahnhofstr. 24<br/>215 Arlart, C., Kfm., Königsbergerstr. 19.<br/>306 Arlart Nr., Inh. A. Walter, Königsb. Str. 19<br/>356 Ballies, Hch., Uhrmacherstr., Schloßstr. 1.<br/>334 Balnath, Erich, Hindenburgstr. 1<br/>562 Baltruschat, Emil, Tischler, Gumb. Str. 14<br/>241 Bank d. Ostpr. Landesch., Bahnhofstr. 5.<br/>327 Karl Bausch &amp; Co., Bauwaren, Bahnhofstr. 5,<br/>394 Banz, Herm., Friseurstr.<br/>578 Baptistengemeinde, Kehlener Str. 3<br/>326 Barran. Fr.. Fleisch- u. Wurstkonserven</p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 980\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>303</td>\n<td>Darui, Dtsch., Waiszeit, Dammuiser. 1</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Bartach, Fr., Kürschnermstr.</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Bartsch, Bäckerstr., Königsberg. Str. 20</td>\n</tr>\n<tr>\n<td>466</td>\n<td>Becker, W., Bücherrevisor, Entenstr. 8</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Beer, Clara, Papierhdlg., Schloßstr. 4</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Bendisach, Gartenbaubetrieb.</td>\n</tr>\n<tr>\n<td>527</td>\n<td>Bergmann &amp; Sohn, Fabrik landw. Maschinen u. Geräte, Bahnhofstraße 11</td>\n</tr>\n<tr>\n<td>538</td>\n<td>Bergmann, W., Automobile, Motorfahrzeuge, Bahnhofstr. 7</td>\n</tr>\n<tr>\n<td>433</td>\n<td>Biallaß, Hans, Bootswerft, Bahnhofstr.</td>\n</tr>\n<tr>\n<td>353</td>\n<td>Böhm, Willy, Bahnhofstr. 17</td>\n</tr>\n<tr>\n<td>335</td>\n<td>Bogdahn, Erich, Birkenhain</td>\n</tr>\n<tr>\n<td>459</td>\n<td>Bohnhardt, E., Bauer, Waldheim</td>\n</tr>\n<tr>\n<td>320</td>\n<td>Boldt, Rich., Bäcker, Schlachthofstr. 6</td>\n</tr>\n<tr>\n<td>566</td>\n<td>Borchert, Alfred, Sägewerk, Schwenten</td>\n</tr>\n<tr>\n<td>368</td>\n<td>Born, Aug., Bauer, Birkenhof</td>\n</tr>\n<tr>\n<td>589</td>\n<td>Bortz, Bürgermeister, Thiergarten</td>\n</tr>\n<tr>\n<td>278</td>\n<td>Brandt, Otto, Ofenbau, Kehlener Str. 1</td>\n</tr>\n<tr>\n<td>267</td>\n<td>Brauerei Bürgerl. Brauhaus AG, Schloßstr. 11</td>\n</tr>\n<tr>\n<td>521</td>\n<td>Brauerei Kinderhof, Gumbinner Str. 6</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>581</td>\n<td>Brauerei Schönbusch, Königsberger Str.</td>\n</tr>\n<tr>\n<td>308</td>\n<td>Brauerei Wilh. Krech, Kehlener Str.</td>\n</tr>\n<tr>\n<td>382</td>\n<td>Bremer, Landwirt, Carlshöh</td>\n</tr>\n<tr>\n<td>232</td>\n<td>Brettschneider, F. W., Weinstuben</td>\n</tr>\n<tr>\n<td>284</td>\n<td>Brock, Kurt, Möbel, Königsb. Str. 284</td>\n</tr>\n<tr>\n<td>583</td>\n<td>Bröde, Fritz, Baugesch., Kehlener Str.</td>\n</tr>\n<tr>\n<td>461</td>\n<td>Buchstelle d. Landw. Buchführungs-genoss. eGmbH, Bahnhofstr. 1</td>\n</tr>\n<tr>\n<td>462</td>\n<td>Budnick, Hans, Viehhdlg., Bismarckstr. 81</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Budnick, Karl, Lehrer, Königsb. Str. 88</td>\n</tr>\n<tr>\n<td>531</td>\n<td rowspan=\"2\">Bürgermeister u. Verkehrsamt,<br/>Schloßstraße 2</td>\n</tr>\n<tr>\n<td>532</td>\n</tr>\n<tr>\n<td>469</td>\n<td>Dasselbe, Bezugscheinausgabest., Kattestr. 4</td>\n</tr>\n<tr>\n<td>610</td>\n<td>Bürgermeisteramt Gr. Strengeln</td>\n</tr>\n<tr>\n<td>391</td>\n<td>Buttgereit, Fritz, Zuckerwr., Siedlg. Carlshöh</td>\n</tr>\n<tr>\n<td>490</td>\n<td>Central-Drogerie u. Fotohdlg., Königsb. Str. 23</td>\n</tr>\n<tr>\n<td>250</td>\n<td>Christeleit, W., Glas, Porzellan</td>\n</tr>\n<tr>\n<td>220</td>\n<td>Dampfziegelei Haargen.</td>\n</tr>\n<tr>\n<td>228</td>\n<td>Danger, Carl, Friseurmstr., Kaserne</td>\n</tr>\n<tr>\n<td>349</td>\n<td>Dankowski, Ernst, Bauer, Stullichen</td>\n</tr>\n<tr>\n<td>564</td>\n<td>Dentach-Amerik. Petroleum-Ges. Rhfstr. 17</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Table\">\n<table>\n<tr>\n<td>440</td>\n<td>Dierks, Wm., Lupieriusgr., Duerber. 0</td>\n</tr>\n<tr>\n<td>494</td>\n<td>Doberleit, A., Autovermiet., Rheinlandstr.</td>\n</tr>\n<tr>\n<td>837</td>\n<td>Dommert, Harry, Klempnerm., Freiheitstr. 8</td>\n</tr>\n<tr>\n<td>604</td>\n<td>Domning, Elisabeth, Abt.-Leiterin, Rothof</td>\n</tr>\n<tr>\n<td>642</td>\n<td>DRK.-Bereitschaftal., Königsb. Str. 5</td>\n</tr>\n<tr>\n<td>270</td>\n<td>Drogerie Hauptmann, Königsb. Str. 11</td>\n</tr>\n<tr>\n<td>563</td>\n<td>Dziewas, Lehrer, Kehlerwald</td>\n</tr>\n<tr>\n<td>310</td>\n<td>Eckloff, Franz, Getreide, Engelstein.</td>\n</tr>\n<tr>\n<td>593</td>\n<td>Eglinski, Amtsvorsteher, Schwenten</td>\n</tr>\n<tr>\n<td>291</td>\n<td>Erdtmann, Bruno, Likärfabrik</td>\n</tr>\n<tr>\n<td>630</td>\n<td>Färberei O. Skibowski, Königsb. Str. 23</td>\n</tr>\n<tr>\n<td>297</td>\n<td>Fehr, Heinr., Fahrradhaus, Holzmarkt 4</td>\n</tr>\n<tr>\n<td>549</td>\n<td>Feuersozietät, Kommissariat Angerburg</td>\n</tr>\n<tr>\n<td>307</td>\n<td>Feuerwehr, O.-Brandmstr., Schönenann, Lötzer Straße 3</td>\n</tr>\n<tr>\n<td>246</td>\n<td>Feyerherd, Bauer, Erlau</td>\n</tr>\n<tr>\n<td>572</td>\n<td>Fischbrutanst. Karl Grogger, Nordenb. Str.</td>\n</tr>\n<tr>\n<td>395</td>\n<td>Fischer, H., Klempnerel, Königsb. Str. 6</td>\n</tr>\n<tr>\n<td>288</td>\n<td>Fischmeister, Dienstgeböft, Schwenten</td>\n</tr>\n<tr>\n<td>282</td>\n<td>Försterel Stadtwald</td>\n</tr>\n<tr>\n<td>379</td>\n<td>Freudenberg, Fr., Baumstr., Uferstr. 4</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>328</td>\n<td>Freundt, Paul, Manufakturwaren</td>\n</tr>\n<tr>\n<td>471</td>\n<td>Frieda-Jung-Schule</td>\n</tr>\n<tr>\n<td>568</td>\n<td>Friese, Möbelhaus, Königsberger Str.</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Gästeheim Jägerhöhe am Schwenzaitsee</td>\n</tr>\n<tr>\n<td>465</td>\n<td>Gambalaf, F., Schornsteinf., Bismarckstr. 89</td>\n</tr>\n<tr>\n<td>824</td>\n<td>Gelzenleichter, Fritz, Bäckermstr., A. Markt 2</td>\n</tr>\n<tr>\n<td>372</td>\n<td>Gemballa, Paul, Fleischerei, Freiheitstr. 4</td>\n</tr>\n<tr>\n<td>293</td>\n<td>Gendarmerie-Kreisführer</td>\n</tr>\n<tr>\n<td>426</td>\n<td>Gendarmerie-Gruppenposten Angerburg I</td>\n</tr>\n<tr>\n<td>406</td>\n<td>Gendarmerie-Gruppenposten Angerburg II</td>\n</tr>\n<tr>\n<td>453</td>\n<td>Gendarmerie-Gruppenposten Schwenten</td>\n</tr>\n<tr>\n<td>428</td>\n<td>Gennat, Franz, Warengroßhdlg., A. Markt</td>\n</tr>\n<tr>\n<td>805</td>\n<td>Gerdes, Edda, Erich-Koch-Str. 2</td>\n</tr>\n<tr>\n<td>272</td>\n<td>Germania Lichtspiele</td>\n</tr>\n<tr>\n<td>539</td>\n<td>Gesundheitsamt, Staatl., Braunstr. 1</td>\n</tr>\n<tr>\n<td>321</td>\n<td>Glagowsky, Friedrich, Gastwirt, Kehlerwald</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Glowatzki, Fritz, Bäckerei</td>\n</tr>\n<tr>\n<td>536</td>\n<td>Goedache, Dr., Zahnarzt, Königsbergerstr. 18.</td>\n</tr>\n<tr>\n<td>213</td>\n<td>Görtz, Bruno, Hptm. a. D., Bahnhofstr. 24</td>\n</tr>\n<tr>\n<td>286</td>\n<td>Gräfl. Lehndorf-Steinort, Fisch., Haarßen</td>\n</tr>\n<tr>\n<td>149</td>\n<td>Gramatzki Paul Schuhw. Künisch Str. 17</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 935 600\" data-label=\"Text\"><p>393 Griesard, Ida, Medamme, Neue Marktstr. 5<br/>290 Grinda, O., Autoverm., Töpferstr. 3<br/>524 Gringel, Helm., Musiklehrer, Entenstr. 5<br/>281 Gröblinghoff, Bauer, Abb. Tiergarten<br/>350 Groggart, K., Fischereipächter, Schwenten<br/>336 Güternahverkehr, Königsberger Str. 4<br/>295 Guakow, Arthur, Elektr. Anl., Kattestr. 5<br/>526 Gwiaska, Fritz, Fleischer, Bahnhofstr. 25<br/>318 Haebel, Dr. E., Arzt, Braunstr.</p></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 744 264 771\" data-label=\"Text\"><p>■</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 9 780 993\" data-label=\"Text\"><p>271 Hagemeister, Emil, Tischlern., Entenstr. 14<br/>557 Hagen, Numelten<br/>389 Hasz, Wilhelm, Kaufmann, Schloßstr. 10<br/>266 Hausfrauen-Verein, Königsberger Str. 19<br/>243 Hausrath, Alex, Viehhdlg., Waldheim<br/>359 Heinrich, Walter, Prok., Kehlener Str. 19<br/>207 Hellmig, Herm., Baugesch., Rehannstr. 14<br/>401 Hellmig, Julius, Baugesch., Gumbinner Str. 25<br/>432 Hempel, Curt, Architekt, Lötzener Str. 6<br/>440 Heyer, Erich. Zigarren, Bahnhofstr. 2<br/>363 Hoffmann, Abdeckerei, Abb. Kehlen.<br/>525 Hoffmann, Paul, Photo, Königsb. Str. 14<br/>213 Holz- und Bauindustrie Tepper, Angerburg<br/>265 Dieselbe, Kalksandsteinfabrik Schwenten<br/>377 Hopp, Anna, Dentistin, Königsberger Str. 28<br/>408 Hotel, Bahnhofs-, E. Nickel, Bahnhofstr. 29<br/>301 Hotel Deutsches Haus, Alter Markt 6<br/>400 Dasselbe, Inh. E. Werner, Privat<br/>259 Hotel Kronprinz, Adolf Podel<br/>319 Hotel Schloß-, Kattestr. 1<br/>456 Jacob, E., Fischereipächter, Bahnhofstr. 12<br/>KRA Teucer A Brandshauer Kehlener Str</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 777 989\" data-label=\"Text\"><p>457 Jägerhöhe, Waldhaus, Otto Heinrich<br/>611 Jäkel, Fritz, Kehlener Str. 8<br/>378 Jaschinski, Fr., Bäckerstr., Holzmarkt 6<br/>540 Jesgars, Adolf, Versich., Carlshöh<br/>227 Jester, Dr., San.-Rat, Doehring, Primsdorf<br/>509 Job, Gustav, Kurzw., Königsb. Str. 18<br/>364 Joeschke, Landwirt, Gut Steinhof<br/>644 Joswig, Rich., Kol.-W., Freiheitstr. 5<br/>425 Jugendherberge, Bismarckstr. 5<br/>495 Kassa, Julius, Fleischwr., Schloßstr. 8<br/>273 Kassa, Max, Schlächtereie, Königsb. Str. 21<br/>316 Katasteramt, Schloßstr. 10.<br/>247 Kirschner, Rich., Drogen, N. Marktstr. 1.<br/>550 Kirschnereit, J. R., Manuf.-W., Schloßstr. 3<br/>298 Kiszio, Willi, Maler, Königsberger Hinterstr. 10<br/>489 Klatt, Ernst, Schuhhaus, Königsb. Str. 11<br/>358 Klein, O.-Stabsveterinär, Bahnhofstr. 12.<br/>228 Knittel, Ernst, Bahnsped., Bahnhofstr. 6<br/>232 Knuth, Joh., Kaufmann<br/>392 Koch, Otto, Möbel, Bahnhofstr. 33<br/>565 Komossa, Aug., Schmiedemstr., Gumb. Str. 27</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 17 777 875\" data-label=\"List-Group\">\n<p>411 Konditorei Vaterland, Gumbinner Str. 3</p>\n<p>338 Konditorei J. Werstat, Bhistr.</p>\n<p>332 Konrad, Herm., Schneidermstr., Bahnhofstr. 1</p>\n<p>242 Kontrollamt d. Landesvers.Anstalt, Bismarck-<br/>straße 29</p>\n<p>487 Kosney, Gerhard, Fleischermstr., A.Markt 8</p>\n<p>381 Kostropetsch, E., Landwirt, Eichenhof</p>\n<p>581 Kowalleck, Joh., Schiffseigner, Kehlen</p>\n<p>418 Kowalzik, Helene, Bäckerei, Theaterstr. 10</p>\n<p>606 Kraas, Hermann, Obmann, Angerburg</p>\n<p>435 Krankenkasse, Orts-, Allg., Bismarckstr. 19</p>\n<p>347 Krankowski, Gust., Bauer, Grüneberg.</p>\n<p>603 Kreisernährungsamt B, Neuer Markt 17</p>\n<p>300 Kreishandwerkerschaft, Kattestr. 3</p>\n<p>542 Kreishaus</p>\n<p>537 Kreiskrankenhaus, Freiheitstr. 16</p>\n<p>436 Kreiskriegerverband</p>\n<p>474 Kreis-Sparkasse Angerburg, Alter Markt 9</p>\n</div>\n<div data-bbox=\"13 875 775 992\" data-label=\"Text\">\n<p>8ml.-<br/>Nr. { Krüppelanstalten Bethesda<br/>Heilanstalten der Inneren Mission. Angerburg</p>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 11 771 993\" data-label=\"Text\"><p>231 Kruska, Emil, Kol.-W., Schwenten<br/>257 Kuhnke, L., Buchhandlung, Königsb.Str. 4<br/>634 Kussin, Hans, Gartenbau<br/>421 Kussin, Paul, R.-A.[N], Schloßstr. 5<br/>422 Derselbe, Wohnung, Bahnhofstr. 14<br/>365 Lägel, Otto, Elektromstr., Holzmarkt 5<br/>323 Lakaschus jr., Hans, Ofenbau, Reckliesstr. 8<br/>370 Langhoff, Fritz, Landwirt, Kehlen<br/>342 Laser, H., Schiffseigner, Lötzener Str.<br/>560 Laws, Ernst, Maler, Bahnhofstr. 1<br/>197 Leichenüberführung E. Hahn, Benkheim<br/>598 Lemke, Hartmut, Werkvertr., Bahnhofstr. 25<br/>496 Lemke, Richard, Fleischwr, Gumb. Str. 1<br/>325 Lerique, Studienrat, Bahnhofstr. 27<br/>333 Lesch, Emil, Manrermstr., Bahnhofstr. 8<br/>290 Lettau, Lehrer, Kehlen<br/>591 Lissinna, Schulrat, Bismarckstr. 12<br/>590 Litty, Kurt, Vertreter, Bahnhofstr. 3<br/>221 v. Lorck, Anni, Seehof<br/>274 Ludzay, Ch., Gaststätte, Neuer Markt 14<br/>977 <del>Moloibe</del> Lindw Seehwrat. Bahnhofstr 19</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 772 988\" data-label=\"Text\"><p><b>ZU1</b> Maluck, Leo, Landw., Angerhof<br/><b>260</b> Marquardt, Obergerichtsvollzieher, Angerappstr.<br/><b>444</b> Maschke, Ernst, Gaststätte, Königsb. Str. 9<br/><b>239</b> Matthée, August, Feinkost, Königsb.-Str. 20.<br/><b>210</b> Menach, Ida, Stadtwald<br/><b>450</b> Menach, Kurt, Bauer, Geroldswalde<br/><b>520</b> Meyer, Auguste, Fleischerei, Freiheitstr. 24<br/><b>304</b> Meyer, Emma, Kolonialwr., Schwenten<br/><b>431</b> Meyer, Fritz, Tiefbau, Siedlung Carlshöh<br/><b>577</b> Meyer, Fritz, Viehhändler, Freiheitstr. 5<br/><b>478</b> Migge, Erich, Gastwirt, Primsdorf<br/><b>405</b> Milthaler, Landwirt, Schönbrunn<br/><b>268</b> Molkerei-Genossenschaft eGmbH<br/><b>410</b> Monitor, Kurt, Restaur., Lötzener Str. 1<br/><b>329</b> Motzkus, Erich, Autoverm., Schloßstr. 18<br/><b>415</b> Mudrack, Georg, Pfarrer<br/><b>245</b> Neumann, Albert, Kehlen<br/><b>339</b> Nitsch, F., Fahrräder, Alter Markt 7<br/><b>256</b> NSDAP., Kreisleitung, Bahnhofstr. 4<br/><b>351</b> Dies., Sturmbrunn II/4, Schloßstr.<br/><b>244</b> Dies., BDM., Untergau 292, Kattestr. 3</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 767 965\" data-label=\"Text\"><p>588 Dies., HJ.-Bann 292, Bismarckstr. 15<br/>467 Dies., Kreisfrauenschaftsleitung, Bhfstr. 20<br/>463 Dies., Deutsche Arbeitsfront, Bahnhofstr.<br/>569 Dies., Ortsgr. Nord, Bismarckstr. 12<br/>547 Dies., Ortsgr. Süd<br/>530 Dies., Ortsgruppenl. NS.-Frauenschaft<br/>234 Dies., NS.-Reichskriegerbund, Bhfstr. 18<br/>236 Obermüller, Arthur, Zigarren, Schloßstr. 22<br/>424 v. Oepen, Dr. H., Arzt, Bismarckstr. 3<br/>569 Offizierheim, Lötzener Str.<br/>374 Ollhof, Emil, Bauer, Primsdorf<br/>208 Pallasch, Otto, Kol.-W., Carlshöh<br/>380 Papey, Oskar, Kurzwaren<br/>336 Passlack, Wilhelmswalde<br/>419 Paul, Rich., Kfm., Schwenten<br/>592 Paulat, Walter, Kreisw., Uferstr. 8<br/>434 Pfarrant, evangel., Angerburg Land, Königsb.<br/>Straße 8<br/>441 Pfarrant, evangel., Angerburg Stadt, Königsb.<br/>Straße 10</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with faint, illegible horizontal lines suggesting ghosting or extremely faded text.\"/></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

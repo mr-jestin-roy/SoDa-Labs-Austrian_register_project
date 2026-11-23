@@ -1,0 +1,908 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"230 12 998 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>89 28 07</td>\n<td>Espe, Emma, Drog., NW 87, Claudiusstr. 6</td>\n</tr>\n<tr>\n<td>49 04 98</td>\n<td>Espe, E., Schneiderin, Witt Holzh. Str. 288</td>\n</tr>\n<tr>\n<td>66 38 87</td>\n<td>Espe, Otto, Vertret., SW 29, Gneisenau-<br/>straße 52</td>\n</tr>\n<tr>\n<td>34 62 93</td>\n<td>Espe, Wern., Dr. phil., Siem Quellweg 54</td>\n</tr>\n<tr>\n<td>16 80 98</td>\n<td>Espen, E., Kleiderf., W 8, Kronenstr. 16</td>\n</tr>\n<tr>\n<td>92 53 07</td>\n<td>Espenhahn, A., Lg.-Verw., W 15, Uhl. Str. 56</td>\n</tr>\n<tr>\n<td>84 68 16</td>\n<td>Espenhahn, Käte, Schlsee Stauffz. 12</td>\n</tr>\n<tr>\n<td>85 21 20</td>\n<td>Espenlaub-Flugzeugbau, Schlsee Röhew. 1</td>\n</tr>\n<tr>\n<td>32 24 35</td>\n<td>Espenschied, A., Monteur, Chb 4 Kaiser-<br/>Friedrich-Str. 65</td>\n</tr>\n<tr>\n<td>93 32 03</td>\n<td>Espenschied, Heinz, Chb 5 Suarezstr. 40</td>\n</tr>\n<tr>\n<td>88 44 38</td>\n<td>Espermüller, E., Graph., Wilm Rauentaler<br/>Straße 24</td>\n</tr>\n<tr>\n<td>61 14 81</td>\n<td>Espig, A., Holzbearb.-Fbr., SO 36, Wal-<br/>demarstr. 27</td>\n</tr>\n<tr>\n<td>71 52 44</td>\n<td>Espig, E., Radio, Schb Grunewaldstr. 64</td>\n</tr>\n<tr>\n<td>34 45 14</td>\n<td>Espig, Gertrud, Chb 1 Lohmeyerstr. 10</td>\n</tr>\n<tr>\n<td>89 54 63</td>\n<td>Espinosa, Manuel, span. Mar.-Attaché,<br/>Grw Hagenstr. 26</td>\n</tr>\n<tr>\n<td>21 93 26</td>\n<td>(Esplanade-Hotel siehe Hotel Esplanade</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"229 9 997 974\" data-label=\"Text\"><table><tbody><tr><td>19 35 75</td><td>Esposito, A.,</td><td>Stoffe, SW 11, Anhalter Str. 11</td></tr><tr><td>68 56 10</td><td>Erich, Hans,</td><td>SO 36, Glogauer Str. 24</td></tr><tr><td>53 31 09</td><td>Eßberger, Heinz,</td><td>NO 55, Flandernstr. 13</td></tr><tr><td>72 50 63</td><td>Eßberger, Helene,</td><td>Stegl Liliencronstr. 8</td></tr><tr><td>96 24 77</td><td>Essek, A.,</td><td>Schausp., Chb 4 Dahlm. Str. 34</td></tr><tr><td>93 55 96</td><td>Essek, R.,</td><td>Chb 5 Gustloffstr. 45</td></tr><tr><td>28 37 61</td><td>Essek, Claramia,</td><td>W 30, Hohenst.-Str. 43</td></tr><tr><td>17 09 95</td><td>Essel, J.,</td><td>Mass., SW 61, B.-Alliance-Pl. 7</td></tr><tr><td>88 39 31</td><td>Esselbach, H.-B.,</td><td>Ing., Frdn Kaiserallee 11</td></tr><tr><td>86 89 03</td><td>Esselbach, Käthe,</td><td>Wilm Prinzreg.-Str. 74</td></tr><tr><td>80 60 67</td><td>Esselbach, Max,</td><td>Ing., Nik Cimbernstr. 24</td></tr><tr><td>48 30 57</td><td>Esselborn, E.,</td><td>Stud.-R., Pko Wolfsh. Str. 74</td></tr><tr><td>48 03 05</td><td>Esselborn, M.,</td><td>Ing., Pko Pestalozzi str. 39</td></tr><tr><td>35 05 41</td><td>Esselbrügge, Clara,</td><td>NW 40, Spenerstr. 35</td></tr><tr><td>53 51 63</td><td>Essele, F.,</td><td>Regendecken, NO 55, Pasteur-<br/>straße 31</td></tr><tr><td>27 53 46</td><td>Esselun, Alb.,</td><td>Vertr., W 35, Bülowstr. 55</td></tr><tr><td>39 28 54</td><td>Essen, Hildegard,</td><td>Oberlehr., NW 87, Les-<br/>singstr. 35</td></tr><tr><td>44 93 88</td><td>v. Essen, P.,</td><td>Feinkost, N 54, Schwedterstr. 20</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 0 998 995\" data-label=\"Text\"><table><tbody><tr><td>21 38 16</td><td>Essener Verl.-Anst. GmbH, W 35, Gr.-Spec-Str. 15</td></tr><tr><td>44 78 55</td><td>Essenzenfabr. Dr. L. &amp; Dr. W. Scholvien KG, N 113, Seelower Str. 5</td></tr><tr><td>52 33 33</td><td>Esser, Anton, C 2, N. Friedrichstr. 78</td></tr><tr><td>19 73 22</td><td>Esser, Elisabeth, Vermiet., SW 68, Friedrichstr. 234</td></tr><tr><td>50 22 34</td><td>Esser, Heinr., Baurat, Krusk Drach. Str. 11</td></tr><tr><td>55 37 88</td><td>Esser, Jak., Insp., Lhg Skand. Str. 26</td></tr><tr><td>35 25 13</td><td>Esser, Joach., Melk., NW 21, Bandelstr. 3</td></tr><tr><td>25 70 72</td><td>Esser, Jos., Vertret., W 50, Augsb. Str. 1</td></tr><tr><td>68 58 16</td><td>Esser, Josef, Kfm., SO 36, Hoffmannstraße 12</td></tr><tr><td>80 66 89</td><td>Esser, K. E., Dr. jur., Nik Albiger W. 3</td></tr><tr><td>21 23 35</td><td>Esser, M., Edelsteine, W 35, Apostelk. 7</td></tr><tr><td>84 44 61</td><td>Esser, Prof. M., Bildh., Zehl Berlepschstraße 38</td></tr><tr><td>85 02 05</td><td>Ders., Atel., Zehl Machn. Str. 37</td></tr><tr><td>68 67 29</td><td>Esser, O., Karosseriebau, SO 36, Köp. St. 12</td></tr><tr><td>66 80 06</td><td>Esser, Otto, Pat.-Ing., VDI u. DRF Sachverständiger. SW 81 Gurnhauserstr. 80</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 0 997 991\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>34 35 73</td>\n<td>Esser, P., Dir., Chb 5 Witzlebenpl. 4</td>\n</tr>\n<tr>\n<td>30 72 74</td>\n<td>Esser, Paul, Papierhdl., Tgl Berl. Str. 5</td>\n</tr>\n<tr>\n<td>86 80 54</td>\n<td>Esser, Paul E., Archit., Wilm Holst. Str. 3</td>\n</tr>\n<tr>\n<td>24 03 58</td>\n<td>Esser, P. G., Verleg., W 50, Regenb. Str. 22</td>\n</tr>\n<tr>\n<td>46 58 66</td>\n<td>Esser, R., Gastw., N 20, Prinzenallee 70</td>\n</tr>\n<tr>\n<td>31 28 11</td>\n<td>Esser, Theo, Kfm., Chb 4 Pestalozzistr. 41</td>\n</tr>\n<tr>\n<td>25 87 55</td>\n<td>Essers, Dr. A. L., RA, W 30, N. Bayreuther<br/>Straße 4</td>\n</tr>\n<tr>\n<td>64 01 29</td>\n<td>Ders., Hessw Kanalstr. 11</td>\n</tr>\n<tr>\n<td>97 26 89</td>\n<td>Essers, Dora, Hal J.-Friedrich-Str. 5</td>\n</tr>\n<tr>\n<td>80 70 69</td>\n<td>Essers, Dr. E. L., Ing., Stsd Schleifen-<br/>damm 98</td>\n</tr>\n<tr>\n<td>46 32 21</td>\n<td>Essers, Gertr., Zigarren., N 65, Tegeler Str. 23</td>\n</tr>\n<tr>\n<td>87 02 19</td>\n<td>Essers, Hildeg., Wilm Berliner Str. 73</td>\n</tr>\n<tr>\n<td>46 31 84</td>\n<td>Essers, J., Gastw., N 65, Tegeler Str. 24</td>\n</tr>\n<tr>\n<td>83 52 04</td>\n<td>Essers, L., Dr. jur., Wilm Kreuzn. Str. 14</td>\n</tr>\n<tr>\n<td>46 34 27</td>\n<td>Essers, W., Gastw., N 65, Otawistr. 32</td>\n</tr>\n<tr>\n<td>21 29 50</td>\n<td>Essers, Wilh., Kfm., W 35, Kluckstr. 7</td>\n</tr>\n<tr>\n<td>83 32 18</td>\n<td>Essfeld, E., Dr. jur., Frdn Laub. Str. 21</td>\n</tr>\n<tr>\n<td>73 74 09</td>\n<td>Ad. Essich &amp; Co, Lkw Langens. Str. 2</td>\n</tr>\n<tr>\n<td>57 16 70</td>\n<td>Essiger, H. G., Dipl.-Ing., O 112, Weser-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "32",
+            "text": "06"
+          },
+          {
+            "extension": "47",
+            "text": "44"
+          },
+          {
+            "extension": "76",
+            "text": "01"
+          },
+          {
+            "extension": "72",
+            "text": "48"
+          },
+          {
+            "extension": "85",
+            "text": "27"
+          },
+          {
+            "extension": "37",
+            "text": "93"
+          },
+          {
+            "extension": "58",
+            "text": "22"
+          },
+          {
+            "extension": "39",
+            "text": "47"
+          },
+          {
+            "extension": "87",
+            "text": "47"
+          },
+          {
+            "extension": "88",
+            "text": "67"
+          },
+          {
+            "extension": "71",
+            "text": "19"
+          },
+          {
+            "extension": "19",
+            "text": "76"
+          },
+          {
+            "extension": "72",
+            "text": "78"
+          },
+          {
+            "extension": "71",
+            "text": "58"
+          },
+          {
+            "extension": "91",
+            "text": "52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 0 987 953\" data-label=\"Text\"><table><tbody><tr><td>45 32 80</td><td>Estel, Margar., Stadttass., N 58, Danz.<br/>Straße 10</td></tr><tr><td>88 86 52</td><td>Estel, Paul, Sattler, SO 36, Kotth. Uf. 39</td></tr><tr><td>21 13 10</td><td>Estelmann, O., Weine, W 35, Lützowstr. 46</td></tr><tr><td>21 01 71</td><td>Estelmann, W., Weinst., W 35, Blumes H. 9</td></tr><tr><td>(16 29 49)</td><td>Estenfeld. Dr. O., Geschäftsf., NW 87,<br/>Händelallee 4</td></tr><tr><td>79 45 10</td><td>Ester, <i>Stegl</i> Flemmingstr. 3</td></tr><tr><td>87 62 67</td><td>Ester, Arnold, Insp., <i>Wilm</i> Thar. Str. 2</td></tr><tr><td>71 75 56</td><td>Esterer, H., Ing., <i>Schb</i> Warth. Str. 13</td></tr><tr><td>99 02 45</td><td>Esterer, Ulrich, <i>Chb</i> 9 Reichsstr. 20</td></tr><tr><td>72 44 84</td><td>Esterer, Wolfg., <i>Stegl</i> Birkbuschg. 16</td></tr><tr><td>75 42 78</td><td>Esterl, Otto, Baumstr., <i>Temp</i> Wolfr. Str. 56</td></tr><tr><td>19 43 26</td><td>Estermann, C., Reitstiefel, SW 11, Lucken-<br/>walder Str. 11a</td></tr><tr><td>85 15 51</td><td>Estermann, Walter, Schriftltr., <i>Zehl</i> Nie-<br/>dersachsenweg 12</td></tr><tr><td>42 12 85</td><td>Esterriedt, Eugen, Kfm., N 4, Gartenstr. 18</td></tr><tr><td>86 40 51</td><td>Esters, Elfi, Schausp., <i>Wilm</i> Schoelerp. 18</td></tr><tr><td>73 29 83</td><td>Esters, Karl, <i>Ltz</i> Mariannenstr. 33</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "1",
+            "text": "und 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "91",
+            "text": "23 11 ESTLER a. m. b. H., Stahlblechregale, Berlin-Charlottenburg 2, Kantstr. 159"
+          },
+          {
+            "extension": "76",
+            "text": "36 16 Estner, Anna, Dahl Goßlerstr. 11"
+          },
+          {
+            "extension": "99",
+            "text": "56 36 Estner, Fr., Maj., Chb 9 Brombeerweg 34"
+          },
+          {
+            "extension": "39",
+            "text": "30 40 Estor, Hptm., NW 87, Levetzowstr. 17"
+          },
+          {
+            "extension": "88",
+            "text": "74 77 v. Estorff, A., Frdn Wiesbadener Str. 6"
+          },
+          {
+            "extension": "26",
+            "text": "47 27 v. Estorff, D., Oberst, W 30, Barbar.-Str. 41"
+          },
+          {
+            "extension": "87",
+            "text": "26 88 v. Estorff, Emma, Wilm Landhausstr. 9"
+          },
+          {
+            "extension": "99",
+            "text": "56 50 Estorff, W., Dr.-Ing., Chb 9 Olymp. Str. 2"
+          },
+          {
+            "extension": "57",
+            "text": "38 48 Esträ Seifengroßhdlg., O 84, Lasdehner Straße 24"
+          },
+          {
+            "extension": "34",
+            "text": "35 37 Estrup, Frdr., Kol.-W., Plötz Juliusruh"
+          },
+          {
+            "extension": "16",
+            "text": "06 79 Eswe Stoffdruck Nielsen & Co., W 8, Krausenstr. 59"
+          },
+          {
+            "extension": "76",
+            "text": "14 78 Eswein, Dr. R., Ing., Ltz Geranienstr. 13"
+          },
+          {
+            "extension": "48",
+            "text": "37 61 Eta Chem. techn. Fbr. M. Baginski, Pko Borkumstr. 2"
+          },
+          {
+            "extension": "11",
+            "text": "64 76 „ETAG“ Erdöl- und Teerprodukten- Gesellschaft m. b. H., Berlin W 8, Behrenstr. 14/16. T Kraftstoffe P 51433"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "haus für Strümpfe u. Wäsche, Zentrale,",
+        "entries": [
+          {
+            "extension": "76",
+            "text": "31 32 Etbauer, E., Lt/ Gardeschützenweg 74"
+          },
+          {
+            "extension": "31",
+            "text": "58 79 Etbauer, Th. P., Archit., Chb 2 Bismarck- straße 115"
+          },
+          {
+            "extension": "30",
+            "text": "77 31 Etbauer, W. C., Dentist Tol Bollestr. 9"
+          },
+          {
+            "extension": "56",
+            "text": "42 06 Ete, Ges. f. Feinstbearbeitung u. Prä- zision Erich Tschentschel, Weiß Streustr 17"
+          },
+          {
+            "extension": "79",
+            "text": "55 69 Etebler, R., Fris., Stegl Liliencronstr. 18"
+          },
+          {
+            "extension": "83",
+            "text": "49 87 Eten, Doris, Wilm Landauer Str. 15"
+          },
+          {
+            "extension": "39",
+            "text": "37 67 Eter, Käte, Zool.-Hdlg., NW 87, Lessing- straße 37"
+          },
+          {
+            "extension": "16",
+            "text": "04 39 Eterna Uhren-Vertriebsgesellschaft m. b. H., W 8, Friedrichstr. 62. T Eternauhr"
+          },
+          {
+            "extension": "22",
+            "text": "49 44 Etha, Schwesternkleid., W 35, Potsd. Straße 124"
+          },
+          {
+            "extension": "16",
+            "text": "37 32 ETHYL G. m. b. H. Berlin NW 7, Unter den Linden 22"
+          },
+          {
+            "extension": "67",
+            "text": "08 68 Etikettenprägl. und Lithogr. Alex Bieder- mann. SW 68. Alexandrinenstr. 71"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>00 00 11</td>\n<td>Bücher, H., Buchh., SW 28, Wladimirstr. 41</td>\n</tr>\n<tr>\n<td>17 24 09</td>\n<td>Derselbe, Fabrik, SW 68, Alte Jakobstr. 5</td>\n</tr>\n<tr>\n<td>24 17 07</td>\n<td>Etlinger, K., Schausp., W 50, Budap. Str. 43</td>\n</tr>\n<tr>\n<td>97 38 66</td>\n<td>Etlinger, R., Kapellm., Hal Paulsb. Str. 12</td>\n</tr>\n<tr>\n<td>79 43 61</td>\n<td>Etmier, Gesine, Stegl Teltowkanalstr. 7</td>\n</tr>\n<tr>\n<td>24 94 96</td>\n<td>Etscheit, Dr. A., RA[N], W 50, Ranke-<br/>straße 33</td>\n</tr>\n<tr>\n<td>59 29 32</td>\n<td>Etscheid, H., Vertr., C 2, Iflandstr. 3</td>\n</tr>\n<tr>\n<td>97 05 05</td>\n<td>Ders., Wohn., Grw Hubortusallee 38</td>\n</tr>\n<tr>\n<td>91 40 75</td>\n<td>Etscheit, Victorine, Chb 4 Schlüt. Str. 34</td>\n</tr>\n<tr>\n<td>59 04 18</td>\n<td>Etschmann, Cl., Schokoladenfabr., O 2 Gr.<br/>Frankfurter Str. 87</td>\n</tr>\n<tr>\n<td>(25 59 02)</td>\n<td>Ettaler Kloster Liqueur GmbH, W 50,<br/>Nachodstr. 2</td>\n</tr>\n<tr>\n<td>26 05 43</td>\n<td>Etté, Bernhard, W 30, Aschaffenb. Str. 9</td>\n</tr>\n<tr>\n<td>63 41 35</td>\n<td>Etté, O., Ing., Ndschhs Hartriegelstr. 59a</td>\n</tr>\n<tr>\n<td>25 36 14</td>\n<td>Etté, Rita, W 50, Eislebener Str. 12</td>\n</tr>\n<tr>\n<td>16 77 57</td>\n<td>Ette &amp; Mischke, Uhren, O 2, Wallstr. 14</td>\n</tr>\n<tr>\n<td>25 05 27</td>\n<td>v. Ettenreich, R., Pat.-Anw., W 62, Kur-<br/>fürstenstr. 126</td>\n</tr>\n<tr>\n<td>85 39 34</td>\n<td>Ders., Wohn., Kronprinzen-A. 267</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "41",
+            "text": "10"
+          },
+          {
+            "extension": "88",
+            "text": "19"
+          },
+          {
+            "extension": "22",
+            "text": "14"
+          },
+          {
+            "extension": "92",
+            "text": "11"
+          },
+          {
+            "extension": "26",
+            "text": "34"
+          },
+          {
+            "extension": "48",
+            "text": "33"
+          },
+          {
+            "extension": "89",
+            "text": "59"
+          },
+          {
+            "extension": "92",
+            "text": "55"
+          },
+          {
+            "extension": "58",
+            "text": "27"
+          },
+          {
+            "extension": "31",
+            "text": "94"
+          },
+          {
+            "extension": "31",
+            "text": "76"
+          },
+          {
+            "extension": "66",
+            "text": "66"
+          },
+          {
+            "extension": "89",
+            "text": "78"
+          },
+          {
+            "extension": "79",
+            "text": "62"
+          },
+          {
+            "extension": "28",
+            "text": "20"
+          },
+          {
+            "extension": "72",
+            "text": "88"
+          },
+          {
+            "extension": "45",
+            "text": "06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>89 14 64</td>\n<td>Ettling, W., Dr. phil., Gew Charlottenbrunner Str. 2</td>\n</tr>\n<tr>\n<td>79 70 35</td>\n<td>Ettwig, Karl, Stegl Stindestr. 23a</td>\n</tr>\n<tr>\n<td>30 08 31</td>\n<td>ETZ-Verlag GmbH, Chb 4 Bism.-Str. 33</td>\n</tr>\n<tr>\n<td>88 07 28</td>\n<td>Etzdorf, Grete, Wilm Bonner Str. 11</td>\n</tr>\n<tr>\n<td>91 29 17</td>\n<td>v. Etzdorf, H., Leg.-Rat, W 15, Uhlandstraße 155</td>\n</tr>\n<tr>\n<td>97 73 54</td>\n<td>v. Etzdorf, Marg., Hal Nestorstr. 16</td>\n</tr>\n<tr>\n<td>44 05 49</td>\n<td>Etzel, Berta, D.-Bekleid., N 58, Weißenburger Str. 39</td>\n</tr>\n<tr>\n<td>47 39 73</td>\n<td>Etzel, F., Ing., Fro Rosenanger 73</td>\n</tr>\n<tr>\n<td>91 22 44</td>\n<td>v. Etzel, Margarete, Chb 4 Schlüterstr. 51</td>\n</tr>\n<tr>\n<td>46 35 62</td>\n<td>Etzenberg, Hulda, N 20, Buttmannstr. 17</td>\n</tr>\n<tr>\n<td>12 20 53</td>\n<td>Etzer, Franz, Bürobedarf und Geschäftsbücher, W 8, Behrenstr. 27</td>\n</tr>\n<tr>\n<td>50 50 27</td>\n<td>Derselbe, Wohn., Hirsch Oberseestr. 27</td>\n</tr>\n<tr>\n<td>65 51 05</td>\n<td>Etzer, H., Apoth., Karolinenhof, Vetschauer Allee 42</td>\n</tr>\n<tr>\n<td>55 30 96</td>\n<td>Etzer, R., Apoth.-Bes., Lbg Frankf. A. 264</td>\n</tr>\n<tr>\n<td>65 65 38</td>\n<td>Ders., Karolinenhof, Vetschauer Allee 38</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Straße 27",
+        "entries": [
+          {
+            "extension": "76",
+            "text": "24 63 Etzin, Clara, Lf Viktoriastr. 8"
+          },
+          {
+            "extension": "58",
+            "text": "04 48 Etzin, R., Milchh., O 112, Simplonstr. 31"
+          },
+          {
+            "extension": "62",
+            "text": "76 30 Etzkorn, E., Zeichn., Britz, Lauterberger"
+          }
+        ]
+      },
+      {
+        "region_name": "Straße 28",
+        "entries": [
+          {
+            "extension": "72",
+            "text": "13 67 Etzkorn, H., Texter, Stegl Uhlandstr. 9"
+          },
+          {
+            "extension": "34",
+            "text": "25 60 Etzler-Pral. Schokol.-Herst. u. Vertrieb, Zehl Telt. Damm 11"
+          },
+          {
+            "extension": "56",
+            "text": "94 93 Etzold, Dr. F., Arzt, Tmp M.-v.-Richth.- Straße 16"
+          },
+          {
+            "extension": "52",
+            "text": "93 94 Etzold, H., Ob.-Flugmasch., Neuk Oder- straße 21"
+          },
+          {
+            "extension": "34",
+            "text": "50 45 Etzold, Karl, Chb Königin-Luisen-Str. 17"
+          },
+          {
+            "extension": "34",
+            "text": "78 93 Etzold, R., Tabakwr., Chb 1 K.-Augusta- Allee 80"
+          },
+          {
+            "extension": "37",
+            "text": "80 81 Etzel, Richard, Wilm Uhlandstr. 81"
+          },
+          {
+            "extension": "34",
+            "text": "76 66 Etzold, R. Kfm., Chb 1 Olbersstr. 20"
+          },
+          {
+            "extension": "34",
+            "text": "28 57 Etzrodt, Dr. A., Phys., Siem Königsad. 285"
+          },
+          {
+            "extension": "34",
+            "text": "04 40 Etzrodt, F., Kfm., Chb 1 Kamminerstr. 9"
+          },
+          {
+            "extension": "37",
+            "text": "38 33 Etzrodt, Dr. K., Phys., Fro Alemann. Str. 60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "39",
+            "text": "76"
+          },
+          {
+            "extension": "34",
+            "text": "34"
+          },
+          {
+            "extension": "88",
+            "text": "30"
+          },
+          {
+            "extension": "68",
+            "text": "83"
+          },
+          {
+            "extension": "93",
+            "text": "78"
+          },
+          {
+            "extension": "75",
+            "text": "05"
+          },
+          {
+            "extension": "79",
+            "text": "77"
+          },
+          {
+            "extension": "31",
+            "text": "32"
+          },
+          {
+            "extension": "37",
+            "text": "34"
+          },
+          {
+            "extension": "35",
+            "text": "24"
+          },
+          {
+            "extension": "64",
+            "text": "92"
+          },
+          {
+            "extension": "56",
+            "text": "24"
+          },
+          {
+            "extension": "27",
+            "text": "16"
+          },
+          {
+            "extension": "27",
+            "text": "24"
+          },
+          {
+            "extension": "41",
+            "text": "37"
+          },
+          {
+            "extension": "73",
+            "text": "46"
+          },
+          {
+            "extension": "75",
+            "text": "75"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>66 87 66</td>\n<td>Euent, Marg., Zig., SW 61, Blücherstr. 10</td>\n</tr>\n<tr>\n<td>61 08 14</td>\n<td>Euent, W., Zig., SW 68, Prinzenstr. 108</td>\n</tr>\n<tr>\n<td>66 71 81</td>\n<td>Eugen, Dr. H., Baumstr., SW 61, Wilms-<br/>straße 1</td>\n</tr>\n<tr>\n<td>49 40 41</td>\n<td>Eugens, Art., Schausp., Witt Sittestr. 7</td>\n</tr>\n<tr>\n<td>26 25 49</td>\n<td>Euker, Rosemarie, W 30, Rosenhelm.Str.17</td>\n</tr>\n<tr>\n<td>8ml.-Nr.</td>\n<td>(„Euklides“ Kleineisen-Handel, Schrauben,</td>\n</tr>\n<tr>\n<td>62 55 56</td>\n<td>Muttern, Drehteile, C 2, Königstr. 41/42</td>\n</tr>\n<tr>\n<td>59 62 08</td>\n<td>Eul, G., Vers.-Kond., C 2, Marsil.-Str. 37</td>\n</tr>\n<tr>\n<td>89 43 09</td>\n<td>Eule, Anna, Milch, Smgd Berkaer Str. 44</td>\n</tr>\n<tr>\n<td>71 74 09</td>\n<td>Eule, Elisab., Ww., Schb Kufst.Str. 10</td>\n</tr>\n<tr>\n<td>(91 25 02)</td>\n<td>Eule, Dr. E., RA, W 15, Kurfürstend. 46</td>\n</tr>\n<tr>\n<td>76 13 17</td>\n<td>Ders., Wohn., Dahl Fabeckstr. 45</td>\n</tr>\n<tr>\n<td>66 81 38</td>\n<td>Eule, F., Stadttamtm., SW 61, Monum.-<br/>Straße 28</td>\n</tr>\n<tr>\n<td>46 07 92</td>\n<td>Eule, Fritz, Stadttamtm., N 65, Togostr. 1</td>\n</tr>\n<tr>\n<td>34 18 62</td>\n<td>Eule, Karl, Autorep., Chb Tegel. W. 31</td>\n</tr>\n<tr>\n<td>62 97 15</td>\n<td>Eule, Max, Fleischerm., Neuk Elbestr. 29</td>\n</tr>\n<tr>\n<td>17 28 79</td>\n<td>Eule, Dr.M., Pat.-Anw., SW 68, Friedrich-<br/>Straße 4</td>\n</tr>\n<tr>\n<td>71 64 68</td>\n<td>Ders., Wohn., Schb Wartburgstr. 19</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>66 03 85</td>\n<td>Eulenberg, Johanna, Seifen, <i>Neuk</i> Wissmannstr. 16a</td>\n</tr>\n<tr>\n<td>50 13 52</td>\n<td>Eulenberg, T., Kfm., <i>Krish</i> Pr.-Oskar-Str. 24</td>\n</tr>\n<tr>\n<td>87 32 11</td>\n<td>Eulenburg, E., <i>Wilm</i> Holsteinische Str. 11</td>\n</tr>\n<tr>\n<td>34 32 56</td>\n<td>Eulenburg, Else, Sekret., <i>Siem</i> Dihlm. St. 10</td>\n</tr>\n<tr>\n<td>97 57 30</td>\n<td>Eulenburg, Dr. F., Prof., <i>Hal</i> Kurf.-D. 101</td>\n</tr>\n<tr>\n<td>66 25 30</td>\n<td>Eulenburg, H., Bürovorst., <i>Tmp</i> W.-Voß-Damm 50</td>\n</tr>\n<tr>\n<td>89 08 28</td>\n<td>zu Eulenburg, Siegrid, Gräfin, <i>Grw</i> Orberstraße 37</td>\n</tr>\n<tr>\n<td>39 11 23</td>\n<td>Eulenburg, U., Restaur., NW 87, Huttenstraße 66</td>\n</tr>\n<tr>\n<td>39 68 66</td>\n<td>zu Eulenburg, W. Graf, Maj., NW 87, Siegmunds Hof 21</td>\n</tr>\n<tr>\n<td>97 53 64</td>\n<td>Eulendorf, A. H., Prok., <i>Hal</i> J. Georg Str. 12</td>\n</tr>\n<tr>\n<td>88 17 34</td>\n<td>Eulendorf, Fritz, Kfm., <i>Frdn</i> Stierstr. 20</td>\n</tr>\n<tr>\n<td>87 46 02</td>\n<td>Eulenstein, Karl, Kunstmaler, <i>Wilm</i> Hohenzollerndamm 184</td>\n</tr>\n<tr>\n<td>97 18 81</td>\n<td>Euler, Adolf, Lokomotiven, Waggon, Eisenbahnmaterial, Berlin-Halensee,</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>97 32 80</td>\n<td>Euler, Curt, Maler, <i>Geo</i> Wangenheimstr. 11</td>\n</tr>\n<tr>\n<td>63 79 45</td>\n<td>Euler, Georg, <i>Adl</i> Volkswohlstr. 82</td>\n</tr>\n<tr>\n<td>67 17 06</td>\n<td>Euler, J., Tanzschule, SO 16, Köp. Str. 62</td>\n</tr>\n<tr>\n<td>24 56 37</td>\n<td>Euler, Lucie, Schausp., W 50, Würzb.<br/>Straße 12</td>\n</tr>\n<tr>\n<td>87 09 48</td>\n<td>Euler, Martha, <i>Wilm</i> Prinzreg.-Str. 96</td>\n</tr>\n<tr>\n<td>97 33 95</td>\n<td>Euler, R., Hauptm., <i>Chb</i> 4 Sybelstr. 40</td>\n</tr>\n<tr>\n<td>26 57 74</td>\n<td>Euler, Dr. W., Kfm., W 30, Münch. Str. 34</td>\n</tr>\n<tr>\n<td>85 39 50</td>\n<td>Euler-Chelpin, L., Kassierer, <i>Schlee</i> Badenweilerw. 1</td>\n</tr>\n<tr>\n<td>30 25 69</td>\n<td>Eulers, Helma, Tänzerin, <i>Chb</i> 5 Suarez-<br/>straße 11</td>\n</tr>\n<tr>\n<td>79 26 02</td>\n<td>Eulert, W., Friseur, <i>Süd</i> Borstellstr. 28</td>\n</tr>\n<tr>\n<td>89 71 85</td>\n<td>Euling, Gertrud, Frau, <i>Dahl</i> Im Dol 58</td>\n</tr>\n<tr>\n<td>24 02 84</td>\n<td>Euling, Herta, W 15, Kaiserallee 215</td>\n</tr>\n<tr>\n<td>64 06 05</td>\n<td>Eulitz, H., Autorep., <i>Köp</i> Joachimstr. 9</td>\n</tr>\n<tr>\n<td>62 29 33</td>\n<td>Eulitz, Hugo, Masch.-Fbr., <i>Neuk</i> Schinke-<br/>straße 8/9</td>\n</tr>\n<tr>\n<td>68 70 46</td>\n<td>Eulitz, Kurt, Ing., SO 36, Plesser Str. 7</td>\n</tr>\n<tr>\n<td>24 24 73</td>\n<td>Ders., Büro, W 62, Kurfürstenstr. 105</td>\n</tr>\n<tr>\n<td>53 30 72</td>\n<td>Eulitz, Martha, Frau, NO 55, Lippehn.</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "48",
+            "text": "77 01 Eulitz, Otto, Kfm., Bho Zimbelstr. 51"
+          },
+          {
+            "extension": "80",
+            "text": "82 23 Eulzer, Kurt, Verleger, Grolie Seeprom. 38"
+          },
+          {
+            "extension": "17",
+            "text": "24 76 Eulzer, Kurt, Kunstverl., SW 68, Alexandrinenstr. 27"
+          },
+          {
+            "extension": "22",
+            "text": "11 92 EUMUGO Aktiengesellschaft für Maschinenbau, Büro Berlin, Berlin W 35, Kurfürstenstraße 54"
+          },
+          {
+            "extension": "59",
+            "text": "51 81 Euodes Parfümerie A. Blechstein, O 34, Zorndorfer Str. 8"
+          },
+          {
+            "extension": "71",
+            "text": "45 19 v. Eupen, Theo, Schö Rubensstr. 95"
+          },
+          {
+            "extension": "17",
+            "text": "74 41 Euphono-Film GmbH, SW 68, Friedrichstraße 25"
+          },
+          {
+            "extension": "51",
+            "text": "03 02 Euplan-Gesellschaft Timm & Co., Vertrieb von Fußstützen nach Dr. A. Lettermann, G 2, Klosterstr. 39"
+          },
+          {
+            "extension": "65",
+            "text": "61 82 Europa-Lichtspiele, Grü Büxenstein-All. 2"
+          },
+          {
+            "extension": "19",
+            "text": "61 31 Europäische Güter- u. Reisegepäck-Versicherungs-A.-G., SW 68, Wilhelmstr. 35"
+          },
+          {
+            "extension": "22",
+            "text": "90 86 Europ. Revue, Redakt., W 30, Mack. Str. 17"
+          },
+          {
+            "extension": "14",
+            "text": "22 02 Furrsicherer Tanklager und"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Transport-Aktiengesellschaft,",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Espe — Evers (Band II) 155",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "F",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "66",
+            "text": "93 29 Ev. Kindergarten, Imp M.-V.-Kichn.- Straße 31"
+          },
+          {
+            "extension": "53",
+            "text": "57 13 Ev. Kinderhort St. Bartholomäus, NO 18, Höchstestr. 4"
+          },
+          {
+            "extension": "74",
+            "text": "11 22 Ev. Kinderpflege Vbd. d. Prov. Branden- burg e V., Lt/W Augustastr. 21 f"
+          },
+          {
+            "extension": "17",
+            "text": "50 51 Evangel. Konsistorium der Mark Bran- denburg SW 68, Lindenstr. 14"
+          },
+          {
+            "extension": "79",
+            "text": "10 61 Evangelischer Preßverband für Deutschland e. V., Berlin-Steglitz, Beymestr. 8"
+          },
+          {
+            "extension": "76",
+            "text": "37 51 Ev. Reichs-Erzieh.-Verband, Dahl Reichen- steiner Weg 24"
+          },
+          {
+            "extension": "76",
+            "text": "39 46 Evangelischer Reichsverband weiblicher Jugend e. V., Dahl Rudeloffweg 27"
+          },
+          {
+            "extension": "19",
+            "text": "47 76 Ev. Verb. weibl. Jug., Gr.-Berlin e V., SW 11, Tempelhofer Ufer 31"
+          },
+          {
+            "extension": "19",
+            "text": "25 88 Ev. Verb. f. Kinderpflege i. Berlin e V., SW 61, Wartenburgstr. 7"
+          },
+          {
+            "extension": "41",
+            "text": "25 07 Ev. Verein f. deutsche Ansiedler u. Aus- wanderer. C 2. Monbijoupl. 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 753 970\" data-label=\"Text\"><table border=\"0\"><tr><td>31 18 10</td><td>Ev. Verein Wilmshut, Opw Neuhau. Vor. 55</td></tr><tr><td>67 03 66</td><td>Ev. Verein f. soz. Zwecke, SW 68, Oranienstr. 69</td></tr><tr><td>64 09 45</td><td>Ev. Altersheim Abendfrieden, Spindlersfeld, A. d. Str. 154</td></tr><tr><td>64 91 72</td><td>Ev. Altersheim Sorgenfrei, Rah Fürstenwalder Allee 901</td></tr><tr><td>83 24 47</td><td>Ev. Diak.-Mutterh. u. Kinderheim St. Michael, Frdn Kaiserallee 121</td></tr><tr><td>58 02 71</td><td>Ev. Durchg.-Hein f. Frauen u. Mädchen, O 112, Frankfurter Allee 292</td></tr><tr><td>44 51 25</td><td>Ev. Frauenheim, N 58, Schwedter Str. 37</td></tr><tr><td>83 09 16</td><td>Ev. Mädchenheim, Frdn Albestr. 8</td></tr><tr><td>41 08 87</td><td>Ev. Studentinnenheim, N 4, Auguststr. 82</td></tr><tr><td>24 09 47</td><td>Evans, Karin, W 62, Kurfürstenstr. 126</td></tr><tr><td>56 13 68</td><td>Evau Link.- u. Verkauf Berl. Seifenhdlr. GmbH, Weiß Gäblerstr. 13</td></tr><tr><td>56 16 30</td><td>Evaugc Ein- u. Verk.-G. f. Fleischwr. eGmbH, Weiß Berliner Allee 243</td></tr><tr><td>63 03 16</td><td>Eveking, Albert, Baugesch., Ndwde Hasselw. Straße 3</td></tr></table></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 750 993\" data-label=\"Text\"><table><tbody><tr><td>53 36 45</td><td>Evelyne u. Eric, Tanzpaar, NO 18, Bar-<br/>nimstr. 24</td></tr><tr><td>93 41 16</td><td>Even, Else, Säng., Chb 5 Dresselstr. 4</td></tr><tr><td>39 71 09</td><td>Even, P., Dir., NW 21, Bundesratsufer 10</td></tr><tr><td>39 89 53</td><td>Evenius, Dr., H., Stud.R., NW 87 Flo-<br/>towstraße 10</td></tr><tr><td>71 90 00</td><td>Evenius, D. K., Dir., Schb Innsbr. Str. 38</td></tr><tr><td>47 38 30</td><td>Evensen-Clement, A., Ing., Waidm<br/>Straße 30, Parz. 5</td></tr><tr><td>87 55 82</td><td>Everding, Elfriede, Wilm Helmst.Str. 23</td></tr><tr><td>97 35 25</td><td>Everding, H., Dipl.-Ing., Hal J.-Georg-<br/>straße 18</td></tr><tr><td>99 48 57</td><td>Everet, M., Kfm., Chb 9 Mein. Allee 9</td></tr><tr><td>75 28 01</td><td>Everni, H., Graphiker, Temp Burchardt-<br/>straße 26a</td></tr><tr><td>84 44 74</td><td>Everling, Dr. E., Prof., Schlsee Baden-<br/>weller W. 17</td></tr><tr><td>91 41 84</td><td>Ders., Büro, W 15, Fasanenstr. 58</td></tr><tr><td>91 65 15</td><td>Everling, Emmy, Chb 2 Niebuhrstr. 77</td></tr><tr><td>39 84 42</td><td>Everling, Gerd, NW 87, Altonaer Str. 18</td></tr><tr><td>73 78 10</td><td>Everling, M., Fenst.-Reinig., Lt/ Luisen-</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"137 0 279 24\" data-label=\"Page-Header\">\n<p>BUCH 29</p>\n</div>\n<div data-bbox=\"0 24 748 995\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>80 52 78</td>\n<td>Everling, Otto, Dr.,</td>\n<td>Nik Lückhoffstr. 24</td>\n</tr>\n<tr>\n<td>42 96 32</td>\n<td>Everling, O., Schneider,</td>\n<td>N 54, Christ.Str.41</td>\n</tr>\n<tr>\n<td>64 11 32</td>\n<td>Evermann, A., Schlosser,</td>\n<td>Köp Glleicker<br/>Straße 15</td>\n</tr>\n<tr>\n<td>70 91 69</td>\n<td>Evermann, Otto, Landw.,</td>\n<td>Klein Zietzen,<br/>Dorfstr. 3</td>\n</tr>\n<tr>\n<td>64 05 59</td>\n<td>Evermann, W., Wäsch.,</td>\n<td>Köp Wilh.-Str. 8</td>\n</tr>\n<tr>\n<td>42 17 88</td>\n<td>Evers, Albert, Kfm.,</td>\n<td>N 4, Gartonstr. 1</td>\n</tr>\n<tr>\n<td>41 75 80</td>\n<td>Evers, Br., Musiker,</td>\n<td>N 4, Chausse.-Str. 1</td>\n</tr>\n<tr>\n<td>68 02 66</td>\n<td>Evers, C., Kompottfabr.,</td>\n<td>SO 36, Reichen-<br/>berger Str. 50</td>\n</tr>\n<tr>\n<td>34 04 10</td>\n<td>Evers, C., Diener,</td>\n<td>Chb 5 Suarezstr. 64</td>\n</tr>\n<tr>\n<td>37 24 23</td>\n<td>Evers, C., Konservenfbr.,</td>\n<td>Spd Seeb. Str. 14</td>\n</tr>\n<tr>\n<td>79 47 62</td>\n<td>Evers, Carl, Vertr.,</td>\n<td>Stegl Muth.Str. 31</td>\n</tr>\n<tr>\n<td>89 50 31</td>\n<td>Evers, D., Amtsrat,</td>\n<td>Smgd Zopp. Str. 13</td>\n</tr>\n<tr>\n<td>41 54 32</td>\n<td>Evers, Elsc, D.-Hüte,</td>\n<td>N 54, Schönh. All. 6</td>\n</tr>\n<tr>\n<td>63 70 80</td>\n<td>Evers, Emil B., Ing.,</td>\n<td>Adl Volksw.Str. 122</td>\n</tr>\n<tr>\n<td>48 26 19</td>\n<td>Evers, Emil, Uhren,</td>\n<td>N 65, Brüss. Str. 7</td>\n</tr>\n<tr>\n<td>71 44 16</td>\n<td>Evers, Erich,</td>\n<td>Frdn Riemenschin.Weg 48</td>\n</tr>\n<tr>\n<td>86 20 84</td>\n<td>Evers, E., Ing.,</td>\n<td>Wilm H.-v.-Fallersl.-Pl. 3</td>\n</tr>\n<tr>\n<td>00 00 00</td>\n<td>Telefon</td>\n<td>W. an Donaustr. 10</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 743 951\" data-label=\"Text\"><table><tbody><tr><td>25 33 76</td><td>Evers, E., Assist., W 62, Courb.-Str. 14</td></tr><tr><td>16 28 41</td><td>Evers, E., Vertr., NW 7, Friedrichstr. 103</td></tr><tr><td>92 41 26</td><td>Evers, Franz, Wilm Württ. Str. 21</td></tr><tr><td>88 55 72</td><td>Evers, Franziska, Wilm Mainzer Str. 12</td></tr><tr><td>80 71 47</td><td>Evers, Gg., Redakt., Nik Gerkrathstr. 8</td></tr><tr><td>73 02 00</td><td>Evers, Gustav, Lt/O Wilhelmstr. 16a</td></tr><tr><td>17 27 48</td><td>Evers, Gustav (Dilloo), Kircheneinr., SW 68,<br/>Lindenstr. 95</td></tr><tr><td>66 95 24</td><td>Evers, E. H., Bildberichterst., Temp Ber-<br/>liner Str. 32</td></tr><tr><td>48 57 41</td><td>Evers, H., Kfm., Pko Trellecb. Str. 131</td></tr><tr><td>87 55 70</td><td>Evers, Heinr., Schriftl., Spd Teltowstr. 12</td></tr><tr><td>24 21 54</td><td>Evers, Helene, Malerin, W 50, Ansb. Str. 5</td></tr><tr><td>79 74 94</td><td>Evers, H., Kfm., Steyl K.-Stieler-Str. 9</td></tr><tr><td>38 31 07</td><td>Evers, Herb., Stud.-Ass., Frdn Büs. Str. 19</td></tr><tr><td>39 22 89</td><td>Evers, K., Aintsrat, Grw Salzbr. Str. 48</td></tr><tr><td>34 92 26</td><td>Evers, Karl-Heinz, Angest., Wilhelmshaa-<br/>gen, Fahlenbergstr. 45a</td></tr><tr><td>31 54 07</td><td>Evers, M. C., Chb 4 Goethestr. 37</td></tr><tr><td>39 38 12</td><td>Evers, M., Ing., Smgd Davoser Str. 19</td></tr></tbody></table></div><div data-bbox=\"468 963 491 990\" data-label=\"Page-Footer\">■</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

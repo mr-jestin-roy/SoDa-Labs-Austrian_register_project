@@ -1,0 +1,902 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks.\"/>This image is a scan of a blank white page. It contains several small, dark artifacts or specks, likely due to dust or scanning noise. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Hanau.",
+        "entries": []
+      },
+      {
+        "region_name": "Haugsdorf (Post Groß-Krosse) [Sudetenland].",
+        "entries": []
+      },
+      {
+        "region_name": "Hettstedt (Südharz).",
+        "entries": []
+      },
+      {
+        "region_name": "Langensalza (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leutkirch (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Meschede (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Miltenberg (Mainfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Mochau (Kr. Döbeln).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Niederfell (Mosel).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"216 5 993 231\" data-label=\"Text\"><p><b>Wein- u. Süßmostkelterei</b><br/><b>Nieder Saulheim (Rheinhess.).</b><br/>Wörstadt 240 Walldorf, Theodor, Weingutsbesitzer,<br/>Weingroßhandlung, Nieder Saulheim</p></div><div data-bbox=\"216 249 993 412\" data-label=\"Text\"><p><b>Oberlustadt (Pfalz).</b><br/>Lustadt 5 Lehr, Karl, Weinkellerei, Süßmosterei,<br/>Brennerei, Oberlustadt</p></div><div data-bbox=\"216 422 993 678\" data-label=\"Text\"><p><b>Obermoschel (Rheinpfalz).</b><br/>Alsenz 61 H. C. Lembke K.-G. vorm. W. Immer-<br/>heiser, Weinbau, Weinbrennerei, Groß-<br/>handlung für Weine und Spirituosen, Süß-<br/>mosterei, Obermoschel</p></div><div data-bbox=\"216 690 993 852\" data-label=\"Text\"><p><b>Oderhorst b. Glogau.</b><br/>Glogau 1278 Schumann, Conrad, Fruchtwein- u.<br/>Süßmostkeltereien, Oderschlößchen</p></div><div data-bbox=\"216 863 993 992\" data-label=\"Text\"><p><b>Osterburg (Altmark).</b><br/>58 Siebert, Rudolf, Fruchtweinkelterei, Süß-</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Rötha (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rostock (Seestadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Rothkreuz b. Schlachters (Schwaben).",
+        "entries": []
+      },
+      {
+        "region_name": "Schorndorf (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Sorau (Lausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Stendal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"422 93 792 322\"}, {\"label\": \"Text\", \"bbox\": \"252 347 961 746\"}, {\"label\": \"Text\", \"bbox\": \"252 811 542 917\"}, {\"label\": \"Text\", \"bbox\": \"836 811 959 907\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content, from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or a page with no content, from a 1942 German telephone directory. It contains no text or other markings.</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"401 774 998 930\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Waren (Müritz).",
+        "entries": []
+      },
+      {
+        "region_name": "Wasserburg (Inn) [Bay.].",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Winnenden (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"237 93 750 417\"}, {\"label\": \"Text\", \"bbox\": \"407 477 670 675\"}, {\"label\": \"Text\", \"bbox\": \"499 705 736 886\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bergstadt Platten (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "ORIENTAL",
+        "entries": []
+      },
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Flensburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Gelsenkirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gerstetten (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gotha.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Hindenburg (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hitzacker (Mann.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "114 Gebrüder Walde",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 768 998 937\" data-label=\"Text\"><p><b>Ittereien --- 5992. Tabak- u. Ta</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      },
+      {
+        "region_name": "Königshütte (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Memel.",
+        "entries": []
+      },
+      {
+        "region_name": "Namüttin (Oberhau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"107 0 998 145\" data-label=\"Text\"><p>277 Hölzberger, Heinz, Süßwarengroßhandlg.</p></div><div data-bbox=\"0 171 342 361\" data-label=\"Text\"><p><b>Nürnberg.</b></p></div><div data-bbox=\"68 352 998 761\" data-label=\"Text\"><p>..... Blos, Hans, Süßwarengroßhandlung,<br/>Röthenbach a. P., Renzenhofer Str. 41;<br/>Lager: Nürnberg, Fenitzerstr. 21</p></div><div data-bbox=\"0 782 578 973\" data-label=\"Text\"><p><b>Olmütz (Mähren).</b></p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"141 175 212 359\"}, {\"label\": \"Text\", \"bbox\": \"326 91 854 421\"}, {\"label\": \"Text\", \"bbox\": \"243 490 864 904\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 15 985 945\" data-label=\"Image\"><img alt=\"A blacked-out redacted page from a 1942 German telephone directory.\"/>This image is a scan of a page from a 1942 German telephone directory (Reichstelefonbuch). The entire page has been completely redacted with black ink, obscuring all text and markings. The page is rectangular and oriented horizontally. There are two vertical black bars on the left and right margins, and a horizontal black bar at the top, which are likely artifacts from the scanning process or part of the original document's layout. The central area of the page is a solid black rectangle.</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"86 236 149 411\"}, {\"label\": \"Text\", \"bbox\": \"209 111 853 546\"}, {\"label\": \"Text\", \"bbox\": \"412 550 746 966\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Passau.",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      },
+      {
+        "region_name": "Radeberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rosenheim (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rybnik (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Schötmar (Lippe).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwenningen (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Teschen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tettwang (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Troppau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Ulm (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 770 241 932\"}, {\"label\": \"Text\", \"bbox\": \"409 770 769 955\"}]",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Alpenländ. Zuckerwarenfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"76 145 686 430\"}, {\"label\": \"Text\", \"bbox\": \"76 430 698 592\"}, {\"label\": \"Text\", \"bbox\": \"76 589 270 744\"}, {\"label\": \"Text\", \"bbox\": \"408 589 698 731\"}, {\"label\": \"Text\", \"bbox\": \"82 736 688 895\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 18 767 983\" data-label=\"Text\"><p><b>U 5 15 20 Coloniale Likörfabrik Aktiengesellschaft,<br/>XVI/107, Nauseagasse 59/63</b></p><p><b>U 3 95 55 „Danubia“, Zuckerwarenfabrik, Wien<br/>XIII/89, Kendlerstraße 4/6</b></p><p><b>SmI.-Nr. { A. Egger's Sohn, Zuckerwarenfabrik,<br/>B 1 25 00 { Wien XIX/119, Heiligenstädter Str. 158</b></p><p><b>U 4 91 01 Koch, Josef, Süßwarengroßhandlung,<br/>Wien IV/50, Argentinier Straße 62</b></p><p><b>R 4 54 54 Krüger-Süßwaren-Haus, vorm. Velimer<br/>Schokoladen- und Süßwaren-Großhand-<br/>lung, Wien I/1, Friedrichstr. 10</b></p><p><b>A 1 20 57 Pomosin-Werke, K.-G., Fischer &amp; Co.,<br/>Wien IX/66, Roßauer Lände 45</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"225 83 540 354\"}, {\"label\": \"Text\", \"bbox\": \"204 356 588 485\"}, {\"label\": \"Text\", \"bbox\": \"241 515 519 645\"}, {\"label\": \"Text\", \"bbox\": \"115 673 682 813\"}, {\"label\": \"Text\", \"bbox\": \"220 826 585 973\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 767 300\" data-label=\"Text\"><p>A 5 40 35 „<b>RISTA</b>“ Oblaten-, Waffel-, Keks-<br/>und Biskuit-Fabrik,<br/><b>Richard Sterba</b> Wien XIII/89,<br/>Altgasse Nr. 6</p></div><div data-bbox=\"0 316 767 613\" data-label=\"Text\"><p>B 4 75 73 <b>Franz Sehner</b><br/>Süßwarengroßhandel, Wien XVIII/110,<br/>Joh.-Nepomuk-Vogl-Pl. 9 (Kreuzgasse)</p></div><div data-bbox=\"0 628 767 927\" data-label=\"Text\"><p>R 1 40 40 <b>Franz Traup „Indo“</b> Schokolade-,<br/>Zuckerwaren-<br/>und Brausellmonadenerzeugung<br/>Wien X/75, Zur Spinnerin 37</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"149 145 621 561\"}, {\"label\": \"Text\", \"bbox\": \"290 561 751 817\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 54 767 355\" data-label=\"Text\"><p><b>Rosenhain b. Schluckenau (Sudetenland).</b><br/>Schluckenau 22 „Sygra“ Syenit- u. Granitwerke<br/>rGmbH, Rosenhain b. Schluckenau</p></div><div data-bbox=\"0 375 670 588\" data-label=\"Text\"><p><b>Waldkirchen (Niederbay.).</b><br/>85 Albrecht, Franz, Granitwerke</p></div><div data-bbox=\"0 609 765 902\" data-label=\"Text\"><p><b>Wunsiedel (Bay.).</b><br/>90 Bruchner, Adam, Granit- u. Syenitwerk,<br/>Steinbruchbetrieb</p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"74 196 689 326\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 114 489 395\"}, {\"label\": \"Text\", \"bbox\": \"61 395 767 796\"}]",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 175 762 361\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Freyung Wald (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Wiedes Carbidwerk Freyung m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Wiedes Carbldwerk Freyung m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Tabak (Roh-) s. Rohtabak",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"31 187 732 804\"}]",
+      "cells": [
+        "col4_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Asch (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Baden-Baden.",
+        "entries": []
+      },
+      {
+        "region_name": "Balingen (Wrttb.).",
+        "entries": []
+      }
+    ]
+  }
+]

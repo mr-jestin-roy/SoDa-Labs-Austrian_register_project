@@ -1,0 +1,900 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or tables.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsbad (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Myslowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"221 62 428 963\" data-label=\"Image\"><img alt=\"Large stylized letter U with a textured, hatched pattern inside, serving as a logo or initial for the business.\"/></div><div data-bbox=\"458 87 993 963\" data-label=\"Text\"><p><b>Wilhelm Tölke, Gegr. 1882</b><br/>Schornstein-Neubauten u. Instand-<br/>setzungen. Einmauerung von</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"220 0 426 906\" data-label=\"Image\"><img alt=\"Stylized letter T logo with a hatched top bar and a vertical stem with diagonal hatching.\"/></div><div data-bbox=\"459 0 993 855\" data-label=\"Text\"><p>Dampikessel jeder Bauart und<br/>Größe. Ausführung von Feuerungs-<br/>anlagen, Kraußstr. 8<br/><b>Fernsprecher 245 19</b></p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Teplitz-Schönau (Sudetenland)",
+        "entries": []
+      },
+      {
+        "region_name": "Wahlheim (Rhein)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "5337. Schornsteinfeger",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"210 102 360 326\"}, {\"label\": \"Text\", \"bbox\": \"210 352 991 744\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"208 196 970 324\"}]",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"588 727 998 869\" data-label=\"Text\"><p><b>5336. Schor</b></p><hr/></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "5339. Schornsteinverschlüsse",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"138 227 859 311\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"10 102 198 302\"}, {\"label\": \"Text\", \"bbox\": \"10 417 187 561\"}, {\"label\": \"Text\", \"bbox\": \"270 343 918 602\"}, {\"label\": \"Text\", \"bbox\": \"241 658 952 835\"}]",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"65 102 944 760\" data-label=\"Text\"><p><b>5342. Schotterwerke s. a. Stein-</b><br/><b>brüche</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Alverdissem b. Barntrop (Lippe).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Liebenstein (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Liebenwerda (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Böhmisch-Kamnitz (Sudetenl.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"45 24 997 272\" data-label=\"Text\"><p>81972 { Vereinigung Schlesischer Schotterwerke<br/>81973 { G. m. b. H., Breslau 13, Straße der<br/>SA 99</p></div><div data-bbox=\"7 291 829 390\" data-label=\"Text\"><p><b>Bruck a. d. Mur 1 (Steiermark).</b></p></div><div data-bbox=\"108 401 178 473\" data-label=\"Text\"><p>187</p></div><div data-bbox=\"369 401 782 473\" data-label=\"Text\"><p><b>Ernst Kolitsch</b></p></div><div data-bbox=\"201 483 993 567\" data-label=\"Text\"><p>Schotterwerk, Steinbrüche, Bruck a. d. Mur</p></div><div data-bbox=\"7 586 920 695\" data-label=\"Text\"><p><b>Detzeln (üß. Tiengen) [Oberrhein].</b></p></div><div data-bbox=\"7 695 991 853\" data-label=\"Text\"><p>Tiengen 582 Nägele, Konrad, Porphyrwerk Detzeln,<br/>Schotter- und Pflastersteinbetrieb</p></div><div data-bbox=\"7 881 891 981\" data-label=\"Text\"><p><b>Deutsch-Altenburg (Niederdonau).</b></p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "2 Hollitzer Baustoffwerke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Eberstein (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Eichstätt (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ernstbrunn (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Eschenlohe b. Murmau.",
+        "entries": []
+      },
+      {
+        "region_name": "Gloggnitz (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Golling (Salzburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Heidenheim (Brenz) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Hubacker b. Lautenbach (Renchtal)",
+        "entries": []
+      },
+      {
+        "region_name": "Kaiserswalde b. Schluckenau (Sudetenland)",
+        "entries": []
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kaufbeuren (Allgäu).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Landeck (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Langenargen a. Bodensee.",
+        "entries": []
+      },
+      {
+        "region_name": "Leoben (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Lienz (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Mayen (Rhprr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"384 48 394 104\" data-label=\"Page-Header\">1</div>",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 792 998 940\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Neustift b. Vilshofen (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Niemberg (Köthen-Halle).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Ottenhöfen (Schwarzwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Petzenkirchen (Niederdonaau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"202 20 592 343\" data-label=\"Text\"><p>Retzenkirchen/N.-D.</p></div><div data-bbox=\"12 477 202 869\" data-label=\"Text\"><p><b>Prag.</b></p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Renholding b. Aicha v. Wald (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rethwisch (Kr. Waren, Müritz).",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "St. Michael (Obersteiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "St. Paul i. Lavanttal (Kärnten)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"198 0 851 29\" data-label=\"Page-Header\">\n<p>1101111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Welitsch (Oberfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien-Gumpoldskirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien-Marialanzendorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 397 192\" data-label=\"Text\"><p><b>ZIRL (ZIRL).</b></p></div><div data-bbox=\"149 192 845 516\" data-label=\"Text\"><p><b>3 Johann Plattner</b></p></div><div data-bbox=\"239 585 936 787\" data-label=\"Text\"><p><b>Kalk- und Schotterwerk, Zirl (Tirol)</b></p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"128 196 856 270\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 93 998 800\" data-label=\"Text\"><p><b>Kleinneuschönberg</b> b. <b>Obernhau</b> (Sachs.)<br/>Obernhau 627 <b>Kirsch, Reinhold</b>, Holzwarenfabrik,<br/>Spez. Lager- u. Transportkästen, sowie<br/>Kleinschränke in jeder Ausführung</p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"174 214 829 309\"}]",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Kuppenheim (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "5345. Schrauben u. Muttern",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Aldingen b. Spaichingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Allmendingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Altena (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Beckingen (Saar):",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 29 767 352\" data-label=\"Text\"><p>57 32 95 <b>Poy, Ferdinand</b>, Schrauben- u. Muttern-<br/>fabrik, O 17, Große Frankfurter Str. 137</p></div><div data-bbox=\"16 339 626 592\" data-label=\"Text\"><p>62 28 52 <b>Gebr. Roll</b></p></div><div data-bbox=\"152 645 769 966\" data-label=\"Text\"><p>Fabrikation von Metallschrauben, Fas-<br/>sondreherei, SO 36, Maybachufer 26</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Carl Schulz &amp; Sohn",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"187 36 583 213\"}, {\"label\": \"Text\", \"bbox\": \"248 266 524 384\"}, {\"label\": \"Text\", \"bbox\": \"258 407 508 524\"}, {\"label\": \"Text\", \"bbox\": \"270 561 494 661\"}, {\"label\": \"Text\", \"bbox\": \"283 671 475 779\"}, {\"label\": \"Text\", \"bbox\": \"209 822 551 954\"}]",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Budweis (Böhmen).",
+        "entries": []
+      }
+    ]
+  }
+]

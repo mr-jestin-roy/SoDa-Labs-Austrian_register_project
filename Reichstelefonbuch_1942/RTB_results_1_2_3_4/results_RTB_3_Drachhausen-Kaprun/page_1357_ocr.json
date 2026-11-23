@@ -1,0 +1,114 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A heavily degraded, high-contrast black and white image, likely a scan of a document page. The image is characterized by dense, horizontal black and white streaks and noise, making any original content completely illegible. The right edge shows a dark vertical band, possibly a binding or margin.\"/>This image is a highly degraded and noisy scan of a document page. It consists of a dense pattern of horizontal black and white lines and speckles, obscuring any underlying text or graphics. The overall appearance is that of a heavily overexposed or underexposed photograph, or a scan with extreme contrast and no detail. There is no discernible content that can be transcribed or identified.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"62 10 945 992\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a large white area framed by a thick black border.\"/>This image shows a blank page from a 1942 German telephone directory. The page is mostly white and empty, with a thick black border around the edges. There is no text or other content visible on the page.</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "KLÖCKNER & CO.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "DUISBURG",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "BERGWERKS-ERZEUGNISSE",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"62 10 940 990\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a large white area with a thick black vertical bar on the left edge and a thick black vertical bar on the right edge.\"/>This image shows a blank page from a 1942 German telephone directory. The page is predominantly white, with a thick black vertical bar on the left edge and another thick black vertical bar on the right edge. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar on the left edge and a thick black vertical bar on the right edge. The right edge also features a vertical strip of a textured, patterned material.\"/>This image shows a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It is framed by a thick black vertical bar on the left and a thick black vertical bar on the right. The rightmost edge of the page has a vertical strip of a textured, patterned material, possibly a binding or a decorative element. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a dark horizontal line at the top and a dark vertical strip on the right edge.\"/>This image shows a blank page from a 1942 German telephone directory. The page is mostly white with a dark horizontal line near the top and a dark vertical strip on the right edge. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  }
+]

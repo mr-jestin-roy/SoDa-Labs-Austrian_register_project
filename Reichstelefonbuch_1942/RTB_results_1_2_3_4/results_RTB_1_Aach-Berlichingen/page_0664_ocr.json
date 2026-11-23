@@ -1,0 +1,823 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"266 752 609 941\" data-label=\"Text\"><p>180 (Branchenteil)</p></div><div data-bbox=\"774 752 997 921\" data-label=\"Text\"><p>1317. EI</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Schorndorf (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schrötersburg (Südestpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwandorf (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwanenstadt (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwarzendorf (Oberkrain).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Elektrizitätswerke",
+        "entries": []
+      },
+      {
+        "region_name": "Reichsgaues Kärnten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Schwaz (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Schweinfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Silberstraße b. Wiesenburg (Sa.).",
+        "entries": []
+      },
+      {
+        "region_name": "Sonthofen (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Spindelmühle (Riesengeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Badenwerk",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Elektrizitätswerk Straßburg A.G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Tachau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Teschen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Torgau.",
+        "entries": []
+      },
+      {
+        "region_name": "Trattendorf üb. Spremberg (N/L).",
+        "entries": []
+      },
+      {
+        "region_name": "Elektrowerke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, markings, or illustrations visible.</div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 722 999 960\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Trautenau (Sudetenland).",
+        "entries": [
+          {
+            "extension": "23",
+            "text": "{ Elektrowerke A. G., Betriebsverwaltung"
+          },
+          {
+            "extension": "46",
+            "text": "{ Trautenau, Kraftwerk Parschnitz"
+          }
+        ]
+      },
+      {
+        "region_name": "Triebel (Niederlausitz).",
+        "entries": [
+          {
+            "extension": "",
+            "text": "Teuplitz 159 Lausitzer Elektrizitäts-Werk G. m. b. H., Betriebs- u. Install.-Büro Triebel (N/L)"
+          }
+        ]
+      },
+      {
+        "region_name": "Trier.",
+        "entries": [
+          {
+            "extension": "4121",
+            "text": "Rheinisch-Westfälisches Elektrizitätswerk A.-G., Betriebsverwaltung Trier"
+          }
+        ]
+      },
+      {
+        "region_name": "Troppau (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Elektrowerke A.-G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Turnau (Böhmen).",
+        "entries": []
+      },
+      {
+        "region_name": "Twistringen (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ulm (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Uslar (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Verden (Aller).",
+        "entries": []
+      },
+      {
+        "region_name": "Viersen (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Wilhelmshaven.",
+        "entries": []
+      },
+      {
+        "region_name": "Winterlingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberg (Lutherstadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Wolfhagen (Bez. Kassel).",
+        "entries": []
+      },
+      {
+        "region_name": "Woltersdorf b. Erkner.",
+        "entries": []
+      },
+      {
+        "region_name": "Wopfing, Post Waldegg (Niederdonaau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 687 998 875\" data-label=\"Text\"><p><b>ke) — 1321. ELEKTRO (Elekt)</b></p><hr/></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "1318. Elektrizitätszähler",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Darnubia A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 29 187 135\" data-label=\"Text\"><p>U5 05 80</p></div><div data-bbox=\"239 29 964 386\" data-label=\"Text\"><p><b>Meßapparate Bau- u. Vertriebsges.,</b><br/><b>Elektrizitätszähler, Meß-Instrumente,</b><br/><b>XVI/107, Redtenbacher Gasse 57</b></p></div><div data-bbox=\"16 460 187 683\" data-label=\"Text\"><p>Sammel-<br/>Nr.</p></div><div data-bbox=\"16 695 187 800\" data-label=\"Text\"><p>B1 25 45</p></div><div data-bbox=\"332 399 875 625\" data-label=\"Text\"><p><b>UHER &amp; CO.</b></p></div><div data-bbox=\"214 632 996 875\" data-label=\"Text\"><p><b>Gesellschaft für Apparatebau</b><br/><b>Wien XIX/117, Mooslackengasse 17</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"16 131 998 848\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"17 158 963 576\"}, {\"label\": \"Text\", \"bbox\": \"311 613 800 830\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"196 0 709 28\" data-label=\"Page-Header\">III. Buch, Industrie</div>\n<div data-bbox=\"19 26 992 970\" data-label=\"List-Group\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>96 28 41</td>\n<td><b>Albert Köhler &amp; Co.</b>, Großhandlung in elektrotechn. Bedarfsartikeln, Berlin-Charlottenburg 4, Dahlmannstr. 23</td>\n</tr>\n<tr>\n<td>61 23 23</td>\n<td><b>Köppen, Wilhelm</b>, Elektrogroßhandlung, SO 36, Felsendamm 51</td>\n</tr>\n<tr>\n<td>17 18 25</td>\n<td><b>Hugo Krieger &amp; Faudt</b>, Elektrotechnische Fabrik u. Großhandlung, SW 68, Neuenburger Str. 15</td>\n</tr>\n<tr>\n<td>59 80 11</td>\n<td><b>„Monopol“-Handelsgesellschaft m. b. H.</b>, Elektro-, Radio- und Beleuchtungskörper-Großhandlung, C 2, Alexanderstr. 53.<br/>T Monohand</td>\n</tr>\n<tr>\n<td>68 42 23</td>\n<td rowspan=\"2\">{ <b>Schiel &amp; Co. K.-G.</b>, Elektroartikeln en gros,<br/>SO 36, Kottbusser Str. 23</td>\n</tr>\n<tr>\n<td>68 10 96</td>\n</tr>\n<tr>\n<td>52 37 44</td>\n<td rowspan=\"2\">{ <b>Schmidt, Hans W.</b>, Elektro-Großhandlung,<br/>C 2, Klosterstr. 65/67. P 63136</td>\n</tr>\n<tr>\n<td>52 37 45</td>\n</tr>\n<tr>\n<td>73 40 42</td>\n<td><b>Schraper, Arno</b>, Elektrogroßhandlung, -Lichterfelde-West, Ringstr. 68. Spezialität: Elektr. Dampfbügeleisen, Elektro-Kachelöfen</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"14 973 160 992\" data-label=\"Page-Footer\">A 2 2 2 2 2</div>\n<div data-bbox=\"194 973 312 992\" data-label=\"Page-Footer\">A 2 2 2 2 2</div>\n<div data-bbox=\"441 973 518 992\" data-label=\"Page-Footer\">T 1 1 1 1 1</div>\n<div data-bbox=\"601 973 718 992\" data-label=\"Page-Footer\">C 1 1 1 1 1</div>\n<div data-bbox=\"768 973 845 992\" data-label=\"",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Beuthem (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      },
+      {
+        "region_name": "Bonn.",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"51 10 982 464\" data-label=\"Text\"><p>24200 („Elektromaterial“, E. Rose &amp; Co., Elektro-<br/>24201 u. Rundfunkgroßhandlung, Langenstr. 38<br/>83603 Reichel, Franz, Elektrobedarfartikel-<br/>Großvertrieb, Nordstraße 47d</p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "ogroßhandlungen)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 20 706 253\" data-label=\"Text\"><p><b>18690 Elektromaterial „Svet“</b></p></div><div data-bbox=\"309 287 650 617\" data-label=\"Text\"><p><b>Emil Buršík</b></p></div><div data-bbox=\"329 723 616 946\" data-label=\"Text\"><p>Brünn, Kröna 12</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Czechowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Eisenach.",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Eupen (Rhd.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankenthal (Pfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fulda.",
+        "entries": []
+      },
+      {
+        "region_name": "Gelsenkirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gleiwitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a light beige background with faint vertical lines indicating column divisions.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is a light beige color with faint vertical lines running down the page, which are likely remnants of the column divisions used in the directory. There is no text or other content on the page.</div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

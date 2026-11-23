@@ -1,0 +1,14 @@
+# ── cv_segment_test.py ────────────────────────────────────────────────────────
+opencv-python       # image loading, morphology, drawing
+numpy               # array ops
+Pillow              # read/write DPI metadata that cv2 strips
+
+# ── ocr_cells_chandra.py ──────────────────────────────────────────────────────
+# (opencv-python, numpy, Pillow already listed above)
+requests            # HTTP calls to the Chandra vLLM API endpoint
+
+# ── layoutparser_test.py (separate — not needed for the two scripts above) ────
+# torch
+# torchvision
+# layoutparser
+# detectron2  ← must be built from source; cannot be pip-installed directly

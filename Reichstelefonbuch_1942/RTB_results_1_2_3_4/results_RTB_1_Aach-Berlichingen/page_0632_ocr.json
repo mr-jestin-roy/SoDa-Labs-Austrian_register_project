@@ -1,0 +1,903 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"241 743 590 946\" data-label=\"Text\"><p>148 (Branchenteil)</p></div><div data-bbox=\"759 736 998 921\" data-label=\"Text\"><p><b>1063. Del</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Sieglar üb. Siegburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Waldbröl (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"248 102 999 944\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"269 29 970 968\" data-label=\"Text\"><p><b>Karl</b><br/><b>Struppe's Nfg.</b> <b>Karl Quast K.G.</b> U3 75 19<br/>U3 95 40<br/>Zentrale: XV/101, Bened. Schellinger-Gasse 27<br/>Verkaufsgeschäfte: I/1, Tuchlauben 11; I/1, Schwe-<br/>denplatz 2; XIII/89, Hietz. Hauptstr. 9; XV/101,<br/>Mariahilferstr. 149; XVII/107, Hern. Hauptstr. 28</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Oskar Wenzel",
+        "entries": []
+      },
+      {
+        "region_name": "Zweibrücken.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"301 227 935 311\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"291 222 942 375\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"429 196 809 296\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Bezau (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Bischofshofen (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Bruck (Leitha) [Niederdonau].",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hausham (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 750 998 950\" data-label=\"Text\"><p><b>Katessen — 1076. Deutsche Ar</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"195 25 367 71\" data-label=\"Text\"><p>gasse 52</p></div><div data-bbox=\"0 69 991 169\" data-label=\"Text\"><p>B2 94 78 Peč, Josef, Dentist, Zahnatelier, Wien<br/>V/55, Wiedner Hauptstr. 106</p></div><div data-bbox=\"0 165 863 262\" data-label=\"Text\"><p>R1 40 41 Ringle, Ph. J., Dentist,<br/>Wien X/75, Keplerplatz 12</p></div><div data-bbox=\"0 258 939 356\" data-label=\"Text\"><p>A5 84 35 <b>Eugen Schneider</b></p></div><div data-bbox=\"199 354 991 452\" data-label=\"Text\"><p>Dentist, Röntgen-Kontrolle, Wien<br/>XIII/89, Hietzinger Hauptstr. 62/64, I/1/2</p></div><div data-bbox=\"0 448 746 498\" data-label=\"Text\"><p>U1 34 48 <b>Paul Setschony,</b></p></div><div data-bbox=\"269 496 926 592\" data-label=\"Text\"><p>Dentist, Zahntechnisches Atelier,<br/>Wien III/40, Sechskrüügelgasse 18</p></div><div data-bbox=\"0 590 991 688\" data-label=\"Text\"><p>A2 82 49 Sperlich, Maximilian, Zahn-Praxis, Wien<br/>XVII/107, Palfygasse 18/I</p></div><div data-bbox=\"0 688 991 777\" data-label=\"Text\"><p>A6 28 10 <b>Dentist Ludwig Svoboda</b></p></div><div data-bbox=\"199 777 991 875\" data-label=\"Text\"><p>Wien XXI/141, Jedleseer Straße 66/94,<br/>(Gartenstadt Stg. 39<sup>1</sup>/<sub>2</sub>)</p></div><div data-bbox=\"0 872 991 969\" data-label=\"Text\"><p>B2 94 56 Vachuda, Josef, Dentist, Wien IV/50,<br/>Wiedner Hauptstraße 18</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"202 10 560 179\" data-label=\"Text\"><p>Steinbauergasse 34</p></div><div data-bbox=\"8 222 730 451\" data-label=\"Text\"><p><b>Znaim (Niederdonau).</b></p></div><div data-bbox=\"105 447 988 761\" data-label=\"Text\"><p>196 Klaus, Wilhelm, Dentist, Znaim, Straße<br/>der SA 2a</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"25 227 967 731\"}]",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"31 227 953 817\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Weimar.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"88 204 915 722\"}]",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"179 117 817 718\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 48 767 187\" data-label=\"Text\"><p><b>Cilli (Untersteiermark).</b></p></div><div data-bbox=\"137 231 184 312\" data-label=\"Text\"><p>81</p></div><div data-bbox=\"376 184 819 337\" data-label=\"Text\"><p><b>F. S. Lukas</b></p></div><div data-bbox=\"270 367 927 561\" data-label=\"Text\"><p>Branntweinhrennerei, Likörfabrik,<br/>Fruchtsafterzeugung</p></div><div data-bbox=\"10 581 563 710\" data-label=\"Text\"><p><b>Limburg (Lahn).</b></p></div><div data-bbox=\"108 710 992 904\" data-label=\"Text\"><p>404 Klein, T. W., Destillation — Likörfabri-<br/>kation, Weinhandlung, Diezer Str. 38</p></div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"119 210 884 809\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Grimma (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"128 210 884 700\"}]",
+      "cells": [
+        "col2_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": [
+          {
+            "extension": "91",
+            "text": "18 21 „Argus“ H. Sachse, Berlin-Charlottenburg 2, Joachimsthaler Str. 5"
+          },
+          {
+            "extension": "34",
+            "text": "33 89 Auskunftel u. Detektel Martha Schütz, -Charlottenburg 1, Berliner Str. 80a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Deitsfront",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"60 180 215 365\"}, {\"label\": \"Text\", \"bbox\": \"260 80 715 480\"}, {\"label\": \"Text\", \"bbox\": \"35 485 960 905\"}]",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Detektei Pelzer",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Detektei Auskunftei Rudolf Preiss",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Detektiv Graeger",
+        "entries": []
+      },
+      {
+        "region_name": "„Greif“ Fritz Jurich",
+        "entries": []
+      },
+      {
+        "region_name": "Nabert Kriminalwachtmeister a. D.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"67 29 998 566\" data-label=\"Text\"><p><b>27712 Frankfurter Detektiv-Auskunftel Hugo<br/>Knopf, gegr. 1905, Schillerstr. 31</b></p></div><div data-bbox=\"12 628 625 951\" data-label=\"Text\"><p><b>Graz (Steiermark).</b></p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"227 67 767 253\"}, {\"label\": \"Section-Header\", \"bbox\": \"336 309 673 500\"}, {\"label\": \"Text\", \"bbox\": \"309 555 701 697\"}, {\"label\": \"Text\", \"bbox\": \"359 766 648 906\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "2094 Detektivbüro u. Privatauskunftei",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      },
+      {
+        "region_name": "Koblenz.",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Krems, Donau (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/>This image is a completely blank white page. It contains no text, markings, or illustrations. It appears to be a separator page or a page with no content from a document.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Münster (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Gentner &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "HANS MÜLLERS",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"37 218 761 296\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Altötting (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Salzig (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"160 0 790 93\" data-label=\"Text\"><p><b>DAF., Berlin-Wilmersdorf, Hohenzollern-</b><br/><b>damm 174</b></p></div><div data-bbox=\"17 93 794 235\" data-label=\"Text\"><p><b>27 00 12 Die Deutsche Arbeitsfront, Amt für Rechts-</b><br/><b>beratungsstellen, Berlin W 35, Potsdamer</b><br/><b>Straße 178</b></p></div><div data-bbox=\"17 235 794 380\" data-label=\"Text\"><p><b>27 00 12 Die Deutsche Arbeitsfront, Amt Soziale</b><br/><b>Selbstverantwortung, Berlin W 35, Pots-</b><br/><b>damer Str. 180/182</b></p></div><div data-bbox=\"17 378 792 521\" data-label=\"Text\"><p><b>84 34 45 DAF., Amt für Berufserziehung und Be-</b><br/><b>triebsführung, Berlin-Zehlendorf, Telto-</b><br/><b>wer Damm 87/92</b></p></div><div data-bbox=\"17 519 744 612\" data-label=\"Text\"><p><b>19 54 91 Das Deutsche Handwerk</b><br/><b>Reichsdienststelle</b></p></div><div data-bbox=\"233 614 718 664\" data-label=\"Text\"><p><b>Berlin SW 68, Wilhelmstr. 140</b></p></div><div data-bbox=\"17 662 792 759\" data-label=\"Text\"><p><b>17 53 51 DAF., Fachamt Bekleidung und Leder,</b><br/><b>SW 68, Enckestr. 6</b></p></div><div data-bbox=\"17 756 792 853\" data-label=\"Text\"><p><b>27 00 12 Die Deutsche Arbeitsfront, Geschäftsführung,</b><br/><b>W 35, Potsdamer Str. 180—182</b></p></div><div data-bbox=\"17 853 634 900\" data-label=\"Text\"><p><b>27 74 11 Dieselbe nur für Ferngespräche</b></p></div><div data-bbox=\"17 898 792 992\" data-label=\"Text\"><p><b>71 26 31 Die Deutsche Arbeitsfront, Zentralbüro,</b><br/><b>Amt „Gesundheit und Volksschutz“</b></p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": {
+      "raw": "<div data-bbox=\"157 0 722 39\" data-label=\"Page-Header\">\n<p><b>BERLIN-WILMERSDORF, WILMERSDORF</b></p>\n</div>\n<div data-bbox=\"15 35 791 695\" data-label=\"List-Group\">\n<p>87 92 31 <b>DAF., NS-Gemeinschaft „Kraft durch Freude“, Amt Schönheit der Arbeit, Berlin-Wilmersdorf, Kaiserallee 25</b></p>\n<p>24 00 17 <b>Die Deutsche Arbeitsfront, Reichsleiter Dr. Ley, W 35, Tiergartenstr. 28</b></p>\n<p>19 54 91 <b>Hauptamt Handwerk und Handel<br/>Amt Handwerk<br/>Berlin SW 68, Wilhelmstr. 140</b></p>\n<p>86 73 61 <b>Reichshauptstaßenamt, Berlin-Wilmersdorf, Brandenburgische Str. 58/61. P Berlin 142973</b></p>\n</div>",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  }
+]

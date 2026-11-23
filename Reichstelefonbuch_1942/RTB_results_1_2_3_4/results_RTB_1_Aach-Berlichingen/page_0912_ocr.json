@@ -1,0 +1,880 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"248 645 600 921\" data-label=\"Text\"><p>428 (Branchenteil)</p></div><div data-bbox=\"766 636 998 895\" data-label=\"Text\"><p><b>3527. La</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"250 61 530 348\"}, {\"label\": \"Text\", \"bbox\": \"276 352 998 787\"}]",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"268 218 975 335\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"274 217 975 343\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"356 227 884 270\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"438 59 802 283\"}, {\"label\": \"Text\", \"bbox\": \"331 347 911 500\"}, {\"label\": \"Text\", \"bbox\": \"438 500 802 641\"}, {\"label\": \"Text\", \"bbox\": \"355 641 901 783\"}, {\"label\": \"Text\", \"bbox\": \"489 783 751 942\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"274 61 963 962\" data-label=\"Text\"><p><b>Jos. u. Matth. Kersthoid</b><br/><b>Landeskultur- und Tiefbauunternehmung</b><br/><b>G. m. b. H.</b><br/><b>Lissa (Wartheland), Schloßstraße 1</b><br/><b>Zweigniederlassung Rawitsch, Moltkestraße 9</b><br/><b>Fernsprecher: Lissa 767 und Rawitsch 559</b></p></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Sagan (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Walsrode (Hann.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"345 208 886 352\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Balve (Kr. Arnsberg, Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bauerwirtz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bautzen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Beuthen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Boizenburg (Elbe).",
+        "entries": []
+      },
+      {
+        "region_name": "Breitenau a. Steinfelde (Niederdonau)",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Calau (Niederlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Calbe (Saale)",
+        "entries": []
+      },
+      {
+        "region_name": "Cilli (Untersteiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "LANDWIRTSCHAFTSGESELLSCHAFT",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Demmin (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dirschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Dülken (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Erding (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Finthen (Kr. Mainz).",
+        "entries": []
+      },
+      {
+        "region_name": "Flomersheim (Rheinpfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"174 61 832 270\"}, {\"label\": \"Text\", \"bbox\": \"44 305 953 600\"}, {\"label\": \"Text\", \"bbox\": \"233 632 767 792\"}, {\"label\": \"Text\", \"bbox\": \"427 826 616 945\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Friedrichskoog (Dithm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Füssen (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fulda.",
+        "entries": []
+      },
+      {
+        "region_name": "Gelsenkirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gerersdorf ob. Fürstenfeld (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Gerolzhofen (Mainfranken).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"121 0 983 235\" data-label=\"Text\"><p><b>12 Pilz, Ignaz, Mühlenbetrieb, Landesprodukte, Kolonialwarengroßhdlg., Mühlgl. 32</b></p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 625 264 875\"}, {\"label\": \"Text\", \"bbox\": \"484 938 491 964\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Gnesen (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Grafenstein (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Grimmen (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Großdorf b. Braunau (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Gymnich (üb. Lechenich).",
+        "entries": []
+      },
+      {
+        "region_name": "Haag (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Haan (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamm (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hanau.",
+        "entries": []
+      },
+      {
+        "region_name": "Hafffurt (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hausmensing (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Hohenau (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Hohensalza (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wallakirchen (Niederdonau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Hotzenplotz (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kempen (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely corresponding to a specific town or region that is not visible in this particular view.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Klerf (Luxemburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Königshofen (Grabfeld).",
+        "entries": []
+      },
+      {
+        "region_name": "Kolmar (Warttheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Krotoschin (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Krummau a. d. Moldau (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Kutno (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Lammersdorf (Kr. Monschau) [Rhld.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Lechenich (Rhapr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Leslau (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Limburg (Lahn).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Franz Schierz",
+        "entries": []
+      },
+      {
+        "region_name": "Lissa (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Littau (Mähren).",
+        "entries": []
+      },
+      {
+        "region_name": "Stan. Smékal",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Herbert Stache",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Lübbenau (Spreewald).",
+        "entries": []
+      },
+      {
+        "region_name": "Mähr. Ostrau (Protectorat).",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Markt Pongau (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Minden (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

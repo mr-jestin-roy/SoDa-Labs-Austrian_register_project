@@ -1,0 +1,686 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content in the 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or a page with no content in the 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 11 997 966\" data-label=\"List-Group\">\n<p>\n    052 Reinhard, Lor., Zementwrfbr., Memm.Str. 57<br/>\n    1748 Reinhardt, Dr. Gust., Arzt, Augustenstr. 2<br/>\n    1032 Reinhart, G., Elektromstr., Amalienstr. 6<br/>\n    809 Reulein, Konr., Brauerei, Ob. Königstr. 40.<br/>\n    1368 Reiser, Mich., Kfm., Josefstr. 13<br/>\n    1055 Reisert, Georg, Manufakturwr., Austr. 11<br/>\n    1426 Reising, Seb., Versicherung, Gr. Markt 5<br/>\n    90 Reißig, R.-A., Heinrichsdamm 11b.<br/>\n    210 Reitz, Wilh., Bäckerei, Egelseestr. 1<br/>\n    (2118) Reklamebüro, Hauptwachstr. 13<br/>\n    1314 Rekord, Kaufhaus, Maxpl. 10/12<br/>\n    1778 Renner, Andr., Emball.Fbr., Nürnbn.Str. 157<br/>\n    1729 Reuß, J., Tabakw., Gaustadt, Hitlerstr. 67<br/>\n    1507 Revelant, Rob., Betongesch., Magazinstr. 6<br/>\n    2203 Rhenania-Ossag, Ölwerke AG, Lichtenh.Str. 3<br/>\n    1352 Richter, Else, D. Schneiderin, Pleisnerhof 17<br/>\n    859 Richter, L., Spielwr.-Fbr., Nürnbn.-Str. 181.<br/>\n    621 Richter, Rud., Dent., Friedrichstr. 6<br/>\n    2227 Riderer, Karl, Ottostr. 27<br/>\n    1526 Riedel, Hans, Konditorei, Unt.Königstr. 17<br/>\n    838 Riedhammer, Hans, Kunstmaler, M. Kaulb. 48\n  </p>\n</div>\n<div data-bbox=\"265 968 987 993\" data-label=\"Page-Footer\">\n<p>4988 ————— 6 ————— 50000 ————— 500000 ————— 5000000</p>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Adolf-Hitler-Str. 25. T Stahlriedl",
+        "entries": [
+          {
+            "extension": "1560",
+            "text": "Riegel, Karl, Textilwr., Austr. 9"
+          },
+          {
+            "extension": "1057",
+            "text": "Riegelein, Hans, Rohprod., Mühlwörth 11."
+          },
+          {
+            "extension": "913",
+            "text": "Riegg, Dr. H., Assist.-Arzt, Steinertstr. 9"
+          },
+          {
+            "extension": "590",
+            "text": "Riemer, Herm., Radio, Karolinenstr. 14"
+          },
+          {
+            "extension": "2191",
+            "text": "Rießner, Christel, Fabrikbes., Schützenstr. 1"
+          },
+          {
+            "extension": "818",
+            "text": "Riffelmacher Nf., H., Konditor, Ob.Brücke 12"
+          },
+          {
+            "extension": "2343",
+            "text": "Ritter, Georg, Repar.Werkst., Egeseestr. 21"
+          },
+          {
+            "extension": "1235",
+            "text": "Ritter, Kaspar, Baugesch., Gaustadt 561/2"
+          },
+          {
+            "extension": "1501",
+            "text": "Ritz, Anna, Fris., Luitpoldstr. 39"
+          },
+          {
+            "extension": "126",
+            "text": "Kitz, Georg, Dentist, Grüner Markt 16."
+          },
+          {
+            "extension": "267",
+            "text": "Rocholl, W., Tabakfabr., U.Königstr. 28"
+          },
+          {
+            "extension": "212",
+            "text": "Köckl, J. B., Vertreter, Luitpoldstr. 9"
+          },
+          {
+            "extension": "586",
+            "text": "Röder, Carl, Holzwrfabr., Georgenstr. 11a."
+          },
+          {
+            "extension": "486",
+            "text": "Roelen, Dr. F., Zahnarzt, Katharinenstr. 1"
+          },
+          {
+            "extension": "283",
+            "text": "Röhrli &amp; Co AG, Pechfabr., Urbanstr. 10"
+          },
+          {
+            "extension": "2317",
+            "text": "Röll, Otto, Sarotti AG, Herz.-Max-Str. 25"
+          },
+          {
+            "extension": "747",
+            "text": "Römer, Heinr., Bäckerei, Luitpoldstr. 89."
+          },
+          {
+            "extension": "1285",
+            "text": "Römer, Mich., Buchdruck., Hallst.-Str. 10."
+          },
+          {
+            "extension": "190",
+            "text": "Roesch, Gust., Hauptwachstr. 10."
+          },
+          {
+            "extension": "1833",
+            "text": "Röschert. Kilian. R.-A., Luitpoldstr. 23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"261 0 997 980\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>550</th>\n<th>DEUTSCH, WILM., SCHONHOUSER.</th>\n<th>3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>577</td>\n<td>Röschlaub, Geo, Fuhrw., U.Königstr. 27</td>\n<td></td>\n</tr>\n<tr>\n<td>1182</td>\n<td>Röschlaub, Hans, Glaserei, Unt. Königstr. 34</td>\n<td></td>\n</tr>\n<tr>\n<td>1742</td>\n<td>Rössert, Damenhüte, Hauptwachstr. 18</td>\n<td></td>\n</tr>\n<tr>\n<td>417</td>\n<td><b>Rössler &amp; Schmidt, Inh. A. Schmidt, Möbel-<br/>fabrik, Eichelberger Weg 21</b></td>\n<td></td>\n</tr>\n<tr>\n<td>804</td>\n<td>Rößner, Joh., Pelzwaren, Hauptwachstr. 10</td>\n<td></td>\n</tr>\n<tr>\n<td>432</td>\n<td>Rössner, Dr. Wilh., R.A., Hauptwachstr. 10</td>\n<td></td>\n</tr>\n<tr>\n<td>1184</td>\n<td>Röttinger, Br., Sippenforscher, Judenstr. 10</td>\n<td></td>\n</tr>\n<tr>\n<td>1665</td>\n<td>Romig, Hugo, Ingen., Schützenstr. 48</td>\n<td></td>\n</tr>\n<tr>\n<td>293</td>\n<td><b>Roppelt, Friedrich, Hof-Wachwarenfabrik,<br/>Bamberg, Obere Königstr. 27. P Nürnberg 4745</b></td>\n<td></td>\n</tr>\n<tr>\n<td>1483</td>\n<td>Rosenow, W., Rittm. a. D., Georgeustr. 28</td>\n<td></td>\n</tr>\n<tr>\n<td>2067</td>\n<td>Roßdeutsch, Hans, Kohlen, Holleb.Str. 18</td>\n<td></td>\n</tr>\n<tr>\n<td>835</td>\n<td>Roßmann, Leonh., Kreissekr., Schützenstr. 53</td>\n<td></td>\n</tr>\n<tr>\n<td>1203</td>\n<td>Rost, Paul, Ratsherr, Mußstr. 40</td>\n<td></td>\n</tr>\n<tr>\n<td>551</td>\n<td>Rost, Seb., Gärtnerei, Mittelstr. 33</td>\n<td></td>\n</tr>\n<tr>\n<td>21</td>\n<td>Rotes Kreuz, Deutsches, Pfahlplätzchen 5</td>\n<td></td>\n</tr>\n<tr>\n<td>1449</td>\n<td>Roth, Johann, Schreinerinstr., Kn",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 0 995 995\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>2095 Roth, Wilh., Friseur, Ob.Sandstr. 3</li>\n<li>2068 Rothaug, I., Schuhexpreß, Obstmarkt 8</li>\n<li>2188 Rothe, E., Händler, A.-Hitler-Str. 100</li>\n<li>158 Rothkeppel, Heinr., Drogen, Karolinenstr.</li>\n<li>1304 Rothkeppel, Heinr., Privat., Karol.Str. 1</li>\n<li>1309 Rothkeppel, Dr. Philipp, Arzt, Sophienstr. 16</li>\n<li>834 Ruck, Oskar, Zimmerer, Hindenburgpl. 10</li>\n<li>996 Ruckert, Dr. Jos., Arzt, Stegaurach</li>\n<li>2143 Rudolph, Heinz, Textil, Gr. Markt 24</li>\n<li>1355 Rückner, Georg, Bedachung, Kroateng. 23</li>\n<li>1558 Rückner, Martin, Tapezier, Siechenstr. 10</li>\n<li>650 Rüdesheimer Weinstuben, Vord.Graben 2</li>\n<li>1046 Rühl, Dora, Hauptm.Wwe., Schützenstr. 3</li>\n<li>(1344) Rühle &amp; Vöhringer, Wollwr., Ad.HitlerStr. 25</li>\n<li>726 Rümmel, Haus, Bäcker, Zinkenwörlh 16.</li>\n<li>658 Rüttinger &amp; Eichfelder, Hutfr., Kleberstr. 11</li>\n<li>235 Ruff, Kour., Mech. Werkst., Kathar.Str. 2</li>\n<li>599 Ruhland, Sepp, Metzgermstr., Saarstr. 25</li>\n<li>202 Rupp, Hans, Amtmann, Nonnenbrücke 1</li>\n<li>2059 Rupp &amp; Hubrach, Opt.-Werk, Unt. Mühlbr. 5</li>\n<li>1474 Runnrecht, Genro. Kfm. Amalienstr. 6</li>\n</ul>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 0 994 986\" data-label=\"List-Group\"><p>811 Kupprecht, Meta, Leveinsstr., Zimmersstr. 102<br/>830 Ruß, Joh., Blumenkiosk, Untere Brücke<br/>377 Ruß, Max, Hainstr. 28.<br/>2069 Ruthrof, Jos., Fahrzeuge, Ob.Königstr. 39<br/>1143 Saam, Max, Großbüttlerei, Sutte 3.<br/>700 Sachenbacher, J., Major, Schützenstr. 65<br/>682 Sachs, W., Baumstr., Schellenb.Str. 41<br/>1085 Sailer, Dr. Karl, Zahnarzt, Ad.HitlerStr. 37<br/>2175 Salamander Aü, Hauptwachstr. 13<br/>1086 Sandner, Aug., Domkircher, Domstr. 1<br/>(1114) Sandner, C., Techn.Büro, Luitp.Str. 10<br/>1342 Sanitätshaus Göttling, Kettenbrückstr. 1<br/>2002 Sanitätsskol. v. Roten Kreuz, H.-Wessel-Pl. 12<br/>6 Sankt-Heinrichs-Klause, Solokistr. 6<br/>1892 St. Walburgisheim, Haush.Sch., Jakobsb. 4<br/>1781 Sattes Nf., J., Likörfbr., Letzengasse 10<br/>2018 Säuglingsheim, kath., Weidendam 21<br/>2047 Sauer, Fritz, Kohlen, Gaustadt 37<br/>296 Gebr. Sauer, Tischlerei, Herzog Maxstr. 38<br/>1302 Sauer, Hans, Malermstr., Memmelsd.Str. 7b<br/>646 Sauer, Joseph, Brauerei, Wunderburg 6.</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 17 993 977\" data-label=\"List-Group\"><p>1370 Sauermann's Wurstfabrikate, Promenade 18<br/>1617 Schad, Andr., Wild, Mittelstr. 47<br/>576 Schad Nf., Georg, Därme, Ob.Königstr. 26<br/>1077 Schad, Rich., Mineralöle, Trimbergstr. 8<br/>1108 Schäder, L., Immob., Michaelsberg 13<br/>591 Schäfer, Fr., Transp., Nürnberger Str. 106<br/>561 Schäfer, Hans, Textilwr., Promenade 6a<br/>2034 Schaffer, H., Schneid., Horst-Wessel-Pl. 16<br/>508 Schaller, Heinr., Maschinen, Unt.Königstr. 11<br/>103 Schaller &amp; Langheinrich, Buchbinder-Kaliko,<br/>Bamberg, Friedrichstr. 13. T Schallangka<br/>131 Scharnke, Karl, Bürsten, AdolfHitlerStr. 32<br/>466 Schauer, Joh. Gemüse, MominsdorferStr. 41<br/>130 Scheick, Dr., Karl, R.-A., Katzenberg 6<br/>1621 Scheidel jr., Gg., chem. Fbr., Färberg. 8<br/>471 G. Scheidel &amp; Sohn, Hüte, Hauptwachstr. 16.<br/>668 Scheidel, Lukas, Glaserei, KeBlerstr. 32.<br/>649 Cosmas Scheiner<br/>Inhaberin Babette Scheiner, Weinhandlung<br/>und Weinrestaurant, Katzenberg 2</p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 11 998 982\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>1210</td>\n<td>W. u. H. Scheler, Schneiderei, Gabelsb.-Str 1</td>\n</tr>\n<tr>\n<td>197</td>\n<td>Schell, Bruno, Gärtnerei, Gaustadt</td>\n</tr>\n<tr>\n<td>149</td>\n<td>Schellenberger, J., Viehtransp., Lichtenh. Str. 23</td>\n</tr>\n<tr>\n<td>955</td>\n<td>Scheller, Mich., Dachdecker, Koppenh. G. 22</td>\n</tr>\n<tr>\n<td>2212</td>\n<td>Schellerer, H., Dr. med., Claviusstr. 34</td>\n</tr>\n<tr>\n<td>515</td>\n<td>Schenk, Friedrich, Luitpoldstr. 47</td>\n</tr>\n<tr>\n<td>1462</td>\n<td>Schenk, Hanna, Kosmetik, Gr. Markt 6</td>\n</tr>\n<tr>\n<td>2233</td>\n<td>Schenk, Toni, Architekt, Gabelsb. Str. 19</td>\n</tr>\n<tr>\n<td>1599</td>\n<td>Schenker &amp; Co. G. m. b. H.</td>\n</tr>\n<tr>\n<td>1567</td>\n<td>\n          Nebenstelle Bamberg, Spedition, Weiherstr. 2.<br/>\n          T Schenkerco\n        </td>\n</tr>\n<tr>\n<td>2088</td>\n<td>Scheppler, Ernst, Dr., Promenade 7</td>\n</tr>\n<tr>\n<td>324</td>\n<td>Scherer, Dr. Chr., Prof., Schützenstr. 30</td>\n</tr>\n<tr>\n<td>2073</td>\n<td>Scherer, Stef., Vertr., Herz.-Max.-Str. 21</td>\n</tr>\n<tr>\n<td>248</td>\n<td>Scherl, Mich., Kaufmann, Lufbank 2</td>\n</tr>\n<tr>\n<td>1061</td>\n<td>Scheubel, Ludw., Prok., Weißenh. Str. 51</td>\n</tr>\n<tr>\n<td>115</td>\n<td>Scheuber, August, Friseur, Marienstr. 9</td>\n</tr>\n<tr>\n<td>1535</td>\n<td>Scheuering, Gg., Kol.-W., Concordiastr. 13</td>\n</tr>\n<tr>\n<td>1196</td>\n<td>Scheuerle, A., Eiergroßhandlung</td>\n</tr>\n<tr>\n<td>927</td>\n<td>Schlefer, Dr. Willy, Arzt, Memmelsdorf.</td>\n</tr>\n<tr>\n<td>315</td>\n<td>Schiele, Otto, Bankgesch., Ad. Hitler Str. 2</td>\n",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>568</td>\n<td>Schiller, Hans, Sturmbannf., M.FaustStr. 15</td>\n</tr>\n<tr>\n<td>610</td>\n<td>Schimmel, E., Dr. med., Schellenb.Str. 28</td>\n</tr>\n<tr>\n<td>141</td>\n<td>Schindler, Adolf-Hitler-Str. 38</td>\n</tr>\n<tr>\n<td>50</td>\n<td><b>Schingnitz, Erhard, Bauunternehmen, Säge- u. Hobelwerk, Brennerstraße 12</b></td>\n</tr>\n<tr>\n<td>1622</td>\n<td>Schirrmacher, Arthur, Dir., Friedrichstr. 7</td>\n</tr>\n<tr>\n<td>1102</td>\n<td>Schlauch, Gg., Gemüse, Hallstadt</td>\n</tr>\n<tr>\n<td>701</td>\n<td>Schlaug, Baptist, Stuckmeister, Zollnerstr. 5</td>\n</tr>\n<tr>\n<td>490</td>\n<td>Schlaug, Fritz, Schneiderei, Georgenstr. 24</td>\n</tr>\n<tr>\n<td>385</td>\n<td>Schlee, Adam, Install., Ob. Königsstr. 11.</td>\n</tr>\n<tr>\n<td>482</td>\n<td>Schlee, Stephan, Wild, Kopenhofgasse 8a</td>\n</tr>\n<tr>\n<td>919</td>\n<td>Schlee, Wilhelm L., Hausgeräte</td>\n</tr>\n<tr>\n<td>565</td>\n<td>Schlegler, Adam, Mech. Werkst., Fleischstr. 25.</td>\n</tr>\n<tr>\n<td>1315</td>\n<td>Schleuse u. Wehranlage Viereth</td>\n</tr>\n<tr>\n<td>1242</td>\n<td>Schleusenwärter in Bughof</td>\n</tr>\n<tr>\n<td>1218</td>\n<td>Schlicht, Hans, Vertr., Ottostr. 1b</td>\n</tr>\n<tr>\n<td>547</td>\n<td>Schlichting, Hans, Gartenbau, Scharnh.Str. 15</td>\n</tr>\n<tr>\n<td>24</td>\n<td><b>Schloßverwaltung, Karolinenplatz 8.</b></td>\n</tr>\n<tr>\n<td>1784</td>\n<td>Schlüter-Rössert, D. Schneid., Geyersw. Str. 16</td>\n</tr>\n<tr>\n<td>1257</td>\n<td>Schlund, Dr. G., O.-Landger.Rat, Ottostr. 27</td>\n</tr>\n<tr>\n<td>1988</td>\n<td>Schlund J Schweinehndl Tasenstr 11</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 993 987\" data-label=\"Text\"><p>1244 Schiuna, K. B., Steuerneuer, Ullustr. 27<br/>2197 Schmaus, Karl, Tischler, Schlüsselstr. 22<br/>2281 Schmich, Karl, Schneiderm., Hauptw.Str. 2<br/>2187 Schmid, Aenny, Ww., Hiltnerstr.<br/>417 Schmidt, Alb., Fabrkt., Gabelsb.Str. 17<br/>1123 Schmidt Nachf., Andr., Vertr., Siechenstr. 8<br/>1725 Schmidt, Aug., Schreinerei, Peuntstr. 3.<br/>2290 Schmidt, Hans, Friseur, Luitpoldstr. 6<br/>1338 Schmidt, Heinr., Holz, O.Stephansb. 22b<br/>741 Schmidt, Herb., Dipl.-Ing., Ottostr. 25<br/>1181 Schmidt, Karl, Isolierungen, Georgenstr. 2<br/>502 Schmidt, Karlheinz, Ing., Ottostr. 27<br/>1494 Schmidt, Ludw., Gärten, Ob. Brücke 10.<br/>2205 Schmidt, Dr. Matth., Arzt, Halnstr. 9<br/>1713 Schmidt, Max, Stahlwaren, Grüner Markt 31<br/>105 Schmidt &amp; Winterling, Nähseiden, Luitpold-<br/>straße 40<br/>528 Schmidtkonz, Max, Prof., Friedrichstr. 13<br/>1336 Karl Schmieder &amp; Co, Mehl, Dr. Schmittstr. 21<br/>984 Schmitt, A., Leder, Hauptwachstr. 10.<br/>1259 Derselbe, Wohnung, Schönbornstr. 3</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>942</td>\n<td>Schmitt, B., Fliesenleger, Kapuzinerstr. 3</td>\n</tr>\n<tr>\n<td>2214</td>\n<td>Schmitt, Fr. F., Reg.-Rat, Luitpoldstr. 35</td>\n</tr>\n<tr>\n<td>664</td>\n<td>Schmitt, Georg, Friseur, Ob. Königstr. 2.</td>\n</tr>\n<tr>\n<td>1929</td>\n<td>Schmitt, Hans, Steuerhelfer, Mittelstr. 1</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Schmitt, Dr. Gottfried, R.-A., Brückenstr. 1</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Schmitt, Dr. Hans, R.-A., Brückenstr. 1</td>\n</tr>\n<tr>\n<td>2325</td>\n<td>Schmitt, Dr. Hans, R.-A., Hainstr. 23</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Schmitt, Dr. Josef, I. R., R.-A., Brückenstr. 1</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Dr. Josef Schmitt, Dr. Gottfried Schmitt und Dr. Hans Schmitt, Rechtsanwälte, Brückenstr. 1</td>\n</tr>\n<tr>\n<td>304</td>\n<td>Schmitt Nr., J., Elektr. Fbr., Schützenstr. 12</td>\n</tr>\n<tr>\n<td>1690</td>\n<td>Schmitt, Jos., Gasthof, Bug</td>\n</tr>\n<tr>\n<td>446</td>\n<td>Schmitt, Karl, Schlosserei, Kleberstr. 12.</td>\n</tr>\n<tr>\n<td>655</td>\n<td>Schmitt, Dr. L., Augenarzt, Gr. Markt 18</td>\n</tr>\n<tr>\n<td>1697</td>\n<td>Schmitt, Maria, Heinrichsdamm 3</td>\n</tr>\n<tr>\n<td>602</td>\n<td>Schmitt, Paul, Versicherung</td>\n</tr>\n<tr>\n<td>2199</td>\n<td>Schmitt, Dr. Theodor, Arzt, Sophienstr. 18</td>\n</tr>\n<tr>\n<td>2275</td>\n<td>Schmitt-Kempfer, Dr., Arzt, Eberh. Str. 1</td>\n</tr>\n<tr>\n<td>2146</td>\n<td>Schmittner, Willy, Friseur, Kleberstr. 31</td>\n</tr>\n<tr>\n<td>2147</td>\n<td>Schmutzler &amp; Rinke, WäscheF, Luip. Str. 27</td>\n</tr>\n<tr>\n<td>1019</td>\n<td>Dahmann Hans Tschern Wilhelmsh",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table>\n<tr>\n<td>918</td>\n<td>Schneider, Dr., Künzgeninstitut, Sophienstr. 9</td>\n</tr>\n<tr>\n<td>691</td>\n<td>Schneider, Christoph, Glaser, Pfeuferstr. 6</td>\n</tr>\n<tr>\n<td>1667</td>\n<td>Schneider, F., Mietauto, K.-Zeuß-Str. 28</td>\n</tr>\n<tr>\n<td>1538</td>\n<td>Schneider, Georg, Landger.Präs., Friedrichstr. 2</td>\n</tr>\n<tr>\n<td>1597</td>\n<td>Schneider, Georg, Dachdeck., Schulpl. 2</td>\n</tr>\n<tr>\n<td>1087</td>\n<td>Schneider, Jos., Treuhänder, Hochgericht 9</td>\n</tr>\n<tr>\n<td>398</td>\n<td>Schneider, Konrad, Josefstr. 14</td>\n</tr>\n<tr>\n<td>447</td>\n<td>Schneider, Rich., Dentist, Promenade 15</td>\n</tr>\n<tr>\n<td>1148</td>\n<td>Sybilla Schneider &amp; Elis Göller, Ausstattungs-<br/>geschäft, Adolf-Hitler-Str. 17</td>\n</tr>\n<tr>\n<td>2346</td>\n<td>Schneider &amp; Tröster, Bekleidg., Hauptwach-<br/>straße 17</td>\n</tr>\n<tr>\n<td>875</td>\n<td>Schneider's Nf., M., Modewr., Obstmarkt 10</td>\n</tr>\n<tr>\n<td>2247</td>\n<td>Schneiderbanger, Georg, Gend.-Wachtm.,<br/>Gabelsbergerstr. 9</td>\n</tr>\n<tr>\n<td>1744</td>\n<td>Schneidmahl, Dr. H., Zahnarzt, Promenade 5</td>\n</tr>\n<tr>\n<td>1696</td>\n<td>Schnell, F., Hauptm., Dientzenh.Str. 48</td>\n</tr>\n<tr>\n<td>1705</td>\n<td>Schneller, Dr. Alb., Arzt, Promenadestr. 8</td>\n</tr>\n<tr>\n<td>62</td>\n<td>Schnitzlein, Joh., Tapez., Karol.Str. 25</td>\n</tr>\n<tr>\n<td>1609</td>\n<td>Schlizlein, G., Dr., M.-Luther-Str. 12</td>\n</tr>\n<tr>\n<td>909</td>\n<td>Schnur, Dr. Carl, Arzt, Luisenstr. 24</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 981\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>183</td>\n<td>Schubert, Emil, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar, Gismar,",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"359 761 980 947\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 11 998 994\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>251</td>\n<td>Schuch, Max, Samenhdg., Siechenstr. 41.</td>\n</tr>\n<tr>\n<td>1007</td>\n<td>Schützengesellsch. v. 1522, Pödelstr. 125</td>\n</tr>\n<tr>\n<td>71</td>\n<td><b>Schuhfabrik Manz Aktiengesellschaft<br/>Bamberg</b></td>\n</tr>\n<tr>\n<td>270</td>\n<td>Schuhhaus Scharrenbroch, Grüner Markt 17</td>\n</tr>\n<tr>\n<td>832</td>\n<td>Schuhhaus Spindler, Hauptwachstr. 15</td>\n</tr>\n<tr>\n<td>2139</td>\n<td>Schuhhaus Zeller, Grüner Markt 20</td>\n</tr>\n<tr>\n<td>1141</td>\n<td>Schuhmann, H., Holzhdg., Pfisterstr. 11.</td>\n</tr>\n<tr>\n<td>1435</td>\n<td>Schuler, G, Mineralwfr., Jäckstr. 24</td>\n</tr>\n<tr>\n<td>377</td>\n<td>Schuler, K., Korsettfbr., Schützenstr. 37</td>\n</tr>\n<tr>\n<td>1129</td>\n<td>v. Schultes, Franz, Generalltn., Jakobspl. 7</td>\n</tr>\n<tr>\n<td>813</td>\n<td>Schulz, Kaspar, Masch.-Fbr., Frauenstr. 15.</td>\n</tr>\n<tr>\n<td>1305</td>\n<td>Schumm, Anton, Ingen.-Büro, Austr. 1.</td>\n</tr>\n<tr>\n<td>1101</td>\n<td>Schumm, Franz, Gärtnerei, Mittelstr. 8.</td>\n</tr>\n<tr>\n<td>678</td>\n<td>Joh. Schumm jr., Kartoffel- und Obstgroß-</td>\n</tr>\n<tr>\n<td>778</td>\n<td>handel, Heiliggrabstraße 35</td>\n</tr>\n<tr>\n<td>841</td>\n<td>Schuater, Dr. Carl, Arzt, H.-Maxstr. 1.</td>\n</tr>\n<tr>\n<td>2349</td>\n<td>Schuster, Hans, Kfm., Ob. Stephansberg 1</td>\n</tr>\n<tr>\n<td>143</td>\n<td>Schwager, G. M., Kolonialwr., Promen. 13</td>\n</tr>\n<tr>\n<td>863</td>\n<td>Schwalbenmühle, Obere Mühlbrücke 11</td>\n</tr>\n<tr>\n<td>2022</td>\n<td>Schwappach, H., Kraftverkehr, Bischof, 106a</td>\n</tr>\n<tr",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 993 990\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>550</td>\n<td>Schwarzkopf, Aug., Kohlen. Gönnerstr. 45</td>\n</tr>\n<tr>\n<td>2350</td>\n<td>Schwarzmann, Georg, Dachd., Altenb.Str. 11</td>\n</tr>\n<tr>\n<td>1679</td>\n<td>Schwarzmann, Joh., Flaschner, Generalsg. 3</td>\n</tr>\n<tr>\n<td>1680</td>\n<td>Schweizer, Wilh., Vertr., Schützenstr. 1a</td>\n</tr>\n<tr>\n<td>2113</td>\n<td>Schwenold, Martin, Baumat., Kleberstr. 34</td>\n</tr>\n<tr>\n<td>36</td>\n<td>Schwert, G., Kleiderfbr., Ad.HitlerStr. 27</td>\n</tr>\n<tr>\n<td>36</td>\n<td>Schwert, Georg, Bekleidung, A.-Hitler-Str. 27</td>\n</tr>\n<tr>\n<td>2115</td>\n<td>Schwinnverein e.V., Bughof</td>\n</tr>\n<tr>\n<td>1550</td>\n<td>Schwinn, Fr., Mühlenfbrkate, K.-Zeuß-Str. 22</td>\n</tr>\n<tr>\n<td>1050</td>\n<td>Schwinn, Rich., Vertr., Kunig.Damm 31</td>\n</tr>\n<tr>\n<td>37</td>\n<td>Sebaldusverlag GmbH, Edelstr. 3</td>\n</tr>\n<tr>\n<td>19</td>\n<td>Seele, Kurt, Hopfengroßhandel, Hainstraße 7</td>\n</tr>\n<tr>\n<td>2370</td>\n<td>Seidel, Joh., Stricknoden, Kleberstr. 2</td>\n</tr>\n<tr>\n<td>1126</td>\n<td>Seidel, Jos., Lederhdlg., Fischstr. 9</td>\n</tr>\n<tr>\n<td>1450</td>\n<td>Seldenahrt, Otto, Malermstr., Zinkenwörrth 9</td>\n</tr>\n<tr>\n<td>2079</td>\n<td>Seidenschwarz, Frau, Michaelsberg 10</td>\n</tr>\n<tr>\n<td>1763</td>\n<td>Seiz, Karl, Vertreter, Schützenstr. 49</td>\n</tr>\n<tr>\n<td>2372</td>\n<td>Sellmann, Adam, Schreibwr., Siechenstr. 356</td>\n</tr>\n<tr>\n<td>1633</td>\n<td>Sendner, Paul, Bäckerei, Mittl. Kaulberg 29</td>\n</tr>\n<tr>\n<td>1473</td>\n<td>Senger, Fritz, Tapeziergesch., Luitp.Str. 50</td>\n</tr>\n<tr",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 994 970\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Nummer</th>\n<th>Name, Beruf, Anschrift</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1081</td>\n<td>Serg &amp; Ziegler, Pharmaz. Art., Dr. Schmittstr. 19</td>\n</tr>\n<tr>\n<td>1539</td>\n<td>Sermersheim, H. R., Major, Claviustr. 29</td>\n</tr>\n<tr>\n<td>1779</td>\n<td>Seuffert, Fritz, mech. Werkst., Austr. 33</td>\n</tr>\n<tr>\n<td>872</td>\n<td>Seuling, Andr., Maler, Eisgrube 2.</td>\n</tr>\n<tr>\n<td>893</td>\n<td>Seuß, Hans, Promenade 12</td>\n</tr>\n<tr>\n<td>2213</td>\n<td>Seyfert, Elise, Gemischtwr., Ob. Kaulb. 40</td>\n</tr>\n<tr>\n<td>83</td>\n<td>Seyfferth, Dr. Hanns, Vertr., Sophienstr. 6</td>\n</tr>\n<tr>\n<td>2074</td>\n<td>Seysen, A., Stahlwr., Ob. Königstr. 14</td>\n</tr>\n<tr>\n<td>451</td>\n<td>Sieber, Georg, Kliffelwerk, Schimmelsgasse 5.</td>\n</tr>\n<tr>\n<td>1770</td>\n<td>Sieber, H., Schiffermstr., Alter Gruben 22 a</td>\n</tr>\n<tr>\n<td>1520</td>\n<td>Siemens Revisionsst., Kloster -Banz-Str. 50</td>\n</tr>\n<tr>\n<td>145</td>\n<td>Singer, Hans, Wurstwr., Ad. HitlerStr. 17</td>\n</tr>\n<tr>\n<td>17</td>\n<td>Singer Nähmasch.-A.-G., Gr. Markt 6</td>\n</tr>\n<tr>\n<td>2055</td>\n<td>Sohmer, Berth., Holzwr., Ob. Königstr. 37</td>\n</tr>\n<tr>\n<td>353</td>\n<td>Sohmer, Felix, Rahmenfr., Erlichstr. 46a.</td>\n</tr>\n<tr>\n<td>382</td>\n<td>Sonnekalb, Fritz, Vertr., Hainstr. 29</td>\n</tr>\n<tr>\n<td>1493</td>\n<td>Spachholz, Hans, Weide 3</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Spachus GmbH, Papierwr., Luitp. Str. 46</td>\n</tr>\n<tr>\n<td>2072</td>\n<td>Sparkasse d. Bank d. Deutschen Arbeit AG,<br/>Luitpoldstr. 27</td>\n</tr>\n</tbody",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"9 0 998 995\" data-label=\"Table\"><table><tr><td>1731</td><td>Spar-u. Darlehnskasse Memmelsdorf, Filzg. 10</td></tr><tr><td>487</td><td>Sperber, F., Organis.Leiter, Fünferstr. 9</td></tr><tr><td>790</td><td>Sperber, Dr. Mich., Arzt, Luitpoldstr. 8</td></tr><tr><td>384</td><td>Spezial, Brauerei zum, Inhaber Christian Merz,<br/>Obere Königstraße 10</td></tr><tr><td>791</td><td>Spiegel, Val., Install., Siechenstr. 2</td></tr><tr><td>1505</td><td>Spieler, Jakob, Metzgerei, U.Brücke 1</td></tr><tr><td>1787</td><td>Spies, Matth., Parfüm-Großhandel</td></tr><tr><td>2220</td><td>Spies, Mich., Vertreter, Friedrichstr. 12</td></tr><tr><td>988</td><td>Spitzer, Paul, Färberei, Ob.Königstr. 42</td></tr><tr><td>351</td><td>Spitzl, Ludwig, Fahrlehrer, Trimbergstr. 17</td></tr><tr><td>1548</td><td>Sponsel, Haus, Gasthaus, Egelseestr. 78</td></tr><tr><td>1010</td><td>Sporrer, Georg, Gemüse, Mittelstr. 49</td></tr><tr><td>1825</td><td>Spreng, Conrad, Bildhauer, Gundelsstr. 1</td></tr><tr><td>384</td><td>Staatl. Hebammenschule, Entbindungsanstalt<br/>u. Frauenklinik</td></tr><tr><td>611</td><td>Staatsarchiv, Hainstr. 89</td></tr><tr><td>1341</td><td>Staatsbibliothek, Bamberg.</td></tr><tr><td>117</td><td>Stadler, Hans, Lebensm., Koblstr. 3</td></tr><tr><td>1058</td><td>Stadler, Konrad, Friseur, A.-Hitler-Str. 40</td></tr><tr><td>1547</td><td>Stadthad, Gaverawürthstr. 3</td></tr></table></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 995\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>080</td>\n<td>Stadtgärtnerei, An der Traugenzun</td>\n</tr>\n<tr>\n<td>826</td>\n<td>Stadter, Joh., Kohlenhdlg., Frauenstr. 29.</td>\n</tr>\n<tr>\n<td>1532</td>\n<td>Stadtsterbepakt, großer, Luitpoldstr. 35</td>\n</tr>\n<tr>\n<td>1417</td>\n<td>Stadtverwaltung, Maximiliansplatz 3</td>\n</tr>\n<tr>\n<td>1429</td>\n<td>Dies., Hans-Schemm-Schule, am Spinseyer</td>\n</tr>\n<tr>\n<td>1128</td>\n<td>Stadtwaldförsterel</td>\n</tr>\n<tr>\n<td>334</td>\n<td>Stadtwaldwasserwerk</td>\n</tr>\n<tr>\n<td>201 {</td>\n<td>Stadtwerke Bamberg</td>\n</tr>\n<tr>\n<td>203 {</td>\n<td>Elektrizitätswerk</td>\n</tr>\n<tr>\n<td>2261</td>\n<td>Stadtwerke, Gas- u. Wasserwerke</td>\n</tr>\n<tr>\n<td>400 {</td>\n<td>Städt. Hafen-Direktion, Bamberg, Hafenstr. 6</td>\n</tr>\n<tr>\n<td>401 {</td>\n<td>Städt. Hafen-Direktion, Bamberg, Hafenstr. 6</td>\n</tr>\n<tr>\n<td>1422</td>\n<td>Städt. Hochbauamt, Neues Rathaus</td>\n</tr>\n<tr>\n<td>1422</td>\n<td>Städt. Tiefbauamt, Jesuitenstr. 9</td>\n</tr>\n<tr>\n<td>2201</td>\n<td>Städt. Nutz- u. Zuchtviehof, Obstgroßmarkt</td>\n</tr>\n<tr>\n<td>174</td>\n<td>Städt. Schlacht- u. Viehhofdirektion</td>\n</tr>\n<tr>\n<td>1716 {</td>\n<td>Städt. Sparkasse Bamberg, Bamberg, Kuni-</td>\n</tr>\n<tr>\n<td>1717 {</td>\n<td>gundendamm 7. P Nürnberg 21266</td>\n</tr>\n<tr>\n<td>1286</td>\n<td>Dieselbe, Zweigstelle Bamberg-Ost, Heinrich-Weber-Platz 5/6</td>\n</tr>\n<tr>\n<td>548</td>\n<td>Städt. Tierkörnerbearbeitungsanstalt, Kirach-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "314",
+            "text": "Städt. Wohnsiedlung Erlichstr., Erlichstr. 151"
+          },
+          {
+            "extension": "354",
+            "text": "Städt. Wohnsiedlung Hochgericht, Hochger. 3a"
+          },
+          {
+            "extension": "164",
+            "text": "Städt. Wohnsiedl. Kärntnerstr., Kärnt. Str. 3"
+          },
+          {
+            "extension": "2360",
+            "text": "Städt. Wohnsiedl. Margarethendamm 54"
+          },
+          {
+            "extension": "886",
+            "text": "Städt. Wohnsiedlung i. Teufelsgr., Teufelsgr. 9"
+          },
+          {
+            "extension": "744",
+            "text": "Städt. Wohnsiedl. Zollnerstr., Zollnerstr. 118"
+          },
+          {
+            "extension": "2135",
+            "text": "Stahl, Erich, Dr., Claviusstr. 39 -"
+          },
+          {
+            "extension": "228",
+            "text": "Stahl, Konrad, Domkapitular, Domstr. 7"
+          },
+          {
+            "extension": "661",
+            "text": "Staller, A., Architekt, Unt. Sandstr. 57."
+          },
+          {
+            "extension": "1017",
+            "text": "Stammberger, Gustav, Bäckerei, Austr. 20."
+          },
+          {
+            "extension": "2185",
+            "text": "Stammler, Otto, Vizepräsd., Schillerpl. 16"
+          },
+          {
+            "extension": "715",
+            "text": "Stangl, Jos., Mehl, Mittelstr. 7"
+          },
+          {
+            "extension": "685",
+            "text": "Stark, Fritz, Install., Memmelsd. Str. 108"
+          },
+          {
+            "extension": "1393",
+            "text": "Starklauf, P., Vulkanis., Schützenstr. 16"
+          },
+          {
+            "extension": "418",
+            "text": "Staudt, Jos., Tabakwr., Kunig.-Damm 31."
+          }
+        ]
+      },
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "133",
+            "text": "} Inh. O. Müller, Fabrik elektr. Koch- u."
+          },
+          {
+            "extension": "166",
+            "text": "} Heizapparate, Spezialbau elektr. Futter- dämpfer, Stanz-, Zieh- u. Prägeteile"
+          },
+          {
+            "extension": "1028",
+            "text": "Steck, Georg, Kohlen, Knöckeln 6a."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 760 357 925\" data-label=\"Text\"><p>— <b>Viehwirtsch.</b></p></div><div data-bbox=\"527 760 786 955\" data-label=\"Text\"><p>(Band I) 215</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 11 785 104\" data-label=\"Text\"><p><b>1145 Steck &amp; Schropp, Landesprodukte, Bamberg,<br/>Untere Königstr. 12</b></p></div><div data-bbox=\"24 103 525 150\" data-label=\"Text\"><p>950 Stein, Walter, Hiltnerstr. 10</p></div><div data-bbox=\"10 147 748 196\" data-label=\"Text\"><p>(2246) Steinert, Wolfr., Kunstgew., Ob. Brücke 11</p></div><div data-bbox=\"10 195 742 242\" data-label=\"Text\"><p>1294 Steinfelder, Hans, Blumen, Hauptw.Str. 16</p></div><div data-bbox=\"10 240 781 286\" data-label=\"Text\"><p>1508 Steingräber &amp; Söhne, Pianofbr., Luitpoldstr. 28</p></div><div data-bbox=\"24 285 733 331\" data-label=\"Text\"><p>893 Steingräber &amp; Söhne, Pianos, Luizenstr. 10</p></div><div data-bbox=\"10 330 726 377\" data-label=\"Text\"><p>1272 Steinhelmer, F., Vertr., D. Eckart Str. 17</p></div><div data-bbox=\"24 376 748 423\" data-label=\"Text\"><p>330 Steinheimer, Sebast., Fleischer, Fischstr. 7.</p></div><div data-bbox=\"24 421 670 467\" data-label=\"Text\"><p>271 Steinmann, D. Bekleid., Obstmarkt 12</p></div><div data-bbox=\"24 466 717 513\" data-label=\"Text\"><p>709 Stemmer, Toni, Seide, Grüner Markt 15</p></div><div data-bbox=\"10 511 664 558\" data-label=\"Text\"><p>1042 Stempfle, Seb., Lehr., Schützenstr. 1</p></div><div data-bbox=\"10 557 752 603\" data-label=\"Text\"><p>1094 Stenglein, Hans, Metzgermstr., Josefstr. 15</p></div><div data-bbox=\"10 602 718 649\" data-label=\"Text\"><p>1415 Stenglein, Hans, Gemischtwr., Bischberg</p></div><div data-bbox=\"10 647 638 693\" data-label=\"Text\"><p>1106 Stenglein, Hans, Angest., Josefstr. 5</p></div><div data-bbox=\"10 692 703 739\" data-label=\"Text\"><p>1455 Stenglein, K., Gemüse, Heiliggrabstr. 49</p></div><div data-bbox=\"24 738 781 784\" data",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 784 988\" data-label=\"Text\"><p>712 Stiebner, Walter, Druck., Herz.-Max-Str. 77<br/>947 Stiefler, Joh., Spedit., Josefstr. 9<br/>247 Stiefler, Joh., Gärtnerei, Hallstadt<br/>518 Stirnweis, Alex., Robpr., Siechenstr. 31.<br/>1356 Stix, Georg, Ofenbau, Josefstr. 2a.<br/>702 <b>Stocker, L., Bürobedarf, Schreib- und Rechen-<br/>maschinen, Obere Königstraße 31</b><br/>2081 Stöcklein, Josef, Install., Klosterstr. 6<br/>684 Stöcklein, J. B., Mineralw., Nonnenbr. 9<br/>1260 Stoll, Heinrich, Metzgermstr., Fischstr. 3<br/>2268 Strätz, Käthe, Gastwirtin, Hallst.Str. 67a<br/>2331 Strätz &amp; Ziegler, Kol.W., Ob. Sandstr. 4<br/>114 Straßen- u. Flußbauamt, Fr.-Ludw.-Str. 21<br/>2328 Dasselbe, Baumagazin, Eichelb. Weg 25<br/>72 Dasselbe, Schleusenwärter, Bischberg<br/>494 Dasselbe, Schleusenwärter, Gaustadt<br/>2170 Streit, Jos., Kfm., Nürnberger Str. 12<br/>1681 Stretz, Georg, Bäckerei, Hallstadt<br/>1568 Stretz, Joh., Fahrr., Hallstadt, Bamb.Str. 254<br/>1431 Striefler, Edm., Schiffer, Gaustadt, Adolf-<br/>Hitler-Str. 92</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2066",
+            "text": "Strohmer, Franz, Fuhrernern., Zollnerstr. 34"
+          },
+          {
+            "extension": "1113",
+            "text": "Stubner, Andr., Gärtner, Hallst.-Str. 113."
+          },
+          {
+            "extension": "2138",
+            "text": "Stückl, Joh., Wäscherel, Kleberstr. 37"
+          },
+          {
+            "extension": "521",
+            "text": "Stürmer, Andr. Otto, Maler, H.-Maxstr. 9"
+          },
+          {
+            "extension": "1928",
+            "text": "Stürmer, Hch., Archit., Michaelab. Str. 6"
+          },
+          {
+            "extension": "393",
+            "text": "Sünkel, Hans, Holzhdlg., Luisenstr. 10"
+          },
+          {
+            "extension": "362",
+            "text": "Sünkel, Hans, Hotel, Luitpoldstr. 37"
+          },
+          {
+            "extension": "524",
+            "text": "Süß, J. B., Glaserin., Hirschbühlstr. 12"
+          },
+          {
+            "extension": "238",
+            "text": "Sunderdieck, Bern., Zigarren, Luitp. Str. 31"
+          },
+          {
+            "extension": "462",
+            "text": "Taucher, Dr. Hans, Arzt, Unt. Sandstr. 43."
+          },
+          {
+            "extension": "1422",
+            "text": "Techn. Nothilfe, Neues Rathaus"
+          },
+          {
+            "extension": "1264",
+            "text": "Teich, Andr., Tapezier, Ob. Karol. Str. 6"
+          },
+          {
+            "extension": "1691",
+            "text": "Telefonbau u. Normalzeit Lehner &amp; Co., Hildnerstr. 16"
+          },
+          {
+            "extension": "1747",
+            "text": "Tempel, Martin, Ing. Büro, Pödel. Str. 19"
+          },
+          {
+            "extension": "1732",
+            "text": "Tennisklub Bamberg e. V."
+          },
+          {
+            "extension": "953",
+            "text": "Tham, Günther, Hopfen, Hainstr. 20"
+          },
+          {
+            "extension": "1040",
+            "text": "Theaterrose, Schillerplatz 7"
+          },
+          {
+            "extension": "1851",
+            "text": "Theiler, Wilh., Dent., Luitpoldstr. 18"
+          },
+          {
+            "extension": "1674",
+            "text": "Then, G., RLB.-Gemeindegr., Hallstadt 255a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 781 993\" data-label=\"Text\"><p>144 Theresienhain-Café, Zinkenwörth<br/>75 Thoma, Andr., Kurzwr., Luitpoldstr. 25<br/>263 Thomann, Dr. Ernst, Zahnarzt, Maxpl. 14<br/>679 Thomas, Betty, Fruchthalle, a. Bahnhof<br/>193 C. Heinz u. Friedr. Thomas, Ottostr. 15<br/>714 Geschw. Thomas, Feinkost, Ad.HitlerStr. 44<br/>663 Thomas, Grete, Schneid., Pfahlplätzchen 5<br/>2084 Thomaß, Max, Klaviertech., K.-Zeuß-Str. 25<br/>1648 Thomaß, Paul, Pianos, Austr. 25<br/>2252 Thon, Karl, Schneiderei, Ad.-Hitler-Str. 22<br/>2098 Thorbecke, Agnes, Vord. Bach 8<br/><b>152 Carl Tischer K.G., Gas- und Wasserleitungs-<br/>artikel, Schrauben und Muttern, Sophien-<br/>straße 11</b><br/>297 v. Traiteur, C., Notar, A.-Hitler-Str. 48<br/>531 Trapp, H., elektr. Industrie, Kleberstr. 22a<br/>589 Traudt, Frdr., Bauwaren, Nürnbg. Str. 81<br/>839 Trautmann, Seb., Eier, Siechenstr. 97<br/>1403 Trautner, O-Landger.-Rat, Schützenstr. 22<br/>887 Treuners Nf., H. Seraphin, Buchhdlg., Adolf-<br/>Hitler-Str. 12</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 779 993\" data-label=\"Text\">\n<p>\n    373 Iron, Walter, Mainstr. 15<br/>\n    302 } Iron, Walter, Schuhfabrik, Bamberg, Hart-<br/>\n    623 } mannstraße 7. P Nürnberg 844<br/>\n    1264 Trütschel, Franz, Fahrerlehrer, Austr. 33<br/>\n    420 Oberlandw. Oberfranken AG, Luitpoldstr. 51<br/>\n    423 Dasselbe, Kraftwerk Strullendorf<br/>\n    1249 Dasselbe, Trennstation Stadlerwerke<br/>\n    1250 Dasselbe, Trennstation Hauptsmoor<br/>\n    1252 Dasselbe, Trennstation Zollnerstraße<br/>\n    1559 Ufer, Gustav, Bürobed., Koppenhofgasse 12<br/>\n    1107 Ulleln, Georg, Motorrad., Ob. Königstr. 42<br/>\n    858 Ullmann, Pankraz, Schraubenfabrik, Facon-<br/>\n    dreherei, elektrische Türöffner, Bamberg,<br/>\n    Memmelsdorfer Straße 89<br/>\n    1434 Ullmann, Wendelin, Farben, Kaserstr. 13.<br/>\n    2086 Ultsch, Georg, Dentist, D.-Eckart-Str. 15<br/>\n    1589 Ultsch, Hans, Versich., Am Zwinger 2a<br/>\n    1354 L. u. D. Ultsch, D.-Putz, Gr. Markt 31<br/>\n    1098 Ulzheimer, Kath., Leichenfr., Egelseestr. 92<br/>\n    1471 Unger, Adam, Vertr., Dientzenh. Str. 54<br/>\n    1441 Ungelaub. Friedr., Dachdeck., Altenb. Str. 47\n  </p>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 777 978\" data-label=\"Text\"><p><b>1410 Usselmann, August, Miet, Mietzler. 0</b><br/><b>552 Usselmann, P., Schlächtl., Nürnbg. Str. 8</b><br/><b>1124 G. u. K. Utz, Kol.W., Bleichanger 8</b><br/><b>265 Vedag, Verein. Dachpapp.-Fbr., Geisf.Str. 85</b><br/><b>912 Veit, Franz, Nürnberger Str. 167</b><br/><b>1678 Velt, Hanna, Architekt, Leinritt 2.</b><br/><b>2151 Veit, Karl, Fleischwr., Hindenburgpl. 1</b><br/><b>1091 Veltliner Halle, Weinstube, Jesuitenstr. 3</b><br/><b>690 Ver. Bäcker- u. Fleischer-Innungs-Kranken-</b><br/><b>kasse, Schillerpl. 4</b><br/><b>1786 Verkehrsamt, Städt. Hauptwachstr. 16</b><br/><b>1786 Verkehrs- u. Verschön.-Verein, Hauptw. Str.</b><br/><b>498 Versicherungsamt, Sophienstr. 3</b><br/><b>960 Vertrauensärztl. Dienststelle d. Landesver-</b><br/><b>sich. Anstalt, Kasernstr. 1</b><br/><b>694 Vetter, J. G., Nahrungsmittel, Annastr. 3</b><br/><b>823 Victoria-Versicherung, AdolfHitlerStr. 19</b><br/><b>2041 Viehmeyer, P., Vertr., Kunig.-Damm 35</b><br/><b>1987 Viehverwertung, Süddeutsche, GmbH &amp; Co,</b><br/><b>KG, Lichtenhaldestr. 1</b><br/><b>2194 Viehwirtsch. Verband, Lichtenhaldestr. 1</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

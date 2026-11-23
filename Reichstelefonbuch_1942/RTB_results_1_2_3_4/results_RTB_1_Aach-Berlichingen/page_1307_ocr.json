@@ -1,0 +1,756 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks and a horizontal line of black noise at the bottom.\"/>This image is a scan of a blank white page. It contains several small, isolated black pixels or specks scattered across the surface. A prominent, thick horizontal line of black noise or scanning artifacts runs along the bottom edge of the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"266 145 959 885\" data-label=\"Text\"><p>61751<br/>61752<br/>61753</p><p><b>M. Hiessinger</b> Gegr.<br/>1850</p><p>Qualitäts-Hiessinger-Werkzeuge<br/>für Schreiner, Schlosser, Zimmerer,<br/>Mechaniker u. s. w., Am Plärren</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"267 10 998 333\" data-label=\"Text\"><p>53682 J. W. Ismayer &amp; Co. G. m. b. H., Werkzeugbau u. Gravierwerkst., Nbg.-O., Fabrikstr. 3</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"256 145 344 343\"}, {\"label\": \"Section-Header\", \"bbox\": \"390 46 908 404\"}, {\"label\": \"Text\", \"bbox\": \"256 496 966 949\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"278 0 998 714\" data-label=\"List-Group\"><p>4418 } <b>W. SCHMIDT</b><br/>4419 } Maschinen, Werkzeuge und Metalle für<br/>Bijouteriefabriks, Leopoldstraße 5<br/>3837 Steinwand &amp; Gall, Eisenwaren, Werkzeug-<br/>handlung, Baumstraße 8</p></div><div data-bbox=\"215 761 748 968\" data-label=\"Text\"><p><b>Pilsen (Protectorat).</b></p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"408 67 797 263\"}, {\"label\": \"Text\", \"bbox\": \"447 311 760 546\"}, {\"label\": \"Text\", \"bbox\": \"557 563 648 661\"}, {\"label\": \"Text\", \"bbox\": \"479 671 723 782\"}, {\"label\": \"Text\", \"bbox\": \"456 813 745 921\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"279 11 355 53\" data-label=\"Text\"><p>1746</p></div><div data-bbox=\"555 11 810 56\" data-label=\"Text\"><p><b>J. Kamarád</b></p></div><div data-bbox=\"371 58 992 150\" data-label=\"Text\"><p>Techn. Handels- u. Vertretungs-Kanzlei,<br/>Pilsen, Kopeckypark 9</p></div><div data-bbox=\"298 173 355 214\" data-label=\"Text\"><p>640</p></div><div data-bbox=\"427 147 950 226\" data-label=\"Text\"><p><b>Macho &amp; Turek</b></p></div><div data-bbox=\"536 241 822 287\" data-label=\"Text\"><p><b>Eisengroßhandlung</b></p></div><div data-bbox=\"632 287 728 326\" data-label=\"Text\"><p><b>Pilsen</b></p></div><div data-bbox=\"556 331 805 373\" data-label=\"Text\"><p><b>T Macho Turek</b></p></div><div data-bbox=\"215 389 739 450\" data-label=\"Text\"><p><b>Plettenberg (Westf.).</b></p></div><div data-bbox=\"295 450 993 543\" data-label=\"Text\"><p>517 Hartmann, Rudolf, Werkzeuge und Maschinen,<br/>Plettenberg (Westf.)</p></div><div data-bbox=\"293 540 994 634\" data-label=\"Text\"><p>500 Plettenberger Gußstahlfabrik Adolphs &amp;<br/>Werner, Werkzeuge aus Edelmetall</p></div><div data-bbox=\"215 646 389 700\" data-label=\"Text\"><p><b>Posen.</b></p></div><div data-bbox=\"276 708 351 750\" data-label=\"Text\"><p>2271</p></div><div data-bbox=\"529 706 829 750\" data-label=\"Text\"><p><b>M. Palkowski</b></p></div><div data-bbox=\"360 752 993 890\" data-label=\"Text\"><p>in kommissarischer Verwaltung, Werkzeuge und Maschinen, Komm. Verw.<br/>Walfried Eichhorn, Martinstraße 18</p></div><div data-bbox=\"274 888 350 929\" data-label=\"Text\"><p>2885</p></div><div data-bbox=\"408 888 959 934\" data-label=\"Text\"><p><b>Werkzeug- und Kugellager-Vertrieb</b></p></div><div data-bbox=\"494 934 860 980\" data-label=\"Text\"><p>Posen, Martinstraße 13",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Ernst Krause &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "SIGMUND PUMPEN",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Radevormwald (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ravensburg (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content in the 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or a page with no content in the 1942 German telephone directory. There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 14 998 978\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>421 43</td>\n<td><b>Dominicus, Hugo</b>, Sägen- und Werkzeugfabrikation, Remscheid-Hasten, Oberhölderfelder Str. 49</td>\n</tr>\n<tr>\n<td><b>Sammel-Nr.</b></td>\n<td><b>Gebr. Dowidat</b></td>\n</tr>\n<tr>\n<td>472 26</td>\n<td>Gedore-Werkzeugfabrik, Spezialherstellung von Motorwerkzeugen, Gesenkschmiedestücken u. Karosserieteilen, Remscheid-Lüttringhausen, Remscheider Straße 159</td>\n</tr>\n<tr>\n<td>464 96</td>\n<td><b>Ferne, Ed. Gottfr.</b>, Werkzeugfabrik, gegr. 1853, Rosenhügelerstr. 29—31</td>\n</tr>\n<tr>\n<td>445 76</td>\n<td><b>Finkeldei, Eduard</b>, Werkzeugfabrikation, Remscheid-Vieringhausen Nr. 96</td>\n</tr>\n<tr>\n<td>438 44</td>\n<td><b>Gonnermann &amp; Co.</b>, Export, Remscheid Bankstr. 2</td>\n</tr>\n<tr>\n<td>447 09</td>\n<td><b>Greb &amp; Co.</b>, Feilen- u. Werkzeugfabrik, Hammerwerk, Lennep Str. 35 e</td>\n</tr>\n<tr>\n<td>462 32</td>\n<td><b>Halbach, Albert F.</b>, Werkzeugherstellung, -Haddenbach, Remscheider Straße 253</td>\n</tr>\n<tr>\n<td>448 90</td>\n<td rowspan=\"2\"><b>Hollmann, Aug. Hermann</b>, Sägen- u. Werkzeugfabr., Remscheid-Vieringhausen</td>\n</tr>\n<tr>\n<td>448 93</td>\n</tr>\n<tr>\n<td>465 19</td>\n<td><b>Wilhelm Hückinghaus KG.</b>, Werkzeugfa-</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 9 998 969\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td>aller Art, -Vieringhausen, Lange Str. 38</td>\n</tr>\n<tr>\n<td>440 11</td>\n<td>A. Mannesmann K.-G., Maschinen- und Werkzeugfabrik, Bliedinghauser Str. 27</td>\n<td></td>\n</tr>\n<tr>\n<td>427 44</td>\n<td rowspan=\"2\">{ Mühlhoff, Peter Friedr., Präzisions-Werk-</td>\n<td></td>\n</tr>\n<tr>\n<td>427 45</td>\n<td>zeugfabrik, Kath 1</td>\n</tr>\n<tr>\n<td>518 03</td>\n<td rowspan=\"2\">{ „Rhewum“, Rhein. Werkzeug- u. Metall-</td>\n<td></td>\n</tr>\n<tr>\n<td>bis 518 06</td>\n<td>warenfabrik GmbH, -Lüttringhausen</td>\n</tr>\n<tr>\n<td>463 60</td>\n<td>Rüggeberg, C. Ed., Werkzeuge Marke Luftballon, Fritz-Rocholl-Str. 6 – 8</td>\n<td></td>\n</tr>\n<tr>\n<td>441 41</td>\n<td>Schumacher &amp; Kissling, Werkzeugfabrik, Remscheid-Haddenbach</td>\n<td></td>\n</tr>\n<tr>\n<td>SmI.-Nr.</td>\n<td rowspan=\"2\">{ Strasmann, Albert, Präzisions-Werkzeug-</td>\n<td></td>\n</tr>\n<tr>\n<td>472 21</td>\n<td>und Maschinenfabrik, Ehringhausen 81</td>\n</tr>\n<tr>\n<td>446 42</td>\n<td>Stursberg &amp; Co., Werkzeugfabrik, Sieper Str. 35. P Köln 81797</td>\n<td></td>\n</tr>\n<tr>\n<td>Sammel-Nr.</td>\n<td rowspan=\"2\">{ Vereinigte Beckersche Werkzeugfabriken, Spezialanfertigung von Werkzeugen für Automobilbau u. -Instandsetzung, Hufbe-</td>\n<td></td>\n</tr>\n<tr>\n<td>428 41</td>\n<td>schlag u. Wagenbau, Schlosser, Schmiede usw., -Vieringhausen, Lange Str. 44</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Röwersdorf (Ostsudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Rostock (Seestadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Saalfeld (Saale).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Schmallkalden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Steinbach-Hallenberg (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, markings, or illustrations visible.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"754 753 995 925\" data-label=\"Text\"><p><b>6732. 1</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "| Straßburg (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 48 780 230\" data-label=\"Text\"><p><b>A. Frey K. G.</b></p></div><div data-bbox=\"299 235 722 331\" data-label=\"Text\"><p><b>vorm. Ernst Straub</b></p></div><div data-bbox=\"141 397 876 533\" data-label=\"Text\"><p><b>Straßburg (Els.), Marktgasse 9</b></p></div><div data-bbox=\"60 569 953 666\" data-label=\"Text\"><p><b>Fernsprecher 258 43 || Postcheckkonto 8899</b></p></div><div data-bbox=\"188 718 812 905\" data-label=\"Text\"><p><b>Maschinen und Werkzeuge<br/>für Holz- und Metallbearbeitung</b></p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "FRITZ KAPP",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"93 150 902 339\" data-label=\"Text\"><p><b>Walter Schaer</b></p></div><div data-bbox=\"147 434 864 597\" data-label=\"Text\"><p><b>Werkzeuge u. Schrauben</b></p></div><div data-bbox=\"102 650 899 746\" data-label=\"Text\"><p><b>Straßburg (Els.), Langestraße 120</b></p></div><div data-bbox=\"309 791 704 884\" data-label=\"Text\"><p><b>Fernsprecher 250 84</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"28 45 171 161\" data-label=\"Text\"><p>8 11 06</p></div><div data-bbox=\"186 45 964 180\" data-label=\"Text\"><p><b>Karl Bruckner &amp; Co.</b></p></div><div data-bbox=\"184 233 966 346\" data-label=\"Text\"><p><b>Werkzeug- und Maschinenfabrik</b></p></div><div data-bbox=\"180 400 964 533\" data-label=\"Text\"><p><b>Feuerbach-Stuttgart 12</b></p></div><div data-bbox=\"441 550 692 625\" data-label=\"Text\"><p>Haffnerstr. 7</p></div><div data-bbox=\"263 687 885 932\" data-label=\"Text\"><p>Kugel und Rollenlagerspitzen<br/>feste Körnerspitzen Din 806/807<br/>Hartmetallspitzen</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Suhl (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Teplitz-Schönau (Sudetenland)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Tetschen (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Tilsit.",
+        "entries": []
+      },
+      {
+        "region_name": "Tübingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tuttlingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Völklingen (Saar).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Gustav Christianus",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 18 986 692\" data-label=\"List-Group\"><p>U1 13 13 <b>Dengjel, Oskar</b>, Eisenwaren, Wien XI/79,<br/>Simmeringer Hauptstr. 96</p><p>B2 62 06 <b>Dick</b>, Werkzeug- und Feilenfabrik, Eß-<br/>lingen (Neckar), General-Vertretung für<br/>die Ostmark, Anton Bauer, Wien I/1,<br/>Babenberger Str. 9</p><p>U4 70 66 <b>Otto Dohmen &amp; Co.</b>, Werkzeuge, Werk-<br/>zeugmaschinen, IV/50, Argentinier Str. 42</p><p>R1 20 53 <b>Fuchs, Franz</b>, Eisenwarenhdg., Haus- u.<br/>Küchengerate, Werkz., X/75, Keplerpl. 14</p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 13 765 214\" data-label=\"Text\"><p>R3 40 61 <b>Gubik, Rudolf</b>, Zentral-Großhandelsstelle<br/>v. Hand- u. Maschinen-Sägen nach eigenen<br/>Patenten, Wien XII/87, Kaulbachstr. 3</p></div><div data-bbox=\"11 204 653 274\" data-label=\"Text\"><p>U1 45 50 <b>Hahn &amp; Kolb</b>, I/1, Aspernplatz 1</p></div><div data-bbox=\"11 270 732 649\" data-label=\"Text\"><p>A2 32 33 <b>OSKAR HAUSENBICHL</b> Dipl.-<br/>Kaufmann<br/>Werksvertretungen und Großhandel<br/>in Werkzeugen und Eisenwaren,<br/>Hammerwerke Seebach<br/>Wien VIII/65, Hamerlingplatz 2</p></div><div data-bbox=\"11 645 678 774\" data-label=\"Text\"><p>A2 32 33 Derselbe, Wohnung:<br/>Wien VIII/65, Albertgasse 30</p></div><div data-bbox=\"11 770 760 966\" data-label=\"Text\"><p>R4 25 70 <b>Ernst Krause &amp; CO.</b> Präz.-Werkzeug-<br/>maschinen und<br/>Werkzeuge, Wien XX/20, Engerthstr. 151</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 61 482 957\" data-label=\"Text\"><p><b><i>Humana</i></b></p></div><div data-bbox=\"524 464 692 927\" data-label=\"Text\"><p><b>Aktion-<br/>gesellschaft</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"91 207 671 937\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 119 762 212\" data-label=\"Text\"><p><b>B2 23 16 Lackner, Adolf, Werkzeugschlosserei für<br/>Kupferschmiede, VI/56, Mollardgasse 85 a</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Emerich Lackner",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 762 253\" data-label=\"Text\"><p>B3 02 31 { <b>Niedermaier &amp; Kukula</b>, Werkzeuge und<br/>B3 42 93 { Werkzeugmaschinen, Wien VII/62, Schot-<br/>tenfeldgasse 7. T Acurate</p></div><div data-bbox=\"0 244 739 493\" data-label=\"Text\"><p>B3 25 65 <b>J. G. Petzoll &amp; Sohn</b> Werkzeug-<br/>handlung,<br/>Metallwaren, VII/62, Burggasse 54</p></div><div data-bbox=\"0 486 759 970\" data-label=\"Text\"><p>U1 01 56 <b>Hugo Praschinger</b> Eisen<br/>Eisenwaren<br/>Wien XI/81, Kaiser-Ebersdorfer Str. 271<br/>A3 50 55 <b>Rohn, Robert</b>, Präzisionswerkzeugmaschi-<br/>nen, Werkzeuge, Betriebserfordernisse,<br/>Wien VI/56, Brückengasse 4</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"73 20 692 960\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Franz X. Scheuringer",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Schoeller-Bleckmann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 757 109\" data-label=\"Text\"><p>A3 71 97 Schönbauer, Karl, Werkzeug-Großhand-<br/>lung, VI/56, Mittelgasse 4</p></div><div data-bbox=\"0 99 757 289\" data-label=\"Text\"><p>B3 65 14 { <b>Hans Schulze</b> Großhandel<br/>B3 54 49 { maschinen und Werkzeugen für Metall-<br/>bearbeitung, VII/62, Neubaug. 31</p></div><div data-bbox=\"0 279 757 467\" data-label=\"Text\"><p>A6 01 89 <b>Engelbert Seethaler</b><br/>Eisen- und Werkzeughandlung,<br/>Wien XXI/141, Schloßhofer Straße 14</p></div><div data-bbox=\"0 459 708 600\" data-label=\"Text\"><p>U2 94 53 Derselbe: Großvertrieb von<br/>Haus- und Küchenbedarfsgartikeln,<br/>Wien I/1, Salzgries 17</p></div><div data-bbox=\"0 596 753 734\" data-label=\"Text\"><p>U4 90 79 Wiedner Kaufhaus für Haus- und Wirt-<br/>schaftsgeräte, Eduard Floch, IV/50, Fa-<br/>voritenstraße 25</p></div><div data-bbox=\"0 732 729 884\" data-label=\"Text\"><p>B2 40 21 <b>Wilms &amp; Oermak</b><br/>Werkzeug-Großhandlung<br/>Wien VI/56, Gumpendorfer Str. 124</p></div><div data-bbox=\"0 895 732 962\" data-label=\"Text\"><p><b>Wieselburg (Erlauf) [Niederdonau].</b></p></div><div data-bbox=\"93 961 753 992\" data-label=\"Text\"><p>99 <b>Wieselburg</b> Wilhelm <b>Wieselburg</b></p></div>",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Wollstein (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 0 754 582\" data-label=\"List-Group\"><p>411. } <b>Wuppertal, Wuppertal, Wuppertal, Wuppertal</b><br/>53561 } <b>Wuppertal-Oberbarmen, Ludendorffstr. 184</b><br/>62360 <b>Bode, Wilh., Präzisions-Werkzeugmaschinen und Werkzeuge, Wuppertal-Barmen, Heckinghauser Str. 43a</b><br/>72096 <b>Bremer, Hermann, Werkzeugfabrik, Wuppertal-Ronsdorf, Mühle 48</b></p></div>",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  }
+]

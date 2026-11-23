@@ -1,0 +1,618 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 761 505 950\" data-label=\"Text\"><p><b>144 (Band I)</b></p></div><div data-bbox=\"681 753 998 915\" data-label=\"Text\"><p><b>Bad Frankel</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 9 997 993\" data-label=\"List-Group\"><p>283 Höschel, Carl, Konditorei, Altst. Markt 12<br/>1 Hötzel, Martin, Kol.-W., Ratstr. 3.<br/>185 Hoffmann, E., Prokurist, Str. d. SA. 19<br/>194 Hoffmann, Gustav, Kol.-W., Nappe 3.<br/>285 Holzapfel, Willy, Fleischer., H.-Wessel-Str. 25<br/>107 Horlamus, Hch., Autofuhrw., W. Kalktal 1<br/>224 Hotel Burghof Kyffhäuser, Am Denkmal<br/>146 Hotel u. Restaur. Deutsches Haus, Markt 3<br/>177 Hotel Stolberg, Bahnhofstr. 15.<br/>17 Hotel Thür. Hof, Ad. HitlerPl. 15.<br/>7 Hotel zum Mohren, Ad. HitlerPl. 8.<br/>96 Huke, Karl, Ofensetzerei, Bornstr. 33<br/>213 Immerthal, Viktor, Dachdeckerm., Bornstr. 61<br/>58 Ingenieurschule Bad Frankenhausen (Kyffh.),<br/>Reichsanerkante Fachschule für Maschinen-<br/>bau, Elektrotechnik, Flugzeugbau (Flugbetrieb),<br/>Lehrgänge für Blitzableiterprüfer und -Setzer<br/>142 Jaritz, Herm., Viehhdlg., Esperstedt.<br/>208 Käfer, Karl, Vertreter, Bachweg 8<br/>77 Kaffee Bortuch, Bäckerei, Erfurter Str. 20<br/>100 Zinsen Dritte Waisch Markt 5</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"221 0 995 991\" data-label=\"List-Group\"><p>203 Kaiser, Will. Elektr. Anl., Erf. Str. 17.<br/>76 Kaufmann, Oskar, Viehhdlg., Ad.HitlerPl. 6<br/>115 Hugo Kern'd'l u. Co., Hausgeräte. Kräme 23<br/>92 Kinderheilanstalt, An der Wipper 13<br/>244 Kinderheim, Thomas-Münzer-Str. 10<br/>171 Kinder-Kurheim, Wipper 15<br/>117 Kirchberg, Adheld, Bauer, Rottleben<br/>103 Kirchner, Otto, Zigarren, Markt 10.<br/>56 Knorr, Hugo, Install., Ratstr. 6<br/>197 Koch, Herm., Obering., Weideng. 4<br/>249 Koch, Walt., Gaststätte, Bachweg 12<br/>250 Kohlenverteilungsstelle, Bahnhofstr. 6<br/>211 Korall, Alb., Install., Schloßstr. 1.<br/>270 Korall, Ernst, Automobile, Bornstr. 42<br/>60 v. Krause, W. Legat. Rat, Schloß Bendeleben<br/>48 v. Krausesche Verwaltung, Bendeleben.<br/>175 Kraube, W., Baugesch., Rottleben, Bachf.<br/>Straße 191<br/>6 Krebs Söhne, Emil, Buchdruck., H.-Wessel-<br/>Straße 5<br/>206 Krebs, Max, Kfm., H.-Wessel-Str. 8</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 0 992 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>ORT</th>\n<th>BEZEICHNUNG, ANWISUNG</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>102</td>\n<td>Kröner, Otto, Polstermöbel, Kräme 30</td>\n</tr>\n<tr>\n<td>280</td>\n<td>Kurbad-Drogerie, Ad.HitlerPl. 10</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Kurhaus Waldschlößchen, W. Hölterhoff</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Kyffhäuser-Denkmal u. -Hotel. Burghof</td>\n</tr>\n<tr>\n<td>88</td>\n<td>Kyffhäuserheim, Kaufmanns-Erholungsheim,<br/>Wimpermannstr. 13</td>\n</tr>\n<tr>\n<td>63</td>\n<td>Kyffhäuser Laboratorium, Herstellung chemisch-pharmazeutischer Präparate, Hermann Quincke. T Quincke P Erfurt 32222</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Ladewig, Karl. Radiohaus, H.-Wesselstr. 26</td>\n</tr>\n<tr>\n<td>149</td>\n<td>Landelektrizität GmbH, Am Bahnhof</td>\n</tr>\n<tr>\n<td>78</td>\n<td>Landgraf, A., Versteigerer, Schloßstr. 24</td>\n</tr>\n<tr>\n<td>50</td>\n<td>Landgraf, Erich, Rechtsanw. [N], Kräme 34</td>\n</tr>\n<tr>\n<td>10</td>\n<td>J. Landgraf &amp; Sohn, Mühlenbau, Bachweg 51/53</td>\n</tr>\n<tr>\n<td>97</td>\n<td>Landgraf, Kurt, Dr. Ing., Schloßpl. 1</td>\n</tr>\n<tr>\n<td>217</td>\n<td>Landgraf, Willh., Weine, Küsterstr. 20</td>\n</tr>\n<tr>\n<td>69</td>\n<td>Landgraf &amp; Engelmann, Knopffbr., Poststr. 7</td>\n</tr>\n<tr>\n<td>241</td>\n<td>Lange, Willi, Steuerhelfer, Am Bahnhof 10</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Laue, Dr. Walter, Arzt, Konr.-Küsterstr. 5</td>\n</tr>\n<tr>\n<td>91</td>\n<td>Lendolph, Hugo, Wäscherel, H.-Wessel-Str. 29</td>\n</tr>\n<tr>\n<td>607</td>\n<td>Lichtentanne, Mikatunnel Tindanus</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"217 0 992 993\" data-label=\"List-Group\"><p>70 Liebau, Emil, Dachdeckerkernstr., Wasserg. 10<br/>127 Locker, Richard, Gasthof, Rathefeld.<br/>290 Loewe, Wilh. Major, An d. Wipper 11<br/>65 Lübke, Paul, Veterinärerrat, Schloßpl. 7<br/>4 Lüttich, Bernh., Bauer, Esperstedt.<br/>41 Lüttich, Friedr., Bauer, Udersleben<br/>49 Mackeldev, Martin, z. Z. Am Wallgraben 42<br/>204 Mähler, Alfr., Manufakt.Wr., Erfurter Str. 8<br/>84 Majewski, Edm., Fleischerei, Ad.Hitlerpl. 24<br/>124 Marktapotheke, Ratstr. 2.<br/>229 Mehler jr., Karl, Bierverlag, Erfurterstr. 13<br/>120 Meyer, Hugo, Leder, Erfurterstr. 22<br/>59 Mitteld. Engelh. Brauerei AG, Horst-Wessel-<br/>Straße 12<br/>141 Mohr, Dr. Hch., Arzt, H.-Wesselstr. 15.<br/>98 Molkerei Esperstedt, Werner Niemann &amp; Sohn<br/>67 Müller, Herm., Friedh.-Gärtnerei, Frauenstr.<br/>27 Musche, Alfred, Getreide, Unterkirchpl. 4.<br/>216 Nierhoff, Hermann, Omnibusverk., Mühlgl. 6<br/>154 NSDAP., DAF., Ortsverwaltung, Bahnhofstr. 6<br/>47 NS.-Reichskriegerbund Ratsfeld</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"216 0 986 946\" data-label=\"Text\"><p><b>201 VUTZPLAATZ, VUTZBACH.</b><br/>118 Ortskrankenkasse, Horst-Wessel-Str. 10<br/>172 Pauli, Leberecht, Reklame, Bleiche 3<br/>246 Penner, Gustav, Sämereien, Sternbergstr. 13</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"204 0 986 995\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>286 Pfarrant II, Jungfernstieg 7</li>\n<li>145 Pfarrant, Ev.-luth., Esperstedt, Pfarrstr. 60</li>\n<li>219 Pfarrant, Kath., Schloßstr. 27</li>\n<li>239 Pforte, Otto, Lebensm., Ad.-Hitler-Pl. 28</li>\n<li>105 Pfothenhauer, S., Kfm., Göllingen, Str. d. SA. 95</li>\n<li>201 Picht, Karl, Gartenbau, Schloßgarten</li>\n<li>66 Poppe, Werner, Fahrräder, Marktstr. 4</li>\n<li>236 Preusse, Heinr., Mühle Bendeleben</li>\n<li>205 Preuß, Otto, Musikdir., K.KüsterStr. 14</li>\n<li>63 Quicke, Herm., Laborat., Str. d. SA. 1</li>\n<li>128 Räuber, Rich., Fuhrwesen, Bornstr. 40</li>\n<li>162 Raiffeisenlager, Getreide, Erfurterstr. 9.</li>\n<li>180 Raiffeisen-Maschinenlager und Reparaturanstalt, Bahnhofstraße 38</li>\n<li>235 Ranke, Kurt, Kfm., Lange Str. 23</li>\n<li>129 Reichenbach, Hans, Bildhauer, Poststr. 19.</li>\n<li>266 Reichental, Gastwirtschaft, Str. d. SA. 12</li>\n<li>23 Reichsbahn-Güterabfertigung, Esperstedt.</li>\n<li>22 Reichsbahn-Güterabfertig., Frankenhausen.</li>\n<li>34 Reichsbahn-Güterabfert., Göllingen.</li>\n<li>28 Reichsbahn-Güterabfert., Rottleben.</li>\n<li>81 Reichsnost Postamt Amtsvorsteher</li>\n</ul>\n</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"197 0 964 618\" data-label=\"List-Group\"><p><b>02</b> <b>Heinecke Sonne, U. Eisenbau, Kräme 5.</b><br/><b>243</b> <b>Richter, Friedrich, Gastw., Poststr. 10</b><br/><b>114</b> <b>Rödiger, A., Holzhdlg., Rottleben, Bhistr. 53</b><br/><b>191</b> <b>Rönnau, Fritz, Molkerer, Poststr. 21</b><br/><b>(5)</b> <b>v. Rüxleben, Walter, Frhr., Rottleben.</b><br/><b>215</b> <b>Rumpf, P., Bäckerei, Frauenstr. 5</b><br/><b>161</b> <b>Ruppert, Otto, Ing., Poststr. 26</b><br/><b>100</b> <b>Sachs, Otto, Bücherrevisor, Kräme 1</b><br/><b>157</b> <b>Salern, Karl, Feinkost, Marktstr. 1</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 761 997 921\" data-label=\"Text\"><p><b>hausen: Höschel — Bad Freienv</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 11 997 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>151</td>\n<td>Samtleben, W., Gärtnerei, Fürst-Güntherstr. 2</td>\n</tr>\n<tr>\n<td>42</td>\n<td>Sauer, Dr. Julian, Arzt, Markt 7</td>\n</tr>\n<tr>\n<td>329</td>\n<td>Schafhirt, Steinthaleben</td>\n</tr>\n<tr>\n<td>126</td>\n<td>Scheutzel, Carl, Fleischer, F.-Günther-Str. 6</td>\n</tr>\n<tr>\n<td>198</td>\n<td>Schlegel, A., Sägewerk, Seehausen, Nordstr.</td>\n</tr>\n<tr>\n<td>113</td>\n<td>Schlotter, Viktor, Tischler, Kräme 34</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Schlüters Reformhaus, H.-Wessel-Str. 14</td>\n</tr>\n<tr>\n<td>226</td>\n<td>Schmelzer, Rich., Konditorei, H.-Wessel-Str. 3</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Schmidt, Ernst A., Zahnarzt, Str. d. SA. 17</td>\n</tr>\n<tr>\n<td>179</td>\n<td>Schmidt, Karl, Bierhdlg., Zinkestr. 9</td>\n</tr>\n<tr>\n<td>207</td>\n<td>Schmidt, Rob., Zigarren, Kräme 12.</td>\n</tr>\n<tr>\n<td>165</td>\n<td>Schneider u. Willing, Knopffbr., Poststr. 15.</td>\n</tr>\n<tr>\n<td>227</td>\n<td>Schoenberg &amp; Schoenberg, Knopffabrik,<br/>Schloßstr. 13. P Erfurt 23789</td>\n</tr>\n<tr>\n<td>220</td>\n<td>Schreyer, Wilhelm, Bäckerei, Wasserg. 13</td>\n</tr>\n<tr>\n<td>202</td>\n<td>Schröder, Paul, Malermstr., Bornstr. 77</td>\n</tr>\n<tr>\n<td>130</td>\n<td>Schütze, Alfred, Vertreter, Ad. Hitlerpl. 5</td>\n</tr>\n<tr>\n<td>62</td>\n<td>Schumann, Herm., Kol.-W., Bachweg 4.</td>\n</tr>\n<tr>\n<td>119</td>\n<td>Schwalbe, Rich., Rohprod., Riedgasse 1.</td>\n</tr>\n<tr>\n<td>74</td>\n<td>Schweser, Alb., Dachdecker, H.-Wessel-Str. 13</td>\n</tr>\n<tr>\n<td>182</td>\n<td>Siedentopf, Paul, Bäckerei, Breite Str. 6</td>\n</tr>\n<tr>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 992 990\" data-label=\"Text\"><p>(87) Spar- u. Darlehnskasse, Günserode, Nr. 76<br/>253 Spens, Otto, Hochbaugesch., Seega 151<br/><b>122 Sperling, W., Eisenhdlg., Schloßstr. 24.</b><br/>14. 68 Staatsbank, Thür., Ad.HitlerPl. 30<br/>287 Stadtpark-Restaur., Nordhäuser Str. 9<br/>3 Stadt-Sparkasse, Markt 1<br/>40 Stadtwerke, Lange Str. 1<br/>31 Starkloff, Otto, Fleischwr., Jahnstr. 2.<br/>163 Steinacker, Otto, Marktmühle, Mühleng. 10<br/>298 Steinhäuser, O., Schlosserei, Jungfernstieg 30<br/><b>106 Steinkopf, Aug., Pappentabrik, Seega.</b><br/>26 Steinkopf, Karl, Seega Schachtgebäude<br/><b>190 Steinthaleber Spar- &amp; Darlehnskassen-Verein</b><br/>eGmbH, Steinthaleben<br/>86 Strauss, Osk., Minna-Hankel-Str. 11<br/>252 Streitberger, Marie, Nordhäuserstr. 1<br/><b>102 Stremel, Wilhelm, Wippermühle, Rottleben.</b><br/>259 Teichmühle, Geflügelhof Georg, Gremels<br/>94 Tegelmeyer, Arthur, Laborat., Str. d. SA.<br/>73 Trokas-Knopfabrik GmbH, Schmücklestr. 4<br/>184 Unbchaun, Herm., Lehrer, Bachweg 20</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 976\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>ORT</th>\n<th>VERGLEICH. NÄHE, ANGEWANDTE ZEIT, BEZIEHUNG ZU</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>136</td>\n<td>Vereinshaus, Schwesternstation, Erf. Str. 42</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Volksbank eGmbH, Unterkirchpl. 4</td>\n</tr>\n<tr>\n<td>279</td>\n<td>Wallrodt, Alb., Baugesch., Hornungstr. 1</td>\n</tr>\n<tr>\n<td>264</td>\n<td>Wallrodt, Jul., Knopffbr., Rosengasse 6</td>\n</tr>\n<tr>\n<td>93</td>\n<td>Weißer, Hugo, Bücherrev., Weinberg 7</td>\n</tr>\n<tr>\n<td>134</td>\n<td>Wenk, Kurt, Klempnerei, Ratstr. 16</td>\n</tr>\n<tr>\n<td>260</td>\n<td>Wenke, Herm., Knopffbr., F. Güntherstr. 15</td>\n</tr>\n<tr>\n<td>160</td>\n<td>Werneburg, O., Buchhdlg., Kräme 15</td>\n</tr>\n<tr>\n<td>218</td>\n<td>Wiederhold, Paul, Kondit., Ad. Hitlerpl. 20.</td>\n</tr>\n<tr>\n<td>222</td>\n<td>Wiedling, Karl, Göllingen, Str. d. SA. 103</td>\n</tr>\n<tr>\n<td>116</td>\n<td>Wieter, Friedr., Theaterbes., Str. d. SA. 21</td>\n</tr>\n<tr>\n<td>228</td>\n<td>Wilhelmstift, Stiftstraße 5</td>\n</tr>\n<tr>\n<td>24</td>\n<td>Wolthaus, Dr. W., Arzt, Wippermannstr. 3</td>\n</tr>\n<tr>\n<td>57</td>\n<td>Ziegenhorn, Marie, Großhdlg., Langestr. 31</td>\n</tr>\n<tr>\n<td>121</td>\n<td>Zierfuß, Aug., Knopffbr., Zierfußstr. 1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Bad Freienwalde (Oder) [Mark Brandenburg]",
+        "entries": [
+          {
+            "extension": "538",
+            "text": "Adam, Fritz, Kolonialwaren, Heerstr. 54"
+          },
+          {
+            "extension": "423",
+            "text": "Aktiengesellsch. f. Energiewirtsch., Bhfstr. 20"
+          },
+          {
+            "extension": "408",
+            "text": "Alauwerk, Tonindustrie AG"
+          },
+          {
+            "extension": "557",
+            "text": "Allgem. Ortskrankenkasse, Gartenstr. 1"
+          },
+          {
+            "extension": "470",
+            "text": "Allianz-Akt. Ges., Versch.-Ver., Gartenstr. 7"
+          },
+          {
+            "extension": "417",
+            "text": "Amtgericht Victor-Blüthgenstr."
+          },
+          {
+            "extension": "222",
+            "text": "Apotheke-Hof, W. Januschek, Str. d. SA. 43"
+          },
+          {
+            "extension": "624",
+            "text": "Derselbe, Wohnung, Brunnenstr. 19"
+          },
+          {
+            "extension": "466",
+            "text": "Apotheke-Kurfürsten, Str. d. SA. 27a"
+          },
+          {
+            "extension": "371",
+            "text": "Arbeitsamt Eberswalde, Nebenst., Grünstr. 17"
+          },
+          {
+            "extension": "279",
+            "text": "Arndt, Willi, Mineralw.-Fbr., Marktstr. 7"
+          },
+          {
+            "extension": "564",
+            "text": "Assmus, Gustav, Superint., Feldstr. 4"
+          },
+          {
+            "extension": "457",
+            "text": "Baeskow, Erich, Baugeach., Wilhelmstr. 14a"
+          },
+          {
+            "extension": "609",
+            "text": "Bahnhofshotel, K. Bockheiser"
+          },
+          {
+            "extension": "447",
+            "text": "Barmer Ersatzkasse, Gesundbrunn. Str. 36"
+          },
+          {
+            "extension": "577",
+            "text": "Battre, E., Buchhdlg., Uchtenhagenstr. 1"
+          },
+          {
+            "extension": "236",
+            "text": "Baumgärtner, G., Elektromstr., Hindb. Str. 85"
+          },
+          {
+            "extension": "536",
+            "text": "Becker, Gerh., Amtsger.-Rat, Wilhelmstr. 29"
+          },
+          {
+            "extension": "431",
+            "text": "Bedur, Max, Kfm., Uchtenhagenstr. 23. 044"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 993\" data-label=\"Text\"><table><tbody><tr><td>440</td><td>Behre, Heinrich, Direktor, Marktstr. 7</td></tr><tr><td>240</td><td>Berliner Schlösschen, Restaur., A.HitlerStr. 16</td></tr><tr><td>328</td><td>Berthold, Alb., Feinkost, Str. d. SA. 28</td></tr><tr><td>270</td><td>Beug, Max, Musikdir., Fischerstr. 30</td></tr><tr><td>340</td><td>Beyer, Hans, Rundfunk, Str. d. SA. 10</td></tr><tr><td>581</td><td>Bibelhaus Malche.</td></tr><tr><td>369</td><td>Blesike, Max, Malermstr., Marktstr. 6</td></tr><tr><td>450</td><td>v. Boddien, Frau, Dom. Wendts Hof.</td></tr><tr><td>349</td><td>Böder, Dr., Zahnarzt, Gesundbrunnenstr. 48</td></tr><tr><td>363</td><td>Bönisch, Alfred, Gartenbau, Bahnhofstr. 22</td></tr><tr><td>316</td><td>Bönisch, Hans, Gartenbau. Bahnhofstr. 21 a</td></tr><tr><td>550</td><td>Bötzow-Brauerei, Niederl., Str. d. SA. 10</td></tr><tr><td>661</td><td>Boller, Major, Brunnenstr. 22c</td></tr><tr><td>584</td><td>Borsdorf, Otto, Zimmermeister</td></tr><tr><td>549</td><td>Gerh. u. Hedw. v. d. Brelie, Dr., Zahnärzte,<br/>Gesundbrunnenstraße 9</td></tr><tr><td>327</td><td>Brendel, Oskar, Direk., Schlageterstr. 12</td></tr><tr><td>256</td><td>Brinck, Erika, Gesundbrunnenstraße 10</td></tr><tr><td>372</td><td>Brockhoff, M., Fleischermstr., Str. d. SA. 35</td></tr><tr><td>540</td><td>Bruchholz, Ernst, Installat., Str. d. SA. 44</td></tr><tr><td>191</td><td>Bruggert, Aug., Werkzeugbr</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 982 980\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>300</td>\n<td>Büchmann, Hans, Opulenz, W. u. SA. 1</td>\n</tr>\n<tr>\n<td>587</td>\n<td>Brümmer, Ebert, Konditor., Str. d. SA. 49</td>\n</tr>\n<tr>\n<td>216</td>\n<td>Brüning, Werner, Kol.-W., Hindenburgstr. 87</td>\n</tr>\n<tr>\n<td>146</td>\n<td>Brunnenversand-Ges. m. b. H., Str. d. SA. 46</td>\n</tr>\n<tr>\n<td>102</td>\n<td>Brust, Friedrich, Bäckerei, Neutornow</td>\n</tr>\n<tr>\n<td>3ml.-<br/>Nr.<br/>501</td>\n<td>\n<b>Bürgermeisterel. Die Zentrale verbindet mit<br/>allen Dienststellen</b>\n</td>\n</tr>\n<tr>\n<td>537</td>\n<td>Bugge, Herm., Töpfermstr., Grünstr. 15</td>\n</tr>\n<tr>\n<td>529</td>\n<td>Burgemeister, Rich., Rechtsbeist., Str. d. SA 19</td>\n</tr>\n<tr>\n<td>118</td>\n<td>Caro, Johanna, Hitlerstr. 39</td>\n</tr>\n<tr>\n<td>147</td>\n<td>Carstens, Wilh., Installat., Marktstr. 5</td>\n</tr>\n<tr>\n<td>128</td>\n<td>v. Claer, C. G., Oberleutn., V.-Blüthgen-Str. 4</td>\n</tr>\n<tr>\n<td>167</td>\n<td>Coethenerheim, Erziehungsanst., Frankf.-Str. 73</td>\n</tr>\n<tr>\n<td>114</td>\n<td>Curio, Gerh., Landmasch., Schlageterstr. 2</td>\n</tr>\n<tr>\n<td>133</td>\n<td>Dampfziegelei Walter Nf., L., Gesdbr. Str. 3</td>\n</tr>\n<tr>\n<td>146</td>\n<td>Debou, H., Holz, Bahnhofstr. 21</td>\n</tr>\n<tr>\n<td>192</td>\n<td>Dehne, E., Kanalmühle, Wasserstr. 9</td>\n</tr>\n<tr>\n<td>111*</td>\n<td>Dehne, Dr. Ernst, R.-A.[N], Gartenstr. 2.</td>\n</tr>\n<tr>\n<td>108</td>\n<td>Dehnert, Kreisfeuerwehrführer, Kanalstr. 34</td>\n</tr>\n<tr>\n<td>106</td>\n<td>Delchhauptm. d. Oderbruches, Wilh. Str. 14</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"154 59 867 174\"}, {\"label\": \"Text\", \"bbox\": \"0 171 729 283\"}, {\"label\": \"Text\", \"bbox\": \"0 279 884 401\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 753 998 947\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 11 998 994\" data-label=\"Text\"><p>465 Drews, Erwin, Restaurant, Schlag. Str. 10<br/>456 Dunkel, August, Frankfurter Str. 29<br/>285 Dworok, Walter, Schlächter, Uchtenh. Str. 11<br/>281 Eckmann, H., Autoanruf<br/>218 Edeka Großhandel eGmbH., Bahnhofstr. 25<br/>649 Ehrenberg, Aug., Johannisstr. 1<br/>590 Ehritt, Heinr., Mühlenbes., Kletzmühle.<br/>284 Emerich, Kurt E., Farben, Uchtenhagenstr. 8<br/>673 Ermler, Maria, Schneiderei, Straße d. SA.<br/>416 Eschenbach, C., Schloss Altranft.<br/>519 Falke, Ernst, Bäckerstr., Hindenburgstr. 42<br/>532 Feuerschütz, W., Malermstr., Blüthgenstr. 1<br/>509 Feuerwehr<br/>202 Feuersozietaät Schloßstr. 2<br/>560 Fiddicke, Arzt, Str. d. SA 23 d<br/>525 Fiedler, Otto, Bürgermeister, Neutornow 26<br/>380 Fischer, Paul, Baumstr., Bahnhofstr. 24<br/>259 Forke, Gerold, Bürgermstr., Altranft. 24<br/>493 Forstamt, Preuß., Melcherstr. 5a<br/>343 Franz, Herm., Kfm., Str. d. SA. 31<br/>358 Freienw. Abfallverwertung, Neue Bergstr. 9<br/>402 Fraunwaldor Kirchanzianoloi GmbH Wamm...</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "404",
+            "text": "Freienwalder Ratsziegelei, Ebersw. Str. 45"
+          },
+          {
+            "extension": "531",
+            "text": "Freienwaldia Maschinen, Bahnhofstr. 19"
+          },
+          {
+            "extension": "266",
+            "text": "Freitag, Wilh., Dachdeckermstr., K.-Weise-Straße"
+          },
+          {
+            "extension": "261",
+            "text": "Freudiger, W., Drogerie"
+          },
+          {
+            "extension": "277",
+            "text": "Friedhofsverw. Kurt Preuß"
+          },
+          {
+            "extension": "400",
+            "text": "Friedrich, Ernst, Gastst., Str. d. SA. 22"
+          },
+          {
+            "extension": "435",
+            "text": "Friedrich, H., Weinhdg., Str. d. SA. 29"
+          },
+          {
+            "extension": "364",
+            "text": "Friedrich, Otto, Stadtmühle, Hind.Str. 1"
+          },
+          {
+            "extension": "482",
+            "text": "Gasthof Hellwig, Inh. Karl Jahn, Altranft."
+          },
+          {
+            "extension": "271",
+            "text": "Gasthaus z. Löwen, K. Riegel, Str. d. SA 5"
+          },
+          {
+            "extension": "496",
+            "text": "Gasth. z. Deutschen Fahne, Hindenb.Str. 16"
+          },
+          {
+            "extension": "220",
+            "text": "Gastwirtsch. Knorr (Witwe), Schiffmühle 2"
+          },
+          {
+            "extension": "423",
+            "text": "Gaswerk, Bhfstr. 20 a"
+          },
+          {
+            "extension": "623",
+            "text": "Gemeindeschwestern-Stat., Hagenstr. 2"
+          },
+          {
+            "extension": "528",
+            "text": "Gehrke, Friedr., Schneidermstr., N. Bergstr. 1"
+          },
+          {
+            "extension": "645",
+            "text": "Gemeinde Sonnenburg, Brgmstr. Müller"
+          },
+          {
+            "extension": "265",
+            "text": "Gendarmerieamt, Hindenburgstr. 94"
+          },
+          {
+            "extension": "312",
+            "text": "Gerhardt, Dr. Rud., Arzt, Gartenstr. 8"
+          },
+          {
+            "extension": "386",
+            "text": "Gerhardt, Robert, Milchhdg., Grünstr. 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>301</td>\n<td>Gesundheitsamt, Uchtenhagenstr. 28</td>\n</tr>\n<tr>\n<td>375</td>\n<td>Gladbach, Karl, Optiker, Marktstr. 18a</td>\n</tr>\n<tr>\n<td>438</td>\n<td>Derselbe, Wohnung, Ad.-Bräutigam-Str. 7</td>\n</tr>\n<tr>\n<td>424</td>\n<td>Goldberg, Carl, Eisenwr., Str. d. SA 11</td>\n</tr>\n<tr>\n<td>295</td>\n<td>Gosau, Johannes, Kino, Bahnhofstr. 5</td>\n</tr>\n<tr>\n<td>510</td>\n<td>Gregorius, Paul, Feinkost, Str. d. SA 26</td>\n</tr>\n<tr>\n<td>476</td>\n<td>Grengel, S., Pfarrer, Uchtenhag. Str. 6</td>\n</tr>\n<tr>\n<td>479</td>\n<td><b>Groß, Hugo, Architekt u. Maurermeister, Baugeschäft, Hindenburgstr. 75. P Berlin 6864</b></td>\n</tr>\n<tr>\n<td>377</td>\n<td>Großgeflügelfarm Bergnerhof Bralitz</td>\n</tr>\n<tr>\n<td>432</td>\n<td>Grüne Tanne, Hotel, Gesundbrunnenstr. 34</td>\n</tr>\n<tr>\n<td>379</td>\n<td>Gruhlke, Karl, Lehrer, Sonnenburg</td>\n</tr>\n<tr>\n<td>251</td>\n<td>Guder, E., Fleischermstr., Str. d. SA 42</td>\n</tr>\n<tr>\n<td>428</td>\n<td>Gutsverwaltung O. Eschenbach, Altranft.</td>\n</tr>\n<tr>\n<td>422</td>\n<td>Gutsverwaltung Herrenwiese</td>\n</tr>\n<tr>\n<td>533</td>\n<td>Guttknecht, Erna, Wäsche, Hindenburgstr. 27</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Gwiosdzik, Alfons, Feinkost, Str. d. SA 23</td>\n</tr>\n<tr>\n<td>480</td>\n<td>Gymnasium, Staatl., Schlageterstr. 4</td>\n</tr>\n<tr>\n<td>289</td>\n<td>Haase, Fritz, Fleischerm., Hindenb.Str. 13</td>\n</tr>\n<tr>\n<td>526</td>\n<td>Haberer, Fritz, Bäcker, Str. d. SA.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Text\"><p>559 Hager, Dr. Arnulf, Ing., Wilhelmstr. 16<br/>321 Hager, Wolff., Baurat, Ebersw. Str. 27<br/>605 Hacker, Wilh., Vulk.Anst., Bahnhofstr. 21<br/>412 Hamann &amp; Borsdorf, Landesprod., Bhfstr. 18<br/>666 Hanne, Georg, Oberbetriebsleiter<br/>(212) Hane, Adolf, Kfm., Heilige Hallen 7<br/>258 Hasse, Otto, Tischlermstr., Weidendamm<br/>521 Hauptgen. Kurmark eGmbH, Marktstr. 14<br/>667 Heeres-Reserve-Lazarett, Ad.-Hitler-Str. 20<br/>487 Heidborn, Herbert, Bauer, Alttornow 24<br/>421 Heidrich, Ad., Ob.Brandmstr., Hagenstr. 6<br/>592 Henke, Karl, Reg.-Insp., Gesundbrunnenstr. 47<br/>324 Henning, Dr., Arzt, Schlageterstr. 17<br/>512 Derselbe, Str. d. SA 7<br/>592 Henke, Kreisinsp., Gesundbrunnenstr. 47<br/>336 Hensel, Erika, Dent., Marktstr. 15<br/>561 Henze, Dr. Ludw., Arzt, Gesundbrunnenstr. 41<br/>657 Herbst, Leo, Kirchenrat, Sonnenb. Str. 1<br/>483 Herder, Walter, Eisen, Str. d. SA 15<br/>676 v. Herzberg, Wilh., Major, Fontanestr. 4<br/>416 Heese Carl Inh R Heese Ruchdruckerei</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 986\" data-label=\"Text\"><p><b>Überdarnimer Kreisblatt, Marktsr. 17</b><br/><b>342 Hesse, Hedwig, Gartenstr. 5</b><br/><b>309 Hietzig, Max, Ing., Maltzanstr. 12</b><br/><b>556 Hintze, Karl, Dr., Maltzahnstr. 10</b><br/><b>449 Hoff, Hebammenschw., Hagenstr. 17</b><br/><b>455 Holtzhüter, O., San.-Kol.-Verw., Schlag.-Str. 11</b><br/><b>366 Hopp, Wilh., Ing., Schiffmühle 25</b><br/><b>245 Hotel Deutsches Haus, Gesundbr. Str. 30</b><br/><b>428 Hotel Jakubeck, Bahnhofstr. 8</b><br/><b>580 Hotel Kurtheater, Gesundbr.-Str. 12.</b><br/><b>345 Hotel-Restaur. Papenmühle, Gesundbr.-Str. 32</b><br/><b>411 Hotel Schertz, C. Thiemann, Str. d. SA 40</b><br/><b>350 Hübner &amp; Co., Kom.-Ges., Bahnhofstr. 24</b><br/><b>608 Industrie- u. Handelskammer, Obm. M. Schultze</b><br/><b>390 Jagdmann, H., Zigarr., Str. d. SA 32</b><br/><b>222 Januscheck, W., Apoth., Str. d. SA 43</b><br/><b>624 Derselbe, Wohnung, Brunnenstr. 19</b><br/><b>420 Jentzsch, Carlh., Geschäftsf., Sonnenb. Str. 2</b><br/><b>425 Jocst, Deichbaurat, Fontanestr. 5</b><br/><b>528 Jonach, Hans, Gärtnerei, Straße d. SA. 36</b><br/><b>101 Jüngel, Georg, Ing., Elisabethstr. 27</b></p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 13 987 982\" data-label=\"Text\"><p>162 <b>Kaisaß, Otto, Landw., Eduardshof.</b><br/>169 Kalle, Ww. Reinh., Lebensmittel, Altranft 37<br/>288 auf dem Kampe, Heinz, Gasth., Altonow 22<br/>371 Kanalmühle<br/>233 Katasteramt, Schlageterstr. 14<br/>120 <b>Kaufhaus Paul Reetz, Bad Freienwalde</b><br/>(Oder), Marktstraße 28—29<br/>137 Katholisches Pfarramt, Wilhelmstr. 12<br/>198 Katschmarek, S., Kantine, Sparrenbusch<br/>148 Kaufhaus Stebner, Marktstr. 23<br/>105 Kaufmann, Heinr., Verailch., Hagenstr. 16<br/>155 Kieferstein, Werner, Heilige Hallen<br/>106 Kelch, Dr. A., Arzt, Bahnhofstr. 1<br/>101 Kempert, Rud., Inspckt., Hagenstr. 7<br/>163 Kiekebusch, Otto, Restaur., Straße d. SA. 10<br/>100 Kirche, Berth., Massage, Gesundbr. Str. 9c<br/>179 Kirsch Willi, Dentist, Marktstr. 2<br/>148 Kleinbahnhof<br/>151 Klopsch, Dr. Arzt, Gartenstr. 1.<br/>185 Kloshek, Alex., Kolonialwr., Str. d. SA 22</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 796 62 947\" data-label=\"Text\"><p><b>ng</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 11 743 988\" data-label=\"Text\"><p>439 Knoll, Auguste, Heilige Hallen 8<br/>473 Knorr, Max, Bahnhofstr. 21a<br/>654 Koch, Albert, Frankfurter Str. 90<br/>388 Köcher, Max, Ob.-Ger.Vollz., Frankf.Str. 81<br/>332 Köhler, Justus, Tischlerei, Bahnhofstr. 17a<br/>523 Köhler, Willy, Friseur, Neuebergstr. 32<br/>610 Köhne, Erich, Tischlermstr., Str. d. SA. 25<br/>287 Köppen, Erich, Kohlen, Altkietz 9.<br/>407 Kolberg, Masch.-Fabr. Wendshoferweg<br/>636 Koppow, Aug., Schornsteinfeger, Pos. Str. 1<br/>367 Kowalk, Hindenburgstr. 21<br/>665 Kramer, Hans, Homöopathie, Hindenb.Str. 88<br/>437 Kramer, Gustav, Schuhwr., Str. d. SA 48<br/>576 Kramer, H., Möbel, Str. d. SA 50<br/>593 Krankenhaus, Städtisches, Ad.-Hitler-Str. 20<br/>368 Krause, Leopold, Drogerie, Str. d. SA 37<br/><b>301 Kreishaus, Landrat, Bad Freienwalde<br/>(Oder), Horst-Wessel-Platz</b><br/>522 Kreiskasse, Staatl., Str. d. SA 11<br/>303 Kreissparkasse Oberbarnim, Marktstr. 5<br/>301 Kreisverwaltung, Horst-Wessel-Platz 1</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 17 739 970\" data-label=\"List-Group\"><p>677 Kröblinger, Oberleutnant, Elisabethstr. 14<br/>263 Kretschmer, Fritz, Installat., Brunnenstr. 9<br/>413 Krüger, Friedr., Bürgermstr. Gabow<br/>329 Krüger, H., Bettenhaus, Hindenb.Str. 82<br/>461 Krüger, Heinr., Tabakwr., Bahnhofstr. 24<br/>314 Krüger, Joh., Rektor, Wilhelmstr. 6<br/>204 Kuck, Dr. Walter, Arzt, Gartenstr. 2a<br/>383 Kühl, Hans, Melcherstr. 10<br/>448 Gebr. Kuntze, Getreide, Bahnhofstr. 1<br/>264 Kunze, Wilh., Blumengärtn., Str. d. SA 26<br/>351 Kurlichtspiele, K. Thormann, Str. d. SA. 11<br/>270 Kur-Orchester, Fischerstr. 30<br/>601. 620 Kurverwaltung Bad Freienwalde (Oder)<br/>443 Kurtze, Otto, Kol.-Wr., Str. d. SA 36<br/>568 Landkrankenkasse Oberbarnim, Hind.Str. 92<br/>444 Lange, C. F., Dampfwäscherei, Kanalstr. 28<br/>682 Lange, Martha, Stabswartin, Gesundbr.Str. 42<br/>632 Last, Emil, Insp. i. R., Posener Str. 17<br/>267 Lawrenz, Paul, Fleischermstr., Altranft<br/>635 Lebrenz, Emil, Betonwr., Bhfstr. 24</p></div><div data-bbox=\"0 964 672 992\" data-label=\"Page-Footer\"><p>222 T 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M 1 244 M ",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 738 992\" data-label=\"Text\"><p>616 Leibknecht, Wilh., Prok., Hagenstr. 13<br/>495 Lejeune, RA[N], Str. d. SA 12<br/>286 Lemke, Wilh., Grabsteine, Hindenb.Str. 90<br/>507 Leue, Walter, Tabakwr., Straße d. SA. 17<br/>593 Liebert, Dr. Philipp, Arzt, Hindenb.Str. 94<br/>308 v. Lilencron, Frh., Elisabethstr.<br/>554 Linke, O., Zentralheizung, Wasserstr. 31<br/>471 Löwenbrauerei A.-G., Niederl., Bahnhofstr.<br/>254 Machmer, Obst u. Gemüse, Brunnenstr. 11<br/>330 Märk. Stadt- u. Landbote, Marktstr. 12<br/>243 Märk. Elektrizitätswerk AG, Am Wældendamm<br/>310 Manke, Dr. Otto, Arzt, V.-Blüthgen-Str. 4<br/>458 Mante, Willy, Schlächtermstr., Neutornow<br/>459 v. Mantecuffel, Oberstltn., Kdr./K. 3.<br/>484 Manthey, M., Vertreter, Gesundbrunnenstr. 21<br/>397 Marquardt, Karl, Dir., Bahnhofstr. 3<br/>615 Marzahn, Emil, Obstkulturen, Altranft<br/>276 Matting, R., Pferdehdlg., Bahnhofstr. 28<br/>227 Mayer, Erholungsheim, Fontanestr. 1<br/>537 Melcher, Günter, Ing., Elisabethstr. 26<br/>606 Mentzel. Afr., Prof., Hagenstr. 9</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 738 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>510</th>\n<th>Meyers, Ernst, Bürgerstr., Gesundbr. Str. 34</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>513</td>\n<td>Meyer, Ernst, Bürgerstr., Gesundbr. Str. 34</td>\n</tr>\n<tr>\n<td>248</td>\n<td>Meyer, Franz, Landw., Croustillier.</td>\n</tr>\n<tr>\n<td>361</td>\n<td>Meyer, Otto, Studienrat, Wilhelmstr. 16</td>\n</tr>\n<tr>\n<td>516</td>\n<td>Michaelis, H., Schornsteinfeger, Fischerstr. 33</td>\n</tr>\n<tr>\n<td>234</td>\n<td>Miers, Franz, R.-A., Str. d. SA 27</td>\n</tr>\n<tr>\n<td>501</td>\n<td>Mittelschule, Knaben-</td>\n</tr>\n<tr>\n<td>274</td>\n<td>Müller, Fritz, Ing., Hohensaaten</td>\n</tr>\n<tr>\n<td>583</td>\n<td>Müller, K., Elektro-Baugesch., Str. d. SA 39</td>\n</tr>\n<tr>\n<td>675</td>\n<td>Müller, Kurt, Waffenstr., Maltzahnstr. 8</td>\n</tr>\n<tr>\n<td>211</td>\n<td>Müller, Paul, Schlächterstr., Str. d. SA 33 a</td>\n</tr>\n<tr>\n<td>384</td>\n<td>Müller, Willi, Elektromstr., Wilhelmstr. 33</td>\n</tr>\n<tr>\n<td>347</td>\n<td>Nest, Martha, Hebamme, Frankf. Str. 24</td>\n</tr>\n<tr>\n<td>235</td>\n<td>NSDAP., Ortsgruppenleitung</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Dieselbe, NS.-Volkswohlfahrt, Str. d. SA 37</td>\n</tr>\n<tr>\n<td>474</td>\n<td>Dies., NS.-Fliegerkorps, Sturm 8/24</td>\n</tr>\n<tr>\n<td>223</td>\n<td>Neubauer, F., Bauuntern., Linsingenstr. 13</td>\n</tr>\n<tr>\n<td>497</td>\n<td>Neuenfeldt, Rich., Kol.-Wr., Bahnhofstr. 25.</td>\n</tr>\n<tr>\n<td>570</td>\n<td>Noa, August, Inh. Lothar Büsser</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Oberkietzmühle, Wanderheim, Hammertal</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Oberländer, Fritz, Bildhauer, Str. d. SA 27 a</td>\n",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 724 994\" data-label=\"Text\"><p>604 Ohm, E., Friseur, Hindenburgstr. 86<br/>650 Orfert, Poststelle A, Hindenburgstr. 44<br/>215 Osswald, Walter, Landw., Gabow<br/>384 Ostwald, Johanna, Fische, Schiffmühle<br/>242 Otto, Aug., Schlächtermstr., Str. d. SA. 33<br/>445 Pantel, Otto, Fahrradhdlg., Str. d. SA 47<br/>289 Pape, Friedrich, Kohlen, Fischerstr. 11<br/>639 Pape, Günther, Hptm., Gesundbrunnenstr. 22<br/>656 Pautz, Hans, Kfm., Gesundbrunnenstr. 11<br/>658 Peiser, Gertr., Ad.-Hitler-Str. 25<br/>457 Pension Fr. A. Baeskow, Wilhelmstr. 14a<br/>268 Pension Luisenhof, Heilige Hallen 1/2<br/>598 Pension Schnoeckel, Brunnenstr. 25<br/>212 Pension Waldschloß, Heilige Hallen 7<br/>282 Pestke, Franz, Brunnenbau, Bahnhofstr. 9<br/>282 Pestke, Franz, Masch.Fbr., Bahnhofstr. 9a<br/>629 Pickel, Georg, Pfarrer, Neukornow<br/>664 Planck, Dr. Helm., Ing., Sonnenb. Str. 11<br/>391 Gebr. Plötz, Autofuhrw., Uchtenh. Str. 16a<br/>552 Pohl, Fritz, Herrenart., Str. d. SA 2<br/>396 Pommer Wilh. Uhren Neuer Berg 21</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 731 979\" data-label=\"Text\"><p>210 FIESSER, Emil, Gasw., Ewersw. 60<br/>477 Preuß, Dr. Leo., Sanitätsrat, Brunnenstr. 10<br/>544 Preußisches Hochbauamt, Maltzanstr. 7<br/>406 Protektor-Fabrik f. Isolierbedarf mbH., Falkenberg Mark<br/>294 Prüfert, Joh., Bücherrev., Bahnhofstr. 2<br/>198 Raettig, Eberhard, Holzhdg., Schiffmühle.<br/>388 Ramin, Karl, Tanzschule, Schlageterstr. 17<br/>287 Raschdorff, Frau, Gartenstr. 3.<br/>119 Rath, F. W., Ziegelwerk<br/>527 Rathbauer, Frz., Malermstr., Wilhelmstr. 13<br/>190 Rathke, Alb., Kolonialwr., Marktstr. 16<br/>352 Ratsstübel-Gaststätte, Marktstr. 3<br/>139 Redlich, Carl, Bäckerei, Bahnhofstr. 26.<br/>120 <b>Paul Reetz</b>, Kaufhaus, Bad Freienwalde (Oder), Marktstraße 28/29<br/>566 Rehdorf, Ernst, Oberinsp., A.-Bräutig.-Str. 8<br/>546 Reichelt, Anna, Heb.-Schw., Marktstr. 3<br/>122 Reichsb. Fahrkartenausg. u. Gepäckabfert.<br/>193 Reichsbahn-Güterabfertigung</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"286 7 999 993\" data-label=\"List-Group\">\n<p>\n    2265 Genossenschaftsbank Klosterreichenbach<br/>\n    eGmbH<br/>\n    2253 Graf, Hans, Dentist<br/>\n    2184 Groß, Dr. Fr., Privatdozent, Mitteltal<br/>\n    2220 Gruber, Dr. Eugen, Tierarzt.<br/>\n    2128 Günther &amp; Züfle, Baugeschäft<br/>\n    2167 Günther, Joh., Gipfermeister, Mitteltal<br/>\n    2235 Hahl, Theo, Dir. a. D., Panoramastr.<br/>\n    2263 Haisch, Fritz, S: gewerke, Nobel- u. Spaltwerk<br/>\n    Holzhandlung, Klosterreichenbach<br/>\n    2278 Haisch jr., Fritz<br/>\n    2375 Haisch, Gottlob, Steuerber., Klosterreichen<br/>\n    bach<br/>\n    2261 Haisch, Karl, Mühle, Klosterreichenbach<br/>\n    2269 Haisch, Wilh., graph. Kunstanstalt, Kloster<br/>\n    reichenbach<br/>\n    2159 Haist, Ernst, Holzvertret., Tonbach<br/>\n    2169 Haist, Karl, Baugeschäft, Mitteltal<br/>\n    2198 Haist, Rob., Fuhrwesen, Mittelabch<br/>\n    2138 Hauser, Max, Häckerei, Kniebis<br/>\n    2111 Hedewig, Fritz, Schneidermstr., Hauptstr. 20<br/>\n    2110 Holmann Chmut Dammstein\n  </p>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"281 0 998 991\" data-label=\"Text\"><p>2232 Hildebrandt, Gertrud, Haus Bergfried<br/>2396 Geschwister Hochstetter, Pension, Kloster<br/>reichenbach<br/>2381 Hochstetter, Karl, Gartenbaubetrieb.<br/>2136 Hornberger, Georg, Autovermiet., Kniebis<br/>2131 Hotel Alexanderschanze-Kniebis<br/>2324 Hotel Bahnhofshotel, Karl Breunle<br/>2139 Hotel Kurhaus Kniebis-Lamm, C. Gaißer<br/>2203 Hotel z. Ochsen, Wilh. Faist<br/>2277 Hotel Sonne-Post, Klosterreichenbach<br/>2305 Kaffee Klump, Rich. Pfau<br/>2257 Kaffee Walter Muler<br/>2384 Kallfuß, Karl, Mühle, Heselbach<br/>2380 Kappler, Friedr., Holzhdlg., Igelsberg<br/>2349 Keck, W., Sägewerk, Tonbach<br/>2133 Kindersanatorium Kniebis<br/>2311 Kläger, Otto, Architekt<br/>2393 Klaisle, Matth., z. Waldhorn, Kniebis<br/>2389 Klaßle, Alb., Handlung, Kniebis<br/>2163 Klaßle, Alfred, Nattlermstr., Mitteltal<br/>2130 Klaßle, Georg, Pension, Langenhardt</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"275 0 998 988\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Nummer</th>\n<th>Name, Betrieb, Ort, Ortsteil, Ortsteilname</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2233</td>\n<td>Klumpp, Hanonig-Automobile</td>\n</tr>\n<tr>\n<td>2379</td>\n<td>Klumpp, Ernst, Baumat., Mitteltal</td>\n</tr>\n<tr>\n<td>2229</td>\n<td>Klumpp, Ernst, Getreide.</td>\n</tr>\n<tr>\n<td>2309</td>\n<td>Gebr. Klumpp, Lastwagenverm., Heselbach</td>\n</tr>\n<tr>\n<td>2366</td>\n<td>Klumpp, G. A., Bürgernstr., Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2307</td>\n<td>Klumpp, J., Schlosserei, Rosengarten</td>\n</tr>\n<tr>\n<td>2177</td>\n<td>Klumpp, Otto, Bäckerei</td>\n</tr>\n<tr>\n<td>2208</td>\n<td>Klumpp, Otto, Autovermietung, Pappel</td>\n</tr>\n<tr>\n<td>2121</td>\n<td>Klumpp, Otto, Autoverm., Neumühle</td>\n</tr>\n<tr>\n<td>2249</td>\n<td>Klumpp, W., Photohaus</td>\n</tr>\n<tr>\n<td>2312</td>\n<td>Klumpp, Wilh. Schuhhaus, Bahnhofstr. 23</td>\n</tr>\n<tr>\n<td>2308</td>\n<td>Koch, Pension Wildfrieden</td>\n</tr>\n<tr>\n<td>2266</td>\n<td>Kullmann, H., Ing., Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2218</td>\n<td>Kyffhäuserheim Schönblick</td>\n</tr>\n<tr>\n<td>2370</td>\n<td><b>Maschinenfabrik Bernhard Braun<br/>Sägewerkmaschinenbetrieb<br/>Klosterreichenbach (Wrttb.)</b></td>\n</tr>\n<tr>\n<td>2291</td>\n<td>Mast, Ernst, Sägewerk, Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2296</td>\n<td>Mast, E., Sägewerk, Klosterreichenbach</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"270 0 993 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Ext.</th>\n<th>Name, Business, Location</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2285</td>\n<td>Mast, Otto, Villa Glirbach, Igelsberg</td>\n</tr>\n<tr>\n<td>2371</td>\n<td>Mayer, Rich., Korbfr., Mitteltal</td>\n</tr>\n<tr>\n<td>2251</td>\n<td>Merz, Wilhelm, Obst</td>\n</tr>\n<tr>\n<td>2325</td>\n<td>Methodistenkirche, Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2390</td>\n<td>Möhrle, Jakob, Kohlwald-Tonbach</td>\n</tr>\n<tr>\n<td>2287</td>\n<td>Mobrock, Friedr., Sägewerk, Rot</td>\n</tr>\n<tr>\n<td>2215</td>\n<td>Morlok, Christian, Güternahverkehr</td>\n</tr>\n<tr>\n<td>2332</td>\n<td>Ludwig Morlok o. H.-G., Ski-Fabrikation, Bayersbronn (Wrttb.)</td>\n</tr>\n<tr>\n<td>2150</td>\n<td>Moser, Georg, Fuhrwesen, Kniebia</td>\n</tr>\n<tr>\n<td>2173</td>\n<td>Gebr. Müller, Polstergestelle, Mitteltal</td>\n</tr>\n<tr>\n<td>2179</td>\n<td>Müller, Karl, Fahrzeugfabrik, Mitteltal</td>\n</tr>\n<tr>\n<td>2331</td>\n<td>Müller, Karl, To-Bü</td>\n</tr>\n<tr>\n<td>2189</td>\n<td>Müller, Karl, Kfm., Mitteltal</td>\n</tr>\n<tr>\n<td>2323</td>\n<td>Murgtal-Apparatebau, A. Krebs, Murgtalstr. 33</td>\n</tr>\n<tr>\n<td>2267</td>\n<td>Mutschler, W., Dr. med., Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2268</td>\n<td>Nordström, Klara, Schriftstellerin</td>\n</tr>\n<tr>\n<td>2206</td>\n<td>NSDAP, Ortsgruppe</td>\n</tr>\n<tr>\n<td>(2141)</td>\n<td>Dies., NS.-Frauenschaft (Heubach)</td>\n</tr>\n<tr>\n<td>2286</td>\n<td>Nübel, Louis, Heißmangel</td>\n</tr>\n<tr>\n<td>0247</td>\n<td>Bauernhaus</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"265 0 990 993\" data-label=\"Text\"><p>2295 Pfarramt Ev., Klosterreichenbach<br/>2166 Pfarramt, Evang., Mitteltal<br/>2120 Rapp, Karl, Sägewerk, Heselbach<br/>2214 Reichsbahn, Bahnhof<br/>2368 Dies., Bahnhof, Klosterreichenbach<br/>2303 Dies., Bahnhof Röt<br/>2245 Reichspost, Postamt<br/>2341 Dies., Postamt Klosterreichenbach<br/>2280 Reinhardt, Fritz, Teigwr., Mitteltal<br/>2129 Rothfuß, Alb., Dipl.-Ing.<br/>2337 Rothfuß, Aug., Möbelwerkstatt<br/>2317 Rothfuß, Bernh., Gartenbau, Klosterreichen-<br/>bach, Musbacher Str.<br/>2118 Rothfuß, Christian, Sägewerk, Rauhfelsen<br/>2335 Rothfuß, F., Gemischtwr., Murgtalstr. 82<br/>2102 Rothfuß, Gottlob, Möbelwerkstatt<br/>2274 Rothfuß, Gust., Flaschnerei, Mitteltal<br/>2124 Rothfuß, Karl, Autorepar.<br/>2293 Ruß, Adam, Sattlerei, Klosterreichenbach<br/>2362 Schaal, Emil, Klosterreichenbach<br/>2313 Schelkle. Hugo. Skifabrik</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"264 0 988 976\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>2100</th>\n<th>KUNSTEN, DRESDEN, FREIBERG, 1930</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2373</td>\n<td><b>Schmelze, Ernst, Sägewerk, Mitteltal</b></td>\n</tr>\n<tr>\n<td>2231</td>\n<td>Schmelze, Paul, Gemischtwr.</td>\n</tr>\n<tr>\n<td>2195</td>\n<td>Schmid sen., Josef, Fuhrgesch., Kniebis</td>\n</tr>\n<tr>\n<td>2383</td>\n<td>Schmieder, August, Buchdruckerei.</td>\n</tr>\n<tr>\n<td>2273</td>\n<td>Schneider, Frdr., Kfm., Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2183</td>\n<td>Schnirring, Karl, Lebensmittel</td>\n</tr>\n<tr>\n<td>2392</td>\n<td>Schray, Friedr., Baumstr., Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2330</td>\n<td>Seeger, Wuh., Holzhdg.</td>\n</tr>\n<tr>\n<td>2103</td>\n<td>Seld, Jakob, Vlehhdl., Igelsberg</td>\n</tr>\n<tr>\n<td>2352</td>\n<td>Stadel, Gust., bad. Kniebis, Haus 259</td>\n</tr>\n<tr>\n<td>2252</td>\n<td>Teinacher, Topfichknüpferien AG, Mitteltal</td>\n</tr>\n<tr>\n<td>2107</td>\n<td>Teufel, Ernst, Kohlen, Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2149</td>\n<td>Teufel, Fritz, Kol.-W., Klosterreichenbach</td>\n</tr>\n<tr>\n<td>2227</td>\n<td>Trück, Joh. Georg, Müller, Altmühle.</td>\n</tr>\n<tr>\n<td>2171</td>\n<td>Gebr. Wein, Zimmergeschäft, Mitteltal</td>\n</tr>\n<tr>\n<td>2170</td>\n<td>Wein, Hermann, Bauunternehmung, Mitteltal</td>\n</tr>\n<tr>\n<td>2194</td>\n<td>Wolfer &amp; Goebel, Baubüro, Schwarzwaldhoch-<br/>straße</td>\n</tr>\n<tr>\n<td>2155</td>\n<td>Würth, Friedr., Archit., Bahnhofstr. 25</td>\n</tr>\n<tr>\n<td>2372</td>\n<td>Würth, Fritz, Metzger, Klosterreichenbach</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"660 811 997 937\" data-label=\"Text\"><p><b>Baiersbron</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"27 33 903 953\" data-label=\"Text\"><table><tbody><tr><td>2281</td><td>Wurster, Bernh., Sägewerk, Röt</td></tr><tr><td>2144</td><td>Zeyher, Bz.-Notar</td></tr><tr><td>2190</td><td>Ziefle, Peter, Lastwagentransp., Röt</td></tr><tr><td>2319</td><td>Züfle, Ludw., Sägewerk, Unterwies</td></tr><tr><td>2258</td><td>Züfle, Matthäus, Gemischtwr., Mitteltal</td></tr><tr><td>2234</td><td>Züfle, Otto, Fuhrgesch., Vordertonbach</td></tr><tr><td>2269</td><td>Züfle, Robert, Autoverm., Mitteltal</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Baiersdorf (Mittelfranken) [Bay.]",
+        "entries": [
+          {
+            "extension": "43",
+            "text": "Aschleiner, Joh., Gemüseversand."
+          },
+          {
+            "extension": "69",
+            "text": "Batz, Hans, Baugesch., Effeltrich"
+          },
+          {
+            "extension": "49",
+            "text": "Bauernkraftw. Baiersdorf-Wellerstadt I GmbH"
+          },
+          {
+            "extension": "52",
+            "text": "Baumann, Aug., Meerrettichhdl., Judeng. 134"
+          },
+          {
+            "extension": "61",
+            "text": "Baumann, Christian, Schlosserei, Forchh. Str. 256"
+          },
+          {
+            "extension": "55",
+            "text": "Bayer, Konrad, Meerrettich, Effeltrich, Nr. 50"
+          },
+          {
+            "extension": "17",
+            "text": "Biermann, Dr. Peter, Arzt, Hauptstr. 172"
+          },
+          {
+            "extension": "21",
+            "text": "Brehm, A., Archit.-Büro, Schießbäckerstr. 256 a"
+          },
+          {
+            "extension": "9",
+            "text": "Bürgermeisteramt Effeltrich"
+          },
+          {
+            "extension": "7",
+            "text": "Bürgermeisteramt Langensendelbach"
+          },
+          {
+            "extension": "32",
+            "text": "Bürgermeisteramt Poxdorf"
+          },
+          {
+            "extension": "30",
+            "text": "Darlehnskassenverein eGmbH, Effeltrich"
+          },
+          {
+            "extension": "23",
+            "text": "Eisen, Ch., Bleistiftspitzerfbr., Schießbäckerstraße 258"
+          },
+          {
+            "extension": "42",
+            "text": "Erbel, Johann, Obst, Judeng. 136."
+          },
+          {
+            "extension": "13",
+            "text": "H. Fehn &amp; H. Kilian, Baumat., Hauptstr. 13"
+          },
+          {
+            "extension": "66",
+            "text": "Fenn, Dr. Armin, Arzt, Hauptstr. 117"
+          },
+          {
+            "extension": "40",
+            "text": "Forstverwalter, Baiersdorf, Forchh. Str. 97"
+          },
+          {
+            "extension": "1",
+            "text": "Gend.-Posten Baiersdorf, Forchh. Str. 260 A Comptoir des T T Metall- Wismuth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 0 998 986\" data-label=\"List-Group\"><p>47 Goller, Katharine, Konditorei, Hauptstr. 14<br/>53 Gröschel &amp; Schwarzmann, Zigarrenfabr.<br/>2 Gügel, Joh., Baumschulen, Poxdorf<br/>5 Heinlein, Matthäus, Zimmerci<br/>39 Hirschmann, Max, Bay. Meerrettichversandhaus<br/>(45) K. &amp; H. Kilian, Meerrettichexport<br/>24 Koch, Karl, Obstgroßhdlg., Judeng. 148<br/>8 Koch &amp; Gellweiler, Automat. Walzenmühle<br/>46 Kögel, Georg, Gastw., Langensendelbach<br/>25 Kölbl, Fritz, Lederhdlg. u. Schuhwr.<br/>27 H. Kupfer &amp; Co., Bayerische Meerrettich-Kon-<br/>servenfabrik, Poxdorf<br/>16 Joh. Kupfer, Erwein's Nr., Effeltrich 115<br/>17 Mälzerei Dr. P. Biermann, Hauptstr. 172<br/>70 Mehl, Joh., Autoverm., Effeltrich 110<br/>26 Meier, Fritz, Korkfabr., H.-Wessel-Str. 245<br/>45 Meyd, Karl, Landw. Maschinen.<br/>65 Meyer, August, Baugesch., Baust. Baiersdorf<br/>63 Nägel, J., Baumschulen, Langensendelbach 123<br/>58 Obstbaumschulen, Vereinigte, eGmbH, Effel-<br/>trich 58</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"85 23 997 73\" data-label=\"Text\"><p><b>Effeltrich e. G. m. b. H., Effeltrich. P Nürnberg 3912</b></p></div><div data-bbox=\"15 70 959 121\" data-label=\"Text\"><p>10 <b>Pickelmann, Paul, Gastwirt, Judengasse 139</b></p></div><div data-bbox=\"15 117 914 168\" data-label=\"Text\"><p>60 <b>Pinzel, Hans, Landwirt, Effeltrich Hs. 3</b></p></div><div data-bbox=\"15 165 942 216\" data-label=\"Text\"><p>41 <b>Pohl u. Lückel, Baugesch., Baust. Baiersdorf</b></p></div><div data-bbox=\"15 213 994 309\" data-label=\"Text\"><p>29 <b>Rauh, Konrad, gegr. 1890, Baumschulen u.<br/>Meerrettichversand, Poxdorf</b></p></div><div data-bbox=\"15 309 717 359\" data-label=\"Text\"><p>15 <b>Reichsbahn, Bahnhof Baiersdorf</b></p></div><div data-bbox=\"15 356 994 406\" data-label=\"Text\"><p>36 <b>Hans Böllinger KG, Baugesch., Baust., Poxdorf</b></p></div><div data-bbox=\"15 403 747 453\" data-label=\"Text\"><p>19 <b>Schamel, Johann Jakob, Kartoffeln</b></p></div><div data-bbox=\"15 450 971 501\" data-label=\"Text\"><p>57 <b>Schellemann, Hans, Schloeserm., Judeng. 144.</b></p></div><div data-bbox=\"15 498 877 548\" data-label=\"Text\"><p>22 <b>Schmahl, Johann, Dentist, Hauptstr. 68</b></p></div><div data-bbox=\"15 545 867 595\" data-label=\"Text\"><p>20 <b>Schmidt, Hans, Baumschulen, Effeltrich</b></p></div><div data-bbox=\"15 593 957 643\" data-label=\"Text\"><p>51 <b>Schmidt, Margarete, Eisenwr., Hauptstr. 64</b></p></div><div data-bbox=\"15 640 867 690\" data-label=\"Text\"><p>59 <b>Schmitt, Adolf, Baumschulen, Effeltrich.</b></p></div><div data-bbox=\"15 687 800 737\" data-label=\"Text\"><p>3 <b>Schoner, Carl, 69, Meerrettich-Export.</b></p></div><div data-bbox=\"15 734 867 784\" data-label=\"Text\"><p>33 <",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 29 987 937\" data-label=\"List-Group\"><p>50 Stemmer, Hans, Apotheke, Rathauspl. 33<br/><b>58 Vereinigte Obstbaumschulen e. G. m. b. H.,<br/>Effeltrich über Erlangen</b><br/>38 Viertel, Andreas, Baugesch., Forchh. Str. 247<br/>31 Zöllner, H., Landesprod., Wellerst. Weg 94</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Baisweil (Bay.)",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "Darlehnskassenverein"
+          },
+          {
+            "extension": "2",
+            "text": "Echteler, Franz, Sägewerk"
+          },
+          {
+            "extension": "3",
+            "text": "Echteler, Georg, Bauer"
+          },
+          {
+            "extension": "12",
+            "text": "Filser, Wilhelm, Metzgerei"
+          },
+          {
+            "extension": "7",
+            "text": "Fischer, Georg, Geflügel"
+          },
+          {
+            "extension": "1",
+            "text": "Gemeinde Baisweil, Bürgermstr. Strobel"
+          },
+          {
+            "extension": "4",
+            "text": "Gendarmeriestation."
+          },
+          {
+            "extension": "11",
+            "text": "Jall, Alois, Elektromeister"
+          },
+          {
+            "extension": "6",
+            "text": "Negele, Johann, Schmiedemeister"
+          },
+          {
+            "extension": "9",
+            "text": "Ritter, Jakob, Gastw. z. d. drei Rosen"
+          },
+          {
+            "extension": "5",
+            "text": "Strobel, Alois, Schotterwerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Baitenberg (ostpr.)",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "Bilda, Landwirt, Trabenau"
+          },
+          {
+            "extension": "10",
+            "text": "Bubritzki, Fritz, Landwirt, Adl. Borken"
+          },
+          {
+            "extension": "19",
+            "text": "Budzinski, Friedr., Landwirt, Schnippen"
+          },
+          {
+            "extension": "12",
+            "text": "Czudnochowski, A., Landw., Morgengrund"
+          },
+          {
+            "extension": "20",
+            "text": "Dzieko, Wilhelm, Bürgermeister"
+          },
+          {
+            "extension": "17",
+            "text": "Evang. Pfarramt"
+          },
+          {
+            "extension": "13",
+            "text": "Gendarmerieposten Monethen"
+          },
+          {
+            "extension": "3",
+            "text": "von Kannewurff, Horst, Landwirt"
+          },
+          {
+            "extension": "8",
+            "text": "Kleingärtner, Oskar, Gasthof, Monethen."
+          },
+          {
+            "extension": "20",
+            "text": "Lattko, Lehrer, Raiffeisen"
+          },
+          {
+            "extension": "14",
+            "text": "Motzkus, Carl, Landwirt, Borken."
+          },
+          {
+            "extension": "5",
+            "text": "Presting, Carl Albr., Landwirt, Andreaswalde"
+          },
+          {
+            "extension": "25",
+            "text": "Reichsbahn, Güterabfertig., Baitenberg"
+          },
+          {
+            "extension": "9",
+            "text": "Rynio, G., Wagenbau, Monethen"
+          },
+          {
+            "extension": "4",
+            "text": "Sakowski, Erich, Landwirt, Köllm. Rakau"
+          },
+          {
+            "extension": "1",
+            "text": "Schendel, Landwirt, Kröstenwerder"
+          },
+          {
+            "extension": "11",
+            "text": "Schotterwerk Baitenberg"
+          },
+          {
+            "extension": "7",
+            "text": "Thiedemann, Landwirt, Riemken"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Bakalarzewo (ostpr.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Bakum (Kr. Vechta) [0 idb.]",
+        "entries": [
+          {
+            "extension": "164",
+            "text": "Albers, Aloys, Honigkuchenbäckerei."
+          },
+          {
+            "extension": "176",
+            "text": "Albers, Clemens, Bauer, Westerbakum"
+          },
+          {
+            "extension": "208",
+            "text": "Albers, Johann, Kol.-W., Vestrup 17"
+          },
+          {
+            "extension": "136",
+            "text": "Arkenstette, Landw., Ernelage."
+          },
+          {
+            "extension": "142",
+            "text": "Augustin, Richard, Hausstette."
+          },
+          {
+            "extension": "184",
+            "text": "Averbeck, Landwirt, Westerbakum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 800 999 936\" data-label=\"Text\"><p><b>n: Genossenschaftsbank — Bali</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"23 10 934 993\" data-label=\"Text\"><table><tbody><tr><td>174</td><td>Becker, Dr. Heinr., Arzt</td></tr><tr><td>128</td><td>Beckmann, Georg, Bäckerei</td></tr><tr><td>128</td><td>Beckmann, Heinr., Baugesch.</td></tr><tr><td>117</td><td>Bergmann, G., Westerbakum</td></tr><tr><td>166</td><td>Börgerding, Heinr., Metzgerei</td></tr><tr><td>144</td><td>Bohlke, Jos., Viehdlr., Bakum</td></tr><tr><td>154</td><td>Brackmann, Cl., Schuhgeschäft.</td></tr><tr><td>153</td><td>Bünnemeyer, M., Gasthaus, Bakum</td></tr><tr><td>139</td><td>Büssing, Josef, Dentist</td></tr><tr><td>116</td><td>Busse, Th., Viehhdlg., Büschel.</td></tr><tr><td>177</td><td>Dierkes, Aug., Beleuchtungsartikel</td></tr><tr><td>113</td><td>Evers, Gottfried, Viehandlung.</td></tr><tr><td>173</td><td>Evers, Josef, Landwirt</td></tr><tr><td>156</td><td>Fette, Joseph, Schmiedemeister.</td></tr><tr><td>149</td><td>Frling, Ww., Landw., Westerbakum.</td></tr><tr><td>188</td><td>Gemeindevorstand Bakum</td></tr><tr><td>187</td><td>Gendarmerieposten Vestrup</td></tr><tr><td>161</td><td>Grave, Heinr., Landwirt, Schwichteler.</td></tr><tr><td>157</td><td>Heckmann, Cl., Landw., Westerbakum.</td></tr><tr><td>140</td><td>Hell, Bernhard, Fahrräder</td></tr><tr><td>163</td><td>Hölscher, Clemens, Elmelage</td></tr><tr><td>904</td><td>Wolke Almonte Maschinenfabr Scharwarf</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 0 974 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>160</td>\n<td><b>Kathmann, Jos., Bauer, Hausstette.</b></td>\n</tr>\n<tr>\n<td>182</td>\n<td><b>Kathol. Pfarramt</b></td>\n</tr>\n<tr>\n<td>183</td>\n<td><b>Kellermann, G., Fahrräder, Vestrup</b></td>\n</tr>\n<tr>\n<td>119</td>\n<td><b>Kollmer, Anton, Kraftfahrzeuge</b></td>\n</tr>\n<tr>\n<td>115</td>\n<td><b>Koops, Ww., Müllerel, Nr. 24.</b></td>\n</tr>\n<tr>\n<td>147</td>\n<td><b>Kreutzmann, Bernhard, Landwirt</b></td>\n</tr>\n<tr>\n<td>186</td>\n<td><b>Kröger, Jos., Viehhdlr., Vestrup</b></td>\n</tr>\n<tr>\n<td>145</td>\n<td><b>Kühling, Heinr., Wirt, Hausstette</b></td>\n</tr>\n<tr>\n<td>223</td>\n<td><b>Kuper, Bernh., Bauer, Vestrup</b></td>\n</tr>\n<tr>\n<td>168</td>\n<td><b>Lamping, August, Gemischtwaren</b></td>\n</tr>\n<tr>\n<td>150</td>\n<td><b>Landwehr, Aug., Schlachtermeister</b></td>\n</tr>\n<tr>\n<td>210</td>\n<td><b>Lenze, Dr. Konrad, Arzt</b></td>\n</tr>\n<tr>\n<td>201</td>\n<td><b>Lübbe, Joseph, Gastw., Westerbakum</b></td>\n</tr>\n<tr>\n<td>148</td>\n<td><b>Lück, Aug., Viehhdlg., Lohé.</b></td>\n</tr>\n<tr>\n<td>129</td>\n<td><b>Mahlmeyer, H. A. Landesprodukte.</b></td>\n</tr>\n<tr>\n<td>141</td>\n<td><b>Meinertding, Bernh., Viehhdlr., Westerbakum</b></td>\n</tr>\n<tr>\n<td>209</td>\n<td><b>Meistermann, R., Bauer, Elmelage</b></td>\n</tr>\n<tr>\n<td>188</td>\n<td><b>Meistermann, W., Brennerei.</b></td>\n</tr>\n<tr>\n<td>202</td>\n<td><b>Molkerei Bakum.</b></td>\n</tr>\n<tr>\n<td>185</td>\n<td><b>Molkerei Hausstette</b></td>\n</tr>\n<tr>\n<td>167</td>\n<td><b>Nagel, Georg, Elmelage</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 925 973\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Nummer</th>\n<th>Name, Beruf, Ort</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>137</td>\n<td><b>NSDAP.-Ortsgruppe</b></td>\n</tr>\n<tr>\n<td>126</td>\n<td><b>Olberding, Herm., Bahnhofswirt.</b></td>\n</tr>\n<tr>\n<td>178</td>\n<td><b>Pagenstert, Ign., Landw., Westerbakum</b></td>\n</tr>\n<tr>\n<td>175</td>\n<td><b>Pohlmann, Aloys, Büschel</b></td>\n</tr>\n<tr>\n<td>120</td>\n<td><b>Reichspost, Poststelle</b></td>\n</tr>\n<tr>\n<td>206</td>\n<td><b>Rolfes, Jos., Mühle, Westerbakum</b></td>\n</tr>\n<tr>\n<td>151</td>\n<td><b>Rosenbaum, Aloys, Bauer, Westerbakum</b></td>\n</tr>\n<tr>\n<td>159</td>\n<td><b>Rosenbaum, Bern., Landw., Cappeln</b></td>\n</tr>\n<tr>\n<td>122</td>\n<td><b>Rosenbaum, C., Kaufmann</b></td>\n</tr>\n<tr>\n<td>146</td>\n<td><b>Schildmeyer, Franz, Tierarzt</b></td>\n</tr>\n<tr>\n<td>132</td>\n<td><b>Schlömer, Clemens, Landwirt, Elmelage</b></td>\n</tr>\n<tr>\n<td>138</td>\n<td><b>Schröder Nf., D., Bahnhof Bakum</b></td>\n</tr>\n<tr>\n<td>124</td>\n<td><b>Schröder Nf., D., Bahnhof Vestrup.</b></td>\n</tr>\n<tr>\n<td>170</td>\n<td><b>Schürmann, Cl., Futterhandlung</b></td>\n</tr>\n<tr>\n<td>110</td>\n<td><b>Siemer, Aug., Futtermittel</b></td>\n</tr>\n<tr>\n<td>225</td>\n<td><b>Siemer, Gr. Ferd., Müller</b></td>\n</tr>\n<tr>\n<td>157</td>\n<td><b>Siemer, Kl. Heinrich, Bauer</b></td>\n</tr>\n<tr>\n<td>134</td>\n<td><b>Sieverding, Bernh., Landw. u. Geschäftsf.</b></td>\n</tr>\n<tr>\n<td>126</td>\n<td><b>Sommer, Franz, Bahnhofswirt</b></td>\n</tr>\n<tr>\n<td>130</td>\n<td><b>Spar- u. Darlehnskasse eGmbH</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 973\" data-label=\"Text\"><p>171 Stukenborg, Josef, Bauer, Südholz<br/>134 Südoldenburger, Viehverwertung eGmbH.<br/>158 Sündermann, Engelbert, Bauer, Schwichteler<br/>165 Suing, Johannes, Landwirt<br/>118 Tabeling, Bauer, Hausstette<br/>121 Tebbe, Tierarzt, Büschel.<br/>175 Tebbe, Gottfr., Landwirt, Büschel<br/>185 Theissen, W., Gastw., Kol.-W.<br/>114 Themann, Carl, Landwirt, Hausstette<br/>125 Thoben, Clemens, Bahnhofswirt, Vestrup<br/>181 Tiemerding, Heinr., Müllerei, Hausstette.<br/>181 Vikarie, Vikar Jos. Arlinghaus<br/>207 Willenborg, Wilh., Müllerei, Weihe.<br/>227 Witte, Jos., Bauer, Schwichteler</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Baldenburg (Pommern)",
+        "entries": [
+          {
+            "extension": "131",
+            "text": "Abdeckerel, Inh. Schmidt, Abbau"
+          },
+          {
+            "extension": "130",
+            "text": "Amtsgericht, Ad.HitlerStr."
+          },
+          {
+            "extension": "156",
+            "text": "Apotheke u. Drogenhdlg., Markt 144"
+          },
+          {
+            "extension": "149",
+            "text": "Baldenburger Anzeiger."
+          },
+          {
+            "extension": "118",
+            "text": "Barnefske, Joh., Baugesch., Bahnhofstr."
+          },
+          {
+            "extension": "142",
+            "text": "Baum, Willi, Schankwirtschaft, Briesenitz"
+          },
+          {
+            "extension": "202",
+            "text": "Bentzien, J., Arzt, Ad.Hitler-Str. 127"
+          },
+          {
+            "extension": "163",
+            "text": "Berlin, Willi, Fischereibos., Bahnhofstr."
+          },
+          {
+            "extension": "129",
+            "text": "Bier, Emil, Kfm., Markt."
+          },
+          {
+            "extension": "164",
+            "text": "Böse, Karl, Zementwrfbr., Bahnhof"
+          },
+          {
+            "extension": "173",
+            "text": "Bogumil, Friedr., Landw., Casimirshof"
+          },
+          {
+            "extension": "135",
+            "text": "Bollmann, Herbert, Bahnhofswirt"
+          },
+          {
+            "extension": "122",
+            "text": "Burchardt, Kartoffeln, Kl. Wittfelde"
+          },
+          {
+            "extension": "110",
+            "text": "Bülow, Otto, Sägewerk, Ad.HitlerStr. 118a"
+          },
+          {
+            "extension": "146",
+            "text": "Dahms, Herm., Faßfabrik, Bahnhofstr."
+          },
+          {
+            "extension": "157",
+            "text": "Dahms, Wilh., Böttcherei, Alte Poststr. 9"
+          },
+          {
+            "extension": "114",
+            "text": "Dittmar, Georg, Hotel, H.GöringStr. 32"
+          },
+          {
+            "extension": "143",
+            "text": "Ewert, E., landw. Masch., Herm.GöringStr. 33"
+          },
+          {
+            "extension": "161",
+            "text": "Fenske, Emil, Konditorei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 995\" data-label=\"Text\"><p>134 Gast, Otto, Warenagentur, H.-GöringStr. 30<br/>162 Gendarmerieamt, Wilh.KubeStr.<br/>177 Glashagen, Fritz, Baumeister<br/>112 Gollnick, Karl, Installation, Alte Poststr.<br/>116 Gollnick, Otto, Briesenitz<br/>124 Grönke, Herm., Eisenhdlg., Markt 110<br/>160 Haase, Karl, Wilhelm-Kube-Str.<br/>181 Hardel, Gustav, Brunnenbau, Bahnhofstr. 245<br/>207 Heller, Paul, R.-A.[N], Markt 96<br/>145 Hensel, Curt, Fleischerei, H.-Göring-Str.<br/>175 Heyer, Otto, Spediteur, Bahnhofstr. 243<br/>184 Heyer, Otto, Bäckerstr., Herm.-Göring-Str.<br/>123 Hotel Deutsches Haus<br/>136 Jahnke, Franz, Viehdlg., Unt. Bergstr. 177<br/>171 Kell, Friedr., Bauer, Schönberg<br/>153 Klawitter, Landwirt, Linow<br/>169 Kleist, Karl, Manuf.-W., Fließstr. 138<br/>154 Kleist, Wilhelm, Eisenwr., Markt 142<br/>113 Klug, Karl, Viehdlg., H.-Göring-Str. 21<br/>152 Koch, Willy, Kol.-W., Markerstr.<br/>119 Koenn, Ernst, Fleisch H.-Göring-Str. 21</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 980 510\" data-label=\"List-Group\"><ul><li>152 Kosiner Aktien-Bierbrauerei, Niederi.</li><li>137 Kolmsee, Adolf, Schlosserei, Wilh.-Kube-Str.</li><li>158 Landw. Kreisgenossenschaft eGmbH.</li><li>139 Lichtfuß, Paul, Stadtmühle, Märkeratr.</li><li>138 Machalsky, Gärtnerei, Kranzbinderei</li></ul></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 805 356 962\" data-label=\"Text\"><p><b>gen: Endinger</b></p></div><div data-bbox=\"525 795 791 951\" data-label=\"Text\"><p><b>(Band I) 209</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 9 792 993\" data-label=\"Text\"><p>215 v. Moreau, Frhr., Gutsverw. Hohenstein<br/>128 Moßner, Paul, Kalksandsteinfabr.<br/>150 Müser, Ottilie, Kol.-W., Markt 78<br/>205 Nitz, Herm., Baugesch., Bahnhofstr.<br/>159 NSDAP.: Amt f. Erzieher, NSLB., Stadtschule<br/>148 Ost, Erich, Malermstr., Alte Poststr. 6<br/>117 Paul, Albert, Gut Gramshof<br/>133 Pocggel, Ernst, Gärtnerei, Markt<br/>168 Raddatz, Paul, Manufakt., H.-Göring-Str. 67<br/>165 Rahn, Karl, Brunnenbau, Briesnitzer Str. 257<br/>206 Reichsbahn, Güterabfertigung<br/>183 Reichsnährstand: Landwirtschaftsschule<br/>220 Reichspost, Postamt<br/>170 Schulz, Franz, Bürgermstr., Briesnitz<br/>147 Sorgatz, August, Schmiedemstr., Fließstr. 137<br/>155 Sparkasse d. Kr. Schlochau, A.-Hitlerstr.<br/>174 Spar- u. Darlehnskasse u. Bürgermeisteramt<br/>Kasimirsdorf<br/>140 Stach, Frau, Hebamme, Bahnhofstr.<br/>126 Stachowski, Adalb., Manufakturwr., Markt 10<br/>210 Stadtverwaltung u. Polizeibehörde<br/>141 Stadtparkplatz Nr. 9 Markt 0A</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 786 950\" data-label=\"List-Group\"><p>166 <b>Venske, Erich, Kolonialw., Markt 97</b><br/>151 <b>Völz, Richard, Briesenitz</b><br/>209 <b>Wagner, Dr., Tierarzt, Hermann-Göring-Str.</b><br/>172 <b>Wegner, Paul, Fuhrunternehmen</b><br/>115 <b>Weise, Neufeld</b><br/>178 <b>Witt, Margarete, Hebamme, H.-Göring-Str.</b><br/>144 <b>Zaufke, Walter, Bäckerei, Märkerstr.</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Balderschwang (Schwaben) [Bay.]",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "Haus Ifenblick, Erhol.-Heim Polizeisportv."
+          },
+          {
+            "extension": "2",
+            "text": "Holderied, Hubert, Gasthof Hubertus"
+          },
+          {
+            "extension": "1",
+            "text": "Kienle, Konrad, Gasthof"
+          },
+          {
+            "extension": "7",
+            "text": "Scppeler-Stiftung f. Flug- u. Fahrwesen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Balga (ostpr.)",
+        "entries": [
+          {
+            "extension": "31",
+            "text": "Burgkrug in Balga"
+          },
+          {
+            "extension": "14",
+            "text": "Födtke, Bauer, Gr.Hoppenbruch"
+          },
+          {
+            "extension": "26",
+            "text": "Gendarmerieposten Balga -"
+          },
+          {
+            "extension": "21",
+            "text": "v. Glasow, Balga"
+          },
+          {
+            "extension": "16",
+            "text": "Güterabfertig. Gr.Hoppenbruch"
+          },
+          {
+            "extension": "12",
+            "text": "Jugendherberge"
+          },
+          {
+            "extension": "19",
+            "text": "Haus Balga, Fr. Korn, Gastw."
+          },
+          {
+            "extension": "29",
+            "text": "Knorr, Fritz, Kol.-W., Gr.Hoppenbruch"
+          },
+          {
+            "extension": "27",
+            "text": "Kreutz, Edmund, Fleischermstr."
+          },
+          {
+            "extension": "18",
+            "text": "Kroll, Erich, Fischhandlung"
+          },
+          {
+            "extension": "24",
+            "text": "Mallien, Erwin, Kolonialwr."
+          },
+          {
+            "extension": "19",
+            "text": "Nehrenheim, Rudolf, Bürgermstr."
+          },
+          {
+            "extension": "15",
+            "text": "Pfarrant, evangelisches"
+          },
+          {
+            "extension": "23",
+            "text": "Pultke, Walter, Gastwirt"
+          },
+          {
+            "extension": "25",
+            "text": "Restaurant zur Honeda, Inh. Jordan"
+          },
+          {
+            "extension": "10",
+            "text": "Rommel, Erich, Bauer, Gr.Hoppenbruch"
+          },
+          {
+            "extension": "28",
+            "text": "Scherwinski, Emil, Bäckerei"
+          },
+          {
+            "extension": "22",
+            "text": "Schröder, Gastwirt"
+          },
+          {
+            "extension": "17",
+            "text": "Schulat, Fritz, Autovermietung"
+          },
+          {
+            "extension": "26",
+            "text": "Schultheissamt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Balingen (Wrtb.)",
+        "entries": [
+          {
+            "extension": "216",
+            "text": "Adlerbrauerei Balingen A.G."
+          },
+          {
+            "extension": "524",
+            "text": "Alca Kühlanlagen-Zubehör G. m. b. H.,Rosenfelder Str. 8"
+          },
+          {
+            "extension": "678",
+            "text": "Allgaler u. Neher, Möbelfbr., Weilstetten"
+          },
+          {
+            "extension": "228",
+            "text": "Allg. Ortskrankenkasse Balingen."
+          },
+          {
+            "extension": "373",
+            "text": "Allianz-Versich. AG, Bahnhofstr. 12"
+          },
+          {
+            "extension": "229",
+            "text": "Amling, Carl, Lebensmittel, Endingen"
+          },
+          {
+            "extension": "220",
+            "text": "Amtsgericht."
+          },
+          {
+            "extension": "328",
+            "text": "Apotheke C. O. Egelhaaf."
+          },
+          {
+            "extension": "255",
+            "text": "Arbeitsamt, Wilhelmstr."
+          },
+          {
+            "extension": "204",
+            "text": "Axamitt, Karl, Ränderfabrik."
+          },
+          {
+            "extension": "579",
+            "text": "Bärenbrauerei A.-G., Schweningen, Niederl."
+          },
+          {
+            "extension": "487",
+            "text": "Balinger Bekleidungshaus, Friedrichstr. 65"
+          },
+          {
+            "extension": "438",
+            "text": "Balinger Dampfsägewerk A.-G., Säge- undHobelwerk, Kistenfabrikation"
+          },
+          {
+            "extension": "314",
+            "text": "Balinger Trikotwarenfabrik Conzelmann &amp; Co."
+          },
+          {
+            "extension": "288",
+            "text": "Bames, Karl, Metzger"
+          },
+          {
+            "extension": "656",
+            "text": "Beck, F., Schlossermstr., Frommern"
+          },
+          {
+            "extension": "465",
+            "text": "Beck, Hermann, Metzgerei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 773 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">447) V. F. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B. B.",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 764 976\" data-label=\"Text\"><p><b>412 DULCET, ERWIN, Viehhändler</b><br/>483 <b>Conzelmann, J., Trikotfbr., Erzingen</b><br/>248 <b>Crasser, Karl, Apotheker</b><br/>484 <b>Daniel, Hermann, Buchdruckerei</b><br/>816 <b>Daniel, Ernst, Schreibwr., Friedrichstr. 6</b><br/>451 <b>Deeg, Georg, sanit. Anl., Rob.-Ley-Str. 14</b><br/>367 <b>A. Deigendesch &amp; Co., Weingroßhandlung,<br/>Bahnhofstr. 15. P Stuttgart 2763</b><br/>310 <b>Delling, Frühwald, Fabrikant.</b><br/>414 <b>Detting, Jos., Gaststätte</b><br/>693 <b>Dintzinger, F., Gasschutztüren, Engstalt</b><br/>525 <b>Efinger, M., Bier, Schömberger Str. 119</b><br/>213 <b>Egelhaaf, Architekten, Olgastr. 7</b><br/>638 <b>Ehinger, Ad., Büromasch., O.-Kirchstr. 6</b><br/>462 <b>Ehinger, Alfr., Elektromstr., Adlerstr. 5</b><br/>277 <b>Ehinger, E., Handschuhfbr., Wilhelmstr. 54</b><br/>368 <b>Gebr. Ehinger, Handschuhfabrik.</b><br/>399 <b>Ehinger, Karl, Konditorei</b><br/>615 <b>Ehinger u. Schühle, Möbelfbr., Frommern</b><br/>411 <b>Eiche, Emil, Textil-Vertreter.</b><br/>289 <b>Gebr. Eisele, Handschuhfabrik</b></p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 744 417\" data-label=\"List-Group\"><p>507 Eith, Wilh., Radio, Ad.-Hitler-Str. 17<br/>314 Elwinger, Dr. Wilh., Prokurist<br/>429 Endinger Trikotwarenfr. GmbH, Endingen</p></div><div data-bbox=\"473 458 518 596\" data-label=\"Page-Footer\"><p>27</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  }
+]

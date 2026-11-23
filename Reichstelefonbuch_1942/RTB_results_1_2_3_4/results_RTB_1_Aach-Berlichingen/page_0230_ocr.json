@@ -1,0 +1,450 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"228 705 466 947\"}, {\"label\": \"Text\", \"bbox\": \"639 696 998 930\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 11 998 995\" data-label=\"List-Group\"><p>389 Burger sen., Fr. Xav., Hdlg., Obersasbach<br/>581 Georg &amp; Otto Burger, Granitwerke, Oberachern<br/>708 Burkard, Kraftwagenführ., Lindenweg<br/>281 Burst, Lorenz, Bäckerei, Adlerpl. 48<br/>605 Burst, Otto, Install., Hauptstr. 79.<br/>433 Burster, Valentin, Tapezierer, Hauptstr. 35<br/>(370) Clemens, Trude, Hebamme, Friedrichstr. 12<br/>623 Decker, Alb., Gartenbau, Sasbachwalden, Tal 111<br/>496 Deichelbohrer, Joh., Landwirt, Litzloch<br/>501 Deuchler, C. F., Messerschmied, Kirchstr. 6<br/>265 Dietmeier, Alb., Obst, Sasbach, Unterdorf 228<br/>503 Dietmeier, Franz, Obst, Sasbach<br/>424 Dober, Karl, Autovermietung<br/>624 Dörzenbach, A., Eisenbahnstr. 22<br/>468 Doll, Franz, Metzgerei, Sasbachwalden<br/>566 Doll, Gust., Metzgerei, Hauptstr. 5<br/>509 Doll, Jos., Tiefbau, Sasbachwalden<br/>629 Doninger, Wilh., Metzgerei, Obersasbach<br/>610 Droll, Arthur, Fabrikation von Holzwolle u.<br/>Holzwollseilen, Lauf (Baden)<br/>498 Droll, Wilhelm, Oelmühle, Lauf, Hauptstr. 45.<br/>414 Dusch... 11... 7</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 0 998 993\" data-label=\"Text\"><p>375 Ebler, Jos., Metzgerei, Mösbach<br/>504 Eicher, Otto, Bäckereinnung, Hauptstr. 39.<br/>717 Eims Nchfl., W., Blumen, Ad.-Hitler-Str. 8<br/>664 Eller, Heinr., Blumen, Eisenbahnstr. 18<br/>407 Engler, Hans, R.-A., Hauptstr. 83.<br/>637 Engster, A., Dachdeckernstr., Engelstr. 15<br/>228 Erhard, Dr., Arzt, Obersasbach.<br/>226 Evang. Stadtpfarramt Martinstr. 15.<br/>319 Faber, Herm., Kfm., Önsbach, Eisenb.Str. 26<br/>378 Fahrner, J., Mineralw.Fbr., Rob.-Wagner-Str.25<br/>503 Fallert, Wilh., Sattler, Sasbachwalden, Hpt.Str.<br/>511 Feißt jr., Karl, Brunnenbau, Önsbach, Hpt.Str.23<br/>301 Feuerwehrkommando Achern<br/>268 Finkbeiner, Hch., Manuf.-W., Hauptstr. 45<br/>458 Fischer, Ant., Schreinerei, Sasbachwalden<br/>344 Fischer, Ludw., Brennerei, Sachswalden<br/>396 Fitterer, Franz, Kol.-W., Hauptstr. 47<br/>518 Frank, Franz, Bäckerei, Lauf, Dorfstr. 109<br/>244 Franke, Dr. Carl, Prof., Arzt, Höhenweg 1.<br/>315 Friedrichshöhe, Sanat., Oberachern.<br/>349 Friesen-Nöthlichs. K., Papierfbr., Unzh.Str.10</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Gasthäuser:",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"213 9 989 992\" data-label=\"Text\"><p>876 Grüner Baum, Mösbach, F. Sutterer.<br/>561 Hirsch, Großweier, Ortsstr. 86<br/>539 Hirsch, Lauf, Karl Seiler.<br/>579 Hirsch, Oberachern, E. Küniger<br/>384 Hoffnung, F., Bürck, Kapellenstr. 9<br/>483 Kreuz, Fautenbach, Friedr. Dilger, Hau 163<br/>692 Krone, Mösbach, K. Sutterer.<br/>821 Lamm, Wilh. Schwenk, Hauptstr. 2<br/>444 Linde, Großweier, Gregor Hiegert<br/>575 Linde, Lauf, Karl Seer<br/>715 Linde, Oberachern, Otto Schmidt<br/>668 Linde, Braun, Sasbach<br/>470 Linde, Sasbachwalden, Aug. Springmann.<br/>706 Löwen, Sasbach, Alb. Zorn<br/>495 Ochsen, Alb. Zorn, Sasbach<br/>452 Ratskeller, E. Wolf, Hauptstr. 4<br/>567 Rebstock, Lauf, Karl Falk.<br/>663 Rebstock, F. Decker, Oberachern, Ulmer Str. 215<br/>412 Rössel, Wilh. Schnurr, Hauptstr. 25.<br/>292 Rössel, Hch. Moser, Lauf, Hauptstr.<br/>482 Rössel Oberachern Karl Küniger</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"212 0 975 958\" data-label=\"List-Group\"><p><b>410 Schniegstadi, Gust., Voiz, Hauptstr. 10.</b><br/><b>254 Schwanen, Sasbachried, Jos. Strack.</b><br/><b>252 Sonne, Karl Götz, Hauptstr. 74</b><br/><b>227 Sonne, Sasbachwalden, Jos. Prestel</b><br/><b>630 Stadt Wien, Hauptstr. 62</b><br/><b>548 Tivoli-Restaurant</b><br/><b>515 Traube, Weinstube, A. Kaufm., Friedr.Str. 8</b><br/><b>397 Wagen, Fautenbach, Alfons Herr, Haus 90</b><br/><b>287 Wilden Mann, R. Riehle, Hauptstr. 126</b></p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"211 17 987 110\" data-label=\"Text\"><p><b>209 E. Geck-Söhne, Weinbau, Weinkellerel, Liköre, Edelbranntweine usw.</b></p></div><div data-bbox=\"211 111 797 160\" data-label=\"Text\"><p><b>421 Geck, Friedr., Kfm., Hauptstr. 41</b></p></div><div data-bbox=\"211 155 987 247\" data-label=\"Text\"><p><b>727 Geldschrankfabrik Joh. Geercken KG., Fautenbacher Str. 5</b></p></div><div data-bbox=\"211 248 804 296\" data-label=\"Text\"><p><b>371 Geiseler, Günther, Arbeitsamtsleit.</b></p></div><div data-bbox=\"211 293 872 342\" data-label=\"Text\"><p><b>383 Geiser, Bernh., Sägewerk, Obersasbach</b></p></div><div data-bbox=\"211 337 987 477\" data-label=\"Text\"><p><b>8ml.- Nr. 655 { Gemeindeverwaltung Achern (Baden), Rathaus. Die Zentrale verbindet mit sämtlichen Dienststellen</b></p></div><div data-bbox=\"211 477 630 523\" data-label=\"Text\"><p><b>440 Dieselbe, Schlachthaus</b></p></div><div data-bbox=\"211 520 944 569\" data-label=\"Text\"><p><b>348 Gemeindeverwaltung Fautenbach, Rathaus</b></p></div><div data-bbox=\"211 567 937 614\" data-label=\"Text\"><p><b>454 Gemeindeverwaltung Gamshurst, Rathaus</b></p></div><div data-bbox=\"211 612 932 659\" data-label=\"Text\"><p><b>639 Gemeindeverwaltung Großweiler, Rathaus</b></p></div><div data-bbox=\"211 657 838 704\" data-label=\"Text\"><p><b>401 Gemeindeverwaltung Lauf, Rathaus</b></p></div><div data-bbox=\"211 702 900 749\" data-label=\"Text\"><p><b>232 Gemeindeverwaltung Mösbach, Rathaus</b></p></div><div data-bbox=\"211 747 937 794\" data-label=\"Text\"><p><b>231 Gemeindeverwaltung Oberachern, Rathaus</b></p></div><div data-bbox=\"211 792 956 839\" data-label=\"Text\"><p><b>419 Gemeindeverwaltung Obersasbach, Rathaus</b></p></div><div data-bbox=\"211 837 898 884\" data-label=\"Text\"><p><b>336 Gemeindeverwaltung Önsbach, Rathaus</b></p></div><div data-bbox=\"211 882 896 929\" data-label=\"Text\"><p><b>3",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"210 6 969 625\" data-label=\"Text\"><p>582 Gendarmerie Achern<br/>573 Gendarmerie Sasbachwalden<br/>393 Genswein, Franz X., Lederwaren<br/>333 Giebers, Dr. F., Zahnarzt, Fautenb. Str. 1<br/>673 Glaser, Herm., Gasth., Obersasbach<br/>392 Glaser, Herm., Papierrohmat., Fautenbach<br/>201 Glashütte Achern AG<br/>442 Franz Glatt u. E. Ruch, Café, Hauptstr. 29<br/>553 H. u. Alb. Graber, Autoverm., Sasbachwalden<br/>724 Graf, Emil, Install., Kapellenstr. 5</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 680 702 904\" data-label=\"Text\"><p><b>r — Achim: Gretzschel</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 17 998 977\" data-label=\"List-Group\"><p>270 Graf, Friedr., Install.-Geach., Hauptstr. 98.<br/>478 Grieshaber, Otto, Möbelfbr., Sasb.Str. 18<br/>340 Gulat, Dr. Zahnarzt, Ad.-Hitler-Str. 12<br/>687 F. Haas u. E. Messerschmidt, Papier, Rich.<br/>Wagner-Straße 23<br/>233 Hamb. Kaffeelager Thams &amp; Garfs, Hpt.Str.15<br/>585 Handelsschule, Kirchstr. 16<br/>236 Harter, A., Vertreter, Önsbach, Kreuzstr. 110<br/>885 Hartmann, Fr., Elektromstr., R.WagnerStr. 8<br/>286 Hatz, Oskar, Autorep., Adlerplatz 32.<br/>443 Haug, Wilh., Archit., Rennbahnstraße<br/>545 Hausmann, Alb., Landw., Sasbachwalden<br/>705 Heep, Hans Curd, Dipl.Landw., Goethestr. 25<br/>312 Helmschule Lender, G. m. b. H., Sasbach<br/>(Baden)<br/>524 Heneka, Adolf, Schlosserei, Kapellenstr. 11.<br/>334 Hepp, Wilh., Fabrikant, Lindenweg<br/>288 Herr, Frz., Metzger, Fautenbach<br/>345 Herrmann, Ad., Bäckerei, Hauptstr. 10<br/>213 Herrmann, Wilh., Kürschnerel, Hauptstr. 90<br/>257 Herzberg, Martin, Kohlen, Fautenbacherstr. 22</p></div><div data-bbox=\"19 972 840 993\" data-label=\"Page-Footer\"><p>244 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 0 998 993\" data-label=\"Text\"><p>536 Heuschmid II, Aug., Mühle, Oberachern.<br/>411 Himpele, Bernh., Güterbest., R.-Wagner-Str. 9<br/>456 Hock, Otto, Lebensmittel, Adlerplatz.<br/>417 Hodapp, Franz, Apparatebau, Sasbacherstr. 2.<br/>682 Hodapp, Jos., Mineralwasser, Unzhurster Str.<br/>556 Hodapp I, Karl, Viehhdg., Großweler<br/>574 Hörth, Adolf, Holzhdg., Obersasbach<br/>451 Hörth, Lor., Stuhlfbr., Obersasbach<br/>632 Höß, Ww. Mathias, Obst, Obersasbach<br/>382 Hoferer, Arthur, Autorepar., Oberachern<br/>409 Hofmann, Ludwig, Bierabl. Unzhursterstr.,<br/>313 Hofmann, Otto, Stuhlfabrik, Lager.<br/>322 Hotel Adler, Adlerplatz 1.<br/>544 Hotel Deutscher Hof, Eisenbahnstr. 28<br/>301 Hotel Schwarzwälder Hof, Unzhursterstr. 8<br/>647 Hotel Sternenwirtshaus, Hohritt, Sasbachw.<br/>202 Huber, Adolf, Weingroßhandlung, Süßmost-<br/>kelterei, Eisenbahnstr. 27. P Karlsruhe 4088<br/>369 Huber, Ad., Hageberg Hof, Sasbachwalden<br/>558 Huber, Alb., Güterverkehr, Acherstr. 8<br/>99A Huber Anna Ww Allerhallisonstr. 15</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 984\" data-label=\"Text\"><p>359 Huber, Herm., Lastwagenverm., Sasbachwald<br/>491 Huber, Jacob, Weinhdlg., Fautenb.Str. 4<br/>278 Huber, Paula, Bad. Handwerk, Sasbachwald<br/>660 Huck, Dr. J. Chr., Geistl. Rat, Schillerstr.<br/>390 Huck, Friedr., Mühle, Großweier<br/>474 Hund, Jos., Eisenwaren, Hauptstr. 63.<br/>506 Hund, Karl, Seifensiederei, Hauptstr. 33<br/>246 Ihli, Frz., Schuhwr., Hauptstr. 64.<br/>489 Ihli, Karl, Weinhdlg., Kapellenstr. 5<br/>220 Gebr. Jäger, Papierfabr., Lauf.<br/>481 Jerger, Wilh., Bäckerei, Hauptstr. 24<br/>235 John u. Co, Sensenwerke<br/>413 Kaiser, Josef, Weinbrennerei, Eisenbahnstr. 5<br/>258 Kaltenbach, Karl, Rohtabake, Gamshurst.<br/>667 Karcher, Ad., Erbhof, Oberachern, Gr. Wasen 134<br/>432 Kassel, Karl, Wand- u. Bodenplatten<br/>548 Kath. Pfarramt Fautenbach.<br/>572 Kathol. Pfarramt Großweier<br/>686 Kathol. Pfarramt, Lauf<br/>416 Kathol. Pfarramt, Oberachern<br/>435 Kathol. Pfarramt, Sasbach.</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 988 995\" data-label=\"Table\"><table><tr><td>445</td><td>Katholisches Stadtpfarramt Achern.</td></tr><tr><td>722</td><td>Kayser, Rud., Wäscherei, Martinstr. 6</td></tr><tr><td>363</td><td>Kegelmann, Herb., Dipl.Ing., Oberachern</td></tr><tr><td>457</td><td>Kehrein, Dr. E., Arzt, Hauptstr. 76</td></tr><tr><td>523</td><td>Keller, Herm., Sägewerk, Oberachern.</td></tr><tr><td>479</td><td>Kern, Alois, Musikdir., Martinstr. 17</td></tr><tr><td>516</td><td>Ketterer, Andr., Kohlen, Sasbach</td></tr><tr><td>514</td><td>Ketterer, F., Schuhe, Sasbach, Erlenb.Str. 147</td></tr><tr><td>347</td><td>Ketterer, F. J., Baugesch., Sasbach, Hpt. Str.</td></tr><tr><td>481</td><td>Ketterer, Wilh., Elektroinst., Eisenbahnstr. 5</td></tr><tr><td>221</td><td>Kiem, Joh., Gem. Waren, Kapellenstr. 10.</td></tr><tr><td>253</td><td>Kienzler, Hans, Hüte, Hauptstr. 81</td></tr><tr><td>316</td><td>Kirchner, Lorenz, Eisfabr., Hauptstr. 101</td></tr><tr><td>437</td><td>Kirchner, W., Wäscherei, Hauptstr. 101</td></tr><tr><td>272</td><td>Kist, Adolf, Mühle, Oberachern.</td></tr><tr><td>423</td><td>Kist, Anton, Kohlen, Lauf, Oststr. 41</td></tr><tr><td>271</td><td>Kleber, Otto, Schreibwr., Hauptstr. 19</td></tr><tr><td>341</td><td>Klem, Josef, Metzgerel, Hauptstr. 61.</td></tr><tr><td>550</td><td>Kloster der Franziskanerinnen, Erlenbad b.<br/>Obersasbach (Baden)</td></tr><tr><td>AA1</td><td>Knorr Ann Architekt Fontanenhofstr 1</td></tr></table></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 991\" data-label=\"Text\"><p>556 Koch, Franz, Bäckerei, Gr. Weier, Ortsstr. 1<br/>406 Koch, Jos., Sattlerei, Hauptstr. 82.<br/>713 Köninger, Wilh., Brennerei, Obersasbach<br/>476 Kohler, Dr. Arzt, Ad.HitlerStr. 9<br/>640 Kohler jr. Dr., Arzt, Friedrichstr. 6<br/>601 Kraemer, Rich., Bürgermstr., Sasb.Str. 17<br/>SmI.-Nr. 351 { Krankenhaus, Städtisches, Achern (Baden),<br/>Josef-Wurzler-Straße<br/>391 Krankenschwersternhaus, Kath., Unsh.Str. 2<br/>485 Kraus, Franz, Metzger, Oberachern, Hptstr. 72<br/>301 Kreisfeuerwehrführer<br/>422 Kreishandwerkerschaft, Hauptstr. 114<br/>222 Kropp, Friedr., Kohlenhdlg., Hauptstr. 106.<br/>238 Kühner, E., Sägemühle, Sasbach.<br/>238 Kühner &amp; Berges, Branntwein, Sasbach<br/>405 Kupferschmid, H., Prof., Sasbachwalden<br/>358 Kurz, Georg, Manufakturwarengeschäft.<br/>241 Kurz, Max, Obst, Sasbach.<br/>448 Lamm, Eugen, Fahrzeuge, Hauptstr. 66<br/>290 Landhaus Villa Fuchs, Sasbachwalden</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 975\" data-label=\"Text\"><p>207 <b>LANGEN, LANG U. VIER-VOHN, OBERASCHACH</b><br/>578 Lang, Jos., Obstversand, Obersasbach, Erlenbadstr. 196<br/>295 Lang, Dr. Max Th., R.-A., Eisenbahnstr. 2.<br/>404 Lang, Ralm., Brauerei, Sasbach<br/>564 Lauinger, Karl, Vertreter<br/>717 Lederer, Jos., Kaufm., Ad.-Hitler-Str. 8<br/>354 Licht, Dr. Friedr., Papierhdlg., Obersasbach<br/>374 Lingenfelser, Otto, Weinversand, Oberachern<br/>716 Lipp, Ludw., Gasthaus, Sasbach<br/>486 Lipp jr., Th., Landesprod., Sasbach, ErlenbStr 90<br/>(661) Lorenz, Karl, Malermeister<br/>450 Lott, Alfr., Hartpappenfbr., Oberachern<br/>355 Lott, Ww. Ethel, Oberachern, Alleih. Str. 22<br/>348 F. H. Lott &amp; Co, Hartplattenwerk, Oberachern<br/>891 Madlinger jr., Aug., Kohlen, Lindenbr. Str 8<br/>659 Maier, Johanna, Hebamme, Oberachern<br/>350 Marienheim Erlenbad, Obersasbach.<br/>264 Mattes, Ant., Schlosserei Ad. Hitler Str.<br/>224 Maurath, Friedr., Viehhdlr., Sasbach, Bachstr.<br/>368 Mechanische Ziegelfabrik, Oberachern.</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"165 700 171 725\" data-label=\"Text\"><p>.</p></div><div data-bbox=\"646 670 652 695\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 10 998 970\" data-label=\"Text\"><p>634 Aug. u. Rosa Meier, Schneiderei, Hauptstr. 118<br/>230 Meier, Frz., Fuhruntern., Eisenbahnstr. 9<br/>263 Menzer, Ww. Wilh., Vertr., Ad.HitlerStr. 34<br/>487 Merk, Karl, Dentist, Eisenbahnstr. 2.<br/>576 Meyer, Otto, Zimmergesch., Eisenb.Str. 20<br/>426 Mittelbad. Baustoff-Vertr., Am Bahnhof<br/>207 Mittelbad. Bote, Hauptstr. 120<br/>653 Mittelbad. Papiermanuf., Fautenbacher Str. 24<br/>449 Möcklin, Karl, Weiß- u. Wollwaren.<br/>370 Moll, Wilh., Prokurist, Friedrichstr. 12<br/>215 Morgenthaler, Bernh., Sägewerk, Oberachern<br/>276 Morgenthaler, Wend., Lehrer, Unzhursterstr.<br/>720 Müller, Bernh., Zementwr., Großweier<br/>604 Müller, Paul, Dipl.-Ing., Allerheiligenstr. 34<br/>680 Mehren, A., Install., Hauptstr. 34.<br/>710 v. Neufville-Aubach, Obersasbach<br/>560 v. Neufville, Gustav Adolf, Schloßgut Aubach<br/>633 Nock, Reinh., Autovermiet., Wassergasse 7<br/>492 Nocke, Dr. Hugo, Arzt, Fautenb.Str. 26<br/>571 NSDAP., Ortsgr., NS.-Volkswohlf., Friedr.Str. 13<br/>531 Dies., Hitlerjugend</p></div><div data-bbox=\"17 967 998 993\" data-label=\"Text\"><p>200 Tries Wirtsh. Wirtshaus Wirtshaus Wirtshaus</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 992\" data-label=\"Text\"><p>626 Oberle, Alfr., Theod., Sasbach, Hauptstr. 220<br/>446 Olga-Medizinaldrogerie, Hauptstr. 17.<br/>662 Ortenauer Milchzentrale GmbH, Rosenstr. 10<br/>280 Otteni, Alfred, Metzgerel, R.Wagnerstr. 7<br/>306 Pache, Max, Photogr. Anst., Hauptstr. 95.<br/>527 Pelzer, Joh., Motorfahrzeug<br/>205 Peter, Hans, W., Weine u. Branntweine<br/>430 Peter, Osk. Jg., Blechnermstr., Hauptstr. 22<br/>339 Peter &amp; Cie, Lebensmittel<br/>372 Pfrommer, Paul, Tapez., Ad.HitlerStr. 14<br/>475 Rabolt, Anton, Manuf.-W., Hauptstr. 37.<br/>356 Rees, R.A., Ad.HitlerStr.<br/>577 Rehn, L., Prok., Oberachern, KappStr. 135<br/>388 Reichsarbeitsdienst, Abt. 2/271<br/>386 Derselbe, weibl. Jugend<br/>331 Reichsbahn, Bahnhof<br/>395 Dieselbe, Güterabfertigung<br/>603 Reichsfinanzverwaltung, Finanzamt<br/>563 Dieselbe, Zollamt, Eisenbahnstr.<br/>330 Reichsnährst. Landbauaußenst., Schillerstr.<br/>590 Reichspost, Amtsvorsteher</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 981\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>U.S.</th>\n<th>Deutsch, u. s. w., Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>379</td>\n<td>Jos. u. Herm. Rest, Autorepar., Oberachern</td>\n</tr>\n<tr>\n<td>259</td>\n<td>Router, Gerhard, Weinhandlung, Achern, Fautenbacherstr. 30</td>\n</tr>\n<tr>\n<td>464</td>\n<td>Riegelberger, Jos., Kol.-W., Önsbach.</td>\n</tr>\n<tr>\n<td>480</td>\n<td>Riegelsberger, Leo, Likörfbr.</td>\n</tr>\n<tr>\n<td>608</td>\n<td>Rischert, Ad., Färberel, Eisenbahnstr. 8</td>\n</tr>\n<tr>\n<td>689</td>\n<td>Rösch, Rudolf, Mechan., Oberachern, Hauptstr.</td>\n</tr>\n<tr>\n<td>311</td>\n<td>Rösinger, Kurt, Geschenkhaus, Hauptstr. 27</td>\n</tr>\n<tr>\n<td>621</td>\n<td>Rösinger, Leop., Weiß- u. Wollwr.</td>\n</tr>\n<tr>\n<td>661</td>\n<td>A. u. I. Ross, Tabak, Hauptstr. 73</td>\n</tr>\n<tr>\n<td>285</td>\n<td>Roth, Alfr., Fahrräder, Hauptstr. 76</td>\n</tr>\n<tr>\n<td>425</td>\n<td>Roth, Wilh., Autorepar., Fautenb. Str.</td>\n</tr>\n<tr>\n<td>482</td>\n<td>Rothermel, Eugen, Zahnarzt, Hauptstr. 102.</td>\n</tr>\n<tr>\n<td>438</td>\n<td>Rudolph, Karl, Blerniederlage, Sasbach</td>\n</tr>\n<tr>\n<td>502</td>\n<td>Rüger, Karl, Dentist, Oberachern</td>\n</tr>\n<tr>\n<td>631</td>\n<td>Sackmann &amp; Berger, Schreinerei, Sasbachw.</td>\n</tr>\n<tr>\n<td>455</td>\n<td>Sauer, Agatha, Bekleidung</td>\n</tr>\n<tr>\n<td>718</td>\n<td>Scheurer, Dionys, Metzger, Lauf, Kirchstr. 147</td>\n</tr>\n<tr>\n<td>406</td>\n<td>Schlick, Max, Möbelhaus, Hauptstr. 82</td>\n</tr>\n<tr>\n<td>552</td>\n<td>Schmäzle, Ant., Metzgerei, Hauptstr. 89</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>201</td>\n<td>Schmid jr., Carl, Dipl.-Ing.</td>\n</tr>\n<tr>\n<td>628</td>\n<td>Schmidt, Alois, Archit., Lauf, Steing. 222</td>\n</tr>\n<tr>\n<td>279</td>\n<td>Schmitt, Otto, Metzgermstr., Oberachern.</td>\n</tr>\n<tr>\n<td>549</td>\n<td>Schneider, Franz Jos., Brennerei, Mösbach</td>\n</tr>\n<tr>\n<td>343</td>\n<td>Schneider, Karl, Bäckermstr., R.WagnerStr. 4</td>\n</tr>\n<tr>\n<td>616</td>\n<td>Schneider, Karl, Gärtnerei, Kirchstr. 27</td>\n</tr>\n<tr>\n<td>473</td>\n<td>Schneider, Rud., Amtsgerichtarat</td>\n</tr>\n<tr>\n<td>403</td>\n<td>Schneider, Rud., Metzger, Lindenbr.Str. 5</td>\n</tr>\n<tr>\n<td>332</td>\n<td>Schnurr, Ant., Hutfbr., Kirchstr. 15</td>\n</tr>\n<tr>\n<td>309</td>\n<td>Schnurr, Ww. Frz., Stuhlfbr., Engelstr. 1</td>\n</tr>\n<tr>\n<td>554</td>\n<td>Schnurr, Gust., Schreinerel, Unzh. Str. 4</td>\n</tr>\n<tr>\n<td>204</td>\n<td>Schönmetzler, E., Manufakturwr., Lauf</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Schöttgen, Franz, Buchbinderei, Hauptstr. 78.</td>\n</tr>\n<tr>\n<td>365</td>\n<td>Schofer, Anton, Platz d. SA. 8</td>\n</tr>\n<tr>\n<td>630</td>\n<td>Scholl, Alb., Metzgerei, Hauptstr. 62</td>\n</tr>\n<tr>\n<td>353</td>\n<td>Schriever, Friedr., Eisenbildg., Hauptstr. 56.</td>\n</tr>\n<tr>\n<td>329</td>\n<td>Schriever &amp; Co., Lebensmittel, Eisenbahnstr.12.</td>\n</tr>\n<tr>\n<td>439</td>\n<td>Schüppert, M., Prok., Oberachern, Ulmer<br/>Straße 272</td>\n</tr>\n<tr>\n<td>681</td>\n<td>Schule für Volksdeutsche</td>\n</tr>\n<tr>\n<td>160</td>\n<td>Schulzen-Asten u Reinhardt Erlenhauis Ober.</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 18 988 970\" data-label=\"Text\"><p>320 Steimel, Alb., Papierhdlg., Oberachern<br/>219 Steimel, K., Stuhlfbr., Oberachern, Ill.Str. 32<br/>229 Steimer, Franz, Nähmaschinen, Fautenb.Str. 2<br/>428 Steinle jr., Andr., Autovermietung<br/>282 Stelzl, Jak., Manufakturw., Adlerpl. 32.<br/>519 Stinus, Friedr., Schreinerei, Kapellenstr. 17<br/>547 Stockinger, Th., Wagenbau, Rosenstr. 29<br/>280 Stoeckle, Hans, Sasbachwalden, Vogelsberg<br/>540 Stösser, Ad., Mühlenbau, Goethestr.<br/>497 Stolzer, Karl, Maschinenfbr., Wiesenstr. 1.<br/>237 Straßenbauamt, Hauptstr. 103<br/>543 Straßenbaumstr.<br/>611 Straub, Joh., Gärtner, Sasbacherstr. 27<br/>488 Striebel, Val., Manuf.-W., Obersasbach.<br/>310 Sutterer &amp; Cie., Brennerel, Mösbach.<br/>308 Thoemelt, Hans, Sasbachwalden, Büchelbach<br/>360 Thoma, Dr. E., Med.-Rat, Friedrichstr. 16<br/>223 Tisch, Ignaz, Schreinerstr., Oberachern<br/>584 Tivoli-Lichtspiele, Allerheiligenstr. 12<br/>586 Trenkle, H., Oberpfarrer, Goethestr. 17</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"732 146 743 176\" data-label=\"Text\"><p>■</p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 6 770 993\" data-label=\"List-Group\"><p>641 Überlandwerk Achern, Hauptstr 70<br/>617 Dieselbe, Kraftwerk Lauf<br/>636 Dieselbe, Kraftwerk Sasbachwalden<br/>606 Dieselbe, O. Kölsch, Insp., Oberachern<br/>338 Unitas GmbH, Buchdruckerei, Hauptstr. 45<br/>520 Vierneisel, Jos., Gärtnerei, Martinstr. 11.<br/>436 Villinger, Adolf, Autoverm., Eisenbahnstr. 6<br/>255 Vogt, Karl, Kohlen, Oberachern.<br/>459 Vogt, Herzberg &amp; Co., Fichtennadelpräp. Fbr..<br/>Oberachern<br/>651 Volksbank Achern eGmbH, Eisenbahnstr. 15<br/>721 Volksdeutsche Mittelstelle, Umsiedlg.<br/>277 Vorschußverein Sasbach eGmbH, Sasbach<br/>361 Wald, Jos., Bierverlag, alter Bahnhof<br/>709 Walter, Kwf., Obersasbach, Erlenbadstr. 5<br/>296 Walter, Karl, Gipsermstr., Kapellenstr. 18.<br/>242 Wassmer, Jos., Architekt Eisenbahnstr. 2<br/>654 Weber, Joh., Obst, Fautenbach, Dorfstr. 43<br/>537 Weber, Jos., Metzgerei, Önsbach<br/>364 Weber, Ww. Jos., Kaufmann, Önsbach<br/>493 Weber &amp; Schmid, Zimmereigesch., Oberachern<br/>045 Weinhandl. Adolf Altmot Hauptstr. 6</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 767 991\" data-label=\"Text\"><p>427 Weinhardt, Arthur, Aitm., Acherstr. 5<br/>381 Weinstein, Jos., Obst, Oberachern.<br/>286 Weisenbach, Franz, Schreinerstr., Sasbach.<br/>551 Weisenhorn, Dr. Franz, Arzt, Ad.-Hitler-Str.<br/>569 Weiß, Andreas, Gärtnerei, Lauf<br/><b>525 Wetzstein-Fabrik, Inhaber: Wilh. Schmidt,<br/>Achern (Baden), Kirchstraße 14</b><br/>529 Winterer, Otto, Hauptlehrer, Großweier<br/>484 Witz, Herm., Rohprod., Fautenbacherstr. 20<br/>565 Wölfl, Walter Damensalon, Eisenb.Str. 2<br/>531 Wörner, Guido, Branntweinhdl., Feinkost<br/>665 Wörner, Gust., Papiervertr., R.-Wagner-Str. 13<br/>421 Wolf, Heinr., Archit., Sasbachwalden<br/>472 Wortmann, Alfr., Photohaus, Ad.-Hitler-Str. 10<br/>317 Wurster, Alb., Fuhruntern., Ad.-Hitler-Str. 21<br/>314 Wursthorn, Karl, Obstkelterei, Oberachern<br/><b>212 J. H. Ziegler G. m. b. H., Wattfabrik, Ober-<br/>achern, gegr. 1864, große Wasserkraft</b><br/>307 Zimmer, Alb., Holzhandlung<br/>583 Derselbe, Wohn., Sasbachwalden<br/>256 Zimmer, Herm., Sägewerk, Lauf.</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 551 125\" data-label=\"Text\"><p>400 Zink, Josef, Gemischtwaren, Sasbach</p></div><div data-bbox=\"11 125 625 375\" data-label=\"Text\"><p>402 Zink, Josef, Gemischtwaren, Sasbach</p></div><div data-bbox=\"11 375 551 625\" data-label=\"Text\"><p>387 Zink, Jos., Kohlen, Obersasbach</p></div><div data-bbox=\"11 625 678 875\" data-label=\"Text\"><p>685 Zink, Jos., Steinhauergesch., Fautenbach</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Achim (Kreis Verden) [Hann.]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 755 992\" data-label=\"Text\"><p>310 Behr, Carl, Zigarrenfabr.<br/>207 Behrens, H., Tierarzt, Obernstr. 454.<br/>235 Beyer &amp; Brockmann, Zigarrenfabrik<br/>343 Bischoff, Alb., Kolonialwr., Baden 223.<br/>424 Bischoff, Heinr., Gastw., Mühlenstr.<br/>282 Bischoff Ww. Herm., Gastw., Achimermarsch<br/>315 Bischoff, Wilh., Baugesch., Georgstr. 499<br/>323 Bischoff, Willy, Kfm., Haus Landruhe.<br/>407 Böhnke, Dr. H., Arzt, BorstelerLandstr. 382<br/>408 Borchers, Hans, Möbel, Obernstr. 557<br/>303 Brand, Bernard, Kfm., Uesen 35<br/>304 Braun, Fr. W., Oele, Obernstr. 265<br/>354 Bremer Hartsteinwerk, A. Reiners, Uphusen.<br/>358 Brüns, Hinrich, Bauer, Embsen 14<br/>425 Brüns, Hinr., Auktionator, Obernstr. 350<br/>441 Brüns, Joh., Fuhrw., Bremer Str. 210<br/>277 Brundert, Dr., Zahnarzt, Brückenstr. 424<br/>334 Bruns, Heinrich, Bäcker, Baden, Bahnh.Str.<br/>321 Bruns, W., Schlosserei, Borst.Landstr. 314<br/>(402) Buddelmann, H., Autoverm., Verdener Str. 160<br/>367 Buerfeind. J., Buchhandlg., Obernstr. 71.</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 754 977\" data-label=\"Text\"><p>392 Burhorn, Friedr., Friseur, Obernstr. 293<br/>219 Buschmann, Georg, Maler, Mühlenstr. 331<br/>(401) Carls, Georg, Viehhandlung<br/>269 Claus, H., Baden 12<br/>318 Damms, Karl, Spargelplantage, Uesen 74<br/>245 Daneke, J. B., Bauer, Embsen<br/>398 v. d. Decken, D., Landw., Borstel.<br/>362 Döpke, Carl, Roßschlachter, Bremer Str. 74<br/>(362) Döpke, D., Autovermietung<br/>430 Domnick, H., Nutriazucht, Baden, Kiefernhof<br/>380 v. Düring, Herbert, Gut Baden.<br/>322 Düwell, Dr., Tierarzt, Embser Ldstr. 649<br/>248 Dunz, Heinz, Obergerichtsv., Bremer Str. 247<br/>325 Eggert, Wilhelm, Obernstr. 305<br/>372 Elfers, Herm., Baurat, Bierden 10<br/>241 Elfers, J., Gemüsebau, Feldstr. 20<br/>409 Engelhardt, A., Kreisbaumstr., Obernstr. 426<br/>240 Feuerwehr, Kirchenstr. 8<br/>381 Finanzamt.<br/>412 Finke, Fr. H., Möbelfabrik</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 750 721\" data-label=\"Text\"><p>336 Fischer, Hermann, Kfm., Badener Holz 395<br/>445 Fraab, Ernst, Schiffer, Baden 166<br/>359 Franke, C. F., Kfm., Mühlenstr. 337.<br/>391 Erich Froböse &amp; Co, Obernstr. 94<br/>250 Gasanstalt Achim.<br/>267 Gemeindeverwaltung, Rathaus<br/>416 Gendarmerie-Gruppenposten Achim<br/>264 Gend.-Einzelposten Baden 1<br/>279 Gend.-Einzelposten Baden 2<br/>388 Gercke, F. W., Klempnerei<br/>335 Gieschen, H., Bauer, Embservieh.<br/>239 Graue, Herm., Gastw., Bollen<br/>350 Grehn, Gerhard, Bierfederlage, Buesstr. 261<br/>201 Gretzschel, Wäscherei, Str. d. Erhebung 561<br/>370 Gretzschel, A., Feinkost, Brückenstr. 560</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,975 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 10 998 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>85 10 94</td>\n<td>Grießbach, E.,</td>\n<td>Zehl Mörchinger Str. 56</td>\n</tr>\n<tr>\n<td>79 33 78</td>\n<td>Grießbach, Max,</td>\n<td>Oberreg.Rat, Stegl Bis-<br/>markstr. 8</td>\n</tr>\n<tr>\n<td>97 83 34</td>\n<td>Grießdorf, Harry,</td>\n<td>Reg.-Rat, Chb 4 Ro-<br/>scherstr. 16</td>\n</tr>\n<tr>\n<td>56 39 16</td>\n<td>Griesse, Frida,</td>\n<td>Weiß Langhansstr. 61</td>\n</tr>\n<tr>\n<td>21 46 93</td>\n<td>Griessel, W.,</td>\n<td>Ing., W 35, Lützowufer 1</td>\n</tr>\n<tr>\n<td>26 22 48</td>\n<td>Grießhammer, W.,</td>\n<td>W 30, Bamberger Str. 30</td>\n</tr>\n<tr>\n<td>31 63 70</td>\n<td>Grießl, Anna,</td>\n<td>Chb 4 Kantstr. 25</td>\n</tr>\n<tr>\n<td>84 11 27</td>\n<td>Grießmeyer, Albert,</td>\n<td>Präsident, Schlach-<br/>Badenweiler Weg 4</td>\n</tr>\n<tr>\n<td>39 97 02</td>\n<td>Grießmeyer, Walter,</td>\n<td>Kfm., NW 21, Bundes-<br/>ratufer 5</td>\n</tr>\n<tr>\n<td>46 75 54</td>\n<td>Grietsch, Gustav,</td>\n<td>N 65, Schererstr. 4</td>\n</tr>\n<tr>\n<td>93 42 54</td>\n<td>Grievig, Hermann,</td>\n<td>Chb Wundtstr. 38</td>\n</tr>\n<tr>\n<td>74 12 51</td>\n<td>Griewank, Karl,</td>\n<td>Dr. phil., Lf Komman-<br/>dantenstr. 18</td>\n</tr>\n<tr>\n<td>68 44 32</td>\n<td>Griewatsch, Richard,</td>\n<td>Autogenschweiß.,<br/>SO 36, Reichenberger Str. 47</td>\n</tr>\n<tr>\n<td>67 28 74</td>\n<td>Griewatz, Emil,</td>\n<td>Bügeleisen, SW 68, An-<br/>nenstr. 9</td>\n</tr>\n<tr>\n<td>10 99 54</td>\n<td>Griewach, F</td>\n<td>Schneid NW 7 II d Lind 24</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 998 983\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>44 89 07</td>\n<td>Griffel, E., Gastw., <i>Reo</i> Thulestr. 30</td>\n</tr>\n<tr>\n<td>58 84 30</td>\n<td>Griffel, E., Vertr., O 112, Wühlischstr. 28</td>\n</tr>\n<tr>\n<td>81 24 69</td>\n<td>Griffel, Ernst E., Wirtsch.-Prüf., <i>Zehl</i><br/>Chamberlainstr. 17</td>\n</tr>\n<tr>\n<td>58 94 50</td>\n<td>Griffel, Marg., Konfit., O 112, Weserstr. 25</td>\n</tr>\n<tr>\n<td>41 24 19</td>\n<td>Griffel, Paul, Gastw., Linienstr. 61a</td>\n</tr>\n<tr>\n<td>79 64 14</td>\n<td>Griffenhagen, Wilh., <i>Stegl</i> Muthes.Str. 18</td>\n</tr>\n<tr>\n<td>72 57 76</td>\n<td>Grigarczik, Eugen, <i>Stegl</i> Fregestr. 42</td>\n</tr>\n<tr>\n<td>59 62 95</td>\n<td>Grigat, A., Bäcker, C 2, Holzmarkstr. 62</td>\n</tr>\n<tr>\n<td>97 73 59</td>\n<td>Grigat, Charl., <i>Hal</i> Karlsruher Str. 10a</td>\n</tr>\n<tr>\n<td>34 33 02</td>\n<td>Grigat, Dora, <i>Chb</i> 5 Kaiserdamm 4</td>\n</tr>\n<tr>\n<td>60 65 07</td>\n<td>Grigat, E., Kol.-W., <i>Buck</i> Chausseestr. 42</td>\n</tr>\n<tr>\n<td>96 24 17</td>\n<td>Grigat, F., Mass., <i>Chb</i> 4 Gervinusstr. 19</td>\n</tr>\n<tr>\n<td>84 49 88</td>\n<td>Grigat, K. W., Angest., <i>Zehl</i> Brodberg 5</td>\n</tr>\n<tr>\n<td>39 38 20</td>\n<td>Grigat, K., Kfm., NW 87, Agricolastr. 10a</td>\n</tr>\n<tr>\n<td>60 18 26</td>\n<td>Grigat, M., Fris., SW 29, Kotth.Damm 91</td>\n</tr>\n<tr>\n<td>79 58 49</td>\n<td>Grigat, P., Café, <i>Stegl</i> Eichgarten 15</td>\n</tr>\n<tr>\n<td>35 56 74</td>\n<td>Grigat, Rudolf, Mechan.-Mstr., NW 21,<br/>Putlitzstr. 15</td>\n</tr>\n<tr>\n<td>97 24 93</td>\n<td>Grigat, W., Kraftf., <i>Hal</i> J.-Friedr.-Str. 27</td>\n</tr>\n<tr>\n<td>46 88 40</td>\n<td>Grigat, Wilhelm, Mineralw.Fbr., N 65, Lie-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "97",
+            "text": "71"
+          },
+          {
+            "extension": "63",
+            "text": "43"
+          },
+          {
+            "extension": "99",
+            "text": "51"
+          },
+          {
+            "extension": "75",
+            "text": "13"
+          },
+          {
+            "extension": "84",
+            "text": "27"
+          },
+          {
+            "extension": "73",
+            "text": "72"
+          },
+          {
+            "extension": "93",
+            "text": "19"
+          },
+          {
+            "extension": "72",
+            "text": "79"
+          },
+          {
+            "extension": "64",
+            "text": "99"
+          },
+          {
+            "extension": "59",
+            "text": "60"
+          },
+          {
+            "extension": "58",
+            "text": "42"
+          },
+          {
+            "extension": "89",
+            "text": "71"
+          },
+          {
+            "extension": "85",
+            "text": "26"
+          },
+          {
+            "extension": "93",
+            "text": "03"
+          },
+          {
+            "extension": "26",
+            "text": "27"
+          },
+          {
+            "extension": "97",
+            "text": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"249 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>26 25 69</td>\n<td>Grigoleit, Kurt, Hauptm., W 30, Rosenheimer Str. 17</td>\n</tr>\n<tr>\n<td>65 61 61</td>\n<td>Grigoleit, M., Ing., <i>Grü</i> Schirnerstr. 7a</td>\n</tr>\n<tr>\n<td>7947 81</td>\n<td>Grigoleit, Otto, Droschkenbetr., <i>Stegl</i> Pöschinger Str. 35</td>\n</tr>\n<tr>\n<td>92 72 37</td>\n<td>Grigoleit, Toni, <i>Wilm</i> Wittelsb.Str. 5a</td>\n</tr>\n<tr>\n<td>30 10 63</td>\n<td>Grigoleit, Willy, Angest., <i>Siem</i> Jungfernheldeweg 35</td>\n</tr>\n<tr>\n<td>52 46 25</td>\n<td>Griegorieff, H., Verw., C 2, Königstr. 40</td>\n</tr>\n<tr>\n<td>48 30 88</td>\n<td>Griegorieff, H., Kfm., <i>Pko</i> Florastr. 79</td>\n</tr>\n<tr>\n<td>44 79 01</td>\n<td>Griegorieff, M., Goldwr., <i>Pko</i> Woll.Str.100</td>\n</tr>\n<tr>\n<td>34 05 11</td>\n<td>Grigoroff, I., Moden, <i>Chb</i> 1 Cauerstr. 2</td>\n</tr>\n<tr>\n<td>42 79 41</td>\n<td>Grigotelt, G., Milch, N 4, Artilleriestr. 2</td>\n</tr>\n<tr>\n<td>47 27 87</td>\n<td>Griguhn, F., Ing., <i>Hrnsd</i> Triniusstr. 7</td>\n</tr>\n<tr>\n<td>56 21 89</td>\n<td>Griguhn, G., Gemüsebau, <i>Malch</i> Dorfstr.23</td>\n</tr>\n<tr>\n<td>71 08 25</td>\n<td>Griguhn, Herb., Dent., <i>Schb</i> Heylstr. 3</td>\n</tr>\n<tr>\n<td>76 56 61</td>\n<td>Grigull, H., Ing., <i>Ltf</i> Prausestr. 30</td>\n</tr>\n<tr>\n<td>96 21 49</td>\n<td>Grigull, Hedwig, <i>Hal</i> Hobrechtstr. 14</td>\n</tr>\n<tr>\n<td>57 29 50</td>\n<td>Griguscheit, Heinz, Dr. med., O 112, Frankfurter Allee 301</td>\n</tr>\n<tr>\n<td>25 36 77</td>\n<td>Griguzelt, Heinz, W 50, Kulmbacher Str. 7</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 991 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>49 56 46</td>\n<td>Grill jr., Conrad, Fuhrbetr., <i>ReiW</i> Scharnweßerstr. 15</td>\n</tr>\n<tr>\n<td>49 51 72</td>\n<td>Grill sen., Conrad, Eigent., <i>ReiW</i> Scharnweberstr. 15</td>\n</tr>\n<tr>\n<td>49 42 65</td>\n<td>Grill, Gerh., Kfm., <i>Wru</i> Goethestr. 38</td>\n</tr>\n<tr>\n<td>67 58 27</td>\n<td>Grill, Hans, Baugeschäft, Berlin 80 16, Michaelkirchplatz 20</td>\n</tr>\n<tr>\n<td>30 81 09</td>\n<td>Grill, Käthe, Konradshöhe, Stößerstr. 32</td>\n</tr>\n<tr>\n<td>46 07 33</td>\n<td>Grill, Karl, Ing., N 65, Togostr. 33</td>\n</tr>\n<tr>\n<td>46 38 26</td>\n<td>Grill, Magdalene, Zigarren, N 65, Nazarethkirchstr. 51</td>\n</tr>\n<tr>\n<td>87 51 98</td>\n<td>Grill, Rud., Tapez., <i>Wilm</i> Sächs.Str. 38</td>\n</tr>\n<tr>\n<td>47 30 30</td>\n<td>Grill, Walt., <i>Fro</i> Königsbacher Zeile 39</td>\n</tr>\n<tr>\n<td>56 40 46</td>\n<td>Grille Söhne, Adolf, Gartenbau, <i>Weiß</i> Parkst aBe 86</td>\n</tr>\n<tr>\n<td>17 72 59</td>\n<td>Dies., Lindenhalle, SW 68, Lindenstr. 97</td>\n</tr>\n<tr>\n<td>86 31 31</td>\n<td>Grille, Alf., Kfm., <i>Wilm</i> Holstein.Str. 1</td>\n</tr>\n<tr>\n<td>81 74 22</td>\n<td>Grille, Dr. H., Präs., <i>Chb</i> 2 Carmerstr. 14</td>\n</tr>\n<tr>\n<td>76 38 09</td>\n<td>Grillo, Lotte, <i>Lt/</i> U.d.Eichen 103a</td>\n</tr>\n<tr>\n<td>19 77 32</td>\n<td>Grimaldi, Pasquale, Kfm., SW 11, Saar-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"243 11 990 959\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>50 93 87</td>\n<td>Grinberg, E., Angest.,</td>\n<td>Msd Fauststr. 6</td>\n</tr>\n<tr>\n<td>26 45 23</td>\n<td>Grünberg, H., Techn.,</td>\n<td>W 30, Münch.Str.23</td>\n</tr>\n<tr>\n<td>53 04 31</td>\n<td>Grinberg, Margarete,</td>\n<td>Zigarren, NO 55,<br/>Greifswalder Str. 31</td>\n</tr>\n<tr>\n<td>46 15 32</td>\n<td>Grimberger, Käthe,</td>\n<td>Café, N 65, Seestr. 113</td>\n</tr>\n<tr>\n<td>44 86 31</td>\n<td>Grimberger, Karl,</td>\n<td>Kohlen, N 58, Schwedter-<br/>straße 36</td>\n</tr>\n<tr>\n<td>56 02 12</td>\n<td>Grünberger, W.,</td>\n<td>Berl. Allee 160</td>\n</tr>\n<tr>\n<td>25 41 29</td>\n<td>v. Grimburg, Karl,</td>\n<td>W 35, Corneliusstr. 4</td>\n</tr>\n<tr>\n<td>63 46 73</td>\n<td>Grimm, Obw</td>\n<td>Zeppelinstr. 1</td>\n</tr>\n<tr>\n<td>86 05 14</td>\n<td>Grimm, Adolf,</td>\n<td>Wilm Schoelerpark 5</td>\n</tr>\n<tr>\n<td>99 57 40</td>\n<td>Grimm, Ad., Kfin.,</td>\n<td>Chb 9 Reichsstr. 106</td>\n</tr>\n<tr>\n<td>86 36 82</td>\n<td>Grimm, Aenne,</td>\n<td>Wilm Livländische Str. 7</td>\n</tr>\n<tr>\n<td>84 80 65</td>\n<td>Grimm, Agnes,</td>\n<td>Zehl Heimdallstr. 65a</td>\n</tr>\n<tr>\n<td>46 29 57</td>\n<td>Grimm, A., Fuhrw.,</td>\n<td>N 65, Reinick.Str. 117</td>\n</tr>\n<tr>\n<td>21 04 80</td>\n<td>Grimm, Alb., Makl.,</td>\n<td>W 35, Potsd. Str. 121</td>\n</tr>\n<tr>\n<td>51 18 60</td>\n<td>Grimm, Albert,</td>\n<td>Geschäfts., C 2, Horst-<br/>Wessel-Str. 18</td>\n</tr>\n<tr>\n<td>31 94 18</td>\n<td>Grimm, Alfred,</td>\n<td>Ing., Chb 4 Kantstr. 69</td>\n</tr>\n<tr>\n<td>58 37 36</td>\n<td>Grimm, Anna,</td>\n<td>O 112, Pettenkoferstr. 37</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "- - - - - - - - - - -",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "und 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 11 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>46 83 58</td>\n<td>Grimm, Anna, Schneid., N 65, Malplaquetstr. 7</td>\n</tr>\n<tr>\n<td>97 63 40</td>\n<td>Grimm, Art., Foto, Hal Cicerostr. 2</td>\n</tr>\n<tr>\n<td>92 31 65</td>\n<td>Ders., Wohn., Wilm Zähringerstr. 5</td>\n</tr>\n<tr>\n<td>48 63 08</td>\n<td>Grimm, Art., Ing., Pko Grusemarkstr. 1</td>\n</tr>\n<tr>\n<td>31 69 18</td>\n<td>Grimm, Auguste, Chb 4 Wielandstr. 11</td>\n</tr>\n<tr>\n<td>68 50 20</td>\n<td>Grimm, Auguste, Siebwr., SO 36, Skalitzestraße 36a</td>\n</tr>\n<tr>\n<td>22 12 71</td>\n<td>Grimm, C., Tischl., W 35, Lützowufer 1</td>\n</tr>\n<tr>\n<td>87 03 71</td>\n<td>Grimm, Charl., Wilm Sächsische Str. 2</td>\n</tr>\n<tr>\n<td>86 91 12</td>\n<td>Grimm, Dora, Vertr., Wilm W.-Fischer Straße 24</td>\n</tr>\n<tr>\n<td>86 87 71</td>\n<td>Grimm, Dorothea, Wilm Stenzelstr. 75</td>\n</tr>\n<tr>\n<td>61 26 08</td>\n<td>Grimm, Eduard, Beleucht.Körp., SW 68 Ritterretr. 111</td>\n</tr>\n<tr>\n<td>(91 75 84)</td>\n<td>Grimm, Elfrit, Tanz, W 15, Fasanenstr. 6</td>\n</tr>\n<tr>\n<td>72 39 95</td>\n<td>Grimm, Elis., Skr., Stegl Amfort.Weg 35</td>\n</tr>\n<tr>\n<td>30 35 97</td>\n<td>Grimm, Elisabeth, Chb 1 Klaustaler Str. 2</td>\n</tr>\n<tr>\n<td>99 29 87</td>\n<td>v. Grimm, Elis., Chb 9 Platanenallee 14</td>\n</tr>\n<tr>\n<td>35 03 57</td>\n<td>Grimm, Elisabeth, Zigarren, NW 40, Melanchthonstr. 11</td>\n</tr>\n<tr>\n<td>17 22 20</td>\n<td>Grimm W. Dichter SW 22 Friedr Str. 1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 987\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>31 91 64</td>\n<td>Grimm, Emma, <i>Chb</i> 4 Wilmersd. Str. 104</td>\n</tr>\n<tr>\n<td>44 01 23</td>\n<td>Grimm, Emmi, Felltierfbr., N 20, Stettiner Straße 43</td>\n</tr>\n<tr>\n<td>46 10 15</td>\n<td>Grimm, Erich, Bootsbeschläge, N 65, Liebenwalder Str. 32</td>\n</tr>\n<tr>\n<td>32 31 51</td>\n<td>Grimm, Dr. Erich, Arzt, <i>Chb</i> 2 Bleibtreustraße 50</td>\n</tr>\n<tr>\n<td>87 63 95</td>\n<td>Grimm, E., Kfm., <i>Wilm</i> Emser Str. 3</td>\n</tr>\n<tr>\n<td>26 32 74</td>\n<td>Grimm, E., Transp., W 30, M.LutherStr. 14</td>\n</tr>\n<tr>\n<td>34 84 97</td>\n<td>Grimm, E., Kochm., <i>Chb</i> 5 Oranienstr. 16</td>\n</tr>\n<tr>\n<td>86 67 77</td>\n<td>Grimm, E., Ger.Rat, <i>Hal</i> Seesen.Str. 67</td>\n</tr>\n<tr>\n<td>50 83 45</td>\n<td>Grimm, Ernst, Insp., <i>Misd</i> Kohlisstr. 97</td>\n</tr>\n<tr>\n<td>42 67 76</td>\n<td>Grimm, F. Dentiat, C 2, Rosent.Str. 32</td>\n</tr>\n<tr>\n<td>83 14 78</td>\n<td>Grimm, Fr., Angest., <i>Stegl</i> Albr.Str. 38</td>\n</tr>\n<tr>\n<td>57 14 19</td>\n<td>Grimm, Franz, Fuhw., O 112, Kreutzigerstraße 14</td>\n</tr>\n<tr>\n<td>67 05 42</td>\n<td>Grimm, Franz, Satinieranst., SO 16, Melchiorstraße 30</td>\n</tr>\n<tr>\n<td>66 42 58</td>\n<td>Grimm, F., Vertr., SW 29, Hasenheide 55</td>\n</tr>\n<tr>\n<td>22 01 04</td>\n<td>Grimm, Prof. Dr. Fr., RA.[N], Großadmiral-v.-Koester-Ufer 61</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "U 2 U 3 U 4 U 5 U 6 U 7 U 8 U 9 U 10 U 11 U 12 U 13 U 14 U 15 U 16 U 17 U 18 U 19 U 20 U 21 U 22 U 23 U 24 U 25 U 26 U 27 U 28 U 29 U 30 U 31 U 32 U 33 U 34 U 35 U 36 U 37 U 38 U 39 U 40 U 41 U 42 U 43 U 44 U 45 U 46 U 47 U 48 U 49 U 50 U 51 U 52 U 53 U 54 U 55 U 56 U 57 U 58 U 59 U 60 U 61 U 62 U 63 U 64 U 65 U 66 U 67 U 68 U 69 U 70 U 71 U 72 U 73 U 74 U 75 U 76 U 77 U 78 U 79 U 80 U 81 U 82 U 83 U 84 U 85 U 86 U 87 U 88 U 89 U 90 U 91 U 92 U 93 U 94 U 95 U 96 U 97 U 98 U 99 U 100",
+        "entries": [
+          {
+            "extension": "19",
+            "text": "78 83 Grinn, Frieda, SW 11, Bernburger Str. 30"
+          },
+          {
+            "extension": "89",
+            "text": "32 21 Grimm, F.-K., Kompon., Grw Tepl.Str. 5"
+          },
+          {
+            "extension": "44",
+            "text": "86 60 Grimm, Fr., Ing., N 20, Bellermannstr. 21"
+          },
+          {
+            "extension": "48",
+            "text": "26 17 Grimm, Fritz, Pko Dettelbacherweg 27"
+          },
+          {
+            "extension": "63",
+            "text": "73 49 Grimm, F., Schuhm., Adl Volksw.Str. 116"
+          },
+          {
+            "extension": "17",
+            "text": "28 56 Grimm, Fritz, Seldenwr., SW 68, Schützen- straße 10"
+          },
+          {
+            "extension": "71",
+            "text": "99 65 Grimm, G., Dir., Schö Meraner Str. 48"
+          },
+          {
+            "extension": "84",
+            "text": "23 09 Grimm, Gerd., Kfm., Zehl Waldhüterpf. 81"
+          },
+          {
+            "extension": "79",
+            "text": "72 17 Grinum, Gertr., Buchb., Stegl SchlöBstr. 32"
+          },
+          {
+            "extension": "63",
+            "text": "12 95 Grimm, Gustav, Schornsteinf.Matr., Bschw Heidekampweg 36"
+          },
+          {
+            "extension": "66",
+            "text": "71 84 Grimm, H., Vertr., SW 61, Geibelstr. 6"
+          },
+          {
+            "extension": "62",
+            "text": "91 60 Ders., Rep.Werkst., Neuk EmserStr. 86"
+          },
+          {
+            "extension": "30",
+            "text": "78 23 Grimm, Hans, Insp., Konradshöhe, Elster- gasse 20"
+          },
+          {
+            "extension": "92",
+            "text": "45 31 Grimm, H., Tonmstr., Wilm Zähr.Str. 5"
+          },
+          {
+            "extension": "39",
+            "text": "25 04 Grimm Hans, Kfm., NW 87, Jagowstr. 15"
+          },
+          {
+            "extension": "34",
+            "text": "33 54 Grimm, Hedwig, Lehr., Chb Hebelstr. 17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "22",
+            "text": "59"
+          },
+          {
+            "extension": "84",
+            "text": "85"
+          },
+          {
+            "extension": "49",
+            "text": "31"
+          },
+          {
+            "extension": "60",
+            "text": "13"
+          },
+          {
+            "extension": "96",
+            "text": "18"
+          },
+          {
+            "extension": "31",
+            "text": "96"
+          },
+          {
+            "extension": "83",
+            "text": "19"
+          },
+          {
+            "extension": "83",
+            "text": "38"
+          },
+          {
+            "extension": "62",
+            "text": "53"
+          },
+          {
+            "extension": "39",
+            "text": "28"
+          },
+          {
+            "extension": "74",
+            "text": "10"
+          },
+          {
+            "extension": "74",
+            "text": "10"
+          },
+          {
+            "extension": "80",
+            "text": "76"
+          },
+          {
+            "extension": "19",
+            "text": "34"
+          },
+          {
+            "extension": "85",
+            "text": "01"
+          },
+          {
+            "extension": "87",
+            "text": "10"
+          },
+          {
+            "extension": "22",
+            "text": "24"
+          },
+          {
+            "extension": "95",
+            "text": "45"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "27",
+            "text": "35"
+          },
+          {
+            "extension": "87",
+            "text": "45"
+          },
+          {
+            "extension": "39",
+            "text": "84"
+          },
+          {
+            "extension": "41",
+            "text": "48"
+          },
+          {
+            "extension": "62",
+            "text": "91"
+          },
+          {
+            "extension": "99",
+            "text": "28"
+          },
+          {
+            "extension": "99",
+            "text": "54"
+          },
+          {
+            "extension": "24",
+            "text": "31"
+          },
+          {
+            "extension": "91",
+            "text": "15"
+          },
+          {
+            "extension": "61",
+            "text": "39"
+          },
+          {
+            "extension": "62",
+            "text": "06"
+          },
+          {
+            "extension": "24",
+            "text": "39"
+          },
+          {
+            "extension": "45",
+            "text": "25"
+          },
+          {
+            "extension": "39",
+            "text": "22"
+          },
+          {
+            "extension": "58",
+            "text": "78"
+          },
+          {
+            "extension": "64",
+            "text": "13"
+          },
+          {
+            "extension": "16",
+            "text": "22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 960\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>72 09 34</td>\n<td>Grimm, Rob., Kfm., <i>Stegl</i> Paulsenstr. 41a</td>\n</tr>\n<tr>\n<td>68 41 00</td>\n<td>Grimm, Robert, Malcreigesch., SO 36,<br/>Falckensteinstr. 46</td>\n</tr>\n<tr>\n<td>44 57 24</td>\n<td>Grimm, R., Fische, N 20, Stettlinerstr. 12</td>\n</tr>\n<tr>\n<td>66 10 85</td>\n<td>Grimm, R., Gastw., SW 29, W. Alexisstr. 31</td>\n</tr>\n<tr>\n<td>49 06 84</td>\n<td>Grimm, Th., <i>ReiW</i> Scharnw. Str. 117</td>\n</tr>\n<tr>\n<td>99 02 84</td>\n<td>Grimm, W., Amtsrat, <i>Chb</i> 9 Reichsstr. 69</td>\n</tr>\n<tr>\n<td>19 75 63</td>\n<td>Grimm, Walt., SW 61, Tempelhofer Ufer 1b</td>\n</tr>\n<tr>\n<td>66 79 19</td>\n<td>Grimm, Walter, Schornsteinf. Mstr., SW 29,<br/>Graefestr. 71</td>\n</tr>\n<tr>\n<td>41 03 27</td>\n<td>Grimm, W., Stick., N 54, Rosenth. Str. 13</td>\n</tr>\n<tr>\n<td>16 04 10</td>\n<td>Grimm, W., Vertr., W 8, Charlottenstr. 31</td>\n</tr>\n<tr>\n<td>47 30 41</td>\n<td>Grimm, Dr. W., Frohnau, Karmel. Weg 114</td>\n</tr>\n<tr>\n<td>17 38 60</td>\n<td>Grimm, Werner, Kfm., SW 68, Ritterstr. 68</td>\n</tr>\n<tr>\n<td>25 50 50</td>\n<td>Grimm, Werner, Wirtsch. Prüf., W 62,<br/>Kurfürstenstr. 76</td>\n</tr>\n<tr>\n<td>50 77 91</td>\n<td>Grimm, W., Lebensm., <i>Biesd</i> Dohlengr. 61</td>\n</tr>\n<tr>\n<td>46 17 16</td>\n<td>Grimm, W., Ing., N 65, Barfußstr. 10 m</td>\n</tr>\n<tr>\n<td>72 73 36</td>\n<td>Grimm, W., Ing., <i>Stegl</i> Schloßstr. 130</td>\n</tr>\n<tr>\n<td>34 33 29</td>\n<td>Grimm, W., Tischl., <i>Zehl</i> Kronpr. All. 351</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin: Grießbach",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 9 998 981\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>44 68 23</td>\n<td>v. Grimm-Gamet, Tilla, N 58, Weißenburger Str. 28</td>\n</tr>\n<tr>\n<td>71 61 01</td>\n<td>Grimm &amp; Mielke, Zentralheiz., <i>Schö</i> Siegfriedstr. 3</td>\n</tr>\n<tr>\n<td>70 94 71</td>\n<td>Dies., Wohn. Grimm, <i>Ltra</i> Marienf.Str. 24</td>\n</tr>\n<tr>\n<td>27 47 09</td>\n<td><b>Grimm &amp; Triepel, Kautabak-Fabrik Nordhausen, Verkaufskontor: W 35, Bülowstr. 45</b></td>\n</tr>\n<tr>\n<td>79 75 72</td>\n<td>Grimm-Reiter, Tanzsch., <i>Stegl</i> Martinstr. 6</td>\n</tr>\n<tr>\n<td>88 78 10</td>\n<td>Grimm - Wagler, Liesbeth, <i>Frdn</i> Wilh. Hauff-Str. 20</td>\n</tr>\n<tr>\n<td>84 65 96</td>\n<td>Grimme, Adolf, Staatamin.a.D., <i>Zehl</i> Langendreesch 5b</td>\n</tr>\n<tr>\n<td>42 43 59</td>\n<td>Grimme, Elisabeth, N 4, Linienstr. 159</td>\n</tr>\n<tr>\n<td>26 08 14</td>\n<td>Grimme, E., Drog., <i>Schö</i> Grunew.Str. 29</td>\n</tr>\n<tr>\n<td>83 63 62</td>\n<td>Grimme, H., General, <i>Wilm</i> LandauerStr. 1</td>\n</tr>\n<tr>\n<td>62 66 96</td>\n<td>Grimme, Paul, Bücherrev., <i>Neuk</i> Wildenbruchstr. 78</td>\n</tr>\n<tr>\n<td>83 31 19</td>\n<td>Grimme, W., Mag.Rat, <i>Frdn</i> GoBlerstr. 29</td>\n</tr>\n<tr>\n<td>72 16 88</td>\n<td>Grimmek, Br., Archit., <i>Stegl</i> Walser.-Str. 8</td>\n</tr>\n<tr>\n<td>71 78 13</td>\n<td>Grimmek, H., Archit., <i>Schö</i> Eisackstr. 34</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>30 41 68</td>\n<td>Grimmel, Rich., <i>Siem</i> Königsd. 293</td>\n</tr>\n<tr>\n<td>27 18 00</td>\n<td>Grimmelshäuser, Hermann, Malereigesch.,<br/>W 30, Kyffhäuserstr. 3</td>\n</tr>\n<tr>\n<td>31 35 74</td>\n<td>Grimmelt, Dr. O., Dir., <i>Chb</i> 4 Niebuhrstr. 72</td>\n</tr>\n<tr>\n<td>88 13 14</td>\n<td>Grimmer, A., Schausp., <i>Wilm</i> Laub. Pl. 10</td>\n</tr>\n<tr>\n<td>44 95 62</td>\n<td>Grimmer, Klara, Gastw., N 58, Gleimstr. 36</td>\n</tr>\n<tr>\n<td>84 26 74</td>\n<td>Grimmer, Paul, Kfm., <i>Zehl</i> Seehofstr. 72</td>\n</tr>\n<tr>\n<td>83 08 32</td>\n<td>Grimmert, Lotte, Stud.-Rätin, <i>Frdn</i><br/>Tannusstr. 14</td>\n</tr>\n<tr>\n<td>58 29 11</td>\n<td>Grimmig, Gustav, Möbelschloßfabr., O 34,<br/>Warschauer Str. 13</td>\n</tr>\n<tr>\n<td>80 77 75</td>\n<td>Grimminger, A., Ing., <i>Nik</i> Albig.-Weg 12</td>\n</tr>\n<tr>\n<td>50 01 17</td>\n<td>Grimminger, Josef, Bankbeamter, <i>Krisha</i><br/>Stolzenfelsstr. 17</td>\n</tr>\n<tr>\n<td>67 20 61</td>\n<td>Grimoni, Willy, Schneider, SO 16, Nean-<br/>derstr. 26</td>\n</tr>\n<tr>\n<td>86 36 97</td>\n<td>Grimpe, C., <i>Wilm</i> Wilhelmsaue 133</td>\n</tr>\n<tr>\n<td>63 25 76</td>\n<td>Grimpe, Erich, Kfm., <i>Obw</i> Frischenstr. 24</td>\n</tr>\n<tr>\n<td>61 42 51</td>\n<td>Grimpe, H., Farben, SO 36, Dresd. Str. 15</td>\n</tr>\n<tr>\n<td>83 29 29</td>\n<td>Grimpe, Walter, Kfm., <i>Wilm</i> Land. Str. 8</td>\n</tr>\n<tr>\n<td>80 88 12</td>\n<td>Deraelhe. Kladow</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 997 981\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>10 52 10</td>\n<td>Grimsen, Dr. Paul, Zahnarzt, Wupp Albrechtstr. 42</td>\n</tr>\n<tr>\n<td>88 65 93</td>\n<td>Grimsen, Auguste, Frdn Wielandstr. 22</td>\n</tr>\n<tr>\n<td>74 16 63</td>\n<td>Grimsen, Dr. Gerhard, Prok., Lkw Achenseeweg 9</td>\n</tr>\n<tr>\n<td>31 60 86</td>\n<td>Grimskinski, Günther, Landger.Rät, Chb 4 Fritschechr. 60</td>\n</tr>\n<tr>\n<td>71 13 82</td>\n<td>Grinda, Emma, Blumen, Schb Hauptstr. 60</td>\n</tr>\n<tr>\n<td>92 71 57</td>\n<td>Grinda, Marie, W 15, Fasanenstr. 65</td>\n</tr>\n<tr>\n<td>48 66 71</td>\n<td>Grindel, Dr. Hans, Chem., Blkb Burgwallstruße 81</td>\n</tr>\n<tr>\n<td>44 56 77</td>\n<td>Grindel. Paul, N 113, Krügerstr. 4</td>\n</tr>\n<tr>\n<td>99 58 62</td>\n<td>Grindler, Karl-Heinz, Sportlehr., Chb 9 Murellenweg 20</td>\n</tr>\n<tr>\n<td>67 56 21</td>\n<td>Gring, Charlotte, Porträts, SW 68, Sebastianstr. 64</td>\n</tr>\n<tr>\n<td>89 62 01</td>\n<td>Gringel, A., Bankrat, Smgd Cunostr. 83</td>\n</tr>\n<tr>\n<td>46 88 42</td>\n<td>Gringel, C., Kfm., N 65, Sparrstr. 10</td>\n</tr>\n<tr>\n<td>32 14 80</td>\n<td>Gringel, Curt, Chb Niebuhrstraße 67</td>\n</tr>\n<tr>\n<td>44 47 02</td>\n<td>Gringel, Hans, N 20, Sonderburgerstr. 15</td>\n</tr>\n<tr>\n<td>46 28 61</td>\n<td>Gringel, H., Gastw., N 65, Bornemann-</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 970\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>44 62 20</td>\n<td>Gringel, Wilhelm, Photogr., N 65, Stolpische Straße 37</td>\n</tr>\n<tr>\n<td>27 40 62</td>\n<td>Gringers, Max, W 30, Goltzstr. 29</td>\n</tr>\n<tr>\n<td>24 34 67</td>\n<td>Gringers, Melanie, Friseur, W 50, Regenab. Straße 10</td>\n</tr>\n<tr>\n<td>50 55 09</td>\n<td>Gringmuth, Fritz, Kfm., <i>Ndschhs</i> Waldowstraße 58</td>\n</tr>\n<tr>\n<td>41 29 35</td>\n<td>Grinnell Sprinkler GmbH, Feuerlöschbrausen, NW 7, Schiffbauerdamm 15</td>\n</tr>\n<tr>\n<td>62 07 55</td>\n<td>Grinot, Anna, Ww., <i>Neuk</i> Liberdastr. 8</td>\n</tr>\n<tr>\n<td>42 88 00</td>\n<td>Grinzing Bier u. Weinstuben, N 4, Invalidenstr. 29</td>\n</tr>\n<tr>\n<td>42 19 96</td>\n<td>Dieselben, N 4, Chausseestr. 102</td>\n</tr>\n<tr>\n<td>73 35 92</td>\n<td>Gripp, Helmuth, <i>Lt/</i> Wienroderpfad 3</td>\n</tr>\n<tr>\n<td>46 85 14</td>\n<td>Grippentrog, A., Obst, N 20, Schwedenstraße 10</td>\n</tr>\n<tr>\n<td>30 78 27</td>\n<td>Ders., <i>Tgl</i> Dietr.-Eckart-Str. 10</td>\n</tr>\n<tr>\n<td>55 29 47</td>\n<td>Grisard, K., Kfm., <i>Fr/de</i> Walderseestr. 63</td>\n</tr>\n<tr>\n<td>52 35 94</td>\n<td>K. Grischkat &amp; Co. KG., Mützenfabr., C 2, Neue Friedrichstr. 23</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"0 970 998 1000\" data-label=\"Page-Footer\">\n<p>— — — — —</p>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 986\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>30 48 96</td>\n<td>Grischke, P., Werkmstr., <i>Siem</i> Nonnend.<br/>Alle 81</td>\n</tr>\n<tr>\n<td>39 42 33</td>\n<td>Grischkewitsch-Trochimowski, Dr. E.,<br/>Prof., NW 87, Elberf. Str. 32</td>\n</tr>\n<tr>\n<td>67 06 73</td>\n<td>Grischow, H., Schneid., C 2, Inselstr. 1a</td>\n</tr>\n<tr>\n<td>32 12 53</td>\n<td>Grischy, Emilie, Frau, <i>Chb</i> 2 Kneisebeck-<br/>straße 84</td>\n</tr>\n<tr>\n<td>93 49 49</td>\n<td>Griesebach, <i>Chb</i> 5, Kaiserdamm 99</td>\n</tr>\n<tr>\n<td>89 25 76</td>\n<td>Griesebach, Helmuth, Architekt, Berlin-<br/>Grunewaid, Hohenzollerndamm 112</td>\n</tr>\n<tr>\n<td>89 41 41</td>\n<td>Griesebach, Ludolf, <i>Smgd</i> Tölzer Str. 30a</td>\n</tr>\n<tr>\n<td>99 11 31</td>\n<td>Griesebach, Margarete, <i>Chb</i> 9 Württem-<br/>bergallee 25</td>\n</tr>\n<tr>\n<td>97 12 69</td>\n<td>Grisse, Paul, Kfm., <i>Hal</i> M.-Albr.-Str. 6</td>\n</tr>\n<tr>\n<td>91 56 21</td>\n<td>Grith-Schulhsalon, W 15, Kurf.-Damm 44</td>\n</tr>\n<tr>\n<td>68 69 79</td>\n<td>Gritsch, Hermann, Heilpraktiker, SO 36,<br/>Reichenberger Str. 16</td>\n</tr>\n<tr>\n<td>75 78 59</td>\n<td>Alb. Gritschke u. E. Wenzel, Buchdruck.,<br/><i>Tmp</i> Dorfstr. 37</td>\n</tr>\n<tr>\n<td>75 79 68</td>\n<td>Gritschke, G., Maler, <i>Ma</i> Prühßstr. 18</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "86",
+            "text": "17"
+          },
+          {
+            "extension": "62",
+            "text": "49"
+          },
+          {
+            "extension": "50",
+            "text": "76"
+          },
+          {
+            "extension": "89",
+            "text": "49"
+          },
+          {
+            "extension": "31",
+            "text": "24"
+          },
+          {
+            "extension": "34",
+            "text": "06"
+          },
+          {
+            "extension": "50",
+            "text": "27"
+          },
+          {
+            "extension": "87",
+            "text": "56"
+          },
+          {
+            "extension": "47",
+            "text": "36"
+          },
+          {
+            "extension": "72",
+            "text": "42"
+          },
+          {
+            "extension": "34",
+            "text": "15"
+          },
+          {
+            "extension": "62",
+            "text": "04"
+          },
+          {
+            "extension": "63",
+            "text": "33"
+          },
+          {
+            "extension": "35",
+            "text": "32"
+          },
+          {
+            "extension": "70",
+            "text": "09"
+          },
+          {
+            "extension": "44",
+            "text": "81"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "— v. Grodzicki (Band II) 225",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 9 799 993\" data-label=\"Text\"><table><tbody><tr><td>17 02 03</td><td>Grix, Arth. Ernst, Ing., SW 68, Friedrich-<br/>straße 49</td></tr><tr><td>71 76 72</td><td>Grix, Dr. E., Fbrbes., <i>Schb</i> Hauptstr. 128</td></tr><tr><td>25 34 28</td><td>Grix, Käte, W 50, Augsburgerstr. 8</td></tr><tr><td>25 39 18</td><td>Grix, Max, W 50, Augsburger Str. 6</td></tr><tr><td>53 35 42</td><td>Grix, Max, D.-Konfekt., NO 55, Jablonski-<br/>straße 12</td></tr><tr><td>25 07 82</td><td>Grix-Grigory, Max, Artist.Verm., W 50,<br/>Augsburger Straße 6</td></tr><tr><td>27 12 06</td><td>Grjasnoff, Georg, Konfektibr., W 35, Elß-<br/>holzstr. 18</td></tr><tr><td>64 35 22</td><td>Grob, Else, Liquid., Müggelheim, Duch-<br/>rother Str. 44</td></tr><tr><td>17 31 52</td><td>Grob, E., Autozub., SW 68, Oranien-<br/>straße 120</td></tr><tr><td>27 45 79</td><td>Grob, Jakob, Schneid.Mstr., W 30, Neue<br/>Winterfeldtstr. 6</td></tr><tr><td>49 45 70</td><td>Grob, K., Uhren, <i>ReiW</i> Scharnweberstr. 45</td></tr><tr><td>27 64 02</td><td>Grob, Käthe, W 30, Barbarossastr. 63</td></tr><tr><td>37 98 54</td><td>Grob, Leo, Ing., <i>Spd</i> Franzstr. 11</td></tr><tr><td>48 31 00</td><td>Grob, O., Geschäftsf., <i>Pko</i> Paracels. Str. 54</td></tr><tr><td>42 50 27</td><td>Grob Th. Dainn N 25 Tarfstr. 12</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "48",
+            "text": "58 25 Grob, Willi, Vertr., N 65, Wildenowstr. 8"
+          },
+          {
+            "extension": "83",
+            "text": "65 68 Grobba, Dr. Fritz, Gesandter, Frdn Isolde- straße 2"
+          },
+          {
+            "extension": "64",
+            "text": "90 35 Grobbel, K., Vertr., Wilh Frankenh. Str. 6"
+          },
+          {
+            "extension": "97",
+            "text": "91 15 Grobben, F., Reg.-Rat, Gro Herthastr. 9"
+          },
+          {
+            "extension": "88",
+            "text": "50 61 Grobe, E. F., Frdn Fr.-Wilh.-Pl. 14"
+          },
+          {
+            "extension": "37",
+            "text": "52 57 Grobe, E., Kfm., Spd Wusterm. Str. 59"
+          },
+          {
+            "extension": "24",
+            "text": "92 78 F. Grobe & Co, Kohlen, W 50, Ranke- straße 23"
+          },
+          {
+            "extension": "89",
+            "text": "15 56 Grobe, F., Kfm., Gro Wangenh. Str. 45"
+          },
+          {
+            "extension": "93",
+            "text": "01 65 Grobe, G., Hauptm., Chb 5 Lietzenseeufer 9"
+          },
+          {
+            "extension": "66",
+            "text": "04 91 Grobe, K., Ger. Rat, Temp Immelm. Str. 15"
+          },
+          {
+            "extension": "87",
+            "text": "81 09 Grobe, Paul, Ing., Wilm Kaiserall. 196"
+          },
+          {
+            "extension": "71",
+            "text": "52 12 Grobe, W., Vorst., Schb Kufstein. Str. 17"
+          },
+          {
+            "extension": "62",
+            "text": "67 63 Grobecker, W., Waffen, Neuk Weserstr. 144"
+          },
+          {
+            "extension": "72",
+            "text": "34 04 Grobecker, W., Süd Benzmannstr. 9"
+          },
+          {
+            "extension": "34",
+            "text": "68 28 Grobecker, W., Kfm., Chb 5 Hebbelstr. 9"
+          },
+          {
+            "extension": "34",
+            "text": "40 88 Grobel, P., Dr. phil., Chb 1 Herschelstr. 16"
+          },
+          {
+            "extension": "61",
+            "text": "51 21 Grobelny, Herbert, Musiker, SO 36, Rei- chenb. Str. 180"
+          },
+          {
+            "extension": "25",
+            "text": "24 75 Grober, Annemarie, Ränd. W 90 Martin. H"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 784 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>67 29 84</td>\n<td>Groch, Marie, SW 68, Annenstr. 46</td>\n</tr>\n<tr>\n<td>34 02 60</td>\n<td>Grochau, Minna, Kol.-W., <i>Siem</i> Nonnen-<br/>dammallee 83</td>\n</tr>\n<tr>\n<td>99 17 11</td>\n<td>Grosche, Ad., <i>Chb</i> 9 Murellenweg 43</td>\n</tr>\n<tr>\n<td>37 68 18</td>\n<td>Groche, Elsa, <i>Spd</i> Stresowplatz 11</td>\n</tr>\n<tr>\n<td>67 13 94</td>\n<td>Groche, Emil, Geschäftsbücherfr., SW68,<br/>Luckauer Str. 7</td>\n</tr>\n<tr>\n<td>88 68 52</td>\n<td>Grosche, Karl, Angest., <i>Frdn</i> Bennigsen-<br/>straße 12</td>\n</tr>\n<tr>\n<td>53 05 43</td>\n<td>Grochocki, A., Bäck., NO 18, HöchsteStr30</td>\n</tr>\n<tr>\n<td>44 58 10</td>\n<td>Grochofski, Heinrich, Schneidermstr., N58,<br/>Schönhauser Allee 164</td>\n</tr>\n<tr>\n<td>48 54 81</td>\n<td>Ders., Wohn., <i>Ndschls</i> Seckend.-Pl. 16</td>\n</tr>\n<tr>\n<td>32 11 21</td>\n<td>Grochol, Dr. Werner Peter, Arzt, <i>Chb</i> 5<br/>Windscheidstr. 25</td>\n</tr>\n<tr>\n<td>68 36 64</td>\n<td>Grocholesky, A., Kfm., SO 36, Köpen.<br/>Straße 10</td>\n</tr>\n<tr>\n<td>45 09 47</td>\n<td>Grocholewski, Johann, Wollwr. N 31<br/>Brunnenstr. 80</td>\n</tr>\n<tr>\n<td>55 32 48</td>\n<td>Derselbe, Wohn., <i>Rmb</i> Pr.Albertstr. 39</td>\n</tr>\n<tr>\n<td>KA 41 00</td>\n<td>Grocholowski      Karl      Kol.-W      <i>Phoebia</i></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "53",
+            "text": "26"
+          },
+          {
+            "extension": "34",
+            "text": "20"
+          },
+          {
+            "extension": "55",
+            "text": "17"
+          },
+          {
+            "extension": "88",
+            "text": "22"
+          },
+          {
+            "extension": "63",
+            "text": "83"
+          },
+          {
+            "extension": "39",
+            "text": "05"
+          },
+          {
+            "extension": "92",
+            "text": "65"
+          },
+          {
+            "extension": "57",
+            "text": "32"
+          },
+          {
+            "extension": "49",
+            "text": "45"
+          },
+          {
+            "extension": "59",
+            "text": "62"
+          },
+          {
+            "extension": "41",
+            "text": "72"
+          },
+          {
+            "extension": "96",
+            "text": "31"
+          },
+          {
+            "extension": "87",
+            "text": "78"
+          },
+          {
+            "extension": "26",
+            "text": "58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "89",
+            "text": "57 04 Grochtmann-Jones, Lilian, Wilm Sodener Straße 38"
+          },
+          {
+            "extension": "57",
+            "text": "13 10 Grodde, Anny, Kfm., O 17, Ostbhf. 13"
+          },
+          {
+            "extension": "88",
+            "text": "24 20 v. Grodeck, Ems, Frdn Stierstr. 17"
+          },
+          {
+            "extension": "87",
+            "text": "29 24 Grodeck-Link, Hedyna, Dentistin, Wilm Berliner Straße 11—12"
+          },
+          {
+            "extension": "53",
+            "text": "27 61 Grodeck, Albert, Gummivr., NO 18, Lands- berger Allee 164"
+          },
+          {
+            "extension": "50",
+            "text": "50 76 Grodeck, H., Hhschö Gr.-Leege-Str. 116"
+          },
+          {
+            "extension": "63",
+            "text": "26 78 Grodecki, Theodor, Seifen, Joh Kaiser- Wilhelm-Straße 37"
+          },
+          {
+            "extension": "58",
+            "text": "12 80 Dieselhen, O 34, Libauer Str. 8 ."
+          },
+          {
+            "extension": "31",
+            "text": "68 36 Grodemauge, Ann , Chb 4 Leibnizstr. 44"
+          },
+          {
+            "extension": "91",
+            "text": "09 87 Grodnick, Anneliese, Hüte, W 50, Kur- fürstend. 230"
+          },
+          {
+            "extension": "84",
+            "text": "97 89 Heinz u. B. Grodnick, Rah Seestr. 74"
+          },
+          {
+            "extension": "88",
+            "text": "17 87 Grodtke, Charl., Frdn Eschenstr. 5"
+          },
+          {
+            "extension": "66",
+            "text": "65 01 v. Grodzicki, Heinz, Vertr., SW 29, Hasen- heide 45 (16 34 27) Ders., Büro, W 8, Charlottenstr. 32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"491 15 534 96\" data-label=\"Page-Header\">~ 6</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

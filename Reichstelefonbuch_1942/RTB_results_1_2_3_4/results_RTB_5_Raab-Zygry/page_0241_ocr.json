@@ -1,0 +1,1840 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"262 10 998 995\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>209 [309]</td>\n<td><b>Haase, Brauerei-Niederl.; Hirschb.Str. 30</b></td>\n</tr>\n<tr>\n<td>59 [159]</td>\n<td><b>Häring, B., Fleischermstr., Hammerstr. 10</b></td>\n</tr>\n<tr>\n<td>2 [102]</td>\n<td><b>Häring, E., Holz, Buschvorwerk, Krumm-<br/>hübeler Straße 1</b></td>\n</tr>\n<tr>\n<td>156 [256]</td>\n<td><b>Härtner, Erich, Obst, Markt 21</b></td>\n</tr>\n<tr>\n<td>138 [238]</td>\n<td><b>Hamburger Zigarrenhaus, Hammerstr. 1</b></td>\n</tr>\n<tr>\n<td>17 [117]</td>\n<td><b>Handke &amp; Paetzold, Destill., Markt 1</b></td>\n</tr>\n<tr>\n<td>7 [107]</td>\n<td><b>Haselbach-Bierniederlage, Landesh.Str. 6</b></td>\n</tr>\n<tr>\n<td>43 [226]</td>\n<td><b>Heilstätte Buchwald in Hohenwiese</b></td>\n</tr>\n<tr>\n<td>36 [136]</td>\n<td><b>Heilstätte Schmiedeberg, Hirschb.Str. 32</b></td>\n</tr>\n<tr>\n<td>104 [204]</td>\n<td><b>Heller, F., Schornsteinf., Bleichenw. 2</b></td>\n</tr>\n<tr>\n<td>139 [239]</td>\n<td><b>Hennig, G., Baumat., Höhnestr. 16</b></td>\n</tr>\n<tr>\n<td>201 [301]</td>\n<td><b>Hertwig, W., Tischlermstr., Kirchstr. 2</b></td>\n</tr>\n<tr>\n<td>188 [288]</td>\n<td><b>Hirschfelder, R., Buchdruck., Markt 36</b></td>\n</tr>\n<tr>\n<td>1 [101]</td>\n<td><b>Höbich, E., Baugeschäft, Bahnhofstr. 6a</b></td>\n</tr>\n<tr>\n<td>67 [167]</td>\n<td><b>Höbner, Alois, Kol.-W., Landesh.Str. 22</b></td>\n</tr>\n<tr>\n<td>70 [170]</td>\n<td><b>Höpfner, H., Holzschleif., Hohenw.Str. 4</b></td>\n</tr>\n<tr>\n<td>146 [246]</td>\n<td><b>Hoffmann, G., Gärtnerei, Hohenwiese</b></td>\n</tr>\n<tr>\n<td>3 [103]</td>\n<td><b>Hotel Goldener Stern. Inh. B. Lipke</b></td>\n</tr>\n<tr>\n<td>84 [184]</td>\n<td><b>Hotel „Preußischer Hof“, Besitzer Aman-<br/>dus Baer, feinbürgerliches Haus, Zimmer<br/>mit allem Komfort und Küche ist</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "unsere Empfehlung, Friedrichstraße 44",
+        "entries": [
+          {
+            "extension": "183",
+            "text": "[283] Hotel Schreiber, Bahnhofstr. 5"
+          },
+          {
+            "extension": "143",
+            "text": "[143] Hotel Wilhelmshöh, Hohenwiese"
+          },
+          {
+            "extension": "172",
+            "text": "[272] Howerka, Ernst, Schlossermstr."
+          },
+          {
+            "extension": "192",
+            "text": "[192] Huth & Mende, Sägew., Hirschb.Str. 30"
+          },
+          {
+            "extension": "247",
+            "text": "[347] Jaxtheimer, W. Bodo, Maler u. Bildh.,Buchwald, Parkhaus"
+          },
+          {
+            "extension": "75",
+            "text": "[175] Jordan, Fritz, Kol.-W., Gartenstr. 53"
+          },
+          {
+            "extension": "206",
+            "text": "[306] Jugendherberge, Schließhausstr. 5"
+          },
+          {
+            "extension": "176",
+            "text": "[276] Junge, Paul, Bürstenfr., Buschvorwerk"
+          },
+          {
+            "extension": "113",
+            "text": "[213] Kah, A., Buchdruckerei, Gartenstr. 25"
+          },
+          {
+            "extension": "78",
+            "text": "[178] Kahl, Gustav, Tiefbau, Bleichenweg 3"
+          },
+          {
+            "extension": "57",
+            "text": "[157] Kallinich, A., Fuhrgesch., Markt 38"
+          },
+          {
+            "extension": "167",
+            "text": "[267] Kambach, H., Sägewerk, Gartenstr. 16"
+          },
+          {
+            "extension": "44",
+            "text": "[144] F.Karg & Co, GmbH, Web., Gartenstr. 50"
+          },
+          {
+            "extension": "165",
+            "text": "[265] Kath. Pfarramt, Friedrichstr. 51"
+          },
+          {
+            "extension": "214",
+            "text": "[314] Kinderheim Schmiedeberg"
+          },
+          {
+            "extension": "114",
+            "text": "[214] Kleiner, B., Kol.-W., Friedrichstr. 42"
+          },
+          {
+            "extension": "14",
+            "text": "[114] Klocker Nf., H., Eisenw., Friedr.Str. 25"
+          },
+          {
+            "extension": "101",
+            "text": "[201] Knobloch, H., Gasthaus, Arnsberg"
+          },
+          {
+            "extension": "40",
+            "text": "[140] ..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"256 0 998 995\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>196 [196]</td>\n<td>König, Fritz, Schuhwr., Markt 24</td>\n</tr>\n<tr>\n<td>246 [346]</td>\n<td>Köster-Peschel, Marg., Buschvorw.Str. 8 b</td>\n</tr>\n<tr>\n<td>197 [197]</td>\n<td>Konditorei „Glück im Winkel“, Hohenwiese</td>\n</tr>\n<tr>\n<td>23 [123]</td>\n<td>Kontrollst. d. LVA., Buschvorw.Str. 3</td>\n</tr>\n<tr>\n<td>24 [125]</td>\n<td>Koppe, Bürgermstr., Bärndorf</td>\n</tr>\n<tr>\n<td>21 [121]</td>\n<td>Kowalzik, Georg, Kfm., Buschvorw.Str. 3</td>\n</tr>\n<tr>\n<td>249 [249]</td>\n<td>Krankenhaus, städt., Landesh.Str. 32</td>\n</tr>\n<tr>\n<td>76 [176]</td>\n<td>Krause, A., Fleischerm., Liebauerstr. 58</td>\n</tr>\n<tr>\n<td>185 [285]</td>\n<td>Krebs, Bürgermstr., Buchwald</td>\n</tr>\n<tr>\n<td>77 [177]</td>\n<td>Krebs, Ernst, Oberstr. 5</td>\n</tr>\n<tr>\n<td>241 [341]</td>\n<td>Kreisberufsschule Hirschberg</td>\n</tr>\n<tr>\n<td>221 [321]</td>\n<td>Krieg, Else, Bahnhofswirtsch.</td>\n</tr>\n<tr>\n<td>279 [279]</td>\n<td>Krist, Karl, Gärtn., Kirchstr. 6</td>\n</tr>\n<tr>\n<td>180 [280]</td>\n<td>Krolzig, R., Kol.-W., Friedrichstr. 1</td>\n</tr>\n<tr>\n<td>148 [248]</td>\n<td>Krüger, W., Gartenbau, Ruhb.Str. 1</td>\n</tr>\n<tr>\n<td>205 [305]</td>\n<td>Kulms, F., Bekleidung, Gartenstr. 39</td>\n</tr>\n<tr>\n<td>145 [245]</td>\n<td>Kurheim f. Augenkranke, Hohenwiese</td>\n</tr>\n<tr>\n<td>109 [209]</td>\n<td>Landjahr Lager Schloß Ruhberg</td>\n</tr>\n<tr>\n<td>62 [162]</td>\n<td>Lakomy, Hans, Zahnarzt, Markt 18</td>\n</tr>\n<tr>\n<td>107 [207]</td>\n<td>Landskron-Rier. Niederl. Friedrichstr. 42</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"256 0 997 982\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>105 [205]</td>\n<td>Laugen, Dr. Gerhard, K.-A., Markt 2</td>\n</tr>\n<tr>\n<td>35 [135]</td>\n<td>Langner, Alfr., Lebensm., Markt 5</td>\n</tr>\n<tr>\n<td>153 [253]</td>\n<td>Linke, Max, Elektromstr., Markt 3</td>\n</tr>\n<tr>\n<td>210 [310]</td>\n<td>v. d. Lühe, Frau, Buchwald</td>\n</tr>\n<tr>\n<td>224 [224]</td>\n<td>Marschner, E., Wurstwr., Markt 22</td>\n</tr>\n<tr>\n<td>89 [189]</td>\n<td>Milke, G. A., Kaufhaus, Fried.Str. 44</td>\n</tr>\n<tr>\n<td>215 [315]</td>\n<td>Mittas, Eugen, Lebensm., Höhnestr. 5</td>\n</tr>\n<tr>\n<td>173 [273]</td>\n<td>Niederschtl. ElektrizitätsAG, Hirschb.Str.2</td>\n</tr>\n<tr>\n<td>33 [133]</td>\n<td>Nimsch, H., Dr. jur., Liebauerstr. 11</td>\n</tr>\n<tr>\n<td>73 [173]</td>\n<td>NSDAP, Volkswohlf. e.V., Gartenstr. 56</td>\n</tr>\n<tr>\n<td>83 [183]</td>\n<td>Niering, I., Heilpraktiker, Markt 37</td>\n</tr>\n<tr>\n<td>110 [210]</td>\n<td>Nordgauer &amp; Kunze, Kistenfbr., Buschvorwerk</td>\n</tr>\n<tr>\n<td>144 [244]</td>\n<td>Oberpräsident, Der, Hohenwiese 74</td>\n</tr>\n<tr>\n<td>105 [205]</td>\n<td>Oertel, Paul, Kretscham, Bärndorf</td>\n</tr>\n<tr>\n<td>231 [331]</td>\n<td>Opitz-Nerger, Warenhandlg., Buschwald</td>\n</tr>\n<tr>\n<td>235 [335]</td>\n<td>Partsch, Hans, Prokurist, Hirschb.Str. 9</td>\n</tr>\n<tr>\n<td>10 [110]</td>\n<td>Partsch oH, Reinhold, Berufskleiderfbr., HirschbergerStr. 10</td>\n</tr>\n<tr>\n<td>34 [134]</td>\n<td>Partsch, W., Fabrikdir., Hirschb.Str. 10</td>\n</tr>\n<tr>\n<td>159 [259]</td>\n<td>Paßbaude, O. Fries</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "[105]"
+          },
+          {
+            "extension": "43",
+            "text": "[226]"
+          },
+          {
+            "extension": "258",
+            "text": "[258]"
+          },
+          {
+            "extension": "147",
+            "text": "[247]"
+          },
+          {
+            "extension": "198",
+            "text": "[198]"
+          },
+          {
+            "extension": "29",
+            "text": "[129]"
+          },
+          {
+            "extension": "106",
+            "text": "[206]"
+          },
+          {
+            "extension": "223",
+            "text": "[323]"
+          },
+          {
+            "extension": "277",
+            "text": "[377]"
+          },
+          {
+            "extension": "18",
+            "text": "[218]"
+          },
+          {
+            "extension": "15",
+            "text": "[215]"
+          },
+          {
+            "extension": "190",
+            "text": "[190]"
+          },
+          {
+            "extension": "0",
+            "text": "[300]"
+          },
+          {
+            "extension": "154",
+            "text": "[254]"
+          },
+          {
+            "extension": "287",
+            "text": "[387]"
+          },
+          {
+            "extension": "250",
+            "text": "[250]"
+          },
+          {
+            "extension": "116",
+            "text": "[216]"
+          },
+          {
+            "extension": "128",
+            "text": "[228]"
+          },
+          {
+            "extension": "171",
+            "text": "[271]"
+          },
+          {
+            "extension": "944",
+            "text": "[944]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"255 0 998 940\" data-label=\"Table\">\n<table>\n<tr>\n<td>220 [320]</td>\n<td>Kossner, Fritz, Kfm., Liebauernstr. 53</td>\n</tr>\n<tr>\n<td>211 [311]</td>\n<td>v. Rotenhan, Emma, Freifr., Buchw. Nr. 4</td>\n</tr>\n<tr>\n<td>161 [261]</td>\n<td>Runge, Rich., Eisenwaren, Markt 30</td>\n</tr>\n<tr>\n<td>130 [130]</td>\n<td>Schapals, Fr., Fleischermstr., Gartenstr. 23</td>\n</tr>\n<tr>\n<td>229 [329]</td>\n<td>Scharl, Rud., Dr. med., Schießhausstr. 13</td>\n</tr>\n<tr>\n<td>178 [278]</td>\n<td>Schauburg, Lichtspiele, Friedrichstr. 43</td>\n</tr>\n<tr>\n<td>218 [318]</td>\n<td>Schenckendorff-Baude, Forstlangwasser</td>\n</tr>\n<tr>\n<td>71 [171]</td>\n<td>Schiefer, Tierarzt, Oberstr. 4a</td>\n</tr>\n<tr>\n<td>118 [118]</td>\n<td>Schillerbaude, Bes. Rich. Lata</td>\n</tr>\n<tr>\n<td>54 [154]</td>\n<td>Schlesische Grenzbaude, J. Tippel</td>\n</tr>\n<tr>\n<td>27 [127]</td>\n<td>Schloß Neuhoff</td>\n</tr>\n<tr>\n<td>60 [160]</td>\n<td>Schmidt, Gustav, Fourage, Quirl</td>\n</tr>\n<tr>\n<td>46 [146]</td>\n<td>Schmiedeberger Holz-Ind., Friedr. Str. 6</td>\n</tr>\n<tr>\n<td>30 [324]</td>\n<td>Schmiedeberger Metallwrfbr., Schießh.<br/>Straße 3</td>\n</tr>\n<tr>\n<td>278 [378]</td>\n<td>Schönball, Osk., Dentist</td>\n</tr>\n<tr>\n<td>168 [268]</td>\n<td>Scholz, F., Kfm., Kol.-W., Markt 23</td>\n</tr>\n<tr>\n<td>51 [151]</td>\n<td>Scholz, Heinr., Tapezierer, Markt 16</td>\n</tr>\n<tr>\n<td>240 [340]</td>\n<td>Schrödter u. May, Sägewerk, Oberstr. 42</td>\n</tr>\n<tr>\n<td>164 [264]</td>\n<td>Schubert, G., Tischlerei, Gartenstr. 24</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Schmiedeborg (Schlesien):",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "T i e n s e l b a u e r n M a n n e r n a m e n",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "40",
+            "text": "[140] Würfel, Alfr., vorm, Alb. Scholz, Fleische- rei, Wurst- u. Konservenfabrik, Markt 42"
+          },
+          {
+            "extension": "239",
+            "text": "[339] Zimmer, Paul, Apoth., Friedrichstr. 27"
+          },
+          {
+            "extension": "102",
+            "text": "[202] Zobel, O., Fleischermstr., Gartenstr. 34"
+          },
+          {
+            "extension": "140",
+            "text": "[240] Zuckmantel, Karl, Klemp., Kirchstr. 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Schmiedeberg-Kipsdorf (sachsen)",
+        "entries": [
+          {
+            "extension": "250",
+            "text": "Abraham, Hans, Arzt"
+          },
+          {
+            "extension": "480",
+            "text": "Ahlendorf, Arno, Fleischerel, Schellerhau"
+          },
+          {
+            "extension": "438",
+            "text": "Aktiengesellsch. Sächs. Werke, Schellerhau"
+          },
+          {
+            "extension": "260",
+            "text": "Dieselbe, Betriebsdienststelle Schmiedeberg"
+          },
+          {
+            "extension": "393",
+            "text": "Allemand'l, Dr. F., Ing., Fkh Waldidylle 52E"
+          },
+          {
+            "extension": "391",
+            "text": "Allg. Ortskrankenkasse, Altenbergerstr. 61c"
+          },
+          {
+            "extension": "488",
+            "text": "Arnhold, Kurt, Dr., Oberbärenburg"
+          },
+          {
+            "extension": "280",
+            "text": "Arnold, Alfred, Tischlerm., Altenb.Str. 33"
+          },
+          {
+            "extension": "598",
+            "text": "von Aspern, Friedrichsheim, Kipsdorf"
+          },
+          {
+            "extension": "289",
+            "text": "Auxel, Kurt, Schuhwr., Schmiedeberg"
+          },
+          {
+            "extension": "576",
+            "text": "Baptistengemeinde, Lutherplatz 23"
+          },
+          {
+            "extension": "587",
+            "text": "Berghof Schellerhau, R. Stephan"
+          },
+          {
+            "extension": "351",
+            "text": "Berghotel „Friedrichshöhe“, Oberbärenburg"
+          },
+          {
+            "extension": "256",
+            "text": "Bernhardt, O., Schriftsteller, Kipsdorf Nr. 9"
+          },
+          {
+            "extension": "248",
+            "text": "Bidtel, Julius, Dr., Landhaus, Bärenfels."
+          },
+          {
+            "extension": "554",
+            "text": "Binner, Gerh., Drogen, Kipsdorf"
+          },
+          {
+            "extension": "386",
+            "text": "Böhme, Hugo, Tischlerei, Kipsdorf."
+          },
+          {
+            "extension": "225",
+            "text": "Protokollalter Max Dionur Schmiedehorn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "412",
+            "text": "Bürgermeister zu Ammelsdorf"
+          },
+          {
+            "extension": "394",
+            "text": "Bürgermeister zu Bärenburg u. Kurverwltg."
+          },
+          {
+            "extension": "302",
+            "text": "Bürgermeister Bärenfels u. Kurverwaltg."
+          },
+          {
+            "extension": "318",
+            "text": "Bürgermeister Dönschten"
+          },
+          {
+            "extension": "476",
+            "text": "Bürgermeister Falkenhain"
+          },
+          {
+            "extension": "205",
+            "text": "Bürgermeister Hennersdorf"
+          },
+          {
+            "extension": "426",
+            "text": "Bürgermeister Kipsdorf"
+          },
+          {
+            "extension": "(520)",
+            "text": "Bürgermeister Naundorf"
+          },
+          {
+            "extension": "377",
+            "text": "Bürgermeister Sadisdorf"
+          },
+          {
+            "extension": "564",
+            "text": "Bürgermeister Schellerhau"
+          },
+          {
+            "extension": "423",
+            "text": "Bürgermeister Schmiedeberg"
+          },
+          {
+            "extension": "270",
+            "text": "Bürgermeister Schönfeld"
+          },
+          {
+            "extension": "379",
+            "text": "Büschel, Anton, Manuf.-W., Schmiedeberg"
+          },
+          {
+            "extension": "537",
+            "text": "Claus, Gustav, Bierhdlg., Schmiedeberg"
+          },
+          {
+            "extension": "380",
+            "text": "Diakonissenheim Waldesruh, Bärenfels."
+          },
+          {
+            "extension": "553",
+            "text": "Diestel, Susanna, Bärenfels, Talblick"
+          },
+          {
+            "extension": "452",
+            "text": "Dietrich, Kurt, Uhren, Schmiedeberg."
+          },
+          {
+            "extension": "332",
+            "text": "Dietrich, Oswald, Fleischermstr."
+          },
+          {
+            "extension": "551",
+            "text": "Dörschel, Herbert, Bäckerei, Kipsdorf"
+          },
+          {
+            "extension": "597",
+            "text": "Dolze, Schellerhan, Alte Zinnstr. 6F"
+          },
+          {
+            "extension": "382",
+            "text": "Dresdner Kinderheim, Schellerhau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "363",
+            "text": "Eichler, Frieda, Kol.W., Bärenfels"
+          },
+          {
+            "extension": "237",
+            "text": "Erholungsheim d. Bäckerinnung, Bärenfels."
+          },
+          {
+            "extension": "396",
+            "text": "Erhol.Heim, Chem.Werk, Schellerhau 26"
+          },
+          {
+            "extension": "222",
+            "text": "Erhol.Heim d. DAF, Kd Altenb.Str. 24"
+          },
+          {
+            "extension": "433",
+            "text": "Erhol.Heim d. Leowerke AG, Waldbärenburg"
+          },
+          {
+            "extension": "488",
+            "text": "Erhol.Heim Oberbärenburg, Chcmn.Str. 26"
+          },
+          {
+            "extension": "477",
+            "text": "Erholungs- u. Ferienheim d. Vaterl. Volksvers., Kd AltenbergerStr."
+          },
+          {
+            "extension": "281",
+            "text": "Erler, E. Max, Kirstenmühle, Hermsdorf 123B"
+          },
+          {
+            "extension": "557",
+            "text": "Erzgebirgsbaude Waldidylle"
+          },
+          {
+            "extension": "519",
+            "text": "Erzgebirgs-Heim, Wald-Bärenburg."
+          },
+          {
+            "extension": "233",
+            "text": "Estler, Arthur, Mietauto. Schmiedeberg"
+          },
+          {
+            "extension": "561",
+            "text": "Feist, Frieda, Grünwr., Oberbärenburg 10g"
+          },
+          {
+            "extension": "579",
+            "text": "Ferienh. Kameradschaft Wohnungsbau eV, Schellerau"
+          },
+          {
+            "extension": "582",
+            "text": "Fischer, Otto, Uhrmacher, Falkenhain 15"
+          },
+          {
+            "extension": "262",
+            "text": "Försterei Buschmühle-Schmiedeberg"
+          },
+          {
+            "extension": "389",
+            "text": "Forstamt Bärenfels, (Forstmstr. Krutzsch.)"
+          },
+          {
+            "extension": "362",
+            "text": "Forstamt Schmiedeberg"
+          },
+          {
+            "extension": "546",
+            "text": "Forstwartei Bärenburg"
+          },
+          {
+            "extension": "072",
+            "text": "Forstwartei Nänchtan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "264",
+            "text": "Forstwartei Schellerhau"
+          },
+          {
+            "extension": "275",
+            "text": "Forstwartei Wahlsmühle-Hennersdorf"
+          },
+          {
+            "extension": "570",
+            "text": "Freiw. Feuerwehr, Altenb.Str. 59 B"
+          },
+          {
+            "extension": "462",
+            "text": "Fremdenheim Bergfried, Wald-Bärenburg."
+          },
+          {
+            "extension": "489",
+            "text": "Fremdenheim Dorotheenhöhe, Bärenfels."
+          },
+          {
+            "extension": "510",
+            "text": "Fremdenheim Eschenhof, Schellerhau, Matth.W"
+          },
+          {
+            "extension": "241",
+            "text": "Fremdenheim Fernblick, Oberkipsdorf."
+          },
+          {
+            "extension": "381",
+            "text": "Fremdenh. Gästeh. Feldmann, O.Bärenburg"
+          },
+          {
+            "extension": "333",
+            "text": "Fremdenh. Gästeh. Thoenes, O.-Bärenburg"
+          },
+          {
+            "extension": "359",
+            "text": "Fremdenheim Glückspilz, Schellerhau"
+          },
+          {
+            "extension": "322",
+            "text": "Fremdenheim Haus Abendröte, Oberbärenburg"
+          },
+          {
+            "extension": "340",
+            "text": "Fremdenheim Haus Kammberg, Oberbärenbg."
+          },
+          {
+            "extension": "545",
+            "text": "Fremdenh. Haus am Walde, Bärenfels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Haase -- Schmiedeburg-Kipsdorf",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "540",
+            "text": "Fremdenheim „Haus Barthol“, Kipsdorf"
+          },
+          {
+            "extension": "588",
+            "text": "Fremdenheim Haus Bergwiese, O. Bärenburg 3"
+          },
+          {
+            "extension": "525",
+            "text": "Fremdenheim Haus Charlotte, Oberbärenburg"
+          },
+          {
+            "extension": "483",
+            "text": "Fremdenheim Haus Dietrichs, Bärenfels."
+          },
+          {
+            "extension": "293",
+            "text": "Fremdenheim Haus Dorette, Oberbärenburg"
+          },
+          {
+            "extension": "207",
+            "text": "Fremdenheim Haus Elise, Oberbärenburg"
+          },
+          {
+            "extension": "321",
+            "text": "Fremdenh. Haus Friedenshöhle, Bergstr. 6b"
+          },
+          {
+            "extension": "273",
+            "text": "Fremdenheim Haus Kobär, Oberbärenburg"
+          },
+          {
+            "extension": "330",
+            "text": "Fremdenheim Haus Marie, Bärenfels"
+          },
+          {
+            "extension": "482",
+            "text": "Fremdenh. Haus Rübezahl, Bärenfels"
+          },
+          {
+            "extension": "358",
+            "text": "Fremdenh. Haus Sachsenwald, Kd O. Schmidt- Straße 35"
+          },
+          {
+            "extension": "369",
+            "text": "Fremdenheim Haus Waldeck, Bärenfels"
+          },
+          {
+            "extension": "456",
+            "text": "Fremdenheim Haus Waldesruh, Kipsdorf"
+          },
+          {
+            "extension": "469",
+            "text": "Fremdenheim Heidehof, Oberbärenburg"
+          },
+          {
+            "extension": "583",
+            "text": "Fremdenheim Heidehof, Schellerhau 44D"
+          },
+          {
+            "extension": "219",
+            "text": "Fremdenheim Helenenhof, Oberbärenburg."
+          },
+          {
+            "extension": "479",
+            "text": "Fremdenheim, Henriettenhof, Schellerhau"
+          },
+          {
+            "extension": "365",
+            "text": "Fremdenheim Hocheck, Waldbärenburg"
+          },
+          {
+            "extension": "243",
+            "text": "Fremdenheim Hubertus, Bärenfels, Hub.W.1D"
+          },
+          {
+            "extension": "(267)",
+            "text": "Fremdenh. Landh. Bären-Aue, Bärenfels"
+          },
+          {
+            "extension": "979",
+            "text": "Fremdenh Landh Holona Bärenfels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "410",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "217",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "569",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "574",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "215",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "295",
+            "text": "Fremdenh."
+          },
+          {
+            "extension": "367",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "266",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "584",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "522",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "371",
+            "text": "Fremdenh."
+          },
+          {
+            "extension": "316",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "238",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "307",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "314",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "216",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "201",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "496",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "594",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "249",
+            "text": "Fremdenheim"
+          },
+          {
+            "extension": "566",
+            "text": "Fremdenheim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 20 995 995\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>000</th>\n<th>00",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "505",
+            "text": "Gasth. Schmiedeberg, Schmiedeberg."
+          },
+          {
+            "extension": "261",
+            "text": "Gasth. W. Schmidt, Sadisdorf"
+          },
+          {
+            "extension": "555",
+            "text": "Gasth. Wahlmühle, E. Nitzsche, Hennersdorf"
+          },
+          {
+            "extension": "341",
+            "text": "Gasth. Voigt, Schellerhau, Böhm.Str. 34b"
+          },
+          {
+            "extension": "(416)",
+            "text": "Gasth. Waldesruh, Dönschten"
+          },
+          {
+            "extension": "453",
+            "text": "Gebler, Paul, Friseur, Oberbärenburg."
+          },
+          {
+            "extension": "392",
+            "text": "Gehmlich, Oswald, Schneidermstr., Bärenfels."
+          },
+          {
+            "extension": "230",
+            "text": "Gemeiner, Hugo, Malermstr., Altenb.Str."
+          },
+          {
+            "extension": "581",
+            "text": "Gerhardt, Paul, Fkh Waldidylle"
+          },
+          {
+            "extension": "508",
+            "text": "Germar, Dr. R., Arzt Molchgrund"
+          },
+          {
+            "extension": "420",
+            "text": "Gendarmerieposten, Schmiedeberg"
+          },
+          {
+            "extension": "388",
+            "text": "Giebe, Karl, Schuhwr., Kd Reineckerweg 28"
+          },
+          {
+            "extension": "430",
+            "text": "Gicseke, Otto, Weidegut Kipsdorf"
+          },
+          {
+            "extension": "(426)",
+            "text": "Girokasse Kipsdorf"
+          },
+          {
+            "extension": "596",
+            "text": "Gleitsmann, E. T. R., Fkh Waldidylle"
+          },
+          {
+            "extension": "467",
+            "text": "Glöckner, Walter, Ingenieur, Bärenfels 16d"
+          },
+          {
+            "extension": "236",
+            "text": "Göhler, K., Landh., Bärenfels, Böhm.Str. 11E"
+          },
+          {
+            "extension": "282",
+            "text": "Göhler, Willy, Molkerei Hennersdorf"
+          },
+          {
+            "extension": "577",
+            "text": "Götz, Elfriede, Oberbärenburg"
+          },
+          {
+            "extension": "439",
+            "text": "Gräber, Alfred, Kol.-W., Schmiedeberg"
+          },
+          {
+            "extension": "310",
+            "text": "Greif, Martin, Mietautos, Oberbärenburg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "458",
+            "text": "Günthermann, Emil,"
+          },
+          {
+            "extension": "372",
+            "text": "Günthermann, Gg.,"
+          },
+          {
+            "extension": "291",
+            "text": "Habl, Herm.,"
+          },
+          {
+            "extension": "305",
+            "text": "Derselbe,"
+          },
+          {
+            "extension": "347",
+            "text": "Hänel, Max,"
+          },
+          {
+            "extension": "290",
+            "text": "Hänel, Otto,"
+          },
+          {
+            "extension": "573",
+            "text": "Hahmann, Karl,"
+          },
+          {
+            "extension": "593",
+            "text": "Halbhuber, Bruno,"
+          },
+          {
+            "extension": "301",
+            "text": "Hamecher-Stock,"
+          },
+          {
+            "extension": "247",
+            "text": "Hautzsch, Kurt,"
+          },
+          {
+            "extension": "326",
+            "text": "Hasenohr, Paul,"
+          },
+          {
+            "extension": "323",
+            "text": "Heinrich, Hans,"
+          },
+          {
+            "extension": "297",
+            "text": "Heinrich, Kurt,"
+          },
+          {
+            "extension": "353",
+            "text": "Heinzmann, A.,"
+          },
+          {
+            "extension": "518",
+            "text": "Henker, Arthur,"
+          },
+          {
+            "extension": "431",
+            "text": "Henker, Karl,"
+          },
+          {
+            "extension": "585",
+            "text": "Hering, Paul,"
+          },
+          {
+            "extension": "506",
+            "text": "Herrmann, Bruno,"
+          },
+          {
+            "extension": "223",
+            "text": "Hesse, Emil,"
+          },
+          {
+            "extension": "498",
+            "text": "Heyne, Otto,"
+          },
+          {
+            "extension": "492",
+            "text": "—"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "468",
+            "text": "Holfert, Gustav, Gärtnerei, Kipsdorf."
+          },
+          {
+            "extension": "331",
+            "text": "Holfert, Max, Kol.-W., Kipsdorf."
+          },
+          {
+            "extension": "539",
+            "text": "Derselbe, Zweiggeschäft, Oberbärenburg."
+          },
+          {
+            "extension": "251",
+            "text": "Hommel, Dr. C., R.A. [N], Fkh Waldidylle"
+          },
+          {
+            "extension": "390",
+            "text": "Horn, Ehrig, Kol.W., Schellerhau"
+          },
+          {
+            "extension": "450",
+            "text": "Hotel Berghof Falkenhorst, Fkh Waldidylle"
+          },
+          {
+            "extension": "511",
+            "text": "Hotel Felsenburg, Bärenfels"
+          },
+          {
+            "extension": "514",
+            "text": "Hotel Halali, Kipsdorf"
+          },
+          {
+            "extension": "464",
+            "text": "Hotel „Hermannshöhe“, Oberbärenburg"
+          },
+          {
+            "extension": "544",
+            "text": "Hotel Lug ins Land, Oberkipsdorf"
+          },
+          {
+            "extension": "384",
+            "text": "Hotel „Putzmühle“, Oberpöbel"
+          },
+          {
+            "extension": "276",
+            "text": "Hotel „Schäfermühle“, Waldbärenburg"
+          },
+          {
+            "extension": "513",
+            "text": "Hotel „Tellkoppe“, Kipsdorf"
+          },
+          {
+            "extension": "317",
+            "text": "Hucho, Eleonore, Kd Altenb.Str."
+          },
+          {
+            "extension": "287",
+            "text": "Hucho, Thea, Kinderheim, Oberkipsdorf"
+          },
+          {
+            "extension": "559",
+            "text": "Jahn, Hellmuth, Erbger.-B., Hennersdorf"
+          },
+          {
+            "extension": "495",
+            "text": "Jehmlich, Joh., Ing., Molchgrund 37T"
+          },
+          {
+            "extension": "220",
+            "text": "Jugendheim d. Stadt Chemnitz, Dönschten"
+          },
+          {
+            "extension": "202",
+            "text": "Jugendherberge Dönschten"
+          },
+          {
+            "extension": "350",
+            "text": "Jugendherberge Schellerhau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": ": Thierfelder (Band V) 235",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "345",
+            "text": "Kaiserhof, Kurhaus d. Versich.-Anst. Bärenfels"
+          },
+          {
+            "extension": "313",
+            "text": "Kaschel, Joh., Schneider, Schmiedeberg"
+          },
+          {
+            "extension": "523",
+            "text": "Keller, Max, Fleischermstr., Obercarsdorf"
+          },
+          {
+            "extension": "221",
+            "text": "Kempe, Bruno, Thielemühle, Schönfeld"
+          },
+          {
+            "extension": "565",
+            "text": "v. Killinger, Haus Fensalir, Bärenfels"
+          },
+          {
+            "extension": "225",
+            "text": "Kinder-Heim, Sonnenblick, Waldbärenburg"
+          },
+          {
+            "extension": "436",
+            "text": "Kinderheim Hoffmann, Kipsdorf"
+          },
+          {
+            "extension": "284",
+            "text": "Klauss, Emma, Hebamme, Bärenfels, Böhm. Str"
+          },
+          {
+            "extension": "298",
+            "text": "Klemm, Max, Feinkost, Altenb. Str."
+          },
+          {
+            "extension": "376",
+            "text": "Klotz, Bruno, Bauer, Falkenhain"
+          },
+          {
+            "extension": "435",
+            "text": "Klotz, Max, Bauer, Sadisdorf"
+          },
+          {
+            "extension": "455",
+            "text": "Köhler, Paul, Schmicdemstr., Schmiedeberg"
+          },
+          {
+            "extension": "487",
+            "text": "Körner, Dr. O., Arzt, Oberkipsdorf"
+          },
+          {
+            "extension": "535",
+            "text": "Körner, Paul, Sägewerk, Ammelsdorf"
+          },
+          {
+            "extension": "520",
+            "text": "Rud. Köster & Co., Holzwrfabrkt., Naundorf"
+          },
+          {
+            "extension": "490",
+            "text": "Kost, Paul, Modehaus, Kd Oberbärenburg"
+          },
+          {
+            "extension": "472",
+            "text": "Kox, Margarete, Landhaus, Schellerhau"
+          },
+          {
+            "extension": "427",
+            "text": "Kraftverkehr Sachsen AG, Warte Kipsdorf"
+          },
+          {
+            "extension": "563",
+            "text": "Krausc, Dr. Kurt, Tierarzt, Naundorf, Altenb. Str. 31b"
+          },
+          {
+            "extension": "252",
+            "text": "Kretzschmar, E., Fleischerm., Schönfeld"
+          },
+          {
+            "extension": "807",
+            "text": "Kräner, Otto Kfm Schmiedeberg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "512",
+            "text": "Krumpolt, H., Sägework"
+          },
+          {
+            "extension": "327",
+            "text": "Krumpolt, Rich., Sägework, Pöbelta"
+          },
+          {
+            "extension": "475",
+            "text": "Landheim d. St. Oberschule, Bärenfels"
+          },
+          {
+            "extension": "288",
+            "text": "Landheim Fichte-Schule zu Meißen, Schellerhau"
+          },
+          {
+            "extension": "277",
+            "text": "Landheim Scharnhorst, Schellerhau"
+          },
+          {
+            "extension": "357",
+            "text": "Landheim des Staatsgymnasiums, Kipsdorf"
+          },
+          {
+            "extension": "494",
+            "text": "Laubert, Helmuth, Bäckerm., Ob.-Bärenburg"
+          },
+          {
+            "extension": "451",
+            "text": "Lehmann, Edwin, Kol.W., Ammelsdorf"
+          },
+          {
+            "extension": "208",
+            "text": "Leinert, Else, Ww., Oberbärenburg"
+          },
+          {
+            "extension": "443",
+            "text": "Leonhardt, Alfred, Oberbärenburg 11c"
+          },
+          {
+            "extension": "485",
+            "text": "Lipfert, Arthur, Fabrikdir., Fkh Waldidylle"
+          },
+          {
+            "extension": "229",
+            "text": "Lippmann Nf., Clemens, Manufakturwr."
+          },
+          {
+            "extension": "348",
+            "text": "Lisch, Otto, Fkh Waldidylle"
+          },
+          {
+            "extension": "338",
+            "text": "Lotze, Paul, Kohlen"
+          },
+          {
+            "extension": "481",
+            "text": "Ludwig, Rudolf, Pfarrer em., Kipsdorf"
+          },
+          {
+            "extension": "349",
+            "text": "Luther, Alfred, Dr., Ob.Bärenburg 63b"
+          },
+          {
+            "extension": "337",
+            "text": "Malke, Gustav, Maler, Pöbeltastr. 18F."
+          },
+          {
+            "extension": "533",
+            "text": "Marg. Cronau-Heim, Schellerhau"
+          },
+          {
+            "extension": "209",
+            "text": "von Mayenburg, Rose, Oberkipsdorf"
+          },
+          {
+            "extension": "306",
+            "text": "Meding, Ketty, Schellerhau Nr. 66"
+          },
+          {
+            "extension": "292",
+            "text": "Meissner, Otto, Feinkost, Oberbärenburg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "586",
+            "text": "Misnia, Gästeheim, Bärenfels"
+          },
+          {
+            "extension": "562",
+            "text": "Müller, Arno, Bärenfels, Böhm. Str. 26"
+          },
+          {
+            "extension": "343",
+            "text": "Müller, Oscar, Fremdenheim, Haus i. d. Sonne"
+          },
+          {
+            "extension": "501",
+            "text": "Müller, Paul, Sägewerk, Schmiedeberg."
+          },
+          {
+            "extension": "(562)",
+            "text": "Müller, Susanne, Frisiersalon, Bärenfels"
+          },
+          {
+            "extension": "592",
+            "text": "Müller, Wilh., Dipl. Ing., Brandweg 8 I"
+          },
+          {
+            "extension": "595",
+            "text": "zur Nedden, O. Ing., Milchgrundstr. 32 L"
+          },
+          {
+            "extension": "336",
+            "text": "C. G. Nitzsche Söhne, Holzstoffabrik"
+          },
+          {
+            "extension": "339",
+            "text": "Nitzsche, Max, Holzsägewerk, Pöbeltal."
+          },
+          {
+            "extension": "206",
+            "text": "Nitzsche, Max, Radio, Schmiedeberg"
+          },
+          {
+            "extension": "567",
+            "text": "NSDAP, OG. Schmiedeberg"
+          },
+          {
+            "extension": "(304)",
+            "text": "Dieselbe, OG. Kipsdorf"
+          },
+          {
+            "extension": "(560)",
+            "text": "Dieselbe, Ortsgr. Bärenfels"
+          },
+          {
+            "extension": "572",
+            "text": "NS-Schwesternheim, Fkh Waldidylle 43"
+          },
+          {
+            "extension": "478",
+            "text": "Oette, Max, Baumstr."
+          },
+          {
+            "extension": "497",
+            "text": "Oppitz, Paul, Hptm., Fkh Waldidylle 44 c"
+          },
+          {
+            "extension": "312",
+            "text": "Paul, Alfred, Maschinen, Hennersdorf"
+          },
+          {
+            "extension": "325",
+            "text": "Petzold, Curt, Friseur, Pöbeltalstr. 17"
+          },
+          {
+            "extension": "484",
+            "text": "Pfarramt, ev.-luth., Hennersdorf"
+          },
+          {
+            "extension": "289",
+            "text": "Pfarramt, ev.-luth., Kipsdorf"
+          },
+          {
+            "extension": "249",
+            "text": "Pfarramt ev.-luth. Kipsdorf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "541",
+            "text": "Pfarrant, ev.-luth., Schellerhau"
+          },
+          {
+            "extension": "461",
+            "text": "Pfarrant, ev.-luth., Schmiedeberg"
+          },
+          {
+            "extension": "315",
+            "text": "Pfeil, Irmgard, Villa Kipsdorf"
+          },
+          {
+            "extension": "474",
+            "text": "Pfützner, Alw., Bäckerei."
+          },
+          {
+            "extension": "279",
+            "text": "Pisarczyk, Hans, Eisenwerk, Schmiedeberg"
+          },
+          {
+            "extension": "552",
+            "text": "Posselt, Paul, Kfm., Oberbärenburg"
+          },
+          {
+            "extension": "210",
+            "text": "Pretzsch, Bertha, Kol.-W., Bärenfels 8"
+          },
+          {
+            "extension": "589",
+            "text": "Preuß, Robert, Bauuntern., Naundorf 29T"
+          },
+          {
+            "extension": "242",
+            "text": "Priebs, Fritz, Lastwagen, Hennersdorf 1D"
+          },
+          {
+            "extension": "286",
+            "text": "Püschel, Emil, Bauer, Sadisdorf"
+          },
+          {
+            "extension": "558",
+            "text": "Püschel, M., Gärtnerei, Naundorf 3"
+          },
+          {
+            "extension": "384",
+            "text": "Putzmühle Gaststätte, Oberpöbel"
+          },
+          {
+            "extension": "245",
+            "text": "Querner, Else, Schellerhau 64"
+          },
+          {
+            "extension": "308",
+            "text": "Ramsbeck, W., Dentist, Altenb.Str. 33F"
+          },
+          {
+            "extension": "465",
+            "text": "Rauchfuß Nachf., Hermann, Likörfbr."
+          },
+          {
+            "extension": "425",
+            "text": "Reichsbahn, Bhf. u. Güterabf. Kipsdorf."
+          },
+          {
+            "extension": "424",
+            "text": "Dieselbe, Bhf. u. Güterabf. Schmiedeberg."
+          },
+          {
+            "extension": "400",
+            "text": "Reichspost, Postamt Kipsdorf"
+          },
+          {
+            "extension": "405",
+            "text": "Dieselbe, Postamt Schmiedeberg"
+          },
+          {
+            "extension": "532",
+            "text": "Reisewitz, Lora, Fremdenh., Oberbärenburg"
+          },
+          {
+            "extension": "536",
+            "text": "Richter, Willy, Baugesch., Pöbeltalstr."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "590",
+            "text": "Rißmann, Hans, Pfarrer, Schellerhau"
+          },
+          {
+            "extension": "503",
+            "text": "Rittergut Naundorf, Oscar Bierling."
+          },
+          {
+            "extension": "268",
+            "text": "Roch, Dr. Heinr., Ing., Schellerhau"
+          },
+          {
+            "extension": "591",
+            "text": "Rose, C. G., Schellerhau, Niedersachsen"
+          },
+          {
+            "extension": "528",
+            "text": "Rotter, Kurt, Bäckerei, Schellerhau"
+          },
+          {
+            "extension": "459",
+            "text": "Rühle, Otto, Schmiedemstr., Naundorf"
+          },
+          {
+            "extension": "375",
+            "text": "Saalfeld, Walter, Kuranst., Altenb.Str. 51"
+          },
+          {
+            "extension": "407",
+            "text": "Sachse, Hans, Oberlehrer, Kipsdorf"
+          },
+          {
+            "extension": "213",
+            "text": "Sachsenerz-Bergwerksge.smbH, Sadisdorf"
+          },
+          {
+            "extension": "516",
+            "text": "Samson, Dr. Benv., R.A. [N], Dönschten"
+          },
+          {
+            "extension": "309",
+            "text": "Scharfe, Alfred, Fuhrgesch., Schellerhau"
+          },
+          {
+            "extension": "560",
+            "text": "Schick, Willy, Bärenfels, Böhm.Str. 11"
+          },
+          {
+            "extension": "283",
+            "text": "Schieberlein, R., Berghof, Fch Waldidylle"
+          },
+          {
+            "extension": "441",
+            "text": "Schirrmeister, Herm., Oberbärenburg 8c"
+          },
+          {
+            "extension": "265",
+            "text": "Alb. & Rud. Schmieder, Holzschuhfabr., Nr. 76"
+          },
+          {
+            "extension": "370",
+            "text": "Schmidt, Erich, Rittmstr., Kipsdorf"
+          },
+          {
+            "extension": "374",
+            "text": "Scholz, Erich, Obst, Schellerhau 32D"
+          },
+          {
+            "extension": "257",
+            "text": "Schreiner, Alfred, Kohlen, Kipsdorf 29b"
+          },
+          {
+            "extension": "515",
+            "text": "Schreiner, E., Fuhrwerksbes., Kipsdorf 29b"
+          },
+          {
+            "extension": "368",
+            "text": "Schreiner Rud., Fuhrw., Bärenfels 9"
+          },
+          {
+            "extension": "000",
+            "text": "Schützen Naundorf Raumstr. Naundorf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "580",
+            "text": "Schubert, Alfred, Bäckerei, Falkenhain 4b"
+          },
+          {
+            "extension": "473",
+            "text": "Schüler, Adelheid, Ww., Bärenfels, Sichelweg"
+          },
+          {
+            "extension": "296",
+            "text": "Schülerheim d. Vitzth. Gymnas., Dönschten"
+          },
+          {
+            "extension": "214",
+            "text": "Schülerinnenheim Bärenfels"
+          },
+          {
+            "extension": "244",
+            "text": "Schütze, Alfred, Autorep., Altenbergerstr."
+          },
+          {
+            "extension": "440",
+            "text": "Schule Falkenhain, Schulltr. Kühne, Nr. 33b"
+          },
+          {
+            "extension": "457",
+            "text": "Schule u. Standesamt, Schellerhau"
+          },
+          {
+            "extension": "204",
+            "text": "Schultzik, Robert, Direkt., Wald-Bärenburg"
+          },
+          {
+            "extension": "259",
+            "text": "Schulz, Albert, Fkh Waldidylle 299b"
+          },
+          {
+            "extension": "239",
+            "text": "Schwarze, Marie, Oberbärenburg"
+          },
+          {
+            "extension": "383",
+            "text": "Schwenke, Otto, Mictauto, Naundorf 27"
+          },
+          {
+            "extension": "364",
+            "text": "Sennewald, Willy, Oberbärenburg 13F"
+          },
+          {
+            "extension": "435",
+            "text": "Spar-, Kredit- u. Bez.-Ver., Sadisdorf"
+          },
+          {
+            "extension": "556",
+            "text": "Spar- u. Darl.-Verein Hennersdorf 35"
+          },
+          {
+            "extension": "428",
+            "text": "Starke, Otto, Brandmstr., Molchgrund 32n"
+          },
+          {
+            "extension": "253",
+            "text": "Sterl, Albert, Molkerei Naundorf"
+          },
+          {
+            "extension": "329",
+            "text": "Sterzel, Kurt, Direktor, Bärenfels"
+          },
+          {
+            "extension": "504",
+            "text": "Thiel, Felix, Fleischermstr."
+          },
+          {
+            "extension": "319",
+            "text": "Thiele, Fritz, Lederfabrik., Oberbärenburg 8c"
+          },
+          {
+            "extension": "378",
+            "text": "Thierfelder, H., Ind.-Bedarf, Altenb.Str. 33"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

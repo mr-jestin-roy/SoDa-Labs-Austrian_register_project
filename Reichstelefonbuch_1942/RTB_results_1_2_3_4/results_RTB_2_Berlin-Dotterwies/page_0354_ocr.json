@@ -1,0 +1,961 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "342",
+            "text": "(Band II) Berlin: Kem"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"292 28 998 962\" data-label=\"Text\"><table><tbody><tr><td>50 51 45</td><td>Kempinski, Curt, <i>Hschö</i> Straub. Str. 121</td></tr><tr><td>32 27 05</td><td>Kempinski, Else, Rein., <i>Chb</i> 4 Wielandstr. 38</td></tr><tr><td>83 54 71</td><td>Kempinski, Edm., Dir., <i>Wilm</i> Spess. Str. 4</td></tr><tr><td>41 73 44</td><td>Kempinski, Jos., Schlosserei, N 4, Kleine<br/>Hamburger Str. 2</td></tr><tr><td>12 48 94</td><td>L. Kempinski &amp; Co, Papierwr., SW 68, Wilh.<br/>Straße 42</td></tr><tr><td>96 14 20</td><td>Kempinski, Vera, <i>Chb</i> Wilm. Str. 81</td></tr><tr><td>12 15 21</td><td>M. Kempinski &amp; Co., W 8, Friedr. Str. 167</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "M. Kempinski & Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"284 16 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>73 15 39</td>\n<td>Kempke, Dr. F., Ref.,</td>\n<td>Lkw Schneebr. Str. 101</td>\n</tr>\n<tr>\n<td>31 28 73</td>\n<td>Kempke, Marta, Chb</td>\n<td>4 Bismarckstr. 102</td>\n</tr>\n<tr>\n<td>79 20 28</td>\n<td>Kempke u. Schneider, Möb.,</td>\n<td>Süd Halskestr. 3</td>\n</tr>\n<tr>\n<td>92 37 45</td>\n<td>Kempkens, F., Kfm.,</td>\n<td>Wilm Zähr. Str. 5</td>\n</tr>\n<tr>\n<td>79 27 54</td>\n<td>Kempkes, Anna, Stegl</td>\n<td>Hermesw. 3</td>\n</tr>\n<tr>\n<td>73 18 97</td>\n<td>Kempkes, C., Direkt.,</td>\n<td>Lt/ Lotzestr. 10</td>\n</tr>\n<tr>\n<td>87 20 67</td>\n<td>Kempkes, Joh.-Maria,</td>\n<td>Wilm W.-Fischer-<br/>Straße 24</td>\n</tr>\n<tr>\n<td>67 24 03</td>\n<td>Kempner, Alfred,</td>\n<td>Etik.-Fabr., SW 68,<br/>Dresdener Str. 80</td>\n</tr>\n<tr>\n<td>99 28 89</td>\n<td>Kempner, Dr., Reg.-Rat,</td>\n<td>Chb 8 Kast.-<br/>Allee 27</td>\n</tr>\n<tr>\n<td>79 50 84</td>\n<td>Kempner, Dr. O., Ass.,</td>\n<td>Stegl Posch. Str. 36</td>\n</tr>\n<tr>\n<td>12 46 94</td>\n<td>Kempner-Kempinski, L.,</td>\n<td>Wilh.-Str. 42</td>\n</tr>\n<tr>\n<td>42 95 75</td>\n<td>Kempowski, Lotte,</td>\n<td>NW 7, Karlstr. 5a</td>\n</tr>\n<tr>\n<td>86 55 54</td>\n<td>v. Kempski, Irmg.,</td>\n<td>Wilm Landhausstr. 9</td>\n</tr>\n<tr>\n<td>50 17 26</td>\n<td>Kempt, E., Kfm.,</td>\n<td>Krish Rheing. Str. 26</td>\n</tr>\n<tr>\n<td>88 72 81</td>\n<td>Kempi, Fritz, Oberleutn.</td>\n<td>a. D., Wilm<br/>Geisenh. Str. 42</td>\n</tr>\n<tr>\n<td>31 78 02</td>\n<td>Kempt, Marta, Feinkost,</td>\n<td>Chb 9 Kneseb.-<br/>Straße 90</td>\n</tr>\n<tr>\n<td>94 29 70</td>\n<td>Kunz, Minna</td>\n<td>Wahnerstr. 1 Berlin</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "39",
+            "text": "18"
+          },
+          {
+            "extension": "25",
+            "text": "18"
+          },
+          {
+            "extension": "92",
+            "text": "65"
+          },
+          {
+            "extension": "12",
+            "text": "48"
+          },
+          {
+            "extension": "76",
+            "text": "42"
+          },
+          {
+            "extension": "61",
+            "text": "58"
+          },
+          {
+            "extension": "99",
+            "text": "32"
+          },
+          {
+            "extension": "53",
+            "text": "08"
+          },
+          {
+            "extension": "53",
+            "text": "52"
+          },
+          {
+            "extension": "44",
+            "text": "17"
+          },
+          {
+            "extension": "45",
+            "text": "12"
+          },
+          {
+            "extension": "37",
+            "text": "12"
+          },
+          {
+            "extension": "50",
+            "text": "79"
+          },
+          {
+            "extension": "97",
+            "text": "86"
+          },
+          {
+            "extension": "88",
+            "text": "48"
+          },
+          {
+            "extension": "87",
+            "text": "80"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"277 0 997 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>30 12 57</td>\n<td>Kendelbacher, Anna, Lehr., <i>Chb</i> 5 Schloßstraße 66</td>\n</tr>\n<tr>\n<td>46 50 95</td>\n<td>Kendelbacher, Max, Gastw., N 20, Koloniestraße 76</td>\n</tr>\n<tr>\n<td>71 03 32</td>\n<td>Kendelbacher, M., Ztg., <i>Schb</i> Belz.Str. 22</td>\n</tr>\n<tr>\n<td>75 74 68</td>\n<td>Kender, A., Vertr., <i>Tmp</i> Attilastr. 159</td>\n</tr>\n<tr>\n<td>71 49 08</td>\n<td>Kendler, Dora, <i>Schb</i> Hauptstr. 136</td>\n</tr>\n<tr>\n<td>27 48 27</td>\n<td>Kendler, Erh., Techn., W 35, Bülowstr. 63</td>\n</tr>\n<tr>\n<td>64 61 48</td>\n<td>Kendler, E., Gastst., <i>Frhg</i> Friedr.Str. 47</td>\n</tr>\n<tr>\n<td>93 17 03</td>\n<td>Kendler, Willy, <i>Ch</i> 5 Holtzend.Str. 7</td>\n</tr>\n<tr>\n<td>88 69 13</td>\n<td>Kendzia, Arthur, Angest., <i>Frdn</i> Offenb. Straße 26</td>\n</tr>\n<tr>\n<td>19 77 40</td>\n<td>Kendzia, Hans, SW 61, Wartenburgstr. 18</td>\n</tr>\n<tr>\n<td>62 79 03</td>\n<td>Kendzia, J., Kaffee, <i>Neuk</i> Mariendorfer Weg 77</td>\n</tr>\n<tr>\n<td>75 28 33</td>\n<td>Kendziersky, M., Naturheilk., <i>Tmp</i> Konradinstr. 21</td>\n</tr>\n<tr>\n<td>60 70 18</td>\n<td>Kendziersky, Th., Buchhdlr., Britz, Gie-<br/>lower Str. 31</td>\n</tr>\n<tr>\n<td>76 07 73</td>\n<td>Kendzioura, Carl, Ing., <i>Dahl</i> U. d. Eichen 85</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"271 0 990 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>50 87 50</td>\n<td>Kendzofski, Klara, Obst, <i>Msd</i> Pils.Str. 38</td>\n</tr>\n<tr>\n<td>39 92 96</td>\n<td>Kenin, Edg., Schneid., NW 87, Altonaer<br/>Straße 4</td>\n</tr>\n<tr>\n<td>31 09 14</td>\n<td>Kenkel, Gg., Glaser, <i>Chb</i> 2 Goethestr. 14</td>\n</tr>\n<tr>\n<td>58 94 00</td>\n<td>Kenklies, Emil, Wäsche, O 34, Frankf.<br/>Allee 344</td>\n</tr>\n<tr>\n<td>99 52 61</td>\n<td>Kennan, George F., <i>Chb</i> 9 Württ.Allee 24</td>\n</tr>\n<tr>\n<td>56 28 95</td>\n<td>Kennemann, Alfr., Bäck., <i>Weiß</i> Wig.Str. 32</td>\n</tr>\n<tr>\n<td>48 25 98</td>\n<td>Kennemann, Günter, <i>Pko</i> Crusemarkstr. 8</td>\n</tr>\n<tr>\n<td>35 28 29</td>\n<td>Kennemann, Kriemhild, NW 40, Melanch.-<br/>Straße 9</td>\n</tr>\n<tr>\n<td>84 55 38</td>\n<td>Kennemann, R., Fris., <i>Telt</i> Hindenb.Pl. 1</td>\n</tr>\n<tr>\n<td>75 34 04</td>\n<td>Kennert, Gertrud, <i>Tmp</i> Stolbergstr. 2</td>\n</tr>\n<tr>\n<td>86 54 82</td>\n<td>Kennert, Jolanta, <i>Wilm</i> Stenzelstr. 36</td>\n</tr>\n<tr>\n<td>55 31 65</td>\n<td>Kennert, Kurt, Standesbeamte., <i>Lbg</i><br/>Ruschestr. 17</td>\n</tr>\n<tr>\n<td>96 26 33</td>\n<td>Kennert, Maria, <i>Gro</i> Königsallee 1a</td>\n</tr>\n<tr>\n<td>66 43 61</td>\n<td>Kennert, Rich., Optiker, SW 29, Zoss.Str. 28</td>\n</tr>\n<tr>\n<td>91 47 93</td>\n<td>Kenneweg, Died., W 15, Uhlandstr. 173</td>\n</tr>\n<tr>\n<td>22 51 18</td>\n<td>Kenneweg, Gertrud, Farb., W 35, Frobstr. 3</td>\n</tr>\n<tr>\n<td>68 26 39</td>\n<td>Kenneweg. H. Ing. SO 36. Elbinger W. 9</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"270 0 998 836\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>74 00 17</th>\n<th>Vil. u. R.</th>\n<th>Beulig, Dalmatien, V.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>Weinm.Str. 1</td>\n<td></td>\n</tr>\n<tr>\n<td>58 92 04</td>\n<td>Kennig, Erwin, Angest., O 112, Schreinerstraße 8</td>\n<td></td>\n</tr>\n<tr>\n<td>61 52 42</td>\n<td>Kenning, W., Transp., SW 68, Alexandr. Straße 137</td>\n<td></td>\n</tr>\n<tr>\n<td>92 01 44</td>\n<td>Kennis, Joh., Kfm., W 15, Meinekestr. 16</td>\n<td></td>\n</tr>\n<tr>\n<td>58 15 56</td>\n<td>Kennzeichnungsstelle f. Eier, W. Lent &amp; Co, O 17, Hohenl. Brücke 17</td>\n<td></td>\n</tr>\n<tr>\n<td>86 38 34</td>\n<td>Kensche, C., Stadtdamtsrat, Wilm Kohlenzer Str. 20</td>\n<td></td>\n</tr>\n<tr>\n<td>63 45 34</td>\n<td>Kensche, Heinz, Ingen., Ndude Bärenlauchstr. 93</td>\n<td></td>\n</tr>\n<tr>\n<td>58 71 42</td>\n<td>Kensche, W., Schreibwr., O 34, Thaerstr. 42</td>\n<td></td>\n</tr>\n<tr>\n<td>84 82 31</td>\n<td>Kenschitzki, W., Oberstlttn., Schnee Schemmstr. 46</td>\n<td></td>\n</tr>\n<tr>\n<td>26 01 01</td>\n<td>Kensy, Elisabeth., Gastw., Schb Eis.-Str. 86</td>\n<td></td>\n</tr>\n<tr>\n<td>67 22 10</td>\n<td>Kenter, C., Steuerber., SO 16, Köp.Str. 68</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or tables.</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Dinski — Kerski",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "32",
+            "text": "11"
+          },
+          {
+            "extension": "50",
+            "text": "97"
+          },
+          {
+            "extension": "87",
+            "text": "39"
+          },
+          {
+            "extension": "93",
+            "text": "57"
+          },
+          {
+            "extension": "16",
+            "text": "56"
+          },
+          {
+            "extension": "59",
+            "text": "43"
+          },
+          {
+            "extension": "84",
+            "text": "28"
+          },
+          {
+            "extension": "91",
+            "text": "67"
+          },
+          {
+            "extension": "92",
+            "text": "74"
+          },
+          {
+            "extension": "97",
+            "text": "37"
+          },
+          {
+            "extension": "41",
+            "text": "33"
+          },
+          {
+            "extension": "55",
+            "text": "24"
+          },
+          {
+            "extension": "58",
+            "text": "73"
+          },
+          {
+            "extension": "87",
+            "text": "92"
+          },
+          {
+            "extension": "62",
+            "text": "89"
+          },
+          {
+            "extension": "97",
+            "text": "50"
+          },
+          {
+            "extension": "34",
+            "text": "36"
+          },
+          {
+            "extension": "42",
+            "text": "24"
+          },
+          {
+            "extension": "20",
+            "text": "7A"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "26",
+            "text": "03"
+          },
+          {
+            "extension": "47",
+            "text": "46"
+          },
+          {
+            "extension": "59",
+            "text": "32"
+          },
+          {
+            "extension": "31",
+            "text": "02"
+          },
+          {
+            "extension": "62",
+            "text": "13"
+          },
+          {
+            "extension": "19",
+            "text": "74"
+          },
+          {
+            "extension": "92",
+            "text": "31"
+          },
+          {
+            "extension": "91",
+            "text": "43"
+          },
+          {
+            "extension": "26",
+            "text": "11"
+          },
+          {
+            "extension": "50",
+            "text": "12"
+          },
+          {
+            "extension": "76",
+            "text": "36"
+          },
+          {
+            "extension": "42",
+            "text": "10"
+          },
+          {
+            "extension": "41",
+            "text": "34"
+          },
+          {
+            "extension": "66",
+            "text": "49"
+          },
+          {
+            "extension": "69",
+            "text": "17"
+          },
+          {
+            "extension": "76",
+            "text": "37"
+          },
+          {
+            "extension": "97",
+            "text": "64"
+          },
+          {
+            "extension": "66",
+            "text": "13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 15 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>22 55 23</td>\n<td>Keramik J. S. J. Scheffler, W 35, Woytschstraße 32</td>\n</tr>\n<tr>\n<td>39 28 09</td>\n<td>Keramikbau Keramische Bau- u. Exp. GmbH, NW 87, Altonaer Str. 9</td>\n</tr>\n<tr>\n<td>39 16 82</td>\n<td>Dies., Tonvers.-Anst., NW 87, Turmstr. 73</td>\n</tr>\n<tr>\n<td>30 21 81</td>\n<td>Keram.Ind.-Bedarfs-AG, Chb2 Berl.Str.39</td>\n</tr>\n<tr>\n<td>35 62 01</td>\n<td>Keramische Rundschau, NW 21, Dreyestraße 4</td>\n</tr>\n<tr>\n<td>71 10 06</td>\n<td>Keramisches Laborat., Schb Gruncwaldstraße 54</td>\n</tr>\n<tr>\n<td>17 23 24</td>\n<td>Kerato-Chemie Cath. Weidner, SW 68, Alexandr.Str. 26</td>\n</tr>\n<tr>\n<td>87 32 33</td>\n<td>Kerb-Konus Ges., Wilm Helmst. Str. 5</td>\n</tr>\n<tr>\n<td>48 05 75</td>\n<td>Kerbach, Erich, Kfm., Ndschhs K.-Wilhelm-Str. 14</td>\n</tr>\n<tr>\n<td>56 88 36</td>\n<td>Kerbach, Walter, Buch Brunsw.Weg 5,</td>\n</tr>\n<tr>\n<td>12 20 64</td>\n<td>Derselbe, Büro, W 8, Kronenstr. 2</td>\n</tr>\n<tr>\n<td>60 13 89</td>\n<td>G. Kerbein Nf., Transport, SO 36, Mayb.-Ufer 30</td>\n</tr>\n<tr>\n<td>61 81 23</td>\n<td>Kerbein, Hans, Spediteur, SW 68, Fürstenstraße 17</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Table\"><table><tr><td>42 80 61</td><td>Kerber, Berta, NW 7, Friedr.-Str. 113</td></tr><tr><td>39 49 78</td><td>Kerber, C., Kim., NW 87, Claudiusstr. 12</td></tr><tr><td>77 27 21</td><td>Kerber, E., Nähwerkst., <i>Schö</i> Eisackstr. 15</td></tr><tr><td>47 34 09</td><td>Kerber, Erich, Vertr., <i>Waidm</i> Z. Krügerd. 9</td></tr><tr><td>46 22 40</td><td>Kerber, Fr. Leop., Drog., N 65, Turiner Straße 1</td></tr><tr><td>99 44 66</td><td>Kerber, F., Radio, <i>Chb</i> 9 Kastanienall. 29</td></tr><tr><td>79 28 44</td><td>Kerber, Fritz, <i>Steal</i> Am Kenn 17</td></tr><tr><td>83 68 12</td><td>Kerber, Hanna, <i>Wilm</i> Laub. Str. 48a</td></tr><tr><td>39 40 73</td><td>Kerber, Heinrich, NW 87, Beusselstr. 8</td></tr><tr><td>26 27 10</td><td>Kerber, Johanna, W 30, Münch. Str. 36</td></tr><tr><td>49 34 90</td><td>Kerber, Josef, Gartenbau, <i>Witt</i> Hauptstraße 62</td></tr><tr><td>66 70 08</td><td>Kerber, K. H., SW 61, Urbanstr. 187</td></tr><tr><td>34 77 87</td><td>Kerber, Martha, <i>Chb</i> 1 Guerickestr. 2</td></tr><tr><td>93 25 30</td><td>Kerber, O., Friseur, <i>Chb</i> 5 N. Kantstr. 19</td></tr><tr><td>42 80 63</td><td>Kerber, Otto, Heringe, N 81, Gartenstr. 48</td></tr><tr><td>73 57 11</td><td>Ders., Wohn., <i>Lkw</i> Dillgesstr. 34</td></tr><tr><td>66 43 38</td><td>Kerber, P., Glaser, SW 29, Dieffenb. Str. 18</td></tr><tr><td>27 21 21</td><td>Kerber, R., Kohlen, W 35, Winterf. Str. 3</td></tr><tr><td>34 13 28</td><td>Kerber. R., Baugesch., <i>Chb</i> 1 Maik.-Str. 38</td></tr></table></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 978\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>00 10 70</td>\n<td>aktiviert, Wachen, Wank, 77 1111</td>\n<td>Verzeichnis</td>\n</tr>\n<tr>\n<td>73 20 88</td>\n<td>Kerber, Ulrich, Major, Lt/</td>\n<td>Mittelstr. 23</td>\n</tr>\n<tr>\n<td>53 23 77</td>\n<td>Kerber, Walter, Werkmstr.,</td>\n<td>NO 55, Zeebrüggestr. 38 *</td>\n</tr>\n<tr>\n<td>99 03 20</td>\n<td>Kerber, Wilh., Kfm.,</td>\n<td>Chb Oldenb. All. 12a</td>\n</tr>\n<tr>\n<td>31 28 58</td>\n<td>Kerber, Willy, Obst,</td>\n<td>Chb 4 Kantstr. 124</td>\n</tr>\n<tr>\n<td>64 10 22</td>\n<td>Kerbs, Paul, Wäscherei,</td>\n<td>Köp Spindel. Str. 33</td>\n</tr>\n<tr>\n<td>30 84 37</td>\n<td>Kerbs, Werner, Kfm.,</td>\n<td>Hlsee A. d. Wildb. 74</td>\n</tr>\n<tr>\n<td>44 76 60</td>\n<td>Kerchel, Alfr.,</td>\n<td>Motorräder, N 31, Ackerstraße 56</td>\n</tr>\n<tr>\n<td>91 06 51</td>\n<td>Kerckhoff, H.,</td>\n<td>Buchhdlg., W 15, Lietzenb. Straße 24</td>\n</tr>\n<tr>\n<td>91 10 45</td>\n<td>Ders.,</td>\n<td>Wohnung, W 15, Xantener Str. 16</td>\n</tr>\n<tr>\n<td>71 67 66</td>\n<td>Kerckhoff, Irmg.,</td>\n<td>Zeichn., Schb M.-Lutherstraße 59</td>\n</tr>\n<tr>\n<td>79 67 80</td>\n<td>Kerckhove, Van de, M.,</td>\n<td>Dr. phil., Stegl Klungsorstr. 29</td>\n</tr>\n<tr>\n<td>46 26 77</td>\n<td>Albert Kerfin &amp; Co,</td>\n<td>Türschließerfbr., N 65, Liebenwalder Str. 39</td>\n</tr>\n<tr>\n<td>41 04 86</td>\n<td>Kergel, Dr. med.,</td>\n<td>Assist., NW 7, Hann. Straße 1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 953\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>75 87 09</td>\n<td>Kerger, Gertraud, <i>Temp</i> Attilastr. 15</td>\n</tr>\n<tr>\n<td>58 05 55</td>\n<td>Kerger, G., Goldwr., <i>Biesd</i> Oberfeldstr. 6</td>\n</tr>\n<tr>\n<td>46 12 44</td>\n<td>Kerger, M., Gastw., N 65, Fennstr. 1</td>\n</tr>\n<tr>\n<td>35 60 19</td>\n<td>Kerger, Paul, Kfm., <i>Grü</i> Regattastr. 133</td>\n</tr>\n<tr>\n<td>60 62 72</td>\n<td>Kerger, P., Kol.-Wr., <i>Rud</i> Krokustr. 5</td>\n</tr>\n<tr>\n<td>33 37 86</td>\n<td>Kerger, R., Gastw., <i>Bachw</i> Baumsch.Str. 9</td>\n</tr>\n<tr>\n<td>74 17 57</td>\n<td>Kerger, Rud., Oberinsp., <i>Lkw</i> Seydlitz-<br/>straße 65</td>\n</tr>\n<tr>\n<td>31 14 37</td>\n<td>Kerger, W., SO 36, Oranienstr. 174</td>\n</tr>\n<tr>\n<td>15 09 57</td>\n<td>Kerger, W., Gastw., NO 55, Prenzlauer<br/>Allee 182</td>\n</tr>\n<tr>\n<td>38 39 83</td>\n<td>Kerk, Otto, Geschäftsf., <i>Frdn</i> Stierstr. 18</td>\n</tr>\n<tr>\n<td>56 98 20</td>\n<td>Kerk, Wilh., Milchhdlg., SW 61, Hagelb.-<br/>Straße 8</td>\n</tr>\n<tr>\n<td>71 61 80</td>\n<td>Kerkau, Elsbeth, <i>Schö</i> Apost.-Paulus-<br/>Straße 40</td>\n</tr>\n<tr>\n<td>79 30 84</td>\n<td>Kerkau, Dr. G., Schriftl., <i>Stegl</i> Kneph.Str. 4</td>\n</tr>\n<tr>\n<td>25 36 71</td>\n<td>Kerkau, H., Kfm., W 30, EisenacherStr. 14</td>\n</tr>\n<tr>\n<td>75 15 47</td>\n<td>Kerkau, Willy, Kolonialw., <i>Mad</i> Gers-<br/>dorfstr. 52</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"687 42 698 75\" data-label=\"Page-Header\">4-</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Erläute",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "92",
+            "text": "15"
+          },
+          {
+            "extension": "51",
+            "text": "29"
+          },
+          {
+            "extension": "45",
+            "text": "28"
+          },
+          {
+            "extension": "56",
+            "text": "25"
+          },
+          {
+            "extension": "56",
+            "text": "82"
+          },
+          {
+            "extension": "52",
+            "text": "04"
+          },
+          {
+            "extension": "48",
+            "text": "04"
+          },
+          {
+            "extension": "84",
+            "text": "22"
+          },
+          {
+            "extension": "64",
+            "text": "15"
+          },
+          {
+            "extension": "56",
+            "text": "86"
+          },
+          {
+            "extension": "49",
+            "text": "14"
+          },
+          {
+            "extension": "56",
+            "text": "82"
+          },
+          {
+            "extension": "56",
+            "text": "82"
+          },
+          {
+            "extension": "27",
+            "text": "21"
+          },
+          {
+            "extension": "56",
+            "text": "88"
+          },
+          {
+            "extension": "47",
+            "text": "05"
+          },
+          {
+            "extension": "44",
+            "text": "21"
+          },
+          {
+            "extension": "42",
+            "text": "21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>87 69 04</td>\n<td>Kerkow, W.,</td>\n<td>Drogen, Wilm Berl. Str. 145</td>\n</tr>\n<tr>\n<td>47 14 20</td>\n<td>Kerksiek, C.,</td>\n<td>Volksw., Fro Bieselh. W. 15</td>\n</tr>\n<tr>\n<td>89 22 95</td>\n<td>Kerl, Erich, Dr.,</td>\n<td>Stud.Rat, Gro Hagenstr. 15</td>\n</tr>\n<tr>\n<td>31 24 81</td>\n<td>Kerl, Gust.,</td>\n<td>Adr.Veil., Chb 4 Fritscheistr. 51</td>\n</tr>\n<tr>\n<td>21 33 98</td>\n<td>Kerlé, Anna,</td>\n<td>W 35, Lützowstr. 56</td>\n</tr>\n<tr>\n<td>68 55 66</td>\n<td>Kerle, Bernhard,</td>\n<td>Autotransp., SO 36,<br/>Adalbertstr. 20</td>\n</tr>\n<tr>\n<td>99 20 39</td>\n<td>Kerlé, Nora,</td>\n<td>Assist, Chb 9 Reichsstr. 87</td>\n</tr>\n<tr>\n<td>83 61 05</td>\n<td>Kerler, A.,</td>\n<td>Amtsrat, Frdn Cecilieng. 36</td>\n</tr>\n<tr>\n<td>55 48 02</td>\n<td>Kerlikowsky, E.,</td>\n<td>Kfm., Frjde März.-Ch. 21</td>\n</tr>\n<tr>\n<td>83 69 72</td>\n<td>Kernas jr., R.,</td>\n<td>Zahnat., Frdn Hauptstr. 73</td>\n</tr>\n<tr>\n<td>55 31 40</td>\n<td>Kernbach, H.,</td>\n<td>Autorep., Lbg Röderstr. 41</td>\n</tr>\n<tr>\n<td>55 48 84</td>\n<td>Ders.,</td>\n<td>Groß-Garage, Lbg Lands.-Chaussee 5</td>\n</tr>\n<tr>\n<td>53 51 13</td>\n<td>Ders.,</td>\n<td>Wohn., NO 18, Oderbr.Str. 9</td>\n</tr>\n<tr>\n<td>24 15 46</td>\n<td>Kernbach, O.,</td>\n<td>Musikdir., W 50, Spichern-<br/>straße 24</td>\n</tr>\n<tr>\n<td>91 41 21</td>\n<td>Kermektschiew,</td>\n<td>St. K., Dr., W 15, Lietzen-<br/>burger Str. 14</td>\n</tr>\n<tr>\n<td>37 14 53</td>\n<td>Kerner, W.,</td>\n<td>Kfm., Pichd/ Mahnk.Weg 7</td>\n</tr>\n<tr>\n<td>80 43 42</td>\n<td>Kernes, Rich.,</td>\n<td>Archit., Wan Stölpch.W. 23</td>\n</tr>\n<tr>\n<td>58 16 07</td>\n<td>Kern, Alf.,</td>\n<td>Bücherrev., O 112, S.-Dachstr. 16</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "52",
+            "text": "32"
+          },
+          {
+            "extension": "24",
+            "text": "88"
+          },
+          {
+            "extension": "73",
+            "text": "67"
+          },
+          {
+            "extension": "53",
+            "text": "25"
+          },
+          {
+            "extension": "64",
+            "text": "70"
+          },
+          {
+            "extension": "16",
+            "text": "27"
+          },
+          {
+            "extension": "55",
+            "text": "36"
+          },
+          {
+            "extension": "27",
+            "text": "24"
+          },
+          {
+            "extension": "62",
+            "text": "53"
+          },
+          {
+            "extension": "12",
+            "text": "25"
+          },
+          {
+            "extension": "91",
+            "text": "27"
+          },
+          {
+            "extension": "44",
+            "text": "06"
+          },
+          {
+            "extension": "72",
+            "text": "47"
+          },
+          {
+            "extension": "50",
+            "text": "08"
+          },
+          {
+            "extension": "42",
+            "text": "78"
+          },
+          {
+            "extension": "91",
+            "text": "70"
+          },
+          {
+            "extension": "48",
+            "text": "09"
+          },
+          {
+            "extension": "97",
+            "text": "75"
+          },
+          {
+            "extension": "41",
+            "text": "77"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>30 39 20</td>\n<td>Kern, Gena, <i>Siem</i> Wehnelitsteig 1</td>\n</tr>\n<tr>\n<td>66 13 55</td>\n<td>Kern, Georg, Kfm., SW 61, Baerwaldstr. 69</td>\n</tr>\n<tr>\n<td>87 13 98</td>\n<td>Kern, Dr. G., Arzt, <i>Wilm</i> Kaiserpl. 2</td>\n</tr>\n<tr>\n<td>58 13 14</td>\n<td>Kern, Gertr., Frau, O 112, Gärtnerstr. 33</td>\n</tr>\n<tr>\n<td>66 87 96</td>\n<td>Kern, Gerh., Ltn. a. D., SW 61, Belle-<br/>Alliance-Str. 59</td>\n</tr>\n<tr>\n<td>88 29 46</td>\n<td>Kern, Dr. Guido, Prof., <i>Frdn</i> Südwest. Kors. 63</td>\n</tr>\n<tr>\n<td>66 72 71</td>\n<td>Kern, G., Vertr., SW 61, Yorckstr. 67</td>\n</tr>\n<tr>\n<td>85 05 49</td>\n<td>Kern, Günther, Kapt. Ltn., <i>Zehl</i> Kronpr.-<br/>Allee 273</td>\n</tr>\n<tr>\n<td>59 23 03</td>\n<td>Kern, Günther, Angest., O 34, Petersb.<br/>Straße 36</td>\n</tr>\n<tr>\n<td>80 86 01</td>\n<td>Kern, G., Maler, <i>Klad</i> Klessenstr.</td>\n</tr>\n<tr>\n<td>71 99 17</td>\n<td>Kern, Gustav, Philharmoniker, <i>Schb</i><br/>Kolonn. Str. 1</td>\n</tr>\n<tr>\n<td>27 52 46</td>\n<td>Kern, Hedwig, Wäscherei, W 35, Bülow-<br/>straße 47</td>\n</tr>\n<tr>\n<td>60 70 08</td>\n<td>Kern, Heinr., Dr., <i>Rud</i> Straße 133 Nr. 8</td>\n</tr>\n<tr>\n<td>60 61 85</td>\n<td>Kern, H., Dentist, <i>Rud</i> Neuk. Str. 201</td>\n</tr>\n<tr>\n<td>70 81 52</td>\n<td>Kern, Hans, Ing., <i>Mahlow</i> Bism. Str. 29</td>\n</tr>\n<tr>\n<td>24 33 49</td>\n<td>Kern, H., Schriftl., W 50, Würzb. Str. 17</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>73 60 63</td>\n<td>Kern, H., Dipl.-Ing., <i>M/de</i> Handelweg 30</td>\n</tr>\n<tr>\n<td>76 15 23</td>\n<td>Kern, Heinrich, Hptm., <i>Dahl</i> König-Luise-Str. 29</td>\n</tr>\n<tr>\n<td>62 61 66</td>\n<td>Kern, Dr. H., Arzt, <i>Neuk</i> Richardpl. 16</td>\n</tr>\n<tr>\n<td>53 41 66</td>\n<td>Kern, Dr. Heinz, Arzt, NO 18, Friedenstr. 5</td>\n</tr>\n<tr>\n<td>(75 34 08)</td>\n<td>H. Kern &amp; Co, Gummivr., <i>Tmp</i> Berl. Str. 74</td>\n</tr>\n<tr>\n<td>24 09 09</td>\n<td>Kern, H., Schlächterm., W 50, Schaperstraße 10</td>\n</tr>\n<tr>\n<td>97 36 39</td>\n<td>Kern, Hildeg., <i>Hal</i> J.-Friedr.-Str. 25</td>\n</tr>\n<tr>\n<td>26 28 00</td>\n<td>Kern, Hubertine, W 30, Hohenstaufenstraße 54</td>\n</tr>\n<tr>\n<td>75 78 17</td>\n<td>Kern, Ilse, <i>Tmp</i> Gäßnerweg 49</td>\n</tr>\n<tr>\n<td>97 11 62</td>\n<td>Kern, Irmg., Tänzerin, <i>Grw</i> Warmb. Str. 4</td>\n</tr>\n<tr>\n<td>92 15 69</td>\n<td>Kern, Jost, Ingen., W 15, Duisburger Str. 6</td>\n</tr>\n<tr>\n<td>86 32 63</td>\n<td>Kern, J., Kfm., <i>Wilm</i> Pommersche Str. 8</td>\n</tr>\n<tr>\n<td>87 79 81</td>\n<td>Kern, Karl, Dr., <i>Wilm</i> Mannheimer Str. 8</td>\n</tr>\n<tr>\n<td>72 32 55</td>\n<td>Kern, K., Schriftl., <i>Stegl</i> Anifortasweg 7</td>\n</tr>\n<tr>\n<td>39 18 56</td>\n<td>Kern, K., Musiker, NW 87, Jagowstr. 18</td>\n</tr>\n<tr>\n<td>66 21 22</td>\n<td>Kern, K., Ing., <i>Tmp</i> Schreiberring 17</td>\n</tr>\n<tr>\n<td>46 53 65</td>\n<td>Kern, Dr. Kurt, Steuersynd., N 65, San-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 964\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>88 45 27</td>\n<td>Kern, Leo, <i>Wilm</i> Ahrweiler Str. 18</td>\n</tr>\n<tr>\n<td>53 17 29</td>\n<td>Kern, L., Opernsänger, NO 18, Brend-<br/>Straße 15</td>\n</tr>\n<tr>\n<td>87 32 60</td>\n<td>Kern, Marg., <i>Wilm</i> Hildeg.-Str. 1</td>\n</tr>\n<tr>\n<td>35 44 83</td>\n<td>Kern, Marg., NW 40, Alt Moabit 131</td>\n</tr>\n<tr>\n<td>66 37 54</td>\n<td>Kern, Maria, Gastst., SW 29, Hasenh. 96</td>\n</tr>\n<tr>\n<td>11 10 07</td>\n<td>Kern, Marie, W 8, Jägerstr. 61</td>\n</tr>\n<tr>\n<td>77 29 52</td>\n<td>Kern, Max, <i>Schb</i> Wexstr. 63</td>\n</tr>\n<tr>\n<td>68 43 08</td>\n<td>Kern, W., Feinkost, O 112, Boxh. Str. 43</td>\n</tr>\n<tr>\n<td>84 87 18</td>\n<td>Kern M., Schriftl., <i>KlMn</i> Franzosenf. 14</td>\n</tr>\n<tr>\n<td>30 75 49</td>\n<td>Kern, O., Papierhdlg., <i>Tgl</i> Schliep. Str. 66</td>\n</tr>\n<tr>\n<td>31 70 82</td>\n<td>Kern, Othmar, Kfm., <i>Chb</i> 4 Goethep. 9</td>\n</tr>\n<tr>\n<td>27 66 32</td>\n<td>Kern, Otto, Kfm., W 30, Nollendorfstr. 27</td>\n</tr>\n<tr>\n<td>42 82 28</td>\n<td>O. Kern &amp; Co, Farben, N 4, Gr. Hamb.<br/>Straße 20</td>\n</tr>\n<tr>\n<td>27 52 00</td>\n<td>Derselbe, Wohn., W 30, N. Winterf. Str. 44</td>\n</tr>\n<tr>\n<td>77 25 94</td>\n<td>Kern, Ot.F., Schriftl., <i>Schb</i> Akazienstr. 4</td>\n</tr>\n<tr>\n<td>26 32 33</td>\n<td>Kern, Dr. O., Dir., W 30, Tieuchtl. Str. 3</td>\n</tr>\n<tr>\n<td>34 34 62</td>\n<td>Kern, Paul, <i>Siem</i> Rieppelstr. 10</td>\n</tr>\n<tr>\n<td>50 42 55</td>\n<td>Kern, P., Mass., <i>Hschö</i> Berl. Str. 99</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black artifact in the bottom right corner.\"/>This image is a scan of a blank white page. It contains no text or other meaningful content. There is a small, dark, irregular speck located in the bottom right corner, which appears to be a scanning artifact or a piece of dust.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "ung der Orts- und Vorortsabkürzungen und",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 10 792 979\" data-label=\"Text\"><table><tbody><tr><td>46 02 27</td><td>Kern, Dr. Paul, Arzt, N 65, Müllerstr. 131</td></tr><tr><td>50 52 16</td><td>Kern, P., Autobetr., <i>Hschö</i> Göckestr. 18</td></tr><tr><td>84 65 25</td><td>Kern, Phil., Kfm., <i>Zehl</i> Querm.W. 176</td></tr><tr><td>35 09 08</td><td>Kern, Dr. Reinold, Stud.-Rat i. R.,<br/>NW 40, Thomasiusstr. 26</td></tr><tr><td>92 57 97</td><td>Kern, R., san. Anl., W 15, Düsseld. Str. 24</td></tr><tr><td>39 43 20</td><td>Kern, Rich., Stadttinsp., NW 87, Altonaer<br/>Straße 3</td></tr><tr><td>60 15 16</td><td>Kern, Rud., Fris., <i>Neuk</i> Hermannpl. 6</td></tr><tr><td>72 18 55</td><td>Kern, Ulr., Kfm., <i>Stegl</i> Mittelstr. 14</td></tr><tr><td>44 85 01</td><td>Kern, W., Musikinstr., NO 55, Weißenb.<br/>Straße 1</td></tr><tr><td>76 56 13</td><td>Kern, Wilh., Vertr., <i>Ltf</i> Roonstr. 39</td></tr><tr><td>87 28 39</td><td>Kern, Wilh., Hptm., <i>Wilm</i> Prinzerstr. 9</td></tr><tr><td>79 61 31</td><td>Kern, W., Rittmstr., <i>Stegl</i> Mittelstr. 15</td></tr><tr><td>66 21 05</td><td>Kern, W., Stud.Rat, <i>Temp</i> Mussehlstr. 23</td></tr><tr><td>83 02 21</td><td>Kern, W., Kol.-Wr., <i>Wilm</i> Rüdesh. Str. 4</td></tr><tr><td>84 22 52</td><td>Kern, W., Obermstr., <i>Stsd</i> Ruhlsd. Str. 10</td></tr><tr><td>66 41 08</td><td>Kern, W., Drogen. SW 29, Urbanstr. 100</td></tr><tr><td>64 92 42</td><td>Kern, W., D.Konf., <i>Rah</i> Müggelw. Weg 54</td></tr><tr><td>97 72 47</td><td>Kern-Wegener, Ilse, <i>Chb</i> 4 Koscherstr. 5</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 786 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>44 15 78</td>\n<td>Kern, Kläger &amp; Cie., Lederwrfbr., N 58,<br/>Pappelallee 78</td>\n</tr>\n<tr>\n<td>37 31 47</td>\n<td>Kernaul, Rud., Obering., <i>Spd</i> Grinnitzw. 3</td>\n</tr>\n<tr>\n<td>75 75 37</td>\n<td>Kernbach, A., Steinmetz, <i>Tmp</i> Germ. Grt. 25</td>\n</tr>\n<tr>\n<td>93 58 53</td>\n<td>Kernbach, G., K'-Mal., <i>Chb</i> 5 Wundtstr. 64</td>\n</tr>\n<tr>\n<td>72 56 31</td>\n<td>Kernbach, K., Baustoffe, <i>Steyl</i> Friedr. Str. 25</td>\n</tr>\n<tr>\n<td>27 89 11</td>\n<td>Kernbach, Kurt, W 30, Habsb. Str. 8</td>\n</tr>\n<tr>\n<td>25 41 33</td>\n<td>Kernbach &amp; Müller, Leinenwr., W 62,<br/>Kleist-Str. 24</td>\n</tr>\n<tr>\n<td>48 74 21</td>\n<td>Kernchen, Alb., D.-Moden, <i>Pko</i> Elsa-<br/>Brandst.-Str. 9</td>\n</tr>\n<tr>\n<td>16 32 39</td>\n<td>Ders., Herst., C 2, Hausvogteipl. 7</td>\n</tr>\n<tr>\n<td>67 54 82</td>\n<td>Kernchen, Erich, Gastw., C 2, Wallstr. 57</td>\n</tr>\n<tr>\n<td>39 63 90</td>\n<td>Kernchen, E., Fris., NW 87, Levetzow-<br/>straße 12</td>\n</tr>\n<tr>\n<td>71 04 34</td>\n<td>Kernchen, E., Cellist, <i>Schb</i> M.-Luther-Str. 70</td>\n</tr>\n<tr>\n<td>49 11 34</td>\n<td>Kernchen, E., Zeichenmat., <i>Rei-Ost</i> Eis-<br/>bärenweg 14</td>\n</tr>\n<tr>\n<td>39 19 54</td>\n<td>Kernchen, Frieda, Schneid., NW 87,<br/>Helmh.-Str. 27</td>\n</tr>\n<tr>\n<td>46 59 22</td>\n<td>Kernchen, H., Fuhrroesch, N 20, Stockh</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "OLRAU 24",
+        "entries": [
+          {
+            "extension": "19",
+            "text": "38 90 Kernchen, Hch., Gastw., SW 68, Wilhelmstraße 25"
+          },
+          {
+            "extension": "93",
+            "text": "10 62 Kernchen, K., Gastw., Chb 9 Freder.Str. 10c"
+          },
+          {
+            "extension": "41",
+            "text": "27 32 Kernchen, Margarete, N 54, Lothr.Str. 36/7"
+          },
+          {
+            "extension": "47",
+            "text": "16 03 Kernchen, P., Gastst., Hrnsd Seestr. 14"
+          },
+          {
+            "extension": "68",
+            "text": "16 83 Kernchen, R., Autobed., SO 36, Reichenb. Straße 127"
+          },
+          {
+            "extension": "73",
+            "text": "26 48 Kernchen, Robert, Holzkomm., Lkw Mühlstraße 40"
+          },
+          {
+            "extension": "30",
+            "text": "90 63 Kernchen, W., Autofuhrw., Borsw Räuschstraße 60"
+          },
+          {
+            "extension": "22",
+            "text": "02 39 Kerncl, A., Apoth., W 35, Kurfürstenstraße 149"
+          },
+          {
+            "extension": "76",
+            "text": "27 77 Kerncl, Dr. A., Apothek., Lt/ Hort.Str. 12a"
+          },
+          {
+            "extension": "59",
+            "text": "22 45 Kerneck, M., Vertr., O 17, Stralauer Pl. 21"
+          },
+          {
+            "extension": "19",
+            "text": "33 32 Kerner, Aug., Obst, SW 61, Belle-All.-Pl. 12"
+          },
+          {
+            "extension": "30",
+            "text": "46 80 Kerner, Bruno, Physik., Siem Goebelstr. 80"
+          },
+          {
+            "extension": "53",
+            "text": "54 52 Kerner, Ernst, NO 55, Bötzwstr. 21"
+          },
+          {
+            "extension": "39",
+            "text": "69 62 Kerner, Ernst, NW 87, Gotzk.Str. 37"
+          },
+          {
+            "extension": "41",
+            "text": "73 06 Kerner, Reinh., NW 7, Luisenstr. 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 780 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>37 29 83</td>\n<td>Kernert, Anna, <i>Pichd</i>/ Pichelsee</td>\n</tr>\n<tr>\n<td>39 35 68</td>\n<td>Kernert, Karl, Dr., Ob.Reg.Rat, NW 87, Holst. Ufer 1</td>\n</tr>\n<tr>\n<td>73 74 42</td>\n<td>J. Kernich &amp; Gatzke, Vertr., <i>Lt</i>/ Klingsorstraße 97</td>\n</tr>\n<tr>\n<td>44 79 80</td>\n<td>Kernicke, Ida, Seifen, N 58, Schwedter Straße 227</td>\n</tr>\n<tr>\n<td>57 34 12</td>\n<td>Kernicke, M., K.Konf., O 34, Memeler Straße 43</td>\n</tr>\n<tr>\n<td>72 89 91</td>\n<td>Kernig, Margarete, <i>Stegl</i> Markelstr. 43</td>\n</tr>\n<tr>\n<td>50 25 41</td>\n<td>Kernke, Alf., Kfm., <i>Krlesh</i> Gundelf. Str. 41</td>\n</tr>\n<tr>\n<td>57 35 61</td>\n<td>Kernke, Erich, O 34, Memeler Str. 16a</td>\n</tr>\n<tr>\n<td>24 24 19</td>\n<td>Kernke, E., Kondit., W 50, Nürn. Platz 5</td>\n</tr>\n<tr>\n<td>93 42 17</td>\n<td>Kernke, Erich, Exp., <i>Chb</i> 5 Trendl. Str. 14</td>\n</tr>\n<tr>\n<td>96 32 39</td>\n<td>Kernke, H., Kfm., <i>Chb</i> 4 Waitzstr. 25</td>\n</tr>\n<tr>\n<td>51 20 36</td>\n<td>Kernke, Herm., Nachf., Bierverlag, C 2, Prenzl. Str. 14</td>\n</tr>\n<tr>\n<td>51 44 17</td>\n<td>Kernke, Herm., Kfm., C 2, Prenzl. Str. 14</td>\n</tr>\n<tr>\n<td>49 02 19</td>\n<td>Kernke, H., Kistenfbr., <i>Rei-O</i> Hauptstr. 15</td>\n</tr>\n<tr>\n<td>34 89 57</td>\n<td>Kernke, P., Zig., <i>Chb</i> 1 Tegeler W. 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Straße 48",
+        "entries": [
+          {
+            "extension": "73",
+            "text": "72 53 Kernstock, Otto, Kfm., Mfde Straße 148"
+          },
+          {
+            "extension": "75",
+            "text": "74 40 Kerntke, Herm., Md Hirzerweg 72"
+          },
+          {
+            "extension": "86",
+            "text": "90 82 Kerntop, Ewald, Schneid., Wilm Durl."
+          }
+        ]
+      },
+      {
+        "region_name": "Straße 33",
+        "entries": [
+          {
+            "extension": "61",
+            "text": "01 25 Kerp, Peter, Drogen, SO 36, Oranienstr. 36"
+          },
+          {
+            "extension": "64",
+            "text": "24 81 Kerp, Wilh., Dr., Köp Logauweg 1"
+          },
+          {
+            "extension": "17",
+            "text": "26 52 Kerpa, Kurt, Kfm., SW 68, Oranienstr. 103"
+          },
+          {
+            "extension": "37",
+            "text": "62 09 Kerpan, E., Werkmstr., Spd Falst. Weg 12"
+          },
+          {
+            "extension": "49",
+            "text": "42 42 Kerres, K., Ing., Witt Oranienb. Str. 38"
+          },
+          {
+            "extension": "83",
+            "text": "25 96 Kerrinnis, R., Elektromstr., Frdn Retzdorfsp. 4"
+          },
+          {
+            "extension": "59",
+            "text": "58 09 Kerrutt, Rich., Kfm., NO 55, Hosemannstraße 7"
+          },
+          {
+            "extension": "53",
+            "text": "38 96 Kerrutt, W., Prok., NO 55, Braunsch. Str. 3"
+          },
+          {
+            "extension": "47",
+            "text": "33 37 Kerrutt, W., Kfm., Fro A. Rosenanger 37"
+          },
+          {
+            "extension": "46",
+            "text": "84 05 Kers, Rich., Umpress., N 65, Müllerstr. 24b"
+          },
+          {
+            "extension": "87",
+            "text": "72 30 Kersandt, F., Dr., Wilm Babelsb. Str. 17"
+          },
+          {
+            "extension": "99",
+            "text": "06 97 Kerschbaum, Dr. H., Phys., Chb Kirsch. Allee 19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 768 967\" data-label=\"Text\"><table><tbody><tr><td>64 19 46</td><td>Kerschlek, W., Ob.Insp., <i>Köp</i> Bahnh.Str. 56</td></tr><tr><td>84 80 09</td><td>Kerscher, Elis., Schausp., <i>Zehl</i> Hegew. 80</td></tr><tr><td>89 12 13</td><td>Kerschkamp, Dr. W., Oberpostrat, <i>Smgd</i><br/>Cunostr. 68</td></tr><tr><td>30 08 82</td><td>Kerschke, Fritz,, Modelle, <i>Tgl</i> Plett. Pf. 26</td></tr><tr><td>35 21 87</td><td>Kerschke, O., Farbbänder, NW21, Bredow-<br/>straße 35</td></tr><tr><td>80 11 59</td><td>Kerschke, Willi, Garage, Britz, Chaussee-<br/>straße 114</td></tr><tr><td>72 52 66</td><td>Kerschkowski, Albert, <i>Stegl</i> Lepstr. 45</td></tr><tr><td>87 33 37</td><td>Kerschowsky, G., Pelze, SW 68, Sebast.-<br/>straße 64</td></tr><tr><td>34 02 73</td><td>Kerscht, Dr. Hans-Max, Baurat, <i>Zehl</i><br/>Gertraudstr. 22</td></tr><tr><td>41 50 41</td><td>Kersebom, A., Schuhwr., N 4, Linienstr. 131</td></tr><tr><td>34 27 30</td><td>Kerseck, P., Holz, <i>Zehl</i> Hermannstr. 5</td></tr><tr><td>87 87 82</td><td>Kershaw, James E., Fabrik, <i>Wilm</i> Hinden-<br/>burgstr. 106</td></tr><tr><td>44 90 76</td><td>Kerski, Oscar, Fleisch., N 31, Putb. Str. 41</td></tr><tr><td>57 03 35</td><td>Kerski, Otto, Uhren, O 17, Koppenstr. 24</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

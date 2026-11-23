@@ -1,0 +1,990 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 11 998 995\" data-label=\"Text\"><table><tbody><tr><td>28 67 96</td><td>Gellersen, Paul, Kfm., Hirschgraben 18</td></tr><tr><td>46 29 76</td><td>Gellersen, Wilh., Ing., <i>Bl</i> Blank.Bhfpl. 9</td></tr><tr><td>25 29 53</td><td>Gellert, Erich, Altmöbel, Mühlendamm 19</td></tr><tr><td>24 29 88</td><td>Gellert, H., Fruchthdlg., Danielstr. 81</td></tr><tr><td>42 98 96</td><td>Gellert, Heinr., Wäscherei, <i>Alt</i> Lob.Str. 27</td></tr><tr><td>28 52 83</td><td>Gellert, Otto, Verlader, Pappelallee 52</td></tr><tr><td>46 26 48</td><td>Gellhorn, Reichsb.Rat, <i>Bl</i> Hoherweg 2</td></tr><tr><td>21 24 19</td><td>v.Gellhorn, Kurt, Obersta.D., Redenwiesen</td></tr><tr><td>28 56 08</td><td>Gellner, Conr., Architekt, Angelnstr. 7</td></tr><tr><td>52 80 17</td><td>Gellrich, Ad., Vertr., Tarpenbeckstr. 82</td></tr><tr><td>25 45 65</td><td>Gellrich, Th. M., Revis., Uhlandstr. 35</td></tr><tr><td>26 61 58</td><td>Gelpke, Walt., Gastst., Smidtstr. 10</td></tr><tr><td>35 48 69</td><td>Gelsner, Carl, Steuerm., Schlachterstr. 48</td></tr><tr><td>34 22 38</td><td>Geltl, Jos., Buffet, Königstr. 31</td></tr><tr><td>22 69 85</td><td>Geltner, Johs., H.T.Vertrieb, Hofw. 47</td></tr><tr><td>26 78 04</td><td>Geluk, Johannes, Maler, Louisenweg 37</td></tr><tr><td>26 88 98</td><td>Gembat, P., Güterfernverk., Louisenw. 64</td></tr><tr><td>42 97 05</td><td>Gember, Elis., Zigarren, <i>Alt</i> Papenstr. 59</td></tr><tr><td>36 01 08</td><td>Gembicki &amp; Utermarck, Quartiersleute,<br/>Pickhuben 5</td></tr><tr><td>59 51 01</td><td>Gemeindebau eGmbH, <i>Fsb</i> Woermannsw. 1</td></tr><tr><td>61 60 71</td><td>Gemeindebau Dämmen</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 0 998 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>49 10 57</td>\n<td>Gemeindehaus d. ev.-luth. Kirchengemeinde <i>GrFl</i> Seestr. 1</td>\n</tr>\n<tr>\n<td>43 35 60</td>\n<td>Gemeindeh. d. Christuskirche, Belleall. St. 55</td>\n</tr>\n<tr>\n<td>28 28 67</td>\n<td>Gemeindeh. d. Kreuzkirche, Wandsbek, Manteuffelstr. 14</td>\n</tr>\n<tr>\n<td>59 56 14</td>\n<td>Gemeindehaus Langenhorn, <i>Lgh</i> Timmerloh 24</td>\n</tr>\n<tr>\n<td>49 37 44</td>\n<td>Gemeindehaus Nienstedten, Elbchauss. 129</td>\n</tr>\n<tr>\n<td>(23 45 21)</td>\n<td>Gemeindehaus Nord-Barmbeck, Tieloh 26</td>\n</tr>\n<tr>\n<td>49 16 05</td>\n<td>Gemeindehaus Osdorf, <i>GrFl</i> Rugenbarg</td>\n</tr>\n<tr>\n<td>42 99 25</td>\n<td>Gemeindeh. d. Osterkirche, <i>Alt</i> Osterk. 17</td>\n</tr>\n<tr>\n<td>42 92 48</td>\n<td>Gemeindehaus Ottensen, Ohlend. All. 9</td>\n</tr>\n<tr>\n<td>24 90 02</td>\n<td>Gemeindehaus St. Georger, Stiftstr. 15</td>\n</tr>\n<tr>\n<td>43 54 66</td>\n<td>Gemeindeh. St. Johann, <i>Alt</i> Parallelstr. 3</td>\n</tr>\n<tr>\n<td>24 93 23</td>\n<td>Gemeindepflege St. Georg, Stiftstr. 15</td>\n</tr>\n<tr>\n<td>23 04 92</td>\n<td>Gemeindepflege St. Gertrud, Bachstr. 69</td>\n</tr>\n<tr>\n<td>33 09 86</td>\n<td>Gemeindepflege St. Petri, Krenslerstr. 5</td>\n</tr>\n<tr>\n<td>54 28 00</td>\n<td>Gemeindepflege v. Westeimsbüttel, Lappenbergsallee 19</td>\n</tr>\n<tr>\n<td>21 32 67</td>\n<td>Gemeindeschwester Bergedorf</td>\n</tr>\n<tr>\n<td>21 03 82</td>\n<td>Gemeindeschwester Zollenau Elbdeich 31</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "(37 48 18) Gemeindeschwester D. E. Zeisung Uver,",
+        "entries": [
+          {
+            "extension": "58",
+            "text": "18 82 Gemeindeschwestern Niendorf, Garst. W. 1"
+          },
+          {
+            "extension": "52",
+            "text": "72 64 Gemeindeschwesternstation Eppendorf, Ludolfstr. 53"
+          },
+          {
+            "extension": "44",
+            "text": "33 01 Gemeindeschw. Harvestehude, Mittelw. 105"
+          },
+          {
+            "extension": "27",
+            "text": "21 39 Gemeindeverwaltung Barsbüttel"
+          },
+          {
+            "extension": "57",
+            "text": "82 37 Gemeindeverwaltung Glashütte"
+          },
+          {
+            "extension": "57",
+            "text": "81 34 Gemeindeverwalt. Harksheide, Segeb. Ch. 63"
+          },
+          {
+            "extension": "29",
+            "text": "30 55 Gemeindeverwaltung, Ost-Steinbek"
+          },
+          {
+            "extension": "21",
+            "text": "40 44 Gemeindeverwaltung Reinbek"
+          },
+          {
+            "extension": "28",
+            "text": "24 78 Gemeindeverwalt. Willinghusen, Dorfstr."
+          },
+          {
+            "extension": "57",
+            "text": "80 15 Gemeindewerke Garstedt"
+          },
+          {
+            "extension": "37",
+            "text": "39 71 Gemeinhardt, Fritz, Hrb Wilst. Str. 54"
+          },
+          {
+            "extension": "22",
+            "text": "32 56 Gemeinhardt, Hans, Kfm., Wentzelstr. 25"
+          },
+          {
+            "extension": "42",
+            "text": "44 42 Gemeinn. Baugenoss. v. 1907 eGmbH., Alt Roonstr. 81"
+          },
+          {
+            "extension": "59",
+            "text": "90 74 Gemeinn. Baugen. Barmbeck eGmbH, Lambr. W. 26"
+          },
+          {
+            "extension": "25",
+            "text": "13 54 Gemeinn. Baugen. deutscher Arbeiter eGmbH. Wallstr. 14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"217 0 998 995\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>40 20 10</td>\n<td>Gemeinn. Baugenoss. eGmbH, Wbk Ad.-Hitler-Damm 28</td>\n</tr>\n<tr>\n<td>33 56 28</td>\n<td>Gemeinnützige Baugenossenschaft,,Hansa'<br/>e.G.m.b.H., Hbg. 1, Alstertor 21, II. Stock</td>\n</tr>\n<tr>\n<td>21 37 43</td>\n<td>Gemeinn. Baugenoss. Bergedorf eGmbH,<br/>Bgd Brauerstr. 48</td>\n</tr>\n<tr>\n<td>59 58 55</td>\n<td>Gemeinn. Baugenoss. Fuhsbüttel, Alster-<br/>krugchausee 411</td>\n</tr>\n<tr>\n<td>59 58 85</td>\n<td>Gemeinn. Baugen., Nordost eGmbH</td>\n</tr>\n<tr>\n<td>28 15 35</td>\n<td>Gemeinn. Gartenstadtges. Wandsbek<br/>eGmbH, Wbk Bramfelder Str. 177</td>\n</tr>\n<tr>\n<td>28 75 55</td>\n<td rowspan=\"2\">Gemeinnützige Kleinwohnungsbau-Gesell-<br/>schaft, Freie Stadt m. d. H., Hamburg 43,<br/>Nordschleswiger Str. 51</td>\n</tr>\n<tr>\n<td>28 75 56</td>\n</tr>\n<tr>\n<td>37 83 15</td>\n<td>Gemeinn. Rhenania Siedl. Stift, Fischbeck 25</td>\n</tr>\n<tr>\n<td>36 08 49</td>\n<td>Gemeinn. Schreibstube, e.V., Gr. Burstah 47</td>\n</tr>\n<tr>\n<td>42 19 66</td>\n<td>Gemeinn. SiedlungsAG, Altona, Bah<br/>Brahmsstr. 100</td>\n</tr>\n<tr>\n<td>21 26 91</td>\n<td>Gemeinn. Siedlungsgegenoss. eGmbH, Net-<br/>telburg</td>\n</tr>\n<tr>\n<td>42 08 15</td>\n<td>Gemeinn. Wohn-Rangier f. Reichsbahn-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "38",
+            "text": "87 65"
+          },
+          {
+            "extension": "28",
+            "text": "83 95"
+          },
+          {
+            "extension": "55",
+            "text": "90 80"
+          },
+          {
+            "extension": "29",
+            "text": "41 47"
+          },
+          {
+            "extension": "24",
+            "text": "11 81"
+          },
+          {
+            "extension": "57",
+            "text": "84 19"
+          },
+          {
+            "extension": "30",
+            "text": "02 48"
+          },
+          {
+            "extension": "57",
+            "text": "81 63"
+          },
+          {
+            "extension": "31",
+            "text": "31 08"
+          },
+          {
+            "extension": "24",
+            "text": "79 12"
+          },
+          {
+            "extension": "26",
+            "text": "34 32"
+          },
+          {
+            "extension": "24",
+            "text": "93 87"
+          },
+          {
+            "extension": "34",
+            "text": "70 39"
+          },
+          {
+            "extension": "64",
+            "text": "81 60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"207 0 990 967\" data-label=\"Text\"><table><tbody><tr><td>20 91 78</td><td>v. Gemünden, E., Lehrerin, Volksd. Bergst. W. 26</td></tr><tr><td>24 48 24</td><td>Gemüse &amp; Obstverwertgs. Genoss., Spaldingstr. 59</td></tr><tr><td>52 08 12</td><td>Genanger, Kurt, Ing., Flemingstr. 3</td></tr><tr><td>28 60 90</td><td>Gendarmerieabt. Wbk Goethestr. 1b</td></tr><tr><td>37 47 67</td><td>Gendarmericamt Marmstorf II</td></tr><tr><td>38 72 14</td><td>Gendner, E., Bez.Ltr., With Großsand 3</td></tr><tr><td>59 95 95</td><td>Genenz, Hugo, techn. Bedarfsart., Fsb Niedernstegen 11</td></tr><tr><td>32 17 21</td><td>General Steam Navigation Co, mbH, Schiffsmakler, Chilehaus A</td></tr><tr><td>42 13 75</td><td>Generalinspekt. f. d. dtsch. Straßenwesen, Alt Bergstr. 266</td></tr><tr><td>23 13 61</td><td>Generalinspektor f. d. dtsch. Straßenwesen, Adolphstr. 53</td></tr><tr><td></td><td><b>Generalkonsulate siehe unter Konsulate</b></td></tr><tr><td>26 33 85</td><td>Genest, Max, Drogen, Mettlerk. Weg 10</td></tr><tr><td>34 23 70</td><td>Werner Genest GmbH., Isolier., Valentinskamp 90</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "STADT LINDAU",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, numbers, or markings visible.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "88",
+            "text": "und 789 UOPPELHERZ - Energien"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 31 998 851\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>44 75 14</td>\n<td>Genesungsheim Harvestehude, Kiel.</td>\n<td>All. 11</td>\n</tr>\n<tr>\n<td>55 98 05</td>\n<td>Gengelbach, Willy, Verw., Gärtnerstr.</td>\n<td>116</td>\n</tr>\n<tr>\n<td>24 85 30</td>\n<td>Genke, Franz, Hausmakler, Lindenstr.</td>\n<td>6</td>\n</tr>\n<tr>\n<td>24 63 93</td>\n<td>Genkel, Anna L., Prok., Nagelsweg</td>\n<td>87</td>\n</tr>\n<tr>\n<td>28 78 18</td>\n<td>Genkel, C., Schneider, Friedrichsb.</td>\n<td>Str. 12</td>\n</tr>\n<tr>\n<td>24 38 28</td>\n<td>Genkel, Frdr., Klempner, Norderstr.</td>\n<td>87</td>\n</tr>\n<tr>\n<td>24 06 72</td>\n<td>Genkel, Fritz, Install., Koppel</td>\n<td>24</td>\n</tr>\n<tr>\n<td>24 05 27</td>\n<td>Genkel &amp; Drese, Klempn., Lange Reihe</td>\n<td>40</td>\n</tr>\n<tr>\n<td>34 68 51</td>\n<td>E. Gennerich, Chem. Fabr., Theaterstr.</td>\n<td>34</td>\n</tr>\n<tr>\n<td>46 24 73</td>\n<td>Gennerich, G., Makler, Bl Chamissoweg</td>\n<td>5</td>\n</tr>\n<tr>\n<td>31 22 12</td>\n<td>Gennerich, W. Th., Agent, Reimersbr.</td>\n<td>5</td>\n</tr>\n<tr>\n<td>49 20 91</td>\n<td>Dergelbe, Privat, Othm Adickestr.</td>\n<td>155</td>\n</tr>\n<tr>\n<td>(33 68 44)</td>\n<td>Genoss. d. Deckachutenbesitzer, eGmbH,</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Dovenflet</td>\n<td>48</td>\n</tr>\n<tr>\n<td>43 47 96</td>\n<td>Genoss. f. Bauausführ., eGmbH, Alt Kiezer</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Straße</td>\n<td>94</td>\n</tr>\n<tr>\n<td>33 12 51</td>\n<td>Genoss. Hamb. Buchhdlr. eGmbH, Schauen-</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>burger Str.</td>\n<td>21</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"17 853 998 992\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">{</td>\n<td>Kurt Gens Nfg.,</td>\n<td>Inh. Albert Fischer,</td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td>Seifen-, Parfüm.- u. Waschm.-Großhan-</td>\n<td></td>\n</tr>\n<tr>\n<td>24 40 55</td>\n<td></td>\n<td>del, Hbg. 1, Spaldingstraße 160</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "32",
+            "text": "11"
+          },
+          {
+            "extension": "32",
+            "text": "11"
+          },
+          {
+            "extension": "22",
+            "text": "62"
+          },
+          {
+            "extension": "27",
+            "text": "25"
+          },
+          {
+            "extension": "21",
+            "text": "26"
+          },
+          {
+            "extension": "52",
+            "text": "46"
+          },
+          {
+            "extension": "24",
+            "text": "67"
+          },
+          {
+            "extension": "59",
+            "text": "08"
+          },
+          {
+            "extension": "55",
+            "text": "77"
+          },
+          {
+            "extension": "34",
+            "text": "61"
+          },
+          {
+            "extension": "23",
+            "text": "43"
+          },
+          {
+            "extension": "35",
+            "text": "33"
+          },
+          {
+            "extension": "38",
+            "text": "57"
+          },
+          {
+            "extension": "24",
+            "text": "78"
+          },
+          {
+            "extension": "59",
+            "text": "88"
+          },
+          {
+            "extension": "59",
+            "text": "58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "24",
+            "text": "86"
+          },
+          {
+            "extension": "43",
+            "text": "48"
+          },
+          {
+            "extension": "58",
+            "text": "15"
+          },
+          {
+            "extension": "59",
+            "text": "06"
+          },
+          {
+            "extension": "22",
+            "text": "29"
+          },
+          {
+            "extension": "59",
+            "text": "64"
+          },
+          {
+            "extension": "23",
+            "text": "53"
+          },
+          {
+            "extension": "52",
+            "text": "75"
+          },
+          {
+            "extension": "26",
+            "text": "08"
+          },
+          {
+            "extension": "25",
+            "text": "32"
+          },
+          {
+            "extension": "43",
+            "text": "30"
+          },
+          {
+            "extension": "43",
+            "text": "68"
+          },
+          {
+            "extension": "31",
+            "text": "32"
+          },
+          {
+            "extension": "25",
+            "text": "05"
+          },
+          {
+            "extension": "20",
+            "text": "92"
+          },
+          {
+            "extension": "35",
+            "text": "28"
+          },
+          {
+            "extension": "43",
+            "text": "65"
+          },
+          {
+            "extension": "54",
+            "text": "25"
+          },
+          {
+            "extension": "59",
+            "text": "14"
+          },
+          {
+            "extension": "37",
+            "text": "03"
+          },
+          {
+            "extension": "59",
+            "text": "87"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>02 00 21</td>\n<td>Genz, Wilh., mich, Kiepeken 0</td>\n</tr>\n<tr>\n<td>59 64 78</td>\n<td>Genz, Wilh., Kfm., Elligersweg 15a</td>\n</tr>\n<tr>\n<td>53 02 20</td>\n<td>Genzel, Aug., Bauplatten, Hegestr. 30</td>\n</tr>\n<tr>\n<td>58 18 85</td>\n<td>Genzel, Heiner, Vertr., Eidelstedt, Reichsbahnstr. 45</td>\n</tr>\n<tr>\n<td>53 39 81</td>\n<td>Genzel, W., Ob.Lchr., Husumer Str. 4</td>\n</tr>\n<tr>\n<td>27 14 39</td>\n<td>Genzenleichter, Herm., Tischlermstr., Rahl Zollstr. 87</td>\n</tr>\n<tr>\n<td>26 27 31</td>\n<td>Genzkow, Rob., Tabak, Hammerst.D. 119</td>\n</tr>\n<tr>\n<td>34 81 63</td>\n<td>Derselbe, Lager, Hohe Bleichen 18</td>\n</tr>\n<tr>\n<td>55 99 13</td>\n<td>Genzmer, Erich, Dr. jur., Ostmarkstr. 83</td>\n</tr>\n<tr>\n<td>46 19 90</td>\n<td>Genzsch, Lotte, Photogr., Bl F.Leg.Str. 2</td>\n</tr>\n<tr>\n<td>23 12 21</td>\n<td>Genzsch &amp; Heyse Schriftg., AG., Rich.Str. 45</td>\n</tr>\n<tr>\n<td>28 11 98</td>\n<td>Geoffroy, August, Wgsb Claudiusstr. 11</td>\n</tr>\n<tr>\n<td>33 47 53</td>\n<td>von Georg &amp; Co, Import, Mönckebergstr. 7</td>\n</tr>\n<tr>\n<td>23 01 62</td>\n<td>George, Alb., Möbel, Humboldtstr. 11</td>\n</tr>\n<tr>\n<td>55 70 18</td>\n<td>George, Alfr., Vertr., Eichenstr. 46</td>\n</tr>\n<tr>\n<td>38 85 04</td>\n<td>George, F. G., Möbel, Billh.Röhrend. 171</td>\n</tr>\n<tr>\n<td>55 82 38</td>\n<td>George, H., Scheideweg 18</td>\n</tr>\n<tr>\n<td>58 23 03</td>\n<td>George, Hedi, GrBo Lokst. Damm</td>\n</tr>\n<tr>\n<td>28 26 32</td>\n<td>George, L., Dieselmot., Ditmarsche Str. 39</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>42 07 27</td>\n<td>George, Wilma, Putz, <i>Alt</i> Funkstr. 19</td>\n</tr>\n<tr>\n<td>59 79 70</td>\n<td>Georges, Joh.Fr., Kol.-W., <i>Fsb</i> Hummelsb-Kirchenweg 40</td>\n</tr>\n<tr>\n<td>26 93 91</td>\n<td>Georgi, Alb., Steuerber., Boonsweg 22</td>\n</tr>\n<tr>\n<td>22 25 85</td>\n<td>Georgi, Hermann, Scheffelstr. 24</td>\n</tr>\n<tr>\n<td>58 20 10</td>\n<td>Georgi, Dr. J., <i>GrBo</i> Borsteller Ch. 159</td>\n</tr>\n<tr>\n<td>43 01 73</td>\n<td>Georgi, Max, Gastwirtsch., Oelmühle 29</td>\n</tr>\n<tr>\n<td>31 26 43</td>\n<td>Georgi &amp; Co., Bauunternehmen, Tröstbrücke 1</td>\n</tr>\n<tr>\n<td>33 04 32</td>\n<td>Georgiadis, Georgios K., Kl. Rosenstr. 3</td>\n</tr>\n<tr>\n<td>52 78 86</td>\n<td>Ders., priv., Hudtwalckertwiete 2</td>\n</tr>\n<tr>\n<td>43 05 29</td>\n<td>Georgius, C., Tischler, <i>Alt</i> Litzm.Str. 136</td>\n</tr>\n<tr>\n<td>32 61 91</td>\n<td>Georgs-Diele, Hotel, Georgsplatz 7—9</td>\n</tr>\n<tr>\n<td>37 42 82</td>\n<td>Gephardt, Fr., Ing., <i>Hrb</i> Ernststr. 20</td>\n</tr>\n<tr>\n<td>53 28 68</td>\n<td>Gepper, H., Gärtnerei, Lokstedt, Süderf. Straße 14</td>\n</tr>\n<tr>\n<td>53 21 44</td>\n<td>Geppert, Dr. Fr., Prof., Eppend.Weg 219</td>\n</tr>\n<tr>\n<td>(34 09 78)</td>\n<td>Geppert, Dr. Fritz, Arzt, Esplanade 39</td>\n</tr>\n<tr>\n<td>55 41 14</td>\n<td>Ders., Wohn., Isestr. 5</td>\n</tr>\n<tr>\n<td>23 46 89</td>\n<td>Geppert, Ida, Schuhwr., Bramfelder Str. 3</td>\n</tr>\n<tr>\n<td>90 44 71</td>\n<td>Gorkow Alfred Dr. h. c. Werner Weg 920</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 992\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>27 15 69</td>\n<td>Gerber, Alfred, Prok.,</td>\n<td>Rahl Berner Str. 30</td>\n</tr>\n<tr>\n<td>38 70 80</td>\n<td>Gerber, C., Fuhrw.,</td>\n<td>Peutestr. 37</td>\n</tr>\n<tr>\n<td>33 46 39</td>\n<td>Gerber, C., Zigarren,</td>\n<td>Schauenb.Str. 37</td>\n</tr>\n<tr>\n<td>42 70 86</td>\n<td>Gerber jr., C., Schlachter,</td>\n<td>Alt Freiheit 81</td>\n</tr>\n<tr>\n<td>25 08 93</td>\n<td>Gerber, E., Wandsbeker</td>\n<td>Chaussee 124</td>\n</tr>\n<tr>\n<td>54 29 38</td>\n<td>Gerber, Eduard, Ing.,</td>\n<td>Stell Kieler Str. 166</td>\n</tr>\n<tr>\n<td>42 24 96</td>\n<td>Gerber, E., Gerüstbau,</td>\n<td>Alt Brunnenstr. 73</td>\n</tr>\n<tr>\n<td>27 22 77</td>\n<td>Gerber, Edg., D.Friseur,</td>\n<td>Rahl Lübl. Str. 35</td>\n</tr>\n<tr>\n<td>53 39 70</td>\n<td>Gerber, Elisabeth, Lehr.,</td>\n<td>Breitenf.Str. 26</td>\n</tr>\n<tr>\n<td>(35 34 78)</td>\n<td>Gerber, Ernst Aug.,</td>\n<td>Vertr., Heuberg 5</td>\n</tr>\n<tr>\n<td>26 80 88</td>\n<td>Gerber, F., Betriebsleit.,</td>\n<td>Dimpfelsw. 35</td>\n</tr>\n<tr>\n<td>38 85 40</td>\n<td>Gerber, F.W., Mal.,</td>\n<td>Vedd.Brück.Str. 83</td>\n</tr>\n<tr>\n<td>55 27 86</td>\n<td>Gerber, Fritz, Gen.-Knochenh.-</td>\n<td>Str. 21</td>\n</tr>\n<tr>\n<td>27 23 74</td>\n<td>Gerber, H., Buchhdl.,</td>\n<td>Rahl Bahnhofstr. 23</td>\n</tr>\n<tr>\n<td>26 81 08</td>\n<td>Gerber, Ludwig, Schokolad.,</td>\n<td>Grothstr. 64</td>\n</tr>\n<tr>\n<td>23 02 36</td>\n<td>Gerber, Magdalena,</td>\n<td>Hartwicustr. 2</td>\n</tr>\n<tr>\n<td>27 25 02</td>\n<td>Gerber, Maria, Korsetts,</td>\n<td>Rahl Wandsb. Straße 71</td>\n</tr>\n<tr>\n<td>37 31 74</td>\n<td>Gerber, M., Vertreter,</td>\n<td>Hrb HoheStr. 24</td>\n</tr>\n<tr>\n<td>54 21 74</td>\n<td>Gerber, Paul, Fahrschule,</td>\n<td>Eppend.W. 74</td>\n</tr>\n<tr>\n<td>22 39 87</td>\n<td>Gerber, Paul, Arndtstr.</td>\n<td>33</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry for a specific town or region.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Blut und Nerven!",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "55",
+            "text": "35"
+          },
+          {
+            "extension": "29",
+            "text": "45"
+          },
+          {
+            "extension": "52",
+            "text": "87"
+          },
+          {
+            "extension": "26",
+            "text": "24"
+          },
+          {
+            "extension": "26",
+            "text": "08"
+          },
+          {
+            "extension": "55",
+            "text": "38"
+          },
+          {
+            "extension": "44",
+            "text": "58"
+          },
+          {
+            "extension": "22",
+            "text": "03"
+          },
+          {
+            "extension": "(22)",
+            "text": "03"
+          },
+          {
+            "extension": "34",
+            "text": "57"
+          },
+          {
+            "extension": "34",
+            "text": "04"
+          },
+          {
+            "extension": "25",
+            "text": "11"
+          },
+          {
+            "extension": "26",
+            "text": "04"
+          },
+          {
+            "extension": "23",
+            "text": "48"
+          },
+          {
+            "extension": "28",
+            "text": "13"
+          },
+          {
+            "extension": "52",
+            "text": "37"
+          },
+          {
+            "extension": "28",
+            "text": "61"
+          },
+          {
+            "extension": "26",
+            "text": "07"
+          },
+          {
+            "extension": "46",
+            "text": "09"
+          },
+          {
+            "extension": "22",
+            "text": "56"
+          },
+          {
+            "extension": "46",
+            "text": "09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>31 27 21</td>\n<td>Gercke, C., Makler, Gr. Reichenstr. 51</td>\n</tr>\n<tr>\n<td>54 10 98</td>\n<td>Gercke, Carl, Kfm., Tornquiststr. 72</td>\n</tr>\n<tr>\n<td>52 80 70</td>\n<td>Gercke, Henry, Lebensm., Alsterd.Str. 15</td>\n</tr>\n<tr>\n<td>22 38 87</td>\n<td>Gercke, Herm., Kfm., StockhausenStr. 9</td>\n</tr>\n<tr>\n<td>22 13 93</td>\n<td>Gercke, Hertha, Angest., Grooth. Gasse 2</td>\n</tr>\n<tr>\n<td>46 22 66</td>\n<td>Gercke, Max, Ing., <i>Hochk</i> Kronp.Str. 27</td>\n</tr>\n<tr>\n<td>38 82 80</td>\n<td>Gercke, Otto, Süßwr., Billh. Canalstr. 41</td>\n</tr>\n<tr>\n<td>42 88 94</td>\n<td>Gercke, W., Sekr., <i>Alt</i> Othm. Kirch.W. 11</td>\n</tr>\n<tr>\n<td>59 23 46</td>\n<td>Gercken, Friedr., <i>Popp</i> Schierenkamp 46</td>\n</tr>\n<tr>\n<td>26 46 52</td>\n<td>Gercken, Gust., Geschäftsf., Sievek.A. 18</td>\n</tr>\n<tr>\n<td>27 26 92</td>\n<td>Gercken, John, Kfm., <i>Rahi</i> Geidelberg 9</td>\n</tr>\n<tr>\n<td>25 20 10</td>\n<td>Gerckens, C., Zigarren, Lübeckerstr. 59</td>\n</tr>\n<tr>\n<td>58 29 77</td>\n<td>Gerckens, Carl, Kfm., <i>GrBo</i> Bröd.W. 64</td>\n</tr>\n<tr>\n<td>55 97 44</td>\n<td>Gerckens, E. F. W., Töpfer, Heußweg 98</td>\n</tr>\n<tr>\n<td>53 15 42</td>\n<td>Gerckens, H., Kfm., Lokstedt, Eich.-Allee 15</td>\n</tr>\n<tr>\n<td>23 09 81</td>\n<td>Gerckens, Hans, Wolle, Flotowstr. 7</td>\n</tr>\n<tr>\n<td>(26 24 91)</td>\n<td>Gerckens, H., Reisebüro, Marienth. Str. 51</td>\n</tr>\n<tr>\n<td>59 82 81</td>\n<td>Gerckens, Willi, Bauer, <i>Humm</i> Rehagen</td>\n</tr>\n<tr>\n<td>55 68 02</td>\n<td>Gerckens, Willi, Zimmerer, Blücherstr. 31</td>\n</tr>\n<tr>\n<td>22 29 18</td>\n<td>Gerdau, Arthur, Zimmerstr. 25</td>\n</tr>\n<tr>\n<td>24 08 05</td>\n<td>Gerdau Fritz Töpfer Rannestr 22</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 993 985\" data-label=\"Table\"><table><tr><td>ZU 84 80</td><td>Gerdau, Fritz, Kfm., <i>Volksa</i> Wiesenk. 7</td></tr><tr><td>37 93 43</td><td>Gerdau, G., M/S Heini, Neuenfelde, 322</td></tr><tr><td>52 78 54</td><td>Gerdau, H., Dr., Hellwigstr. 100</td></tr><tr><td>28 51 54</td><td>Gerdau, H., Essigfabr., <i>Wbk</i> Ahrensb. St. 38</td></tr><tr><td>28 14 22</td><td>Gerdau, H., Maler, <i>Wbk</i> Manteuffelstr. 42</td></tr><tr><td>37 92 26</td><td>Gerdau, Hermann, Meerrettich, Francop 1</td></tr><tr><td>37 92 90</td><td>Gerdau, J. H., Färberel, <i>Njde</i> Hasselw. 85</td></tr><tr><td>44 87 72</td><td>Gerdau, R., Lotse, Ottersbeckallee 23</td></tr><tr><td>55 83 03</td><td>Gerdau, Wilh., Ing., Eppend. Weg 150</td></tr><tr><td>37 93 52</td><td>Gerdau, W., Schiffer, <i>Njde</i> Delcherde 182</td></tr><tr><td>36 58 65</td><td>Gerdau &amp; Nietzel, Add. Masch., Burstah 47</td></tr><tr><td>24 50 65</td><td>Gerdemann, Jos., Tischler, Süderstr. 96</td></tr><tr><td>59 79 89</td><td>Gerdes, Bertha, Uhren, <i>Wösb</i> Eichenstr.</td></tr><tr><td>22 47 95</td><td>Gerdes, E., Juwelier, H. Schemm Pl. 22</td></tr><tr><td>22 46 03</td><td>Gerdes, Hans, Kfm., Overbeckstr. 8</td></tr><tr><td>28 74 76</td><td>Gerdes, Dr. H. Chr., Dir., <i>Wbk</i> Hind. A. 32</td></tr><tr><td>24 97 30</td><td>Gerdes, H., Schneiderei, Böckmannstr. 32</td></tr><tr><td>28 15 72</td><td>Gerdes, Heinz, <i>Wbk</i> Narzissenweg 4</td></tr><tr><td>58 24 76</td><td>Gerdes, Henriette, <i>Niend</i> Hauptstr. 1</td></tr><tr><td>44 69 88</td><td>Gerdes, Magdalene, Frau, Kielortallee 9</td></tr><tr><td>59 60 89</td><td>Gerdes, Robert, <i>Fsb</i> Kohlgarten 7</td></tr></table></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\"><table><tr><td>44 87 05</td><td>Gerdes, Rolf G. L., Kl. Fontenay 1</td></tr><tr><td>35 20 54</td><td>R., Gerdes, GmbH., Ind.-Vertr., Amel. Str. 15</td></tr><tr><td>59 23 93</td><td>Gerdes, Dr. Rud., Stud. Rat, Fsb Hummelsb. Kirchenweg 93</td></tr><tr><td>44 76 96</td><td>Gerdhenrichsen, Magda, Wäscherei, Grindelallee 148</td></tr><tr><td>22 52 44</td><td>Gerdien, Bertha, Osterbeckstr. 43</td></tr><tr><td>22 46 08</td><td>Gerdien, Hans, Vertr., Osterbeckstr. 9</td></tr><tr><td>(22 46 08)</td><td>Gerdien, Maria, Moden, Osterb. Str. 9</td></tr><tr><td>55 82 29</td><td>Gerds, Aug., Geschäftsf., Liliencronstr. 5</td></tr><tr><td>36 25 64</td><td>Gerds, Carl, Papier, Holzbrücke 2</td></tr><tr><td>52 79 85</td><td>Gerds, Clara, Eppend. Landstr. 107</td></tr><tr><td>28 18 40</td><td>Gerds, Gertrud, Mus. Lehr., Wbk Löwenstraße 21</td></tr><tr><td>38 66 88</td><td>Gerds, Heinr., Gastw., Wilh Niederg. D. 18</td></tr><tr><td>22 15 84</td><td>Gerds, Käte, Kurzw., Gertigstr. 32</td></tr><tr><td>26 47 62</td><td>Gerds, Paul, Bäckerm., Kantstr. 29</td></tr><tr><td>(36 16 71)</td><td>Gerds, W., Vertr., Rödingsmarkt 28</td></tr><tr><td>59 58 50</td><td>Gerdsen, Heinr., Ing., Rümkerstr. 25</td></tr><tr><td>52 61 36</td><td>Gerdt, G., Makler, Lokstedt, Ernststr. 4</td></tr><tr><td>52 20 29</td><td>Gerdt, Rud, Kfm, Lokstedt, Grundweg 92</td></tr></table></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 991\" data-label=\"Text\"><table><tbody><tr><td>28 83 19</td><td>Gerdtz, Ad., Tischler, <i>Wok</i> Neustr. 52</td></tr><tr><td>59 12 97</td><td>Gerdtz, Ascan, Kfm., Alsterd. Str. 197</td></tr><tr><td>52 77 59</td><td>Gerdtz, Aug., Zigarren, Schrammsweg 35</td></tr><tr><td>29 34 07</td><td>Gerdtz, C., Modewr., Billstedt, Hamb. Str. 207</td></tr><tr><td>33 64 89</td><td>Gerdtz, Ed., Schausp., Altstädter Str. 23</td></tr><tr><td>37 29 63</td><td>Gerdtz, Geo A., Pastor, Moorburg 53</td></tr><tr><td>59 84 87</td><td>Gerdtz, G. F., Apparatefr., Birkenhain 6</td></tr><tr><td>23 53 18</td><td>Gerdtz, Wilh., Eisenwr., Fuhrsb. Str. 129</td></tr><tr><td>46 08 14</td><td>Gerdtzen, Martha, <i>Bl</i> Wilhelmsallee 1</td></tr><tr><td>24 45 23</td><td>Gerdtzen, Herbert, Amsinckstr. 37</td></tr><tr><td>42 36 90</td><td>Gerdtzen, Otto, <i>Alt</i> Sonninstr. 15</td></tr><tr><td>49 12 58</td><td>Gerdtzen, P., Kfm., <i>GrFl</i> Schenkendorfstr. 21</td></tr><tr><td>24 56 39</td><td>Gerecke, C., Likörfbr., Spaldingstr. 138</td></tr><tr><td>22 65 07</td><td>Gerecke, Desi, Fürsorg., Wiesendamm 10</td></tr><tr><td>33 62 74</td><td>Gerecke, Erna, Gastw., Brauerstr. 36</td></tr><tr><td>55 21 83</td><td>Gerecke, Werner, Kfm., Hagedornstr. 14</td></tr><tr><td>33 04 16</td><td>Geremek, Joh., Elektrom., Steinstr. 12</td></tr><tr><td>53 22 47</td><td>Gergler, Bernhard, Abendrothweg 67</td></tr><tr><td>26 01 66</td><td>Gergov, Max, Schneider, Meridianstr. 1</td></tr><tr><td>(37 20 08)</td><td>Gergs, O., Apotheker, <i>Hrb</i> Pferdeweg 34</td></tr><tr><td>58 18 07</td><td>Gerhard, Dr., Arzt, <i>Niend</i> Schwalbenweg</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>23 44 95</td>\n<td>Gerhard, Anna, Frau, Finkenau 16</td>\n</tr>\n<tr>\n<td>46 06 88</td>\n<td>Gerhard, Hedwig, -Rissen, Acht. Sand 32</td>\n</tr>\n<tr>\n<td>52 04 14</td>\n<td>Gerhard, Margarethe, Flemingstr. 5</td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td rowspan=\"2\">{ Gerhard &amp; Hey A.-G., Spedition, Hbg. 11,</td>\n</tr>\n<tr>\n<td>36 63 41</td>\n<td>{ Steinhöft 9/11. T Gerhardy</td>\n</tr>\n<tr>\n<td>(49 39 81)</td>\n<td>Gerhard, L., Malerm., GrFl Osd.Ldstr.10</td>\n</tr>\n<tr>\n<td>33 32 33</td>\n<td>Gerhard, Marionetten, Ferdinandstr. 14</td>\n</tr>\n<tr>\n<td>28 13 43</td>\n<td>Alb. Gerhardt &amp; Söhne, Fischräuch., Wbk<br/>Lange Reihe 28</td>\n</tr>\n<tr>\n<td>26 05 77</td>\n<td>Gerhardt, Fr., Teerprod., Mühlenhagen</td>\n</tr>\n<tr>\n<td>25 16 39</td>\n<td>Gerhardt, H., Brekelbaumspark 2</td>\n</tr>\n<tr>\n<td>43 24 75</td>\n<td>Gerhardt, Dr. H., Tierarzt, N. Pferdemarkt 23</td>\n</tr>\n<tr>\n<td>28 78 60</td>\n<td>Gerhardt, Herb., Angest., Straßb. Str. 75</td>\n</tr>\n<tr>\n<td>23 39 62</td>\n<td>Gerhardt, M., Architekt., Erlenkamp 1</td>\n</tr>\n<tr>\n<td>22 54 16</td>\n<td>Gerhardt, Otto, Angest., Osterbeckstr. 31</td>\n</tr>\n<tr>\n<td>28 51 39</td>\n<td>Gerhardt, P., Schlosser. Wbk Hinsch. Str. 16</td>\n</tr>\n<tr>\n<td>42 43 83</td>\n<td>Gerhardt u. Schubert, Kühlant., Alt Berg-<br/>straße 228</td>\n</tr>\n<tr>\n<td>53 19 55</td>\n<td>Gerhardt, Willy, Friseur, Lehmweg 35</td>\n</tr>\n<tr>\n<td>44 37 01</td>\n<td>Gerhardy, Franz, Dipl. Ing., Badestr. 1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "llersen — Germania (Band III) 849",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 12 783 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>46 07 95</td>\n<td>Gerhold, Fritz, <i>Bl</i> Witts Allee 32</td>\n</tr>\n<tr>\n<td>59 72 08</td>\n<td>Gerhold, Gust., Kfm., <i>Wgsb</i> Bramf. Str. 73</td>\n</tr>\n<tr>\n<td>55 20 45</td>\n<td>Gerhold, Gustav, Dr. jur., Werderstr. 8</td>\n</tr>\n<tr>\n<td>59 13 66</td>\n<td>Gerhold, Rud., Angest., <i>Fsb</i> Olendörp 6</td>\n</tr>\n<tr>\n<td>33 33 36</td>\n<td>Gerhns, C., Geschenke, Mönckebr. Str. 17</td>\n</tr>\n<tr>\n<td>35 10 51</td>\n<td>Gerichtsvollzieheramt, Drehbahn 36</td>\n</tr>\n<tr>\n<td>35 10 51</td>\n<td>Gerichtskasse, Drehbahn 36</td>\n</tr>\n<tr>\n<td>28 51 83</td>\n<td>Gericke, F., Kfm., <i>Wbk</i> Klopstockstr. 17</td>\n</tr>\n<tr>\n<td>22 06 76</td>\n<td>Gericke, Hedwig, Apotheker, Leipz. Str. 7</td>\n</tr>\n<tr>\n<td>59 75 86</td>\n<td>Gericke, Karl, Lotse, <i>Lgh</i> Dobenpl. 14</td>\n</tr>\n<tr>\n<td>52 79 18</td>\n<td>Gericke, Karl, Nissenstr. 11</td>\n</tr>\n<tr>\n<td>49 51 69</td>\n<td>Gericke, Karl, Kfm., <i>Othm</i> Cranachstr. 24</td>\n</tr>\n<tr>\n<td>46 19 17</td>\n<td>Gericke, Paul, <i>Bl</i> Frenssenstr. 13</td>\n</tr>\n<tr>\n<td>26 32 13</td>\n<td>Gericke, Paul, Rektor, Evastr. 11</td>\n</tr>\n<tr>\n<td>25 40 30</td>\n<td>Gericke, W., Zigarren, Marienth. Str. 33</td>\n</tr>\n<tr>\n<td>52 86 27</td>\n<td>Gerig, Walter, Kfm., Woldsenweg 6</td>\n</tr>\n<tr>\n<td>49 46 73</td>\n<td>Gerike, Grete, <i>KlFl</i> Langenhegen 17</td>\n</tr>\n<tr>\n<td>31 31 46</td>\n<td>Gerike, Bahr &amp; Co, Zucker, Grön. Str. 14</td>\n</tr>\n<tr>\n<td>26 95 04</td>\n<td>Geringer, Rud., Ing., Luisenweg 15</td>\n</tr>\n<tr>\n<td>37 25 15</td>\n<td>Gerisch, A., Kol.-W., <i>Hrb</i> Gumbr.-Str. 19</td>\n</tr>\n<tr>\n<td>59 85 60</td>\n<td>Gerisch, Fritz, Vertr., <i>Fsb</i> Heschredder 60</td>\n</tr>\n<tr>\n<td>50 07 90</td>\n<td>Gerisch, Herb, Drucken <i>Z/Rn</i> Tarnhera 22</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 782 985\" data-label=\"Text\"><table><tbody><tr><td>23 46 04</td><td>Gerisch, Hugo, Gemüse, Fuhlsb. Str. 25</td></tr><tr><td>24 22 66</td><td>Gerisch, W.M.F., Heilprakt., Steind. 28</td></tr><tr><td>22 39 71</td><td>Gerke, Albert, Möbel, Andreasstr. 33</td></tr><tr><td>49 14 25</td><td>Gerke, Carl, <i>Othm</i> Kl. Flottb. Weg 41</td></tr><tr><td>25 02 08</td><td>Gerke, Gerda, Kontoristin, Rossausweg 4</td></tr><tr><td>44 74 81</td><td>Gerke, Dr. H., Vet.Rat. Ottersb. A. 12</td></tr><tr><td>59 62 46</td><td>Gerke, Otto, Prok., <i>Fsb</i> Traunstr. 15</td></tr><tr><td>59 97 93</td><td>Gerke, P., Lotse, Fuhlsb. Str. 182</td></tr><tr><td>21 26 85</td><td>Gerke, W., Schönnungstedt, Wohlt. Str.</td></tr><tr><td>55 82 95</td><td>Gerken, Ad. F., R.-A., Mansteinstr. 3</td></tr><tr><td>25 51 61</td><td>Gerken, C. R., Schneider, Lüß. Str. 147</td></tr><tr><td>43 33 29</td><td>Gerken, Hans, Butter, Eimsb.Ch. 42</td></tr><tr><td>28 11 20</td><td>Gerken, Heinr., Tischler, Lämmersleth 20</td></tr><tr><td>28 70 06</td><td>Gerken jr., Heinz, Feinkost, Brackd. 9</td></tr><tr><td>59 50 17</td><td>Gerken, Herm., <i>Fsb</i> Rübenkamp 356</td></tr><tr><td>28 57 63</td><td>Gerken, Karl, Tapezier., <i>Wbk</i> Litzowstr. 70</td></tr><tr><td>(37 22 63)</td><td>Gerken, O., Gartenbau, <i>Hrb</i> Langenbeck 4</td></tr><tr><td>23 40 60</td><td>Gerken, Otto, Waagen, Bachstr. 38</td></tr><tr><td>52 83 91</td><td>Gerken, Otto Johs., Hahnemannstr. 20</td></tr><tr><td>59 63 81</td><td>Gerken, Ww. Paula, Meiereiprod., <i>Humm</i><br/>Hamb. Str. 30</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "23",
+            "text": "01"
+          },
+          {
+            "extension": "25",
+            "text": "36"
+          },
+          {
+            "extension": "26",
+            "text": "07"
+          },
+          {
+            "extension": "21",
+            "text": "02"
+          },
+          {
+            "extension": "59",
+            "text": "53"
+          },
+          {
+            "extension": "26",
+            "text": "66"
+          },
+          {
+            "extension": "38",
+            "text": "77"
+          },
+          {
+            "extension": "37",
+            "text": "33"
+          },
+          {
+            "extension": "38",
+            "text": "56"
+          },
+          {
+            "extension": "55",
+            "text": "48"
+          },
+          {
+            "extension": "54",
+            "text": "16"
+          },
+          {
+            "extension": "38",
+            "text": "75"
+          },
+          {
+            "extension": "42",
+            "text": "08"
+          },
+          {
+            "extension": "52",
+            "text": "77"
+          },
+          {
+            "extension": "38",
+            "text": "42"
+          },
+          {
+            "extension": "25",
+            "text": "04"
+          },
+          {
+            "extension": "55",
+            "text": "97"
+          },
+          {
+            "extension": "34",
+            "text": "67"
+          },
+          {
+            "extension": "54",
+            "text": "15"
+          },
+          {
+            "extension": "10",
+            "text": "01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 777 994\" data-label=\"Text\"><table><tbody><tr><td>46 26 71</td><td>Ders., priv., Bl Föhrenweg 50</td></tr><tr><td>22 55 76</td><td>Gerlach, H., Hausverw., Maacksg. 2</td></tr><tr><td>59 12 57</td><td>Gerlach, Hans, Lehr., Alsterdorf, Krokus-<br/>stieg 7</td></tr><tr><td>42 51 89</td><td>H. Gerlach GmbH, Fischkons.Fbr., Alt<br/>Bahrenfelder Str. 213</td></tr><tr><td>43 22 81</td><td>Gerlach, H., privat, Alt Schulterblatt 139</td></tr><tr><td>26 87 26</td><td>Gerlach, Hch., Makler, Wendenstr. 329</td></tr><tr><td>24 79 35</td><td>Gerlach, Herm., Vertr., Lindenstr. 61</td></tr><tr><td>20 92 73</td><td>Gerlach, Johs., O.Steward, Volksd Ler-<br/>chenberg 23</td></tr><tr><td>49 45 93</td><td>Gerlach, Jul., Kfm., Steenkamp, Rüster-<br/>kamp 29</td></tr><tr><td>57 83 63</td><td>Gerlach, Karin, Lgh Ochsenzoll 184</td></tr><tr><td>43 54 35</td><td>Gerlach, K., Schlachter, Alt Fried.Str. 74</td></tr><tr><td>22 28 49</td><td>Gerlach jr., Ludw., Pfleger, Zimmerstr. 3</td></tr><tr><td>34 51 35</td><td>Gerlach, L., Manicure, Poststr. 2—4</td></tr><tr><td>24 07 13</td><td>Gerlach, M. H., Baumat., Böckmannstr. 47</td></tr><tr><td>44 61 95</td><td>M. H. Gerlach &amp; Co. KG., Rotenbaum-<br/>chausee 7</td></tr><tr><td>44 82 71</td><td>Gerlach Martha Rotenh Chausee 79</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 773 986\" data-label=\"Text\"><table><tbody><tr><td>44 35 70</td><td>Gerlach, K. A., Kfm., Bauesstr. 9</td></tr><tr><td>53 27 68</td><td>Gerlach, Theod., Makler, Isestr. 84</td></tr><tr><td>21 40 50</td><td>Gerlach, Dr. Willibald, Kfm., Wentorf,<br/>Reinb. Weg 12</td></tr><tr><td>26 37 75</td><td>Gerlach, Willy, Drogerie, Saling 20</td></tr><tr><td>36 31 66</td><td>Gerland, Aug., Ewerführ., Joh. Bollwerk 8</td></tr><tr><td>42 37 66</td><td>Gerland, Louis, Archit., <i>Bah</i> Roonstr. 102</td></tr><tr><td>22 04 89</td><td>Gerlich, A., Baurat, Richterstr. 13</td></tr><tr><td>26 98 12</td><td>Gerlich, Hans-O., Ing., Hamm. Ldstr. 85</td></tr><tr><td>36 69 97</td><td>Gerling, C., Filze, Herrlichkeit 73</td></tr><tr><td>26 61 25</td><td>Ders., Wohn., Papenstr. 50</td></tr><tr><td>28 13 45</td><td>Gerling, Ferd., Glaser, <i>Wbk</i> Königstr. 9</td></tr><tr><td>37 83 41</td><td>Gerling, Ferd., Rentner, Hausbruch, Burg-<br/>weg 114</td></tr><tr><td>58 20 64</td><td>Gerling, Gustav, Lockstedt, Birkenallee 12</td></tr><tr><td>43 53 91</td><td>Gerling, Karl W., Tanzschule, <i>Alt</i> Wie-<br/>landstr. 40</td></tr><tr><td>31 27 17</td><td>Gerling-Konzern, Lebensversich.A.G., <img alt=\"Logo of Gerling-Konzern\" data-bbox=\"730 795 765 845\"/><br/>Reichenstr. 3</td></tr><tr><td>33 82 51</td><td>Gerling-Konzern, Allg.Vers.-A.G., Möncke-<br/>bergstraße 13</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "— 20 —      Wien, Wien, Wien, Wien, Wien",
+        "entries": [
+          {
+            "extension": "44",
+            "text": "89 27 Gerlof, Bruno, Ottersbeckallee 13"
+          },
+          {
+            "extension": "52",
+            "text": "46 11 Gerlof, Erwin, Heidberg 54"
+          },
+          {
+            "extension": "42",
+            "text": "30 29 Gerlof, H., Manuf.-W., Alt Palmaille 56"
+          },
+          {
+            "extension": "20",
+            "text": "92 74 Gerlof, W., Steuerber., Sasel, Lüb. Ch. 107"
+          },
+          {
+            "extension": "34",
+            "text": "23 39 Ders., Büro, Hohe Bleichen 8"
+          },
+          {
+            "extension": "55",
+            "text": "30 13 Gerloff, Arn., Kfm., Schlüterstr. 77a"
+          },
+          {
+            "extension": "44",
+            "text": "79 20 Gerloff, Carl, Kfm., Moorweidenstr. 7"
+          },
+          {
+            "extension": "35",
+            "text": "35 51 C. Gerloff & Co, Vertr., Stadthausbr. 13"
+          },
+          {
+            "extension": "52",
+            "text": "37 84 Gerloff, Emille, Schneiderin, Elebeken 7"
+          },
+          {
+            "extension": "53",
+            "text": "08 76 Gerloff, Max, Vertr., Goßlerstr. 89"
+          },
+          {
+            "extension": "22",
+            "text": "64 97 Gerlt, A., Schwanenwik 36"
+          },
+          {
+            "extension": "58",
+            "text": "27 55 Germania, Dtsch. Nahrungsmittelfbr., Lok- stedt, Heimat 5"
+          },
+          {
+            "extension": "26",
+            "text": "68 25 Germania Waschanstalt, Mittelstr. 28"
+          },
+          {
+            "extension": "23",
+            "text": "23 93 Germania-Drogerie, Fuhlsb. Str. 99"
+          },
+          {
+            "extension": "38",
+            "text": "65 50 Germania-Drogerie, Wilh Fährstr. 83"
+          },
+          {
+            "extension": "34",
+            "text": "04 24 Germania-Drogerie, Gr. Bleichen 27"
+          },
+          {
+            "extension": "26",
+            "text": "84 55 Germania-Palast, Mittelstr. 43—45"
+          },
+          {
+            "extension": "24",
+            "text": "71 62 Germania Sitzmöbelfbr., Spald. Str. 210"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"445 35 500 125\" data-label=\"Page-Header\"><p>100</p></div>\n<div data-bbox=\"870 920 880 950\" data-label=\"Page-Footer\"><p>-</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

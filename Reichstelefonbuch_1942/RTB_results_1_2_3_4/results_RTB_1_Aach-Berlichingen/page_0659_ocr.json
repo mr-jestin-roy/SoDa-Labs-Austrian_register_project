@@ -1,0 +1,874 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Ludwigshafen (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"288 135 998 869\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Deutsch Wagram (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"281 226 941 322\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"253 125 998 917\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"262 135 982 875\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Eichenau (Kr. Kattowitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Rybnik (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "1288. Elektrische Anlagen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Ischl (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 102 357 182\" data-label=\"Text\"><p>68 53 03</p></div><div data-bbox=\"370 0 776 80\" data-label=\"Text\"><p>NW 7, Schiffbauerdamm 1</p></div><div data-bbox=\"515 80 836 174\" data-label=\"Text\"><p><b>Elektrotechnik</b></p></div><div data-bbox=\"460 192 884 305\" data-label=\"Text\"><p><b>Seidemann &amp; Co.</b></p></div><div data-bbox=\"402 326 918 421\" data-label=\"Text\"><p>Berlin SO 36, Mariannenplatz 25</p></div><div data-bbox=\"225 442 375 541\" data-label=\"Text\"><p><b>Bonn.</b></p></div><div data-bbox=\"281 550 982 720\" data-label=\"Text\"><p>3621 <b>Weck, Otto</b>, Elektro-Großvertrieb, Bonn,<br/>Breite Str. 102</p></div>",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 799 975 960\" data-label=\"Text\"><p><b>oberbaumaterialien u. -geräte</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "v. Dolfss &amp; Helle",
+        "entries": []
+      },
+      {
+        "region_name": "Bregenz (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "109 Solhardt &amp; Kiechel",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Czechowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Döbeln (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Domschale (Oberkrain).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Anton Varšek",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Erlangen.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Falkenburg (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fellbach b. Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Finsterwalde (N.-L.)",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Georgswalde (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Gera.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"38 149 130 343\"}, {\"label\": \"Section-Header\", \"bbox\": \"152 20 942 516\"}, {\"label\": \"Text\", \"bbox\": \"168 494 886 723\"}, {\"label\": \"Text\", \"bbox\": \"280 718 787 927\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"74 59 982 886\" data-label=\"List-Group\"><p>7014 <b>Maurer, Leop.</b>, Elektrische Maschinen und<br/>Anlagen, Graz, Roseggergasse 1</p><p>6105 <b>V. Moser &amp; A. Suppan</b>, Elektrotechnik,<br/>Graz-West, Dr.-Josef-Goebbels-Str. 7</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"209 61 774 317\"}, {\"label\": \"Text\", \"bbox\": \"86 352 891 619\"}, {\"label\": \"Text\", \"bbox\": \"40 628 131 740\"}, {\"label\": \"Text\", \"bbox\": \"542 632 937 761\"}, {\"label\": \"Text\", \"bbox\": \"305 776 673 917\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Güstrow (Mecklb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"75 917 987 980\" data-label=\"Text\"><p><b>Handel, Transport, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handelsgesellschaft, Handel",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hammeln (Hann.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Iglau (Mähren).",
+        "entries": []
+      },
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Koblenz.",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"14 171 173 335\"}, {\"label\": \"Text\", \"bbox\": \"225 50 943 437\"}, {\"label\": \"Text\", \"bbox\": \"191 437 981 638\"}, {\"label\": \"Text\", \"bbox\": \"0 731 491 951\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Artur Kurtz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Mechernich (Eifel).",
+        "entries": []
+      },
+      {
+        "region_name": "Metz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 796 235 955\" data-label=\"Text\"><p><b>Anlagen)</b></p></div><div data-bbox=\"418 796 781 955\" data-label=\"Text\"><p>(Branchenteil) 175</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 37 579 240\" data-label=\"Text\"><p><b>Mondsee (Oberdonau).</b></p></div><div data-bbox=\"124 253 762 526\" data-label=\"Text\"><p>1 <b>Ing. Kramberger &amp; Co.</b></p></div><div data-bbox=\"206 533 755 675\" data-label=\"Text\"><p>Elektrotechn. und mech. Werkstätte</p></div><div data-bbox=\"11 757 462 955\" data-label=\"Text\"><p><b>Mühlhausen (Els.).</b></p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Kempf &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"38 20 749 951\" data-label=\"Text\"><table border=\"0\"><tr><td style=\"vertical-align: middle;\">|</td><td style=\"vertical-align: middle;\">37 13 71</td><td style=\"vertical-align: middle;\">{</td><td style=\"vertical-align: middle;\"><b>Dipl.-Ing. Burger</b></td><td style=\"vertical-align: middle;\">|</td></tr><tr><td style=\"vertical-align: middle;\">|</td><td style=\"vertical-align: middle;\">37 13 79</td><td style=\"vertical-align: middle;\">{</td><td style=\"vertical-align: middle;\"><b>Aufzugsbau-Elektrobau G.m.b.H.</b></td><td style=\"vertical-align: middle;\">|</td></tr><tr><td></td><td></td><td></td><td style=\"text-align: center;\"><b>München 13</b></td><td></td></tr><tr><td></td><td></td><td></td><td style=\"text-align: center;\"><b>Schleißheimer Straße 102</b></td><td></td></tr></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "M. Gladbach.",
+        "entries": []
+      },
+      {
+        "region_name": "Neudamm (Neumark).",
+        "entries": []
+      },
+      {
+        "region_name": "Neuß (Rhein)",
+        "entries": []
+      },
+      {
+        "region_name": "Oberndorf (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Olmütz (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Reutlingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"157 41 614 231\"}, {\"label\": \"Text\", \"bbox\": \"192 236 576 416\"}, {\"label\": \"Text\", \"bbox\": \"263 434 500 569\"}, {\"label\": \"Text\", \"bbox\": \"143 585 626 740\"}, {\"label\": \"Text\", \"bbox\": \"265 750 504 904\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"45 88 728 280\" data-label=\"Text\"><p><b>Heinrich Stahlberger</b></p></div><div data-bbox=\"144 294 627 401\" data-label=\"Text\"><p><b>Elektro-Unternehmung</b></p></div><div data-bbox=\"179 460 581 595\" data-label=\"Text\"><p><b>Straßburg (Els.)</b></p></div><div data-bbox=\"208 610 559 684\" data-label=\"Text\"><p>Kronenburger Ring 18</p></div><div data-bbox=\"31 698 734 785\" data-label=\"Text\"><p><b>Fernsprecher 279 43, nach Büroschluß 268 31</b></p></div><div data-bbox=\"256 802 511 867\" data-label=\"Text\"><p><b>Postcheckkonto:</b></p></div><div data-bbox=\"259 875 497 945\" data-label=\"Text\"><p><b>Straßburg 1990</b></p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Ernst Westphal",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

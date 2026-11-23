@@ -1,0 +1,559 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"254 675 484 941\"}, {\"label\": \"Text\", \"bbox\": \"651 665 998 925\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 54 998 941\" data-label=\"List-Group\"><p>174 Wolff, Erich, Lohnfuhren, Großerkmannsdorf<br/>154 Wustmann, Rud., Vertreter, Schlageterstr. 24<br/>217 Ziesche, Hugo, Holzwarenherstellung, Fischbach<br/>185 Zöllner, O., Fleischer, Fischbach, Hitlerstr.</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Arnsfelde (Kr. Deutsch Krone)[Pommern]",
+        "entries": [
+          {
+            "extension": "23",
+            "text": "Banhagel, Johannes, Bauer"
+          },
+          {
+            "extension": "18",
+            "text": "Brieske, Bauer, Rose Abbau"
+          },
+          {
+            "extension": "19",
+            "text": "Brolekyn, A. H., Gastw., Dorfstr. 39"
+          },
+          {
+            "extension": "49",
+            "text": "Brose, Bruno, Kolonialwaren, Rosenfelde"
+          },
+          {
+            "extension": "37",
+            "text": "Brzcinski, Franz, Gastw., Dyck"
+          },
+          {
+            "extension": "25",
+            "text": "Budack, Georg, Bauer, Abbau"
+          },
+          {
+            "extension": "15",
+            "text": "Buschvorwerk, Dominion Rosenfelde."
+          },
+          {
+            "extension": "39",
+            "text": "Butzke, Bürgermeister, Dyck"
+          },
+          {
+            "extension": "35",
+            "text": "Evang. Pfarramt, Rosenfelde"
+          },
+          {
+            "extension": "31",
+            "text": "Ewert, Leo, Bauer, Abbau."
+          },
+          {
+            "extension": "56",
+            "text": "Försterei Wolfshof"
+          },
+          {
+            "extension": "36",
+            "text": "Forsthaus Rudolfshof"
+          },
+          {
+            "extension": "17",
+            "text": "Gendarmerieposten Rosenfelde, Rosenfelde"
+          },
+          {
+            "extension": "42",
+            "text": "Gerstenbergsche Erben, Neupreußendorf"
+          },
+          {
+            "extension": "62",
+            "text": "Habenstein, Wilhelm, Ortsbauernführer"
+          },
+          {
+            "extension": "10",
+            "text": "Hantel, Rudolf, Bürgermstr., Rosenfelde"
+          },
+          {
+            "extension": "34",
+            "text": "Hartmann, Gastwirtschaft"
+          },
+          {
+            "extension": "60",
+            "text": "Heymann, Klemens, Bauer, Abbau"
+          },
+          {
+            "extension": "59",
+            "text": "Hoffmann, Leo, Landw., Dyck"
+          },
+          {
+            "extension": "25",
+            "text": "Wöhlmann Franz Kohlen Rosenfelde"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"241 0 956 987\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>52 Krüger, Leonhard, Bauer</li>\n<li>71 Kühn, Martin, Bauer, Quiram</li>\n<li>12 Küsell, Bauer, Rosenfelde</li>\n<li>66 Küsell, Karl, Bauer, Rosenfelde</li>\n<li>21 Kuhnhardt, Administrator, Dyck.</li>\n<li>46 Landwirtschaftliche Brennereien., eGmbH.</li>\n<li>51 Lesnick, Emil, Bauer</li>\n<li>14 Machowinski, Bauer, Abbau</li>\n<li>28 Manthey, Paul, Bauer, Abbau</li>\n<li>47 Mausolf, Franz, Gasthof, Dyck</li>\n<li>54 Mittelstädt, Hermann, Schmiedemstr.</li>\n<li>26 Ost, Wilhelm, Fleischerstr.</li>\n<li>67 Pautzke, Arthur, Bauer</li>\n<li>73 Pockrandt, Walter, Bauer, Rosenfelde</li>\n<li>57 Raatz, Paul, Amtsvorsteher, Rosenfelde</li>\n<li>40 Rosenfelde, Gutsverwaltung</li>\n<li>63 Rump, Josef, Bäckermstr.</li>\n<li>48 Schmidt, Paul, Bürgerstr.</li>\n<li>16 Schröter, Landwirt</li>\n<li>58 Schulz, Hilde, Autofahrten, Rosenfelde</li>\n<li>44 Schulz, P., Landwirt, Paulsruh</li>\n</ul>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"240 20 957 980\" data-label=\"List-Group\"><p>38 Senftleben, Dr., Landwirt, Abbau Stranz<br/>43 Seufleben, Rich., Landwirt<br/>45 Specht, Amtsvorst., Dorfstr. 1<br/>24 Stelter, Martha, Bauer, Abbau<br/>72 Stenzel, Bernhard, Abb. 79<br/>29 Steuzel, Paul, Bauer, Abbau<br/>53 Straßenmeisterei Nr. 12, Rosenfelde-Abbau<br/>30 Tackenberg, Hermann, Bauer<br/>64 Teske, Helmut, Bauer, Rosenfelde, Abb.<br/>22 Timm, Hedwig, Kol.-W., Dyck<br/>68 Utecht, Wilh., Bauer, Rosenfelde, Abb.<br/>69 Vollmer, Emil, Bauer, Rosenfelde Abb.<br/>41 Wagner, R., Tischlermstr., Rosenfelde.<br/>70 Wegner, Albin, Bauer, Rosenfelde Abb.<br/>32 Werdin, Wilh., Fleischermstr., Dyck<br/>13 Wiese, Lothar, Bauer, Abbau<br/>55 Zadow, Reinhold, Fleischermstr., Rosenfelde</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Arnsgerouth (üb. Saalfeld)[Thüringen]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 0 990 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>38 [138]</td>\n<td>Krotsch, Alfred, Bauer, Obërgölitz</td>\n</tr>\n<tr>\n<td>41 [141]</td>\n<td>Kuhn, Oskar, Autoverm., Bernsdorf</td>\n</tr>\n<tr>\n<td>48 [148]</td>\n<td>Mauxionheim Gut Knobelsdorf</td>\n</tr>\n<tr>\n<td>111[111]</td>\n<td>Maximilianshütte, Grube Wittmannsge-<br/>reuth</td>\n</tr>\n<tr>\n<td>39 [139]</td>\n<td>Dies., Grube Eisenberg</td>\n</tr>\n<tr>\n<td>35 [135]</td>\n<td>NSV.-Kindererholungsheim, Wickersdorf</td>\n</tr>\n<tr>\n<td>(44) [144]</td>\n<td>Pension Altes Forsthaus, Wickersdorf</td>\n</tr>\n<tr>\n<td>81 [131]</td>\n<td>Pfarramt Hoheneiche</td>\n</tr>\n<tr>\n<td>20 [120]</td>\n<td>Reichspost</td>\n</tr>\n<tr>\n<td>45 [145]</td>\n<td>Rosenbusch, Artus, Bauer, Bernsdorf</td>\n</tr>\n<tr>\n<td>49 (149)</td>\n<td>Rössel, Hilmar, Fleischerei, Wickersdorf</td>\n</tr>\n<tr>\n<td>37 [137]</td>\n<td>Schlegel, Max, Gastw., Kleingeschwenda</td>\n</tr>\n<tr>\n<td>26 [126]</td>\n<td>Schloß Eyba bei Arnsgereuth</td>\n</tr>\n<tr>\n<td>44 [144]</td>\n<td>Schulgemeinde Wickersdorf</td>\n</tr>\n<tr>\n<td>02 [102]</td>\n<td>Spar- &amp; Darlehnskass.-Verein f. d. Saal-<br/>feld-Höhenorte</td>\n</tr>\n<tr>\n<td>38 [138]</td>\n<td>Speraschneider, Elsterschänke</td>\n</tr>\n<tr>\n<td>18 [113]</td>\n<td>Thomae, Knobelsdorf</td>\n</tr>\n<tr>\n<td>21 [121]</td>\n<td>Waldhaus, Gast- u. Pensionshaus</td>\n</tr>\n<tr>\n<td>48 [148]</td>\n<td>Wald-Hirsch' Mauxionheim Gut Knobelsdorf</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"230 0 997 382\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Arnstadt (Thür.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 665 968 937\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 12 998 984\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2108</td>\n<td>Amtsgericht, Schloßbezirk</td>\n</tr>\n<tr>\n<td>2014</td>\n<td>Albrecht, Georg, Bäckermstr., Gothaer Str. 21</td>\n</tr>\n<tr>\n<td>2848</td>\n<td>Albrecht, Wilh., Möbel, Markt 5.</td>\n</tr>\n<tr>\n<td>2857</td>\n<td>Andreas, Ad., Saaten, Rudisleben.</td>\n</tr>\n<tr>\n<td>2342</td>\n<td>Andreß, Hugo, Holz, Karl-Marien-Str. 18</td>\n</tr>\n<tr>\n<td>2521</td>\n<td>Andreß, Fritz, Lohnfuhrw., Marlshausen</td>\n</tr>\n<tr>\n<td>2392</td>\n<td>Apotheke, Ichtershausen.</td>\n</tr>\n<tr>\n<td>2837</td>\n<td>Arbeitsamt, Katharinenstr. 7</td>\n</tr>\n<tr>\n<td>2272</td>\n<td>Arndt, M., Papierwr., Unt. Markt 9</td>\n</tr>\n<tr>\n<td>2116</td>\n<td>Arnold, Willi, Tischler, Kohlenmarkt 13</td>\n</tr>\n<tr>\n<td>2742</td>\n<td>Arnst. Aluminiumwarenfabr. Robert Beyreiss<br/>Pfortenstr. 28</td>\n</tr>\n<tr>\n<td>2805</td>\n<td>Arnstädter Anzeiger, Erfurter Str. 20</td>\n</tr>\n<tr>\n<td>2400</td>\n<td>Arnst. Briefumschlagfabrik, Eduard Winkler<br/>Hülsemannstr. 8</td>\n</tr>\n<tr>\n<td>2482</td>\n<td>Arnst. Handsch.Fbr., J. Möller AG, Pfarrhof 1</td>\n</tr>\n<tr>\n<td>2084</td>\n<td rowspan=\"2\">Arnstädter Malzfabrik G. m. b. H.<br/>Ichtershäuser Str. 4. T Arnstadtmalz</td>\n</tr>\n<tr>\n<td>2474</td>\n</tr>\n<tr>\n<td>2217</td>\n<td>Arnst. Waagenfabr. Aug. Bramel, Schloßstr. 11</td>\n</tr>\n<tr>\n<td>2494</td>\n<td>Aschenbach, Ad., Buchdrucker, Klaustra. 17</td>\n</tr>\n<tr>\n<td>(2354)</td>\n<td>ABmann, Herm., Fahrräder, Erfurter Str. 5</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2319</td>\n<td>Bachmann, Hans, Bäckerei, Roonstr. 13</td>\n</tr>\n<tr>\n<td>2252</td>\n<td>Bachmanns Ww., H.W., Mützenfr., Feldstr. 9</td>\n</tr>\n<tr>\n<td>2269</td>\n<td>Bachstein, M., Kupferschmiederei, Rosenstr. 2</td>\n</tr>\n<tr>\n<td>2050</td>\n<td>Bähr, Edmund, Bauer, Rehestädt.</td>\n</tr>\n<tr>\n<td>2162</td>\n<td>Baer, Ernst, Kolonialwr., H.-Wessel-Str. 26</td>\n</tr>\n<tr>\n<td>2605</td>\n<td>Bärwinkel, Moritz, Joh.-Seb.-Bach-Str. 5</td>\n</tr>\n<tr>\n<td>2679</td>\n<td>Bahnhofsdrogerie, Viktor-Lutze-Str. 17</td>\n</tr>\n<tr>\n<td>2384</td>\n<td>Bahnhofhotel, W. Schimpf, Am Bahnhof</td>\n</tr>\n<tr>\n<td>2321</td>\n<td>Bahnhofskaffee, Horst-Wessel-Str. 34</td>\n</tr>\n<tr>\n<td>2074</td>\n<td>Bahnhofsverw., d. Arnst.-Ichtersh. Eisenbahn</td>\n</tr>\n<tr>\n<td>2524</td>\n<td>Dieg., Güterabfertigung</td>\n</tr>\n<tr>\n<td>2243</td>\n<td>Bahnhofswirtschaft, Jos. Wollschitt</td>\n</tr>\n<tr>\n<td>2485</td>\n<td>Bahrmann, Dr. K. F., Arzt, Rosenstr. 1</td>\n</tr>\n<tr>\n<td>2781</td>\n<td>Ballspiel-Club 07 eV., Rudisleber Rasen</td>\n</tr>\n<tr>\n<td>2409</td>\n<td>Bandke, August, Viktor-Lutze-Str. 24</td>\n</tr>\n<tr>\n<td>2618</td>\n<td>Barmer Ersatzkasse, Gustloffstr. 8</td>\n</tr>\n<tr>\n<td>2098</td>\n<td>Barth, Hugo, Schuhleistenfr., Friedrichstr. 4</td>\n</tr>\n<tr>\n<td>2547</td>\n<td>Barthel, Hugo, Papierwaren, Feldstr. 7</td>\n</tr>\n<tr>\n<td>2975</td>\n<td>Bauer, Arno, Ing., Am Bierweg</td>\n</tr>\n<tr>\n<td>2814</td>\n<td>Bauer, Paul, Waschanstalt, Krappg.Str. 33.</td>\n</tr>\n<tr>\n<td>0000</td>\n<td>Edmund Baumh",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"125 3 997 57\" data-label=\"Text\"><p><b>Tiefbohr., Wasserversorg., Längw. Mauer 12</b></p></div><div data-bbox=\"12 54 997 103\" data-label=\"Text\"><p><b>2786 Baumgarten, Eb., Vers.-Insp., Bärwinkelstr. 7</b></p></div><div data-bbox=\"12 101 930 150\" data-label=\"Text\"><p><b>2852 Baumgarten, Fr., Versich., Ad. HitlerAllee 8</b></p></div><div data-bbox=\"12 147 970 198\" data-label=\"Text\"><p><b>(2280) Baumgarten, Wilh., Fleischer, Marktstr. 18</b></p></div><div data-bbox=\"12 197 997 246\" data-label=\"Text\"><p><b>2124 Baumgarten, W., Bücherrevis., Rudolst. Str. 28</b></p></div><div data-bbox=\"12 244 900 293\" data-label=\"Text\"><p><b>2684 Chr. Baus &amp; Sohn, Baugesch., Sedanstr.</b></p></div><div data-bbox=\"12 291 760 340\" data-label=\"Text\"><p><b>2385 Beck, Johannes, Baumannstr. 2</b></p></div><div data-bbox=\"12 337 997 386\" data-label=\"Text\"><p><b>2858 Beck, Otto, Ichtershause, Schützenallee 18</b></p></div><div data-bbox=\"12 384 997 433\" data-label=\"Text\"><p><b>2682 Beck, Rudolf, Vertretgn., Ichtersh. Str. 35</b></p></div><div data-bbox=\"12 431 956 480\" data-label=\"Text\"><p><b>2477 Becker, Fred A., Abt.Leit., Ichtersh. Str. 27</b></p></div><div data-bbox=\"12 478 977 527\" data-label=\"Text\"><p><b>2413 Becker, Wilh., Tiefbau, Horst-Wessel-Str. 5</b></p></div><div data-bbox=\"12 525 747 574\" data-label=\"Text\"><p><b>2334 Behr, Pfarrer, Plauesche Str. 19</b></p></div><div data-bbox=\"12 572 826 621\" data-label=\"Text\"><p><b>2737 Behrends, Hanna, Lohmühlenweg 33</b></p></div><div data-bbox=\"12 619 897 668\" data-label=\"Text\"><p><b>2139 Beitz, Chr., Photograph, Gustloffstr. 16</b></p></div><div data-bbox=\"12 666 832 715\" data-label=\"Text\"><p><b>29",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2017</td>\n<td>Beutels, Aika., Baugeschirau, Mictuvu 10</td>\n</tr>\n<tr>\n<td>2628</td>\n<td>Derselbe, Privat</td>\n</tr>\n<tr>\n<td>2022</td>\n<td>Bertels, W., Zentralheizungen, Marktstr. 23</td>\n</tr>\n<tr>\n<td>2651</td>\n<td>Berthold, C., Schokoladen, Bismarckstr. 19</td>\n</tr>\n<tr>\n<td>2447</td>\n<td>Berufskrankenkasse d. Kaufm. Gehilf. u. weibl. Angestellten, Ritterstr. 6</td>\n</tr>\n<tr>\n<td>2856</td>\n<td>Berthold, Erich, Lehrmeister, Hersfelder Str. 13</td>\n</tr>\n<tr>\n<td>2688</td>\n<td>Berufsschule, gewerbliche</td>\n</tr>\n<tr>\n<td>2619</td>\n<td>Berufsschule hausw. &amp; gewerbl. für Mädchen m. Haushaltungsschule, Im Prinzenhof</td>\n</tr>\n<tr>\n<td>2420</td>\n<td>Beton-Monierbau AG, Baust. Meta Metallwerk</td>\n</tr>\n<tr>\n<td>2867</td>\n<td>Biel, Amtarat, Schloßplatz 3</td>\n</tr>\n<tr>\n<td>2856</td>\n<td>Billert, Bernh., Kfm., Ohrdrufer Str. 15</td>\n</tr>\n<tr>\n<td>2246</td>\n<td>Bing, Karl, Backerei, Ohrdruferstr. 28a.</td>\n</tr>\n<tr>\n<td>2412</td>\n<td>Bischoff, Albert, Schulleiter, Arnst. Str. 97</td>\n</tr>\n<tr>\n<td>2956</td>\n<td>Blum, Robert, Kohlen, Wachenburg-Allee 6</td>\n</tr>\n<tr>\n<td>(2115)</td>\n<td>Bock, Walter, Pferdehandlung, Holzmarkt 17</td>\n</tr>\n<tr>\n<td>2843</td>\n<td>Böhmert, M., Handschuhfabr., Schönbr. Str. 24</td>\n</tr>\n<tr>\n<td>2308</td>\n<td>Böning-Fürchtenicht, Walter, Kfm., Mühlw. 4</td>\n</tr>\n<tr>\n<td>2958</td>\n<td>Börner, Oskar, Schloßplatz 1</td>\n</tr>\n<tr>\n<td>Sam-</td>\n<td>(Otto Böttner o. H. G., Verlagsanstalt. Buch-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 981 375\" data-label=\"Text\"><p><b>Nr. 2805 } unu olumurugkeri, veriaz des Arnstauber</b><br/><b>Anzelgers, Arnstadt, Erfurter StraÙe 20/22</b></p></div><div data-bbox=\"0 382 783 554\" data-label=\"Text\"><p><b>2836 Bohn, E., Bäckerei, Rosenstr. 27</b></p></div><div data-bbox=\"0 549 667 723\" data-label=\"Text\"><p><b>2905 Boll, Alfr., Hindenburgstr. 7</b></p></div><div data-bbox=\"0 723 922 895\" data-label=\"Text\"><p><b>2454 Heinrich Boll &amp; Sohn, Dachpappenfabrik.</b></p></div><div data-bbox=\"0 895 961 973\" data-label=\"Text\"><p><b>0201 Berlin Wanne - Oranien - Friedrichshagen</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 983 670\" data-label=\"Text\"><p>2714 Duvo, Arthur, Lauuw., Augenhausstr. 99<br/>2558 Buchholz, Dr., Arzt, Häckerstieg 5<br/>2851 Buchtinger, Alfr., Geschäftsf., Turnv. Jahn-<br/>Straße 20<br/>2700 Büchner, Oskar, Malermstr., Moltkestr. 15.<br/>2198 Bühners, Adolf, Weinstube, Weiße 1<br/>2872 Bürgermeister Bittstädt<br/>2030 Bürgermeister Eischleben, Mönchsgasse 59<br/>2622 Bürgermeister Holzhausen<br/>2785 Bürgermeister Ichtershausen<br/>2432 Bürgermeister Marlighausen<br/>2645 Bürgermeister Muth, Haarhausen<br/>2458 Bürgermeister Rudisleben<br/>2484 Burgemüller, O., Steuersynd., Kupferstr. 9</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"549 546 556 567\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 10 998 978\" data-label=\"Table\"><table><tr><td>2483</td><td>Burkhardt, Melitta, Obst, Feldstr. 1</td></tr><tr><td>2284</td><td>Burkhardt, K., Hutmoden, Erfurter Str. 14</td></tr><tr><td>2150</td><td>Busch, Joh., Buchbind., Ad.-Hitler-Allee 2</td></tr><tr><td>2570</td><td>Busch &amp; Toelle, Buchdruck, Blumentalstr. 21</td></tr><tr><td>2433</td><td>Glaes, Anton, Dentist, Erfurter Str. 34</td></tr><tr><td>2891</td><td>Coca-Cola, Ernst Konrad, Rosengasse 22</td></tr><tr><td>2562</td><td>Concordia, Gesellschaftsh., Karolinenstr. 1</td></tr><tr><td>2727</td><td>Conditorei Ammann, Gustloffstr. 3</td></tr><tr><td>2381</td><td>Cramer, Dr., Arzt, Zimmerstr. 6</td></tr><tr><td>2041</td><td>Crimmann, Alfred, Lohmühlenweg 25b</td></tr><tr><td>2920</td><td>Cuxhavener Fischhalle Rob. Schmarje</td></tr><tr><td>2012</td><td>DAIMON-Werke GmbH, Elektr. Fbr., Stadt-<br/>ilmer Straße 39</td></tr><tr><td>2275</td><td>Dampfwascherei, Burgkeller, Erfurter Str. 12</td></tr><tr><td>2360</td><td>Dampfwascherei Edelweiß, Holzmarkt 2</td></tr><tr><td>2917</td><td>Daniel, O., Bäckerei, Unt. Markt 6</td></tr><tr><td>2801</td><td>Daubeneck, Gust., Südfrüchte, Gustloffstr. 6</td></tr><tr><td>2981</td><td>Dejako, Max, Dr., Ad.-Hitler-Allee 4</td></tr><tr><td>2163</td><td>Dellert, Georg, Textilwr., Erfurter Str. 40</td></tr><tr><td>2762</td><td>Demme, Louia, Spedition, Ritterstr. 1</td></tr><tr><td>2018</td><td>Deutsche Arbeitsfront, Gustloffstr. 1</td></tr></table></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2901</td>\n<td>Deutsches Rotes Kreuz, Ledermarkt 2</td>\n</tr>\n<tr>\n<td>2244</td>\n<td>Dietrich, Johann, Blumen, Am Hauptbahn.</td>\n</tr>\n<tr>\n<td>2088</td>\n<td>Dietrich, Theodor, Kurzw., Moltkestr. 3.</td>\n</tr>\n<tr>\n<td>2157</td>\n<td>Dietrich, K., Tabakwr.-Großhdlg., Weiße 16</td>\n</tr>\n<tr>\n<td>2245</td>\n<td>Dietz, Herb., Metallwrfr., Ichtershausen</td>\n</tr>\n<tr>\n<td>2138</td>\n<td>Dirkes, Wilh., Kfm., Fasanengarten 1</td>\n</tr>\n<tr>\n<td>2500</td>\n<td>Ditzel, E., Omnibusverk, Gehrener Str. 16</td>\n</tr>\n<tr>\n<td>2890</td>\n<td>Döring, Bauinspekt., Eichfelder W. 21</td>\n</tr>\n<tr>\n<td>2835</td>\n<td>Dörnfeld, Artur, Landwirt, Rudisleben.</td>\n</tr>\n<tr>\n<td>2625</td>\n<td>Dohse, Horst, Einkäufer, Gothaer Str. 22</td>\n</tr>\n<tr>\n<td>2046</td>\n<td>Domäne Dornhelm.</td>\n</tr>\n<tr>\n<td>2070</td>\n<td>Dornheim &amp; Söhne, Fleischwr., Kohlenm. 2</td>\n</tr>\n<tr>\n<td>2028</td>\n<td>Dornheim, Rittergut</td>\n</tr>\n<tr>\n<td>2800</td>\n<td>Drawert, Willy, Gärtnerreibes., PlauenscheStr.4</td>\n</tr>\n<tr>\n<td>2589</td>\n<td>Drechsel, Franz, Dachdecker, Schulplan 12.</td>\n</tr>\n<tr>\n<td>2559</td>\n<td>Driemel, Otto M., Lacke, Marktstr. 21</td>\n</tr>\n<tr>\n<td>2829</td>\n<td>Drogerie Findelsen Nf., Klausstr. 1</td>\n</tr>\n<tr>\n<td>2586</td>\n<td>Dunkel, Armin, Fleischer, Erfurter Str. 21</td>\n</tr>\n<tr>\n<td>2573</td>\n<td>Eckardt &amp; Kirsten, <i>Icht</i> Blücherstr. 2</td>\n</tr>\n<tr>\n<td>2482</td>\n<td>Edeka, Großhdlg., Ichtershäuserstr. 7.</td>\n</tr>\n<tr>\n<td>2666</td>\n<td>Egenolf &amp; Gottachalk",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 986\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2450</td>\n<td>Müller, Dr., Arzt, Wollmarkt 1.</td>\n</tr>\n<tr>\n<td>2732</td>\n<td>Eichelroth, W., elektr. Anl., H.-Wessel-Str. 5</td>\n</tr>\n<tr>\n<td>2463</td>\n<td>Eierkennzeichnungsstelle, Jonastal</td>\n</tr>\n<tr>\n<td>2632</td>\n<td>Einzelhandel Wirtschaftsgr., Holzmarkt 2</td>\n</tr>\n<tr>\n<td>2015</td>\n<td>Eissalon Venedig</td>\n</tr>\n<tr>\n<td>2178</td>\n<td>Elbracht, Dr. K., R.-A.[N], Holzmarkt 10</td>\n</tr>\n<tr>\n<td>2588</td>\n<td>Enders, Erwin, Fabrikbes., Bachstr. 4</td>\n</tr>\n<tr>\n<td>2161</td>\n<td>Enders, Osmar, Frbkt., Lohmühlenweg 4</td>\n</tr>\n<tr>\n<td>2207</td>\n<td>O. &amp; P. Enders, Handschuhfabr., Riedmauer 10</td>\n</tr>\n<tr>\n<td>2369</td>\n<td>Englert, Paul, Modewr., Neue Kirche 1</td>\n</tr>\n<tr>\n<td>2087</td>\n<td>Erco-Nadel- u. Stahlw.-Fbr. Ichterhausen.</td>\n</tr>\n<tr>\n<td>2448</td>\n<td>Erdmann, Jul. O., Gärtnerei, Ohrdrufferstr. 7</td>\n</tr>\n<tr>\n<td>2343</td>\n<td>Erdmann, Wilh., Mineralw.-Fbr., Pfortenstr. 44</td>\n</tr>\n<tr>\n<td>2338</td>\n<td>Erfurter Hof, C. Eschrich, Feldstr. 14</td>\n</tr>\n<tr>\n<td>2856</td>\n<td>Ermich, Artur, Friseur, Turnv. Jahn-Str. 1</td>\n</tr>\n<tr>\n<td>2274</td>\n<td>Ernhofer, Fritz, Friseur, Gustlofistr. 4</td>\n</tr>\n<tr>\n<td>2453</td>\n<td>Ernst, Rich., Riedmauer 6</td>\n</tr>\n<tr>\n<td>2166</td>\n<td>Ev. Stadtkirchenamt, Pfarrhof 10</td>\n</tr>\n<tr>\n<td>2468</td>\n<td>Falke, Carl, Tuche, Horst-Wessel-Str. 10</td>\n</tr>\n<tr>\n<td>2750</td>\n<td>Feichtinger, Oskar, zahnt. Labor., Weiße 40</td>\n</tr>\n",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2511</td>\n<td>Feuerwehr</td>\n</tr>\n<tr>\n<td>2286</td>\n<td>Gebr. Fiedler, Schlosserei</td>\n</tr>\n<tr>\n<td>2858</td>\n<td>Fischer, Elvir, Wurstfr., Weiße 2.</td>\n</tr>\n<tr>\n<td>2083</td>\n<td>Fischer, Paul, Ried 5</td>\n</tr>\n<tr>\n<td>2644</td>\n<td>Fischer, Paul, Dipl.Gew.Lehr., Sedanstr. 18a</td>\n</tr>\n<tr>\n<td>2820</td>\n<td>Fischhaus Dor. Ballentin, Unt.Markt 7</td>\n</tr>\n<tr>\n<td>2654</td>\n<td>Fischhaus Waldi Grüner, Kirchgasse 2</td>\n</tr>\n<tr>\n<td>2496</td>\n<td>Flaegel, Alfr., Häute, Längw. Str. 16</td>\n</tr>\n<tr>\n<td>2280</td>\n<td>Fleischerinnung, Marktstr. 2</td>\n</tr>\n<tr>\n<td>2509</td>\n<td>Flitner &amp; Niemann, Moden, Ledermarkt 2</td>\n</tr>\n<tr>\n<td>2435</td>\n<td>Florschütz, A., Dr., Am Mispelgütschen 2</td>\n</tr>\n<tr>\n<td>2378</td>\n<td>Fluck, Peter, Vulkan.-Anst., Weiße 50</td>\n</tr>\n<tr>\n<td>2826</td>\n<td>Försterwohnung a. d. Eichfeld, Eichfelder W. 25</td>\n</tr>\n<tr>\n<td>2788</td>\n<td>Försterwohnung Siegelbach</td>\n</tr>\n<tr>\n<td>2424</td>\n<td>Forstamt, Thüringisches, H.-Weesel-Str. 21</td>\n</tr>\n<tr>\n<td>2051</td>\n<td>Frank, Karl, Kreisinsp., Kaufbergstr. 6</td>\n</tr>\n<tr>\n<td>2335</td>\n<td>Franke, Ferd., Leder, Weiße 7</td>\n</tr>\n<tr>\n<td>2988</td>\n<td>Franke, Hildeg., Sängerin, Kohlenmarkt</td>\n</tr>\n<tr>\n<td>2291</td>\n<td>Franke, L., Dekorationsgesch., Gustloffstr. 12</td>\n</tr>\n<tr>\n<td>2561</td>\n<td>Frauendorf, W., Druckerei, Lohmühlenweg 13</td>\n</tr>\n<tr>\n<td>9170</td>\n<td>Frinke Heinrich Elektromechaniker Plank 10</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 989 993\" data-label=\"Text\"><p>2511 Friedhof-Krematorium u. Gärtnerei<br/>2844 Fries, Wilh., Pfarrer, Pfarrhof 2<br/>2088 Fries, W. F., Am Rabenhold<br/>2888 Fritsche, Frz., Neideckstr. 4<br/>2344 Fritz, L., W., Kupferschm., Längw.Str. 2<br/>2856 Frommhold, Postamtmann, Postamt<br/>(2891) Frosch, Prof. Dr. med., Arzt, Wachsenb.All. 12<br/>2486 Fuhrmann, P., Fleischermstr., Ohrdr.Str. 16<br/>2856 Fussangel, Willy, Ing., Baumannstr. 10<br/>2449 Galle, Herm., Uniformfabr., Nordstr. 18a<br/>(2490) Ganß, Elisabeth, Putz, Rosenstr. 41<br/>2490 Ganß, Paul, Mützenfabr., Rosenstr. 41<br/>2010 Gärtner, Alfred, Malermstr., Töpfergasse 2<br/>2225 Gärtner, Oskar, Kfm., Horst-Wessel-Str.<br/>2731 Gärtner Pötschke, Samenzucht, Am Bahnhof 4<br/>2355 Gärten-Greiner, Erfurter Str. 11<br/>2178 Gasthaus Eremitage, A. Gasterstätt<br/>2856 Gasthaus „Goldener Adler“, P. Walther<br/>2649 Gasthaus z. Güldenem Greif, A. Gasterstätt<br/>2533 Gasthaus u. Kaffee Jonastal, Chr. Bührich<br/>2674 Gasthof Ritterstein. Plauenschechr. 8</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 987\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2200</td>\n<td>Gasthaus z. „Athen Platz“, 1000 Hauptstr.</td>\n</tr>\n<tr>\n<td>2034</td>\n<td>Gasthaus z. Felsenkeller, Willy Stephan</td>\n</tr>\n<tr>\n<td>2946</td>\n<td>Gasthaus z. Linde, Angelhausen</td>\n</tr>\n<tr>\n<td>2696</td>\n<td>Gasthaus z. Ritter, Icht</td>\n</tr>\n<tr>\n<td>2340</td>\n<td>Gasthaus z. Rößchen, Dorotheenthal</td>\n</tr>\n<tr>\n<td>2115</td>\n<td>Gasthaus z. Tanne, Holzmarkt 17</td>\n</tr>\n<tr>\n<td>2148</td>\n<td>Gasthaus Waldschänke, Vikt. Preuss</td>\n</tr>\n<tr>\n<td>2307</td>\n<td>Gasthaus zur Wachsenburg, Haarhausen</td>\n</tr>\n<tr>\n<td>2667</td>\n<td>Gasthaus „Weißes Roß“, Holzmarkt 3</td>\n</tr>\n<tr>\n<td>2718</td>\n<td>Gastst. Flora, Reinh. Vater</td>\n</tr>\n<tr>\n<td>2778</td>\n<td>Gastst. Herzog Hedan, Ohrdrufer Str. 25</td>\n</tr>\n<tr>\n<td>2055</td>\n<td>Gastst. Roter Hirsch, Rosenstr. 83</td>\n</tr>\n<tr>\n<td>2076</td>\n<td>Gaststätte Saalgastst. O. Zimmermann, Ad.-Hitler-Allee 5</td>\n</tr>\n<tr>\n<td>2583</td>\n<td>Gaststätte Sportheim 09, F. Vogelsberg</td>\n</tr>\n<tr>\n<td>2876</td>\n<td>Gaststätte „Stadt Gotha“, Gothaer Str. 5</td>\n</tr>\n<tr>\n<td>2226</td>\n<td>Gaststätte z. Rosenau, Rosenstr. 22</td>\n</tr>\n<tr>\n<td>2511</td>\n<td>Gasversorgung, Markt 2.</td>\n</tr>\n<tr>\n<td>2702</td>\n<td>Gaswerk Ichtershausen.</td>\n</tr>\n<tr>\n<td>2691</td>\n<td>Gebauer, Kurt, Milch, Moltkestr. 26</td>\n</tr>\n<tr>\n<td>2846</td>\n<td>Gebauer, Paul, Lebenam., Weiße 9</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 9 786 993\" data-label=\"Text\"><p>2714 Gebser, Karl, Friseur, Ritterstr. 6<br/>2598 Geiger, Dr. Emil, Direktor, Karolinenstr. 11<br/>2429 Geisenheimer, L., Baugew.-Matr., Ichters-<br/>hausen<br/>2856 Geissler, Otto, Tischlerei, Bärwinkelstr. 4<br/>2104 Geissler, Richard, Fbrkt., Lohmühlenweg 7<br/>2812 Gemeindegasthaus. Holzhausen<br/>2247 Gemeindeschwester, evang., Pfarrhof 3<br/>2136 Gendarmerie-Kreisführer, Roonstr. 9<br/>2574 Gendarmerieposten Marlshausen<br/>2815 Gerhardt, R., Kläranlagen, Am Mühlweg<br/>2085 Gebr. Gerig, Drogen, Kol.-W., Gustloffstr. 18<br/>2532 H. M. Gering &amp; Co., Zangenfabrik<br/>2354 Germanus, Aug., Fahrräder, Erfurterstr. 5.<br/>2971 Gernandt, Ludw., Bücherrevisor, Johannisg. 6<br/>2302 Gesundheitsamt, Staatl., Landkreis Arnst.<br/>2313 Gesundheitsamt, Staatl., d. Stadtkreises<br/>2112 Gewalt, Ernst, Mineralwibr., Langw. Str. 8.<br/>2873 Gewerkschaft Castor, Am alten Gericht<br/>2079 Gilardoni, Herm., Malermstr., Wagnerg. 6.<br/>2659 GIBke, Paul, Fleischermstr., V.-Lutze-Str. 1a<br/>2281 Glatz M. Diner Ingen. Riemerplatz 10</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 781 994\" data-label=\"Text\"><p>2889 Gleder, Hch. Berggartenweg 28<br/>2914 Göbel, Alb., Amtsger.Rat, Hindenb.Str. 5a<br/>2673 Gockenbach, Annemarie, Am alten Gericht<br/>2566 Gockenbach, Paul, Baugesch., Erf.Str. 40<br/>2555 Gödde, Emma, Kim., Am Fürstenberg 8<br/>2094 Göhring, H., Lackiererel, Wagnerg. 17<br/>2895 Göhring, Oberstlttn., Eichfelder Weg 18<br/>2763 Gölitz, Herm., Malermstr., Stadtilmer Str. 44<br/>2004 Gömann, Walter, Ing., Fuhrmannsweg 1<br/>2006 Görnandt, L., Glaserei, Friedhof 6<br/>2379 Göschel, Ernst, Weißwr., Längwitzer Str. 1<br/>2036 Goldene Sieben, Kol.-Wr., Marktstr. 7<br/>2758 Goldhagen, Dr. R., Ger.-Rat, Hindenburgstr. 6<br/>2545 Goth. Feuerversich.Bank a. G., V.LutzeStr. 14<br/>2507 Gräbedünkel, Carl, Spediteur, Ichtershausen.<br/>2190 Grässler, C., Autovermiet., Pfortenstr. 48<br/>2813 Graßmann, E., Friseur, Erfurter Str. 1<br/>2390 Grebler, Ottomar, Besitzer Max Grebler, Bau-<br/>meister, Säge- und Möbelwerk, Sand- und Kies-<br/>grubenbetrieb, Ichtershäuser Str. 12<br/>2880 Grökal, Karl, Fuhrherr, Stadtilmerstr. 2</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 777 984\" data-label=\"Text\"><p>2030 <b>Guiana, Paul, Bannoisnotei, Marihausen</b><br/>2025 <b>Günter, Dr. Walt., Zonarzt, Erfurter Str. 40</b><br/>2632 <b>Günther, J. Carl, Klempner, Holzmarkt 2.</b><br/>2201 <b>Gütermann &amp; Co, Nähseiden, Schloßstr. 1a</b><br/>2600 <b>Gutenberg-Druckerei, Vor dem Riedtor 8</b><br/>2908 <b>Gutheil, Otto, Leder, Marktstr. 20</b><br/>2648 <b>Gutmann, Rud., Kreisinsp., Stadtilmer Str. 18</b><br/>2278 <b>Haarhausen-Rehestädter Spar- u. Darlehnskassen-Verein, Haarhausen</b><br/>2639 <b>Haas, Meta, Ww., Wollmarkt 8</b><br/>2810 <b>Haase, Alb., Goldwr., Erfurterstr. 8.</b><br/>2363 <b>Haase, Carl, Farben, Holzmarkt 4</b><br/>2678 <b>Haase, Rich., Fleischwr., Ohrdrufferstr. 4</b><br/>2987 <b>Hacker, Werner, Kfm., Klausstr. 5</b><br/>2864 <b>Häfner, Gustav, Obere Weiße 12</b><br/>2824 <b>Härcher, Marg., Molkereiprod., Schloßstr. 4</b><br/>2294 <b>Häring, Reinhold, Maler, Pfortenstr. 9.</b><br/>2832 <b>Halber Mond, An d. neuen Kirche 8.</b><br/>2807 <b>Halbreiter, Gust., Vertr., Fasanengasse 4</b><br/>2237 <b>Hamel, Karl, Klempnerei, Viktor-Lutze-Str. 3</b><br/>2633 <b>Hanack, Otto, Ing., Wollmarktplatz 4</b></p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 772 993\" data-label=\"Text\"><p>2457 Hartleb, Karl, Gärtnerei, H.-Wessel-Str. 20<br/>2856 Hartmann, Anna, Hebamme, Riedmauer 9<br/>2572 Hartmann, Wilh., Bäckerei, Pfortenstr. 12<br/>2288 Haupt, M., Damenputz, H.-Wessel-Str. 2<br/>2428 Hauser, Johannes, Lehrer, Bittstädt<br/>2205 Hausmann, Dr., Arzt, Dammweg 1.<br/>(2178) Haus- u. Grundbes. Verein, eV.<br/>2715 Heer, Willy, Autotaxen, Herg. Hedanstr. 8<br/>2287 Helnemann, Fritz, Fischerei, Flachtor.<br/>2181 Heinz, Julius, R.A.[N], Erfurter Str. 32<br/>2880 Heinz, Karl, Friseur, Pfortenstr. 46<br/>2986 Heissner, Ella, Obst, V. d. Riedtor 11<br/>2822 Gebr. Helbig, Maschinenf., Karl.-Marienstr. 10<br/>2364 Helbing, Kurt, Roßschlächt., Klausstr. 21<br/>2647 Helmbold, Fr., Gewerbeoberl., Gehr. Str 16d<br/>2100 Henkel, Hugo, Sattler, Erfurter Str. 4.<br/>2394 Henne, Heinr., (Modehaus), Erfurter Str. 25<br/>2248 Henneberg, M., Manuf.-W., Holzmarkt 14<br/>2052 Henning, Curt, Gewürze, Bismarckstr. 23<br/>2860 Henning, Wilh., Architekt, Dorotheental<br/>2584 Horde Elvir Fleischhwr Rosenstr 19</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 765 990\" data-label=\"Text\"><p>2726 Emil u. Max Herda, Bildhauer, Kohlenm. 8<br/>2480 Herda, Magd., D.-Moden, Erfurter Str. 18<br/>2517 Gebr. Hermecke, Ictersh. Ch. Pförtnergeb.<br/>2195 Hermann, Oskar, Eisenwr., Ried 8<br/>2091 Hermann, Walter, Bäckerstr., Ried 4<br/>2856 Hertel, Arno, Feldstr. 12<br/>2539 Hertel, Dr. O., Studienrat, Plauesche Str. 18<br/>2215 Hertel, Wulf, Buchhdlg., Holzmarkt 19<br/>2101 Herwig, Dr., Rechtsanwalt[N], Schloßplatz 5<br/>2057 Herzer, B., Dir., Ictershausen<br/>2140 Herzer, Paul, Fuhrgesch., Dammweg 2<br/>2177 Herzer, Wilhelm, Holz, Krappgartenstr. 1.<br/>2281 Hesse, Herm., Klempnerstr., Ledermarkt.<br/>2058 Hesse, Walther, Ictershausen<br/>2142 Hessenmüller's Kurbad, U.Markt 4<br/>2219 Heusinger, Alfr., Fahrräder, Ictershausen.<br/>2188 Heyder, Paul, Oberkirchner, Pfarrhof 2<br/>2018 Heyer, Hugo, Bauer, Rudisleben<br/>2980 W. Hildebrand &amp; Sohn, Weinhdlg., Icht.,<br/>Schützenallee 16<br/>2300 Hische, Fritz, Agenturleiter, Roonstr. 7</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Rohprodukte — Altelsen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

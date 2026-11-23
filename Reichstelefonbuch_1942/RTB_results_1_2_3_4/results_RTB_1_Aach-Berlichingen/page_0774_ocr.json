@@ -1,0 +1,904 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"225 691 588 925\" data-label=\"Text\"><p>290 (Branchenteil)</p></div><div data-bbox=\"758 691 998 912\" data-label=\"Text\"><p><b>2446. Ha</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"226 19 384 96\" data-label=\"Text\"><p>A2 91 51B</p></div><div data-bbox=\"594 19 776 96\" data-label=\"Text\"><p><b>Hilde Franz</b></p></div><div data-bbox=\"487 102 885 187\" data-label=\"Text\"><p>Haus- und Küchengerate,</p></div><div data-bbox=\"377 183 997 266\" data-label=\"Text\"><p>Wien XVI/107, Neulerchenfelder Str. 69</p></div><div data-bbox=\"226 263 363 339\" data-label=\"Text\"><p>R1 20 53</p></div><div data-bbox=\"377 263 997 430\" data-label=\"Text\"><p><b>Fuchs, Franz</b>, Eisenwarenhdg., Haus- u. Küchengerate, Werkz., X/75, Keplerpl. 14</p></div><div data-bbox=\"226 423 363 500\" data-label=\"Text\"><p>U2 62 18</p></div><div data-bbox=\"377 423 997 591\" data-label=\"Text\"><p><b>Haardt &amp; Krüger</b>, Emailwaren, Haus- u. Küchengerate, I, Schottengasse 3a</p></div><div data-bbox=\"226 584 363 661\" data-label=\"Text\"><p>R2 34 66</p></div><div data-bbox=\"377 584 997 985\" data-label=\"Text\"><p><b>Haas &amp; Czjzek</b>, Porzellanfabrik, Wien I/1, Kärntner Str. 5. Zentrale u. Detail: Wien I/1, Kärntner Str. 5. Ruf R2 34 66, Großhandelslager: XV, Reindorfgasse 18. Ruf 3 45 04</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Hörhan &amp; Mayr",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Bräuer &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 0 998 950\" data-label=\"Text\"><p><b>DO 24 10</b> <b>MAATH, W.,</b> <b>DRUCKEREI</b> u. <b>GENERALVERTR.</b><br/>deutscher Werke f. Haus- u. Küchengeräte<br/>u. Spielwaren VII/62, Kirchengasse 3</p><p><b>R2 74 41</b> <b>RASPER &amp; Söhne,</b> Rosenthal-Porzellan-<br/>Großhandlung, I/1, Graben 15</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "JOHANN RECKZÜGEL",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 10 998 189\" data-label=\"Text\"><p><b>R4 40 11 Bernhard Rhein</b> Spielwaren,<br/>Haus- und<br/>Küchengeräte, Gasthaus-Geschirr, Por-<br/>zellan, II/27, Franzensbrückenstr. 8</p></div><div data-bbox=\"227 186 998 323\" data-label=\"Text\"><p><b>R2 33 57 Schmidjell u. Beltrame</b>, Porzellan, Glas-<br/>waren, Haus- u. Küchengeräte, Wien I/1,<br/>Adlergasse 4</p></div><div data-bbox=\"227 320 998 551\" data-label=\"Text\"><p><b>A4 83 61 Stefanie Schuster</b><br/>Glas, Porzellan, Tonwaren,<br/>Haus- und Küchengeräte<br/>Wien II/27, Haidgasse 7, Gr. Sperlg. 22</p></div><div data-bbox=\"227 546 998 730\" data-label=\"Text\"><p><b>A6 01 89 Engelbert Seethaler</b><br/>Eisen- und Werkzeughandlung,<br/>Wien XXI/141, Schloßhofer Straße 14</p></div><div data-bbox=\"227 728 998 864\" data-label=\"Text\"><p><b>U2 94 53 Derselbe:</b> Großvertrieb von<br/>Haus- und Küchenbedarfsartikeln,<br/>Wien I/1, Salzgries 17</p></div><div data-bbox=\"227 864 998 955\" data-label=\"Text\"><p><b>U1 03 79 Spezialhaus für Küchenbedarf, Hans Ma-<br/>tauschek, III, Hauptstr. 51</b></p></div><div data-bbox=\"228 956 953 993\" data-label=\"Text\"><p>— — — — — <b>U 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 ",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"371 0 993 100\" data-label=\"Text\"><p>Eier, Ausgußkorke, Louis-Anschütz-Str. 26</p></div><div data-bbox=\"219 114 772 231\" data-label=\"Text\"><p><b>Zwettl (Niederdonau).</b></p></div><div data-bbox=\"315 271 354 344\" data-label=\"Text\"><p>67</p></div><div data-bbox=\"441 223 922 361\" data-label=\"Text\"><p><b>Herbert Schuh</b></p></div><div data-bbox=\"411 388 952 475\" data-label=\"Text\"><p>Eisenhandlung, Hamerlingstraße 1</p></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "2447. Haushaltartikel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bernsbach (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gelsenkirchen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Schulte &amp; Kampmeyer",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Gevelsberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"103 93 972 617\" data-label=\"Text\"><p>217 <b>Franz Leschantz</b> Eisen und<br/>Eisenwaren-<br/>Handlung, Leoben, Kärntner Str. 8</p></div><div data-bbox=\"3 718 568 954\" data-label=\"Text\"><p><b>Müllhausen (Els.).</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Wwe M. Lazare &amp; Söhne",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Mülheim (Ruhr).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Georg Schätzlein",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Neunkirchen (Niederdonaustauf).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"41 187 171 386\"}, {\"label\": \"Section-Header\", \"bbox\": \"332 117 820 421\"}, {\"label\": \"Text\", \"bbox\": \"139 490 934 875\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Sonneberg (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Straßburg (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"61 102 177 226\"}, {\"label\": \"Section-Header\", \"bbox\": \"375 41 742 263\"}, {\"label\": \"Text\", \"bbox\": \"240 313 870 947\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 24 313 158\"}, {\"label\": \"Text\", \"bbox\": \"32 154 970 365\"}]",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 700 355 904\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Neustadt b. Coburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar on the left edge and a thinner black vertical bar on the right edge.\"/>This image is a scan of a blank page from a 1942 German telephone directory. It features a thick black vertical bar along the left margin and a thinner black vertical bar along the right margin. The rest of the page is completely blank and white.</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"356 20 631 967\" data-label=\"Image\"><img alt=\"Seal of the German Telephone Directory (Reichstelefonbuch) featuring a central figure holding a telephone receiver, surrounded by the text 'REICHSTELEFONBUCH' and '1942'.\"/>The image is a circular seal for the German Telephone Directory (Reichstelefonbuch) from 1942. In the center, a stylized figure of a man in a suit and tie is depicted holding a telephone receiver to his ear. The figure is set against a background that includes a hammer on the left and a pickaxe on the right, symbolizing the German economy. The entire scene is enclosed within a circular border. The words 'REICHSTELEFONBUCH' are written in a curved path along the top inner edge of the circle, and the year '1942' is positioned at the bottom center.</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"97 317 632 830\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"341 386 900 904\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"165 222 839 977\"}]",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"384 48 617 96\" data-label=\"Text\"><p><b>Talstraße 1</b></p></div><div data-bbox=\"314 179 689 235\" data-label=\"Text\"><p><b>Fernsprecher 5286</b></p></div><div data-bbox=\"64 331 946 564\" data-label=\"Text\"><p><b>Großhandlung in Haushaltsgegenständen jeder Art aus Glas, Porzellan sowie Korbwaren aller Art.</b></p></div><div data-bbox=\"279 633 727 686\" data-label=\"Text\"><p><b>Ständig großes Lager.</b></p></div><div data-bbox=\"229 756 757 805\" data-label=\"Text\"><p><b>Siehe auch unter Branche:</b></p></div><div data-bbox=\"388 841 595 893\" data-label=\"Text\"><p><b>Spielwaren</b></p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Trier.",
+        "entries": []
+      },
+      {
+        "region_name": "Wetzlar.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"22 67 978 352\"}, {\"label\": \"Text\", \"bbox\": \"124 391 901 516\"}, {\"label\": \"Text\", \"bbox\": \"244 589 779 717\"}, {\"label\": \"Text\", \"bbox\": \"277 791 747 915\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"138 197 850 266\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 119 998 811\"}]",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 161 367 375\"}, {\"label\": \"Text\", \"bbox\": \"68 404 997 761\"}]",
+      "cells": [
+        "col3_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"29 145 963 750\"}]",
+      "cells": [
+        "col3_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Bad Godesberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Drauhofen b. Möllbrücken (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content in the 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or a page with no content in the 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Frankenstein (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenfeldbruck (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gnadenfrei (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Grünberg (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Lülsfeld (üß. Gerolzhofen).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"160 227 607 300\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"131 10 644 408\"}, {\"label\": \"Text\", \"bbox\": \"194 395 589 955\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Gelsenkirchener Schuhgroßhandlung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Großhartau (Kr. Bautzen).",
+        "entries": []
+      },
+      {
+        "region_name": "Kahl (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Meiningen (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Offenbach (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Oschatz (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "AMOS A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesloch (Baden).",
+        "entries": []
+      }
+    ]
+  }
+]

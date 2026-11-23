@@ -1,0 +1,929 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "788",
+            "text": "(Band III) Hamburg: A"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 11 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>44 65 17</td>\n<td>Albers, Peter L., Chemiker, Hansastr. 64</td>\n</tr>\n<tr>\n<td>35 41 90</td>\n<td>Albers, R., Maurer, Alt. Kirchweg 216</td>\n</tr>\n<tr>\n<td>23 39 28</td>\n<td>Albers, Vera, Suhrsweg 26</td>\n</tr>\n<tr>\n<td>21 31 55</td>\n<td>Albers, Walther, Autoverm., Allermöhe, Oberer Landweg 5</td>\n</tr>\n<tr>\n<td>25 10 41</td>\n<td>Albers, W., Krim.-Komm., Poelsweg 12</td>\n</tr>\n<tr>\n<td>22 19 08</td>\n<td>Albers, Wilhelm, Autofuhrw., Hofweg 6</td>\n</tr>\n<tr>\n<td>25 11 95</td>\n<td>Albers, Wilh., Kfm., Iflandstr. 48</td>\n</tr>\n<tr>\n<td>24 80 09</td>\n<td>Albers, Wilh., Eisenwr., Böckmannstr. 11</td>\n</tr>\n<tr>\n<td>42 32 32</td>\n<td>Albers, Wilh., Blumen, Alt Hauptbhf. 2</td>\n</tr>\n<tr>\n<td>21 28 10</td>\n<td>Albers, Wilh., Gärtn., Neuengamme, Hs. 228</td>\n</tr>\n<tr>\n<td>36 31 22</td>\n<td>Albers, Wilh., Gastw., Vorsetzen 5</td>\n</tr>\n<tr>\n<td>37 07 57</td>\n<td>Albers, Wilh., Gemüse, <i>Hrb</i> Bergstr. 12</td>\n</tr>\n<tr>\n<td>37 24 93</td>\n<td>Albers, Wilhelm, <i>Hrb</i> Winsener Str. 5</td>\n</tr>\n<tr>\n<td>37 34 08</td>\n<td>Albers, W., Wagenbau, <i>Hrb</i> Grubestr. 70</td>\n</tr>\n<tr>\n<td>24 55 48</td>\n<td><b>Albers, Wilhelm, Ein- u. Ausfuhr frischer und getrockneter Früchte, Hamburg 1, Amsinckstraße 4/5</b></td>\n</tr>\n<tr>\n<td>28 64 82</td>\n<td>Derselbe, Privat, <i>Wbk</i> Hindenburgallee 7</td>\n</tr>\n<tr>\n<td>37 39 53</td>\n<td>Albers, W., Eisenwr., <i>Hrb</i> Lüneb. Str. 38</td>\n</tr>\n<tr>\n<td>37 43 06</td>\n<td>Ders., Wohn., <i>Hrb</i> Heimf. Str. 139</td>\n</tr>\n<tr>\n<td>91 97 24</td>\n<td>Albers Wilhelm Obstzüchter Allermöhe</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Hinterm Horn 1",
+        "entries": [
+          {
+            "extension": "26",
+            "text": "40 44 (Hbg. 26, Steinbeckerstr. 58. P 15410"
+          },
+          {
+            "extension": "52",
+            "text": "68 22 Albers, Willi, Meierei, Himmelstr. 3"
+          },
+          {
+            "extension": "24",
+            "text": "42 77 Albers, Willy, Gemüse, Sonninstr 20"
+          },
+          {
+            "extension": "49",
+            "text": "12 17 Albers-Schönberg, Margarethe, Wwe., Othm Eichenallee 17"
+          },
+          {
+            "extension": "22",
+            "text": "68 90 Albersdörfer, F., Ing., Semperstr. 79"
+          },
+          {
+            "extension": "27",
+            "text": "14 69 Albert, Aug., Papierwr., Rahl Hitlerstr. 2"
+          },
+          {
+            "extension": "44",
+            "text": "38 08 Albert, Dorothea, Lehr., Mittelw. 121"
+          },
+          {
+            "extension": "53",
+            "text": "14 60 Albert, Fr., Kfm., Eppend. Landstr. 28"
+          },
+          {
+            "extension": "22",
+            "text": "02 72 Albert, Fritz, Konsul, Fährstr. 2"
+          },
+          {
+            "extension": "59",
+            "text": "61 30 Albert, Fritz, Bahninsp., Dennerstr. 21"
+          }
+        ]
+      },
+      {
+        "region_name": "34 25 16 Gebr. Albert",
+        "entries": [
+          {
+            "extension": "38",
+            "text": "65 43 Albert, Dr. G., Arzt, HW 1 Hind. Str. 20"
+          },
+          {
+            "extension": "23",
+            "text": "50 68 Albert, Heinr., Manuf.-W., Diederichstr. 29"
+          },
+          {
+            "extension": "21",
+            "text": "20 25 Albert, H., Vorst., Bgd Kampchausee 9"
+          },
+          {
+            "extension": "55",
+            "text": "68 60 Albert, Herm., Kfm., Parkallee 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 17 995 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>36 53 65</td>\n<td>Albert, Johannes, Radio, Bohnenstr. 9</td>\n</tr>\n<tr>\n<td>59 53 71</td>\n<td>Albert, Joh., Insp., <i>Fsb</i> Stübeheide 151</td>\n</tr>\n<tr>\n<td>21 43 84</td>\n<td>Albert, Karl, Kohlen, Wentorf, Reinb.W.24</td>\n</tr>\n<tr>\n<td>46 27 02</td>\n<td>Albert, Kuno, Lehrer, <i>Bl</i> Caprivistr. 31</td>\n</tr>\n<tr>\n<td>26 34 12</td>\n<td>Albert, Max, Kfm., Oben Borgfelde 40</td>\n</tr>\n<tr>\n<td>52 69 95</td>\n<td>Albert, Ottilie, P 39, Sierichstr. 160</td>\n</tr>\n<tr>\n<td>52 83 65</td>\n<td>Albert, Peter, Lokstedt, Hindenb.Str. 1</td>\n</tr>\n<tr>\n<td>37 20 24</td>\n<td>Alberti, Carl, Apoth., <i>Hrb</i> Sand 22</td>\n</tr>\n<tr>\n<td>49 40 26</td>\n<td>Alberti, Hanna, Lehr., <i>Kfl</i> Hesten 5</td>\n</tr>\n<tr>\n<td>46 19 08</td>\n<td>Alberti, Magdalene, <i>Bl</i> Mörikestr. 9</td>\n</tr>\n<tr>\n<td>31 16 76</td>\n<td>Alberti &amp; Hempel, Labor., N. Grön.Str.10</td>\n</tr>\n<tr>\n<td>55 90 38</td>\n<td>Albertinen-Haus, Tornquiststr. 50</td>\n</tr>\n<tr>\n<td>25 10 37</td>\n<td>Alberts, A. C., Tierarzt, Oben Borgf. 1</td>\n</tr>\n<tr>\n<td>58 19 75</td>\n<td>Alberts, Alb., Bäck., Lokstedt, Wilh.Str.18</td>\n</tr>\n<tr>\n<td>42 45 16</td>\n<td>Alberts, Dr. Hans, Zahnarzt, <i>Alt</i> Reichenstraße 18</td>\n</tr>\n<tr>\n<td>42 45 16</td>\n<td>Alberts, Joh., Kfm., <i>Alt</i> Reichenstr. 18</td>\n</tr>\n<tr>\n<td>59 87 69</td>\n<td>Albertsen, Jens, Gastst., <i>Fsb</i> Fuhlshb.Str.779</td>\n</tr>\n<tr>\n<td>22 59 41</td>\n<td>Albertsen. Willy, Fische. Herderstr. 33</td>\n</tr>\n<tr>\n<td>42 80 12</td>\n<td>Alberty, Jos., Kfm., <i>Bah</i> Friedensallee 266</td>\n</tr>\n<tr>\n<td>40 14 52</td>\n<td>Alberty &amp; Co <i>Bah</i> Glastr &amp; Quarantäne TT</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Halle 5",
+        "entries": [
+          {
+            "extension": "21",
+            "text": "43 20 Albertz, Hans, Futtermittel, Reinbek, Querstr. 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "A: Bedeutung der",
+        "entries": []
+      },
+      {
+        "region_name": "B: Die für Briefanschriften vor",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "B",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Billstedt = Hamburg-Billstedt",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and contains no text, numbers, or other markings. It appears to be a separator page or a page where no entries were present for that specific region or town.</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "bers — Alexander",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 11 998 994\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>42 97 15</td>\n<td>Albertz-Sarnighausen, Ww.,</td>\n<td>Alt Behnstr. 10</td>\n</tr>\n<tr>\n<td>37 37 19</td>\n<td>Albien, Otto, Malerel,</td>\n<td>Herb Auß. Weg 2</td>\n</tr>\n<tr>\n<td>53 17 55</td>\n<td>Albiez, Hilda,</td>\n<td>Löwenstr. 36</td>\n</tr>\n<tr>\n<td>24 70 88</td>\n<td>Albig, Georg, P 1,</td>\n<td>Hammerbrookstr. 12</td>\n</tr>\n<tr>\n<td><b>Sammel-</b></td>\n<td><b>Albingia\"</b></td>\n<td><b>Versicherungs - Aktiengesell-</b></td>\n</tr>\n<tr>\n<td><b>Nrn.</b></td>\n<td><b>schaft, Hdg. 1,</b></td>\n<td><b>Alsterdamm 39 (Europa-</b></td>\n</tr>\n<tr>\n<td>33 13 41</td>\n<td><b>haus). T Albingia P</b></td>\n<td><b>2693 u. 4732</b></td>\n</tr>\n<tr>\n<td>33 16 91</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>33 62 60</td>\n<td>Albingia Vers. A.G.,</td>\n<td>Hanbury &amp; Co, Rat-</td>\n</tr>\n<tr>\n<td></td>\n<td>haugstr. 19</td>\n<td></td>\n</tr>\n<tr>\n<td>26 66 68</td>\n<td>Albitz, Joachim, Kfm.,</td>\n<td>Gesundbr. 14</td>\n</tr>\n<tr>\n<td>28 52 47</td>\n<td>„Aibo“,</td>\n<td>Autoreifen-Erneuerung, Albert</td>\n</tr>\n<tr>\n<td></td>\n<td>Ohling, -Wandsbek,</td>\n<td>Zollstraße 39 u. 41</td>\n</tr>\n<tr>\n<td>23 52 56</td>\n<td>Albrecht-Krankenhaus,</td>\n<td>Friedrichsb. Str. 53</td>\n</tr>\n<tr>\n<td>49 45 29</td>\n<td>A. G. Albrecht &amp; Co</td>\n<td>Nachf., Vertr., GrFl</td>\n</tr>\n<tr>\n<td></td>\n<td>Rosenhagenstr. 2</td>\n<td></td>\n</tr>\n<tr>\n<td>43 07 12</td>\n<td>Albrecht, Ad., Tabak</td>\n<td>Alt Koldingstr. 8</td>\n</tr>\n<tr>\n<td>52 89 57</td>\n<td>Albrecht, Agnes, P 20,</td>\n<td>Ludolfstr. 60</td>\n</tr>\n<tr>\n<td>58 24 72</td>\n<td>Albrecht, Alfred,</td>\n<td>Gasthaus, Schnelsen,</td>\n</tr>\n<tr>\n<td></td>\n<td>Oldesloer Str. 280</td>\n<td></td>\n</tr>\n<tr>\n<td>34 51 62</td>\n<td>Albrecht, Alfr., Tischl.,</td>\n<td>Caff. Reihe 101</td>\n</tr>\n<tr>\n<td>42 04 02</td>\n<td>Albrecht</td>\n<td>Alwin Antworm Panilestr 1A</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "55",
+            "text": "34"
+          },
+          {
+            "extension": "26",
+            "text": "46"
+          },
+          {
+            "extension": "43",
+            "text": "26"
+          },
+          {
+            "extension": "26",
+            "text": "36"
+          },
+          {
+            "extension": "22",
+            "text": "04"
+          },
+          {
+            "extension": "28",
+            "text": "56"
+          },
+          {
+            "extension": "38",
+            "text": "50"
+          },
+          {
+            "extension": "58",
+            "text": "26"
+          },
+          {
+            "extension": "24",
+            "text": "32"
+          },
+          {
+            "extension": "26",
+            "text": "44"
+          },
+          {
+            "extension": "42",
+            "text": "01"
+          },
+          {
+            "extension": "38",
+            "text": "65"
+          },
+          {
+            "extension": "24",
+            "text": "02"
+          },
+          {
+            "extension": "39",
+            "text": "10"
+          },
+          {
+            "extension": "46",
+            "text": "08"
+          },
+          {
+            "extension": "52",
+            "text": "59"
+          },
+          {
+            "extension": "35",
+            "text": "57"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "38",
+            "text": "84"
+          },
+          {
+            "extension": "36",
+            "text": "31"
+          },
+          {
+            "extension": "49",
+            "text": "53"
+          },
+          {
+            "extension": "23",
+            "text": "28"
+          },
+          {
+            "extension": "28",
+            "text": "77"
+          },
+          {
+            "extension": "52",
+            "text": "34"
+          },
+          {
+            "extension": "26",
+            "text": "77"
+          },
+          {
+            "extension": "31",
+            "text": "15"
+          },
+          {
+            "extension": "53",
+            "text": "38"
+          },
+          {
+            "extension": "32",
+            "text": "85"
+          },
+          {
+            "extension": "43",
+            "text": "44"
+          },
+          {
+            "extension": "37",
+            "text": "36"
+          },
+          {
+            "extension": "34",
+            "text": "54"
+          },
+          {
+            "extension": "55",
+            "text": "33"
+          },
+          {
+            "extension": "55",
+            "text": "80"
+          },
+          {
+            "extension": "44",
+            "text": "30"
+          },
+          {
+            "extension": "23",
+            "text": "33"
+          },
+          {
+            "extension": "42",
+            "text": "77"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "23",
+            "text": "31 47 Albrecht, Gustav, Baugesch., Grovestr. 1"
+          },
+          {
+            "extension": "26",
+            "text": "70 75 Albrecht, Hans, Pastor, Jordanstr. 49"
+          },
+          {
+            "extension": "43",
+            "text": "41 88 Albrecht, Hans, Zigarren, Elmsb.Ch. 53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "in den Adressen der Teilnahme",
+        "entries": []
+      },
+      {
+        "region_name": "beschriebenen postalischen Bezei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "C",
+        "entries": []
+      },
+      {
+        "region_name": "D",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "E",
+        "entries": []
+      },
+      {
+        "region_name": "F",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, numbers, or other markings visible. It appears to be a scan of a physical document, showing some minor scanning artifacts.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks near the bottom center.\"/>This image is a scan of a blank white page. It contains no text or other meaningful content, except for a few small, dark artifacts or specks located near the bottom center of the page.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 10 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>81 16 67</td>\n<td>H. Albrecht &amp; Co., Imp., Catharinenstr. 19</td>\n</tr>\n<tr>\n<td>(53 07 87)</td>\n<td>Albrecht, Hans, Haynstr. 1</td>\n</tr>\n<tr>\n<td>34 81 92</td>\n<td>Albrecht, Hans, Dr., Königstr. 81</td>\n</tr>\n<tr>\n<td>52 79 00</td>\n<td>Albrecht, Hans, Kfm., Erikastr. 147</td>\n</tr>\n<tr>\n<td>53 31 02</td>\n<td>Albrecht, Hans, Ing., Isestr. 81</td>\n</tr>\n<tr>\n<td>55 99 89</td>\n<td>Albrecht, Hans, Musiker, Bism. Str. 105</td>\n</tr>\n<tr>\n<td>21 25 75</td>\n<td>Albrecht, Dr. H., Stud.Rat, <i>Bgd</i> Brauer-<br/>straße 73</td>\n</tr>\n<tr>\n<td>58 30 60</td>\n<td>Albrecht, Dr. H., Arzt, Jahnstr. 12</td>\n</tr>\n<tr>\n<td>55 52 18</td>\n<td>Albrecht, Hans Jürgen, Abteistr. 18</td>\n</tr>\n<tr>\n<td>34 40 87</td>\n<td>Albrecht, Hedwig, Photogr., Neuerw. 42</td>\n</tr>\n<tr>\n<td>(34 71 15)</td>\n<td>Albrecht, H., Meßinstr., K.-Wilh.-Str. 47</td>\n</tr>\n<tr>\n<td>23 48 36</td>\n<td>Albrecht, H., Klempner, Bramf.Str. 73</td>\n</tr>\n<tr>\n<td>52 34 62</td>\n<td>Albrecht, Helm., Ing., Willistr. 34</td>\n</tr>\n<tr>\n<td>23 32 31</td>\n<td>Albrecht, Helmut, Dent., Am Markt 39</td>\n</tr>\n<tr>\n<td>23 01 17</td>\n<td>Albrecht, Helm., Maler, v.-Essen-Str. 45</td>\n</tr>\n<tr>\n<td>36 22 60</td>\n<td>Albrecht, H., Bierstube, Gr. Bäckerstr. 15</td>\n</tr>\n<tr>\n<td>26 77 49</td>\n<td>Albrecht, Herm., Kfm., Droopweg 49</td>\n</tr>\n<tr>\n<td>34 23 28</td>\n<td>Albrecht, Herm, Photogr., Colonnaden 16</td>\n</tr>\n<tr>\n<td>27 25 13</td>\n<td>Ders., Wohn., <i>Rahl</i> Gehölz 6</td>\n</tr>\n<tr>\n<td>42 60 31</td>\n<td>Albrecht, H., Klempner, <i>Alt</i> Schum.Str. 47</td>\n</tr>\n<tr>\n<td>29 42 99</td>\n<td>Albrecht Horm R - A Rraifa Str 20</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 988\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>55 33 41</td>\n<td>Ders., Wonn., Hellwigstr. 12</td>\n</tr>\n<tr>\n<td>52 73 07</td>\n<td>Albrecht, Hermine, Ohlsdorfer Str. 72</td>\n</tr>\n<tr>\n<td>28 17 60</td>\n<td>Albrecht, Hinr., Restaur., <i>Wbk</i> Hindenb.-Allee 16</td>\n</tr>\n<tr>\n<td>42 60 69</td>\n<td>Albrecht, Ida. Ziggarr., <i>Alt</i> Gr. Freiheit 56</td>\n</tr>\n<tr>\n<td>52 39 00</td>\n<td>Albrecht, Johann, Agnesstr. 42</td>\n</tr>\n<tr>\n<td>38 69 08</td>\n<td>Albrecht. J., Elektr. Art., Marckmannstr. 78</td>\n</tr>\n<tr>\n<td>52 07 00</td>\n<td>Albrecht, Joh., Dr.-Ing., Zesenstr. 20</td>\n</tr>\n<tr>\n<td>28 73 12</td>\n<td>Albrecht, Joh., Prok., <i>Wbk</i> Goethestr. 75</td>\n</tr>\n<tr>\n<td>43 64 21</td>\n<td>Albrecht, Jos., Oberspielltr., Beim grünen Jäger 24</td>\n</tr>\n<tr>\n<td>22 66 63</td>\n<td>Albrecht, Karl, Bellevue 28</td>\n</tr>\n<tr>\n<td>22 52 94</td>\n<td>Albrecht, Karl, Obst, Uhlenhorst. Weg 44</td>\n</tr>\n<tr>\n<td>24 73 25</td>\n<td>Albrecht, Karl, Lange Reihe 83</td>\n</tr>\n<tr>\n<td>58 24 09</td>\n<td>Albrecht, Dr. K., Prof., Lokstedt, Sonderb. Straße 41</td>\n</tr>\n<tr>\n<td>25 27 89</td>\n<td>Albrecht, Lissi, Schneid., Ob. Borgfelde 27</td>\n</tr>\n<tr>\n<td>29 49 05</td>\n<td>Albrecht, Lizzy, Schriftl., Rauen H. 51</td>\n</tr>\n<tr>\n<td>46 08 95</td>\n<td>Albrecht, Ludolf, Bildhauer, Schenefeld, Horst-Wessel-Allee 81</td>\n</tr>\n<tr>\n<td>31 34 13</td>\n<td>Ludwig Albrecht &amp; Co., Ausfuhr, Bei d.</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "26",
+            "text": "78"
+          },
+          {
+            "extension": "52",
+            "text": "32"
+          },
+          {
+            "extension": "22",
+            "text": "04"
+          },
+          {
+            "extension": "26",
+            "text": "27"
+          },
+          {
+            "extension": "28",
+            "text": "27"
+          },
+          {
+            "extension": "23",
+            "text": "02"
+          },
+          {
+            "extension": "32",
+            "text": "28"
+          },
+          {
+            "extension": "58",
+            "text": "17"
+          },
+          {
+            "extension": "33",
+            "text": "42"
+          },
+          {
+            "extension": "46",
+            "text": "15"
+          },
+          {
+            "extension": "43",
+            "text": "47"
+          },
+          {
+            "extension": "23",
+            "text": "34"
+          },
+          {
+            "extension": "44",
+            "text": "70"
+          },
+          {
+            "extension": "21",
+            "text": "26"
+          },
+          {
+            "extension": "22",
+            "text": "11"
+          },
+          {
+            "extension": "23",
+            "text": "03"
+          },
+          {
+            "extension": "43",
+            "text": "58"
+          },
+          {
+            "extension": "26",
+            "text": "41 aa 21 7a Albrecht D Plannn Gtink Gt- K"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "53",
+            "text": "26 91 Albrecht, Reinh., Gartenbau, Lokstedt, Eichenallee 15"
+          },
+          {
+            "extension": "26",
+            "text": "02 38 Albrecht, R. W. B., Lehr., Moorende 21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "r vorkommenden Orts- und Vor-",
+        "entries": []
+      },
+      {
+        "region_name": "hnungen der in den Adressen vo",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "G",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "H",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry or a page that has not yet been filled with data.</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "26",
+            "text": "65"
+          },
+          {
+            "extension": "53",
+            "text": "13"
+          },
+          {
+            "extension": "34",
+            "text": "71"
+          },
+          {
+            "extension": "44",
+            "text": "49"
+          },
+          {
+            "extension": "21",
+            "text": "32"
+          },
+          {
+            "extension": "24",
+            "text": "90"
+          },
+          {
+            "extension": "26",
+            "text": "60"
+          },
+          {
+            "extension": "26",
+            "text": "69"
+          },
+          {
+            "extension": "26",
+            "text": "91"
+          },
+          {
+            "extension": "29",
+            "text": "42"
+          },
+          {
+            "extension": "43",
+            "text": "63"
+          },
+          {
+            "extension": "23",
+            "text": "49"
+          },
+          {
+            "extension": "59",
+            "text": "23"
+          },
+          {
+            "extension": "33",
+            "text": "13"
+          },
+          {
+            "extension": "53",
+            "text": "19"
+          },
+          {
+            "extension": "(42)",
+            "text": "95"
+          },
+          {
+            "extension": "32",
+            "text": "67"
+          },
+          {
+            "extension": "22",
+            "text": "26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 740 988\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>24 85 85</td>\n<td>Albrecht &amp; Richter, Vertr., Gurl.Str. 47</td>\n</tr>\n<tr>\n<td>38 62 41</td>\n<td>Albrecht, Dantz &amp; Co. GmbH, Maschinenbau, Spreehafeninsel, Brandenburger Str.</td>\n</tr>\n<tr>\n<td>43 34 40</td>\n<td>Albrechtsen &amp; Callsen, Regenmäntelfbr., Alt 1, Georgstr. 12.</td>\n</tr>\n<tr>\n<td>43 28 48</td>\n<td>Aldag, Aug., Kies, Alt Gr. Gärtnerstr. 58</td>\n</tr>\n<tr>\n<td>52 47 88</td>\n<td>Aldag, C., Schiffsmakler, Heilwigstr. 140</td>\n</tr>\n<tr>\n<td>24 47 14</td>\n<td>Aldag, Ernst, Milch, Thür. Str. 78</td>\n</tr>\n<tr>\n<td>38 62 36</td>\n<td>Aldag, Gust., Milch, <i>With</i> Eichenall. 39a</td>\n</tr>\n<tr>\n<td>37 83 98</td>\n<td>Aldag, H., Baugeesch., Buxteh. Ch. 30</td>\n</tr>\n<tr>\n<td>37 47 95</td>\n<td>Aldag jr., Heinr., Tischl., <i>Hrb</i> Niem.Str. 19</td>\n</tr>\n<tr>\n<td>(43 28 48)</td>\n<td>Aldag, Heinr., Autozub., Alt Gärtnerstr. 58</td>\n</tr>\n<tr>\n<td>38 73 15</td>\n<td>Aldag, Herm., Kfm., <i>With</i> lm Busch 66</td>\n</tr>\n<tr>\n<td>37 44 14</td>\n<td>Algag, Henry, Schuhm., Marmstorf 1, Schafshagenberg 24</td>\n</tr>\n<tr>\n<td>52 26 94</td>\n<td>Aldag, Herm., Kfm., Isestr. 144</td>\n</tr>\n<tr>\n<td>25 59 12</td>\n<td>Aldag, Joh., Delikateessen, Uhlandstr. 65</td>\n</tr>\n<tr>\n<td>58 14 84</td>\n<td>Aldag, Karl, Install., Börmingstedt, Kiefer Straße</td>\n</tr>\n<tr>\n<td>59 89 16</td>\n<td>Aldag, Karl, Ing., P 33, Oldachstr. 18</td>\n</tr>\n<tr>\n<td>37 03 24</td>\n<td>Aldag, Marie, Kol.-W., <i>Hrb</i> Dürerstr. 32</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 739 994\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Nr.</th>\n<th colspan=\"2\">Fette, Drogen, Hbg. 13, Oberstr. 130.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>44 10 91</td>\n<td colspan=\"2\">T Glycerin</td>\n</tr>\n<tr>\n<td>49 41 75</td>\n<td colspan=\"2\">Ders., priv., <i>Othm</i> Nienkamp 54</td>\n</tr>\n<tr>\n<td>24 54 08</td>\n<td colspan=\"2\">Aldag, Peter, Obsthdlr., Bankstr. 42</td>\n</tr>\n<tr>\n<td>37 34 92</td>\n<td colspan=\"2\">Aldag, Rich., Gastw., <i>Hrb</i> Lüneb.Str. 26</td>\n</tr>\n<tr>\n<td>43 25 31</td>\n<td colspan=\"2\">Aldag, W., Kartoffeln, <i>Alt1</i> Bleicherstr.7</td>\n</tr>\n<tr>\n<td>37 84 84</td>\n<td colspan=\"2\">Aldag, W., Arch., Neunriedenthal, Hs. 26</td>\n</tr>\n<tr>\n<td>52 52 28</td>\n<td colspan=\"2\">Aldebert, Gustav, Dir., Oderfelderstr. 15</td>\n</tr>\n<tr>\n<td>33 50 25</td>\n<td colspan=\"2\">Alden, G. R., Vertr., Mönckebergstr. 31</td>\n</tr>\n<tr>\n<td>42 26 66</td>\n<td colspan=\"2\">Aldendorff, Erich, Gießereibedarf, <i>Alt 1</i><br/>Museumstr. 35</td>\n</tr>\n<tr>\n<td>59 67 54</td>\n<td colspan=\"2\">Alder, Alfred, Bäckerei, Alsterd.Str. 262</td>\n</tr>\n<tr>\n<td>22 40 92</td>\n<td colspan=\"2\">Aleff, Georg, Repräsentant, Hofweg 51</td>\n</tr>\n<tr>\n<td>26 25 25</td>\n<td colspan=\"2\">Alemania-Stern e.V., Hamm. W. 14</td>\n</tr>\n<tr>\n<td>36 09 80</td>\n<td colspan=\"2\">van Alen, Th., Bürobed., Steinhöft 3</td>\n</tr>\n<tr>\n<td>52 76 01</td>\n<td colspan=\"2\">Alewell, Elis., Lehrerin, Lattenkamp 68</td>\n</tr>\n<tr>\n<td>46 11 54</td>\n<td colspan=\"2\">Alewell, Dr. Karl, Studienrat, Rissen,<br/>Sandmoorweg 31</td>\n</tr>\n<tr>\n<td>52 50 96</td>\n<td colspan=\"2\">Alex, Ferdinand, Loogestieg 21</td>\n</tr>\n<tr>\n<td>22 60 33</td>\n<td colspan=\"2\">Alex, Hans, Groothoffgasse 1</td>\n</tr>\n<tr>\n<td>29 41 77</td>\n<td colspan=\"2\">Alex Martha Alstendorf 14</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "23",
+            "text": "29 27 Alexander, Alfred F. C., Overbeckstr. 5"
+          },
+          {
+            "extension": "42",
+            "text": "05 38 Alexander, Fr., Prok., Helenenstr. 31"
+          },
+          {
+            "extension": "46",
+            "text": "24 64 Alexander, G., Dr. phil., Bl Godeffroystr. 42"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "ortsabkürzungen:",
+        "entries": []
+      },
+      {
+        "region_name": "Empfehlenden Orte und Ortsteile:",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Hausbruch (P. Hamburg-Neugraben)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "I",
+        "entries": []
+      },
+      {
+        "region_name": "K",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with some minor scanning artifacts.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely empty, with no text, numbers, or other markings visible. There are some very faint, sparse scanning artifacts scattered across the white background.</div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 697 468 945\" data-label=\"Text\"><p><b>32 (Band I)</b></p></div><div data-bbox=\"639 697 991 901\" data-label=\"Text\"><p><b>Aichach: Beck</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 10 998 994\" data-label=\"List-Group\"><p>58 Beck, Xaver, Kunstmühlbesitzer, Hs.Nr.174a<br/>48 Bezirksfürsorgeschwestern, Am Büchl 66<br/>8 Bierling, J., Manuf.-W., Ad.-Hitler-Platz 42<br/>92 Böck, Jos., Brauereibes., Ad.-Hitler-Platz 39<br/>89 Bösl jr., Jonas, Landesprod., Wintergasse.<br/>134 Bösl, Jos., Limonadenfabr., Freis. Str. 207<br/>125 Braun, Georg, prakt. Tierarzt<br/>175 Dangel, Paul, Uniformfabr., R.-v.-Epp-Pl. 55<br/>49 Demel, Alois, Farben, Donauwörtherstr. 217.<br/>20 Deutsches Rotes Kreuz, Kreisstelle<br/>88 Dinauer, Joseph, Mehlhandlung.<br/>107 Eberl, Fr., Autorepar., Münchner Str. 184<br/>111 Ettner, Johann, Maschinen, Kellerweg 213.<br/>44 Finanzamt Aichach.<br/>160 Fischer. Fritz, Pächter, Münch. Str. 283<br/>41 Forstei, Fuggersche Stiftungs-, Blumenthal<br/>35 Försterei (Bezirk) Aischbach, Triebsch<br/>119 Forsthaus d. Spitalstiftung, Oberschnaitzbach<br/>109 Fottner, Kasp., Mehlhdlg., Boteng. 93<br/>14 Gelstbeck, Max, Manufakturwr., v.-Epp-Pl. 46<br/>28 Gendarmerie-Hauptstation Aichach.<br/>182 Land-Kreisführer Münchener Str. 922</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 995 990\" data-label=\"List-Group\"><ul style=\"list-style-type: none; padding-left: 0;\"><li>141 Gendarmeriestation Inchenhofen</li><li>151 Gerätelager, Donauwörther Str.</li><li>159 Gerum, Emil, Schlosserei, Ad.-Hitler-Pl. 33</li><li>131 Gesundheitsamt, Staatliches</li><li>78 Glaswinkler, P., Spengler, Schloßstr. 128.</li><li>117 Glück, Dr. Alois, Arzt, Kühbach</li><li>55 Gravenreuth'sche Schloßbrauer., Obergriesbach</li><li>157 Grüb, A., Brüterei, Gerhauser Str.</li><li>146 Gubi, Lebensm., Bürgerm., Werlberger Str. 161</li><li>86 Händler, Zachäus, Landespr., Inchenhofen.</li><li>131 Hartinger, Dr. L., Arzt, Bauerntanzg. 149</li><li>73 Hartwig, Dr. Karl, Zahnarzt, Münchener Str.</li><li>30 Haselberger, Josef, Fleischwaren- und Konservenfabrik, Aichach (Oberbay.)</li><li>52 Heggenstaller, Ant., Mühle, Unterbernbach.</li><li>40 Heggenstaller, Josef, Tränkmühle</li><li>32 Hesse, Anton, Schloßbrauerei, Blumenthal</li><li>148 Hoberg, F. Bruno, Malermstr., Schillerpl. 197½</li><li>137 Horsch, Otto, Landwirt, Sedlhof</li><li>29 Hundsdorfer, Michael, Apoth., Am Büchel 70</li><li>59 Jakob, Jos., Friseur, Münchenerstr. 192</li></ul></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 0 998 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>28</td>\n<td>Kersten, Walter, Arzt, Steubstr. 100.</td>\n</tr>\n<tr>\n<td>50</td>\n<td>Kigle, Stephan, Gastwirt, Augsb. Str. 194</td>\n</tr>\n<tr>\n<td>80</td>\n<td>Koch, Aug., Konditorei, Rit.v.Epp.Pl. 10</td>\n</tr>\n<tr>\n<td>116</td>\n<td>Kögl, Georg, Café, Dannhauserplatz</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Koppold, M., Textilwr., Hindenburgplatz 108</td>\n</tr>\n<tr>\n<td>120</td>\n<td>Krankenhaus, Städtisches.</td>\n</tr>\n<tr>\n<td>77</td>\n<td>Krankenpflege, Ambulante, Steubstr. 135</td>\n</tr>\n<tr>\n<td>144</td>\n<td>Kreisbildstelle</td>\n</tr>\n<tr>\n<td>122</td>\n<td>Kreislehrgut, Verwaltung</td>\n</tr>\n<tr>\n<td>91</td>\n<td>Laberger, Heinr., Autoverm., Münchn. Str. 283</td>\n</tr>\n<tr>\n<td>63</td>\n<td>Landkrankenkasse, Alchach.</td>\n</tr>\n<tr>\n<td>21</td>\n<td>Landrat</td>\n</tr>\n<tr>\n<td>85</td>\n<td>Landwirtschaftsstelle u. -Schule, Münchn. Str.</td>\n</tr>\n<tr>\n<td>127</td>\n<td>Lauber, Franz</td>\n</tr>\n<tr>\n<td>82</td>\n<td>Lechner, Franz Xaver, Holz, Münchn.Str. 184</td>\n</tr>\n<tr>\n<td>142</td>\n<td>Lindermair, Hans, Ing., Freisinger Str. 207</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Lindermeier, Th., Milch, Regensb. Str. 205</td>\n</tr>\n<tr>\n<td>126</td>\n<td>Lippert, Chr., Lebensm., B.-Koppold-Str. 131</td>\n</tr>\n<tr>\n<td>153</td>\n<td>Mahl, Josef, Sägewerk, Algertshausen 28</td>\n</tr>\n<tr>\n<td>67</td>\n<td>Maier, Aug., Konditorei, Ad.-Hitler-Pl. 20</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 6 997 993\" data-label=\"List-Group\"><ul style=\"list-style-type: none; padding-left: 0;\"><li>113 Mayr, Alois, Manuf.-W., Regensb.-Str. 203.</li><li>25 Meisinger, Matth., Eisenw., Augsb.Str. 157</li><li>83 Merk, Karl, Zimmermeister, Münchnerstr. 270</li><li>98 Messungsamt, Bürgerm.-Koppoldstr. 129½</li><li>43 Metz, Peter, Elektr. Anl., Werlb. Str. 189</li><li>36 Miller, Jos. Ant., Drogen R.-v.-Epp-Platz 6</li><li>16 Molkereigen. eGmbH, Münch. Str. 268</li><li>53 Müller, Ferdinand, Gewerberat, R.-v.-Epp-Pl.</li><li>112 Müller, Jos., Bäckernstr., Werlberger Str. 188</li><li>83 Müllerbräu, Gasthof, R.-v.-Epp-Pl. 44</li><li>103 Munz, Paul, Bauer, Gut Reifersdorf.</li><li>39 Neubaur, Josef, Autowerkstätte, Regensb. Str.</li><li>133 Neuß, Ant., Autoverm., Schneitb.Weg 178</li><li>96 Neuß, Math., Fahrräder, Regensb.-Str. 205.</li><li>124 Notariat, J. R. Otto Kolb, R.-v.-Epp-Platz 12</li><li>72 NSDAP., Kreisleitung, Ad.-Hitl.-Pl. 129</li><li>5 Dies., HJ. u. BDM., Baun 454, Steubstr. 100</li><li>104 Dies., NSV.-Kreisamtsleitung, Tandelmarkt</li><li>139 Dies., Deutsche Arbeitsfront, Tandelmarkt</li><li>150 Dieselbe, KDF., Steubstr. 100</li><li>(127) Rahl. Hans. Metzgerei</li></ul></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 994 989\" data-label=\"List-Group\"><p>130 Kaiser, A., Schuhrer, Burgerstr. Deckau.</p><p>147 Rappel, Hans, Baugeschäft, Klingen</p><p>121 Rappel, Mich., Baugesch., Donauwörther Str.</p><p>61 Regenbogen, Dr. Gustav, Tierarzt, B.-Beck-Str.</p><p>81 A. u. J. Rehle, Baugesch., Augsb.-Str. 181.</p><p>69 Reichart, Matth., Grabsteine, Martinstr. 254</p><p>13 Reichsbahn</p><p>115 Dies., Bahnhof, Obergriesbach</p><p>143 Dieselbe, Bahnhof Radersdorf</p><p>44 Reichsfinanzverwaltung, Finanzamt</p><p>152 Reichsluftschutzbund, Orts-Kreisgruppe, Kop-poldstraße 129</p><p>173 Ders., Gemeindegruppe, Regensb. Str. 214</p><p>132 Reichspost, Postamt</p><p>118 Reitberger, H., Landesprod., Hubm. Str. 140</p><p>58 Renz, Ignaz, Ziegelei, Oberbernbach</p><p>110 Riyl, Michael, Bauer, Arnhoien.</p><p>4 Rupp, Matth., Gartenbau, Martinstr. 269</p><p>42 Schäfer, Andreas, Seilerei, Ad.-Hitler-Pl. 30</p><p>75 Schäfer &amp; Lechner, Holz, Donauwörther Str.</p><p>65 Schemmel, Dr. Ludw., Arzt, Münchn. Str. 278</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 0 992 973\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>100</th>\n<th>Wien, 11. Bezirk, 11. Bezirk, 11. Bezirk, 11. Bezirk</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>64</td>\n<td>Schlicht, Georg, Getreide, Wintergasse 144.</td>\n</tr>\n<tr>\n<td>149</td>\n<td>Schmaus, Leonh., Fuhrgesch., Münch. Str. 55</td>\n</tr>\n<tr>\n<td>138</td>\n<td>Schmid, Fritz, Buchbind., Hubmannstr. 141</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Schmid, Gottl., Baugesch., Münchenerstr. 184</td>\n</tr>\n<tr>\n<td>68</td>\n<td>Schmid, Josef, Gasthof, Brauerei</td>\n</tr>\n<tr>\n<td>90</td>\n<td>Schmid, Thomas, Viehgeschäft, v.EppPl. 52</td>\n</tr>\n<tr>\n<td>130</td>\n<td>Schmidbauer, Dr. Karl, Arzt, Münchn. Str. 280</td>\n</tr>\n<tr>\n<td>114</td>\n<td>Sedlmeier, Joh., Gastwirt, Hollenbach</td>\n</tr>\n<tr>\n<td>11</td>\n<td>Stadt Aichach, Verwaltung</td>\n</tr>\n<tr>\n<td>71</td>\n<td>Stadtpfarramt, Kath., Danhauserplatz</td>\n</tr>\n<tr>\n<td>18</td>\n<td><b>Stadtsparkasse Aichach, Aichach (Bayern)</b></td>\n</tr>\n<tr>\n<td>155</td>\n<td>Stahl, Joh., Landmasch., Inschenhofen</td>\n</tr>\n<tr>\n<td>123</td>\n<td>Stanglmayr, Josef, R.-A., Hitlerplatz 22</td>\n</tr>\n<tr>\n<td>24</td>\n<td>Strafanstalt Aichach</td>\n</tr>\n<tr>\n<td>95</td>\n<td>Strassenmeisterstelle, Münchener Str. 283b</td>\n</tr>\n<tr>\n<td>101</td>\n<td>Strasser, Cilly, Tabakwr., R.-v.-Epp-Pl. 49</td>\n</tr>\n<tr>\n<td>94</td>\n<td>Stumpf, Dr. Richard, Arzt, Bahnhofstr. 264b</td>\n</tr>\n<tr>\n<td>34</td>\n<td>Tremmel, Leonhard, Gastwirt, Gallenbach.</td>\n</tr>\n<tr>\n<td>79</td>\n<td>Turn- u. Sportverein, Donauwörther Str. 217</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Unsinn, Sebast., Wagen",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 26 997 952\" data-label=\"List-Group\"><p>128 <b>Waltner, Karl</b>, elektr. Anlag., Ad.-Hitler-Pl. 26<br/>81 <b>Wanner</b>, Roman, Landwirt, Tränk<br/>62 <b>Weisenhorn, W.</b>, Metzgermstr., Hubm.Str. 141<br/>145 <b>Weiß, Max</b>, Steuerhelfer, Münchener Str. 270a<br/>102 <b>Wellner, B. H., R.-A.</b>, Münchnerstr. 185<sup>1/</sup>,<br/>87 <b>Wertmann, Georg</b>, Kol.-W., Steubstr. 98.<br/>140 <b>Wiedholz, Mart.</b>, Elektr.-Anl., Inchenhofen<br/>51 <b>Wimmer, Dr. M.</b>, Tierarzt, Ad.HitlerPl. 22<br/>156 <b>Wirtschafts- u. Ernährungsamt</b>, Hitlerpl. 38<br/>26 <b>Joh. u. Otto Ziegler</b>, Eisenwr., v.-Epp-Pl. 11</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Aichstetten b. Leutkirch(Kr. Wangen) [Wrtb.]",
+        "entries": [
+          {
+            "extension": "28",
+            "text": "Apotheke, S. Lichtenstern"
+          },
+          {
+            "extension": "14",
+            "text": "Auberer, Georg, Kunstmühle"
+          },
+          {
+            "extension": "49",
+            "text": "Aumann, Fridolin, Metzgerei, Aitrach"
+          },
+          {
+            "extension": "41",
+            "text": "Aumann, Martin, Viehhdlg., Ferthofen"
+          },
+          {
+            "extension": "53",
+            "text": "Brugger, Dr., Tierarzt"
+          },
+          {
+            "extension": "16",
+            "text": "Deyringer, Anton, Mühle"
+          },
+          {
+            "extension": "62",
+            "text": "Dodel, E., Eisenwr., Aitrach, Hauptstr. 164"
+          },
+          {
+            "extension": "27",
+            "text": "Doser, Heinrich, Landmaschinen."
+          },
+          {
+            "extension": "62",
+            "text": "Doser, J. N., Maschinenfabrik."
+          },
+          {
+            "extension": "42",
+            "text": "Eder, Alfred, Dr. med., Marstetten"
+          },
+          {
+            "extension": "12",
+            "text": "Frommold, Alois, Unternehmer, Marstetten"
+          },
+          {
+            "extension": "44",
+            "text": "Fürstl. Waldburg zu Zell'sches Forsthaus Vogel-herd"
+          },
+          {
+            "extension": "65",
+            "text": "Fürstl. Waldburg zu Zell'sche PumpenstationKarlis"
+          },
+          {
+            "extension": "60",
+            "text": "Gaststätte Adler, Mich. Schwelghart"
+          },
+          {
+            "extension": "47",
+            "text": "Gaststätte, Bahnhofsrestaur., Marstetten"
+          },
+          {
+            "extension": "31",
+            "text": "Gaststätte Hirsch, Franz Halder, Aitrach"
+          },
+          {
+            "extension": "25",
+            "text": "Gaststätte Krone, Haus Zwing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Text\"><p>58 Gemeinder, Anton, Möbelfabrik.<br/>50 Gemeindeverwaltung Aichstetten<br/>30 Gemeindeverwaltung Aitrach<br/>64 Gemeindeverwaltung Altmannshofen<br/>18 Gendarmerieposten Aitrach<br/>19 Gropper, Peter Paul, z. Sonne, Altmannshofen<br/>26 Heim, Hans, Maurerinstr., Kirchenstr. 29<br/>39 Heller, Franz, Dentist, Marstetten<br/>17 Geschw. Henle, Gärtnerel.<br/>15 Kath. Pfarramt<br/>32 Kiebler, Anton, Fahrräder, Marstetten<br/>56 Krucker, Joh., Käseerei, Aitrach, Oberhauser<br/>Straße 149<br/>46 Laub, Anton, Sägewerk, Altmannshofen<br/>13 Leonhardt, Franz, Sägewerk, Marstetten-Aitrach<br/>57 Müller, A., Gaststätte<br/>21 Müller, Anton, Bahnhofsrestauration.<br/>24 Oberländer Käseverwertungs-Genossenschaft<br/>e. G. m. b. H. Aichstetten-Allgäu (Wrtb.)<br/>29 Papierfabr. Unterkochen GmbH, Werk Marstetten<br/>no</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 3 979 962\" data-label=\"Text\"><p>45 Reich, Anton, Baugesch., Aitrach<br/>55 Reichsbahn, Bahnhof Alchstetten<br/>43 Dieselbe, Bahnhof Marstetten-Aitrach<br/>36 Schild, Ludwig, Metzgerei, Aitrach<br/>48 Schorer, Jos., Schmiedemstr.<br/>61 Spar- u. Darlehnskasse eGmbH, Aitrach<br/>59 Steinhauser, Liberat, Metzgerei.<br/>20 Stölzle, Leonhard, Altmannshofen<br/>40 Stoer, Friedrich, Ing., Altmannshofen<br/>22 Wiedenmann, J., Autoreparatur<br/>63 Wiedenmann, Wilh., Autoverm., Hochstr. 199<br/>23 Zeh, Franz, Steinmetzmstr.<br/>54 Zeh, Joh. Nep., Landwirt, Breitenbach.<br/>51 Ziegler, Gustav, Dr. med.</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Aidenbach (Bay.)",
+        "entries": [
+          {
+            "extension": "63",
+            "text": "Allianz-Versich. AG, Beamtenerholungsheim"
+          },
+          {
+            "extension": "86",
+            "text": "v. Aretin, Frhr. Alb., Schwaig b. Aldersbach"
+          },
+          {
+            "extension": "33",
+            "text": "v. Aretin, Frhr. Alb., Gutsverwalt., Weng"
+          },
+          {
+            "extension": "7",
+            "text": "v. Aretin, Frhr. H., Dr., Schloß Haidenburg"
+          },
+          {
+            "extension": "20",
+            "text": "Freih. v. Aretin'sche Güterdirektion u. Forsthaus, Haidenburg"
+          },
+          {
+            "extension": "80",
+            "text": "Frhrl. v. Aretinsche Gutsverw., Aldersbach."
+          },
+          {
+            "extension": "68",
+            "text": "Bachhuber, Karl, Autofuhrw., Aldersbach"
+          },
+          {
+            "extension": "16",
+            "text": "Bank f. Landw. &amp; Gewerbe Vilshofen, Aidenb."
+          },
+          {
+            "extension": "56",
+            "text": "Baumeister, Otto, Gasth. Egglham"
+          },
+          {
+            "extension": "77",
+            "text": "Bayer. Warenvermittl. landw. Gen. AG."
+          },
+          {
+            "extension": "100",
+            "text": "Bichlmeier, G., Lebensm., Karling"
+          },
+          {
+            "extension": "6",
+            "text": "Brauerei Aldersbach, Aretin-Werke KG, Aldersbach"
+          },
+          {
+            "extension": "50",
+            "text": "Brauneis, Fritz, Kunstmühle"
+          },
+          {
+            "extension": "54",
+            "text": "Christmaier, Michl, Mühle, Krieglmühle"
+          },
+          {
+            "extension": "48",
+            "text": "Deuringer, Bruno, Ingenieur"
+          },
+          {
+            "extension": "102",
+            "text": "Eder, Franz, Gastwirtschaft"
+          },
+          {
+            "extension": "65",
+            "text": "Elektrizitätswerk Schönerthing-Aidenbach"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"27 10 913 993\" data-label=\"Text\"><p>65 Dass., Kraftwerk in Schönerting<br/>88 Findl, Dr. Oscar, Arzt.<br/>90 Fischer, Josef, Metzgerei, Egglham.<br/>72 Fraunhofer, Emmeram, Baugeschäft<br/>31 Freise, Hans, Arzt.<br/>74 Fröhlich, Fritz, Lack- u. Farbenhdlg.<br/>14 Gautier, Josef, Automechaniker.<br/>12 Gemeinde Aldersbach<br/>73 Gemeindekanzlei Nagl, Amsham<br/>58 Gemeindeverwaltung Egglham<br/>91 Gemeindeverwaltung Haidenburg<br/>13 Gendarmerieposten Aidenbach<br/>70 Gendarmerieposten Egglham<br/>83 Gössi, Georg, Gasthof z. Post<br/>9 Grüneis, Albert, Kaufhaus<br/>52 Hälmayr's, Jos., Gerberei u. Lederhdlg.<br/>16 Gebr. Heuschneider, Metallwarenvertrieb<br/>82 Hindinger, Jos., Gemischtwr., Aunkirchen<br/>37 Hofbauer, Peter, Gutsbes., Gumperting<br/>28 Huber, Max, Metzgermstr. Haidenburg<br/>71 Immerfall Georg Mihle Annina</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 906 702\" data-label=\"Text\"><p>60 <b>Imperial, Herm., Backerei, Egginau</b><br/>21 <b>Keller, Hans, mech. Werkstatt, Karling</b><br/>98 <b>Kirschner, Franz, Viehhändl., Aldersbach</b><br/>64 <b>Klugseder, Jos., Spedition, Mietauto</b><br/>8 <b>Knödl, Josef, Gastwirt</b><br/>30 <b>Köck, Hans, Kfm., Haidenburg</b><br/>75 <b>Koller, L. u. B., Feinkost</b><br/>55 <b>Krankenhaus Aidenbach</b><br/>18 <b>Krug, Dr. Michael, Tierarzt</b><br/>61 <b>Kunath, Walter, Schreinermstr., Karling</b><br/>93 <b>Lechner, Rudolf, Sattler</b><br/>67 <b>Lehner, Fr. Xaver, Kaufhaus, Eggliham</b><br/>57 <b>Lehner, Karl, Maschinen, Eggliham.</b><br/>89 <b>Maier, Max, Gastwirt, Amsham.</b><br/>60 <b>Marienapotheke Aidenbach</b></p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black speck near the center.\"/>This image is a scan of a blank white page. It contains no text, figures, or tables. There is a single, small, dark speck located slightly below the center of the page, which appears to be a scanning artifact or a dust particle.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"30 0 966 977\" data-label=\"Text\"><p>34 Sigl, Josef, Gastw., Eggiham<br/>95 Silbereisen, Josef, Kaufhaus<br/>94 Stadt- u. Bezirks-Sparkasse Vilshofen<br/>36 Steinhuber, E., Landesprodukte<br/>85 Stöger, J. N., Viehhdlg., Eggiham.<br/>40 Straubinger, Xaver, Weißbierbrauerei<br/>53 Stümpfl, Alois, Gastwirt<br/>44 Thalhammer, Michael, Metzgerei<br/>87 Ungnadner, Franz, Viehdl., O.-Beutelsbach.<br/>45 Vollweber, Karl, Erbhofbauer, Gumperting<br/>97 Wagner, Michael, Viktualien, Eggiham<br/>25 Walch, Max, Walzenmühle, Schönerting<br/>81 Weigl, Johänn, Holzhandlung<br/>23 Willnecker, Franz, Gasthofbes.<br/>51 Wimmer, Johann Nepomuk, Pächter</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Aigen (Inn) [Bay.]",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "Bründl, Georg, Metzger"
+          },
+          {
+            "extension": "11",
+            "text": "Dullinger, Xaver, Bauer"
+          },
+          {
+            "extension": "6",
+            "text": "Fischer, Franz, Gastwirt"
+          },
+          {
+            "extension": "1",
+            "text": "Forstverwalter Aigen, Inn."
+          },
+          {
+            "extension": "8",
+            "text": "Mayer, Maria, Hebamme, Hart, Gem. Malching"
+          },
+          {
+            "extension": "20",
+            "text": "Reichspost, Poststelle Aigen"
+          },
+          {
+            "extension": "4",
+            "text": "Sell, Alois, Landesprodukten, Irching"
+          },
+          {
+            "extension": "9",
+            "text": "Würzinger, Anton, Expositus, Eggling"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"17 196 467 813\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"47 37 957 895\" data-label=\"Text\"><p><b>Aigern</b> (Mühlkreis), Oberdonau. Sommerfrische, 600 m hoch gelegen, 1400 Einwohner. Markt am Fuße des Böhmerwaldes. Sehenswürdigkeiten, wald- und aussichtsreiche Umgebung, Badegelegenheit in der Großen Mühl, eisenhaltig, im Winter Skisport, Rodeln, Eislauf. Auskunft: Gemeindeamt</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 16 936 993\" data-label=\"Text\"><p>32 <b>Aigmüller, Dr. Max, Notar</b><br/>3 <b>Almesberger's Nachf., Gasthofbesitzerin</b><br/>21 <b>Amtsgericht</b><br/>22 <b>Bez.-Zollkommis. (St.) Rohrbach in Aigen</b><br/>5 <b>Bahnhof Aigen-Schlägl</b><br/>4 <b>Bitter, Alois, Schlächtereie</b><br/>7 <b>Deutsches Rotes Kreuz</b><br/>2 <b>Forstamt Stift Schlägl</b><br/>30 <b>Fuchs, Theodor, Gemischtwaren</b><br/>12 <b>Gemeindeamt Aigen</b><br/>8 <b>Gemeindeamt Schlägl</b><br/>16 <b>Gendarmerie</b><br/>14 <b>Gmeiner, Dr. Rich., Gemeindearzt</b><br/>33 <b>Gruber, Dr. Josef, prakt. Arzt</b><br/>29 <b>van den Hurk, Johan, Sägewerk</b><br/>24 <b>Kempinger, H., Leinenweberei</b><br/>19 <b>Kern Nf., Karl, Kunstmühle</b><br/>(19) <b>Kern jr., Karl, Elektrizitätswerk</b><br/>10 <b>H. Klinger u. Honzik, Gemischtwaren</b><br/>27 <b>Koubowetz, Franz, Gastwirt</b><br/>18 <b>Kreisbauernführer Konst. Helmreich</b><br/>10 <b>Kunsthauptmannschaft Dachbach</b></p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 982 992\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>37</td>\n<td>Landwirtschaftsschule Schlägl</td>\n</tr>\n<tr>\n<td>25</td>\n<td>Leitner, Georg, Mühle, Steinbruch Natschlag</td>\n</tr>\n<tr>\n<td>39</td>\n<td>Mühlviertler Holzindustrie GmbH, Bittersäge</td>\n</tr>\n<tr>\n<td>17</td>\n<td><b>Franz Pfleger</b> Kaufmann<br/>und Stein-<br/>bruchbesitzer, Schlägl</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Pilz, Eduard, Kaufmann</td>\n</tr>\n<tr>\n<td>2</td>\n<td><b>Prämonstratenserstift Schlägl</b></td>\n</tr>\n<tr>\n<td>35</td>\n<td>Pröll, Tabakverlag</td>\n</tr>\n<tr>\n<td>40</td>\n<td>Reichsarbeitsdienst (weibl.), Lager 1/211</td>\n</tr>\n<tr>\n<td>50</td>\n<td>Reichspost, Amtsvorsteher</td>\n</tr>\n<tr>\n<td>20</td>\n<td>Resch, Franz, Baugeschäft</td>\n</tr>\n<tr>\n<td>23</td>\n<td>Resch, Karl, Zahnatelier</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Rothböck, Hedy, Buchsachverständige</td>\n</tr>\n<tr>\n<td>28</td>\n<td>Schützenberger, Frieda, Apothekerin</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Siehs, Karl, Ingenieur</td>\n</tr>\n<tr>\n<td>11</td>\n<td>Sparkasse</td>\n</tr>\n<tr>\n<td>31</td>\n<td>Stift Schlägl'sche Forstrevierleitg., Oberhaag</td>\n</tr>\n<tr>\n<td>•</td>\n<td><b>Stiftesamt Schlägl</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 75 875 950\" data-label=\"List-Group\"><p>48 Straßenmeisterei<br/>36 Walchshofer, Franz, Gasthaus<br/>38 Walter, Rudolf, Frisör<br/>26 <b>Hans Wöber, Granitwerk</b><br/>Aigen (Oberdonau)<br/>34 Wöss, Marie, Gasthausbesitzerin</p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 80 691 920\" data-label=\"Text\"><p><b>Aigen</b> <sup><b>b. Raabs</b></sup> <b>(Niederdonauf)</b><br/><b>2</b> <b>Gaugusch, Edmund, Mühlenbes.</b></p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Aigen-Voglhub bei Strobl(Salzburg)",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "(3) Arbeiter-Konsum-Verein GmbH, Fil. Weinbach"
+          },
+          {
+            "extension": "6",
+            "text": "Baier, Ferdinand, Gasthof, Rußbach"
+          },
+          {
+            "extension": "3",
+            "text": "Deisl, Matthias, Landwirt, Nr. 12 b. Strobl"
+          },
+          {
+            "extension": "4",
+            "text": "(2) Skroch, Julius, Direktor, Weinbach"
+          },
+          {
+            "extension": "2",
+            "text": "Otto Weißberger u. Söhne, Sägewerk"
+          },
+          {
+            "extension": "4",
+            "text": "(1) Zentrale des Elektrizitätswerkes, Bad Ischl"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Aindling (Bay.)",
+        "entries": [
+          {
+            "extension": "15",
+            "text": "Brandner, Florian, Bauer, Hausen"
+          },
+          {
+            "extension": "60",
+            "text": "Dehm, Josef, Autovermietung"
+          },
+          {
+            "extension": "23",
+            "text": "Eberl, Dr. Georg, Distriktstierarzt"
+          },
+          {
+            "extension": "40",
+            "text": "Erhard, Josef, Bauer, Arnhofen"
+          },
+          {
+            "extension": "7",
+            "text": "Funk, Th., Getreidehandlung."
+          },
+          {
+            "extension": "12",
+            "text": "Gay, Paul, Bäckermeister, Obdach."
+          },
+          {
+            "extension": "34",
+            "text": "Geiger, F., Konditorei"
+          },
+          {
+            "extension": "9",
+            "text": "Gemeinde Rehling, Hs. Nr. 42"
+          },
+          {
+            "extension": "20",
+            "text": "Gendarmeriestation."
+          },
+          {
+            "extension": "30",
+            "text": "Greiner, Joh.. Gemischtwaren."
+          },
+          {
+            "extension": "17",
+            "text": "Heinrich, Michael, Gasthof."
+          },
+          {
+            "extension": "29",
+            "text": "Hörmann, Josef, Landwirt, Rehling"
+          },
+          {
+            "extension": "27",
+            "text": "Jäger, Florian, Bauer, Appertshausen"
+          },
+          {
+            "extension": "22",
+            "text": "Kreiskrankenhaus"
+          },
+          {
+            "extension": "8",
+            "text": "Lech-Elektrizitätswerke AG, Unterach"
+          },
+          {
+            "extension": "19",
+            "text": "Liedl, Jos., Förster, Forsthaus Alsmoos"
+          },
+          {
+            "extension": "2",
+            "text": "Löffler, Dr. Albert, Arzt"
+          },
+          {
+            "extension": "35",
+            "text": "Lutz, Jakob, Autoverm., Edenhausen"
+          },
+          {
+            "extension": "28",
+            "text": "Markt Aindling"
+          },
+          {
+            "extension": "11",
+            "text": "Müller Anton Dornbachstr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 691 972\" data-label=\"Text\"><p>21 Miller, Christian, Ziegelei<br/>4 Nibel, Alfons, Gerberei.<br/>26 Rib, Jos., Bauer, Todtenweis<br/>10 v. Schäzler, Frhr. Manfred, Rittm., Pichl.<br/>5 Schmid, Anton, Brauerei zum Moosbräu<br/>38 Schmid, Karl, Elektro-Installation<br/>16 Schneider, Karl, Fahrräder<br/>3 Selbertinger, Siegfried, Gemischtwaren<br/>38 Spar- u. Darl.-Ver. eGmbH, Marktpl. 102<br/>18 Stadtparkasse Aichach, Zweigstelle<br/>24 Steiner, Zachäus, Bauer, Stotzard<br/>6 Sturm, Anton, Bürgermstr., Eisingersdorf<br/>1 Sturm, Joseph, Bauer, Hausen.<br/>32 Völkl, Paul, Gastwirt, Alsmoos<br/>31 Weißenhorn, Michael, Gasth. z. Harländer<br/>25 Wiesmüller, Joseph, Mühle, Sand</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Aistersheim (Oberdonau)",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "Dworżak, Elis., Gutsbesitzerin"
+          },
+          {
+            "extension": "5",
+            "text": "Gemeindeamt"
+          },
+          {
+            "extension": "4",
+            "text": "Geßwagner, Hubert, Gastwirt"
+          },
+          {
+            "extension": "3",
+            "text": "Kettl, Franz, Manufakturwaren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Aitrang (Bay.)",
+        "entries": [
+          {
+            "extension": "18",
+            "text": "Josef Abletshauser &amp; Sohn, Steinholzfußboden"
+          },
+          {
+            "extension": "20",
+            "text": "Bayr. Warenvermittlung landw. Genossensch."
+          },
+          {
+            "extension": "2",
+            "text": "Anton Bräckle &amp; Co., Butter- u. Käsefabrik(Marke „Bergwacht“), Aitrang"
+          },
+          {
+            "extension": "33",
+            "text": "Britzelmayr, Walli, Landesprodukte"
+          },
+          {
+            "extension": "22",
+            "text": "Einsiedler, Wilhelm, Schmiedemeister"
+          },
+          {
+            "extension": "1",
+            "text": "Fischzucht, Dr. K. Jaisle"
+          },
+          {
+            "extension": "14",
+            "text": "Gaugler, Alois, Autog. Schweißanlagen."
+          },
+          {
+            "extension": "4",
+            "text": "Gemeinde Huttenwang, Umwang"
+          },
+          {
+            "extension": "15",
+            "text": "Gendarmeriestation Aitrang."
+          },
+          {
+            "extension": "16",
+            "text": "Hafenmayer, Fridolin, Käsefabr., Huttenwang (23)Hatt, Anton, Gasth. z. Löwen"
+          },
+          {
+            "extension": "29",
+            "text": "Klutz, Alois, Käserei, Woltholz"
+          },
+          {
+            "extension": "3",
+            "text": "Kreissparkasse Markt Oberdorf"
+          },
+          {
+            "extension": "5",
+            "text": "Hans Krumm K. G., Camembertfabrik (Marke„Alpenstern“), Aitrang. P München 3114"
+          },
+          {
+            "extension": "23",
+            "text": "Lipp, Adolf, Gasthof z. Löwen."
+          },
+          {
+            "extension": "6",
+            "text": "Otto Lipp &amp; Söhne, Sägewerk"
+          },
+          {
+            "extension": "18",
+            "text": "Markt Aitrang oo Markt Aitrang"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 571 972\" data-label=\"Text\"><p>24 Moser, Magnus, Gasthaus.<br/>28 Moser, Ulrich, Käserei.<br/>7 Nieberle, Alf., Gemischtwaren.<br/>19 Pfarramt Altrang.<br/>8 Pracht, Alban, Hufbeschlag<br/>31 Ramold, Joseph, Konditorei<br/>26 Reichsbahn, Bahnhof.<br/>9 Reiser, Andr., Sägewerk<br/>30 Schweinberger, Andreas, Bäckerei<br/>27 Sigl, Franz Paul, Gastwirt.<br/>10 Vogler, Kleophas, Mühlenbesitzer.<br/>11 Walter, Hans, Baugeschäft.<br/>12 Zeller, Frz. Xav., Elektroinstallat.</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Aken (Elbe) [Prov. Sachsen]",
+        "entries": [
+          {
+            "extension": "444",
+            "text": "Willi Adler &amp; Sohn, Schlösserei, Fischerstr. 10"
+          },
+          {
+            "extension": "450",
+            "text": "Aken-Rosenburger Deichverb., Hindenb.Str. 14"
+          },
+          {
+            "extension": "380",
+            "text": "Akener Mühlenwerke Taentzler &amp; Co. GmbH."
+          },
+          {
+            "extension": "321",
+            "text": "Akener Zeitung, Franz Bandau, Markt 1"
+          },
+          {
+            "extension": "235",
+            "text": "Alaskawaffelfbr. Karl W. Schmidt, Kleinzerbster Str. 24"
+          },
+          {
+            "extension": "385",
+            "text": "Aluminiumwerk GmbH, Dessauer Ldstr."
+          },
+          {
+            "extension": "277",
+            "text": "Amtsgericht, Bärstr. 50"
+          },
+          {
+            "extension": "439",
+            "text": "Amtsvorsteher Sebastian, Susigke"
+          },
+          {
+            "extension": "344",
+            "text": "Apotheke, Adler-, W. West, Ad.HitlerStr. 36"
+          },
+          {
+            "extension": "326",
+            "text": "Arbeitsamt, Ad.HitlerStr. 36"
+          },
+          {
+            "extension": "443",
+            "text": "Bachmann, Alfred, Kfm., Köthener Str. 29"
+          },
+          {
+            "extension": "411",
+            "text": "Becker, Max, Kiesbagg., Kantorstr. 39"
+          },
+          {
+            "extension": "223",
+            "text": "Behr, H., Rittergutsbes., Trebbichau"
+          },
+          {
+            "extension": "202",
+            "text": "Derselbe, Gut Obgelau"
+          },
+          {
+            "extension": "466",
+            "text": "Behringer, Norbert, Bauing., Bahnhofstr. 8"
+          },
+          {
+            "extension": "447",
+            "text": "Berger, Max, Fuhrgesch., Kleinzerbster Str. 23"
+          },
+          {
+            "extension": "249",
+            "text": "Berghahn, Max, Eisenhandlg., A.HitlerStr. 45"
+          },
+          {
+            "extension": "363",
+            "text": "Bieler, Rich., Fuhrgesch., Hindenb.Str. 62 a ona Dienststelle Osthochhilfe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 747 600\" data-label=\"Text\"><p>456 Bischoff, Bernh., Lastverkehr, A.-Hitler-Str. 33<br/>312 Bohnert u. Co., Darmverw., Köth. Str. 35<br/>428 Brandt, Wilh., Wildhandl., Bärstr. 43<br/>217 Bruchhorst, Ernst, Strohseilfbr., Am Bhf.<br/>211 Bruchhorst &amp; Comp., Strohseile<br/>462 Buchholz, Alfr., Ing., Dessauer Ldstr. 35<br/>292 Bürgermeister Westphal, Kühren, Nr. 29 a<br/>279 Busch, Rich., Bäckerei, Poststr. 45<br/>238 Busse, Karl, Pumpenbau, Elbstr. 3<br/>309 Busse, Otto, Masch.-Fbr., Köth.-Chaussee</p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

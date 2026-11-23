@@ -1,0 +1,832 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"246 41 999 645\" data-label=\"Text\"><p><b>Mariaschein b. Aussig (Sudetenland)</b><br/>Aussig 7486 Aussiger Porzellanindustrie G. m. b. H.<br/>Mariaschein b. Aussig</p></div><div data-bbox=\"246 744 773 968\" data-label=\"Text\"><p><b>Marktedwitz (Bay.).</b></p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"270 37 989 908\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Meißen (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "StaatlichePorzellan-Manufaktur Meißen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 23 998 136\" data-label=\"Text\"><p><b>Mengersgereuth-Hämmern (Thür.)</b><br/>Sonneberg 926 Porzellanfabrik Mengersgereuth K.-G.</p></div><div data-bbox=\"238 143 613 209\" data-label=\"Text\"><p><b>Merzig (Saar).</b></p></div><div data-bbox=\"318 204 989 296\" data-label=\"Text\"><p>231 <b>Bonzel &amp; Cie.</b> Porzellan-<br/>fabrik</p></div><div data-bbox=\"238 309 820 376\" data-label=\"Text\"><p><b>Mitterteich (Oberpfalz).</b></p></div><div data-bbox=\"325 372 998 469\" data-label=\"Text\"><p>8 { Porzellanfabrik Mitterteich Aktiengesell-<br/>75 { schaft, Mitterteich. P Nürnberg 11756</p></div><div data-bbox=\"238 477 480 532\" data-label=\"Text\"><p><b>München.</b></p></div><div data-bbox=\"264 539 998 590\" data-label=\"Text\"><p>1 25 17 Friedrich &amp; Theodor Mayer, Neuh.Str. 30</p></div><div data-bbox=\"264 586 924 636\" data-label=\"Text\"><p>6 08 87 Porzellan-Manufaktur Nymphenburg</p></div><div data-bbox=\"264 631 877 681\" data-label=\"Text\"><p>2 60 29 Dies., Odeonsplatz 1, Niederlage</p></div><div data-bbox=\"238 690 443 744\" data-label=\"Text\"><p><b>Passau.</b></p></div><div data-bbox=\"297 752 998 846\" data-label=\"Text\"><p>2010 Porzellanfabrik Passau Philipp Dietrich,<br/>Passau 3, General-Krauss-Str. 32</p></div><div data-bbox=\"238 854 387 917\" data-label=\"Text\"><p><b>Prag.</b></p></div><div data-bbox=\"280 913 968 992\" data-label=\"Text\"><p>81103 <b>Fritzsche &amp; Thein</b></p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Probstzella (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rehau (Fichtelgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenbach üb. Hermsdorf (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichmannsdorf üb. Wallendorf(Thür. Wald).",
+        "entries": []
+      },
+      {
+        "region_name": "Rudolstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Schatzlar (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Scheiße-Alsbach (Thür. Wald).",
+        "entries": []
+      },
+      {
+        "region_name": "Schirnding (Oberfranken).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Schlackenwerth (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Schlaggenwald (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Schlottenhof b. Arzberg (Oberfr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Selb (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Rosenthal-Porzellan",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"836 817 996 942\" data-label=\"Text\"><p><b>4622</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Stadtlengsfeld (Rhön).",
+        "entries": []
+      },
+      {
+        "region_name": "Steinwiesen (Bayr. Ostmark).",
+        "entries": []
+      },
+      {
+        "region_name": "Stützerbach (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Veilsdorf (Werra).",
+        "entries": []
+      },
+      {
+        "region_name": "Waldenburg (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Waldershof (Oberpfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Germano Barbetti",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 54 998 958\" data-label=\"Text\"><p><b>R2 34 66</b> <b>Haas &amp; Czjzek, Porzellanfabrik, Wien I/1,</b><br/><b>Kärntner Str. 5. Zentrale u. Detail:</b><br/><b>Wien I/1, Kärntner Str. 5. Ruf R23466,</b><br/><b>Großhandelslager: XV, Reindorfgasse 18.</b><br/><b>Ruf R3 45 04</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Porzellanfabrik Frauenenthal",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"48 162 940 348\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Bad Driburg (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "11 73 31 P. Raddatz &amp; Co.",
+        "entries": []
+      },
+      {
+        "region_name": "Beuthem (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Cilli (Untersteiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Donaueschlingen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Elbing.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 809 998 944\" data-label=\"Text\"><p><b>. Porzellanfabriken — 4627. I</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fulda.",
+        "entries": []
+      },
+      {
+        "region_name": "Gräfendorf (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Jungbunzlau (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 7 275 52\" data-label=\"Text\"><p><b>Altenstadt 37</b></p></div><div data-bbox=\"508 7 746 52\" data-label=\"Text\"><p><b>Karl Slmma</b></p></div><div data-bbox=\"266 56 997 152\" data-label=\"Text\"><p><b>Glas- u. Porzellanwarengroßhandlung,<br/>Kellmünz/Illes</b></p></div><div data-bbox=\"16 164 179 221\" data-label=\"Text\"><p><b>Kiel.</b></p></div><div data-bbox=\"16 228 997 468\" data-label=\"Text\"><p><b>Sammel-</b> { <b>Johannsen &amp; Schmielau, Haus- und</b><br/><b>Nr.</b> { <b>Küchengeräte, Porzellan, Eisenwaren,</b><br/><b>872</b> { <b>Glas- und Spielwaren, Markt 9</b><br/><b>4731</b> { <b>Riecken, Bruno, Porzellan, Kristalle,</b><br/><b>Keramik, Sophienblatt 22–24</b></p></div><div data-bbox=\"12 493 600 561\" data-label=\"Text\"><p><b>Königsberg (Pr.).</b></p></div><div data-bbox=\"12 558 997 658\" data-label=\"Text\"><p><b>Sm.-Nr.</b> { <b>Brandstädter, M., Kristall-, Porzellan- und</b><br/><b>30303</b> { <b>Steinguthandlung, Kneiph. Langgasse 39</b></p></div><div data-bbox=\"12 683 842 750\" data-label=\"Text\"><p><b>Krainburg (Südkärnten).</b></p></div><div data-bbox=\"112 753 959 839\" data-label=\"Text\"><p><b>134 „Kovina“ Ges. m. b. H.</b></p></div><div data-bbox=\"206 842 991 936\" data-label=\"Text\"><p><b>Eisen — Porzellan — Glas — Farben,<br/>Groß- und Kleinverkauf</b></p></div><div data-bbox=\"12 950 247 990\" data-label=\"Text\"><p><b>Krofaß</b></p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Labiau (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Memmingen (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "M.-Gladbach.",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Oppeln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"194 93 789 359\"}, {\"label\": \"Text\", \"bbox\": \"309 416 670 569\"}, {\"label\": \"Text\", \"bbox\": \"285 598 697 753\"}, {\"label\": \"Text\", \"bbox\": \"191 761 786 937\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Ravensburg (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rehau (Fichtelgeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 813 255 940\" data-label=\"Text\"><p><b>Osamenten</b></p></div><div data-bbox=\"418 813 762 960\" data-label=\"Text\"><p>(Branchenteil) 557</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Rasper &amp; Söhne",
+        "entries": []
+      },
+      {
+        "region_name": "St. Ingbert (Saar).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"41 75 721 661\" data-label=\"Text\"><p><b>M. Meyer</b> Hotelporzellan, Glas,<br/>Bestecke, Hartpapierwaren,<br/>Großküchengeschirre. Vollständige Gaststätten-,<br/>Kaffeehaus- und Betriebsküchen-Einrichtungen<br/>Kaffeemaschinen</p></div><div data-bbox=\"125 680 659 809\" data-label=\"Text\"><p>Wien VII/62, Mariahilfer Straße 112</p></div><div data-bbox=\"288 813 501 942\" data-label=\"Text\"><p>Ruf B 3 70 66</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      },
+      {
+        "region_name": "W. Fels &amp; Sohn",
+        "entries": []
+      },
+      {
+        "region_name": "J. Sticher",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"96 187 647 296\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"117 161 615 283\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "4627. Posamenten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Annaberg (Erzgeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"83 15 703 944\" data-label=\"Text\"><p><b>3719 Oscar Schubert, Seidschnuren-</b><br/><b>fabrik,</b><br/><b>Posamenten-Besatzartikel u. Fransen,</b><br/><b>Annaberg (Erzgeb.), Bambergstr. 9</b></p></div>",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content in the 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or a page with no content in the 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec14.png"
+      ]
+    }
+  }
+]

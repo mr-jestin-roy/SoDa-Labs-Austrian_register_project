@@ -1,0 +1,936 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 714 596 878\" data-label=\"Text\"><p>174 (Branchenteil)</p></div><div data-bbox=\"765 714 997 855\" data-label=\"Text\"><p><b>1275. EIS</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "1275. Eisenbahnbau-Untern.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"274 102 395 240\"}, {\"label\": \"Section-Header\", \"bbox\": \"482 33 899 324\"}, {\"label\": \"Text\", \"bbox\": \"408 335 972 480\"}, {\"label\": \"Text\", \"bbox\": \"408 494 972 787\"}, {\"label\": \"Text\", \"bbox\": \"572 805 806 960\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"261 24 994 216\" data-label=\"Text\"><p>22 32 25 <b>Kamphoff, Bruno</b>, Eisenbahn- u. Tief-<br/>bauten, Berlin W 9, Linkstraße 12</p></div><div data-bbox=\"265 212 994 494\" data-label=\"Text\"><p>91 40 22 <b>Richard Reckmann</b><br/>Eisenbahnbau — Bahnbau — Straßenbau,<br/>Berlin W 15, Meinekestr. 24</p></div><div data-bbox=\"254 489 994 865\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b> { <b>Vering &amp; Waechter</b><br/><b>Eisenbahn- Bau- und Betriebs-</b><br/><b>G. m. b. H. &amp; Co. K.-G.</b><br/>89 73 36 { Berlin-Dahlem, Hohenzollerndamm 97</p></div><div data-bbox=\"258 865 994 959\" data-label=\"Text\"><p>70 94 78 <b>Diss.</b>, Abt. Buckow, Kiesgr. Gr.-Ziethen</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Chr. Zölker",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Biendorf (Anh.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bitterfeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"332 54 925 404\"}, {\"label\": \"Text\", \"bbox\": \"306 399 948 572\"}, {\"label\": \"Text\", \"bbox\": \"420 572 832 705\"}, {\"label\": \"Text\", \"bbox\": \"416 705 841 856\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"389 102 863 415\"}, {\"label\": \"Text\", \"bbox\": \"558 411 697 532\"}, {\"label\": \"Text\", \"bbox\": \"427 529 827 665\"}, {\"label\": \"Text\", \"bbox\": \"419 718 830 838\"}, {\"label\": \"Text\", \"bbox\": \"465 829 769 955\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Bromberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"429 67 825 287\"}, {\"label\": \"Text\", \"bbox\": \"272 326 971 445\"}, {\"label\": \"Text\", \"bbox\": \"272 507 971 625\"}, {\"label\": \"Text\", \"bbox\": \"391 675 858 792\"}, {\"label\": \"Text\", \"bbox\": \"468 837 775 953\"}]",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Elbing.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"357 102 879 334\"}, {\"label\": \"Text\", \"bbox\": \"320 411 921 665\"}, {\"label\": \"Text\", \"bbox\": \"327 714 663 835\"}, {\"label\": \"Text\", \"bbox\": \"641 824 925 955\"}]",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "ENBAHN (Eisenbahnbau-Unter",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "21 45 49 Johann Jans",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Heydebreck (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hindenburg (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hirschfelde (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hochspeyer (Pfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Vering &amp; Waechter",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Lyck (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "München",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Müllheim (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Oberhausen (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ober Leutensdorf (Sudetenl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Onkeln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Remagen.",
+        "entries": []
+      },
+      {
+        "region_name": "Rostock (Seestadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Schweidnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Schwerin (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Sosnowitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"187 10 853 89\" data-label=\"Text\"><p>-----</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 766 998 946\" data-label=\"Text\"><p>n.) — <b>1282. EISENBAHN (Eise</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Stargard (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stendal.",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Torgau.",
+        "entries": []
+      },
+      {
+        "region_name": "Wabern (Bez. Kassel).",
+        "entries": []
+      },
+      {
+        "region_name": "Waren (Müritz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 98 213 217\" data-label=\"Text\"><p>A3 20 51</p></div><div data-bbox=\"292 37 867 283\" data-label=\"Text\"><p><b>Stefan Weinpolter</b></p></div><div data-bbox=\"395 291 771 427\" data-label=\"Text\"><p><b>Arbeitsgemeinschaft</b></p></div><div data-bbox=\"220 430 915 687\" data-label=\"Text\"><p><b>St. Weinpolter &amp; Hans Wolf</b></p></div><div data-bbox=\"203 695 800 822\" data-label=\"Text\"><p><b>Eisenbahn-Unter- u. -Oberbau</b></p></div><div data-bbox=\"237 826 845 967\" data-label=\"Text\"><p><b>Wien IV/50, Schleifmühlgasse 7</b></p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Wittenberg (Lutherstadt).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"144 222 866 292\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bitterfeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Frickenstein &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"51 0 506 210\" data-label=\"Text\"><p>21000 | Guericke-Str. 65</p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 770 768 951\" data-label=\"Text\"><p><b>Umbahnoberbaumat. u. -geräte)</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Osnabrück.",
+        "entries": []
+      },
+      {
+        "region_name": "Penzig (O-L.).",
+        "entries": []
+      },
+      {
+        "region_name": "Plettenberg (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Schlotheim (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Siegen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 39 789 843\" data-label=\"List-Group\"><p>U4 10 21 <b>Dies.</b>, Wohnung, Dipl.Ing. Rudolf Seibt,<br/>Wien IV/50, Goldegasse 17</p><p>A4 31 56 <b>Friedrich Welchmann's Nachfolger</b>, Metall-<br/>warenfabrik und Apparatebau-Ges. m. b.<br/>H., XX/20, Dresdner Str. 116</p><p>U4 95 56 <b>Wolf, Hans</b>, Bauunternehmen für Gleis-<br/>anlagen, V/55, Kriehubergasse 23</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"46 227 730 309\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Langenberg (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "1279. Eisenbahnfahrzeuge",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"68 250 693 322\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Darmstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"46 226 726 266\"}]",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"20 10 746 274\"}, {\"label\": \"Text\", \"bbox\": \"297 330 614 467\"}, {\"label\": \"Text\", \"bbox\": \"261 481 622 645\"}, {\"label\": \"Text\", \"bbox\": \"81 654 736 967\"}]",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely intended for a specific town or region that is not currently visible on this page.</div>",
+      "cells": [
+        "col4_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 151 775 885\"}]",
+      "cells": [
+        "col4_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Gevelsberg.",
+        "entries": []
+      }
+    ]
+  }
+]

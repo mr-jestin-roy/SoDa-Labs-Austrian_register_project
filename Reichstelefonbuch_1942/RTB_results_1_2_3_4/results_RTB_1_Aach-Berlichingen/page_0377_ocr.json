@@ -1,0 +1,464 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks near the bottom right corner.\"/>This image is a scan of a blank white page. It contains no text or other graphical elements. There are a few very small, dark specks or artifacts located in the lower right quadrant of the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"261 12 997 984\" data-label=\"Text\"><p>2809 Bürgermeisterei Niedermörlen<br/>2524 Bürgermeisterei Röden<br/>2682 Bürgermeisterei Schwalheim<br/>2607 Bürgermeisterei Steinfurth.<br/>2744 Bürgermeisterei Wisselsheim.<br/>2503 Burk, Dr., Tierarzt, Karlstr. 50<br/>2344 Burk, Heinrich, Buchhdlg., Hitlerstr. 20<br/>2760 Burwinkel, Maria, Ludwigring 23<br/>2674 Butzbacher Ziegelwerke, H.-Göring-Str. 16<br/>2866 Carls Lebensmittelhaus, Fürstenstr. 30<br/>2116 Carlton-Kurhaus, Ludwigstr. 25<br/>2077 Centralbar, Reinhardstr. 3<br/>2639 Coesfeld, Max, Uhrm., Kurstr. 9<br/>2669 Collatz, Dr., Arzt, Herm. Göringstr. 43<br/>2589 Conditt, Dr., Arzt, Ad.Hitlerstr. 10<br/>2867 <b>Cramer, Friedrich, Papier und Bürobedarf,<br/>Fürstenstraße 40</b><br/>2676 Crotz, Dentist, Ad.Hitlerstr. 10<br/>2198 Dalbeck, Martha, Modewr., Kurstr. 5<br/>2168 Damrow, Willi, Weinhdlg., Luisenstr. 32<br/>2021 Davini, Hugo, Heilgehilfe, Hauptstr. 126</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"257 0 998 993\" data-label=\"Text\">\n<p>\n    2153 Delasse, Michael, Mondórfstr. 16<br/>\n    2367 Denker, Wilhelm, Massage, Mittelstr. 2<br/>\n    2151 Deutsches Kurheim, Goethestr. 4—6<br/>\n    2803 Deutsches Rotes Kreuz, Schillerstr. 5<br/>\n    2637 Dey, Karl, Polsterer, Johannisstr. 11.<br/>\n    (2687) Dietrich, Sophie, Wäscherei, Friedrichstr. 19<br/>\n    2004 Dilges, Dr. Herm., Arzt, Kurstr. 11<br/>\n    2087 Döbert, Marg., Fris., Kurstr. 11<br/>\n    2347 Domes, Katharina, Schlächt., Hauptstr. 5<br/>\n    2238 Draudt, Pension, Ferd. Wernerstr. 18<br/>\n    2770 Dresdner Bank, Zweigstelle, Ludwigstr. 1<br/>\n    2298 Dunker, Willi, Dr. med., Göringstr. 39<br/>\n    2204 Eckerle, Dr., Fritz, Arzt, Küchlerstr. 1<br/>\n    2055 Edelweiß, Großwäscherei<br/>\n    2920 Eggers, Hans, Forstrat, Carl-Peters-Str. 17<br/>\n    2616 Eichelmann, G. L., Gärtner, C.-Peters-Str. 13<br/>\n    2111 Eichenmüller, Pension<br/>\n    2784 Eichelheim, Ida, Masseuse, H.-Göringstr. 85<br/>\n    2821 Eißner, Wilh., Obst, Karlstr. 19<br/>\n    *<br/>\n    2002 Elektrotechn. Fabr. GmbH, A.-Hitler-Str. 12<br/>\n    9008 Elonnoren-Hanitz Ranabestr A\n  </p>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 993 989\" data-label=\"Text\"><p>2476 Elisabethhaus, Heilanstalt, Zandersstr. 18.<br/>2536 Erlenwein, Kitty, Pension, Göringstr. 57<br/>2184 Ernstberger, Fürstenstr. 24<br/>2129 Erny, Werkzeugfabr., Am Güterbhf.<br/>2471 Etzel, Heinr., Elektrotechn., Reinhardstr. 6<br/>2572 Evang. Pfarramt, Wilhelmstr. 10.<br/>2643 Evang. Pfarramt, Uhlandstr. 13<br/>2666 Evang. Pfarramt, Steinfurth.<br/>2871 Ewald, Gottfr., Fuhrw., <i>Ndm</i> Hauptstr. 2<br/>2786 Ewald, Rudolf, Steinfurther Str. 22<br/>2598 Eyer, Dr., Augenarzt, Bahnhofsallee 3<br/>(5277) Fatum, Hugo, Autorep., Bornstr. 2<br/>2505 Fatum, Rob., Kraftfahrzeuge, Frankf. Str. 160<br/>2354 Faust, Hans, Masseur, Luisenstr. 28<br/>2627 Feuerwehr<br/>2205 Fisch, Alb., Schreinermstr., Fürstenstr. 10<br/>2465 Fisch, V. Hch., Spenglerei, Hauptstr. 8<br/>2591 Fischbach, Heinr., Wagenbau, Johannistr. 9.<br/>2283 Fischer, Dr., Arzt, Goethestr. 8<br/>2557 Fischer, Dora, Pension, Hitlerstr. 16<br/>2934 Förster jr., F. W., Lebensmittel, Lutherstr. 8</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 993 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>ORT</th>\n<th>BEZEICHNUNG, ANWENDUNG, BEREICH</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2166</td>\n<td>Forstamt Bad Nauheim, Kurstr. 29</td>\n</tr>\n<tr>\n<td>2844</td>\n<td>Forsthaus Winterstein</td>\n</tr>\n<tr>\n<td>2551</td>\n<td>Frank, Wilh., Steinmetzgesch., Karlstr. 40.</td>\n</tr>\n<tr>\n<td>2309</td>\n<td>Franze, Dr. P. C., Arzt, H. Göringstr. 45</td>\n</tr>\n<tr>\n<td>(2734)</td>\n<td>Frauenkl., Dr. Hackemann, Ludwigsstr. 9</td>\n</tr>\n<tr>\n<td>2330</td>\n<td>Frauenwald, Kaffee</td>\n</tr>\n<tr>\n<td>2281</td>\n<td>Fremdenheim Villa Emilie, H.-Göring-Str. 26</td>\n</tr>\n<tr>\n<td>2210</td>\n<td>Frick, Dr., Arzt, Luisenstr. 4.</td>\n</tr>\n<tr>\n<td>2213</td>\n<td>Friedhof, Homburgerstr. 44</td>\n</tr>\n<tr>\n<td>2266</td>\n<td>Friedrich, Wilh., Hochwaldstr. 47</td>\n</tr>\n<tr>\n<td>2822</td>\n<td>Fuchs, Hch., Elektrotechn., Kurstr. 7</td>\n</tr>\n<tr>\n<td>2370</td>\n<td>Gabriel, Dr., Arzt, Karlstr. 35</td>\n</tr>\n<tr>\n<td>2545</td>\n<td>Galle, Harry, Vers., Ad.-Hitler-Str. 14</td>\n</tr>\n<tr>\n<td>2645</td>\n<td>Gasthaus Pfälzer Hof</td>\n</tr>\n<tr>\n<td>2652</td>\n<td>Gasthaus Wiedermann, Bismarckpl. 5</td>\n</tr>\n<tr>\n<td>2795</td>\n<td>Gasthof Engel, O., Hauptstr. 19</td>\n</tr>\n<tr>\n<td>2605</td>\n<td>Gasthof Frankfurter Hof, Hauptstr. 26</td>\n</tr>\n<tr>\n<td>2291</td>\n<td>Gasthof Hess. Hof, Kühnlein</td>\n</tr>\n<tr>\n<td>2469</td>\n<td>Gasthof Jägerheim</td>\n</tr>\n<tr>\n<td>2451</td>\n<td>Gasthof Waldlust, Hauptstr. 69</td>\n</tr>\n<tr>\n<th>GENO</th>\n<th>ANDERE BEZEICHNUNG, AN",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 992 992\" data-label=\"List-Group\"><p>2822 Geflügelzucht Rosenhof, Adam Thonas, Röd-<br/>gen</p><p>2501 Gehrke, Reinh., Bücherrev., Kurstr. 1—3</p><p>2013 Geibel, Herm., Makler, Ludwigstr. 15</p><p>2820 Geilfus, Heinz, Kunstnaler, Ad.Hitlerstr. 50</p><p>2428 Gelst, Max, Brennstoffe, Hauptstr. 81</p><p>2650 Gendarmerie, Karlstr. 44</p><p>2445 Gendarmerie-Abt. II, Eleonorenring 8</p><p>2350 Genzel, Heinr., Kol.-W., Fürstenstr. 7.</p><p>2403 Geppert, Ernesta, Carl-Peters-Str. 4</p><p><b>2304 Geyer's Privat Hotel u. Villa Charlotte, Bad<br/>Nauheim</b></p><p>2721 Giar, Modesalon, Kurstr. 9</p><p>2284 Göbbels, Dr. Ernst, Beamter, Hochw.Str. 35</p><p>2935 Gondolf, Wilh., Sattlerei, Hauptstr. 18</p><p>2592 Graf, Dr., Laboratorium, Hauptstr. 4.</p><p>2263 Grasenick, Marie, Ww., Karlstr. 23</p><p>2159 Graulich, Hch. Adolf, Milch, Usingerstr. 9</p><p>2319 Greiler, Gg., Schneiderei, Fürstenstr. 28</p><p>2479 Gregorius, Heinr., Vers., H.-Göring-Str. 71</p><p>2139 Gries II. Heinrich, Hauptstr. 124</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 992 977\" data-label=\"Text\"><p>2002 Ulles, Jean, Buchhandl., Dalmatstr. 23<br/>2310 Karl Gries u. Sohn, Schlossermstr., Taunus-<br/>straße 12<br/>2127 Grimm, Robert, Gasthaus, Burgstr. 9<br/>2244 Gröninger, Bierniederlage, Apfelstr. 4.<br/>2190 Gröninger, August, Obst, Reinhardstr. 1<br/>2804 Gros, Pension<br/>2815 Grosholz, Dr., Benekestr. 7<br/>2542 Groß, Dr. A., Arzt, Ludwigstr. 23<br/>2830 Groß, Dr. Kurt, Zahnarzt, Kurstr. 1<br/>(2542) Groß, Dr. Ruth, Ärztin, Hitlerstr. 14<br/>2361 Dietr. u. Hugo Güldener, Schlosserei, Jahnstr. 6<br/>2529 Gürtler, Friedr., Sattler, Hauptstr. 58<br/>2832 Guthe, Karl, Fahrräder, Steinfurth<br/>2083 Haberl, J., Bahnhofshotel<br/>2382 Habicht, Kaffee, Johannisberg<br/>2115 Haeberlin, Dr. C., Arzt, Karlstr. 31<br/>2245 Häfner, Adolf, Bäckerei, Hauptstr. 12.<br/>2362 Hahndorff, Dr., Arzt, Bismarckstr. 12<br/>2800 Hänel, Helene, Pension, Küchlerstr. 4<br/>2356 Häuser, Friedrich, Schuhe, Hauptstr. 11</p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 21 997 972\" data-label=\"List-Group\"><p>2610 Häuser, Fritz, Schuhe, Reinhardstr. 8<br/>2884 Hanstein, Zahnarzt, Karlstr. 2<br/>2696 Hartel, Luise, Kurzw., Karlstr. 5<br/>2185 Hartmann, Chr., Kohlen, Apfelstr. 13<br/>2167 Hartmann, Karl, Spenglerei, Ritterstr. 1<br/>2504 Hartmann, W., Baugesch., Hauptstr. 28.<br/>2142 Hartmann &amp; Kissel, Wollwr., Fürstenstr. 18<br/>2854 Hartung, Dr. C., Arzt, Kurstr. 23<br/>2051 Haus am Park, L. Fries, Ludwigstr. 21<br/>2287 Haus Christa, M. Schäfer, Ludwigstr. 35<br/>2623 Haus Hellbrunn, Luisenstr. 10<br/>2032 Haus Hildegard, Schwestern, Luisenstr. 13</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Haus Lioba Schwestern unsererlieben Frau",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2528</td>\n<td>Haus Treue, Habicht, Carl-Peter-Str. 11</td>\n</tr>\n<tr>\n<td>2330</td>\n<td>Heil, J., Restaur., Ndm Frankf.Str. 31</td>\n</tr>\n<tr>\n<td>2041</td>\n<td>Heilstätte d. Landesvers.-Anst., Ludwigstr. 23</td>\n</tr>\n<tr>\n<td>2369</td>\n<td>Heimschutz, Bismarckstr. 2</td>\n</tr>\n<tr>\n<td>2028</td>\n<td>Heißmangel-Mietwaschküche Schulze, Rosenau</td>\n</tr>\n<tr>\n<td>2514</td>\n<td>Heues, Heinr., Gärtn., Blücherstr. 19</td>\n</tr>\n<tr>\n<td>2812</td>\n<td>Henes, Philipp, Gärtnerei, Usingerstr. 14.</td>\n</tr>\n<tr>\n<td>2234</td>\n<td>Henes, Wilh., Polstergesch., Jahnstr. 3</td>\n</tr>\n<tr>\n<td>2553</td>\n<td>Hengst, A., Gasth., St/ Bad Nauh.Str. 20</td>\n</tr>\n<tr>\n<td>2600</td>\n<td>Henrici, Autozentr., Eleonorenring 45</td>\n</tr>\n<tr>\n<td>2792</td>\n<td>Herkel, Dr. Walter, Oberarzt, Höhenweg 1</td>\n</tr>\n<tr>\n<td>2089</td>\n<td>Hermes &amp; Weber, Eisen, Reinhardstr. 7.</td>\n</tr>\n<tr>\n<td>2408</td>\n<td>Herr, Heinr., Dachdeckergesch., Hauptstr. 83</td>\n</tr>\n<tr>\n<td>2444</td>\n<td>Herr, Jacob, Dachdeckermstr., Mittelstr. 13</td>\n</tr>\n<tr>\n<td>2732</td>\n<td>Herrmann, Helene, Pension, Roonstr. 3</td>\n</tr>\n<tr>\n<td>2433</td>\n<td>Hertlein, Gasth. z. Quelle, Schnurestr. 12</td>\n</tr>\n<tr>\n<td>2046</td>\n<td>Hess, Fritz, Lebensmittel, Mittelstr. 38</td>\n</tr>\n<tr>\n<td>2448</td>\n<td>Hess, Dr. K., San.-Rat, Kurstr. 14</td>\n</tr>\n<tr>\n<td>(2448)</td>\n<td>Heß, Dr. H. Hch., Arzt, Kurstr. 14</td>\n</tr>\n<tr>\n<td>2270</td>\n<td>Heß, W., Apotheker, Fürstenstr. 10.</td>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "2663 Hospiz Heilbrunnen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Hotel „Der Kaiserhof“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 998\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">Linz, Linz-Land, Linz-Umgebung</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2571</td>\n<td>Hotel Nordhotel, Carl-Peter-Str. 22</td>\n</tr>\n<tr>\n<td>2138</td>\n<td>Hotel Oranienhof, Holzwarth, Küchlerstr. 10</td>\n</tr>\n<tr>\n<td>2817</td>\n<td>Hotel Park-Hotel</td>\n</tr>\n<tr>\n<td>2008</td>\n<td><b>Hotel Tielemann, Bes. L. Spöth</b></td>\n</tr>\n<tr>\n<td>2324</td>\n<td>Hotel Burk, Reinhardstr. 2</td>\n</tr>\n<tr>\n<td>2300</td>\n<td>Hotel Gaudes, Hauptstr. 6</td>\n</tr>\n<tr>\n<td>2225</td>\n<td>Hotel Schützenhof, Friedr.Str. 8</td>\n</tr>\n<tr>\n<td>2162</td>\n<td>Hotel Langsdorf, Bahnhofsallee 1</td>\n</tr>\n<tr>\n<td>2746</td>\n<td>Huber XII, Hch., Rosenkulturen, Stf Mittelstraße 25</td>\n</tr>\n<tr>\n<td>2731</td>\n<td>Huber, Phil., Rosenkulturen, Steinfurth</td>\n</tr>\n<tr>\n<td>2351</td>\n<td>Hubert, Dr., Arzt, Bahnhofsallee 2</td>\n</tr>\n<tr>\n<td>2317</td>\n<td>Hübener, Dr., Arzt, Karlstr. 24</td>\n</tr>\n<tr>\n<td>2462</td>\n<td>Hüffell, Dr., Arzt, Ad.Hitlerstr. 32</td>\n</tr>\n<tr>\n<td>2082</td>\n<td>Humboldt, Br., Lebensm., Reinhardstr. 21</td>\n</tr>\n<tr>\n<td>2065</td>\n<td>Hupfeld, Ernst, Kasino, Ludwigstr. 13</td>\n</tr>\n<tr>\n<td>2734</td>\n<td>Huthmacher, Dr. C., Arzt, Ludwigstr. 9</td>\n</tr>\n<tr>\n<td>2307</td>\n<td>Iben, Dr., Zahnarzt, Kurstr. 23</td>\n</tr>\n<tr>\n<td>2020</td>\n<td>Ilium, Phil., Kol.-W., Hauptstr. 37</td>\n</tr>\n<tr>\n<td>2025</td>\n<td><b>Imhof &amp; Co., Zentralheizungen, sanitäre und</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\"><table><thead><tr><th colspan=\"2\">~~~~ (schluß 2025/2005)</th></tr></thead><tbody><tr><td>2005</td><td>Imhof-v. Mechel, Dipl.Ing., Kurstr. 18</td></tr><tr><td>2147</td><td>Imhof-Münch, Frau, Rooustr. 6</td></tr><tr><td>2298</td><td>Innung d. Damenschneiderinnen, Karlstr. 33</td></tr><tr><td>2535</td><td>Institut Cornelius, Ludwigstr. 11</td></tr><tr><td>2003</td><td>v. Jachmann, Dr., Arzt, Ad.-Hitler-Str. 6</td></tr><tr><td>2409</td><td>Janssen, Fischhaus, Karlstr. 5</td></tr><tr><td>2148</td><td>Japke-Glenz, Philippine, H.Göringstr. 37</td></tr><tr><td>2484</td><td>Jehner II, Christ., Fuhrw., Hofgut Luisa</td></tr><tr><td>2665</td><td>Jehner, Rud., Bauer, Schwalheim</td></tr><tr><td>2486</td><td>John, Fritz, Elektrotechnik, Fürstenstr. 2</td></tr><tr><td>2657</td><td>John, Fritz, Adolf-Hitler-Str. 8</td></tr><tr><td>2062</td><td>Jost, Jakob, Fabrikdir., Höhenweg 1</td></tr><tr><td>2216</td><td>Jüdel, Dr. W., Zahnarzt, Ludwigstr. 13</td></tr><tr><td>2872</td><td>Jung, Ludw., Gastwirt, Steinfurth</td></tr><tr><td>2634</td><td>Jung, Ww. P., Fremdenheim, Bahnhofsallee 9</td></tr><tr><td>2178</td><td>Jung, Willi, Metzgerei, Karlstr. 32</td></tr><tr><td>2217</td><td>Jungjohann, Karl, Kfm., Höhenweg 9</td></tr><tr><td>2382</td><td>Kaffee Johannisberg</td></tr><tr><td>2071</td><td>Kaffee König, Ludwigstr. 17</td></tr><tr><td>2624</td><td>Kaffee. Jenniskaffee</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely intended for a specific town or region that was not yet populated with entries at the time of publication.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"10 770 987 950\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 9 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2278</td>\n<td>Kaffee Waldhaus, Carl Gross</td>\n</tr>\n<tr>\n<td>2400</td>\n<td>Kaffee Rosenau</td>\n</tr>\n<tr>\n<td>2535</td>\n<td>Kampmann, Gertrud, Frau, Ludwigstr. 11</td>\n</tr>\n<tr>\n<td>2134</td>\n<td>Kampmann, Dr. Werner, Arzt, Terrassenstr. 8</td>\n</tr>\n<tr>\n<td>2555</td>\n<td>Katerbau, Dr., Arzt, Ludwigstr. 11.</td>\n</tr>\n<tr>\n<td>2377</td>\n<td>Kath. Pfarramt, Nieder-Mörlen</td>\n</tr>\n<tr>\n<td>2232</td>\n<td>Katholisches Pfarrhaus, Zanderstr. 13.</td>\n</tr>\n<tr>\n<td>2333</td>\n<td>Kaufmann, Karl, Feink., Lutherstr. 2</td>\n</tr>\n<tr>\n<td>2681</td>\n<td>Karl u. Frau Kaufmann, Massage, Hauptstr. 11</td>\n</tr>\n<tr>\n<td>(2144)</td>\n<td>Kayser, Gerh., Fbr. wissensch. Apparate, Gust.-Kaiser-Str. 18</td>\n</tr>\n<tr>\n<td>2877</td>\n<td>Kellers, Paul, Manuf.-W., Friedr. Str. 26</td>\n</tr>\n<tr>\n<td>2177</td>\n<td>Kentenich, Merry, Schneiderei, Moltkestr. 7</td>\n</tr>\n<tr>\n<td>2273</td>\n<td>Kerber, Dr. Bruno, Arzt, Kurstr. 1</td>\n</tr>\n<tr>\n<td>2273</td>\n<td>Kerber, Dr., Wilhelmine, Ärztin, Kurstr. 1</td>\n</tr>\n<tr>\n<td>2923</td>\n<td>Kerckhoff-Institut (Herzforschung)</td>\n</tr>\n<tr>\n<td>2172</td>\n<td>Kern, Hermann, Wiegemstr., Homb. Str. 21</td>\n</tr>\n<tr>\n<td>2049</td>\n<td>Kettelerheim, Ferdin.-Werner-Str. 5</td>\n</tr>\n<tr>\n<td>2783</td>\n<td>Kielhorn, Dr. Egon, Arzt, Nördl. Park 22</td>\n</tr>\n<tr>\n<td>2146</td>\n<td>Kinderheim Haus Sonnenblick, C.-Peter-Str. 3</td>\n</tr>\n<tr>\n<td>2707</td>\n<td>Kinderheim St. Josef, Goethestr. 2</td>\n</tr>\n<tr>\n<td>9175</td>\n<td>Kiecal Frz. Reissardnotar Thlonstr. 10",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 991\" data-label=\"Text\"><p>2243 Kissel, Kn., Pilastermstr., Hochw.Str. 1<br/>2797 Kläranlage, Promenadenweg<br/>2303 Klein, Karl, Schnurstr. 22<br/>2556 Kleinert, Pension, F.-Werner-Str. 8<br/>2813 Kleinschmidt, Konr., Fremdenheim<br/>2472 Klinkerfuß, K., Schlosserei, Usingerstr. 5<br/>2692 Klinkerfuß, Karl, Tapezierer, Hauptstr. 97<br/>2863 Klotz, J., Ww., Gartenfeldstr. 12<br/>2459 Kluge, Paul, Schuhhaus, Fürstenstr. 11.<br/>2340 Knieriem II Nf., H., Spenglerei, Alicenstr. 17<br/>2233 Knieriem Gg., Ferd., Spenglerei, Burgstr. 12<br/>2346 Kniß, Friedr., Rosenzucht, Wisselsheim, Eich-<br/>bergstr.<br/>2768 Kniß, H., Spenglerei, E.-Ludw.-Ring 42<br/>2100 Knöpfel, Dr. Frdr., R.-A. [N], Hitlerstr. 12<br/>2495 Koch, Paplerwr., Ad.-Hitler-Str. 2<br/>2421 Koch, Hans, Tabakwr., Kurstr. 1<br/>2565 Koch-Momm, Frau Dr., Ärztin, Bahnhofsall. 3<br/>2458 Koettschau, Ww., Gust.-Kayser-Str. 16<br/>2189 Köllner, Ella, Ww., Ritterh.Str. 8<br/>2735 König, Alfred, Masseur, H.-Göring-Str. 48</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2348</td>\n<td>König, Friedrich, Bäckerei, Karlstr. 13</td>\n</tr>\n<tr>\n<td>2449</td>\n<td>König, Julius, Schuhwr., Karlstr. 18.</td>\n</tr>\n<tr>\n<td>2498</td>\n<td>Körfgen, Dr. K., Arzt, Ludwigstr. 9</td>\n</tr>\n<tr>\n<td>2806</td>\n<td>Koffer-Wolf, Lederwr., Ad.-Hitler-Str. 14</td>\n</tr>\n<tr>\n<td>2481</td>\n<td>Kolfertz, Gustav, Steinfurth.</td>\n</tr>\n<tr>\n<td>2373</td>\n<td>Kolter, Jean, Kfm., Ad.-Hitler-Str. 12</td>\n</tr>\n<tr>\n<td>2845</td>\n<td>Konitzkystift, Ludwigstr. 41</td>\n</tr>\n<tr>\n<td>2286</td>\n<td>Kopp, Alf., Friseur, Adolf-Hitlerstr. 10</td>\n</tr>\n<tr>\n<td>2395</td>\n<td>Korell, H., Landw., Schwalheim, Gartenstr. 1</td>\n</tr>\n<tr>\n<td>2855</td>\n<td>Kosciankowski, E., Autoverm., Wiesenstr. 11</td>\n</tr>\n<tr>\n<td>2736</td>\n<td>Kost, Wwe. Hch., Obst, Friedrichstr.</td>\n</tr>\n<tr>\n<td>2478</td>\n<td>Krämer, B., Schneiderin, Fürstenstr. 32</td>\n</tr>\n<tr>\n<td><b>2041</b></td>\n<td><b>Krankenhaus, Städtisches</b></td>\n</tr>\n<tr>\n<td>2404</td>\n<td>Kraus, Jakob, Pfarrer, Viktoriastr. 4</td>\n</tr>\n<tr>\n<td>2252</td>\n<td>Kraushaar, Dr., Zahnarzt, Hitlerstr. 12</td>\n</tr>\n<tr>\n<td>2145</td>\n<td>Kretner, Anton, Archit., Gutenb.Str. 2</td>\n</tr>\n<tr>\n<td>2193</td>\n<td>Krick, Willi, Dentist, Alicepl. 3</td>\n</tr>\n<tr>\n<td>2169</td>\n<td>Kronemann, Ernst, Optisch. Inst., Kurstr. 5</td>\n</tr>\n<tr>\n<td>2461</td>\n<td>Krug, Theodor, Schreinerei, Hauptstr. 96.</td>\n</tr>\n<tr>\n<td>2291</td>\n<td>Kühnlein, Gg., Gasthof, Fürstenstr. 6.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Text\"><p>2126 Kullmann, H., R.-A., Ad.-Hitler-Str. 4<br/>2532 Kunz, Heinr., Fabrkt., Rittershausstr.<br/>2955 Kuranstalt, GmbH, Ludwigstr. 29<br/><b>2080 Kurhaus-Wirtschaftsbetriebe, Inh. Rud. Vath,<br/>Bad Nauheim</b><br/>2391 Kurheim d. Landesvers., Bahnhofsallee 10<br/>2207 Kurheim Gutenberg d. Ldsvers.Anst. Berlin<br/>2632 Kurth, Chr., Gärtn., Stf I. Steckgarten<br/><b>2882 Kurverwaltung Bad Nauheim. T Kurver-<br/>waltung P Frankfurt a. M. 3766 (Staatsbad)</b><br/>2890 Dieselbe, Verkehrsamt<br/>2515 Kurz, Dr., Med.-Rat, Bismarckstr. 37<br/>2131 Kutscher, O., Kunstmaler, Salzsteuerstr. 1<br/>2552 Lack, Karl, Sattler, Hauptstr. 84.<br/>2029 Landw. Buchf.- u. Betreuungsst., Luisenstr. 2<br/>2733 Langebartels, Dr. Gust., Arzt, Kurstr. 19<br/>2118 Langreuter, Dr., Arzt, Ludwigstr. 25<br/>2416 Langsdorf, Dr., Arzt, Kurstr. 21.<br/>2604 Lehmann, R., Autoverm., Usingerstr. 19<br/>2024 Lentz, B., Brennmat., Rödgerweg.<br/>2280 Lenz, Dentistin, Fürstenstr. 5.</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2501</td>\n<td>Lovmann, Emil, Waspersdorf, 1351011111</td>\n</tr>\n<tr>\n<td>2524</td>\n<td>Lermann, Franz Joh., Bäckerei, Rödgen.</td>\n</tr>\n<tr>\n<td>2253</td>\n<td>Lichthardt, D., Frau, Gust.Kayserstr. 14</td>\n</tr>\n<tr>\n<td>2671</td>\n<td>Liebert, Conrad, Frisör, Ludwigstr. 15</td>\n</tr>\n<tr>\n<td>2380</td>\n<td>Limper, Gg., Dipl.-Ing., Salzsteuerstr. 4</td>\n</tr>\n<tr>\n<td>2322</td>\n<td>Lindemann, Hch., Garage, H.-Göring-Str. 95</td>\n</tr>\n<tr>\n<td>2015</td>\n<td>Lindner, Karl, Kfm., Zeppelinstr. 3</td>\n</tr>\n<tr>\n<td>2012</td>\n<td>Linkmann, E., Gärtnerei, Zanderstr. 20.</td>\n</tr>\n<tr>\n<td>2594</td>\n<td>Lipski, Louis, Buchdruckerei, Hauptstr. 27</td>\n</tr>\n<tr>\n<td>2549</td>\n<td>v. Löw, Fritz, Steinfurth</td>\n</tr>\n<tr>\n<td>2223</td>\n<td>Löwenapotheke, Friedrichstr. 1.</td>\n</tr>\n<tr>\n<td>2325</td>\n<td>Löwendrogerie, Apotheker, Karlstr. 11</td>\n</tr>\n<tr>\n<td>2782</td>\n<td>Lorenz, Pension, Lutherstr. 14</td>\n</tr>\n<tr>\n<td>2706</td>\n<td>Loth-Vogt, H.Göringstr. 35</td>\n</tr>\n<tr>\n<td>2048</td>\n<td>Lotz, Erika, Lehrerin, Rittershausstr. 10</td>\n</tr>\n<tr>\n<td>2269</td>\n<td><b>Dr. Luft, Leitender Arzt des Sanatoriums<br/>San.-Rat Dr. Hahn, Ferdinand-Werner-Str. 9<br/>u. Karlstraße 27</b></td>\n</tr>\n<tr>\n<td>2441</td>\n<td>Lucas, A., Wäscherei, Hauptstr. 71.</td>\n</tr>\n<tr>\n<td>2219</td>\n<td>Ludwig, Martin, Tapezier, Hauptstr. 7.</td>\n</tr>\n<tr>\n<td>2847</td>\n<td>Lueg, Dr. Werner, Prof., Ad.Hitlerstr. 16</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 970\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2842</td>\n<td>Luft, Hans W., Dr. med., Karlstr. 27</td>\n</tr>\n<tr>\n<td>2741</td>\n<td>Lütten, Hugo, Kurstr. 1</td>\n</tr>\n<tr>\n<td>2603</td>\n<td>Lustig, Gust., Heilgeh., v. Eschenstr. 4</td>\n</tr>\n<tr>\n<td>2430</td>\n<td>Maag, Marg., Hebamme, Ad.Hitlerstr. 24</td>\n</tr>\n<tr>\n<td>2668</td>\n<td>Maeyer, C., Kunstgewerbe, Kolonnade 1</td>\n</tr>\n<tr>\n<td>2791</td>\n<td>Maier, Jos., Masseur, Goethestr. 18</td>\n</tr>\n<tr>\n<td>(2131)</td>\n<td>Maus, P., Malermstr., Salzsteuerstr. 1</td>\n</tr>\n<tr>\n<td>2295</td>\n<td>Geschw.Maysenhälder, Modew., Ad.Hitl.Str.12</td>\n</tr>\n<tr>\n<td>2084</td>\n<td>Meier jr., Conr., Spediteur, Burgstr. 10</td>\n</tr>\n<tr>\n<td>2661</td>\n<td>Meißner, Maria, Herrenausst., Kurstr. 1</td>\n</tr>\n<tr>\n<td>2876</td>\n<td>Metz, J., Vers., Gartenfeldstr. 8</td>\n</tr>\n<tr>\n<td>2819</td>\n<td>Michel, Carl, Villa Anna, Carl-Peter-Str. 18</td>\n</tr>\n<tr>\n<td>2648</td>\n<td>Michel IV., G., Rosenkult., St/ Oberpforte 13</td>\n</tr>\n<tr>\n<td>2494</td>\n<td>Michel, H., Fuhrw., Ndm Ad.-Hitler-Str. 2</td>\n</tr>\n<tr>\n<td>2541</td>\n<td>Michel, Konr., Metzgerci, Steinfurth</td>\n</tr>\n<tr>\n<td>2550</td>\n<td>Michel II., Ph., Metzger, St/ Ad.-Hitler-Str.33</td>\n</tr>\n<tr>\n<td>2705</td>\n<td>Mirwald, Jos., Kaffee, Ad.-Hitler-Str. 26</td>\n</tr>\n<tr>\n<td></td>\n<td><b>Mittelstand-Sanatorium siehe nächste Spalte.</b></td>\n</tr>\n<tr>\n<td>2081</td>\n<td>Moder, Ferd., Herm.Göringstr. 16</td>\n</tr>\n<tr>\n<td>2424</td>\n<td>Möhring, Bruno, Dr.-Ing., Kurstr 18</td>\n</tr>\n</tbody",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the texture of the paper.\"/></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"132 125 680 317\"}, {\"label\": \"Text\", \"bbox\": \"229 326 609 460\"}, {\"label\": \"Text\", \"bbox\": \"207 468 635 602\"}, {\"label\": \"Text\", \"bbox\": \"209 611 502 744\"}, {\"label\": \"Text\", \"bbox\": \"228 757 509 895\"}]",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 11 792 993\" data-label=\"Text\"><p>2580 Mörler, Chr., Gastwirt, Burgplatz 2<br/>2432 Mörler F. W., Kohlen, Karlstr. 5<br/>2440 Mörler I., Heinr., Schreinerei, Wilhelmstr.<br/>2176 Mörler, Karl, Gartenbau, am Güterbahnhof<br/>2510 Mörler, Val., Obst, Kurstr. 11<br/>2313 Mohr, Hch., Moden, Fürstenstr. 9<br/>2565 Momm, Dr., Ärztin, Bahnhofsallee 3<br/>2507 Monjé, Frau A., Roonstr. 2<br/>2235 Moritz, Herm., Versich., Ad.-Hitler-Str. 191<br/>2364 Morschel, E., Haus Platzer, Bahnhofsallee 11<br/>2149 Morschel, Th., Baugeesch., Karlstr. 47<br/>2323 Müller, Adele, Pension, Ludwigstr. 13<br/>2684 Müller, Ernst, Autos, Schwalheim, Brunnen-<br/>straße 19<br/>2386 Müller, Franz, Konditor, Aliceplatz 6<br/>2282 Ders., Wohn., Reinhardstr. 5<br/>2260 Müller, Julius, Pianos, Bismarckstr. 10.<br/>2447 Müller III, Konr., Hdlr., Friedb. Str. 2<br/>2018 Müller, Ph., Baumaterial., H. Göringstr. 1<br/>2251 Müller, Wilh., Bäckerei, Schnurstr. 18.<br/>2260 Müller's Kurhotel, Bismarckstr. 10<br/>9409 Müller-Rost Maria Maestri Frankfurt</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 791 983\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>2617</td>\n<td>Park-Hotel, Kurstr. 2</td>\n</tr>\n<tr>\n<td><b>2043</b></td>\n<td><b>Park-Sanatorium, Dr. Collatz u. K. Richter, Kücklerstraße 6</b></td>\n</tr>\n<tr>\n<td>2645</td>\n<td>Paul, J., Gasthaus, Pfälzerhof</td>\n</tr>\n<tr>\n<td>2133</td>\n<td>Pawusch, Friseur, Kurstr. 3.</td>\n</tr>\n<tr>\n<td>2473</td>\n<td>Pehlow, Christel, Schokoladen, Ad.Hitlerstr.22</td>\n</tr>\n<tr>\n<td>2581</td>\n<td>Peil, Ludw., Versich.</td>\n</tr>\n<tr>\n<td>2933</td>\n<td>Pension Brandt, Carl-Peters-Str. 6</td>\n</tr>\n<tr>\n<td>2634</td>\n<td>Pension Bringfriede, Bahnhofsallee 9</td>\n</tr>\n<tr>\n<td>2626</td>\n<td>Pension Fürstenhof, Rittershausstr. 1</td>\n</tr>\n<tr>\n<td>2703</td>\n<td>Pension Haus Ohle</td>\n</tr>\n<tr>\n<td>2248</td>\n<td>Pension Haus Schaller, Bismarckstr. 4</td>\n</tr>\n<tr>\n<td>2109</td>\n<td>Pension Hartmann, W.-v.-Eschen-Str. 61</td>\n</tr>\n<tr>\n<td>2072</td>\n<td>Pension Höper, Aug.-Viktoria-Str. 2</td>\n</tr>\n<tr>\n<td>2230</td>\n<td>Pension Klüver u. Sperl, Rittershausstr. 6</td>\n</tr>\n<tr>\n<td>2735</td>\n<td>Pension König, Franz. König, H.Göringstr. 48</td>\n</tr>\n<tr>\n<td>2623</td>\n<td>Pension Kurheim Heilbrunnen, Luisenstr. 10</td>\n</tr>\n<tr>\n<td>2613</td>\n<td>Pension Neiß, Herm.Göringstr. 46</td>\n</tr>\n<tr>\n<td>2547</td>\n<td>Pension Scheler</td>\n</tr>\n<tr>\n<td>2401</td>\n<td>Pension Terrassenhof, L. Trietsch</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 791 993\" data-label=\"Text\"><p>2900 Pension Villa Burgund, E.-Ludwig-Ring 25<br/>2111 Pension Villa Fortuna, Zeppelinstr. 7<br/>2272 Pension Villa Luise, F.-Werner-Str. 1<br/>2712 Pension Villa Schäfer, Luisenstr. 8<br/>2804 Pension Villa Schnitzer, Luisenstr. 2<br/>2829 Pension Westfalia, Küchlerstr. 5<br/>2534 Pension Wilützky, Ludwigstr. 27<br/>2263 Pension z. guten Hoffnung, Karlstr. 23<br/>2927 Petereit, Aug., Dir., Wölfersheim, Höhenweg 11<br/>2329 Pitzmayer, Karl, Bäckernstr., Schuurstr. 28<br/>2292 Photo-Haus, Ad.-Hitler-Str. 24<br/>2793 Photo-Zentrale, Kurstr. 7<br/>2355 Piorkow, Karl, Masseur, Fürstenstr. 5<br/>2530 Piskator, Dr. Otto, Arzt, Luisenstr. 30<br/>2627 Polizeidirektion Gießen, Friedberg<br/>2621 Polizeirevier Bad Nauheim<br/>4538 Polizeirevier Friedberg<br/>2683 Post, Willy, Makler, Homb.Str. 14<br/>2056 Präfried, C., Großwäscherei, Röden<br/>2567 Puppe, Anny, Stimmpflege, Alicenstr. 13<br/>0415 Post Hainz Glacori Schuurstr 2</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 791 988\" data-label=\"Text\"><p>2931 Kabe, Fritz, Juwelier, Alcepl. 5<br/>2290 Rauth, Heinr., Diakon, <i>Ndn</i> Frankf.Str. 56<br/>2378 Recht, Karl, Elektrotechnik, Hauptstr. 8.<br/>2663 Gebr. Reich, Maler, Riesstr. 5<br/>2038 Reichsbahn, Vorsteher<br/>2035 Dieselbe, Güterabfertigung<br/>2085 Dieselbe, Güterabfertigung<br/>2196 Reichsluftschutzbund, Karlstr. 37<br/>2987 Reichspost, Amtszimmer<br/>2045 Reif, J., Landwirt, Hof Hasselheck.<br/>2397 Reuling, Wilh., Gust.-Kayser-Str. 12<br/>2488 Rinne, Ernst, Schneiderei, Karlstr. 7<br/>2651 Riso, Henny, Fremdenheim, Luisenstr. 11<br/>2485 Rocco, Dr. H., Arzt, Ludwigstr. 15<br/>2775 Röder, Stadtbaurat, Ernst-Ludwigring 8.<br/>2500 Roesch, G., Klin. Labor., Ad.Hitlerstr. 2<br/>2122 Rösche, J. G., Ww., Ad.-Hitler-Str. 12<br/>2489 Röbler, Bildhauer, Waitz v. Eschenstr. 10<br/>2489 Röbler, Philippine, Schneid., Waitz-v.-Eschen-<br/>Straße 10<br/>2171 Gebr. Röver, Färberei, Karlstr. 10</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 792 728\" data-label=\"Text\"><p>2372 Romeis, Dr. P., Arzt, H.-Göring-Str. 47<br/>2916 Rothermel, A., Blumen, Brückgarten<br/>2341 Ruder, Franz, Korbwaren, Karlstr. 7.<br/>2150 Ruder, Hch., Früchteverw., Holzmühle Rödg.<br/>2231 Rurgas AG, Ing., Griebel, Frankf.Str. 136<br/>2425 Rumpf, Luise, Frau, Schillerstr. 1<br/>2158 Rupp, Dr. Fritz, Schriftleit., H.-Göring-Str. 67<br/>2722 Ruppert-Cloos, Mia, Frau, Bismarckstr. 13<br/>2257 Salzmann, Chr., Fahrstühle, Ad.-Hitler-Str. 28<br/>2116 Sanatorium, Dr. Langreuter's, Ludwigstr. 25<br/><b>2043 Sanatorium — Park — Dr. Collatz u. K. Richter, Küchlerstraße 6</b></p></div><div data-bbox=\"495 743 544 803\" data-label=\"Page-Footer\"><p>22</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

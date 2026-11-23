@@ -1,0 +1,994 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Wittenberg (Lutherstadt).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Robert Gleue",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"222 42 234 104\" data-label=\"Image\"><img alt=\"Small black rectangular mark\"/></div><div data-bbox=\"608 42 896 104\" data-label=\"Image\"><img alt=\"Large black rectangular mark\"/></div><div data-bbox=\"978 42 990 104\" data-label=\"Image\"><img alt=\"Small black rectangular mark\"/></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      },
+      {
+        "region_name": "Zerbst (Anh.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Zweibrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Zwittau (Schönhengstgau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"235 226 963 343\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "STREBELWERK",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"465 65 475 85\" data-label=\"Page-Header\">1</div><div data-bbox=\"465 100 475 120\" data-label=\"Page-Header\">2</div><div data-bbox=\"465 135 475 155\" data-label=\"Page-Header\">3</div><div data-bbox=\"465 170 475 190\" data-label=\"Page-Header\">4</div><div data-bbox=\"465 205 475 225\" data-label=\"Page-Header\">5</div><div data-bbox=\"465 240 475 260\" data-label=\"Page-Header\">6</div><div data-bbox=\"465 275 475 295\" data-label=\"Page-Header\">7</div><div data-bbox=\"465 310 475 330\" data-label=\"Page-Header\">8</div><div data-bbox=\"465 345 475 365\" data-label=\"Page-Header\">9</div><div data-bbox=\"465 380 475 400\" data-label=\"Page-Header\">10</div><div data-bbox=\"465 415 475 435\" data-label=\"Page-Header\">11</div><div data-bbox=\"465 450 475 470\" data-label=\"Page-Header\">12</div><div data-bbox=\"465 485 475 505\" data-label=\"Page-Header\">13</div><div data-bbox=\"465 520 475 540\" data-label=\"Page-Header\">14</div><div data-bbox=\"465 555 475 575\" data-label=\"Page-Header\">15</div><div data-bbox=\"465 590 475 610\" data-label=\"Page-Header\">16</div><div data-bbox=\"465 625 475 645\" data-label=\"Page-Header\">17</div><div data-bbox=\"465 660 475 680\" data-label=\"Page-Header\">18</div><div data-bbox=\"465 695 475 715\" data-label=\"Page-Header\">19</div><div data-bbox=\"465 730 475 750\" data-label=\"Page-Header\">20</div><div data-bbox=\"465 765 475 785\" data-label=\"Page-Header\">21</div><div data-bbox=\"465 800 475 820\" data-label=\"Page-Header\">22</div><div data-bbox=\"465 835 475 855\" data-label=\"Page-Header\">23</div><div data-bbox=\"465 870 475 890\" data-label=\"Page-Header\">24</div><div data-bbox=\"465 905 475 92",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Crimmitschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Gnesen (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"236 10 958 292\"}]",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"199 667 214 692\" data-label=\"Text\"><p>-.</p></div><div data-bbox=\"908 771 992 921\" data-label=\"Text\"><p>69</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Viersen (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"52 141 145 158\" data-label=\"Text\"><p>3051</p></div><div data-bbox=\"188 35 205 938\" data-label=\"Text\"><p>|</p></div><div data-bbox=\"255 35 465 938\" data-label=\"Image\"><img alt=\"A decorative graphic element consisting of a stylized, curved, wavy line pattern, possibly representing a telephone cord or a stylized wave.\"/></div><div data-bbox=\"645 35 750 938\" data-label=\"Image\"><img alt=\"A decorative graphic element consisting of a stylized, curved, wavy line pattern, similar to the one on the left.\"/></div><div data-bbox=\"810 35 930 938\" data-label=\"Text\"><p>2944</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "I GEOR. HEINE. VIERSEN 1110",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Oeynhausen.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Kaiserslautern.",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Leobersdorf II (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 34 605 168\" data-label=\"Text\"><p><b>Mettmann (Rhld.).</b></p></div><div data-bbox=\"106 166 987 365\" data-label=\"Text\"><p>868 Burberg, Maschinenbaugesellschaft, Zer-<br/>kleinerungsanlag., Mettmann, Breite Str. 10</p></div><div data-bbox=\"8 384 195 500\" data-label=\"Text\"><p><b>Wien.</b></p></div><div data-bbox=\"8 561 179 651\" data-label=\"Text\"><p>R3 15 74</p></div><div data-bbox=\"221 511 960 714\" data-label=\"Text\"><p><b>Brüder Ploberger</b></p></div><div data-bbox=\"437 708 746 796\" data-label=\"Text\"><p><b>Maschinenfabrik</b></p></div><div data-bbox=\"243 802 945 900\" data-label=\"Text\"><p><b>Wien XII/87, Hetzendorfer Straße 2</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"218 214 743 731\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Beierfeld (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Friedrich Hammel",
+        "entries": []
+      },
+      {
+        "region_name": "Holzhausen (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schleiz (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "6895. Zerstäubungs-trocknungsanlagen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"214 210 732 680\"}]",
+      "cells": [
+        "col2_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Graudenz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "THEO MAJERUS",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "6897. Ziegeleien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Altenburg (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Altkirch (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "ZIEGELWERKEGILARDONI",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Argelsried b. München.",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Aurolzmünster (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Kreuznach.",
+        "entries": []
+      },
+      {
+        "region_name": "Bautzen.",
+        "entries": []
+      },
+      {
+        "region_name": "Bayreuth.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"81 10 987 490\" data-label=\"Text\"><p>2222 Hans. v. V. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v. v.",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Braunkohlen- und Brikkett-Industrie",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bischleben (Kr. Gotha).",
+        "entries": []
+      },
+      {
+        "region_name": "Bischofswalde-Lentsch (ub. Neisse).",
+        "entries": []
+      },
+      {
+        "region_name": "Brandis (Bez. Leipzig).",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Lasurp-mauxer.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 756 243 950\"}, {\"label\": \"Text\", \"bbox\": \"411 756 763 950\"}]",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Cilli (Untersteiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Ziegelei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"97 102 684 352\"}, {\"label\": \"Text\", \"bbox\": \"149 375 623 497\"}, {\"label\": \"Text\", \"bbox\": \"152 550 621 680\"}, {\"label\": \"Text\", \"bbox\": \"228 723 578 852\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Cunnersdorf b. Kamenz (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Deggendorf (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dessau.",
+        "entries": []
+      },
+      {
+        "region_name": "Döbeln (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Duderstadt (Eichsfeld).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"39 0 524 53\" data-label=\"Text\"><p>2548 (steinwerke, Werk Emden</p></div><div data-bbox=\"771 18 784 38\" data-label=\"Text\"><p>♦</p></div><div data-bbox=\"8 63 759 227\" data-label=\"Text\"><p><b>Emmering b. Fürstenfeldbruck</b><br/>Fürstenfeldbruck 2193 Oberbay. Ziegel- u. Hartstein-<br/>werke Brunner &amp; Dreher, Reginawerk</p></div><div data-bbox=\"8 236 476 303\" data-label=\"Text\"><p><b>Eppingen (Baden).</b></p></div><div data-bbox=\"83 300 756 353\" data-label=\"Text\"><p>148 Ziegelwerke Eppingen, Inh. Karl Pottiez</p></div><div data-bbox=\"8 362 445 428\" data-label=\"Text\"><p><b>Erding (Oberbay.).</b></p></div><div data-bbox=\"113 430 735 574\" data-label=\"Text\"><p>7 <b>Johann Auer</b> Baugeschäft u.<br/>Ziegeleien<br/>Bauartikelgroßhandlung, Erding</p></div><div data-bbox=\"8 582 674 650\" data-label=\"Text\"><p><b>Ernstbrunn (Niederdonaau).</b></p></div><div data-bbox=\"98 646 728 789\" data-label=\"Text\"><p>15 <b>Vereinigte Ziegelwerke A.-G.</b><br/>in Ernstbrunn</p></div><div data-bbox=\"8 804 460 869\" data-label=\"Text\"><p><b>Erzingen (Baden).</b></p></div><div data-bbox=\"8 867 757 967\" data-label=\"Text\"><p>Grißen 275 Erzinger Ziegelwerke, G. m. b. H.,<br/>Erzingen (Kreis Waldshut, Baden)</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": {
+      "raw": "<div data-bbox=\"76 0 753 200\" data-label=\"Text\"><p><b>224 Klosterziegelei Gerstungen Aktiengesell-<br/>schaft, Dachziegelwerk</b></p></div><div data-bbox=\"0 217 525 356\" data-label=\"Text\"><p><b>Glatz (Niederschles.).</b></p></div><div data-bbox=\"60 352 754 555\" data-label=\"Text\"><p><b>2125 Ziegel-Verkaufs-Vereinigung Glatz G. m.<br/>b. H., Roßstraße 5</b></p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

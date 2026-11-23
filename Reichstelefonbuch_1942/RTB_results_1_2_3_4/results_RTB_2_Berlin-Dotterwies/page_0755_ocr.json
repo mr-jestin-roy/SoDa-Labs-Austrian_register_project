@@ -1,0 +1,828 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 10 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>85 27 49</td>\n<td>Sucker, Heinrich, Angest.,</td>\n<td>Zehl Sundgauer Straße 105</td>\n</tr>\n<tr>\n<td>46 54 55</td>\n<td>Sucker, Kurt, Gastw.,</td>\n<td>N 65, Reinick.Str. 70</td>\n</tr>\n<tr>\n<td>56 13 84</td>\n<td>Sucker, Fleischer,</td>\n<td>Weiße Pistor.-Str. 139</td>\n</tr>\n<tr>\n<td>97 18 05</td>\n<td>Sucker, Max, Kfm.,</td>\n<td>Grw Paulsb. Str. 46</td>\n</tr>\n<tr>\n<td>97 21 45</td>\n<td>Sucker, O., Zigarren.,</td>\n<td>Hal Kronpr.-D. 2</td>\n</tr>\n<tr>\n<td>56 14 13</td>\n<td>Sucker, Paul,</td>\n<td>Weiße Rölkestr. 57</td>\n</tr>\n<tr>\n<td>17 14 88</td>\n<td>Sucker, Paul, Kohlen,</td>\n<td>SW 68, Wassertorstraße 34</td>\n</tr>\n<tr>\n<td>42 60 19</td>\n<td>Sucker, P., Rohprod.,</td>\n<td>N 54, Dragonerstr. 7</td>\n</tr>\n<tr>\n<td>45 22 93</td>\n<td>Sucker, P., Ob.-Insp.,</td>\n<td>N 20, Behmstr. 21</td>\n</tr>\n<tr>\n<td>80 61 34</td>\n<td>Sucker, Willy,</td>\n<td>Wan A. Kl. Wannsee 22</td>\n</tr>\n<tr>\n<td>17 69 30</td>\n<td>Sucker &amp; Thiel, Holzbau GmbH,</td>\n<td>SW 68, Junkerstr. 13</td>\n</tr>\n<tr>\n<td>68 85 65</td>\n<td>Suckert, Georg,</td>\n<td>Photolitho., SO 36, Köpelnicker Str. 152</td>\n</tr>\n<tr>\n<td>21 07 45</td>\n<td>Suckert, Hedw., Konfit.,</td>\n<td>W 35, Lützowstr. 44</td>\n</tr>\n<tr>\n<td>62 87 56</td>\n<td>Suckert, K., Vertr.,</td>\n<td>Britz, Laut.Str. 14</td>\n</tr>\n<tr>\n<td>22 58 76</td>\n<td>Suckert &amp; Klische,</td>\n<td>Klempnerei, W 35, Lützowstr. 81</td>\n</tr>\n<tr>\n<td>62 83 62</td>\n<td>Dies., Wohn. Suckert,</td>\n<td>Neuk Thür. Str. 3</td>\n</tr>\n<tr>\n<td>00 00 00</td>\n<td>Quel...</td>\n<td>...</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"232 0 998 991\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>71 78 90</td>\n<td>Suckow, A., Kunstgew.,</td>\n<td>Schb Ebersstr. 18</td>\n</tr>\n<tr>\n<td>32 20 82</td>\n<td>Suckow, Erna, Chb 4</td>\n<td>Kantstr. 52</td>\n</tr>\n<tr>\n<td>25 17 12</td>\n<td>Suckow, Gerhard, W 62,</td>\n<td>Bayreuther Str. 5</td>\n</tr>\n<tr>\n<td>42 73 15</td>\n<td>Suckow, Herbert, N 4,</td>\n<td>Pflugstr. 15</td>\n</tr>\n<tr>\n<td>71 30 21</td>\n<td>Suckow, K., Vertr.,</td>\n<td>Schb Gotenstr. 66</td>\n</tr>\n<tr>\n<td>75 41 21</td>\n<td>Suckow, K., Dr.-Ing.,</td>\n<td>Süd Stephanstr. 15</td>\n</tr>\n<tr>\n<td>97 20 87</td>\n<td>Suckow, Marg., Hal</td>\n<td>A.-Achill.-Str. 4a</td>\n</tr>\n<tr>\n<td>35 48 21</td>\n<td>Suckow, P., Bäck.,</td>\n<td>NW40, Lehrer Str. 48c</td>\n</tr>\n<tr>\n<td>85 09 69</td>\n<td>Suckow, Dr. Werner,</td>\n<td>Dipl.-Landw., Zehl<br/>Hohenzollernstr. 29</td>\n</tr>\n<tr>\n<td>56 82 46</td>\n<td>Suckow, W., Gastw.,</td>\n<td>Karow, A.-Kar. 52</td>\n</tr>\n<tr>\n<td>89 72 61</td>\n<td>Suckow, Wilh., Amtm.,</td>\n<td>Smgd Cunostr. 77</td>\n</tr>\n<tr>\n<td>56 17 97</td>\n<td>Suckow, Wilhelmine,</td>\n<td>Gastw., Weiß Gene-<br/>ralstr. 97</td>\n</tr>\n<tr>\n<td>93 48 33</td>\n<td>Sucksdorff, M.E.,</td>\n<td>Vertr., Grw Dauerw.W. 5</td>\n</tr>\n<tr>\n<td>93 34 22</td>\n<td>Sucksdorff, W.,</td>\n<td>Min.-Rat, Grw Alte All. 30</td>\n</tr>\n<tr>\n<td>30 39 95</td>\n<td>v. Sucro, Margar.,</td>\n<td>Chb 1 R.-Wagner-Str. 49</td>\n</tr>\n<tr>\n<td>78 71 02</td>\n<td>Sucro, Sophie, Ww.,</td>\n<td>M/de Str. 130</td>\n</tr>\n<tr>\n<td>19 45 62</td>\n<td>Sucrow, Otto,</td>\n<td>Garderob., SW 68, Putt-<br/>kamer Str. 15</td>\n</tr>\n<tr>\n<td>37 76 35</td>\n<td>Sudars, Alfred,</td>\n<td>Angest., Hash Lüdenschei-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "92",
+            "text": "69 11 Sudars, Herb., Fris., W 15, Schaperstr. 22"
+          },
+          {
+            "extension": "62",
+            "text": "87 83 Sudaszewski, Anna, Gastw., Neuk Emser Straße 16"
+          },
+          {
+            "extension": "88",
+            "text": "10 53 Sudau, Kurt, Ing., Frdn Lefèvrest. 6"
+          },
+          {
+            "extension": "58",
+            "text": "35 15 Sudau, Walter, Install., O 112, Finowstr. 13"
+          },
+          {
+            "extension": "69",
+            "text": "09 72 Sudbröker, Herb., Temp Höhndorfstr. 22"
+          },
+          {
+            "extension": "87",
+            "text": "89 11 Sudbröker, H., Lehr., Wilm Kalkh. Str. 1"
+          },
+          {
+            "extension": "42",
+            "text": "85 75 Sudbröker, Walter, Autowerkst., NW 7, Hannoversche Str. 5"
+          },
+          {
+            "extension": "88",
+            "text": "27 40 Sudeck, Günth., Ing., Frdn Sponh. Str. 28"
+          },
+          {
+            "extension": "88",
+            "text": "20 83 Sudeck, Hans, Frdn Wiesbadener Str. 138"
+          },
+          {
+            "extension": "87",
+            "text": "90 04 Sudeck, Alf., Ing., Spd Ruhl. Str. 149"
+          },
+          {
+            "extension": "99",
+            "text": "19 91 Suden, H., Kfm., Chb 9 Ratzeb. All. 8"
+          },
+          {
+            "extension": "16",
+            "text": "31 71 Suden & Lauer, Modelle, W 8, Mohrenstraße 29"
+          },
+          {
+            "extension": "88",
+            "text": "50 72 Suder, W., Insp., Frdn Ringstr. 46"
+          },
+          {
+            "extension": "12",
+            "text": "57 66 Suderland & Co, Immob., W 8, Mohrenstr. 9"
+          },
+          {
+            "extension": "48",
+            "text": "34 75 Suderlau, G., Café, Ndschhs Blsm.-Str. 7"
+          },
+          {
+            "extension": "34",
+            "text": "85 74 Sudermann, Erich, Makler, Chb 1 Rich.-Wagner-Str. 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Giese & Co, K.-G.",
+        "entries": [
+          {
+            "extension": "21",
+            "text": "81 51 } Berlin W 35, Lützowstr. 33—36. P 77571"
+          },
+          {
+            "extension": "18",
+            "text": "40 71 Sudetenl. Treibstoffwerke AG, W 8, Mohrenstr. 17"
+          },
+          {
+            "extension": "76",
+            "text": "48 51 Sudetenquell GmbH, LtfW U. d. Eichen 129"
+          },
+          {
+            "extension": "21",
+            "text": "32 80 Sudfeldt & Co, Chem. Fbr., W 35, Lützowufer 19b"
+          },
+          {
+            "extension": "67",
+            "text": "09 44 Sudhaus Söhne, H., Metallwrfbr., SO 16, Am Köllnischen Park 4"
+          },
+          {
+            "extension": "76",
+            "text": "55 92 Sudheimer, Hellm., Dr., Stegl Brentanostraße 18"
+          },
+          {
+            "extension": "50",
+            "text": "26 53 Sudheimer, Selma, Krlsh Marksb. Str. 15"
+          },
+          {
+            "extension": "88",
+            "text": "71 37 Sudhoff, Albert, Dipl.-Kfm., Frdn Rheingaustr. 21"
+          },
+          {
+            "extension": "58",
+            "text": "94 20 Sudhoff, M., Kohlen, O 112, S.-Dach-Str. 20"
+          },
+          {
+            "extension": "31",
+            "text": "89 18 Sudhoff, R., Zucker, Chb 4 Kantstr. 136"
+          },
+          {
+            "extension": "50",
+            "text": "15 22 Sudholt, J., Vertr., Krlsh Lehnd. Str. 46"
+          },
+          {
+            "extension": "89",
+            "text": "22 73 Sudicatis, R., Ing., Smgd Davos. Str. 14a"
+          },
+          {
+            "extension": "70",
+            "text": "83 69 Sudmann, K., Baumstr., Ltra Rackeb. W. 3"
+          },
+          {
+            "extension": "25",
+            "text": "73 00 Sudoplastoff, Nikolaus, Garagenarb., W 50,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 20 994 973\" data-label=\"Text\">\n<p style=\"text-align: center;\"><b>Wien</b></p>\n<table border=\"0\">\n<tbody>\n<tr>\n<td>83 04 43</td>\n<td>Sudrow, A., Kfm., <i>Frdn</i> Rheing.Str. 20</td>\n</tr>\n<tr>\n<td>26 18 71</td>\n<td>Sudrow, Ewald, Aufnahmeoperat., W30,<br/>Hohenstaufenstr. 42</td>\n</tr>\n<tr>\n<td>35 25 76</td>\n<td>Sudrow, Gertrud, NW 40, Paulstr. 4</td>\n</tr>\n<tr>\n<td>59 37 88</td>\n<td>Sudrow, H., Drogen, O 34, Ebertsstr. 28</td>\n</tr>\n<tr>\n<td>44 41 85</td>\n<td>Sudrow, Paul, Zigarren, Jülicher Str. 1</td>\n</tr>\n<tr>\n<td>42 64 87</td>\n<td>Sudrow, Werner, Mech., N 65, Reinickend.<br/>Straße 97</td>\n</tr>\n<tr>\n<td><b>62 80 70</b></td>\n<td><b>(„Süd-Berlin“, Mier &amp; Glasemann, Berlin-</b></td>\n</tr>\n<tr>\n<td><b>62 80 71</b></td>\n<td><b>(Neukölln, Bergstr. 35/36. P 10633</b></td>\n</tr>\n<tr>\n<td>30 83 50</td>\n<td>Süchting, Fritz, Prof., Stolpe-Süd P., <i>Henn</i><br/>Meisensteg 1</td>\n</tr>\n<tr>\n<td>30 76 49</td>\n<td>Süd-Apotheke, <i>Tgl</i> Egellstr. 22</td>\n</tr>\n<tr>\n<td>12 73 26</td>\n<td>Süd-Berlin-Boden AG, W 8, Mohrenstr. 6</td>\n</tr>\n<tr>\n<td>26 35 03</td>\n<td>Südd. Apparatefabr., W30, M.-Luther-Str. 90</td>\n</tr>\n<tr>\n<td>52 26 98</td>\n<td>Südd. Baumwolle-Industrie AG, C 2,<br/>Spandauer Str. 29</td>\n</tr>\n<tr>\n<td>39 34 76</td>\n<td>Südbeck, Josef, Schneid., NW 87, Tile-<br/>Wardenberg-Str. 25</td>\n</tr>\n<tr>\n<td><b>16 54 11</b></td>\n<td><b>Süddeutsche Bodencreditbank München</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": ": und 5",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "25",
+            "text": "44"
+          },
+          {
+            "extension": "41",
+            "text": "31"
+          },
+          {
+            "extension": "27",
+            "text": "51"
+          },
+          {
+            "extension": "75",
+            "text": "51"
+          },
+          {
+            "extension": "19",
+            "text": "20"
+          },
+          {
+            "extension": "17",
+            "text": "32"
+          },
+          {
+            "extension": "66",
+            "text": "96"
+          },
+          {
+            "extension": "83",
+            "text": "67"
+          },
+          {
+            "extension": "87",
+            "text": "05"
+          },
+          {
+            "extension": "92",
+            "text": "44"
+          },
+          {
+            "extension": "84",
+            "text": "01"
+          },
+          {
+            "extension": "17",
+            "text": "27"
+          },
+          {
+            "extension": "68",
+            "text": "63"
+          },
+          {
+            "extension": "22",
+            "text": "14"
+          },
+          {
+            "extension": "01",
+            "text": "01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>26 37 23</td>\n<td>Südost-Echo, W 30, M.-Luther-Str. 83</td>\n</tr>\n<tr>\n<td>60 07 24</td>\n<td>Südost Elektrohand. GmbH, <i>Neuk</i> Donaustraße 39</td>\n</tr>\n<tr>\n<td>24 26 79</td>\n<td>Südost Handels GmbH, W 50, Tauentzienstraße 11</td>\n</tr>\n<tr>\n<td>22 22 80</td>\n<td>Südost-Handels-Ges. von <b>Ramin &amp; Co.</b> Berlin W 35, Graf-Spee-Straße 19</td>\n</tr>\n<tr>\n<td>(91 12 12)</td>\n<td>Südosteurop. Rohstoff-Verwertungs-Ges. mbH, W 15, Joachimst. Str. 11</td>\n</tr>\n<tr>\n<td>91 12 12</td>\n<td>Südostropa Handelages. AG., W 15, Joachimst. Str. 19</td>\n</tr>\n<tr>\n<td>87 79 48</td>\n<td>Südow, Lars, <i>Wilm</i> Holstein. Str. 27</td>\n</tr>\n<tr>\n<td>62 17 17</td>\n<td>Südpalastspielhaus, <i>Neuk</i> Knes.-Str. 113</td>\n</tr>\n<tr>\n<td>62 70 77</td>\n<td>Südringapotheke, <i>Neuk</i> Bergstr. 112</td>\n</tr>\n<tr>\n<td>75 76 76</td>\n<td>Südring-Garagen, <i>Tmp</i> Berl. Str. 49</td>\n</tr>\n<tr>\n<td>25 51 11</td>\n<td>Südwein-Eck GmbH, W 30, M.-Luther-Straße 98</td>\n</tr>\n<tr>\n<td>12 53 71</td>\n<td>Süd-Ost-Verlag, NW 40, I. d. Zelten 9</td>\n</tr>\n<tr>\n<td>80 56 34</td>\n<td>Süd-West-Kirchhof b. <i>Sted</i></td>\n</tr>\n<tr>\n<td>19 45 47</td>\n<td>Südwest-Garage, SW 11, Saarlandstr. 70</td>\n</tr>\n<tr>\n<td>71 52 70</td>\n<td><i>Stieran</i> <i>Gertrud</i> <i>Schh</i> <i>Rechtegradener</i></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Stause 20",
+        "entries": [
+          {
+            "extension": "87",
+            "text": "68"
+          },
+          {
+            "extension": "76",
+            "text": "23"
+          },
+          {
+            "extension": "27",
+            "text": "52"
+          },
+          {
+            "extension": "46",
+            "text": "11"
+          },
+          {
+            "extension": "87",
+            "text": "56"
+          },
+          {
+            "extension": "87",
+            "text": "17"
+          },
+          {
+            "extension": "59",
+            "text": "03"
+          },
+          {
+            "extension": "37",
+            "text": "57"
+          },
+          {
+            "extension": "66",
+            "text": "86"
+          },
+          {
+            "extension": "84",
+            "text": "09"
+          },
+          {
+            "extension": "35",
+            "text": "18"
+          },
+          {
+            "extension": "70",
+            "text": "96"
+          },
+          {
+            "extension": "60",
+            "text": "60"
+          },
+          {
+            "extension": "93",
+            "text": "79"
+          },
+          {
+            "extension": "24",
+            "text": "63"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>84 48 71</td>\n<td>Sültz, W., Baurat, <i>Zehl</i> Fischerh.-Str. 24</td>\n</tr>\n<tr>\n<td>83 61 18</td>\n<td>Sülz, E., Schneider, <i>Frdn</i> Rheinstr. 28</td>\n</tr>\n<tr>\n<td>31 19 81</td>\n<td>Sülzer-Neumann, Teri, Entwürfe, <i>Chb</i> 2<br/>Fasanenstr. 13</td>\n</tr>\n<tr>\n<td>73 55 31</td>\n<td>Süming, Emil, Kfm., <i>Lkw</i> Kurf.-Str. 3</td>\n</tr>\n<tr>\n<td>31 66 08</td>\n<td>Süming, F., Ing., <i>Chb</i> 4 Pestal.Str. 20</td>\n</tr>\n<tr>\n<td>79 27 71</td>\n<td>Sümmermann, Carol., <i>Süd</i> Borstellstr. 51</td>\n</tr>\n<tr>\n<td>71 51 86</td>\n<td>Sümmicht, Fr., Schneider, <i>Schb</i> G.-<br/>Müller-Str. 3</td>\n</tr>\n<tr>\n<td>71 51 86</td>\n<td>Sümnicht, Fritz, Schneider, <i>Schb</i> Gustav-<br/>Müller-Str. 3</td>\n</tr>\n<tr>\n<td>75 34 94</td>\n<td>Sümnicht, Max, Tel.Insp., <i>Tmp</i> Alarich-<br/>straße 21</td>\n</tr>\n<tr>\n<td>44 08 88</td>\n<td>Sündemann, Hildeg., N 113, Stolpische Str. 5</td>\n</tr>\n<tr>\n<td>46 59 92</td>\n<td>Sünder, E., Techn., W 65, Amsterd. Str. 18</td>\n</tr>\n<tr>\n<td>57 13 29</td>\n<td>Sünder, Fr., Neuheiten, O 34, Lasdehner<br/>Straße 13</td>\n</tr>\n<tr>\n<td>16 29 83</td>\n<td>Sünder, M., Kfm., W 8, Taubenstr. 22</td>\n</tr>\n<tr>\n<td>62 28 72</td>\n<td>Sünderhauf, Bernhard, Lebensm., <i>Neuk</i><br/>Schierker Str. 26</td>\n</tr>\n<tr>\n<td>22 20 21</td>\n<td>Sünderhauf Irene Putz 20 2A Wiener</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 964\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>84 23 87</td>\n<td>Süring, E., Kfm.,</td>\n<td>Zehl Goethestr. 17</td>\n</tr>\n<tr>\n<td>76 48 97</td>\n<td>Süring, Wilh., Dir.,</td>\n<td>Zehl Schützta. 98</td>\n</tr>\n<tr>\n<td>39 38 57</td>\n<td>Suermond, Otto, Rittmstr.,</td>\n<td>NW 87, Altonaer Str. 30</td>\n</tr>\n<tr>\n<td>60 70 00</td>\n<td>Sürth, Hch., Bildh.,</td>\n<td>Rud Bitterf. W. 64</td>\n</tr>\n<tr>\n<td>60 17 80</td>\n<td>Süsens, Marie, Stickerei,</td>\n<td>Neuk Schillerpr 26</td>\n</tr>\n<tr>\n<td>68 66 35</td>\n<td>Süskind, Elisab.,</td>\n<td>SO 36, Onckenstr. 16</td>\n</tr>\n<tr>\n<td>34 81 02</td>\n<td>Süss, A., Schneider,</td>\n<td>Chb 1 Berl. Str. 86</td>\n</tr>\n<tr>\n<td>44 96 78</td>\n<td>Süß, Alb., Dir.,</td>\n<td>N 58, Danziger Str. 1</td>\n</tr>\n<tr>\n<td>41 41 83</td>\n<td>Carl &amp; Dora Süß,</td>\n<td>Schuhwr., N 4, Els. Str. 18</td>\n</tr>\n<tr>\n<td>71 12 79</td>\n<td>Sueß, Erh., Makler,</td>\n<td>Schb Belz. Str. 38</td>\n</tr>\n<tr>\n<td>67 13 73</td>\n<td>Süß, Erich, Fische,</td>\n<td>SW 68, Stallschreiberstraße 30</td>\n</tr>\n<tr>\n<td>42 79 91</td>\n<td>Süß, Erich, Uhren,</td>\n<td>C 2, Rosenth.-Str. 47</td>\n</tr>\n<tr>\n<td>64 66 06</td>\n<td>Süß, Friedr., Ing.,</td>\n<td>Schöneiche, Röderstraße 53</td>\n</tr>\n<tr>\n<td>67 42 30</td>\n<td>Süss, Fritz, Cellist,</td>\n<td>C 2, Neue Jakobstr. 8</td>\n</tr>\n<tr>\n<td>34 04 32</td>\n<td>Süß, G., Reg.-</td>\n<td>Baumstr., Siem Lenther-Stelg 21</td>\n</tr>\n<tr>\n<td>41 53 76</td>\n<td>Süß, H., Beleucht.,</td>\n<td>N 4, Chausseestr. 46</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin: S",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 9 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>86 86 91</td>\n<td>Süß, Herb., Dipl.Kfm., Wilm Aschaffenburg</td>\n<td>Str. 23</td>\n</tr>\n<tr>\n<td>93 19 95</td>\n<td>Süss, J., Tabakwr., Chb 5</td>\n<td>Steff.Str. 23</td>\n</tr>\n<tr>\n<td>89 57 16</td>\n<td>Süss, K., Amtsrat, Smgd</td>\n<td>Misdr. Str. 55</td>\n</tr>\n<tr>\n<td>68 02 60</td>\n<td>Süß, Kurt, SO 36,</td>\n<td>Graetzstr. 36</td>\n</tr>\n<tr>\n<td>17 26 08</td>\n<td>Süß, Ludwig, SW 68,</td>\n<td>Friedr.Str. 49a</td>\n</tr>\n<tr>\n<td>86 67 20</td>\n<td>Süß, O., Kfm. Wilm</td>\n<td>Pr.-Reg.-Str. 79</td>\n</tr>\n<tr>\n<td>41 12 25</td>\n<td>Süß, Otto, Kol.-W., N 4,</td>\n<td>Boraigstr. 30</td>\n</tr>\n<tr>\n<td>84 05 44</td>\n<td>Süß, O., Rittm. a. D.,</td>\n<td>Zehl Heimd.-Str.</td>\n</tr>\n<tr>\n<td>89 07 88</td>\n<td>Süss, Dr. Th., Prof., Grw</td>\n<td>Douglasastr. 30</td>\n</tr>\n<tr>\n<td>30 45 03</td>\n<td>Süss, W., Ing., Chb 1</td>\n<td>Quedlinb. Str. 6</td>\n</tr>\n<tr>\n<td>44 36 09</td>\n<td>Süß &amp; Herrmann, Kartonfabr.,</td>\n<td>N 54, Zionskirchstr. 28</td>\n</tr>\n<tr>\n<td>84 74 34</td>\n<td>Süssbier, A., Frau, Telt</td>\n<td>Lichterf.Str. 14</td>\n</tr>\n<tr>\n<td>21 35 87</td>\n<td>Süßbier, E., Zig., W 35,</td>\n<td>Körnerstr. 12</td>\n</tr>\n<tr>\n<td>77 29 29</td>\n<td>Süßbier, F.W., Kol.-W.,</td>\n<td>Schölnsbr.Str. 39</td>\n</tr>\n<tr>\n<td>21 10 62</td>\n<td>Süßbier Nf., Franz, Kol.-W.,</td>\n<td>W 35, Lützowstr. 86</td>\n</tr>\n<tr>\n<td>53 59 90</td>\n<td>Süßbier, W., Maler, NO 55,</td>\n<td>Hufel.Str. 30</td>\n</tr>\n<tr>\n<td>76 25 25</td>\n<td>Süßbricht, Dr., Oberfeldarzt,</td>\n<td>LtfW Mantteuffelstr. 27</td>\n</tr>\n<tr>\n<td>07 00 62</td>\n<td>Süß, Hans, Plätt</td>\n<td>Chb A Roeschestr 15</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 987\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>71 94 11</td>\n<td>Süße, K., Feindack., Scho Langensch. Str. 5</td>\n</tr>\n<tr>\n<td>62 95 33</td>\n<td>Süße, Willy, Gastw., SO 36, Mayb. Ufer 5</td>\n</tr>\n<tr>\n<td>88 03 40</td>\n<td>Süßel, Frida, <i>Frdn</i> Handj. Str. 82</td>\n</tr>\n<tr>\n<td>44 31 88</td>\n<td>Süssenguth, A., Schausp., <i>Pko</i> Wett. Str. 10</td>\n</tr>\n<tr>\n<td>88 69 93</td>\n<td>Süßenguth, Elisabeth., Schausp., <i>Wilm</i> Kreuznacher Str. 48</td>\n</tr>\n<tr>\n<td>41 28 23</td>\n<td>Süssenguth, Heinr., Buchhdlg., N4, Oranienburger Str. 65</td>\n</tr>\n<tr>\n<td>79 43 71</td>\n<td>Süßenguth, H., Drogen, <i>Stegl</i> Schönh. Str. 10</td>\n</tr>\n<tr>\n<td>46 56 11</td>\n<td>Süssenguth, Hildeg., N 20, Dronth. Str. 21</td>\n</tr>\n<tr>\n<td>86 12 87</td>\n<td>Süsserott, W., Verlag, <i>Wilm</i> Nass. Str. 62</td>\n</tr>\n<tr>\n<td>63 10 25</td>\n<td>Süsske, W., Install., <i>Obio</i> Edisonstr. 20</td>\n</tr>\n<tr>\n<td>32 06 85</td>\n<td>Süsskind, J. Israel, Dr., <i>Chb</i> Leibn. Str. 61</td>\n</tr>\n<tr>\n<td>75 13 76</td>\n<td>Süßkind, K. H., Vertr., <i>Tmp</i> Bosestr. 44</td>\n</tr>\n<tr>\n<td>75 92 75</td>\n<td>Süßkind, K., Fabriklag., <i>Ma</i> Königstr. 45</td>\n</tr>\n<tr>\n<td>50 97 31</td>\n<td>Süßkind, Kurt, Stadtmissionar, <i>Biesd</i> Oberfeldstr. 146</td>\n</tr>\n<tr>\n<td>71 03 28</td>\n<td>Süßkind, Martha, <i>Schb</i> Innsbr. Str. 38</td>\n</tr>\n<tr>\n<td>99 08 79</td>\n<td>v. Süßkindt-Schwendi, Frh. Alexander, O. Reg-Rat, <i>Chb</i> 9 Kastnien-All. 33</td>\n</tr>\n<tr>\n<td>71 23 27</td>\n<td>Süßkow, Ernst, <i>Schb</i> Bahnstr. 22</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>24 70 55</td>\n<td>Süßmann, Erich, W 50, Nürnbg. Str. 31</td>\n</tr>\n<tr>\n<td>87 06 69</td>\n<td>Süßmann, Dr. Ernst, Reg.Rat, <i>Wilm</i> Bra-<br/>banter Str. 16</td>\n</tr>\n<tr>\n<td>96 37 97</td>\n<td>Süßmann, Frida, <i>Chb</i> 4 Gervinusstr. 17</td>\n</tr>\n<tr>\n<td>61 36 66</td>\n<td>Süssmann, Gerda, Eiltransp., SW 68,<br/>Wassertorstr. 48</td>\n</tr>\n<tr>\n<td>50 06 82</td>\n<td>Süssmann, G., Kfm., <i>Krsh</i> Gund. Str. 5a</td>\n</tr>\n<tr>\n<td>93 55 19</td>\n<td>Süßmann, Gertrud, <i>Chb</i> 5 Riehlstr. 9</td>\n</tr>\n<tr>\n<td>84 29 54</td>\n<td>Süßmann, Lucie, <i>Zehl</i> Argent. Allee 212</td>\n</tr>\n<tr>\n<td>71 38 31</td>\n<td>Süßmann, Dr. M., Ärztin, <i>Schb</i> Hauptstr. 48</td>\n</tr>\n<tr>\n<td>35 27 39</td>\n<td>Süßmann, Marta, Gastw., NW 87, Rost.<br/>Straße 46</td>\n</tr>\n<tr>\n<td>55 10 77</td>\n<td>Süßmann, Max, Schrottgroßhdlg., <i>Rmb</i><br/>Hirschberger Str. 2</td>\n</tr>\n<tr>\n<td>71 38 31</td>\n<td>Süßmann, Dr. R., Arzt, <i>Schb</i> Hauptstr. 48</td>\n</tr>\n<tr>\n<td>21 12 97</td>\n<td>Süßmann, Rud., Maler, W 35, Potsd. Str. 110</td>\n</tr>\n<tr>\n<td>55 14 00</td>\n<td>Süssmann, W., <i>Lbg</i> Fanningerstr. 35</td>\n</tr>\n<tr>\n<td>73 61 42</td>\n<td>Süßmann, Wilh., Gen.Ltn., <i>Lt/O</i> Hild-<br/>burghauser Str. 131</td>\n</tr>\n<tr>\n<td>31 60 68</td>\n<td>Süßmilch, Gg., Archit., <i>Chb</i> 4 Ses. Str. 2</td>\n</tr>\n<tr>\n<td>97 99 04</td>\n<td>Süßmilch, <i>Odenton</i> <i>Wn 44</i> <i>Wilm</i> <i>Chb</i></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Weverstr. 4a",
+        "entries": [
+          {
+            "extension": "58",
+            "text": "45 51 Süßmilch, Walter, Schornsteinfg., O 17, Beymestr. 8"
+          },
+          {
+            "extension": "16",
+            "text": "34 27 Süßmilch, Werner, Vertr., W 8, Charlotten- straße 32"
+          },
+          {
+            "extension": "46",
+            "text": "34 17 Ders., Wohn., N 65, Liverpooler Str. 12"
+          },
+          {
+            "extension": "89",
+            "text": "63 59 Süßmuth, E., Synd., Smgd Breite Str. 49"
+          },
+          {
+            "extension": "46",
+            "text": "23 59 Süßmuth, Gerhard, Fleischer, N 65, Kol- berger Str. 6"
+          },
+          {
+            "extension": "62",
+            "text": "44 53 Süßmut, H., Holz, Neuk B.-Bauer-Str. 5 (17 65 88) Süßmuth, Wilhelm, Fischkonserven, SW 68, Kommandantenstr. 60"
+          },
+          {
+            "extension": "73",
+            "text": "37 97 Sütterlin, G., Kfm., Lkw Barbarastr. 36"
+          },
+          {
+            "extension": "79",
+            "text": "28 80 Sütterlin, Dr. Th., Dir., Stegl Humb. Str. 15"
+          },
+          {
+            "extension": "88",
+            "text": "78 77 Süverkrüp, Hugo, Ob. Zollinsp., Frdn Lau- terstraße 39"
+          },
+          {
+            "extension": "76",
+            "text": "10 43 Süvern, Dr. K., Reg.-Rat, Lt/ Drakestr. 41"
+          },
+          {
+            "extension": "48",
+            "text": "54 96 Süwer, Conrad, Pko Harzger. Str. 4"
+          },
+          {
+            "extension": "66",
+            "text": "86 05 Sufa, Elis., Lehr., SW 29, Böckhstr. 39"
+          },
+          {
+            "extension": "68",
+            "text": "70 73 Sufa, Otto, SO 36, Moosdorfstr. 4"
+          },
+          {
+            "extension": "97",
+            "text": "85 73 Suffert, Erika. Hal Kurf.D. 155"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 985\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>00 20 01</td>\n<td>Wurmian, D.,</td>\n<td>Malerin, W 4006</td>\n<td>Linienstr. 20</td>\n</tr>\n<tr>\n<td>55 38 57</td>\n<td>Suffrian, Helm.,</td>\n<td>Frjde</td>\n<td>Marz. Ch. 21</td>\n</tr>\n<tr>\n<td>86 88 35</td>\n<td>Sugalski, Hedw.,</td>\n<td>Damenwäsche,</td>\n<td>Wilm</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Güntzelstr.</td>\n<td>29</td>\n</tr>\n<tr>\n<td>99 05 76</td>\n<td>Sug-Bellini, Dr. E. B.,</td>\n<td>Frau,</td>\n<td>Chb 9 Württ.</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Allee</td>\n<td>26</td>\n</tr>\n<tr>\n<td>35 51 54</td>\n<td>Suhl, Anna,</td>\n<td>Altmöbel,</td>\n<td>NW 40, Paulstr. 23</td>\n</tr>\n<tr>\n<td>24 62 76</td>\n<td>Suhl, E.,</td>\n<td>Schneider,</td>\n<td>W 50, Augab. Str. 59</td>\n</tr>\n<tr>\n<td>42 80 16</td>\n<td>Suhl, Ernst,</td>\n<td>Handelsm.,</td>\n<td>N 4, Linienstr. 99</td>\n</tr>\n<tr>\n<td>68 29 55</td>\n<td>Suhl Nf., Eugen,</td>\n<td>Kartonag.,</td>\n<td>SO 36, Skalitzer Str. 100</td>\n</tr>\n<tr>\n<td>64 98 31</td>\n<td>Suhle, Dr. A.,</td>\n<td>Prof.,</td>\n<td>Rah Petersh. W. 32</td>\n</tr>\n<tr>\n<td>62 99 41</td>\n<td>Suhle, Anna,</td>\n<td>Neuk</td>\n<td>Niernetzstr. 8</td>\n</tr>\n<tr>\n<td>73 08 25</td>\n<td>Suhle, K. B.,</td>\n<td>Reg.-Rat,</td>\n<td>Lf Mant. Str. 5a</td>\n</tr>\n<tr>\n<td>83 23 05</td>\n<td>Suhm, Hilda,</td>\n<td>Wilm</td>\n<td>Geisenh. Str. 30</td>\n</tr>\n<tr>\n<td>88 74 51</td>\n<td>Suhr, Amalie,</td>\n<td>Ww.,</td>\n<td>Frdn Fregestr. 4</td>\n</tr>\n<tr>\n<td>91 11 53</td>\n<td>Suhr, A.,</td>\n<td>Schuhm.,</td>\n<td>W 15, Schlüterstr. 43</td>\n</tr>\n<tr>\n<td>66 76 74</td>\n<td>Suhr, A.,</td>\n<td>Tischlerel,</td>\n<td>SW 29, Graefestr. 91</td>\n</tr>\n<tr>\n<td>89 09 63</td>\n<td>Suhr, Clara,</td>\n<td>Wilm</td>\n<td>Wiesbad. Str. 51</td>\n</tr>\n<tr>\n<td>35 20 59</td>\n<td>Suhr, Ella,</td>\n<td>NW 21,</td>\n<td>Wilhelmsh. Str. 36</td>\n</tr>\n<tr>\n<td>97 52 72</td>\n<td>Suhr, F.,</td>\n<td>Vertr.,</td>\n<td>Hal Nestorstr. 13</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "37",
+            "text": "90"
+          },
+          {
+            "extension": "17",
+            "text": "37"
+          },
+          {
+            "extension": "34",
+            "text": "20"
+          },
+          {
+            "extension": "49",
+            "text": "56"
+          },
+          {
+            "extension": "73",
+            "text": "10"
+          },
+          {
+            "extension": "26",
+            "text": "06"
+          },
+          {
+            "extension": "34",
+            "text": "17"
+          },
+          {
+            "extension": "31",
+            "text": "46"
+          },
+          {
+            "extension": "88",
+            "text": "21"
+          },
+          {
+            "extension": "68",
+            "text": "75"
+          },
+          {
+            "extension": "34",
+            "text": "55"
+          },
+          {
+            "extension": "44",
+            "text": "25"
+          },
+          {
+            "extension": "79",
+            "text": "22"
+          },
+          {
+            "extension": "91",
+            "text": "65"
+          },
+          {
+            "extension": "93",
+            "text": "54"
+          },
+          {
+            "extension": "66",
+            "text": "25"
+          },
+          {
+            "extension": "53",
+            "text": "29"
+          },
+          {
+            "extension": "62",
+            "text": "96"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "icker — Supf (Band II) 735",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 10 780 970\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>39 85 48</td>\n<td>Sujatta, Erich, NW 87, Wikingeru. 5</td>\n</tr>\n<tr>\n<td>19 72 15</td>\n<td>Suka-Silo-Bau, SW 11, Saarlandstr. 61</td>\n</tr>\n<tr>\n<td>39 46 39</td>\n<td>Sukale, K., Kfm., NW 87, T.-Ward.-Str. 3</td>\n</tr>\n<tr>\n<td>61 15 29</td>\n<td>Sukale, W., Fuhrgesch., SW 68, Ritterstr. 110</td>\n</tr>\n<tr>\n<td>70 95 45</td>\n<td>Sukatsch, G., Volksw., <i>Ltr</i> Mozartstr. 19</td>\n</tr>\n<tr>\n<td>35 17 62</td>\n<td>Sukatsch, Margar., NW 21, Rathen. Str. 21</td>\n</tr>\n<tr>\n<td>97 41 07</td>\n<td>Sukkau, Maria, <i>Hal</i> Karlar. Str. 13</td>\n</tr>\n<tr>\n<td>47 07 63</td>\n<td>Sukohl, Heinr., Ing., <i>Waidm</i> Dianapl. 2</td>\n</tr>\n<tr>\n<td>22 42 75</td>\n<td><b>Heinrich Sukohl &amp; Co., Berlin W 35, Potsdamer StraÙe 58</b></td>\n</tr>\n<tr>\n<td>66 24 00</td>\n<td>Sukop, Carl, Kfm., SW 61, Katzbachstr. 25</td>\n</tr>\n<tr>\n<td>56 03 57</td>\n<td>Sukow, P., Gastw., <i>Weiß</i> Prenzl. Prom. 20</td>\n</tr>\n<tr>\n<td>27 48 14</td>\n<td>Sukowsky, M., Kfm., W 35, Steinmetzstr. 22</td>\n</tr>\n<tr>\n<td>93 52 41</td>\n<td>Sukrow, C. F., Kfm., <i>Chb</i> 5 Christstr. 18</td>\n</tr>\n<tr>\n<td>55 21 87</td>\n<td>Sukrow, W., Kfm., <i>Lbg</i> Ruscheistr. 21</td>\n</tr>\n<tr>\n<td>24 74 35</td>\n<td><b>Sul Khan, Jean, Ein- u. Ausfuhrgeschäft, Berlin W 59, Tauentzienstr. 14</b></td>\n</tr>\n<tr>\n<td>97 26 16</td>\n<td>Ders., Wohn., <i>Hal</i> Kurf. Damm 124a</td>\n</tr>\n<tr>\n<td>24 05 68</td>\n<td>Sulc, Josef, D.-Moden, W 50, Spichernstr. 3</td>\n</tr>\n<tr>\n<td>67 23 90</td>\n<td>M. Sulega &amp; Julius Salewski, Diebessicher., SW 68, Stallschreiberstr. 52</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"10 968 693 993\" data-label=\"Page-Footer\">\n<p>44 72 07    04-1-1    A-1-1    37 01    04-1-14    04-1-15</p>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 0 781 992\" data-label=\"Text\"><table><tbody><tr><td>68 70 91</td><td>Sulek, Charles, Gastw., SO 36, Grün.Str. 6</td></tr><tr><td>85 26 69</td><td>Sulek, W., Lehr., <i>ZehlW</i> Kossinnastr. 14</td></tr><tr><td>22 04 26</td><td>Sulfit-Spiritus GmbH, W35, Lützowufer 18</td></tr><tr><td>99 50 69</td><td>Sulles, G., Rent., <i>Chb</i> 9 Kast.-Allee 24</td></tr><tr><td>99 15 62</td><td>Sulimma, J., Heringe, <i>Chb</i> 9 Nuß.Allee 24</td></tr><tr><td>64 39 95</td><td>Suling, Kurt, Dipl.Kfm., Wendenachloß,<br/>Ekhofplatz 2</td></tr><tr><td>42 98 51</td><td>Sulinski, B., Werkzeugm., NW 7, Karlstr. 16</td></tr><tr><td>37 79 33</td><td>Sulinski, Ernst, Seife, <i>Spd</i> Pichelsdorfer<br/>Straße 128</td></tr><tr><td>97 02 14</td><td>Sulitze, Frdr., Makl., <i>Grw</i> Bism.-Allee 14</td></tr><tr><td>93 24 62</td><td>Sulitze, Irmgard, <i>Chb</i> 9 Freder.-Str. 10</td></tr><tr><td>34 63 21</td><td>Sulitze, Katharine, <i>Chb</i> 5 Leonh.-Str. 6</td></tr><tr><td>88 27 07</td><td>Sulke, Alex., Kfm., <i>Frdn</i> W.-Hauff-Str. 9</td></tr><tr><td>26 24 44</td><td>Sulke, Ida, Frau, W 30, Stübbenstr. 4</td></tr><tr><td>77 23 08</td><td>Sulkova, Josefa, Moden, <i>Schb</i> Wartb.Str. 36</td></tr><tr><td>17 73 21</td><td>Sullei, P., Fris., SW 68, Hollm.-Str. 17</td></tr><tr><td>83 66 68</td><td>Sulley, F., Bücherrev., <i>Frdn</i> Bornstr. 1</td></tr><tr><td>44 74 90</td><td>Sullus, W., Kfm., <i>Pko</i> Eschengr. 24</td></tr><tr><td>27 54 48</td><td>Sulzer, H., Kfm., W 30, Maaßenstr. 6</td></tr><tr><td>57 31 53</td><td>Sult. Karl. Prediger. O 34. GubenerStr. 10</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Sammel-\nNr.\n67 67 91 Sum Vergaser Ges.\nCarl Wirsum & Co.\nKommanditgesellschaft",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "T Sumvergaser Berlin P 9251",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 779 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>93 49 83</td>\n<td>Sunagel, Aug., <i>Chb</i> 5 Wundtstr. 52</td>\n</tr>\n<tr>\n<td>66 46 11</td>\n<td>Sund, E., Raumkunst, SW 29, Graefestr. 35</td>\n</tr>\n<tr>\n<td>92 41 95</td>\n<td>Sund, Gerda, W 15, Bayrische Str. 33</td>\n</tr>\n<tr>\n<td>92 69 33</td>\n<td>Sunder, Anna, W 15, Düsseldorfer Str. 58</td>\n</tr>\n<tr>\n<td>80 69 02</td>\n<td>Sunder, L., Apoth., <i>Nik</i> Alem.-Str. 14</td>\n</tr>\n<tr>\n<td>27 04 22</td>\n<td>Sundermann, Dr. Bernhard, Arzt, W 30,<br/>Hohenstaufenstr. 3</td>\n</tr>\n<tr>\n<td>46 31 17</td>\n<td>Sundermann, C., <i>Zig.</i>, N 65, Liezenstr. 17</td>\n</tr>\n<tr>\n<td>46 35 80</td>\n<td>Sundermann, F., Ltn., N 65, Torfstr. 28</td>\n</tr>\n<tr>\n<td>25 37 10</td>\n<td>Sundermann, Ida, W 30, N.-Winterf.-Str. 32</td>\n</tr>\n<tr>\n<td>84 69 33</td>\n<td>Sundgau-Apotheke, <i>Zehl</i> Berliner Str.</td>\n</tr>\n<tr>\n<td>73 85 85</td>\n<td>Sundhausen, Dr. Erich, kfm. Lelt., <i>Lkw</i><br/>Sondershauser Str. 73 a</td>\n</tr>\n<tr>\n<td>24 55 38</td>\n<td>Sundorf, Käte L., Modist., W 50, Fürther<br/>Straße 12</td>\n</tr>\n<tr>\n<td>72 45 04</td>\n<td>Sundström, E., Kfm., <i>Stegl</i> Humb. Str. 11</td>\n</tr>\n<tr>\n<td>53 55 67</td>\n<td>Sundt, Paul, Beamnt., NO 55, Bötzowstr. 7</td>\n</tr>\n<tr>\n<td>17 74 94</td>\n<td>Sunfix-Glaseisenbeton Dtsch. Glashdlr.<br/>GmbH, SW 68, Alex.-Str. 107</td>\n</tr>\n<tr>\n<td>84 61 79</td>\n<td>Sungatowski, Osw., Dir., <i>Zehl</i> Fuchspaß 2</td>\n</tr>\n<tr>\n<td>(10 09 72)</td>\n<td>Sungatowski &amp; Co Eisenwr SW 11</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"144 0 301 39\" data-label=\"Page-Header\">Harenpl. 1</div>\n<div data-bbox=\"0 44 775 954\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td><b>Sammel-</b></td>\n<td rowspan=\"2\"><b>—</b></td>\n<td><b>Sunlicht Gesellschaft A. G.</b></td>\n<td></td>\n</tr>\n<tr>\n<td><b>Nr.</b></td>\n<td><b>Berlin-Grunewald,</b></td>\n<td></td>\n</tr>\n<tr>\n<td><b>86 73 71</b></td>\n<td><b>{</b></td>\n<td><b>Mohenzollerndamm 46/47.</b></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td><b>T Sunlicht,</b></td>\n<td><b>P 38164</b></td>\n</tr>\n<tr>\n<td>24 87 78</td>\n<td></td>\n<td>Suntheim, Wolfg., Kameram., W 50,</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Augsburger Str. 44</td>\n<td></td>\n</tr>\n<tr>\n<td>87 55 43</td>\n<td></td>\n<td>Suntken, Friedr., Wilm Aschaff. Str. 8</td>\n<td></td>\n</tr>\n<tr>\n<td>91 55 74</td>\n<td></td>\n<td>Suntken, Meta, W 15, Sächsische Str. 67</td>\n<td></td>\n</tr>\n<tr>\n<td>72 10 28</td>\n<td></td>\n<td>Suntrop, Amalle, D.-Moden, Stegl Marien-</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>dorfer Str. 51</td>\n<td></td>\n</tr>\n<tr>\n<td>34 32 05</td>\n<td></td>\n<td>Supan, Adelheld, Chb 1 Alt-Lietzow 26</td>\n<td></td>\n</tr>\n<tr>\n<td>99 16 15</td>\n<td></td>\n<td>Supan, A., Dr., Chb 9 Westendallee 108</td>\n<td></td>\n</tr>\n<tr>\n<td>27 23 80</td>\n<td></td>\n<td>Super Garagenbetr., W 30, Kyffh.Str. 11</td>\n<td></td>\n</tr>\n<tr>\n<td>52 23 91</td>\n<td></td>\n<td>Superintendentur Stadt I, C2, Propststr. 14</td>\n<td></td>\n</tr>\n<tr>\n<td>73 34 75</td>\n<td></td>\n<td>Superintend. Kölln-Land I, Lt/Tietzenw. 130</td>\n<td></td>\n</tr>\n<tr>\n<td>62 67 63</td>\n<td></td>\n<td>Superintendentur Kölln.Land II, Neuk</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Bergstr. 120</td>\n<td></td>\n</tr>\n<tr>\n<td>76 07 48</td>\n<td></td>\n<td>Supf, Fr., Dr., Dahl Musäustr. 2</td>\n<td></td>\n</tr>\n<tr>\n<td>87 58 82</td>\n<td></td>\n<td>Supf, Dr. P., Schriftst., Wilm Uhl.Str. 78</td>\n<td></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

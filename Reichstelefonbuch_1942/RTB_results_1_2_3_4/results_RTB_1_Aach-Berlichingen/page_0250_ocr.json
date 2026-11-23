@@ -1,0 +1,773 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"252 661 491 937\"}, {\"label\": \"Text\", \"bbox\": \"654 661 998 937\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 80 941 908\" data-label=\"List-Group\"><p>221 Wiegand, Paul, Baukempnerel, Install.<br/>209 Zuckerfabrik Allstedt (Helme)<br/>977 Zuckerfabr. Oberöblingen, Helme, GmbH</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Alm b. Saalfelden(Saizburg)",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "Bürgermeister Stöckl, 22"
+          },
+          {
+            "extension": "4",
+            "text": "Bürgermeisteramt"
+          },
+          {
+            "extension": "3",
+            "text": "Fürsterbezirk Alm"
+          },
+          {
+            "extension": "2",
+            "text": "Gendarmerie"
+          },
+          {
+            "extension": "6",
+            "text": "Jakob u. Maria Harrer, Berghelm Gasteg"
+          },
+          {
+            "extension": "6",
+            "text": "Rad-Erholungsheim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Alme (ab. Brilon) [Westf.]",
+        "entries": [
+          {
+            "extension": "38",
+            "text": "Bödecker, Johannes, Bauer, Am Harzkopf"
+          },
+          {
+            "extension": "14",
+            "text": "Brune, Th., Gastwirt, Niederalme"
+          },
+          {
+            "extension": "39",
+            "text": "Bürger, Gut Hallinghausen"
+          },
+          {
+            "extension": "49",
+            "text": "Canisius, Joh., Gartenbau, Oberalme"
+          },
+          {
+            "extension": "47",
+            "text": "Decker, Fuhrgeschäft, Nehden"
+          },
+          {
+            "extension": "33",
+            "text": "Eigenbrodt, Franz, Lebensm., Oberalme"
+          },
+          {
+            "extension": "29",
+            "text": "Elias, Herm., Tischfr., Am Bahnhof 141"
+          },
+          {
+            "extension": "28",
+            "text": "Finkeldey, Th., Bäckerei"
+          },
+          {
+            "extension": "22",
+            "text": "Gräfl. v. Speesche Försterei, Loh"
+          },
+          {
+            "extension": "35",
+            "text": "Gräfl. v. Speesche Güterverwaltung, Haus Tinne"
+          },
+          {
+            "extension": "23",
+            "text": "Gräfl. v. Speesche Gutsverw. Almerfeld"
+          },
+          {
+            "extension": "21",
+            "text": "Gräfl. v. Speesche Oberförsterei, Haus Bruch"
+          },
+          {
+            "extension": "51",
+            "text": "Guntermann, Kolonialwr., Brilon"
+          },
+          {
+            "extension": "31",
+            "text": "Harding, Ww., Bäckerei"
+          },
+          {
+            "extension": "46",
+            "text": "Henke, Friedrich, Gasthof, Nehden"
+          },
+          {
+            "extension": "18",
+            "text": "Kath. Pfarramt"
+          },
+          {
+            "extension": "34",
+            "text": "Kaup, Franz, Bauer"
+          },
+          {
+            "extension": "53",
+            "text": "Kaup, Franz, Fuhruntern."
+          },
+          {
+            "extension": "37",
+            "text": "Kaup, Karl, Fuhrgesch."
+          },
+          {
+            "extension": "15",
+            "text": "Linnenhoff, Josef, Gasthof"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 914 972\" data-label=\"List-Group\"><ul><li>32 Lottmann, Georg, Holzmrstr., Oberalm</li><li>36 Luecke, Wilhelm, Baugeschäft</li><li>12 Morgenroth, Kreisbauernführ., Nehden</li><li>26 Papierfabrik</li><li>45 Reichsbahn, Güterabfertigung</li><li>20 Reichspost, Poststelle</li><li>16 Runge, Karl, Mühle</li><li>27 Schlüter, Joh., Fuhrunternehmen</li><li>17 Schütte, Bürgermeister</li><li>44 Schuhmacher, Friedrich, Autoreparatur</li><li>42 Schulte, Heinrich, Architekt</li><li>24 v. Spee, Wilderich, Graf, Schloß</li><li>25 Willbrand, G., Sauerländer Hof</li></ul></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Alpbach (Tirol)",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "Böglerhof, Gasthof, R. Moser"
+          },
+          {
+            "extension": "6",
+            "text": "Bürgermeisteramt"
+          },
+          {
+            "extension": "7",
+            "text": "Försterhaus der Reichsforstverwaltung"
+          },
+          {
+            "extension": "5",
+            "text": "Galtenberghaus, Inneralpbach b. Brixlegg"
+          },
+          {
+            "extension": "3",
+            "text": "Gasthaus „Post“Josef Margreiter, Alpbach, (Tirol)"
+          },
+          {
+            "extension": "4",
+            "text": "Gasthof Jakober, Othmar Radinger"
+          },
+          {
+            "extension": "1",
+            "text": "Kostenzer, Simon, Sägewerk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Alpirsbach (wrtb.)",
+        "entries": [
+          {
+            "extension": "163",
+            "text": "Agster, Adolf, Dentist."
+          },
+          {
+            "extension": "135",
+            "text": "Alpina, DUG., Großuhrenlager"
+          },
+          {
+            "extension": "194",
+            "text": "Anger, August, Obst, Hindenburgstr."
+          },
+          {
+            "extension": "232",
+            "text": "Armbruster, Andr., Gutsbes., Ehlenbogen."
+          },
+          {
+            "extension": "182",
+            "text": "Armbruster, Ernst, Ziegelw., Röttenberg"
+          },
+          {
+            "extension": "137",
+            "text": "Gebr. Armbruster, Mühle"
+          },
+          {
+            "extension": "294",
+            "text": "Armbruster, Herm., Bauer, Reinerzau"
+          },
+          {
+            "extension": "277",
+            "text": "Armbruster, J. G., Sägewerk, Reinerzau"
+          },
+          {
+            "extension": "176",
+            "text": "Armbruster, Joh., Sägewerk, Reinerzau"
+          },
+          {
+            "extension": "208",
+            "text": "Baader, Hilde, Ww."
+          },
+          {
+            "extension": "221",
+            "text": "Bär, Paula, Lebensmittel"
+          },
+          {
+            "extension": "112",
+            "text": "Baumgärtner, R., Elektromstr., Bach-Altenberg"
+          },
+          {
+            "extension": "173",
+            "text": "Bellharz, Max, Sägewerk, Reinerzau"
+          },
+          {
+            "extension": "280",
+            "text": "Benz, Robert, Gärtnerei"
+          },
+          {
+            "extension": "121",
+            "text": "Bernhardt, Herm., Konditorei, Bahnhof"
+          },
+          {
+            "extension": "152",
+            "text": "Bessler, Theodor, Schreißwaren"
+          },
+          {
+            "extension": "206",
+            "text": "Bezirksnotariat Alpirsbach"
+          },
+          {
+            "extension": "266",
+            "text": "Braun, Christian, Kolonialwaren."
+          },
+          {
+            "extension": "283",
+            "text": "Bulach, Emil, Altenbauer, Reinerzau"
+          },
+          {
+            "extension": "182",
+            "text": "Dautsche Sinfonie Orchester Parkmühle 9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"223 0 987 990\" data-label=\"Text\"><table><tbody><tr><td>238</td><td>Eberhardt, Alb., Masch.-Hdgl., Peterzell</td></tr><tr><td>262</td><td>Eberhardt, Wilh., Kolonialwaren</td></tr><tr><td>165</td><td>Eisenmann, Heinr., Sattlerei</td></tr><tr><td>178</td><td>Fantz, Oskar, Möbelwerkst., Röttenbach</td></tr><tr><td>147</td><td>Finkbeiner, Fr., Omnibusverk., Spitalstr. 10</td></tr><tr><td>139</td><td>Forstamt.</td></tr><tr><td>223</td><td>Frey, J., Dentistin, Hindenburgstr. 43</td></tr><tr><td>269</td><td>Gaststätte Auerhahn, Reinerzau</td></tr><tr><td>209</td><td>Gaststätte Bahnhof, Anton Homburger</td></tr><tr><td>155</td><td>Gaststätte Grüner Baum, Alschbachstr. 105</td></tr><tr><td>144</td><td>Gaststätte Haus Waldeck, Krähenbadstr. 85</td></tr><tr><td>207</td><td>Gaststätte Krone, Reutin</td></tr><tr><td>189</td><td>Gaststätte Linde, Fr. Blocher</td></tr><tr><td>201</td><td>Gaststätte Linde, Georg Wöhrl, Peterzell</td></tr><tr><td>180</td><td>Gaststätte Mittlere Mühle, Ehlenbogen</td></tr><tr><td>181</td><td>Gaststätte Ochsen, Bach-Altenberg</td></tr><tr><td>281</td><td>Gaststätte Röble, W. Beilharz</td></tr><tr><td>292</td><td>Gaststätte Schaublick, Wilh. Schneck</td></tr><tr><td>205</td><td>Gaststätte Schwanen, Marktpl. 5</td></tr><tr><td>180</td><td>Gemeindeverwaltung Ehlenbogen</td></tr><tr><td>291</td><td>Gemeindeverwaltung Peterzell u. Römlinsdorf</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"216 0 977 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">Austria</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>119</td>\n<td>Gemeindeverwaltung Röttenberg</td>\n</tr>\n<tr>\n<td>198</td>\n<td>Gemeindeverwaltung Vierundzwanzig Höfe</td>\n</tr>\n<tr>\n<td>293</td>\n<td>Gendarmerie-Amt</td>\n</tr>\n<tr>\n<td>192</td>\n<td>Gerst, Fritz, Metzger, Karlstr. 188</td>\n</tr>\n<tr>\n<td>202</td>\n<td>Glauner, Carl, Klosterbrauerei.</td>\n</tr>\n<tr>\n<td>128</td>\n<td>Glück, Frida</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Grieshaber &amp; Sohn, Sägewerk.</td>\n</tr>\n<tr>\n<td>161</td>\n<td>Grohe, Hans, Fbrkt.</td>\n</tr>\n<tr>\n<td>279</td>\n<td>Guhl, Fritz, Metzgerel.</td>\n</tr>\n<tr>\n<td>102</td>\n<td>Harzer, Karl, Gasthof, Aischfeld</td>\n</tr>\n<tr>\n<td>278</td>\n<td>Heinzelmann, Herm., Bauer, Reinerzau</td>\n</tr>\n<tr>\n<td>245</td>\n<td>Heinzelmann, Joh., Sägewerk, Reinerzau</td>\n</tr>\n<tr>\n<td>261</td>\n<td>Heinzelmann, Karl, Baugeschäft.</td>\n</tr>\n<tr>\n<td>276</td>\n<td>Heinzelmann, Wilh., Mößebauer, Reinerzau</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Henning, Kurt, Ad.-Hitler-Str. 1</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Franz Hettich, KG, Scharnierfbr.</td>\n</tr>\n<tr>\n<td>183</td>\n<td>Hildbrand, Joh., Wirtsch., Röttenberg</td>\n</tr>\n<tr>\n<td>260</td>\n<td>Karl Hopf &amp; Co., Radiotechn. Fbr., Schörzingen</td>\n</tr>\n<tr>\n<td>193</td>\n<td>Hotel Löwen-Post, Carl Glauner</td>\n</tr>\n<tr>\n<td>167</td>\n<td>Hotel Waldhotel Burghalde</td>\n</tr>\n<tr>\n<td>142</td>\n<td>Hotel Waldhotel</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"211 0 984 343\" data-label=\"Text\"><p><b>227 Katzensteiner, Dr. Bernh., Zahnarzt, Horst-<br/>Wessel-Str. 2</b><br/><b>101 Kaupp, Dr. med.</b></p></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 665 739 895\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"21 10 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>217</td>\n<td>Kaup, Rud., Install., Peterzell.</td>\n</tr>\n<tr>\n<td>287</td>\n<td>Kieuliger, Ernst, Sägewerk, Röttenberg</td>\n</tr>\n<tr>\n<td>141</td>\n<td>Klewitz, Stabszahl m. a. D., Ad.-Hitler-Str. 33</td>\n</tr>\n<tr>\n<td>114</td>\n<td>Klosterapotheke, Ad.-Hitler-Str. 272</td>\n</tr>\n<tr>\n<td>117</td>\n<td>Klosterdrogerie Robert Götz, Markstr. 113</td>\n</tr>\n<tr>\n<td>153</td>\n<td>Knöll, Herm., Gärtner, Spitalstr. 96</td>\n</tr>\n<tr>\n<td>184</td>\n<td>Kober, Christian, Gusthaus, Röttenberg</td>\n</tr>\n<tr>\n<td>236</td>\n<td>Krankenhaus, städt.</td>\n</tr>\n<tr>\n<td>185</td>\n<td>Kreissparkasse Freudenstadt</td>\n</tr>\n<tr>\n<td>127</td>\n<td>Kugler, Karl, Fahrräder.</td>\n</tr>\n<tr>\n<td>122</td>\n<td>Kurhaus Grezenbühl, Dr. G. Schalrer</td>\n</tr>\n<tr>\n<td>124</td>\n<td>Kurhaus Reinerzau, Bes. J. Rau</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Kytta-Werk, Heilpflanzen-Anbau</td>\n</tr>\n<tr>\n<td>164</td>\n<td>Leibiger, Albert, Baumaterialien.</td>\n</tr>\n<tr>\n<td>187</td>\n<td>Löffler, Ernst, Radio</td>\n</tr>\n<tr>\n<td>175</td>\n<td>Longhi, Johs., Altvogtsbauern, Reinerzau</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Müller, Wilhelm, Gemischtwr.</td>\n</tr>\n<tr>\n<td>142</td>\n<td>Mutschler, Alb., Sattlerm., Gerberstr. 68</td>\n</tr>\n<tr>\n<td>198</td>\n<td>Mutschler, Herm., Kol.W., Aischbachstr. 58</td>\n</tr>\n<tr>\n<td>125</td>\n<td>Pfarramt, ev., Reinerzau</td>\n</tr>\n<tr>\n<td>162</td>\n<td>Piau, Georg, Gutbes., Wellerhof.</td>\n</tr>\n<tr>\n<td>019</td>\n<td>Pian Gantt Klammern</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 988\" data-label=\"Text\"><p>267 Pfau, Johannes, Gutabes., Ehlenbogen.<br/>105 Pfau, Karl, Gasthaus, Reutin<br/>108 Pfau, Otto, Weinhdg., Römlinsdorf<br/>219 Pharm. Labor. Henninger &amp; Co, Ad.-Hitler-<br/>Straße 272<br/>108 Polizeiwachtmstr. Pfau<br/>218 Reichsbahn, Bahnhof<br/>241 Reichspost, Postamt<br/>258 Rinck, Albert, Bäckerei, Kreuzstr. 223.<br/>224 Alex. Rinck u. Sohn, Installation<br/>146 Rink, Oskar, Lederwr., Röttenbach<br/>177 Salzmann, Otto, Kolonialwr.<br/>122 Sanatorium Grezenbühl, Dr. med. G. Schairer<br/>138 Sanatorium Heilenberg, Hilde Baader<br/>204 Sanatorium Dr. Würz, Krähenbad.<br/>129 Sanitätshalbzug Alpirsbach, Aichelbachstr. 70<br/>219 Sauter, Klara, Ww.<br/>126 Schäfer, Fr., Möbelfabrik.<br/>156 Scheerer, Joh., Fahrzeuge, Röttenberg<br/>264 Scheib, Gottlieb, Metzgerei, Röttenbach.<br/>109 Scheiffelen, Otto, Fischzucht, Eselswiese 50</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 946 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>134</td>\n<td>Schillinger, Otto, Metzgerei</td>\n</tr>\n<tr>\n<td>292</td>\n<td>Schneck, Wilh.</td>\n</tr>\n<tr>\n<td>228</td>\n<td>Schondelmaier, Wilh., mech. Werkstatt</td>\n</tr>\n<tr>\n<td>285</td>\n<td>Schutz, Florian, Bäckerei.</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Schwab, Friedrich, Kolonialwaren.</td>\n</tr>\n<tr>\n<td>222</td>\n<td>Schwarzwälder Teppichweberei</td>\n</tr>\n<tr>\n<td>107</td>\n<td>Schwenk, Gotth., Schweinehdl., Röttenberg</td>\n</tr>\n<tr>\n<td>295</td>\n<td>Schwenk, Gust., Schweinehdlg., Aischfeld</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Stadtpfarramt, Evang.</td>\n</tr>\n<tr>\n<td>136</td>\n<td>Stadtpfarramt, Kathol.</td>\n</tr>\n<tr>\n<td>208</td>\n<td>Stadtverwaltung</td>\n</tr>\n<tr>\n<td>236</td>\n<td>Städt. Krankenhaus Alpirsbach, Dr. Würz</td>\n</tr>\n<tr>\n<td>151</td>\n<td>Otto u. Ernst Steurer, Textilwerk</td>\n</tr>\n<tr>\n<td>132</td>\n<td>Summ, Christ., Vertr., Romishorn</td>\n</tr>\n<tr>\n<td>133</td>\n<td>Unsöld, Andr., Mühle, Römlinsdorf</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Volksbank Alpirsbach e. G. m. b. H.</td>\n</tr>\n<tr>\n<td>215</td>\n<td>Vosseler, Carl, Fahrräder.</td>\n</tr>\n<tr>\n<td>154</td>\n<td>Wacker, Rich., Autoreparatur, Röttenbach.</td>\n</tr>\n<tr>\n<td>268</td>\n<td>Waidmann, Jakob, Bäckermeister.</td>\n</tr>\n<tr>\n<td>186</td>\n<td>Walter, Christian, Landwirt, Reutin</td>\n</tr>\n<tr>\n<td>174</td>\n<td>Wolter, Math.      Osthofen      Dainawer</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 887 966\" data-label=\"Text\"><p>229 Weingold, Wilh., Kolonialwaren.<br/>149 Wesle, Dr. O., Arzt<br/>188 Widmann, Wilh., Manufakturwr.<br/>131 Wiggert, Alfr., Modenhaus<br/>113 Wörner, Hans, Architekt, Schillerstr. 10<br/>171 Wörner, J. G., Knechtsbauer, Reinerzau<br/>123 Wirth, Karl, Eisenhandlung.<br/>116 Würz, Dr. Hans, Arzt<br/>157 Zeller, Wilh., Bäckerei, Röttenberg<br/>182 Ziegelwerk Röttenberg</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 79 433 602\"}, {\"label\": \"Text\", \"bbox\": \"19 602 633 875\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Alsdorf (Kr. Aachen) [Rheinpr.]",
+        "entries": [
+          {
+            "extension": "333",
+            "text": "Aach. Bergmannsiedlungs GmbH, Ubach"
+          },
+          {
+            "extension": "334",
+            "text": "Dieselbe, Alsdorfer Busch, Eichenstr. 9"
+          },
+          {
+            "extension": "567",
+            "text": "Dieselbe, Siedlung, Ma Weidenhof 1"
+          },
+          {
+            "extension": "451",
+            "text": "Aachener Kleinbahn-Ges., Mariadorf."
+          },
+          {
+            "extension": "707",
+            "text": "Acker, Bernh., Musiklehrer, Broicherstr. 107"
+          },
+          {
+            "extension": "703",
+            "text": "Allg. Ortskrankenkasse, Annastr. 39"
+          },
+          {
+            "extension": "209",
+            "text": "Alsd. Genossenschaftsbank, Hindenburgstr. 34"
+          },
+          {
+            "extension": "454",
+            "text": "Alsdorfer Lichtspiele, Bahnhofstr. 51"
+          },
+          {
+            "extension": "258",
+            "text": "Andres, Gasthaus, Mariadorf, Bahnhofstr. 95"
+          },
+          {
+            "extension": "392",
+            "text": "Th. u. Wilh. Apweiler, Sand, Ubacher Weg 17"
+          },
+          {
+            "extension": "178",
+            "text": "Arbeitsamt, Nebenst. Alsdorf, Hubertusstr."
+          },
+          {
+            "extension": "525",
+            "text": "Arns, Anton, Gruppenf., Bw Aach. Str. 145"
+          },
+          {
+            "extension": "318",
+            "text": "Arns, F., Fleischerei, Ubach II, Hamb. Str."
+          },
+          {
+            "extension": "386",
+            "text": "Atrium-Lichtspiele, Annastr. 53"
+          },
+          {
+            "extension": "770",
+            "text": "Aufbauschule, Staatl., Hindenburgstr. 40"
+          },
+          {
+            "extension": "518",
+            "text": "Bauer, Fritz, Mariadorfer Str. 26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 969 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>27</td>\n<td>Baumanns, Josef, Lebensin., Bahnhofstr. 49</td>\n</tr>\n<tr>\n<td>57</td>\n<td>Beck, Franz, Spediteur, Aachener Str. 4</td>\n</tr>\n<tr>\n<td>55</td>\n<td>Beck, Wilh., Gaststätte, Bahnhofstr. 48</td>\n</tr>\n<tr>\n<td>17</td>\n<td>Beckers, F., Elektr. Anl., Broicher Str. 53</td>\n</tr>\n<tr>\n<td>84</td>\n<td>Beckers, Peter, Restaur., Siedlung Busch</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Beckers, Sib., Weine, J.-Goebbels-Str. 23</td>\n</tr>\n<tr>\n<td>02</td>\n<td>Beckers, Therese, Hebamme, Bahnhofstr. 40</td>\n</tr>\n<tr>\n<td>44</td>\n<td>Berkemeier, Krim.-O.-Assistent, Hitlerstr. 8</td>\n</tr>\n<tr>\n<td>17</td>\n<td>Berners, Felix, Milchhandel, Schaufenberg, Richthofenstr. 29</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Berster, Dr., Arzt, Höngen, Goethestr. 11</td>\n</tr>\n<tr>\n<td>75</td>\n<td>Bertram, H., Autoverleih, Gellenk. Str. 21</td>\n</tr>\n<tr>\n<td>77</td>\n<td>Berufsschule d. Zweckverbandes, Kirchstr. 7</td>\n</tr>\n<tr>\n<td>70</td>\n<td>Beuth, Dr. W., Arzt, Ubach 2, Roernond. Str.</td>\n</tr>\n<tr>\n<td>32</td>\n<td>Biesel, Pet., Bergingen., <i>Bw</i> Ubacher Weg 12</td>\n</tr>\n<tr>\n<td>87</td>\n<td>Birgel, J., Brennerei, <i>Hö</i> Jülicher Str. 172</td>\n</tr>\n<tr>\n<td>02</td>\n<td>Birgel, Willy, Drogerie, <i>Hö</i> Jülicher Str.</td>\n</tr>\n<tr>\n<td>69</td>\n<td>Birken, Joh., Landwirt, Gut Kellersberg</td>\n</tr>\n<tr>\n<td>93</td>\n<td>Bock, Joh., Feinkost, <i>Ad</i> Aachener Str. 43</td>\n</tr>\n<tr>\n<td>26</td>\n<td>Bodden, Adam, Restaurant, = Kellersberg</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Bodden Matth. <i>Mahal</i> Kellersberg</td>\n</tr>\n</tbody>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 915 446\" data-label=\"Text\"><p>58 <b>Boitersdorf, Markt, Warden, Goetnestr.</b><br/>38 <b>Borgmann, M., Restaur., Md Marienstr. 24</b><br/>63 <b>Boventer, Dr., Arzt, Martinstr. 1</b><br/>44 <b>Brandt, Jul., Elektr. Anl., Bw Aachener Str.</b><br/>47 <b>Braun, Gerh., Porzellan, Bw Bhfstr. 1</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 10 998 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>469</td>\n<td>Braun, Gerh., Autoverm., <i>Bw</i> Hitlerstr. 61</td>\n</tr>\n<tr>\n<td>445</td>\n<td>Braun, Gerh., Vertret., <i>Bw</i> Bahnhofstr. 12</td>\n</tr>\n<tr>\n<td>517</td>\n<td>Braun, Jos., Getreide, <i>Bw</i> Liunicher Str. 235</td>\n</tr>\n<tr>\n<td>489</td>\n<td>Brepols, Leo, Landw., Buschhof</td>\n</tr>\n<tr>\n<td>568</td>\n<td>Breuer, Arn., Fleischerel, Oitweiler, Bahnhofstraße 13</td>\n</tr>\n<tr>\n<td>653</td>\n<td>Breuer, Franz, Fuhrgesch., Bettendorf</td>\n</tr>\n<tr>\n<td>375</td>\n<td>Breuer, Gottfr., Sandgrube, Richth. Str. 55</td>\n</tr>\n<tr>\n<td>503</td>\n<td>Breuer, Hub., Lebenam., Broicherstr. 119</td>\n</tr>\n<tr>\n<td>619</td>\n<td>Breuer, J., Holzabfallverw., <i>Hö</i> Jülicher Str.</td>\n</tr>\n<tr>\n<td>698</td>\n<td>Breuer, Josef, Fleischerel, Broicher Str.</td>\n</tr>\n<tr>\n<td>316</td>\n<td>Breuer, Josef, Metzgerei, Herzugenr. Str.</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Breuer, Matth., Metzgerei, Schaufenberg.</td>\n</tr>\n<tr>\n<td>323</td>\n<td>Brosius, Heinr., Metzgerei, <i>Hö</i> Kirchstr. 60</td>\n</tr>\n<tr>\n<td>439</td>\n<td>Brüggemann, D., Bäckerei, Goebbelsstr.</td>\n</tr>\n<tr>\n<td>241</td>\n<td>Bürgermeisteramt Alsdorf, Hindenburgstr. 54</td>\n</tr>\n<tr>\n<td>738</td>\n<td>Bürgermeisteramt Baesweiler, Aachener Str. 280</td>\n</tr>\n<tr>\n<td>251</td>\n<td>Bürgermeisteramt Hönigen, Aachener Str. 1</td>\n</tr>\n<tr>\n<td>523</td>\n<td>Büttgen, Wilh., Metzgerei, <i>Bw</i> Breite Str. 8</td>\n</tr>\n<tr>\n<td>338</td>\n<td>Burbach, Christ., Bierverlag, Alsdorfer Burg</td>\n</tr>\n<tr>\n<td>435</td>\n<td>Buttenbruch, Carl, Restaur., Bahnhofstr. ",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 991 995\" data-label=\"Text\"><p>453 Carduck, Leonh., Metzger, <i>Md</i> Bhfstr. 48<br/>385 Claßen, Heinrich, Restaurant, Zopp<br/>330 Claßen, Jos., Kfm., -Zopp, Prämienstr. 7<br/>337 Corsten, Christ., Zahnarzt, Grenzweg 3<br/>226 Creuels, Hub., Kohlen, <i>Bw</i> Bahnhofstr. 13<br/>521 Cüpper, Herm., Restaur., <i>Md</i> Querstr. 16<br/>588 Dautzenberg, Jos.. Baumschulen, Baesweiler.<br/>374 Decker, Franz, Baugesch., Richthofenstr. 35<br/>425 Delahaye, Carl, Walzenmühle, <i>Md</i> Aach. Str.<br/>756 Derichs, Jos., Kol.-W., <i>Bw</i> Breite Str.<br/>557 Derichs, Josef, Fleischerei, Goebbelstr.<br/>512 Derichs, Margarete, Drogen, Broicherstr. 113<br/>452 Derichs, Mart., Metzgerei, Annastr. 3<br/>236 Deutsches Frauenwerk, Broichweiden, Saar-<br/>straße 24<br/>428 Dohmen, Tierarzt, Annastr. 29<br/>307 Dohmen, Wilh., <i>Hö</i> Marktstr. 6<br/>417 Dohms, Jos., Kol.-W., <i>Hö</i> Jülicher Str. 121<br/>245 Dohms, Wilh., Bauer, <i>Bw</i> Maarstr. 10<br/>214 Dullhausen, Th., Fahrschule, Hindenb.Str. 6<br/>488 Dormanns. Jean. Eisenwr., Hindenb.Str. 101</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>543</td>\n<td>Dovermann, H., Konditorei, Broichweiden 4, Saarstr. 33</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Dreessen, Hub., Landeserzeugn., Boscheln</td>\n</tr>\n<tr>\n<td>371</td>\n<td>Dresse, Heinz, Gastw., Bahnhofstr. 34</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Dreß, Joseph, Gärtnerei, Annastr. 27</td>\n</tr>\n<tr>\n<td>632</td>\n<td>Dressen, Wilh., Restaur., <i>Od</i> Bahnhofstr. 10</td>\n</tr>\n<tr>\n<td>595</td>\n<td>Drögemeyer, F., Isolierungen, Burgstr.</td>\n</tr>\n<tr>\n<td>259</td>\n<td>Emundts, Hch., Metzgerei, <i>Hö</i> Kirchstr. 80</td>\n</tr>\n<tr>\n<td>792</td>\n<td>Emundts, Paul, Heizungsanl., <i>Hö</i> Markt 36</td>\n</tr>\n<tr>\n<td>592</td>\n<td>Emundts, René, Zahnarzt, <i>Hö</i> Schillerstr. 79</td>\n</tr>\n<tr>\n<td>561</td>\n<td>Engelen, Josef, Baugesch., Linnicherstr 2</td>\n</tr>\n<tr>\n<td>268</td>\n<td>Engelen, Leo, Transporte, Herzogenr.Str. 60</td>\n</tr>\n<tr>\n<td>712</td>\n<td>J. u. M. Engels, Stuckgesch., <i>Bw</i> Hindenb.Str.</td>\n</tr>\n<tr>\n<td>713</td>\n<td>Errenst, Heinrich, Schreinerei, Annastr. 35.</td>\n</tr>\n<tr>\n<td>578</td>\n<td>Eschweiler, Wirtschaft, <i>Od</i> Marienstr. 1</td>\n</tr>\n<tr>\n<td>723</td>\n<td>Eschweiler Bergwerksverein, Grube Anna I</td>\n</tr>\n<tr>\n<td>725</td>\n<td>Derselbe, Grube Anna II, Kokereiabt.</td>\n</tr>\n<tr>\n<td>731</td>\n<td>Derselbe, Grube Maria, Mariadorf</td>\n</tr>\n<tr>\n<td>783</td>\n<td>Ders., Steinkohlenbergwerk Siersdorf</td>\n</tr>\n<tr>\n<td>280</td>\n<td>Eschweiler, Fritz, Restauration, Annastr. 48</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Text\"><p>508 Esser Sohn, Frz., Brennerei, <i>Hö</i> Kirchstr. 37<br/>487 Esser, Joh., Kol.-W., <i>Ma</i> Aachener Str. 79<br/>580 Esser, Robert, <i>Hö</i> Kirchstr. 39<br/>660 Ev. Schwesternstation, <i>Bw</i> Wolfsweg 8<br/>250 Evangel. Pfarramt, Bahnhofstr. 10<br/>351 Feldmann, Eugen, Metzgerel, <i>Bw</i> Hitlerstr. 45<br/>241 Feuerlöschpolizei<br/>565 Fincken, H., Zigarren, Hindenburgstr. 18<br/>538 Fliegen, J., Autotransp., <i>Bw</i> Aach. Str. 282<br/>635 Gottfr. u. J. Florack, Sattler, Linnicher Str. 4<br/>645 Flüß, Fritz, Dentist, <i>Bw</i> Hitlerstr. 44<br/>530 Franzen, Carl, Gut Kranenthalsmühle, Ofden<br/>349 Freiwr. Feuerwehr, <i>Bw</i> Jülicher Str. 23<br/>312 Frings, Theod., Mühle, <i>Hö</i> Langstr. 26<br/>213 Frings, Wilh., Gastw., <i>Ma</i> Blumenr. Str. 24<br/>708 Füllbeck, Heinr., Eisengieß., Neusen<br/>355 Fuchs, Josef, Herde, Bahnhofstr. 67<br/>448 Funken, Jos., Eisengieß., <i>Ma</i> Blumenr. Str.<br/>(738) Gemeindekasse, Baesweiler<br/>(252) Gemeindekasse, Höngen<br/>(41) Gemeindeverwaltung Aiedorf Nr. Aachen</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 979 992\" data-label=\"Text\"><p>220 Gendarmerie-Amtsdereich, <i>Hö</i> Aach. Str. 42<br/>149 Genius-Apotheke, Hindenb. Str. 24<br/>586 Genuit, Rentmeister, Ottenfeld.<br/>265 Gerätewart, <i>Id</i> Luisenstr. 142<br/>563 Gerards, Jos., Gastw., Neusen, Broichwelden 2<br/>727 Gerards, Jos., Gut Altmerbern<br/>310 Gerhards, Heinrich, Bäckerei, Aachener Str.<br/>582 Ges. für Teerverwertung mbH, Duisburg-<br/>Meiderich<br/>507 Gewerbebank Alsdorf eGmbH, Bhfstr. 70<br/>341 Gewerksch. Carl Alexander, Kohlenbergwerk,<br/>Baesweiler<br/>582 Gieselmann, Walter, Urbacher Weg<br/>266 Giesen, Michael, Kohlen, <i>Hö</i> Langstr. 20<br/>56 Glückauf-Apotheke, A. Schmitz, Bahnhofstr.<br/>506 Glückauf-Drogerie, Bürschgens, Bhfstr. 46<br/>505 Göbbels, Joseph, Gastw., Richthofenstr. 83<br/>36 Göbbels, Wilh., Delikatesse, Hdbg. Str. 12<br/>586 Goebels, Dr. Rudolf, Arzt, Aachener Str. 41<br/>28 Görres, Karl, Hotel, <i>Hö</i> Jülicher Str. 155<br/>35 Goertz, Franz. Metzgerei. Schaufenberg. Lui-</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"75 0 286 25\" data-label=\"Page-Header\">SUISIA. 177</div><div data-bbox=\"0 25 964 978\" data-label=\"List-Group\"><p>45 Götting, Ad., Gemüse, <i>Bw</i> Breite Str. 55<br/>92 Grafen, Dr. Franz, Zahnarzt, <i>Md</i> Bhfstr. 77<br/>96 Gronenschild, Jos., Möbel, <i>Bw</i> Kirchstr. 65<br/>83 Grothenrath, Kasp., Lederhdlg., Broicher Str. 98<br/>29 Hafers, Andreas, Herzogenrather Str. 24<br/>77 Handelschule Alsdorf, Kirchstr. 7<br/>33 Harren, P., Landw., Oidtweiler, Hdbgstr. 54<br/>88 Hartmann, Pet., Agentur, <i>Md</i> Blumenr. Str.<br/>60 Haußmann, Dr. O., Arzt, <i>Bw</i> Aach. Str. 157<br/>81 Haußner, H., Apotheker, <i>Md</i> Bhfstr. 75<br/>74 Heidemanns, Hubert, Josef-Göbbels-Str. 25<br/>73 Hein, Peter, Bauer, Schaufenberg, Luisenstr.<br/>14 Helden, Gerh., Gastwirt, Richthofenstr. 59<br/>73 Hennecken, M., Lebensm., <i>Bw</i> Hindenburgstr. 53<br/>71 Hetzel, Emil, Herrenbekl., Bahnhofstr. 68<br/>21 Hilgers, G., Heizungsanl., Linnicher Str. 21<br/>92 Hilgers, Josef, Dachdecker, Geilenk. Str. 24<br/>51 Hilgers, Pet., Bedachung, Ubacher Weg 83<br/>10 Höpker, Heinrich, Manufakturwr., Bhfstr. 38<br/>91 Hogen, Gerh., Restaur., <i>Hö</i> Marktstr. 62</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/>This image is a completely blank white page. It contains no text, markings, or illustrations. It appears to be a separator page or a page with no content from a document.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 10 801 993\" data-label=\"Text\"><p>509 Holhorst, Wilh., Ing., Querstr. 31<br/>291 Hollands, Joh., Stuckgesch., Hindenb.Str. 99<br/>458 Honneff, Bernh., Maler, Herzogenr.Str. 87<br/>(457) Hotel Alsdorfer Hof, Aach.Str. 4<br/>381 Hoven, W., Modehaus, Bahnhofstr. 28<br/>387 Hupperts, Willy, Radio, Bahnhofstr. 34<br/>273 Jacobs, K., Bedachungsgesch., Hindenb.Str. 83<br/>467 Jansen, Aug., Maler, J.-Goebbels-Str. 59<br/>463 Jansen, Jos., Metzgerel, Boschelu, Aach. Str.<br/>641 Jansen, Theodor, Stuckgesch., Ubacher Weg 67<br/>572 Janser, Hch., Pferdemetzger, Broicherstr. 104<br/>759 Jeha, Ad., Immobilien, Annastr. 34<br/>261 Jöris, Joh., H.-Bekleid., Hindenbg.Str. 10<br/>267 Johnen, Franz, Restaur., Hö Kirchgasse 14<br/>584 Johnen, K., Pliesternstr., Hö Jül. Str. 67<br/>395 Jordans, Jakob, Autotransp., Hö Kirchstr. 41<br/>650 Jorgas, Hubert, Viehtransp., Oldtweller, Mar-<br/>tinstraße 30<br/>313 Jorgas, Josef, Viehhdlg., Bw Breite Str. 32<br/>379 Jorgas, Leo, Tischlerei, Bw Maarstr. 48<br/>279 Jorgas, Ludw., Gasthof, Bw Maarstr. 56<br/>A24 Tosten Tannen Dantzen Markneukirchen Ham</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"86 0 244 42\" data-label=\"Text\"><p>bückerstr.</p></div><div data-bbox=\"0 42 798 992\" data-label=\"List-Group\"><ul><li>367 Kahlen, Reiner, Kantine, <i>OdBroicher</i> Str. 8</li><li>335 Kaiser, Otto, Tuchgesch., Bahnhofstr. 30</li><li>760 Kamphausen, W., Textilw., <i>Bw</i> Kirchstr. 51</li><li>778 Kappertz, Hch., Gastwirt, <i>Hö</i> Kirchstr. 78</li><li>458 Kappes, P. J., Möbel, Peka, Hindenb.Str. 48</li><li>553 J. u. P. Karduck, Dachdecker, <i>Hö</i> Marktstr. 11</li><li>393 Karduck, Matth., Bedachung, Luisenstr. 14</li><li>361 Kellenter, A., Fleischerei, Oidtweiler, Baer-<br/>weiler Str. 7</li><li>234 Kellenter, Joh., Radio, <i>Bw</i> Hindenburgstr. 4</li><li>447 Keller, Franz, Brauerei, <i>Bw</i> Hitlerstr. 53</li><li>609 Keller, Heinr., Transp., Hindenb.Str. 72</li><li>513 Kelleter, Jos., Lichtspiele, <i>Od</i> Aachener Str.</li><li>519 Kemmer, Jos., Gastw., Marktpl. 12.</li><li>407 Keufen, H., Fleischerei, Hindenb.Str. 69</li><li>694 Keufen, Heinr., Milch, <i>Bw</i> Roskaulstr. 23</li><li>304 Keutmann, Leo, Uhren, Hindenb.Str. 60</li><li>672 Kirfel, Leo, Steuerhelfer, Goebbelsstr. 1</li><li>370 Kistermann, Walt., Gastw., <i>Bw</i> Aach. Str. 1</li><li>207 Klapproth, Fritz, Buchdruck., Überheide Nr. 3</li></ul></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 794 972\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>510</th>\n<th>AACHEN, DUS., LEIPZIG, MAINZ, etc.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>562</td>\n<td>Kling, Ww. Georg, Herrenkleid., Bhfstr. 58</td>\n</tr>\n<tr>\n<td>328</td>\n<td>Knops, Ant., Blumenhdg., Annastr. 54</td>\n</tr>\n<tr>\n<td>762</td>\n<td>Koch, Josef, Makler, Hindenb.Str. 60</td>\n</tr>\n<tr>\n<td>605</td>\n<td>Kochs, Hub., Bierverlag, Beggendorf, A.Hitler-Straße 26</td>\n</tr>\n<tr>\n<td>549</td>\n<td>Kochs, Jakob, Baumstr., <i>Bw</i> Hindenb.Str. 49</td>\n</tr>\n<tr>\n<td>415</td>\n<td>Kochs, Matth., Öfen, Bahnhofstr. 55</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Kochs, M., Eisenwr., Streiffeld, Provinzialstr.</td>\n</tr>\n<tr>\n<td>388</td>\n<td>Kochs, Peter, Architekt, AachenerStr. 57</td>\n</tr>\n<tr>\n<td>541</td>\n<td>Kochs, Peter, Autorepar., <i>Bw</i> AachenerStr. 219</td>\n</tr>\n<tr>\n<td>594</td>\n<td>Kockerols, Landw., Petershof, Oidtweiler</td>\n</tr>\n<tr>\n<td>520</td>\n<td>Kommer, Kaspar, Deutsches Haus, Mariadorf, Blumenrather Str. 4</td>\n</tr>\n<tr>\n<td>485</td>\n<td>Kommer, Leo, Metzgerei, <i>Ma</i> Querstr. 10</td>\n</tr>\n<tr>\n<td>322</td>\n<td>Kramer, A., Optikermstr., Bahnhofstr. 48</td>\n</tr>\n<tr>\n<td>403</td>\n<td>Krauth, Friedr., Bäckerei, Kirchstr. 21</td>\n</tr>\n<tr>\n<td>380</td>\n<td>Kreissparkasse Aachen, Grenzweg 2</td>\n</tr>\n<tr>\n<td>356</td>\n<td>Kreissparkasse Gellenkirchen, <i>Bw</i> Hitlerstr.</td>\n</tr>\n<tr>\n<td>202</td>\n<td>Kremer, Gottfr., Installat., J.-Goebbelsstr. 2</td>\n</tr>\n<tr>\n<td>733</td>\n<td>Kresimon, Walter, Bäckerei, Bahnhofstr. 32</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 790 995\" data-label=\"Text\"><p>498 Krichel, Felix, Lindenhof, Ubach 2, Roermon-<br/>der Straße 173<br/>648 Krichel, Wilh., Gastwirt, <i>Bw</i> Hitlerstr. 24<br/>237 Krieger, Jos., Eisenwr., <i>Hö</i> Jülich. Str. 133<br/>246 Krings, Jos., Bedachung, <i>Bw</i> Peterstr. 92<br/>416 Kronenbrotfbr. Franz Mainz, Neusen.<br/>418 Krückels, Dr. med., Arzt, <i>Md</i> Bhfstr. 30<br/>646 Küpper, Hilde, Frau, Luisenstr. 51<br/>765 Küpper, Paul, Insp., Broicher Str. 34<br/>593 Küppers, Ernst, Landw., Neumerbern<br/>336 Küppers, Dr. Ludwig, Arzt, Hdbgstr. 18<br/>714 Kurth, Jacob, Restaurant, J. GoebbelsStr. 45<br/>360 Kurth Nf., Jos., Tabak, Ubacher Weg 61<br/>576 Laumen, Dr., Arzt, Schaufenberg, Scheidefuhr<br/>390 Lautermann, Rich., Manuf.-W., Kellersberg,<br/>Broicher Str. 173<br/>491 Laven, Josef, Lebensmittel, Bahnhofstr. 62<br/>710 Leesmeister, Dr., Zahnarzt, Hindenb. Str. 10<br/>526 Lennartz, K., Zimmergesch., <i>Bw</i> Roskaulstr.<br/>781 Lennartz, P., Papierhdlg., Hdbgstr. 53<br/>529 Lenzen, Rich., Uhrmach., <i>Bw</i> Hitlerstr. 21</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 784 993\" data-label=\"Text\"><p>304 Linnpfeil, Will., Lauwirl, uul Diabsteln<br/>303 von der Linde, Rudolf, Kohlenhandel und Trans-<br/>porte, Hindenburgstr. 36<br/>397 Lingen, Dr., Zahnarzt, <i>Bw</i> Burgstr. 8<br/>591 Gebr. Linkens, Getreide, Aachener Str. 41<br/>793 Lohe, Jos., Fischhdlg., <i>Bw</i> Hitlerstr. 47<br/>344 Loogen, Amtsgrentmstr., <i>Bw</i> Breite Str. 47<br/>337 Loogen, Herm., Fleischerei, <i>Hö</i> Falterstr. 11<br/>571 Lübers, Franz, Gastst., Herzogenr.Str. 96<br/>342 Lück, Walt., Autovermiet., <i>Bw</i> A.d.Waad 12<br/>378 Maaßen, Joh., Gastst., Hindenb.Str. 8<br/>381 Maaßen, Karl, Spedition, Hindenb.Str. 75<br/>393 Mahr, Aug., Modewr., <i>Bw</i> Kirchstr. 34<br/>308 Mainz, Jos., Baugesch., <i>Bw</i> Hitlerstr. 30<br/>337 Mainz, Josef, Gastw., Bahnhofstr. 48<br/>348 Mainz, Matth., Gärtnerei, <i>Md</i> Jülich. Str. 2<br/>331 Manguay, Adolf, Gastwirtsch., Castorstr. 8<br/>310 Mannheim, Franz, Archit., Luisenstr. 10<br/>319 Manstetten, Otto, Landw., Schleibacherhof<br/>387 Maqua, Kasp., Schreinerei, Geilenk. Str. 64<br/>381 Marienapotheke. Mariadorf. Bahnhofstr. 75</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 776 979\" data-label=\"Text\"><p>28 Matejka, Ed., Lebensm., Ubacher W. 43<br/>39 Matzereath, F., Schornsteinf., <i>Bw</i> Löffelstr. 2<br/>49 Maus, Dr. Otto, Arzt, <i>Bw</i> Hindenburgstr. 41<br/>39 Geschw. Meertens, Fleischerei, Broicher Str. 120<br/>23 Meertens, Hub., Metzgerei, Hindenb. Str. 2<br/>75 Meertens, L., Anstreicherin., Broicherstr. 110<br/>85 Meis, Johann, Baugesch., Ubacher Weg 63<br/>75 Meisenberg, Jos., Gastst., <i>Md</i> Bahnhofstr. 113<br/>82 Menschel, Kurt, Konditorei, Bhfstr. 54<br/>57 Mertens, Hubert, Restaur., Aachener Str. 3<br/>39 Mertens, Joh., Metzger, <i>Md</i> Aach. Str. 41<br/>66 Mertens, Josef, Fuhrw., Franzstr. 25<br/>98 Mertens, Josef, Gem.-W., Ubach 2, Hamburg<br/>bücker Str. 65<br/>30 Mertens, Peter, Mühle, <i>Hö</i> Jülicher Str. 208<br/>96 H. Mickartz Ww. u. Söhne, Möbel, Annastr. 55<br/>06 Mickartz, Hub., Bäckerei, Bahnhofstr. 53.<br/>63 Mirbach, Joh., Transp., <i>Bw</i> Langemarckstr. 40<br/>69 Mirbach, Matth., Milchhdlg., <i>Bw</i> Hindenb. Str 13<br/>77 Mirbach, Willy, Kaufhaus, <i>Bw</i> Kirchstr. 58</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the light beige background of the document.\"/></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

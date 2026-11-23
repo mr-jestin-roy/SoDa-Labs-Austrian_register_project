@@ -1,0 +1,868 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"257 50 630 321\"}, {\"label\": \"Text\", \"bbox\": \"298 375 998 960\"}]",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"314 0 943 962\" data-label=\"Text\"><p><b>Friedrich Jeske</b><br/><b>Schreibwaren und Bürobedarf</b><br/><b>Litzmannstadt, Adolf-Hitler-Str. 11</b><br/><b>Fernsprecher 182 99</b></p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mainz.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Lahn).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Marienwerder (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Metz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Ernst Billeter",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Müllhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Ferdinand Dübich",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Münster (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"246 0 414 26\" data-label=\"Page-Header\">\n<p>1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"924 792 994 938\" data-label=\"Page-Footer\"><p><b>85</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Oldenburg (Oldb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Pilsen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Neumann &amp; Chmelíček",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"54 61 172 291\"}, {\"label\": \"Text\", \"bbox\": \"246 33 818 852\"}]",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "J. Puhoný &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Chemische FabrikRUPP ANDREWS",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"37 15 354 929\" data-label=\"Image\"><img alt=\"Circular logo of the German Democratic Republic (DDR) featuring a hammer and sickle, a star, and the text 'DEUTSCHE DEMOKRATISCHE REPUBLIK'.\"/>The image shows the official emblem of the German Democratic Republic (DDR). It is a circular seal with a thick black border. Inside the border, the words 'DEUTSCHE DEMOKRATISCHE REPUBLIK' are written in a bold, sans-serif font, following the curve of the circle. The center of the seal features a stylized hammer and sickle superimposed on a five-pointed star. The background of the center is light, while the hammer, sickle, and star are dark.</div><div data-bbox=\"401 0 998 977\" data-label=\"Text\"><p>Prag II., Rosengasse 13<br/>Fabrik Satalitz bei Prag.<br/>Kohle- u. Indigopapiere, Farb-<br/>bänder, Vervielfältigungszube-<br/>hör, Stempelkissen, Klebstoffe<br/>Fernruf: 262 73</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Quedlinburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Radebeul-Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Ratibor (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ravensburg (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Regen (Bayr. Ostmark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Rostock (Seestadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "St. Pölten (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Schlawa (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwarzenberg (Erzgeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Willi Lorenz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Schweinfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Seyda b. Zahna.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "1. Bürobedarf — 884. Büroein",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Stolp (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Straßburg (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"238 70 795 335\"}, {\"label\": \"Text\", \"bbox\": \"278 389 747 546\"}, {\"label\": \"Text\", \"bbox\": \"57 559 963 736\"}, {\"label\": \"Text\", \"bbox\": \"316 770 715 945\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Süßeln (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Sundern (Kr. Arnswerk) [Westf.].",
+        "entries": []
+      },
+      {
+        "region_name": "Trautenau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Vellbert (Rhd.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"201 114 526 437\" data-label=\"Text\"><p>Friedrichstr. 109</p></div><div data-bbox=\"15 500 610 937\" data-label=\"Text\"><p><b>Villach (Kärnten).</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Franz Holdermann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Waldorf (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Warnsdorf (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wiehe (Unstruttal).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Karl Bene &amp; Co.",
+        "entries": []
+      },
+      {
+        "region_name": "Alex Burdyl, Buchdruckerei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Duribell-Generalia",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>B3 43 06</td>\n<td>„Edra“ Filippi &amp; Sischka, Wien VII/62,<br/>Schottenfeldgasse 59</td>\n</tr>\n<tr>\n<td>B3 74 74</td>\n<td>Gerspacher, E., Fabrikat. von Patentfüll-<br/>federhaltern, VII/62, Neubaugasse 31</td>\n</tr>\n<tr>\n<td>U2 42 14</td>\n<td><b>Gordis Kommanditgesellschaft</b><br/><b>Lev &amp; Co.</b><br/>Büromöbel aus Holz und Stahl<br/>Registraturartikel<br/>Verkaufsbüro in Wien:<br/>Wien I/1, Trattnerhof 1 (Graben 29)</td>\n</tr>\n<tr>\n<td>R5 30 95</td>\n<td><b>L. &amp; G. Hardtmuth</b>, Koh-i-noor-Blei- u.<br/>Farbstiftefabrikation und Vertrieb, Wien<br/>IX/66, Liechtensteinstr. 155</td>\n</tr>\n<tr>\n<td>R2 75 40</td>\n<td><b>Huber &amp; Lerner</b> Druckerei, Papier-<br/>handlung<br/>Wien I/1, Kohlmarkt 7</td>\n</tr>\n<tr>\n<td>B3 30 32</td>\n<td><b>Index-Werke</b>, Fabrikation von Brieford-<br/>nern, Schnellheftern, modern. Bürobedarf,<br/>VII/62. Neubaugasse 56</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Karlo Kom. Ges. Gg. Krüger &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 981\" data-label=\"Text\"><table border=\"0\"><tr><td>U2 14 52</td><td rowspan=\"3\">{</td><td>Jos. Lustig &amp; Co., Papier- u. Schreib-</td></tr><tr><td>U2 61 02</td><td>warengroßhandlung, I, Hoher Markt 4</td></tr><tr><td>Sammel-</td><td>Ernst Miller, Papierwaren, Bürobedarf</td></tr><tr><td>Nr.</td><td>{</td><td>„Fortschritt“-Büroorganisation, Wien VI/</td></tr><tr><td>B2 75 14</td><td>{</td><td>56, Mariahilfer Str. 93</td></tr><tr><td>B3 50 92</td><td></td><td><b>Rudolf Reisinger</b><br/>Papierwaren, Büroartikel,<br/>Wien VII/62. Neubaugasse 34</td></tr></table></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "REX — SICHTKARTEI",
+        "entries": []
+      },
+      {
+        "region_name": "REX",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Richtungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"138 88 657 292\"}, {\"label\": \"Text\", \"bbox\": \"86 347 702 473\"}, {\"label\": \"Text\", \"bbox\": \"41 503 751 632\"}, {\"label\": \"Text\", \"bbox\": \"41 645 751 772\"}, {\"label\": \"Text\", \"bbox\": \"269 805 525 917\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Wilhelmshaven.",
+        "entries": []
+      },
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "883. Bürobedarf, technischer",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"10 102 188 320\"}, {\"label\": \"Text\", \"bbox\": \"14 343 780 717\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "884. Büroeinrichtungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Münden a. Deister.",
+        "entries": []
+      },
+      {
+        "region_name": "Baden-Baden.",
+        "entries": []
+      },
+      {
+        "region_name": "Bautzen.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Biberach (Riß) [Wrtb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

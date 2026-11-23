@@ -1,0 +1,963 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"692 766 988 930\" data-label=\"Text\"><p><b>463. BAUM</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Kolmar (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Bollschweiler &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Mesum (Westf.)",
+        "entries": []
+      },
+      {
+        "region_name": "M. Gladbach.",
+        "entries": []
+      },
+      {
+        "region_name": "Neukirchen (Pleiße).",
+        "entries": []
+      },
+      {
+        "region_name": "Oederan (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "",
+            "text": "A list of entries, each consisting of a handwritten number followed by a name or business name."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Alois Kindermann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Werdau (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "465. Baumwollgarne",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Bad Salzbrunn (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bludenz (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Burgstädt (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Falkenstein (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Groß Siegharts (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Reichenberg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with faint, illegible horizontal lines suggesting ghosting of text from the reverse side.\"/></div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 704 998 880\" data-label=\"Text\"><p><b>(Baumwollabfälle) — 470. BAU</b></p><hr/></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "466. Baumwollreißereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Weißbach (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"178 226 824 313\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Adorf (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Arnav (Riesengeb.) [Sudetenl.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "(Mastiger Spinnerei u. Webereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"58 75 146 600\" data-label=\"Text\"><p>mel.<br/>Nr.<br/>31</p></div><div data-bbox=\"164 20 950 950\" data-label=\"Text\"><p><b>Kommanditgesellschaft</b><br/>Baumwollspinnerei Mastig (Sudetenland)<br/>Webereien in Mastig u. Klein-Borowitz<br/>Nach den Amtstunden Dauerverbindung<br/>mit der Zentrale Trautenau</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Aue (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Berger, Andre &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 266 204 696\" data-label=\"Text\"><p><b>Nachod</b><br/><b>325</b></p></div><div data-bbox=\"353 26 836 917\" data-label=\"Text\"><p><b>Baumwollspinnerei</b><br/><b>S. KATZAU</b><br/><b>In Babe b. Nachod</b></p></div>",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Backnang (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Blaichach (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Bludenz (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Getzner, Mutter &amp; Cie.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Erlangen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 550 55\" data-label=\"Section-Header\"><p><b>1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. ",
+      "cells": [
+        "col2_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Marin-Astruc",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col2_sec19.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a white background with a dark border and a small black dot near the bottom right corner.\"/>This image shows a blank page from a 1942 German telephone directory. The page is white with a dark border. There is a small black dot in the lower right area. At the bottom, there are several small, dark, horizontal marks that appear to be scanning artifacts or page footers.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 996 135\" data-label=\"Section-Header\"><p>112 1 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 ",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Vereinigte Textilwerke A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Gronau (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hof (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Jüchen (Bez. Düsseldorf).",
+        "entries": []
+      },
+      {
+        "region_name": "Kaufbeuren (Allgäu).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"103 0 987 705\" data-label=\"List-Group\"><p>399 { \"vi\", Bleichanger 33<br/>12 { Dieselbe, Verkauf durch: Th. Momm &amp; Co.,<br/>13 { Baumwollspinnerei u. Weberei G. m. b. H.,<br/>399 { Bleichanger 33</p></div><div data-bbox=\"0 744 774 970\" data-label=\"Text\"><p><b>Kaysersberg (Oberels.).</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Baumwollspinnerei und Webereivorm. Kiener",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Kolbermoor (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kollnau (Breisgau).",
+        "entries": []
+      },
+      {
+        "region_name": "Kolmar (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Neue Spinnerei Kolmar A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 991 259\" data-label=\"Text\"><p><b>Korschenbroich (Bez. Düsseldorf).</b><br/>M. Gladbach 20387 Witt, Josef, Feinspinnerei Korschenbroich in Korschenbroich (Zwelgniederlassung der Firma Josef Witt, Weiden-Opf.)</p></div><div data-bbox=\"0 259 991 375\" data-label=\"Text\"><p><b>Krefeld.</b><br/>28466 Crefelder Baumwoll-Spinnerei, Spinn.-Str.</p></div><div data-bbox=\"0 375 991 630\" data-label=\"Text\"><p><b>Laak a. Zaier (Kärnten).</b><br/>10 Laaker Spinnerei und Zwirnerei<br/>G. m. b. H.,<br/>Laak a/Zaier (Kärnten)</p></div><div data-bbox=\"0 630 991 793\" data-label=\"Text\"><p><b>Leipzig.</b><br/>44571 Leipziger Baumwollspinnerei, Leipzig W 33<br/>Spinnereistr. 7. T Baumwolle P 1769</p></div><div data-bbox=\"0 793 991 995\" data-label=\"Text\"><p><b>Litzmannstadt.</b><br/>11068 { Baumwollmanufaktur Franz Ramisch A.G.<br/>11069 { Komm. Verwalter Edg. Stein,<br/>11090 { Litzmannstadt Adolf-Hitler-Straße 140</p></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"68 10 998 942\" data-label=\"Text\"><table><tr><td>10956</td><td rowspan=\"2\">{</td><td><b>SCNIOSSERSCHE Baumwollspinnerei u. Web-</b></td></tr><tr><td>25035</td><td><b>erei A.G. in Ozorkow, Pächter: M. Fogel</b></td></tr><tr><td></td><td></td><td><b>&amp; Co., Zentrale: Adolf-Hitler-Straße 5</b></td></tr></table></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Theodor Tietzen &amp; Co. A.-G.",
+        "entries": []
+      },
+      {
+        "region_name": "Baumwoll-Industrie",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Meerane (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Mittelsteine (Schles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Mittweida (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Molsheim (Unterels.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 770 251 950\" data-label=\"Text\"><p><b>irnereien)</b></p></div><div data-bbox=\"422 770 755 950\" data-label=\"Text\"><p>(Branchenteil) 73</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Müllhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Mülhauser Baumwollwerke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"86 102 676 391\"}, {\"label\": \"Text\", \"bbox\": \"187 442 562 636\"}, {\"label\": \"Text\", \"bbox\": \"66 704 347 865\"}, {\"label\": \"Text\", \"bbox\": \"411 704 701 865\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Spinnerei &amp; Weberei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Manufakturen HARTMANN &amp; SÖHNE",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Neuenkirchen (Kr. Steinfurt).",
+        "entries": []
+      },
+      {
+        "region_name": "Neupaka (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "G. A. Fröhlich's Sohn",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Neustadt (Orla).",
+        "entries": []
+      },
+      {
+        "region_name": "Nordwalde (Bez. Münster).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürtingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Osnabrück.",
+        "entries": []
+      },
+      {
+        "region_name": "Ozorkow (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Peterswaldau (Eulengebirge)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": [
+      {
+        "region_name": "Rheydt (Rhpr.).",
+        "entries": []
+      }
+    ]
+  }
+]

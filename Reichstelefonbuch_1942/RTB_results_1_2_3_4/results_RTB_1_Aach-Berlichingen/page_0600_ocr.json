@@ -1,0 +1,784 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 731 602 940\" data-label=\"Text\"><p><b>116 (Branchenteil)</b></p></div><div data-bbox=\"768 731 998 921\" data-label=\"Text\"><p><b>S43. Buc</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 10 998 196\" data-label=\"Text\"><p>Sammel-Nr. 70488 { <b>E. A. Enders</b><br/>Großbuchbinderei, C 1, Salomonstr. 10.<br/>P Leipzig 6341</p></div><div data-bbox=\"294 193 957 327\" data-label=\"Text\"><p>64251 <b>H. Fikentscher</b> Buchbinderei<br/>u. Verlag<br/>Leipzig O 5, Obere Münsterstr. 10</p></div><div data-bbox=\"294 327 998 418\" data-label=\"Text\"><p>61680 <b>Föste, Lüdecke, Bühnisch &amp; Co.,</b> C 1,<br/>Perthesstraße 2. P 3118</p></div><div data-bbox=\"294 418 998 510\" data-label=\"Text\"><p>60286 { <b>Friedrich, E. O.,</b> Buchbinderei, O 5, Täub-<br/>60287 {chenweg 83. P 52379</p></div><div data-bbox=\"254 510 998 601\" data-label=\"Text\"><p>SmI.-Nr. 64361 { <b>Fritzsche - Hager - Sieke,</b> O 5, Crusius-<br/>straße 4/6. P 50814</p></div><div data-bbox=\"254 601 998 780\" data-label=\"Text\"><p>Sammel-Nr. 72828 { <b>Th. Knaur—Hubel &amp; Denck</b><br/>Großbuchbinderei, C 1, Tauchaer Straße<br/>15b—17. T Knaurhübel P 1805</p></div><div data-bbox=\"254 780 998 871\" data-label=\"Text\"><p>SmI.-Nr. 64371 { <b>Köllner, A.,</b> Großbuchbinderei, O 5,<br/>Oststr. 24/26</p></div><div data-bbox=\"294 871 998 962\" data-label=\"Text\"><p>26087 <b>Gebr. Petri,</b> Buchbinderei, Leipzig C 1,<br/>Johannisgasse 30. P 16982</p></div><div data-bbox=\"294 962 998 993\" data-label=\"Text\"><p>ERQON Radlwehl August N 91 Salomonstr 92</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"292 0 998 321\" data-label=\"Text\"><p>11354 <b>Schöner, Hermann</b>, Buchbinderei, U 1,<br/>Seeburgstr. 14—20. P 6907</p></div><div data-bbox=\"249 313 933 661\" data-label=\"Text\"><p><b>SmI.-Nr. 64371 {H. Sperling</b> O 5, Ost-<br/>str. 24/26</p></div><div data-bbox=\"249 759 657 970\" data-label=\"Text\"><p><b>Marburg (Drau)</b></p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"376 15 866 282\"}, {\"label\": \"Text\", \"bbox\": \"425 334 815 477\"}, {\"label\": \"Text\", \"bbox\": \"358 490 885 651\"}, {\"label\": \"Text\", \"bbox\": \"287 649 960 805\"}, {\"label\": \"Text\", \"bbox\": \"516 800 718 955\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Neudamm (Neumark).",
+        "entries": []
+      },
+      {
+        "region_name": "Neumünster (Holst.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"287 44 952 950\" data-label=\"Text\"><p><b>Franz Andrejsek</b><br/><b>Ausführung</b><br/><b>sämtlicher</b><br/><b>Buchbinderarbeiten</b><br/><b>Prag II.,</b><br/><b>Berliner Straße 8</b><br/><b>Fernsprecher 60613</b></p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"294 27 954 144\" data-label=\"Text\"><p>50920 <b>Arbeiter-Buchbinderei G. m. b. H.</b></p></div><div data-bbox=\"392 152 961 285\" data-label=\"Text\"><p>Buchbinderei—Kalender—Geschäftsbücher, Prag XII, Laibacher Str. 18</p></div><div data-bbox=\"290 282 961 343\" data-label=\"Text\"><p>44257 Großbuchbinderei u. Kalenderfabrik</p></div><div data-bbox=\"600 346 787 407\" data-label=\"Text\"><p><b>B. JUST</b></p></div><div data-bbox=\"426 410 961 477\" data-label=\"Text\"><p>Prag XVI, -Smichov, Pilsner Str. 67</p></div><div data-bbox=\"294 477 992 595\" data-label=\"Text\"><p>60036 <b>Zdeněk a Jan Nožička,</b></p></div><div data-bbox=\"509 603 891 736\" data-label=\"Text\"><p>Buchbinderwarenfabrik,<br/>Prag X, Neuburger Str. 2</p></div><div data-bbox=\"251 759 568 843\" data-label=\"Text\"><p><b>Regensburg.</b></p></div><div data-bbox=\"305 841 994 972\" data-label=\"Text\"><p>3770 Eisenhut, Ag., Papierwarenhandlung und<br/>Buchbinderei, Schwandorfer Straße 25</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"375 10 877 326\"}, {\"label\": \"Text\", \"bbox\": \"379 395 874 951\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image is a scan of a blank page from a 1942 German telephone directory. The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry for a specific town or region.</div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Abbindereien — S 50. Buch- u. St",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Teplitz-Schömanu (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Teschen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tetschen (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Vollkach (Mainfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Walldorf (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 30 987 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch), showing a large white area with black borders on the left and right sides.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is predominantly white with a thick black border on the left and right sides. There are no visible entries, text, or markings on the page itself.</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "ELDEMIUNL A.U.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Buchbinderei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 989 145\" data-label=\"Text\"><p>B2 89 42 <b>Erich Günther</b> Buchbinderei,<br/>Lederwaren,<br/>Wien VI/56, Mariahilfer Str. 107</p></div><div data-bbox=\"10 141 989 279\" data-label=\"Text\"><p>U4 22 74 <b>Holenda, Eduard</b>, Geschäftsbücherfabrik,<br/>Buchbinderei, vorm. Strelez &amp; Holenda,<br/>Wien IV/50, Viktorgasse 15</p></div><div data-bbox=\"10 276 989 367\" data-label=\"Text\"><p>U4 84 43 <b>Kadlez, Alois</b>, Buchbinderei, Wien IV/50,<br/>Schönburgstraße 11</p></div><div data-bbox=\"10 366 989 457\" data-label=\"Text\"><p>B2 91 57U <b>Madzia, Bruno</b>, Buchbinderei, VI/56,<br/>Münzwardeingasse 11</p></div><div data-bbox=\"10 456 989 548\" data-label=\"Text\"><p>B4 06 83 <b>Mendl, Johann</b>, Buchbindereiwerkstätte,<br/>Wien VIII/65, Laudongasse 69</p></div><div data-bbox=\"10 547 989 685\" data-label=\"Text\"><p>R1 60 15 <b>NEUMEISTER &amp; CIE.</b> Großbuch-<br/>binderei<br/>Wien X/75, Schleiergasse 17, Objekt 25</p></div><div data-bbox=\"10 684 989 774\" data-label=\"Text\"><p>A1 11 02B <b>Prouza, Felix</b>, Buchbinderei, Wien IX/66,<br/>Berggasse 4</p></div><div data-bbox=\"10 773 668 816\" data-label=\"Text\"><p>U1 82 43 <b>Buchbinderei</b></p></div><div data-bbox=\"318 819 880 895\" data-label=\"Text\"><p><b>Hermann Scheibe</b></p></div><div data-bbox=\"333 905 849 992\" data-label=\"Text\"><p>Einbanddecken-Erzeugung<br/>Wien III/40. Marxestr. 34</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Wolfsberg (Kärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"65 210 911 287\"}]",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"25 222 961 687\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col2_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "eindruckereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "847. Buchbinderkaliko",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Wiüstewaldersdorf (Bez. Breslau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"159 210 856 279\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"136 204 867 266\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"7 171 991 529\"}, {\"label\": \"Text\", \"bbox\": \"228 576 788 813\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Aalen (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Abensberg (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Alfeld (Leine).",
+        "entries": []
+      },
+      {
+        "region_name": "Arnstadt (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 0 992 994\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>19 06 82</td>\n<td rowspan=\"2\">{</td>\n<td><b>Berliner Zentraldruckerei Gebr. Unger</b></td>\n</tr>\n<tr>\n<td>19 48 74</td>\n<td><b>Nachf. G. m. b. H., Berlin SW 11, Bern-</b><br/><b>burger Str. 30. P 31537</b></td>\n</tr>\n<tr>\n<td>61 40 46</td>\n<td></td>\n<td><b>Bernard &amp; Graefe, Verlags-Druckerei</b><br/><b>und Buchhandlung, Berlin SW 68,</b><br/><b>Alexandrinenstraße 134</b></td>\n</tr>\n<tr>\n<td>. . . . .</td>\n<td></td>\n<td><b>Bernhard &amp; Graefe</b> siehe <b>Bernard &amp; Graefe</b></td>\n</tr>\n<tr>\n<td>86 71 76</td>\n<td></td>\n<td><b>Bestehorn, H. C., Aschersleben, Groß-</b><br/><b>druckerei u. Papierverarbeitungswerke,</b><br/><b>Zweigniederlassung: Berlin-Wilmersdorf,</b><br/><b>Babelsberger Str. 41</b></td>\n</tr>\n<tr>\n<td>17 29 54</td>\n<td></td>\n<td><b>Carl Breßke Nachf., Otto Frensch, Buch-</b><br/><b>und Kunstdruckerei, Geschäftsbücher-</b><br/><b>fabrik, Berlin SW 68, Kommandanten-</b><br/><b>straße 15</b></td>\n</tr>\n<tr>\n<td>16 31 68</td>\n<td></td>\n<td><b>Buchdruckerei Gustav Buck, Berlin SW 68,</b><br/><b>Neue Grünstraße 32</b></td>\n</tr>\n<tr>\n<td>17 47 21</td>\n<td></td>\n<td><b>Buch- und Tiefdruck G. m. b. H., Verlag,</b><br/><b>Berlin SW 68, Jerusalem Str. 48/49</b></td>\n</tr>\n<tr>\n<td>67 28 62</td>\n<td rowspan=\"2\">{</td>\n<td><b>Condordruck Bruno Bleß K.-G., SO 16,</b></td>\n</tr>\n<tr>\n<td>67 56 15</td>\n<td><b>Rinnestraße 30</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 0 992 655\" data-label=\"Text\"><p>17 DU 41 <b>DEUTSCHE ZENTRALKRAFTEN A.-G., Berlin</b><br/>SW 11, Dessauer Straße 6/8</p><p>17 03 32 { <b>Drewitz, Otto, Buchdruckerei und Ver-</b><br/>17 03 33 { <b>lagsbuchhandlung, Berlin SW 61, Git-</b><br/>17 06 87 { <b>schiner Straße 106</b></p><p>17 34 07 <b>Ebering, Dr. Emil, Buchdruckerei u. Ver-</b><br/><b>lagsbuchhandlung, SW 68, Ritterstr. 77/78</b></p><p>17 16 51 <b>Flemming &amp; Sohn, Buchdruckerei, Berlin</b><br/>SW 68, Hollmannstr. 15</p><p>89 58 34 <b>F. M. Geldel G. m. b. H., Musikaliendrucke-</b><br/><b>rei, -Grunewald, Kudowastr. 27a</b></p></div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"249 449 256 466\" data-label=\"Text\"><p>-</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 10 794 106\" data-label=\"Text\"><p>17 01 59 <b>Gensicke &amp; Sohn</b>, Buch- und Kunst-<br/>druckerei, SW 68, Alexandrinenstr. 11</p></div><div data-bbox=\"20 102 794 240\" data-label=\"Text\"><p>11 44 44 <b>Giesecke &amp; Devrient Aktiengesellschaft</b>,<br/>Wertpapierdruckerei,<br/>C 2, Wallstraße 27</p></div><div data-bbox=\"20 238 662 330\" data-label=\"Text\"><p>67 50 57 <b>Graphische Kunstanstalt</b><br/><b>Arnold Weylandt K. G.</b></p></div><div data-bbox=\"159 330 794 422\" data-label=\"Text\"><p>Buch- u. Steindruckerei, Offsetdruckerei,<br/>Papierverarbeitung, SO 16, Rungestr. 19</p></div><div data-bbox=\"20 419 794 511\" data-label=\"Text\"><p>68 93 16 <b>Heckendorff, E.</b>, Buch- u. Offsetdruckerei,<br/>SO 36, Reichenberger Str. 36</p></div><div data-bbox=\"20 509 794 601\" data-label=\"Text\"><p>59 46 14 <b>Herrfurth, Paul</b>, Druckerei und Präge-<br/>rei, Berlin C 2, Holzmarktstr. 11</p></div><div data-bbox=\"20 599 794 645\" data-label=\"Text\"><p>61 12 85 { <b>Hiehold &amp; Co. K.-G.</b>, Buchdruckerei, Ber-</p></div><div data-bbox=\"20 645 625 693\" data-label=\"Text\"><p>61 12 86 { lin SO 36, Waldemarstraße 38</p></div><div data-bbox=\"20 695 754 779\" data-label=\"Text\"><p>27 23 84 <b>Walter Hilger &amp; Ohst</b></p></div><div data-bbox=\"206 782 741 829\" data-label=\"Text\"><p>Buchdruckerei, W 35, Bülowstr. 56</p></div><div data-bbox=\"20 826 790 918\" data-label=\"Text\"><p>19 39 54 <b>Kleindienst, Max</b>, Buchdruckerei, Berlin<br/>SW 68, Wilhelmstr. 119 u. 120</p></div><div data-bbox=\"10 916 792 993\" data-label=\"Text\"><p>17 11 94 <b>Otto u. Emil Klett</b>, Buchdruckerei und<br/>Verlagsanstalt SW A2 Dittmstr. 25</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 0 794 988\" data-label=\"Text\"><p>53 03 79 <b>Kramer, Max, Buchdruckerei, NU 18,</b><br/>Landsberger Allee 125</p><p>45 06 29 <b>Kretschmer, Otto, Buchdruckerei, N 4,</b><br/>Brunnenstraße 41</p><p>67 52 67 <b>Kroll's Buchdruckerei, Berlin SW 68,</b><br/>Sebastianstraße 76</p><p>91 13 68 <b>Künnemann, Heinrich, Buchdruckerei u.</b><br/><b>Papierhandlung, W 15, Uhlandstraße 31</b><br/>am Kurfürstendamm</p><p>66 96 26 <b>Kunstdruck Friedrich Lange, Stein-,</b><br/><b>Offset- und Buchdruckerei, SW 61,</b><br/>Belle-Alliance-Straße 92</p><p>16 28 66 <b>Liebheit &amp; Thiesen, Buch- und Kunst-</b><br/><b>druckerei, C 2, Niederwallstr. 16</b></p><p>17 51 81 <b>Limpert, Wilhelm, Druck- u. Verlagshaus,</b><br/>SW 68, Ritterstr. 75</p><p>68 81 45 <b>Lindemann &amp; Lüdecke, Inh. Otto Conrad,</b><br/>Steindruck, SO 36, Oranienstr. 183</p><p>46 27 64 { <b>Märkische Druckanstalt W. Hentschel</b></p><p>46 10 17 { <b>K. G., N 65, Schulzendorfer Str. 26</b></p><p>68 82 50 <b>Mayer, Friedrich Wilhelm, Werkstätten</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"155 0 775 25\" data-label=\"Page-Header\"><p>... ..</p></div>\n<div data-bbox=\"155 20 655 70\" data-label=\"Text\"><p>lin SO 36, Kottbusser Straße 23</p></div>\n<div data-bbox=\"15 65 795 215\" data-label=\"Text\"><p>67 67 56 { M. Müller &amp; Sohn, K.G., Buchgewerbe-<br/>67 26 98 { haus, Buch-, Tief-, Offsetdruck, Chemi-<br/>67 54 37 { graphie, SW 68, Dresdener Str. 43</p></div>\n<div data-bbox=\"15 210 795 310\" data-label=\"Text\"><p>62 10 84 Neuköllner Druckerei G. m. b. H., Buch-<br/>druckerel, -Neukölln, Bergstr. 93/95</p></div>\n<div data-bbox=\"15 305 795 405\" data-label=\"Text\"><p>71 88 74 Ohme, Otto, Buch- und Kunstdruckerei,<br/>Berlin-Schöneberg, Ebersstr. 44</p></div>\n<div data-bbox=\"15 400 795 545\" data-label=\"Text\"><p>67 48 01 Paetsch &amp; Collin, Buchdruckerei, Formu-<br/>larverlag, Geschäftsbücherfabrik, SO 16,<br/>Köpenicker Str. 74</p></div>\n<div data-bbox=\"15 540 795 640\" data-label=\"Text\"><p>44 24 36 Paris, Conrad, Anastatische Druckerei,<br/>Berlin N 58, Pappelallee 27</p></div>\n<div data-bbox=\"15 635 795 780\" data-label=\"Text\"><p>53 03 44 Philipson, Martin, Buchdruckerei, gra-<br/>phische Anstalt für Industrie-Reklame,<br/>NO 55, Prenzlauer Allee 36</p></div>\n<div data-bbox=\"15 775 795 875\" data-label=\"Text\"><p>27 05 65 Sagawe &amp; Co., Druck und Verlag, W 35,<br/>Bülowstr. 56</p></div>\n<div data-bbox=\"15 870 795 970\" data-label=\"Text\"><p>67 31 90 Sager, Ernst, Buchdruckerei — Verlag,<br/>Berlin SO 16, Rungestr. 9</p></div>\n<div data-bbox=\"15 965 795 995\" data-label=\"Page-Footer\"><p>27 RA 11 ... ..</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"154 0 474 45\" data-label=\"Text\"><p>Köpenicker Str. 114</p></div><div data-bbox=\"12 42 792 989\" data-label=\"List-Group\"><p>67 16 65 <b>Schreyer-Druck Erich &amp; Kurt Schreyer</b><br/>K.-G., SO 16, Köpenicker Straße 127</p><p>17 47 41 <b>A. Seidel &amp; Cie, G. m. b. H., Buchdruckerei,</b><br/>SW 68, Alte Jakobstr. 156—157</p><p>41 68 01 <b>Stritzke &amp; Rothe, Buch-, Stein- und Off-</b><br/>setdruckerei, C 2, Münzstraße 19</p><p>63 21 41 <b>Thieme, Erich, Großdruckerei u. Verlag,</b><br/>-Niederschönneweide, Hasselwerd. Str. 27/31</p><p>22 61 18 <b>Wallmann's Verlag und Buchdruckerei</b><br/>G. m. b. H., W 9, Linkstr. 21</p><p>16 12 78 <b>Weber, Franz, Buchdruckerei, Verlags-</b><br/>anstalt, Berlin C 2, Wallstr. 17/18</p><p>87 86 11 <b>Carl Weddigen Druckereiges. m. b. H.,</b><br/>Wuppertal-Oberbarmen, Briefbogen, Wer-<br/>bedrucke, Vertr. A. F. Vengh, Berlin-<br/>Wilmersdorf, Kalkhorster Str. 1</p><p>17 35 97 <b>Hermann Wendt G. m. b. H., Druck und</b><br/>Verlag, Berlin SW 68, Simeonstr. 13</p><p>46 67 47 <b>Wernitz, Emil, Verlag und Buchdruckerei,</b><br/>Berlin N 65, Müllerstr. 10/11</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Bernburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Biberach (Riß) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

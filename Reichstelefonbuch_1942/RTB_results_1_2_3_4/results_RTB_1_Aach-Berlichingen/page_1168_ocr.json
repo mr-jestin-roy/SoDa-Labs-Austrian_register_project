@@ -1,0 +1,618 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"255 598 606 895\"}, {\"label\": \"Text\", \"bbox\": \"769 598 997 895\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 10 997 995\" data-label=\"List-Group\">\n<p>80250 <b>Bülow, Otten &amp; Co.,</b> Zweigniederl. Bremen,<br/>Stephanitors Contrescarpe 2/3</p>\n<p>82742 { <b>Carl Aug. Drewes &amp; Co.,</b> In- u. Auslands-<br/>82743 {spedition, Baumstr. 56—58</p>\n<p>82458 <b>Grieme, Johann,</b> Spedition, Nah- und Fern-<br/>transporte, Lützowerstraße 24</p>\n<p>22275 <b>Haeger &amp; Schmidt G. m. b. H.,</b> Spedition,<br/>Befrachtung, Langenstr. 5/6</p>\n<p>SmI.-Nr. { <b>Hafen-Speditionsgesellschaft Lampke, Vit-</b><br/>23341 {ting &amp; Wichmann. T Forwarder</p>\n<p>23444 { <b>Hamacher, Harry W.,</b> Spediteur, Bremen.<br/>23445 {P Hamburg 62294</p>\n<p>SmI.-Nr. { <b>Helmken &amp; Randermann,</b> Schlachte 39<br/>53644 {</p>\n<p>SmI.-Nr. { <b>Gebr. Hirdes,</b> Übersee-Spedition, Jacobi-<br/>20844 {kirchhof 1/2</p>\n<p>SmI.-Nr. { <b>Jordan &amp; Berger Nachf. G. m. b. H.,</b> Über-<br/>22521 {see-Spedition, Langenstr. 39/40</p>\n<p>51916 <b>Kruse, Heinrich,</b> Speditionsgeschäft, Bre-<br/>men, Steinstraße 8</p>\n<p>23501 { <b>Lexzau, Scharbau &amp; Co.,</b> Spedition, gegr.<br/>92509 {11270 Mollkonstr 41/49. T Leachann</p>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 0 998 986\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>Sammel-<br/>Nr. 23144</td>\n<td rowspan=\"2\">} <b>Fr. Meyer's Sohn</b><br/>Filiale Bremen, Langenstr. 135</td>\n</tr>\n<tr>\n<td>22525</td>\n<td><b>F. W. Neukirch A. G.</b>, Möbeltransport,<br/>Spedition, Schwertransp., Bahnhofstr. 26</td>\n</tr>\n<tr>\n<td>Sml.-Nr.<br/>21234</td>\n<td rowspan=\"2\">} <b>Neukirch, Louis</b>, Spedition, Möbeltrans-<br/>port, Lagerung, Bahnhofstr. 31</td>\n</tr>\n<tr>\n<td>22461</td>\n<td><b>Prior, Carl</b>, Spedition, gegr. 1866, Baumwollbörse, Zimmer 209a—212. <b>T Prioritaet</b></td>\n</tr>\n<tr>\n<td>83931</td>\n<td rowspan=\"2\">} <b>Reinemann, F. W.</b>, Küperei, Lagerung,<br/>Spedition, Kontrollen, Europahafen, 1,</td>\n</tr>\n<tr>\n<td>83932</td>\n<td>Sp. 5, Abt. 3/4. <b>P Hamburg 62277</b></td>\n</tr>\n<tr>\n<td>26451</td>\n<td rowspan=\"2\">} <b>Röhlig &amp; Co.</b>, gegr. 1852, Spedition,<br/>Knochenhauerstr. 16/17. <b>T Roehlig</b></td>\n</tr>\n<tr>\n<td>20560</td>\n<td></td>\n</tr>\n<tr>\n<td>21201 — 21205</td>\n<td rowspan=\"2\">} <b>Matthias Rohde &amp; Jürgens</b>, Ans-<br/>garikirchhof 1, vis-à-vis Norddeut-</td>\n</tr>\n<tr>\n<td>21301 — 21305</td>\n<td>scher Lloyd</td>\n</tr>\n<tr>\n<td>Sammel-<br/>Nr.</td>\n<td rowspan=\"2\">} <b>Julius Rudert G. m. b. H.</b>, Zweignieder-<br/>lassung Bremen, Sögestr. 49. <b>T Helios</b></td>\n</tr>\n<tr>\n<td>26655</td>\n<td><b>P Hamburg 46930</b></td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td rowspan=\"2\">} <b>Heinr. Rüppel &amp; Sohn</b>, Spedition, gegr.<br/>1823, Langenstr. 39/40</td>\n</tr>\n<tr>\n<td>22521</td>\n<td></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Bremen-Vegesack.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"317 37 931 300\"}, {\"label\": \"Text\", \"bbox\": \"538 352 709 503\"}, {\"label\": \"Text\", \"bbox\": \"317 507 931 665\"}, {\"label\": \"Text\", \"bbox\": \"382 687 856 811\"}, {\"label\": \"Text\", \"bbox\": \"483 830 761 951\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"291 19 997 993\" data-label=\"List-Group\">\n<p>20565 <b>Beer, Wilhelm</b>, Spedition u. Fuhrbetrieb,<br/>Bresl. 6, Kl. Holzstraße 4/6</p>\n<p>53251 } <b>Boldt, Johannes W.</b>, Spedition, Autofern-</p>\n<p>53252 } transp., Bresl. 17, Pöpelwitzstr. 15/19</p>\n<p>23044 <b>Darsow, Gerh.</b>, Spedition, Breslau 1,<br/>Friedrich-Wilhelm-Straße 24. P 30373</p>\n<p>55625 <b>Faltus, Franz</b>, Intern. Spedition, Möbel-</p>\n<p>transporte, Bresl. 5, Siebenhufenerstr. 23</p>\n<p>84541 } <b>Foitzik, Paul</b>, Schifffahrt u. Spedition,</p>\n<p>84542 } Bresl. 13, Agathstr. 8</p>\n<p>21645 } <b>Fuchs, Alfred</b>, Spedition — Lastautofern-</p>\n<p>21782 } transporte — Möbeltransport, Bresl. 1,<br/>Friedrich-Wilhelm-Str. 3—5</p>\n<p>41741 <b>Grundke, Gustav</b>, Autofernverkehr u.</p>\n<p>-transporte, Bresl. 10, Lehmdamm 81</p>\n<p>55113 } <b>Kahlert, Joseph</b>, Spediteur, Schwer- und</p>\n<p>54830 } Möbeltransporte, Bresl. 1, Tauentzien-</p>\n<p>straße 149. T Spediteur Kahlert</p>\n<p>53747 <b>A. Kinkel A.-G.</b>, Spedition u. Lagerung,<br/>Bresl. 1, Striegauer Str. 2</p>\n<p>21960 <b>Klose, Fritz</b>, Spedition und Sammel-</p>\n<p>ladung Bresl. 1 Danckharts 10/11 A</p>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"256 0 991 994\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>Sammel-Nr.<br/>24247</td>\n<td rowspan=\"2\">{</td>\n<td><b>Gustav Knauer, Bahnspediteur</b><br/>Möbeltransport, Lagerung, Bresl. 1, Friedr.-<br/>Karlst. 21. T Speditionshaus P 178</td>\n</tr>\n<tr>\n<td>57857</td>\n<td rowspan=\"2\">{</td>\n<td><b>B. Linke &amp; Pape</b>, Spedition u. Möbel-<br/>transporte, Bresl. 6, Friedr.-Wilhelm-Str. 8</td>\n</tr>\n<tr>\n<td>57858</td>\n<td rowspan=\"2\">{</td>\n<td><b>Mandelt, Fritz</b>, Spedition — Lagerung,<br/>Bresl. 1, Jahnstr. 14</td>\n</tr>\n<tr>\n<td>56910</td>\n<td rowspan=\"3\">{</td>\n<td><b>Erich Matzner</b><br/>Spedition-Möbeltransport-Lagerung,<br/>Bresl. 1, Jahnstr. 14. P 358</td>\n</tr>\n<tr>\n<td>24244</td>\n<td rowspan=\"2\">{</td>\n<td><b>F. Menzel &amp; Co.</b>, Inh. A. Matschke, Spe-<br/>dition, Bresl. 1, Antonienstr. 24</td>\n</tr>\n<tr>\n<td>24245</td>\n<td rowspan=\"2\">{</td>\n<td><b>Gebr. Nitschke</b><br/>Sammelladungen, Breslau-Militsch-War-<br/>thegau, Schwertstr. 1</td>\n</tr>\n<tr>\n<td>27527</td>\n<td rowspan=\"2\">{</td>\n<td><b>Rapp, Karl</b>, Spedition und Autofernver-<br/>kehre, Zweigniederlassung Breslau 21,<br/>Gräbschener Straße 191/199. T Karap</td>\n</tr>\n<tr>\n<td>50065</td>\n<td rowspan=\"2\">{</td>\n<td><b>Roszik, Harry</b>, Lastautofernverkehr, Mö-<br/>beltransport. Spedition. Bresl. 17. Frank-</td>\n</tr>\n<tr>\n<td>23314</td>\n<td rowspan=\"2\">{</td>\n<td></td>\n</tr>\n<tr>\n<td>84657</td>\n<td rowspan=\"2\">{</td>\n<td></td>\n</tr>\n<tr>\n<td>56644</td>\n<td rowspan=\"2\">{</td>\n<td></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "éditeur",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Brombach b. Lörrach.",
+        "entries": []
+      },
+      {
+        "region_name": "Bromberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"230 84 778 335\"}, {\"label\": \"Text\", \"bbox\": \"175 399 823 899\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Bruck (Leitha) [Niederdonauf].",
+        "entries": []
+      },
+      {
+        "region_name": "Bruck a. d. Mur 1 (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mährchen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"269 49 736 389\"}, {\"label\": \"Text\", \"bbox\": \"303 490 690 937\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Brüx (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Budweis (Böhmen).",
+        "entries": []
+      },
+      {
+        "region_name": "Burg (Bez. Mgdb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Burgsteinfurt (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Gottfried Odrich",
+        "entries": []
+      },
+      {
+        "region_name": "Alexander Philipp",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Clausthal-Zellerfeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Coburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Crailsheim (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Crimmitschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Cuxhaven.",
+        "entries": []
+      },
+      {
+        "region_name": "Dahme (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "„Alltag“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 39 993 981\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>Sm1.-Nr.</td>\n<td rowspan=\"2\">{</td>\n<td><b>BERGSPED, Speditions- u. Lagerhaus-Ge-</b></td>\n</tr>\n<tr>\n<td>22941</td>\n<td><b>sellschaft m. b. H., Hundegasse 56—57</b></td>\n</tr>\n<tr>\n<td>26628</td>\n<td></td>\n<td><b>C. Friedrich Böhler Nachf., Spedition,</b><br/><b>Brotbänkengasse 12</b></td>\n</tr>\n<tr>\n<td>21441</td>\n<td></td>\n<td><b>Johannes Jck</b><br/><b>Spedition, Lagerung, Erzumschlag,</b><br/><b>Weichselschiffahrt, Schäferei 12/14</b></td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"3\">{</td>\n<td><b>A. Kinkel</b></td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td><b>Spedition</b></td>\n</tr>\n<tr>\n<td>270 41</td>\n<td><b>Danzig, Hopfengasse 33. P 5567</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Kristandt &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Darmstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Delmenhorst.",
+        "entries": []
+      },
+      {
+        "region_name": "Deutsch Krone (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dinkelsbühl (Mittelfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Dirschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Döbeln (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"211 304 227 338\" data-label=\"Text\"><p><b>200</b></p></div><div data-bbox=\"356 396 362 424\" data-label=\"Text\"><p><b>2</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 805 1000\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>Sammel-Nr.</td>\n<td rowspan=\"2\">{</td>\n<td><b>Karl Hempel &amp; Co., Spediteure, Internat. Spedition, Lagerung, Schifffahrt, Auto-Sammelverkehre, A 1, Falkenstr. 22</b></td>\n</tr>\n<tr>\n<td>251 36</td>\n<td></td>\n</tr>\n<tr>\n<td>36136</td>\n<td rowspan=\"2\">{</td>\n<td><b>IVAG Industrie- und Verkehrs-G. m. b. H., Filiale Dresden, Spedition/Autoferntransporte/Eilsammelverkehre/Güter-An- und Abfuhr, A 19, Schandauer Str. 26</b></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>SmI.-Nr.</td>\n<td rowspan=\"2\">{</td>\n<td><b>Klotz &amp; Seifert, Bahnspediteure, Lagerung, Schwertransporte, A 36, Dresden-Reick</b></td>\n</tr>\n<tr>\n<td>691651</td>\n<td></td>\n</tr>\n<tr>\n<td>53222</td>\n<td rowspan=\"2\">{</td>\n<td><b>L. Linden &amp; Co., Spedition, Autofernverkehr, große Lagerräume, N 6, Conradstraße 38, Einfahrt Hansastrasse</b></td>\n</tr>\n<tr>\n<td>50020</td>\n<td></td>\n</tr>\n<tr>\n<td>SmI.-Nr.</td>\n<td rowspan=\"2\">{</td>\n<td><b>Fr. Meyer's Sohn, Internat. Speditions- haus, A 28, Poststr. 23</b></td>\n</tr>\n<tr>\n<td>860201</td>\n<td></td>\n</tr>\n<tr>\n<td>860116</td>\n<td rowspan=\"2\">{</td>\n<td><b>Müller, Gustav Emil, Spedition, Schifffahrt, Lagerung, A 1, Freiberger Str. 81</b></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>51096</td>\n<td rowspan=\"2\">{</td>\n<td><b>PAULUS &amp; CO.</b> Internationale Spedition,</td>\n</tr>\n<tr>\n<td>54096</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td rowspan=\"2\">{</td>\n<td>Dresden N 6, Antonstr. Bahnbogen 3</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>8620 96</td>\n<td rowspan=\"2\">{</td>\n<td><b>„RAPIDUS“ G.m.b.H., Intern. u. Überseetransporte, Lagerung, Sammelverkehre,</b></td>\n</tr>\n<tr>\n<td>8",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Driesen (Neumark).",
+        "entries": []
+      },
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"51 0 797 106\" data-label=\"Text\"><p>10711 <b>Niehues, Heinrich</b>, Möbeltransporte und<br/>Spedition, Adlerstraße 17/33</p></div><div data-bbox=\"329 103 631 151\" data-label=\"Text\"><p><b>Siegmund &amp; Fuchs</b></p></div><div data-bbox=\"36 125 146 171\" data-label=\"Text\"><p>711150</p></div><div data-bbox=\"36 171 146 218\" data-label=\"Text\"><p>711153</p></div><div data-bbox=\"216 149 744 244\" data-label=\"Text\"><p>Spedition, Düsseldorf-Holthausen,<br/>Reisholzer Werftstraße 11-13</p></div><div data-bbox=\"8 244 146 290\" data-label=\"Text\"><p>SmI.-Nr.</p></div><div data-bbox=\"28 244 799 341\" data-label=\"Text\"><p>11345 <b>Otto Stolpp G. m. b. H.</b>, Spedition, Schiff-<br/>fahrt, Umschlag, Lagerung, Kesselstr. 12/16</p></div><div data-bbox=\"51 339 146 385\" data-label=\"Text\"><p>13289</p></div><div data-bbox=\"159 339 799 435\" data-label=\"Text\"><p><b>Strerath, Ant.</b>, Autotransporte, Spedition<br/>u. Lagerung, Hubertusstr. 22—24</p></div><div data-bbox=\"51 435 146 481\" data-label=\"Text\"><p>60046</p></div><div data-bbox=\"8 435 797 529\" data-label=\"Text\"><p><b>Union Krafttransport-Betriebe P. Posselt</b>,<br/>bis 60048 Düsseldorf, Grafenberger Allee 79</p></div><div data-bbox=\"51 529 146 575\" data-label=\"Text\"><p>12647</p></div><div data-bbox=\"51 575 146 621\" data-label=\"Text\"><p>12648</p></div><div data-bbox=\"51 621 146 667\" data-label=\"Text\"><p>12649</p></div><div data-bbox=\"159 529 797 672\" data-label=\"Text\"><p>„Westra“ Westdeutsche Transportgesell-<br/>schaft m.b.H., Spedition, Lagerung, Auto-<br/>fernverkehr, D 1, Horst-Wessel-Str. 20/26</p></div><div data-bbox=\"51 672 146 718\" data-label=\"Text\"><p>18149</p></div><div data-bbox=\"1",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Ebingen (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eckernförde.",
+        "entries": []
+      },
+      {
+        "region_name": "Eger (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Eibau (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Eichenbrück (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Eichstätt (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eilenburg (Prov. Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"188 125 194 146\" data-label=\"Text\"><p>-</p></div>\n<div data-bbox=\"838 62 844 83\" data-label=\"Text\"><p>■</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

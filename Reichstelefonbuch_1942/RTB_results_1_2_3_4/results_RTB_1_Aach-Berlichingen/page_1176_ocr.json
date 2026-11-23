@@ -1,0 +1,768 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 696 599 891\" data-label=\"Text\"><p>692 (Branchenteil)</p></div><div data-bbox=\"763 687 998 886\" data-label=\"Text\"><p><b>5619. Sp</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Teplitz-Schönau (Sudetenland)",
+        "entries": []
+      },
+      {
+        "region_name": "Teschen (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"408 37 826 309\"}, {\"label\": \"Text\", \"bbox\": \"548 322 690 453\"}, {\"label\": \"Text\", \"bbox\": \"362 473 878 625\"}, {\"label\": \"Text\", \"bbox\": \"555 625 677 753\"}, {\"label\": \"Text\", \"bbox\": \"441 766 796 921\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"448 75 786 365\"}, {\"label\": \"Text\", \"bbox\": \"363 434 854 960\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Teterow (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tetschen (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Tharandt (Bez. Dresden).",
+        "entries": []
+      },
+      {
+        "region_name": "Thorn.",
+        "entries": []
+      },
+      {
+        "region_name": "Wilseit.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Trier.",
+        "entries": []
+      },
+      {
+        "region_name": "Trossingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tübingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Turn b. Teplitz-Schönau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Tuttlingen (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Ulm (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Rediteure",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 9 997 166\" data-label=\"Text\"><p><b>Unterflintsbach üb. Rosenheim</b><br/>Brannenburg 199 Gebr. Kuchler, Transport- und<br/>Fuhrunternehmung, Unterflintsbach</p></div><div data-bbox=\"12 176 997 333\" data-label=\"Text\"><p><b>Usch (üb. Schneidemühl).</b><br/>Schneidemühl (Netzehafen-Spedition G.m.b.H., Um-<br/>2459 {schlag — Lagerung — Verfrachtung</p></div><div data-bbox=\"12 343 997 500\" data-label=\"Text\"><p><b>Velbert (Rhld.).</b><br/>2194 Caspers, Wilhelm, Spedition, Velbert<br/>(Rhld.), Friedrichstr. 336/338</p></div><div data-bbox=\"12 510 837 710\" data-label=\"Text\"><p><b>Viersen (Rhld.).</b><br/>Sammel- { Steffes &amp; Co.<br/>Nr. Kraftwagen-Spedition<br/>2954 { Kommandit-Gesellschaft</p></div><div data-bbox=\"12 721 997 968\" data-label=\"Text\"><p><b>Völkermarkt (Kärnten).</b><br/>26 Hans Polaschegg Autounter-<br/>nehmung<br/>Spedition, Völkermarkt (Kärnten), Kla-<br/>genfurter Vorstadt 14</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Warne-Eickel (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Warnemünde.",
+        "entries": []
+      },
+      {
+        "region_name": "Warnsdorf (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Wartha (Bez. Breslau).",
+        "entries": []
+      },
+      {
+        "region_name": "Weer (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Weidenau (Sieg).",
+        "entries": []
+      },
+      {
+        "region_name": "Weimar.",
+        "entries": []
+      },
+      {
+        "region_name": "Weißenfels (Saale).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Weißkirchlitz b. Teplitz-Schönau (Sudetenl.)",
+        "entries": []
+      },
+      {
+        "region_name": "Weißwasser (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Welkenrath (Post Herbesthal).",
+        "entries": []
+      },
+      {
+        "region_name": "Wels (Oberdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Wengern (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Werdau (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wernigerode (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "Wesel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"36 500 47 531\" data-label=\"Text\"><p>■</p></div><div data-bbox=\"596 615 604 638\" data-label=\"Text\"><p>■</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Wesermünde.",
+        "entries": []
+      },
+      {
+        "region_name": "Westerland (Sylt).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 208 998 299\" data-label=\"Text\"><p>-- -- -- -- --<br/>A4 05 48 { <b>C. Friedrich Böhler Nfl., Spedition, Wien</b></p></div><div data-bbox=\"10 299 711 375\" data-label=\"Text\"><p>A4 35 58 { II/27, Obere Donaustr 49</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"52 271 234 666\"}, {\"label\": \"Text\", \"bbox\": \"311 29 899 226\"}, {\"label\": \"Text\", \"bbox\": \"311 231 899 576\"}, {\"label\": \"Text\", \"bbox\": \"375 585 832 753\"}, {\"label\": \"Text\", \"bbox\": \"298 766 908 955\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 995 950\" data-label=\"Text\"><table border=\"0\"><tr><td>B3 42 86</td><td rowspan=\"3\">{</td><td><b>J. Z. Dworak jun.</b></td><td>Internat.</td></tr><tr><td>B3 70 77</td><td>Möbellagerhaus, VII/62, Burggasse 52</td><td>Möbeltransp.,</td></tr><tr><td>A2 30 13</td><td><b>Dworak, Willy</b></td><td>Spedition, Möbeltransportunternehmen, IX/71, Spitalg. 31 A</td></tr></table></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"56 135 220 390\"}, {\"label\": \"Section-Header\", \"bbox\": \"258 165 870 375\"}, {\"label\": \"Text\", \"bbox\": \"259 457 947 725\"}, {\"label\": \"Text\", \"bbox\": \"259 807 881 907\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 28 991 986\" data-label=\"List-Group\"><p><b>R1 05 75 Eybel, Lois, Spediteur, Wien X/75, Ost-</b><br/><b>bahnhof, Mag. 5, Tor 13</b></p><p><b>A2 36 40 Fleischmann, Roman, Möbel-Spedition</b><br/><b>und Lagerung, Wien VIII/65, Lerchen-</b><br/><b>felder Str. 106</b></p><p><b>R2 55 90 { Hamacher, Harry W., Spediteur, Wien.</b><br/><b>R2 55 91 { P 22448</b></p><p><b>U2 34 48 Dr. Hofbauer &amp; CO., Intern. Spedition,</b><br/><b>Möbel- und Autoferntransporte, Wien I/1,</b><br/><b>Tiefer Graben 23</b></p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "F. Hofmanrichter",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 33 987 940\" data-label=\"Text\"><p>U2 99 52 <b>Internationale Spedition Otmar R.</b><br/><b>Schenk, Wien I/1, Trattnerhof 2</b></p><p>R2 71 09 { <b>Internationales Speditionsbüro Franz Glas,</b><br/>R2 04 29 { <b>Passau, Fil. Wien, Dominikanerbastei 10</b></p><p>B2 74 22 <b>Jobi, Viktor, Internationales Speditions-</b><br/><b>geschäft, VI/56, Linke Wienzeile 124</b></p><p>U2 75 35 <b>Kantor, Gottlieb, siehe Anzeige unter</b><br/><b>TRANSPORTKONTOR SÜD-OST</b></p></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Kirchner &amp; Co. Internationale Transporte,Wien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 988 440\" data-label=\"Text\">\n<p>R 2 34 19 <b>Kurmayer &amp; Cie.</b> Möbel-<br/>\n  transporte,<br/>\n  Speditionsgeschäft, I/1, Krugerstr. 7</p>\n<p>R 4 82 30 <b>Lang, Daniel</b>, Spediteur, Rollfuhrwesen,<br/>\n  II/27, Marinelligasse 7</p>\n<p>R 4 51 36 B <b>Derselbe</b>: Wohnung, II/27, Pazmaniten-<br/>\n  gasse 16</p>\n<p>B 2 23 12 <b>Alois Mayer &amp; Co.</b>, Speditionsgeschäft,<br/>\n  Möbelfuhren, V/55, Brandmayerg. 10</p>\n</div>\n<div data-bbox=\"0 447 988 987\" data-label=\"Text\">\n<p>A 1 60 08 { <b>Rudolf Müller</b><br/>\n  A 1 04 90 { Wien IX/66, Maria-Theresien-Str. 5</p>\n<p>A 4 70 09 { <b>C. E. Noerpel</b> Spedition,<br/>\n  A 4 20 18 { Nah- und Ferntransporte, Last-, Möbel-,<br/>\n  Lassingleithnerplatz 1 Wien II/27,</p>\n<p>A 1 84 60 <b>Ders.</b>, Magazin 3, Franz-Jos.-Bhf., Tor 20</p>\n<p>U 2 40 29 { <b>Ohly, Carl</b>, Speditionsgeschäft, Eilver-</p>\n<p>U 2 10 69 { kehr nach allen Orten, Wien I/1, Tiefer</p>\n<p>U 2 04 06 { Graben 21</p>\n</div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"125 37 864 311\"}, {\"label\": \"Text\", \"bbox\": \"181 352 802 485\"}, {\"label\": \"Text\", \"bbox\": \"202 532 791 658\"}, {\"label\": \"Text\", \"bbox\": \"371 697 612 813\"}, {\"label\": \"Text\", \"bbox\": \"272 822 716 947\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 100\" data-label=\"Text\"><p>A 4 45 89 <b>Franz Pudernik</b> Spedition,<br/>II/27, Haidg. 2</p></div><div data-bbox=\"0 93 884 191\" data-label=\"Text\"><p>U 1 20 66 <b>Georg Reischl</b></p></div><div data-bbox=\"357 190 822 236\" data-label=\"Text\"><p>Fern- u. Nahtransporte</p></div><div data-bbox=\"263 235 923 282\" data-label=\"Text\"><p>Wien III/40, Erdberger Lände 30</p></div><div data-bbox=\"0 279 987 415\" data-label=\"Text\"><p>B 1 13 96 <b>Reiter, Alois</b>, Autolasttransporte, Güter-<br/>fernverkehr, Möbelspedition, XIX/117,<br/>Boschstraße 19</p></div><div data-bbox=\"0 415 987 554\" data-label=\"Text\"><p>R 4 39 52 { <b>Romer, Arpad</b>, Möbeltransportunterneh-<br/>A 4 12 66 { men, Speditionsgeschäft, Wien XX/20,<br/>Salzachstraße 24</p></div><div data-bbox=\"0 554 987 647\" data-label=\"Text\"><p>B 2 54 58 { <b>Saexinger &amp; Co.</b>, Internationales Spedi-<br/>B 2 30 06 { tionsgeschäft, Wien V/55, Grüngasse 29</p></div><div data-bbox=\"0 645 987 739\" data-label=\"Text\"><p>R 1 60 50 { <b>Dieselben</b>, Wohnung Leopold Nos, Wien<br/>X/75, Troststr. 6</p></div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 15 770 685\" data-label=\"List-Group\"><p>U2 15 20 { <b>Schenker &amp; Co. G. m. b. H.</b>, Internationa-<br/>U2 20 52 { les Speditionsgeschäft, I/1, Hoher Markt 12<br/>A4 75 55 <b>Schier &amp; Munsch</b>, Int. Speditionshaus,<br/>Wien II/27, Obere Donaustraße 17<br/>R1 50 26 { <b>Dieselben</b>, Rollfuhrdienst und Lagerabtlg.,<br/>R1 60 40 { Ostbahnhof<br/>U3 80 34 <b>Schiffner, Ludwig</b>, Spedition u. Zollbüro,<br/>Internationale Transporte, Wien XV/10<sup>1</sup>,<br/>Guntherstr. 13, II./22</p></div><div data-bbox=\"10 675 725 975\" data-label=\"Text\"><p>R2 72 50 <b>Hans Schnieder</b><br/>Internationale Transporte<br/>Wien I/1, Biberstr. 8 — Falkestr. 5</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"102 19 672 421\"}, {\"label\": \"Text\", \"bbox\": \"157 464 654 625\"}, {\"label\": \"Text\", \"bbox\": \"220 614 557 768\"}, {\"label\": \"Text\", \"bbox\": \"220 757 561 917\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Süd-Ost-Spedition",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"29 171 159 324\"}, {\"label\": \"Section-Header\", \"bbox\": \"172 63 716 404\"}, {\"label\": \"Text\", \"bbox\": \"168 430 722 602\"}, {\"label\": \"Text\", \"bbox\": \"252 614 646 787\"}, {\"label\": \"Text\", \"bbox\": \"176 783 725 966\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"9 46 764 942\" data-label=\"Text\"><table><tr><td>A3 70 26</td><td rowspan=\"3\">{</td><td><b>Transylvänia</b></td><td><b>Internationale Speditionsgesellschaft</b></td></tr><tr><td>B2 90 45</td><td><b>m. b. H. Nfg., Herbert Burgstaller, Wien</b></td></tr><tr><td></td><td><b>IV/50, Heumühlgasse 20</b></td></tr><tr><td>A1 04 44</td><td rowspan=\"2\">{</td><td><b>Walter, F., Speditionsbüro, Wien I/1,</b></td><td></td></tr><tr><td>A1 04 89</td><td><b>Eßlinggasse 12</b></td><td></td></tr></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"28 181 160 417\"}, {\"label\": \"Section-Header\", \"bbox\": \"192 18 728 473\"}, {\"label\": \"Text\", \"bbox\": \"192 572 728 852\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"116 102 650 361\"}, {\"label\": \"Text\", \"bbox\": \"42 416 721 572\"}, {\"label\": \"Text\", \"bbox\": \"186 592 573 742\"}, {\"label\": \"Text\", \"bbox\": \"144 770 619 934\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Wien-Perchtoldsdorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Wiener Neustadt (Niederdonau)",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Berthold Jocoby",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Wildbad (Schwarzwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Wilhelmshaven.",
+        "entries": []
+      },
+      {
+        "region_name": "Wismar (Mecklb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Witten (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberg (Lutherstadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberge (Bez. Potsdam).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittstock (Dosse) [Brdb.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

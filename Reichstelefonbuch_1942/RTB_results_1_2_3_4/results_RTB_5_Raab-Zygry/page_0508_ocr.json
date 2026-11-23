@@ -1,0 +1,955 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "500",
+            "text": "(Band V) Stuttgart: M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 10 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 57 19</td>\n<td>Mayer, Reinh., Sporthaus, Hauptst.Str. 3</td>\n</tr>\n<tr>\n<td>29 87 44</td>\n<td>Mayer, Reinh., Kfm., <i>Plen</i> Degerloche<br/>Straße 42</td>\n</tr>\n<tr>\n<td>6 38 18</td>\n<td>Mayer, Rich., Elektr.Anl., Forststr. 92</td>\n</tr>\n<tr>\n<td>2 17 98</td>\n<td>Mayer, R., Install., Friedrichstr. 19</td>\n</tr>\n<tr>\n<td>7 02 21</td>\n<td>Mayer, Rob., Kfm., <i>Deg</i> Meistersingerstr. 1</td>\n</tr>\n<tr>\n<td>6 59 20</td>\n<td>Mayer, Dr. Rolf, Arzt, Hauptmannsreut 13</td>\n</tr>\n<tr>\n<td>2 85 36</td>\n<td>Mayer, Rose, Frau, Gneisenaustr. 45</td>\n</tr>\n<tr>\n<td>6 48 36</td>\n<td>Mayer, Rud., Archit., Am Kräherwald 31</td>\n</tr>\n<tr>\n<td>5 08 19</td>\n<td>Mayer, Rud., Vertret., <i>Cst</i> Th.Veiel-Str. 2</td>\n</tr>\n<tr>\n<td>2 73 98</td>\n<td>Mayer, Rup. Vinz., Kfm., Schottstr. 47</td>\n</tr>\n<tr>\n<td>7 22 24</td>\n<td>Mayer, Sepp, Dir., <i>Deg</i> ReutlingerStr. 84</td>\n</tr>\n<tr>\n<td>2 85 82</td>\n<td>Mayer, Sofie, Kol.W., Eugenstr. 8</td>\n</tr>\n<tr>\n<td>2 63 85</td>\n<td>Mayer, Sophie, Klinik, Schönrl.Str. 11</td>\n</tr>\n<tr>\n<td>3 00 02</td>\n<td>Mayer, Theo, Bäckerei, <i>Unth</i> Kappelberg<br/>straße 7</td>\n</tr>\n<tr>\n<td>7 26 01</td>\n<td>Mayer, Th., Kfm., <i>Kalt</i> Engelboldstr. 82</td>\n</tr>\n<tr>\n<td>2 64 64</td>\n<td>Mayer, Theodor, Kfm., Schoderstr. 4</td>\n</tr>\n<tr>\n<td>6 23 36</td>\n<td>Mayer, Theodor, Kfm., Herdweg 110</td>\n</tr>\n<tr>\n<td>7 20 67</td>\n<td>Mayer, Theodor, Gärtner, <i>Deg</i> Pfaffstr. 21</td>\n</tr>\n<tr>\n<td>8 16 35</td>\n<td>Mayer, Th., O.Rechn.Rat, <i>Feu</i> Wiene<br/>straße 157</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 998 986\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>6 00 80</td>\n<td>W. u. Wilh. F. Mayer, Metallwirkt., Kote<br/>hühlstr. 119</td>\n</tr>\n<tr>\n<td>6 39 27</td>\n<td>Mayer, Walter, Vertret., Schwabstr. 68</td>\n</tr>\n<tr>\n<td>4 28 78</td>\n<td>Mayer, Wilh., Abbruchhnt., Sickstr. 1</td>\n</tr>\n<tr>\n<td>7 05 96</td>\n<td>Mayer, Wilh., Färberei, Mittelstr. 11</td>\n</tr>\n<tr>\n<td>2 21 05</td>\n<td>Mayer, W., Möbel, HauptstätterStr. 37</td>\n</tr>\n<tr>\n<td>4 02 39</td>\n<td>Mayer, Wilh., Hausger., Rotenbergstr. 37</td>\n</tr>\n<tr>\n<td>5 14 72</td>\n<td>Mayer, Wilh., Musikal., Cst Marktstr. 14</td>\n</tr>\n<tr>\n<td>2 20 54</td>\n<td>Mayer, Wilh., Sattler, Friedrichstr. 18</td>\n</tr>\n<tr>\n<td>2 33 88</td>\n<td>Mayer &amp; Co, Blumen, Büchsenstr. 22</td>\n</tr>\n<tr>\n<td>5 23 65</td>\n<td>Mayer &amp; Co., Oelfabrik, Fellbach</td>\n</tr>\n<tr>\n<td>7 22 66</td>\n<td>Mayer-Carry, Dr. K., Arzt, Römerstr. 49</td>\n</tr>\n<tr>\n<td>2 10 68</td>\n<td>Mayer-Eckardt, H., Dir., Sill Braun.Str. 46</td>\n</tr>\n<tr>\n<td>2 93 01</td>\n<td>Mayer-List, Max, Prälat, Gänsheidestr. 105</td>\n</tr>\n<tr>\n<td>2 28 18</td>\n<td>Mayer-List, Dr. Rich., Prof., Forststr. 22</td>\n</tr>\n<tr>\n<td>2 06 65</td>\n<td>Mayer-List, Dr. Rud., Arzt, Herdweg 15</td>\n</tr>\n<tr>\n<td>2 52 99</td>\n<td>Mayer-Peltz, O., R.A. [N], Schulstr. 17</td>\n</tr>\n<tr>\n<td>6 33 92</td>\n<td>Ders., Wohnung, Gaußstr. 76 b</td>\n</tr>\n<tr>\n<td>2 52 99</td>\n<td>O. Mayer-Peltz öff. Notar u. Dr. Hötzel,<br/>Rechtsanwälte, Schulstr. 17</td>\n</tr>\n<tr>\n<td>6 56 92</td>\n<td>Mayer-Plüss, F., Kfm., Botn.Steige 16/1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "35"
+          },
+          {
+            "extension": "7",
+            "text": "42"
+          },
+          {
+            "extension": "6",
+            "text": "33"
+          },
+          {
+            "extension": "2",
+            "text": "27"
+          },
+          {
+            "extension": "2",
+            "text": "45"
+          },
+          {
+            "extension": "2",
+            "text": "90"
+          },
+          {
+            "extension": "8",
+            "text": "19"
+          },
+          {
+            "extension": "6",
+            "text": "64"
+          },
+          {
+            "extension": "7",
+            "text": "32"
+          },
+          {
+            "extension": "6",
+            "text": "17"
+          },
+          {
+            "extension": "7",
+            "text": "30"
+          },
+          {
+            "extension": "2",
+            "text": "08"
+          },
+          {
+            "extension": "2",
+            "text": "87"
+          },
+          {
+            "extension": "2",
+            "text": "61"
+          },
+          {
+            "extension": "2",
+            "text": "94"
+          },
+          {
+            "extension": "7",
+            "text": "95"
+          },
+          {
+            "extension": "6",
+            "text": "01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 0 998 995\" data-label=\"Text\">\n<table border=\"0\">\n<tr>\n<td>7 39 65</td>\n<td>MBA s. Maschinenbau u. Bahnbedarf A.G.<br/>vormals Orenstein &amp; Koppel</td>\n</tr>\n<tr>\n<td>6 15 54</td>\n<td>Mech. Leinenweb. Laichingen, Senef.Str.6b</td>\n</tr>\n<tr>\n<td>3 03 56</td>\n<td rowspan=\"2\">{ Mech. Trikotwarenfabrik Stuttgart-Wangen,<br/>3 03 57 { L. Maier &amp; Sohn, Stuttgart-Wangen</td>\n</tr>\n<tr>\n<td>7 80 96</td>\n<td>Mechanische Weberei Altstadt GmbH,<br/>Vh Teckstr.</td>\n</tr>\n<tr>\n<td>8 16 71</td>\n<td>Meck, Walter, Dipl.Ing., Gunterstr. 1</td>\n</tr>\n<tr>\n<td>2 20 71</td>\n<td>Mederer, Hans, Drogen, Kanzleistr. 1</td>\n</tr>\n<tr>\n<td>5 20 72</td>\n<td>Medinger, E., Bäckerei, Cst Rosenaustr. 2</td>\n</tr>\n<tr>\n<td>2 30 44</td>\n<td>Medis-Labor Donné Burger &amp; Co. KG,<br/>Schützenstr. 19</td>\n</tr>\n<tr>\n<td>2 97 41</td>\n<td>Mediz. Landesuntersuch.Amt, Azenb.St.14</td>\n</tr>\n<tr>\n<td>2 39 70</td>\n<td>Meeh, Imm., Elektr.Anl., Yorckstr. 18</td>\n</tr>\n<tr>\n<td>7 22 17</td>\n<td>Meeh, Paula, Wwe., Alexanderstr. 116</td>\n</tr>\n<tr>\n<td>6 46 66</td>\n<td>Meeh, Wilh., Prok., Zeppelinstr. 23</td>\n</tr>\n<tr>\n<td>4 20 26</td>\n<td>Meeß, Klara, Ww., Landhausstr. 82</td>\n</tr>\n<tr>\n<td>6 45 34</td>\n<td>Megenhardt, W., Fbrkt., Gutbrodstr. 86</td>\n</tr>\n<tr>\n<td>6 21 85</td>\n<td>Megenhart, Fanny, Ww., Reinsburgst.164b</td>\n</tr>\n<tr>\n<td>5 17 39</td>\n<td>Megerlin, Hed., Hebamme, Cst Ruhrstr. 24</td>\n</tr>\n<tr>\n<td>2 02 45</td>\n<td>Mechanik W Oskine Dtn Hummalk</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Straße 4",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "45"
+          },
+          {
+            "extension": "5",
+            "text": "11"
+          },
+          {
+            "extension": "5",
+            "text": "16"
+          },
+          {
+            "extension": "4",
+            "text": "13"
+          },
+          {
+            "extension": "6",
+            "text": "23"
+          },
+          {
+            "extension": "2",
+            "text": "38"
+          },
+          {
+            "extension": "3",
+            "text": "08"
+          },
+          {
+            "extension": "7",
+            "text": "21"
+          },
+          {
+            "extension": "8",
+            "text": "20"
+          },
+          {
+            "extension": "6",
+            "text": "06"
+          },
+          {
+            "extension": "7",
+            "text": "84"
+          },
+          {
+            "extension": "2",
+            "text": "83"
+          },
+          {
+            "extension": "6",
+            "text": "63"
+          },
+          {
+            "extension": "6",
+            "text": "53"
+          },
+          {
+            "extension": "2",
+            "text": "08"
+          },
+          {
+            "extension": "6",
+            "text": "23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "ayer — Meyle",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"28 12 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>9 21 87</td>\n<td>W. A. Meier &amp; Co, Gard.Fbr., Heilbronner Straße 37</td>\n</tr>\n<tr>\n<td>9 10 70</td>\n<td>Meihofer, Fr., Kfm., Militärstr. 17</td>\n</tr>\n<tr>\n<td>4 26 47</td>\n<td>Meiller, F. X., Vertr. UlmerStr. 196</td>\n</tr>\n<tr>\n<td>5 06 66</td>\n<td>Meinecke, H. H., Archit., Ost Lutherstr. 30</td>\n</tr>\n<tr>\n<td>6 12 70</td>\n<td>Meinecke, Walther, Rosenbergstr. 101</td>\n</tr>\n<tr>\n<td>6 36 15</td>\n<td>Meinecke &amp; Mathern, Wipla-Laboratorium, W., Rotebühnstraße 77</td>\n</tr>\n<tr>\n<td>2 05 48</td>\n<td>Carl Meinel &amp; Co., Vertr., Eugenstr. 10</td>\n</tr>\n<tr>\n<td>2 29 24</td>\n<td>Meinhardt, Alb., Kfm., Azenbergstr. 53</td>\n</tr>\n<tr>\n<td>2 79 07</td>\n<td>Meinhardt, Herm., Prok., Azenbergstr. 55</td>\n</tr>\n<tr>\n<td>2 33 27</td>\n<td>Meinhold, Fr., Wäschefbr., Wiederholdstraße 10</td>\n</tr>\n<tr>\n<td>7 45 85</td>\n<td>Meinholt, Walther, Kfm., Deg Löwenstr. 94</td>\n</tr>\n<tr>\n<td>29 88 76</td>\n<td>Meinshausen, F., Versich., Riedb.Ortsweg 5</td>\n</tr>\n<tr>\n<td>2 10 31</td>\n<td>Meintel, Franz, Tapezier, Alleenstr. 23</td>\n</tr>\n<tr>\n<td>6 23 92</td>\n<td>Meintzinger, Conrad, Kfm., Gaußstr. 127</td>\n</tr>\n<tr>\n<td>2 60 13</td>\n<td>Meis, Otto, Seidenschirme, Gaissb.Str. 10</td>\n</tr>\n<tr>\n<td>7 01 92</td>\n<td>Meisel, Hans, Obering., TübingerStr. 22</td>\n</tr>\n<tr>\n<td>9 00 40</td>\n<td>Meisen, Leo, Kol.-W., Mönchstr. 18b</td>\n</tr>\n<tr>\n<td>6 43 65</td>\n<td>Meiß, W., Dr. med., Lerchenstr. 82</td>\n</tr>\n<tr>\n<td>17 00 20</td>\n<td>Meißner, A. Vorr Zannelinstr 20</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 998 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>8 25 13</td>\n<td>Meissel, Usk., PROK., <i>Zufl</i> PARKSTR. 6</td>\n</tr>\n<tr>\n<td>6 38 98</td>\n<td>Meißner, Curt, Lotterieeinn., Rotebühlestrasse 20</td>\n</tr>\n<tr>\n<td>29 88 46</td>\n<td>Ders., Wohnung, <i>Ried</i> Ortsweg 9</td>\n</tr>\n<tr>\n<td>8 21 56</td>\n<td>Meißner, Dr. Gg., Arzt, <i>Feu</i> Bubenh. Str. 31</td>\n</tr>\n<tr>\n<td>4 06 32</td>\n<td>Meißner, Hans A., Dir., Frauenkopf, Rosengartenstr. 33</td>\n</tr>\n<tr>\n<td>8 03 24</td>\n<td><b>Meißner, Karl, Holz- u. Metallmodelle, Apparatebau u. Hobelwellen, Stuttgart-Feuerbach, Wiener Str. 18/20</b></td>\n</tr>\n<tr>\n<td>5 31 82</td>\n<td>Meißner, W., Ing., Ost Th. Veiel-Str. 74</td>\n</tr>\n<tr>\n<td>6 46 98</td>\n<td>Meißner, Walther, Major, Hptm.-Reute 46</td>\n</tr>\n<tr>\n<td>8 06 29</td>\n<td><b>Meißner &amp; Wurst</b><br/><b>Maschinenfabrik, Luftherhitzer,</b><br/><b>Stuttgart-Weil im Dorf</b></td>\n</tr>\n<tr>\n<td>4 22 36</td>\n<td>Meister, Anna, Frau, Planckstr. 51</td>\n</tr>\n<tr>\n<td>2 63 29</td>\n<td>Meister, Friedr., Ofen, Kanalstr. 9</td>\n</tr>\n<tr>\n<td>2 52 27</td>\n<td>Meister, Gottfr., Südf., Brunnenstr. 5</td>\n</tr>\n<tr>\n<td>6 11 88</td>\n<td>Meister, Gottfr., Kfm., Gaußstr. 16</td>\n</tr>\n<tr>\n<td>6 46 52</td>\n<td>Meister, Gustav, Vertr., Herderstr. 52</td>\n</tr>\n<tr>\n<td>2 14 39</td>\n<td>Meister, Willy, Vertr., Torstr. 27</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "53"
+          },
+          {
+            "extension": "6",
+            "text": "59"
+          },
+          {
+            "extension": "3",
+            "text": "13"
+          },
+          {
+            "extension": "2",
+            "text": "60"
+          },
+          {
+            "extension": "2",
+            "text": "84"
+          },
+          {
+            "extension": "2",
+            "text": "35"
+          },
+          {
+            "extension": "78",
+            "text": "92"
+          },
+          {
+            "extension": "2",
+            "text": "51"
+          },
+          {
+            "extension": "5",
+            "text": "04"
+          },
+          {
+            "extension": "2",
+            "text": "69"
+          },
+          {
+            "extension": "3",
+            "text": "04"
+          },
+          {
+            "extension": "5",
+            "text": "20"
+          },
+          {
+            "extension": "7",
+            "text": "43"
+          },
+          {
+            "extension": "4",
+            "text": "08"
+          },
+          {
+            "extension": "2",
+            "text": "22"
+          },
+          {
+            "extension": "2",
+            "text": "51"
+          },
+          {
+            "extension": "0",
+            "text": "07"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "78",
+            "text": "92"
+          },
+          {
+            "extension": "6",
+            "text": "16"
+          },
+          {
+            "extension": "9",
+            "text": "12"
+          },
+          {
+            "extension": "2",
+            "text": "52"
+          },
+          {
+            "extension": "2",
+            "text": "52"
+          },
+          {
+            "extension": "5",
+            "text": "11"
+          },
+          {
+            "extension": "7",
+            "text": "03"
+          },
+          {
+            "extension": "4",
+            "text": "28"
+          },
+          {
+            "extension": "4",
+            "text": "22"
+          },
+          {
+            "extension": "7",
+            "text": "40"
+          },
+          {
+            "extension": "7",
+            "text": "35"
+          },
+          {
+            "extension": "6",
+            "text": "51"
+          },
+          {
+            "extension": "6",
+            "text": "31"
+          },
+          {
+            "extension": "6",
+            "text": "25"
+          },
+          {
+            "extension": "6",
+            "text": "09"
+          },
+          {
+            "extension": "8",
+            "text": "08"
+          },
+          {
+            "extension": "7",
+            "text": "31"
+          },
+          {
+            "extension": "9",
+            "text": "05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"21 13 984 992\" data-label=\"Text\"><table><tbody><tr><td>6 63 24</td><td>Menzel, Friedrich, Dr.-Ing., Köllestr. 2</td></tr><tr><td>7 12 59</td><td>Menzel, Herm., Major, <i>Möhr</i> J.Schmid-<br/>Straße 15</td></tr><tr><td>7 44 47</td><td>Menzel, Osw., Mozartstr. 26</td></tr><tr><td>2 40 45</td><td rowspan=\"2\">} <b>Menzel &amp; Co., Kläranlagen, Stuttgart-N,</b><br/><b>Seestr. 28. P 354 65</b></td></tr><tr><td>2 40 47</td></tr><tr><td>9 05 99</td><td>Menzinger-Fendel, Transp., Ludend.Str. 6</td></tr><tr><td>5 21 02</td><td>Merath, Gg., Schloss., <i>Cst</i> Voltastr. 15</td></tr><tr><td>2 38 33</td><td>Mercedes Büromaschinen-Werke A.-G.,<br/>Friedrichstr. 23 A</td></tr><tr><td>5 00 56</td><td>Mercedes Schuhfabr.AG, <i>Cst</i> F.Ettwein-<br/>Straße 21</td></tr><tr><td>8 01 41</td><td>Mercedes-Weinbrennereien Grüsy u. Mayer,<br/><i>Feu</i> Rolandstr. 19/21 e</td></tr><tr><td>6 44 07</td><td>Merck, E., Chem. Fabr., Rotebühlstr. 99</td></tr><tr><td>6 30 35</td><td>Mercky, Heinr., Schlosser, Falkertstr. 71 A</td></tr><tr><td>6 05 49</td><td>Mergel, Hugo, Vertr., Augustenstr. 3</td></tr><tr><td>5 23 63</td><td>Mergenthaler, Albert, Gartenbau, <i>Flub</i><br/>SchorndorferStr. 32</td></tr><tr><td>5 26 02</td><td>Mergenthaler, Alfred, Gärtnerei, <i>Flub</i><br/>Stuttgarter Str 1A</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 991 937\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>4 07 69</td>\n<td>Mergenthaler, A., Kaffee, Bussensur. 55</td>\n</tr>\n<tr>\n<td>5 12 87</td>\n<td>Anna u. Frieda Mergenthaler, Bäckerei,<br/><i>Mühlh</i> Veitstr. 7</td>\n</tr>\n<tr>\n<td>8 16 24</td>\n<td>Mergenthaler, Chr., Min.-Präs., <i>Korn</i><br/>Landhausstr. 41</td>\n</tr>\n<tr>\n<td>5 23 38</td>\n<td>Mergenthaler, Eugen, Autos, <i>Flib</i> Stutt-<br/>garter Str. 14</td>\n</tr>\n<tr>\n<td>29 89 05</td>\n<td>Mergenthaler, Gottl., Malermstr., <i>Pien</i><br/>Stuttgarter Str. 68</td>\n</tr>\n<tr>\n<td>2 66 82</td>\n<td>Mergenthaler, H., Posam.-Fbr., Calwer<br/>Straße 17</td>\n</tr>\n<tr>\n<td>5 28 73</td>\n<td>Mergenthaler, K., Tapez., <i>Cst</i> Schmid-<br/>Straße 106</td>\n</tr>\n<tr>\n<td>9 04 83</td>\n<td>Mergenthaler, K., Tapez., Nordbhfstr. 73</td>\n</tr>\n<tr>\n<td>7 16 65</td>\n<td>Mergenthaler, O., Bäcker, Burgstallstr. 20</td>\n</tr>\n<tr>\n<td>5 27 75</td>\n<td>Mergenthaler, Robert, Gartenbau, <i>Flib</i><br/>Eberhardstr. 48</td>\n</tr>\n<tr>\n<td>7 25 23</td>\n<td>Merian, Gerh., Buchhdlg., <i>Deg</i> Jahnstr. 43</td>\n</tr>\n<tr>\n<td>2 48 69</td>\n<td>Merinkentante, Konditorei, BreiteStr. 9</td>\n</tr>\n<tr>\n<td>4 30 63</td>\n<td>Merk, Emil, Autoverm., Stufenstr. 10</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a light beige background with faint, illegible text impressions.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The paper has a light beige or off-white color with a slightly textured appearance. There are very faint, illegible impressions of text scattered across the page, which appear to be bleed-through from the other side of the paper. No actual entries or headings are visible.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"24 11 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>7 44 75</td>\n<td>Merk, Jos., Schuhwr.,</td>\n<td>Deg Reutl.Str. 97</td>\n</tr>\n<tr>\n<td>(3 05 44)</td>\n<td>Merk, Kurt, Ing.,</td>\n<td>Obth Samoastr. 20</td>\n</tr>\n<tr>\n<td>6 02 12</td>\n<td>Merk, Willy, Kfm.,</td>\n<td>Moltkestr. 63</td>\n</tr>\n<tr>\n<td>7 23 68</td>\n<td>v. Merkatz, General,</td>\n<td>Neue Weinsteige 21</td>\n</tr>\n<tr>\n<td>7 88 70</td>\n<td>v. Merkatz, Joh.-Friedr.,</td>\n<td>Oberltn., VI<br/>MöhlingerStr. 52</td>\n</tr>\n<tr>\n<td>2 08 90</td>\n<td>Merkel, Dr. Ferdin.,</td>\n<td>Arzt, Herdweg 11</td>\n</tr>\n<tr>\n<td>3 08 08</td>\n<td>Merkel u. Kienlin</td>\n<td>GmbH, Spinnerei<br/>Eßlingen, Fabrikstr. 42</td>\n</tr>\n<tr>\n<td>9 06 22</td>\n<td>Merckenthaler, Hans,</td>\n<td>Rat, Wiederhold-<br/>straße 22</td>\n</tr>\n<tr>\n<td>7 44 98</td>\n<td>Merker, Gottlieb, Priv.,</td>\n<td>Mozartstr. 56</td>\n</tr>\n<tr>\n<td>(4 21 53)</td>\n<td>Merker, Herm., Ing.,</td>\n<td>Wagenburgstr. 21</td>\n</tr>\n<tr>\n<td>9 03 29</td>\n<td>Merker, Herm., Privatm.,</td>\n<td>Olgastr. 73</td>\n</tr>\n<tr>\n<td>5 10 16</td>\n<td>Merker, K., Flaschn.,</td>\n<td>Cst Wiesbad.Str. 32</td>\n</tr>\n<tr>\n<td>8 12 81</td>\n<td>Merkert, Ed., Spielwr.,</td>\n<td>Feu Ad.Hitler-<br/>Straße 95</td>\n</tr>\n<tr>\n<td>6 01 87</td>\n<td>Merkert-Haagen, H.,</td>\n<td>Tanz, Schwabstr. 130</td>\n</tr>\n<tr>\n<td>2 58 98</td>\n<td>Merkl, Hans, Vertretungen,</td>\n<td>Hegelstr. 36</td>\n</tr>\n<tr>\n<td>4 07 05</td>\n<td>Merkle, Ww. Albert,</td>\n<td>Bäckerei, Werastr. 92</td>\n</tr>\n<tr>\n<td>2 52 96</td>\n<td>Merkle, Clara, Präparator,</td>\n<td>EßlingerStr. 23</td>\n</tr>\n<tr>\n<td>A 10 50</td>\n<td>Merkle, F. Privatm.</td>\n<td>Klonatnokratr 9A</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"19 0 998 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 05 71</td>\n<td>Merkle, Emme, Ww., Seestr. 61</td>\n</tr>\n<tr>\n<td>7 48 35</td>\n<td>Merkle, Franz, Kol.-W., Frauenstr. 21</td>\n</tr>\n<tr>\n<td>(2 60 32)</td>\n<td>Merkle, Dr. Franz, Dir., Alb.Dürer-Weg 64</td>\n</tr>\n<tr>\n<td>5 13 19</td>\n<td>Merkle, Frdr., Gärtner, Cst Wild.Str. 94</td>\n</tr>\n<tr>\n<td>6 28 31</td>\n<td>Merkle, Fritz, Malerm., Schwabstr. 87</td>\n</tr>\n<tr>\n<td>3 09 54</td>\n<td>Merkle, H., Ing., Unth Wendelinstr. 14</td>\n</tr>\n<tr>\n<td>6 28 02</td>\n<td>Merkle, Hugo, Malermstr., Rotebühlstr. 165</td>\n</tr>\n<tr>\n<td>9 20 38</td>\n<td>Merkle, Ww. K., Pension, Werastr. 46</td>\n</tr>\n<tr>\n<td>3 07 36</td>\n<td>Merkle, L., Torfmull, Uhlb Uhlb.Str. 206</td>\n</tr>\n<tr>\n<td>2 06 95</td>\n<td>Merkle, Otto, Dachdecker, Heilbronner Straße 111</td>\n</tr>\n<tr>\n<td>4 26 25</td>\n<td>Merkle, Therese, Waschk., Obernitzstr. 8</td>\n</tr>\n<tr>\n<td>6 47 31</td>\n<td>Merkle, Viktor, Obering., G.Siegle-Str. 18</td>\n</tr>\n<tr>\n<td>7 31 80</td>\n<td>Merkle, Wilh., Steuerber., Mozartstr. 41</td>\n</tr>\n<tr>\n<td>9 07 76</td>\n<td>Merkle, Willi, Ing., Alex.Str. 14 A</td>\n</tr>\n<tr>\n<td>5 18 08</td>\n<td>Merkle &amp; Co, Autos, Cst Daimlerstr. 39</td>\n</tr>\n<tr>\n<td>2 31 52</td>\n<td>Merkle &amp; Strohmeier, Möbel, Martinstr. 18</td>\n</tr>\n<tr>\n<td>2 93 26</td>\n<td>Merkur-Automat, Königstr. 10b</td>\n</tr>\n<tr>\n<td>7 05 92</td>\n<td>Merkur Ersatzkasse, TübingerStr. 51</td>\n</tr>\n<tr>\n<td>6 20 99</td>\n<td>Merten, F., Konzertmstr., D.Eckart-Str. 13</td>\n</tr>\n<tr>\n<td>7 01 63</td>\n<td>Mertens, Emmy, Deg Weidachstr. 15</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "85"
+          },
+          {
+            "extension": "4",
+            "text": "21"
+          },
+          {
+            "extension": "2",
+            "text": "55"
+          },
+          {
+            "extension": "5",
+            "text": "05"
+          },
+          {
+            "extension": "5",
+            "text": "05"
+          },
+          {
+            "extension": "5",
+            "text": "10"
+          },
+          {
+            "extension": "5",
+            "text": "05"
+          },
+          {
+            "extension": "5",
+            "text": "28"
+          },
+          {
+            "extension": "9",
+            "text": "15"
+          },
+          {
+            "extension": "2",
+            "text": "47"
+          },
+          {
+            "extension": "5",
+            "text": "01"
+          },
+          {
+            "extension": "5",
+            "text": "27"
+          },
+          {
+            "extension": "5",
+            "text": "31"
+          },
+          {
+            "extension": "6",
+            "text": "42"
+          },
+          {
+            "extension": "2",
+            "text": "27"
+          },
+          {
+            "extension": "2",
+            "text": "62"
+          },
+          {
+            "extension": "2",
+            "text": "86"
+          },
+          {
+            "extension": "4",
+            "text": "05"
+          },
+          {
+            "extension": "9",
+            "text": "25"
+          },
+          {
+            "extension": "6",
+            "text": "92"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 982\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>6 54 61</td>\n<td>Merz, Eugenie, Ww., Bismarckstr. 39</td>\n</tr>\n<tr>\n<td>7 13 02</td>\n<td>Merz, Franz, Kfm., Schickhardstr. 43</td>\n</tr>\n<tr>\n<td>6 03 96</td>\n<td>Geschw. Merz, Spezerei, Herm.Str. 2b</td>\n</tr>\n<tr>\n<td>8 25 84</td>\n<td>Merz, H., Dr., <i>Feu</i> Happoldstr. 44</td>\n</tr>\n<tr>\n<td>5 01 19</td>\n<td>Merz, Heinrich, Wollwarenfabrik, Stuttgart-Bad Cannstatt, Sulzerrainstr. 7</td>\n</tr>\n<tr>\n<td>5 22 63</td>\n<td>Derselbe, Kunstseidenwirkerei, Stuttgart-Bad Cannstatt, Wilhelmstr. 16</td>\n</tr>\n<tr>\n<td>2 76 87</td>\n<td>Merz, Hilde, D.-Moden, Königstr. 10a</td>\n</tr>\n<tr>\n<td>2 29 35</td>\n<td>Merz, Karl, Notar, BreiteStr. 7</td>\n</tr>\n<tr>\n<td>6 38 22</td>\n<td>Merz, Karl, Gärtn., <i>Botn</i> Zumsteegstr. 16</td>\n</tr>\n<tr>\n<td>6 53 54</td>\n<td>Merz, Kurt, Kfm., Klopstockstr. 2</td>\n</tr>\n<tr>\n<td>9 11 34</td>\n<td>K. Merz &amp; H. Pabst, Autos, Lautenschl. Straße 18</td>\n</tr>\n<tr>\n<td>7 33 64</td>\n<td>Merz, Marie, Ww., <i>Sonn</i> Haldenwaldstr. 4</td>\n</tr>\n<tr>\n<td>2 27 23</td>\n<td>P. u. O. Merz, Viehkommiss., Rosenb.Str. 6a</td>\n</tr>\n<tr>\n<td>2 62 46</td>\n<td>Merz, Dr. Rich., Zahnarzt, Königstr. 40</td>\n</tr>\n<tr>\n<td>(2 65 30)</td>\n<td>Merz, Walter, Bauing., Hohenh.Str. 31</td>\n</tr>\n<tr>\n<td>7 47 30</td>\n<td>Merz, Wilh., Hohentwielstr. 106</td>\n</tr>\n<tr>\n<td>5 32 98</td>\n<td>Merz, Wilh., Kfm., <i>Cst</i> Wilhelmstr. 31</td>\n</tr>\n<tr>\n<td>2 97 27</td>\n<td>Merzhäuser, Willy, Kfm., Königstr. 43</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 993\" data-label=\"Table\"><table><tr><td>6 54 21</td><td>Messemer, E. Schneider, Vogelsangstr. 25</td></tr><tr><td>78 90 39</td><td>Messer, Fritz, <i>Vh</i> Wegländerstr. 36</td></tr><tr><td>2 51 73</td><td>G. Messerle &amp; Co, Kurzwr., Ob.Bachstr. 27</td></tr><tr><td>7 80 22</td><td>Messerle, Jul., elektrotechn. Gesch., Rohra-<br/>acker</td></tr><tr><td>2 89 88</td><td>Messerschmidt, E., Kunstmal., Alex.Str. 18</td></tr><tr><td>6 32 77</td><td>Messerschmidt, Emma, Ww., Böckenw.<br/>Straße 6</td></tr><tr><td>5 10 46</td><td>Messerschmidt, Hch., Schulrat, <i>Cst</i> Wörish-<br/>hofenerStr. 5</td></tr><tr><td>78 91 79</td><td>Messerschmidt, Heinr., Kfm., <i>Rohr</i> Im 1.<br/>Hau 1</td></tr><tr><td>2 69 48</td><td>Meßhotel, H. Zeller, Fürstenstr. 5</td></tr><tr><td>9 02 69</td><td>Messinger, Aug., Privatm., Gerokstr. 15</td></tr><tr><td>6 37 26</td><td>Messinger, Erich, Kfm., Köllestr. 2</td></tr><tr><td>5 20 56</td><td>Messinger, K., Leder, <i>Fuß</i> Eberh.Str. 22</td></tr><tr><td>4 23 18</td><td>Messinger, Kurt, Vertr., Traubergstr. 19</td></tr><tr><td>6 36 55</td><td>Meßmer, Gotthilf, Kfm., Vogelsangstr. 19</td></tr><tr><td>2 38 73</td><td>Messmer, W., Sonnenbergstr. 54</td></tr><tr><td>78 91 03</td><td>Messmer &amp; Schupp, Leimfabr., <i>Möhr</i><br/>VaihingerStr 199</td></tr></table></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 983 939\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2 04 67</td>\n<td>Melner, Georg, Vertr., Hegelstr. 21</td>\n</tr>\n<tr>\n<td>7 48 09</td>\n<td>Meßner, Hans, Vertr., Gebelsbergstr. 87</td>\n</tr>\n<tr>\n<td>6 51 95</td>\n<td>Messner, Heinrich, Gaußstr. 38</td>\n</tr>\n<tr>\n<td>6 18 94</td>\n<td>Messner, Jakobinc, Ww., Gaußstr. 45</td>\n</tr>\n<tr>\n<td>2 10 05</td>\n<td>Meßner, J., Gesch.-Führ., Alleenstr. 34</td>\n</tr>\n<tr>\n<td>6 31 07</td>\n<td>Meßner, M., Leder, Gutenbergstr. 32</td>\n</tr>\n<tr>\n<td>8 08 88</td>\n<td>Messungsamt Leonberg, Zweigst. Korntal,<br/>Saalpl. 1</td>\n</tr>\n<tr>\n<td>7 82 70</td>\n<td>Messungsamt Vaihingen, <i>Vaih</i> Hindenb.-<br/>Straße 1</td>\n</tr>\n<tr>\n<td>6 51 86</td>\n<td>Metallind. Schönebeck AG, Rötistr. 6</td>\n</tr>\n<tr>\n<td>3 01 10</td>\n<td>Metall- u. Kunstgießerei Fr. Burger, <i>Unth</i><br/>Postwiesenstr. 8</td>\n</tr>\n<tr>\n<td>5 05 85</td>\n<td>Metallgießerei Hüdelmaier, <i>Cst</i> Glocken-<br/>straße 6</td>\n</tr>\n<tr>\n<td>6 12 95</td>\n<td>Methodistenkirche, Reinsburgstr. 1</td>\n</tr>\n<tr>\n<td>5 00 35</td>\n<td>Dies., Christuskirche, <i>Cst</i> Daimlerstr. 15</td>\n</tr>\n<tr>\n<td>7 88 96</td>\n<td>Dies., Pauluskapelle, <i>Vaih</i> Jakobstr. 11</td>\n</tr>\n<tr>\n<td>7 13 31</td>\n<td>Dies. Sofenkirche, E. Weinstein-Str. 21c</td>\n</tr>\n<tr>\n<td>8 25 83</td>\n<td>Dies., Friedenskirche, <i>Zuff</i> KolmarerStr. 35</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black dot in the lower right quadrant.\"/>This image is a blank white page. It contains a single, small, solid black dot located in the lower right quadrant of the page. There is no text, handwriting, or printed content on the page.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "rläuterung der Orts- u. Vorortsabkürzungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"31 11 800 993\" data-label=\"Text\"><table><tbody><tr><td>2 45 56</td><td>Mettenheimer &amp; Simon-Collischoh GmbH<br/>Drogen, Wolframstr. 36</td></tr><tr><td>2 16 96</td><td>Mettenleiter, F., Kaffeehausbes., Kronen-<br/>straße 26</td></tr><tr><td>6 23 83</td><td>Mettier, Frdr., Papier, Hermannstr. 18</td></tr><tr><td>6 44 87</td><td>Mettler, H., Matratzenfabr., Gartenstr. 17</td></tr><tr><td>2 67 02</td><td>Mettler, Marie, Sportlehr., Seestr. 43</td></tr><tr><td>6 24 09</td><td>Metz, Georg, Fichtestr. 20</td></tr><tr><td>7 34 77</td><td>Metz, Walther, Vertrct., AlteWeinst. 60</td></tr><tr><td>2 11 16</td><td>Metz &amp; Cie, Furniere, Hindenburgbau</td></tr><tr><td>6 53 05</td><td>Metzer, Emil, Vertr., Reinsburgstr. 208 A</td></tr><tr><td>2 27 07</td><td>Metzeler Gummiiwerke AG, Moserstr. 18 a</td></tr><tr><td>6 30 58</td><td>Metzger, Ad., Geschäftsf., <i>Botn</i> Vaih.Str. 62</td></tr><tr><td>5 19 52</td><td>Metzger, Alb., Bäckerei, <i>Filb</i> Karlstr. 16</td></tr><tr><td>8 16 80</td><td>Metzger, A., Fabrkt., <i>Zuff</i> Unterl.Str. 58</td></tr><tr><td>7 46 28</td><td>Metzger, Arn., Graph., <i>Kalt</i> Gallusstr. 40</td></tr><tr><td>8 09 26</td><td>Metzger, Aug., Dir., <i>Zuff</i> G.Keller Str. 18</td></tr><tr><td>5 08 53</td><td>Metzger, Carl, Prok., <i>Cst</i> Nürnbg.Str. 153</td></tr><tr><td>2 56 02</td><td>Metzger, Chr., Samen, Ilgenplatz 12</td></tr><tr><td>6 12 83</td><td>Metzger, Elis., Ww., Rotebühlstr. 80</td></tr><tr><td>2 41 64</td><td>Metzger, Dr. Ernst, Prof., Maliweg 5</td></tr><tr><td>5 94 10</td><td>Metzger Eugen Mäholfskritz Fallbach</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 797 988\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>5 01 18</td>\n<td>Metzger, Frdr., Bäcker, Cst Duisb.Str. 43</td>\n</tr>\n<tr>\n<td>2 45 93</td>\n<td>Metzger, Friedr., Milch, Feuerb.Weg 9</td>\n</tr>\n<tr>\n<td>78 90 14</td>\n<td>Metzger, Fritz, Gasth., Rohr Steigstr. 16</td>\n</tr>\n<tr>\n<td>4 24 19</td>\n<td>Metzger, G., techn. Prod., R.v.Schönerer-<br/>Straße 106</td>\n</tr>\n<tr>\n<td>78 91 35</td>\n<td>Metzger, Gottf., Sekr., Vh Eichend.Str. 5</td>\n</tr>\n<tr>\n<td>4 12 16</td>\n<td>Metzger, Gust., Install., Talstr. 104</td>\n</tr>\n<tr>\n<td>5 10 15</td>\n<td>Metzger, Herm., Bäck., Cst Aach.Str. 20</td>\n</tr>\n<tr>\n<td>5 06 58</td>\n<td>Metzger, H., Kunstm., Cst Brückenstr. 27</td>\n</tr>\n<tr>\n<td>8 11 80</td>\n<td>Metzger, J., Besenf., Zuf Mühla.Str. 10</td>\n</tr>\n<tr>\n<td>6 23 48</td>\n<td>Metzger, Joh., Ww., Militärstr. 32</td>\n</tr>\n<tr>\n<td>8 04 95</td>\n<td>Metzger, Josef, Eier, Feu LinzerStr. 25</td>\n</tr>\n<tr>\n<td>9 21 50</td>\n<td>Metzger, Jul., Postrat, Hildebrandstr. 28</td>\n</tr>\n<tr>\n<td>8 04 33</td>\n<td>Metzger, K., Baug., Zuf Besigh.Str. 61</td>\n</tr>\n<tr>\n<td>5 16 58</td>\n<td>Metzger, K., Chauff., Cst Windröschenw. 7</td>\n</tr>\n<tr>\n<td>2 66 66</td>\n<td>v.Metzger, Dr. K., Präsid., Stafflenb.Str. 44</td>\n</tr>\n<tr>\n<td>2 71 27</td>\n<td>Metzger, K., Stadtbaumstr., Gneis.Str. 12</td>\n</tr>\n<tr>\n<td>6 56 72</td>\n<td>Metzger, Lina, Zuschneidekurse, Paulinen-<br/>straße 29</td>\n</tr>\n<tr>\n<td>2 44 78</td>\n<td>Metzger, Maria, Kosmetik, Neckarstr. 24</td>\n</tr>\n<tr>\n<td>4 16 94</td>\n<td>Metzger, Maria, Schneiderin, Sickstr. 20 F</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 791 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 30 60</td>\n<td>Metzger, Max, Wäsche, <i>Flb</i> Canstatter Straße 119</td>\n</tr>\n<tr>\n<td>8 09 70</td>\n<td><b>Robert Metzger &amp; Co., Waggon-Leihanstalt (Wein- u. Kesselwagen, Kühlwagen), Stuttgart-Zuffenhausen. T Metzgerius P 21189</b></td>\n</tr>\n<tr>\n<td>2 06 21</td>\n<td>Metzger, R., Zeitungen, Lautenschl.Str. 4</td>\n</tr>\n<tr>\n<td>6 22 69</td>\n<td>Metzger, Dr. Wilh., Arzt, Johannesstr. 38</td>\n</tr>\n<tr>\n<td>7 84 35</td>\n<td>Metzger, Wolfg., Pfarrer, <i>Rohr</i> Waldstr. 25</td>\n</tr>\n<tr>\n<td>2 21 91</td>\n<td>Metzieder, Theo, Vertr., Kornbergstr. 11</td>\n</tr>\n<tr>\n<td>9 02 86</td>\n<td>Metzke-Rovira, H., Merowerkst., Neckarstraße 14a</td>\n</tr>\n<tr>\n<td>9 02 86</td>\n<td>Metzke-Rovira, J. M., Archit., Neckarstr. 14</td>\n</tr>\n<tr>\n<td>2 02 19</td>\n<td>Metzler &amp; Cie, Opt. Anst. KG, Azenbergstraße 82</td>\n</tr>\n<tr>\n<td>(2 73 06)</td>\n<td>Metzler, Dr. Ernst, Zahnarzt, Uhlandstr. 23</td>\n</tr>\n<tr>\n<td>2 12 23</td>\n<td>Metzler, Friedr., Dir., Militärstr. 17</td>\n</tr>\n<tr>\n<td>7 85 14</td>\n<td>Derselbe, Wohnung, <i>Obaich</i> Landh. Metzler</td>\n</tr>\n<tr>\n<td>7 33 41</td>\n<td>J. B. Metzler'sche Druck., Weinsteinstr. 16</td>\n</tr>\n<tr>\n<td>7 36 66</td>\n<td>Dies., Verlagsbuchhdlg., Weinsteinstr. 16</td>\n</tr>\n<tr>\n<td>2 05 06</td>\n<td>Metzler, Dr. Jos., Präs., Seestr. 100</td>\n</tr>\n<tr>\n<td>2 12 25</td>\n<td>Metzler <i>Too</i> <i>Crank</i> <i>Manck</i> <i>Das</i> <i>Tranck</i></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "burgstr. 32",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "13 60 Metzler, Walter, Tapez., Urbanstr. 126"
+          },
+          {
+            "extension": "2",
+            "text": "47 81 Metzmeier, O., Weinstube, Wilh.Pl. 9"
+          },
+          {
+            "extension": "6",
+            "text": "24 67 Meulmann, F. E., Vertr., Schwabstr. 125"
+          },
+          {
+            "extension": "8",
+            "text": "18 92 Meurer, Eugen, Prok., Zuff Oehr.Str. 35 (8 00 77) Meuret, G., Chem. Prod., Feu Hitlerstr. 36"
+          },
+          {
+            "extension": "5",
+            "text": "33 68 Meuschel, Hans, Dr., Cst I.Kienbach 8"
+          },
+          {
+            "extension": "6",
+            "text": "53 85 Meuth, Herm., Dr.-Ing., Nußklinge 19"
+          },
+          {
+            "extension": "2",
+            "text": "48 95 Mey & Edlich, Wäschefabr., Königstr. 38"
+          },
+          {
+            "extension": "6",
+            "text": "17 32 Meyding, Paul, Kfm., Zeppelinstr. 149"
+          },
+          {
+            "extension": "6",
+            "text": "13 37 Meyding, Paul, Kfm., Chamissostr. 22"
+          },
+          {
+            "extension": "6",
+            "text": "42 80 Meyding, Dr. R., Min.-Dir., Aug.Str. 39 A"
+          },
+          {
+            "extension": "2",
+            "text": "88 64 Meye, Franz, Versich., Lenzhalde 47"
+          },
+          {
+            "extension": "6",
+            "text": "10 79 J. Meye & Co, Sicherungen, Rotenw.Str. 94"
+          },
+          {
+            "extension": "9",
+            "text": "02 62 Meyer, Adolf, Oberforstrat, H.Kurzstr. 19"
+          },
+          {
+            "extension": "7",
+            "text": "20 64 Meyer, Alex., Prok., Hohentwielstr. 128"
+          },
+          {
+            "extension": "4",
+            "text": "18 35 Meyer, Alfred, Ing., Schellbergstr. 9"
+          },
+          {
+            "extension": "6",
+            "text": "48 17 Ant. Meyers Nf., Lindenspürstr. 20"
+          },
+          {
+            "extension": "4",
+            "text": "00 02 Meyer, Bernh., Arzt, Neuh.Str. 7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "9",
+            "text": "10"
+          },
+          {
+            "extension": "2",
+            "text": "50"
+          },
+          {
+            "extension": "4",
+            "text": "22"
+          },
+          {
+            "extension": "2",
+            "text": "21"
+          },
+          {
+            "extension": "8",
+            "text": "21"
+          },
+          {
+            "extension": "2",
+            "text": "14"
+          },
+          {
+            "extension": "4",
+            "text": "01"
+          },
+          {
+            "extension": "8",
+            "text": "12"
+          },
+          {
+            "extension": "7",
+            "text": "14"
+          },
+          {
+            "extension": "8",
+            "text": "19"
+          },
+          {
+            "extension": "4",
+            "text": "21"
+          },
+          {
+            "extension": "6",
+            "text": "40"
+          },
+          {
+            "extension": "2",
+            "text": "48"
+          },
+          {
+            "extension": "4",
+            "text": "06"
+          },
+          {
+            "extension": "6",
+            "text": "34"
+          },
+          {
+            "extension": "7",
+            "text": "27"
+          },
+          {
+            "extension": "0",
+            "text": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "ml.-Nr. Wilhelm Meyer-Ilschen Miederfabrik, Stuttgart - Bad Cannstatt, Hallstr. 25. T Meyerilschen P 388"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

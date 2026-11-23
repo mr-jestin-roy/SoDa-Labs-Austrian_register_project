@@ -1,0 +1,856 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"283 740 616 937\" data-label=\"Text\"><p>334 (Branchenteil)</p></div><div data-bbox=\"773 750 997 921\" data-label=\"Text\"><p>2660. Ho</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"493 0 789 231\"}, {\"label\": \"Text\", \"bbox\": \"606 279 688 395\"}, {\"label\": \"Text\", \"bbox\": \"422 399 859 533\"}, {\"label\": \"Text\", \"bbox\": \"414 533 868 665\"}, {\"label\": \"Text\", \"bbox\": \"394 665 891 800\"}, {\"label\": \"Text\", \"bbox\": \"487 796 796 930\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"290 93 411 226\" data-label=\"Text\"><p><b>R2 55 45</b></p></div><div data-bbox=\"602 89 818 250\" data-label=\"Text\"><p><b>Hess' Hotel's</b></p></div><div data-bbox=\"543 283 878 445\" data-label=\"Text\"><p><b>Oesterreichischer Hof</b></p></div><div data-bbox=\"520 473 895 625\" data-label=\"Text\"><p>Wien I/1, Fleischmarkt 10</p></div><div data-bbox=\"292 661 413 787\" data-label=\"Text\"><p><b>R2 40 20</b></p></div><div data-bbox=\"489 651 912 830\" data-label=\"Text\"><p><b>König v. Ungarn (St. Stefan)</b></p></div><div data-bbox=\"512 843 895 977\" data-label=\"Text\"><p>Wien I/1. Schulerstraße 10</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"288 46 998 977\" data-label=\"List-Group\"><p>R2 02 50 <b>Hotel Adlerhof</b>, Inh. Paul u. Elise Eben-<br/>spanger, Wien I/1, Hafnersteig 7</p><p>A1 82 47 <b>Hotel Alserbach</b>, Bes.: Fanny Kral und<br/>Josef Baumann, IX/66, Pfluggasse 1</p><p>R2 72 17 <b>Hotel Altenburgerhof</b>, Hammerer &amp; Co.,<br/>Wien I/1. Walfischgasse 5</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"288 244 414 638\" data-label=\"Text\"><p>A1 92 22<br/>A1 92 23</p></div><div data-bbox=\"414 25 434 846\" data-label=\"Text\"><p>{</p></div><div data-bbox=\"480 20 933 865\" data-label=\"Text\"><p>Hotel, Kaffee u. Restaurant<br/><b>„Auge Gottes“</b><br/>Wien IX/66, Nußdorfer Str. 75</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"452 93 834 343\"}, {\"label\": \"Text\", \"bbox\": \"463 441 819 602\"}, {\"label\": \"Text\", \"bbox\": \"409 687 879 830\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"287 0 998 981\" data-label=\"List-Group\"><p><b>R4 75 90 Hotel Continental A.-G., vorm. „Goldenes Lamm“, Wien II/27, Praterstr. 7</b></p><p><b>R4 45 94 Hotel Deutscher Hof</b><br/>Wien II/27, Gr. Stadtgutgasse 31</p><p><b>U5 12 62 Hotel Dornbach</b><br/>Wien XVII/107, Alsgasse 12</p><p><b>A1 60 47 Hotel Egerländer</b><br/>Wien IX/66, Am Franz-Josefs-Bahnhof</p><p><b>R2 95 00 Hotel Erzherzog Karl, Inh. Kawan u. Schindler, Wien I/1, Kärntner Str. 31</b></p><p><b>R4 34 09 Hotel de l'Europe</b><br/>Wien II/27, Weintraubengasse 14</p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "„Hotel Excelsior“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"288 20 994 955\"}]",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"381 98 900 330\"}, {\"label\": \"Text\", \"bbox\": \"423 395 860 540\"}, {\"label\": \"Text\", \"bbox\": \"437 576 848 718\"}, {\"label\": \"Text\", \"bbox\": \"487 750 803 899\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"288 0 997 153\" data-label=\"Text\"><p>U1 70 94 <b>Hotel Gabriel</b> Wien III/40<br/>Landstr. Hauptstr. 165</p></div><div data-bbox=\"288 153 969 283\" data-label=\"Text\"><p>U1 54 70 <b>Hotel goldne Spinne</b></p></div><div data-bbox=\"518 283 916 359\" data-label=\"Text\"><p>III/40, Linke Bahngasse 1a</p></div><div data-bbox=\"290 356 844 425\" data-label=\"Text\"><p>A2 20 21 <b>Hotel Hernalserhof</b></p></div><div data-bbox=\"454 425 969 497\" data-label=\"Text\"><p>Wien XVII/107. Hernalser Gürtel 1</p></div><div data-bbox=\"288 497 936 636\" data-label=\"Text\"><p>B3 10 40 <b>Hotel Höller</b> Inh. Johann<br/>B3 10 64 Höller's Erben,</p></div><div data-bbox=\"443 636 815 705\" data-label=\"Text\"><p>Wien VII/62, Burggasse 2</p></div><div data-bbox=\"288 705 994 839\" data-label=\"Text\"><p>R3 25 10 <b>Hotel Holzwarth</b>, Wien XV/101, Maria-<br/>hilfer Straße 156</p></div><div data-bbox=\"288 839 994 983\" data-label=\"Text\"><p>Wien-Sulz 7 <b>Hotel-Restaurant, Pension „Hubertus-<br/>hof“</b>, Wien XXIV-Sulz-Stangau</p></div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"427 114 863 451\"}, {\"label\": \"Text\", \"bbox\": \"465 490 837 656\"}, {\"label\": \"Text\", \"bbox\": \"403 701 887 861\"}]",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"289 233 415 490\"}, {\"label\": \"Section-Header\", \"bbox\": \"455 75 966 233\"}, {\"label\": \"Text\", \"bbox\": \"451 261 956 937\"}]",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"427 0 853 266\" data-label=\"Text\"><p><b>„Hotel Kaiserhof“</b></p></div><div data-bbox=\"504 266 806 460\" data-label=\"Text\"><p><b>Inh. A. M. Scharetzer</b></p></div><div data-bbox=\"400 486 893 944\" data-label=\"Text\"><p><b>Wien IV/50, Frankenberggasse 10</b><br/><b>Fernsprecher: U 4 95 40 u. U 4 24 32</b></p></div>",
+      "cells": [
+        "col1_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col1_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"290 61 998 960\" data-label=\"Text\"><p>R2 33 56 {<b>Hotel Kaiserin Elisabeth</b> I/1, Weih-<br/>R2 60 93 {<b>Hotel Kaiserin Elisabeth</b> burgg. 3<br/>R1 10 24 <b>Hotel Kolbeck „Zur Linde“</b><br/>Wien X/75. Laxenburger Straße 19</p></div>",
+      "cells": [
+        "col1_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col1_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"584 59 699 214\"}, {\"label\": \"Text\", \"bbox\": \"324 276 951 541\"}, {\"label\": \"Text\", \"bbox\": \"470 617 832 783\"}, {\"label\": \"Text\", \"bbox\": \"527 791 784 960\"}]",
+      "cells": [
+        "col1_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col1_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 744 95 912\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Hotel „Modern“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"311 145 675 320\"}, {\"label\": \"Text\", \"bbox\": \"42 386 950 835\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 102 988 218\" data-label=\"Text\"><p><b>R4 20 67 Hotel Reichshof, II/27, Mühlfeldgasse 13,<br/>gegenüber d. Abfahrtseite d. Nordbahnhof.</b></p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Hotel Römischer Kaiser",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 11 992 992\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>R4 20 90</td>\n<td><b>Hotel Sächsischer Hof</b><br/>Wien II/27, Taborsstraße 46a</td>\n</tr>\n<tr>\n<td>U3 85 15</td>\n<td><b>Hotel Schneller, Kaffee-Restaurant</b>, Wien<br/>XIV/89, Keißlergasse 24</td>\n</tr>\n<tr>\n<td>A1 75 75</td>\n<td><b>Hotel „Am Schottenring“</b><br/>Kaffee-Restaurant<br/>fließendes Wasser, Zentralheizung<br/>Wien I/1, Schottenring 3</td>\n</tr>\n<tr>\n<td>R2 85 50</td>\n<td><b>Hotel Siller</b> Garage im Hause,<br/>Wien I/1,<br/>Schwedenplatz 4 (Postgasse 19)</td>\n</tr>\n<tr>\n<td>U1 80 49</td>\n<td><b>Hotel „Sonnenaufgang“</b><br/>Wien III/40, Fasangasse 23</td>\n</tr>\n<tr>\n<td>B4 14 72</td>\n<td><b>Hotel Stadion</b><br/>Wien VIII/65, Buchfeldgasse 3–5</td>\n</tr>\n<tr>\n<td>A2 14 83</td>\n<td><b>Hotel Stadt Frankfurt</b><br/>Wien XVII/107, Hernalser Gürtel 27</td>\n</tr>\n<tr>\n<td>B2 22 78</td>\n<td><b>Hotel Stadt Triest</b>, Inh. Franz Schweiger,<br/>IV/50, Wiedner Hauptstraße 12</td>\n</tr>\n<tr>\n<td>R4 12 53</td>\n<td><b>Hotel Stefanie</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"360 0 831 54\" data-label=\"Text\"><p>Wien 11/27, Taborsstr. 12</p></div><div data-bbox=\"0 54 869 160\" data-label=\"Text\"><p>A2 22 91 <b>Hotel Steinböck</b> Zentralheizung</p></div><div data-bbox=\"192 159 990 270\" data-label=\"Text\"><p>fließend Kalt- und Warmwasser, Wien XVIII/110, Schopenhauerstraße 32</p></div><div data-bbox=\"0 268 990 378\" data-label=\"Text\"><p>R2 35 80 <b>Hotel Tegetthof</b>, P. Wolfbauer, Wien I/1, Johannesgasse 23</p></div><div data-bbox=\"0 379 814 458\" data-label=\"Text\"><p>B3 72 21 <b>Hotel Neubau</b></p></div><div data-bbox=\"392 469 784 529\" data-label=\"Text\"><p><b>Trinkl's Erben</b></p></div><div data-bbox=\"285 539 890 597\" data-label=\"Text\"><p>Wien VII/62, Neustiftgasse 141</p></div><div data-bbox=\"0 595 990 756\" data-label=\"Text\"><p>B1 30 68 <b>Hotel „Zum Türken“</b>, Hotel u. Restaurant, Inh. Maria Nenstil; Wien XIX/117, Peter-Jordan-Str. 76</p></div><div data-bbox=\"0 758 719 810\" data-label=\"Text\"><p>B5 30 17 <b>Hotel Urania</b></p></div><div data-bbox=\"227 811 986 869\" data-label=\"Text\"><p>Wien III/40, Obere Weißgerberstraße 7</p></div><div data-bbox=\"0 867 986 979\" data-label=\"Text\"><p>A4 00 59 <b>Hotel Wallenstein</b>, Inh. Heinrich Stöckler, Wien XX/20, Wallensteinstr. 6</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"248 46 742 322\"}, {\"label\": \"Text\", \"bbox\": \"353 399 683 580\"}, {\"label\": \"Text\", \"bbox\": \"275 585 730 770\"}, {\"label\": \"Text\", \"bbox\": \"270 770 742 955\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 165 985 850\" data-label=\"Text\"><p><b>B4 85 70 Hotel-Restaurant „Weisser Hahn“, Wien</b><br/><b>VIII/65, Josefstädter Straße 22</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"82 37 925 305\"}, {\"label\": \"Text\", \"bbox\": \"225 356 800 520\"}, {\"label\": \"Text\", \"bbox\": \"344 555 687 718\"}, {\"label\": \"Text\", \"bbox\": \"209 774 817 921\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Wien-Klosterneuburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien-Liesing.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien-Mödling.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Wiener Neustadt (Niederdonau)",
+        "entries": []
+      },
+      {
+        "region_name": "206 Hotel zur Südbahn",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"240 26 750 412\"}, {\"label\": \"Text\", \"bbox\": \"288 395 780 585\"}, {\"label\": \"Text\", \"bbox\": \"171 572 837 766\"}, {\"label\": \"Text\", \"bbox\": \"299 766 696 955\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"58 24 986 415\" data-label=\"List-Group\"><p><b>26858 Hotel Central, Bahnhofstr. 65</b><br/><b>27793 Hotel-Pension Imperial, Inhaber Frau E.</b><br/><b>Schlesicky, Sonnenberger Str. 38</b><br/><b>28307 Hotel Karlshof, Rheinstr. 72</b></p></div>",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 155\" data-label=\"Text\"><p>Sammel- { <b>Hotel Metropole-Monopole</b><br/>Nr. { Inhaber K. Ketterer &amp; Frz. Joerg, Wies-<br/>59521 { baden, Wilhelmstraße 8–10</p></div><div data-bbox=\"0 522 989 715\" data-label=\"Text\"><p>Sammel- { <b>Hotel Nassauer Hof</b><br/>Nr. { Direktor C. H. Ostwinkel, Kaiser-Fried-<br/>59761 { rich-Platz 3/4, am Kurhaus</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Hotel National",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Hotel Vier Jahreszeiten",
+        "entries": []
+      },
+      {
+        "region_name": "Wildbad (Schwarzwald).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Hotel Quellenhof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Wismar (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Witten (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberg (Lutherstadt)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"86 0 858 480\" data-label=\"Text\"><p><b>2054</b> { <b>Ernst Appelt, Markt 7</b></p></div><div data-bbox=\"86 515 988 960\" data-label=\"Text\"><p><b>2303 Hotel „Schloßgarten“, Bes.: Herm. Behnisch. Dessauer Str. 122</b></p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"44 196 136 441\"}, {\"label\": \"Section-Header\", \"bbox\": \"161 20 948 171\"}, {\"label\": \"Text\", \"bbox\": \"161 641 967 937\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"82 14 991 186\" data-label=\"Text\"><p>2579 <b>Hotel Wittenberger Hof, Reichstelefon u.</b><br/><b>fließ. Wasser in allen Zimmern, Besitzer</b><br/><b>H. Kuckenburg</b></p></div><div data-bbox=\"0 200 938 282\" data-label=\"Text\"><p><b>Wittenberge (Bez. Potsdam).</b></p></div><div data-bbox=\"102 285 942 376\" data-label=\"Text\"><p>742 <b>Hotel Stadt Frankfurt</b></p></div><div data-bbox=\"192 392 990 452\" data-label=\"Text\"><p>Inh. Richard Hübner, Adolf-Hitler-Str. 3</p></div><div data-bbox=\"0 466 725 545\" data-label=\"Text\"><p><b>Wittenburg (Mecklb.).</b></p></div><div data-bbox=\"102 545 987 660\" data-label=\"Text\"><p>292 <b>Hotel Oderichs, Besitzer: Karl Westphal,</b><br/><b>Wittenburg, Markt 12</b></p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>A completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Wittingen (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittstock (Dosse) [Brdb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Wörlitz (Anh.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wörschach (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Wolfenbüttel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Wolgast (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wolgasterfährre (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wollin (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Worms.",
+        "entries": []
+      },
+      {
+        "region_name": "Wreschen (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "14 Hotel- u. Gaststättenbes. Adolf Riedel",
+        "entries": []
+      },
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wunsiedel (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"125 161 683 352\"}, {\"label\": \"Text\", \"bbox\": \"165 463 655 625\"}, {\"label\": \"Text\", \"bbox\": \"155 727 666 852\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Hotelzum Bahnhof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"341 49 864 295\"}, {\"label\": \"Text\", \"bbox\": \"373 292 833 415\"}, {\"label\": \"Text\", \"bbox\": \"454 451 766 561\"}, {\"label\": \"Text\", \"bbox\": \"376 631 831 753\"}, {\"label\": \"Text\", \"bbox\": \"431 804 779 932\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"247 54 998 937\" data-label=\"List-Group\"><p>24584 <b>Broese, Wilhelm</b>, Feinkost, Südfrüchte,<br/>Obst-, Gemüse- und Fisch-Konserven, Ko-<br/>lonialwaren-Großhandlung, Hundcgasse 47</p><p>23321 { <b>Brückner, Georg</b>, Feinkost- u. Kolonialwr.-<br/>23322 { Import, Großhandel, Hopfengasse 105</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"333 61 867 266\"}, {\"label\": \"Text\", \"bbox\": \"453 335 750 454\"}, {\"label\": \"Text\", \"bbox\": \"371 486 827 606\"}, {\"label\": \"Text\", \"bbox\": \"425 606 767 723\"}, {\"label\": \"Text\", \"bbox\": \"335 727 852 855\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"367 61 835 311\"}, {\"label\": \"Text\", \"bbox\": \"379 365 788 520\"}, {\"label\": \"Text\", \"bbox\": \"291 516 910 667\"}, {\"label\": \"Text\", \"bbox\": \"304 671 511 817\"}, {\"label\": \"Text\", \"bbox\": \"363 822 458 951\"}, {\"label\": \"Text\", \"bbox\": \"604 671 893 817\"}, {\"label\": \"Text\", \"bbox\": \"717 822 783 951\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"245 125 997 855\" data-label=\"Text\"><p><b>28927 Dietrich, Eugen, Kolonialwaren-Groß-<br/>handlung, Reitbahn 8-9</b></p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"262 214 354 438\"}, {\"label\": \"Text\", \"bbox\": \"262 503 354 727\"}, {\"label\": \"Text\", \"bbox\": \"394 67 963 895\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"254 135 348 339\"}, {\"label\": \"Text\", \"bbox\": \"361 125 908 852\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"414 71 783 283\" data-label=\"Text\"><p><b>Karl Rieck</b></p></div><div data-bbox=\"408 326 796 453\" data-label=\"Text\"><p>Danzig, Hopsengasse 105</p></div><div data-bbox=\"408 496 795 654\" data-label=\"Text\"><p><b>Kolonialwaren-Import</b></p></div><div data-bbox=\"281 688 495 930\" data-label=\"Text\"><p>Fernsprecher:<br/><b>220 75</b></p></div><div data-bbox=\"622 684 918 930\" data-label=\"Text\"><p>Telegrammadresse:<br/><b>Karie Danzig</b></p></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"299 98 884 261\" data-label=\"Text\"><p><b>Selbiger &amp; Hirschberg</b></p></div><div data-bbox=\"535 265 656 346\" data-label=\"Text\"><p><b>Inhaber</b></p></div><div data-bbox=\"407 354 775 524\" data-label=\"Text\"><p><b>Otto Burk</b></p></div><div data-bbox=\"407 549 779 670\" data-label=\"Text\"><p><b>Kolonialwaren-Import</b></p></div><div data-bbox=\"384 687 805 781\" data-label=\"Text\"><p><b>Danzig, Hopfengasse 26/27</b></p></div><div data-bbox=\"228 800 963 904\" data-label=\"Text\"><p><b>Fernspr.: 21 197. Nach Geschäftsschluß 24 164</b></p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Carl Voigt",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Darmstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Deggendorf (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dessau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dinklage (Oldb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Donauwörth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dornbirn (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Ebingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Elbing.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"65 608 74 625\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Ellefeld (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Emden.",
+        "entries": []
+      },
+      {
+        "region_name": "Erding (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Esch-Alzig (Luxemburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Eschwege (Hess.-Nass.).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Eßlingen (Neckar) [Wrttb].",
+        "entries": []
+      },
+      {
+        "region_name": "Flatow (Grenzmark) [Pomm.].",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Franzensau (Südermann).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freudenstadt (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedberg (Hess.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Friedland (Isargeb.) [Sudetenland].",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenfeld (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Gardelegen (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Garmisch-Partenkirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gars a. Kamp (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Glogau.",
+        "entries": []
+      },
+      {
+        "region_name": "Gmünd 3 (Niederdonaau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "3187. Kolonialwaren-Großh",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "I Gnesen (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 45 975 965\" data-label=\"Text\"><p><b>Gnesener</b><br/><b>Kolonialwaren-Großhandlung</b><br/><b>Komm. Verw. Ernst Vogel</b><br/><b>Gnesen</b><br/><b>Warschauer Straße 5</b><br/><b>Fernsprecher 136 [1836]</b></p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Goslar.",
+        "entries": []
+      },
+      {
+        "region_name": "Gotha.",
+        "entries": []
+      },
+      {
+        "region_name": "Grafenau (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Grafenstein (Kärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Graslitz (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Graudenz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"81 117 171 404\"}, {\"label\": \"Text\", \"bbox\": \"286 76 707 404\"}, {\"label\": \"Text\", \"bbox\": \"47 494 931 826\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Kaufmänn. Großeinkaufs-Genossenschaft Grazr. G. m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Kolonial-Import-Gesellschaft",
+        "entries": []
+      },
+      {
+        "region_name": "Zweigstellen:",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Greifswald (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Greiz.",
+        "entries": []
+      },
+      {
+        "region_name": "Grevesmühlen (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Groß Strehlitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hainburg (Donau) [Niederdonau].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"54 71 321 776\" data-label=\"Image\"><img alt=\"Logo of F. K. Krause featuring a stylized 'F' and 'K' inside a circle.\"/>A circular logo with a thick black border. Inside the circle, there is a stylized graphic. The graphic consists of a large, bold letter 'K' that is partially obscured by a smaller, bold letter 'F' positioned above it. The 'F' is oriented vertically, and the 'K' is oriented diagonally. The entire logo is rendered in black and white.</div><div data-bbox=\"396 13 892 246\" data-label=\"Text\"><p><b>F. K. Krause</b></p></div><div data-bbox=\"510 246 789 354\" data-label=\"Text\"><p><b>gegr. 1892</b></p></div><div data-bbox=\"358 354 940 875\" data-label=\"Text\"><p><b>Lebensmittel-Großhandlung,<br/>Filialbetrieb — Fabriken,<br/>Wein- u. Spirituosen-Kellerei,<br/>Kaffee-Großrösterei,<br/>Landsberger Str. 13—15</b></p></div><div data-bbox=\"336 875 965 979\" data-label=\"Text\"><p><b>Fernsprecher Sammel-Nr. 277 46</b></p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"200 29 871 339\" data-label=\"Text\"><p>lung, Hamburg 1, Albertstr. 19/21</p></div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 811 252 960\" data-label=\"Text\"><p><b>andlungen</b></p></div><div data-bbox=\"414 811 754 955\" data-label=\"Text\"><p>(Branchenteil) 389</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 11 756 146\" data-label=\"Text\"><p>43 55 51 <b>Jochims, J. C.</b>, Feinkost und Kolonialwaren, Spirituosen, Hamburg 6, Margarethenstrasse 54</p></div><div data-bbox=\"19 146 753 241\" data-label=\"Text\"><p>SmI.-Nr. { <b>Kolonialwaren-Einfuhr G. m. b. H.</b>, Hbg. 1, 32 31 08 { Mönckebergstr. 8 T Kofur</p></div><div data-bbox=\"25 238 752 332\" data-label=\"Text\"><p>24 51 41 <b>Lienau, Joh.</b>, Kolonialwarengroßhandlung, Hamburg 1, Repsoldstr. 104</p></div><div data-bbox=\"25 328 752 421\" data-label=\"Text\"><p>42 13 16 <b>E. May &amp; Co.</b>, Ein- u. Ausfuhr, Kolonialwr., Mehl, Hbg.-Altona 1, Kibbelstr. 10</p></div><div data-bbox=\"25 418 752 552\" data-label=\"Text\"><p>31 37 29 <b>Pimsl, Hormann</b>, Kolonialwarengroßhandlung, Hamburg 11, Gröninger Str. 25, Zimmer 219</p></div><div data-bbox=\"17 552 752 694\" data-label=\"Text\"><p>Sammel-Nr. { <b>Pisani &amp; Rickertsen</b>, Import von Kolonialwaren, Spezialität: Haselnußkerne, Mandeln, Aprikosenkerne, Hbg. 1, Sprinkenhof</p></div><div data-bbox=\"22 689 752 827\" data-label=\"Text\"><p>24 56 56 <b>Schmidt, Ludwig C.</b>, Kolonialwaren-Großhandlung, Kaffee, Tee, Gewürze, Trocken-gemüse, Hbg. 1, Klostertor 6</p></div><div data-bbox=\"22 823 752 962\" data-label=\"Text\"><p>24 49 41 <b>Sporleder &amp; Co.</b>, Großhandlung in Konsum-, Haushaltwaren und Lebensmitteln, Hbg. 1, Langereihe 29</p></div><div data-bbox=\"22 962 736 993\" data-label=\"Text\"><p>DE 52 52 <b>Thome &amp; Karte</b> Kolonialwaren an ...</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Hartberg (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"99 71 644 395\"}, {\"label\": \"Text\", \"bbox\": \"62 408 688 917\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Heidelberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Heinrich Pollich",
+        "entries": []
+      },
+      {
+        "region_name": "Heidenheim (Brenz) [Wrttb.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Heilbronnn (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Helmbrechts (Oberfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Helmstedt (Brschw.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hemer (Kr. Iserlohn).",
+        "entries": []
+      },
+      {
+        "region_name": "Hengelage bei Quakenbrück (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Herford.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Herne (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hildesheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Hindenburg (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hirschberg (Rsgb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Bahnhofstraße 2",
+        "entries": []
+      }
+    ]
+  }
+]

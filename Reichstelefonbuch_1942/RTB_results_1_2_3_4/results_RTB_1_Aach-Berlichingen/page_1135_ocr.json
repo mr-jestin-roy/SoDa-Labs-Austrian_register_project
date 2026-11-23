@@ -1,0 +1,932 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"248 925 993 958\" data-label=\"Image\"><img alt=\"A thick black horizontal line at the bottom of the page.\"/>A thick, solid black horizontal line spanning the width of the page near the bottom.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Libušč b. Prag.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"331 19 892 941\" data-label=\"Text\"><p><b>F. Stastný</b><br/>Libusch 49 bei Prag<br/><b>Fernsprecher Prag RH 1728. RH 1729</b></p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      },
+      {
+        "region_name": "Zdeněk Buchar",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "B3 54 59 Stamm &amp; Strobl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"342 153 884 800\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Freyung Wald (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Wiedes Carbidwerk Freyung m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Gablonz (Neisse) [Sudetenl.].",
+        "entries": []
+      },
+      {
+        "region_name": "Idar-Oberstein (Nahe).",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      },
+      {
+        "region_name": "Brüder Falkenau",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Wiedes Carbidwerk Freyung m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with faint, illegible horizontal lines suggesting ghosting of text from the reverse side.\"/></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"235 253 991 330\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Arnstadt (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Gablonz (Neisse) [Sudetenl.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"294 0 993 641\" data-label=\"List-Group\"><p>-----</p><p>Schmuckwaren, Morgengasse 10</p><p>3381 Streit, Emil, Export, Lange Gasse 7</p><p>3522 Walter &amp; Henlein, Schmuck- u. Metall-<br/>warenfabrik, Falkengasse 20</p><p>3272 G. Wunsch &amp; Cie., Inhaber Rudolf Klei-<br/>nert, Exporthaus, Adlergasse 12</p><p>2264 Adolf Zappe &amp; Sohn, Schmuckwaren-Er-<br/>zeugung in Metall u. Kunstmasse, Wehrig. 10</p></div>",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Morchenstern (Kr. Gablonz) [Sudetenland].",
+        "entries": []
+      },
+      {
+        "region_name": "Oberstein (Nahe).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"85 0 991 186\" data-label=\"Text\"><p>3847 <b>Mazza, Andrea</b>, Großhandel in Gold-, Silber- und Doubleewaren, Schleiferei-Export, Korallen, Kameen, Perlen, Filigranschmuck, Östliche Karl-Friedrich-Str. 37</p></div><div data-bbox=\"87 183 908 279\" data-label=\"Text\"><p>7291 <b>A. Odenwald</b><br/>Bijouteriefabrik, Wilhelmshöhe 6</p></div><div data-bbox=\"87 276 989 372\" data-label=\"Text\"><p>7689 <b>Reinacher &amp; Spörr</b>, Bijouterie- und Kettenfabrik, Durlacher Straße 67</p></div><div data-bbox=\"87 370 990 467\" data-label=\"Text\"><p>7223 <b>Reinbold, Eugenie</b>, Bijouterie- u. Schmuckwaren-Export, Bahnhofstr. 28</p></div><div data-bbox=\"85 465 989 561\" data-label=\"Text\"><p>2758 <b>Schaller, Eugen</b>, Herstellung von Bijouterie- und Schmuckwaren, Salierstr. 35</p></div><div data-bbox=\"9 558 991 700\" data-label=\"Text\"><p>Sammel- <b>Siebler &amp; Rothfuß</b><br/>Nr. { Großhandlung feiner Goldwaren, Güter-<br/>7888 { straße 45. T Siro Pforzheim</p></div><div data-bbox=\"87 699 989 840\" data-label=\"Text\"><p>5367 <b>Eugen Stähle &amp; Co.</b>, Großhandlung in Bijouterie- und Schmuckwaren, Grünstraße 1. T Acero Pforzheim</p></div><div data-bbox=\"9 840 989 984\" data-label=\"Text\"><p>Sammel- <b>C. K. Vogel</b><br/>Nr. { Doubleefabrik, Schillerstraße 16. T Dou-<br/>7231 { bleevogel Pforzheim</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      },
+      {
+        "region_name": "Brüder Falkenau",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"110 19 880 332\"}, {\"label\": \"Text\", \"bbox\": \"108 398 875 930\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"59 93 174 188\" data-label=\"Text\"><p>25375<br/>27597</p></div><div data-bbox=\"414 16 761 111\" data-label=\"Text\"><p><b>A. Novotný</b></p></div><div data-bbox=\"354 113 821 164\" data-label=\"Text\"><p>Taschenuhren, Gold- u.</p></div><div data-bbox=\"394 164 785 214\" data-label=\"Text\"><p>Silberwaren en gros</p></div><div data-bbox=\"319 214 866 264\" data-label=\"Text\"><p>Prag 1., Altstädter Ring 30</p></div><div data-bbox=\"0 276 809 345\" data-label=\"Text\"><p><b>Rumburg (Sudetenland).</b></p></div><div data-bbox=\"102 345 988 445\" data-label=\"Text\"><p>378 Schär, Ch., Großvertrieb von Uhren und<br/>Schmuckwaren, Dr.-Fischer-Straße 5</p></div><div data-bbox=\"0 453 988 520\" data-label=\"Text\"><p><b>Schlag b. Gablonz (Neisse) [Sudetenld.].</b></p></div><div data-bbox=\"0 520 988 572\" data-label=\"Text\"><p>Gablonz 2571 Hübner &amp; Sacher, Export, Schlag 130</p></div><div data-bbox=\"0 585 654 647\" data-label=\"Text\"><p><b>Schwäbisch Gmünd.</b></p></div><div data-bbox=\"85 653 988 755\" data-label=\"Text\"><p>2080 Hintze &amp; Weitmann, Schmuckwaren-<br/>Großhandlung, Rechbergstraße 2</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 786 998 937\" data-label=\"Text\"><p><b>edern — 5309. Schneidereibedarf</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Schwenningen (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Seidenschwanz",
+        "entries": []
+      },
+      {
+        "region_name": "Turnau (Böhmen).",
+        "entries": []
+      },
+      {
+        "region_name": "Belda &amp; Co., Turnau",
+        "entries": []
+      },
+      {
+        "region_name": "Waldstetten (Kr. Schwäb. Gmünd).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 997 973\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">MÜNCHEMÜNCHEN</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>U 3 55 85</td>\n<td>Wien XIV/89, Kuefsteingasse 17/19</td>\n</tr>\n<tr>\n<td>R 4 81 73 L</td>\n<td>Jungbauer, Daniel, Großhandel in Schmuckwaren aller Arten, Reiseandenken-Artikel, II/27, Prater Str. 54</td>\n</tr>\n<tr>\n<td>R 2 58 35</td>\n<td>Niederl, Otto, Wiener Gobelin-Handarbeiten, moderne Schmuckwaren, Wien I/1, Kärntner Str. 21</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Staatliche Bernstein-Manufaktur",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Zittau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"86 218 917 852\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Lüdenscheid.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"70 204 910 792\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"82 227 895 770\"}]",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"46 58 946 460\"}, {\"label\": \"Text\", \"bbox\": \"323 494 666 723\"}, {\"label\": \"Text\", \"bbox\": \"165 723 823 947\"}]",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"46 244 944 744\"}]",
+      "cells": [
+        "col3_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with faint, illegible horizontal lines suggesting ghosting of text from the reverse side.\"/></div>",
+      "cells": [
+        "col3_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 722 246 864\" data-label=\"Text\"><p><b>urfsartikel</b></p></div><div data-bbox=\"415 722 770 881\" data-label=\"Text\"><p>(Branchenteil) 651</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"142 283 640 779\"}]",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Osnabrück.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"116 214 659 279\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"145 226 631 283\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Plochingen (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"53 161 709 520\"}, {\"label\": \"Text\", \"bbox\": \"193 588 496 796\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 114 150 359\"}, {\"label\": \"Text\", \"bbox\": \"12 395 765 800\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"184 154 626 804\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Babenhausen (Schwaben) [Bay.].",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Königgrätz (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"88 125 144 287\"}, {\"label\": \"Section-Header\", \"bbox\": \"328 63 558 533\"}, {\"label\": \"Text\", \"bbox\": \"210 540 682 921\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"25 131 760 813\"}]",
+      "cells": [
+        "col4_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "Berliner Polster-Vertrieb",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 14 758 103\" data-label=\"Text\"><p>51 03 67 <b>Nagel &amp; Lademann</b> Handlung in<br/>Schneiderei-</p></div><div data-bbox=\"145 102 682 150\" data-label=\"Text\"><p>Bedarfsartikeln, C 2, Königstr. 1—6</p></div><div data-bbox=\"10 147 758 240\" data-label=\"Text\"><p>52 20 34 <b>Scheibe &amp; Langenstraß</b>, Schneiderartikel,<br/>C 2, Spandauer Str. 18</p></div><div data-bbox=\"0 251 425 313\" data-label=\"Text\"><p><b>Brünn (Mähren).</b></p></div><div data-bbox=\"47 336 135 378\" data-label=\"Text\"><p>17480</p></div><div data-bbox=\"261 313 645 406\" data-label=\"Text\"><p><b>Josef Stefan</b></p></div><div data-bbox=\"408 404 501 444\" data-label=\"Text\"><p>Brünn</p></div><div data-bbox=\"371 450 531 495\" data-label=\"Text\"><p>Adlergasse</p></div><div data-bbox=\"0 507 223 562\" data-label=\"Text\"><p><b>Dresden.</b></p></div><div data-bbox=\"43 593 133 635\" data-label=\"Text\"><p>22040</p></div><div data-bbox=\"147 571 733 659\" data-label=\"Text\"><p><b>Moritz Fuchs jun.</b> Inh. Joska<br/>verw. Peuthert</p></div><div data-bbox=\"150 659 681 709\" data-label=\"Text\"><p>Modewaren, A 1, Wildruffer Str. 4</p></div><div data-bbox=\"0 718 242 772\" data-label=\"Text\"><p><b>Eisenach.</b></p></div><div data-bbox=\"60 779 760 875\" data-label=\"Text\"><p>1298 <b>Löber, Heinrich</b>, Schneiderartikel- u.<br/>Futterstoff-Großhdlg., Johannistr. 13</p></div><div data-bbox=\"0 885 244 944\" data-label=\"Text\"><p><b>Hamburg.</b></p></div><div data-bbox=\"12 944 760 990\" data-label=\"Text\"><p>43 36 23 <b>Drews, Otto</b>, Schneiderartikelgroßhand-</p></div>",
+      "cells": [
+        "col4_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "Leinenzwirn-",
+        "entries": []
+      },
+      {
+        "region_name": "Hindenburg (Oberschles.).",
+        "entries": []
+      }
+    ]
+  }
+]

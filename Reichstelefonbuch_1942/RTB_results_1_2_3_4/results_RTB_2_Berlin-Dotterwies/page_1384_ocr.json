@@ -1,0 +1,1419 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black vertical artifact on the right edge.\"/>This image is a scan of a blank white page. It contains no text or other graphical elements. There is a small, dark, vertical rectangular artifact on the far right edge of the page, likely a scanning artifact or a piece of tape.</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"111 111 200 125\" data-label=\"Page-Header\">\n<p>1942 German Telephone Directory</p>\n</div>\n<div data-bbox=\"111 131 200 145\" data-label=\"Page-Header\">\n<p>Reichstelefonbuch</p>\n</div>\n<div data-bbox=\"111 151 200 165\" data-label=\"Page-Header\">\n<p>1942 Edition</p>\n</div>\n<div data-bbox=\"111 171 200 185\" data-label=\"Page-Header\">\n<p>Volume 1</p>\n</div>\n<div data-bbox=\"111 191 200 205\" data-label=\"Page-Header\">\n<p>Alphabetical Index</p>\n</div>\n<div data-bbox=\"111 211 200 225\" data-label=\"Page-Header\">\n<p>Section A</p>\n</div>\n<div data-bbox=\"111 231 200 245\" data-label=\"Page-Header\">\n<p>Section B</p>\n</div>\n<div data-bbox=\"111 251 200 265\" data-label=\"Page-Header\">\n<p>Section C</p>\n</div>\n<div data-bbox=\"111 271 200 285\" data-label=\"Page-Header\">\n<p>Section D</p>\n</div>\n<div data-bbox=\"111 291 200 305\" data-label=\"Page-Header\">\n<p>Section E</p>\n</div>\n<div data-bbox=\"111 311 200 325\" data-label=\"Page-Header\">\n<p>Section F</p>\n</div>\n<div data-bbox=\"111 331 200 345\" data-label=\"Page-Header\">\n<p>Section G</p>\n</div>\n<div data-bbox=\"111 351 200 365\" data-label=\"Page-Header\">\n<p>Section H</p>\n</div>\n<div data-bbox=\"111 371 200 385\" data-label=\"Page-Header\">\n<p>Section I</p>\n</div>\n<div data-bbox=\"111 391 200 405\" data-label=\"Page-Header\">\n<p>Section J</p>\n</div>\n<div data-bbox=\"111 411 200 425\" data-label=\"Page-Header\">\n<p>Section K</p>\n</div>\n<div data-bbox=\"111 431 200 445\" data-label=\"Page-Header\">\n<p>Section L</p>\n</div>\n<div data-bbox=\"111 451 200 465\" data-label=\"Page-Header\">\n<p>Section M</p>\n</div>\n<div data-bbox=\"111 471 200 485\" data-label=\"Page-Header\">\n<p>Section N</p>\n</div>\n<div data-bbox=\"111 491 200 505\" data-label=\"Page-Header\">\n<p>Section O</p>\n</div>\n<div data-bbox=\"111 511 200 525\" data-label=\"Page-Header\">\n<p>Section P</p>\n</div>\n<div data-bbox=\"111 531 200 545\" data-label=\"Page-Header\">\n<p>Section Q</p>\n</div>\n<div data-bbox=\"111 551 200 565\" data-label=\"Page-Header\">\n<p>Section R</p>\n</div>\n<div data-bbox=\"111 571 200 585\" data-label=\"Page-Header\">\n<p>Section S</p>\n</div>\n<div data-bbox=\"111 591 200 605\" data-label=\"Page-Header\">\n<p>Section T</p>\n</div>\n<div data-bbox=\"111 611 200 625\" data-label=\"Page-Header\">\n<p>Section U</p>\n</div>\n<div data-bbox=\"111 631 200 645\" data-label=\"Page-Header\">\n<p>Section V</p>\n</div>\n<div data-bbox=\"111 651 200 665\" data-label=\"Page-Header\">\n<p>Section W</p>\n</div>\n<div data-bbox=\"111 671 200 685\" data-label=\"Page-Header\">\n<p>Section X</p>\n</div>\n<div data-bbox=\"111 691 200 705\" data-label=\"Page-Header\">\n<p>Section Y</p>\n</div>\n<div data-bbox=\"111 711 200 725\" data-label=\"Page-Header\">\n<p>Section Z</p>\n</div>\n<div data-bbox=\"111 731 200 745\" data-label=\"Page-Header\">\n<p>Section AA</p>\n</div>\n<div data-bbox=\"111 751 200 765\" data-label=\"Page-Header\">\n<p>Section AB</p>\n</div>\n<div data-bbox=\"111 771 200 785\" data-label=\"Page-Header\">\n<p>Section AC</p>\n</div>\n<div data-bbox=\"111 791 200 805\" data-label=\"Page-Header\">\n<p>Section AD</p>\n</div>\n<div data-bbox=\"111 811 200 825\" data-label=\"Page-Header\">\n<p>Section AE</p>\n</div>\n<div data-bbox=\"111 831 200 845\" data-label=\"Page-Header\">\n<p>Section AF</p>\n</div>\n<div data-bbox=\"111 851 200 865\" data-label=\"Page-Header\">\n<p>Section AG</p>\n</div>\n<div data-bbox=\"111 871 200 885\" data-label=\"Page-Header\">\n<p>Section AH</p>\n</div>\n<div data-bbox=\"111 891 200 905\" data-label=\"Page-Header\">\n<p>Section AI</p>\n</div>\n<div data-bbox=\"111 911 200 925\" data-label=\"Page-Header\">\n<p>Section AJ</p>\n</div>\n<div data-bbox=\"111 931 200 945\" data-label=\"Page-Header\">\n<p>Section AK</p>\n</div>\n<div data-bbox=\"111 951 200 965\" data-label=\"Page-Header\">\n<p>Section AL</p>\n</div>\n<div data-bbox=\"111 971 200 985\" data-label=\"Page-Header\">\n<p>Section AM</p>\n</div>\n<div data-bbox=\"111 991 200 1000\" data-label=\"Page-Header\">\n<p>Section AN</p>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"896 8 954 989\" data-label=\"Image\"><img alt=\"A thick black vertical bar on the right edge of the page.\"/>A thick black vertical bar is positioned along the right edge of the page, extending from the top to the bottom. It appears to be a scanning artifact or a placeholder for a page element.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"903 131 958 236\" data-label=\"Page-Header\">11</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a vertical black line along the left edge.\"/>This image is a scan of a blank white page. A thin, vertical black line runs along the left edge of the page, likely representing the binding or a scanning artifact. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "-",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 838 954 921\" data-label=\"Image\"><img alt=\"A thick black horizontal redaction bar covering the bottom portion of the page.\"/>A thick black horizontal redaction bar covering the bottom portion of the page.</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page with a thick black border.\"/>This image shows a blank page from a 1942 German telephone directory. The page is entirely white and devoid of any text or markings. It is framed by a thick, solid black border that runs along all four edges of the page.</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thin black vertical line along the left edge.\"/>This image is a scan of a blank white page. A thin, dark vertical line runs along the left edge, likely representing the binding or the edge of the paper. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"31 955 958 967\" data-label=\"Page-Footer\"><p>—</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "r"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory.</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Besuchen Sie",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Schänke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Go fast as Düörpem",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Erpffadt-Schänke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Gebr. Mindermann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black speck in the upper right corner.\"/>This image is a scan of a blank white page. It contains no text or other graphical elements, except for a small, isolated black dot or speck located in the upper right quadrant of the page.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black horizontal line near the bottom edge.\"/>This image is a scan of a blank white page. A prominent, thick black horizontal line runs across the lower portion of the page, approximately one-third of the way from the bottom. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Wer das",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "benutzt, muß die ne",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black horizontal line at the bottom edge.\"/>This image is a scan of a blank white page. It features a prominent, thick black horizontal line running across the entire width of the page near the bottom. There are a few very small, isolated black specks scattered across the white background, likely due to scanning artifacts or dust. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A solid black horizontal bar spanning the entire width of the page.\"/>A solid black horizontal bar spanning the entire width of the page, likely a redaction or a placeholder for a header or footer.</div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 971\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a vertical black line along the right edge.\"/>This image is a scan of a blank white page. A thin, solid black vertical line runs along the right edge of the page, likely representing the binding or the edge of the document. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"113 113 147 129\" data-label=\"Page-Header\">1942</div><div data-bbox=\"113 131 217 147\" data-label=\"Page-Header\">Reichstelefonbuch</div><div data-bbox=\"113 148 242 164\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 166 242 182\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 184 242 199\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 201 242 217\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 219 242 234\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 236 242 252\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 254 242 269\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 271 242 287\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 289 242 304\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 306 242 321\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 323 242 339\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 341 242 356\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 358 242 374\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 376 242 391\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 393 242 408\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 410 242 426\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 428 242 443\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 445 242 460\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 462 242 478\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 480 242 495\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 497 242 513\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 515 242 530\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 532 242 548\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 550 242 565\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 567 242 583\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 585 242 600\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 602 242 617\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 619 242 635\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 637 242 652\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 654 242 669\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 671 242 687\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 689 242 704\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 706 242 722\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 724 242 739\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 741 242 756\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 758 242 773\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 775 242 791\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 793 242 808\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 810 242 825\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 827 242 843\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 845 242 860\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 862 242 877\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 879 242 895\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 897 242 912\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 914 242 929\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 931 242 946\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 948 242 964\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 966 242 981\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div><div data-bbox=\"113 983 242 998\" data-label=\"Page-Header\">Telefonnummernverzeichnis</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"111 111 311 126\" data-label=\"Page-Header\">\n<p>1942 German Telephone Directory</p>\n</div>\n<div data-bbox=\"111 131 250 146\" data-label=\"Page-Header\">\n<p>Reichstelefonbuch</p>\n</div>\n<div data-bbox=\"111 151 250 166\" data-label=\"Page-Header\">\n<p>1942 Edition</p>\n</div>\n<div data-bbox=\"111 171 250 186\" data-label=\"Page-Header\">\n<p>Volume 1</p>\n</div>\n<div data-bbox=\"111 191 250 206\" data-label=\"Page-Header\">\n<p>Section A</p>\n</div>\n<div data-bbox=\"111 211 250 226\" data-label=\"Page-Header\">\n<p>Section B</p>\n</div>\n<div data-bbox=\"111 231 250 246\" data-label=\"Page-Header\">\n<p>Section C</p>\n</div>\n<div data-bbox=\"111 251 250 266\" data-label=\"Page-Header\">\n<p>Section D</p>\n</div>\n<div data-bbox=\"111 271 250 286\" data-label=\"Page-Header\">\n<p>Section E</p>\n</div>\n<div data-bbox=\"111 291 250 306\" data-label=\"Page-Header\">\n<p>Section F</p>\n</div>\n<div data-bbox=\"111 311 250 326\" data-label=\"Page-Header\">\n<p>Section G</p>\n</div>\n<div data-bbox=\"111 331 250 346\" data-label=\"Page-Header\">\n<p>Section H</p>\n</div>\n<div data-bbox=\"111 351 250 366\" data-label=\"Page-Header\">\n<p>Section I</p>\n</div>\n<div data-bbox=\"111 371 250 386\" data-label=\"Page-Header\">\n<p>Section J</p>\n</div>\n<div data-bbox=\"111 391 250 406\" data-label=\"Page-Header\">\n<p>Section K</p>\n</div>\n<div data-bbox=\"111 411 250 426\" data-label=\"Page-Header\">\n<p>Section L</p>\n</div>\n<div data-bbox=\"111 431 250 446\" data-label=\"Page-Header\">\n<p>Section M</p>\n</div>\n<div data-bbox=\"111 451 250 466\" data-label=\"Page-Header\">\n<p>Section N</p>\n</div>\n<div data-bbox=\"111 471 250 486\" data-label=\"Page-Header\">\n<p>Section O</p>\n</div>\n<div data-bbox=\"111 491 250 506\" data-label=\"Page-Header\">\n<p>Section P</p>\n</div>\n<div data-bbox=\"111 511 250 526\" data-label=\"Page-Header\">\n<p>Section Q</p>\n</div>\n<div data-bbox=\"111 531 250 546\" data-label=\"Page-Header\">\n<p>Section R</p>\n</div>\n<div data-bbox=\"111 551 250 566\" data-label=\"Page-Header\">\n<p>Section S</p>\n</div>\n<div data-bbox=\"111 571 250 586\" data-label=\"Page-Header\">\n<p>Section T</p>\n</div>\n<div data-bbox=\"111 591 250 606\" data-label=\"Page-Header\">\n<p>Section U</p>\n</div>\n<div data-bbox=\"111 611 250 626\" data-label=\"Page-Header\">\n<p>Section V</p>\n</div>\n<div data-bbox=\"111 631 250 646\" data-label=\"Page-Header\">\n<p>Section W</p>\n</div>\n<div data-bbox=\"111 651 250 666\" data-label=\"Page-Header\">\n<p>Section X</p>\n</div>\n<div data-bbox=\"111 671 250 686\" data-label=\"Page-Header\">\n<p>Section Y</p>\n</div>\n<div data-bbox=\"111 691 250 706\" data-label=\"Page-Header\">\n<p>Section Z</p>\n</div>\n<div data-bbox=\"111 711 250 726\" data-label=\"Page-Header\">\n<p>Section AA</p>\n</div>\n<div data-bbox=\"111 731 250 746\" data-label=\"Page-Header\">\n<p>Section AB</p>\n</div>\n<div data-bbox=\"111 751 250 766\" data-label=\"Page-Header\">\n<p>Section AC</p>\n</div>\n<div data-bbox=\"111 771 250 786\" data-label=\"Page-Header\">\n<p>Section AD</p>\n</div>\n<div data-bbox=\"111 791 250 806\" data-label=\"Page-Header\">\n<p>Section AE</p>\n</div>\n<div data-bbox=\"111 811 250 826\" data-label=\"Page-Header\">\n<p>Section AF</p>\n</div>\n<div data-bbox=\"111 831 250 846\" data-label=\"Page-Header\">\n<p>Section AG</p>\n</div>\n<div data-bbox=\"111 851 250 866\" data-label=\"Page-Header\">\n<p>Section AH</p>\n</div>\n<div data-bbox=\"111 871 250 886\" data-label=\"Page-Header\">\n<p>Section AI</p>\n</div>\n<div data-bbox=\"111 891 250 906\" data-label=\"Page-Header\">\n<p>Section AJ</p>\n</div>\n<div data-bbox=\"111 911 250 926\" data-label=\"Page-Header\">\n<p>Section AK</p>\n</div>\n<div data-bbox=\"111 931 250 946\" data-label=\"Page-Header\">\n<p>Section AL</p>\n</div>\n<div data-bbox=\"111 951 250 966\" data-label=\"Page-Header\">\n<p>Section AM</p>\n</div>\n<div data-bbox=\"111 971 250 986\" data-label=\"Page-Header\">\n<p>Section AN</p>\n</div>\n<div data-bbox=\"111 991 250 1000\" data-label=\"Page-Header\">\n<p>Section AO</p>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"462 966 557 991\" data-label=\"Image\"><img alt=\"Small black square marker at the bottom center of the page.\"/></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Einzel- und Mehrfamilienhäuser",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "este A",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "an die",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"37 18 955 48\" data-label=\"Image\"><img alt=\"A thick black horizontal bar at the top of the page.\"/></div>",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col5_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col5_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col5_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col5_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thin black vertical line along the right edge.\"/>This image is a scan of a blank white page. It features a thin, dark vertical line running along the right edge, which is likely a scanning artifact or a page margin. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col5_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col5_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black vertical bar on the right edge.\"/>This image shows a blank white page, likely a separator or a page from a document. A thick, solid black vertical bar is positioned on the right side of the page, extending from the top to the bottom. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col5_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col5_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Telefonbuch",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Einträge",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col5_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 21 984 33\" data-label=\"Page-Header\"><p>[REDACTED]</p></div>",
+      "cells": [
+        "col5_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col5_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      },
+      {
+        "region_name": "II",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col5_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "ifla",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col5_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "190",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col5_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "scl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col5_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "[Redacted content]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col5_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      },
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col6_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "4",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col6_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": {
+      "raw": "<div data-bbox=\"38 109 966 986\" data-label=\"Image\"><img alt=\"A high-contrast, black and white photograph of a large, multi-story building with a prominent dome and a flag flying from the top. The building is surrounded by trees and a clear sky.\"/>A high-contrast, black and white photograph of a large, multi-story building, likely a university or government institution. The building features a prominent central dome topped with a flagpole and a flag. The facade is composed of several wings with numerous windows. The building is surrounded by a dense line of trees in the foreground and a clear, bright sky in the background. The image has a grainy, high-contrast quality, characteristic of older photocopies or prints.</div>",
+      "cells": [
+        "col6_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col6_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": [
+      {
+        "region_name": "10000-10009 10010-10019 10020-10029 10030-10039 10040-10049 10050-10059 10060-10069 10070-10079 10080-10089 10090-10099",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col6_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": {
+      "raw": "<div data-bbox=\"39 39 970 146\" data-label=\"Image\"><img alt=\"A horizontal strip of a 1942 German telephone directory page, showing a dense grid of text and numbers, likely a list of telephone numbers and names.\"/>This image shows a horizontal strip of a 1942 German telephone directory page. It features a dense, high-contrast grid of text and numbers, characteristic of a telephone directory. The text is in a small, sans-serif font, and the numbers are arranged in a regular pattern. The strip is a narrow band at the top of the page, with the rest of the page visible below it.</div>",
+      "cells": [
+        "col6_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "60",
+    "cells": [
+      "col6_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_60.png",
+    "data": {
+      "raw": "<div data-bbox=\"37 20 966 979\" data-label=\"Image\"><img alt=\"A heavily degraded, high-contrast black and white image, likely a scan of a page from a 1942 German telephone directory (Reichstelefonbuch). The image is almost entirely black with scattered white specks and noise, making any text or entries completely illegible.\"/></div>",
+      "cells": [
+        "col6_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "61",
+    "cells": [
+      "col6_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_61.png",
+    "data": [
+      {
+        "region_name": "[REDACTED]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "62",
+    "cells": [
+      "col6_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_62.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 15 962 973\" data-label=\"Image\"><img alt=\"A heavily degraded, high-contrast scan of a 1942 German telephone directory page. The page is mostly black with scattered white specks and noise, making any original text completely illegible.\"/>This image is a heavily degraded and high-contrast scan of a page from a 1942 German telephone directory (Reichstelefonbuch). The original content, which would have included town names and lists of telephone numbers and names, is almost entirely obscured by black noise and speckles. No legible text or structured data can be identified.</div>",
+      "cells": [
+        "col6_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "63",
+    "cells": [
+      "col6_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_63.png",
+    "data": [
+      {
+        "region_name": "Die großzügigeRennbahnanlage",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "64",
+    "cells": [
+      "col6_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_64.png",
+    "data": [
+      {
+        "region_name": "IN DUNKIRK - WAMBEL",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "65",
+    "cells": [
+      "col6_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_65.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a solid black horizontal bar across the top and a solid black horizontal bar across the bottom.\"/>This image shows a blank page from a 1942 German telephone directory. The page is characterized by two prominent, solid black horizontal bars that span the entire width of the page. The top bar is located near the top edge, and the bottom bar is located near the bottom edge. The space between these two bars is completely empty and white, indicating that no telephone entries or text are present on this specific page.</div>",
+      "cells": [
+        "col6_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "66",
+    "cells": [
+      "col6_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_66.png",
+    "data": [
+      {
+        "region_name": "h",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "67",
+    "cells": [
+      "col6_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_67.png",
+    "data": [
+      {
+        "region_name": "je verwenden, wenn er Zeitverluste,",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "68",
+    "cells": [
+      "col6_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_68.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 996 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a white background with a thick black border on the left and bottom edges, and a thinner black border on the right edge.\"/>This image shows a blank page from a 1942 German telephone directory. The page is white with a thick black border on the left and bottom edges, and a thinner black border on the right edge. There is no text or other content on the page.</div>",
+      "cells": [
+        "col6_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "69",
+    "cells": [
+      "col6_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_69.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 70\" data-label=\"Image\"><img alt=\"A thick black horizontal bar at the top of the page.\"/></div>",
+      "cells": [
+        "col6_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "70",
+    "cells": [
+      "col7_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_70.png",
+    "data": {
+      "raw": "<div data-bbox=\"102 102 127 118\" data-label=\"Page-Header\">102</div><div data-bbox=\"102 125 250 141\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 148 250 164\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 171 250 187\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 194 250 210\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 217 250 233\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 240 250 256\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 263 250 279\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 286 250 302\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 309 250 325\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 332 250 348\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 355 250 371\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 378 250 394\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 401 250 417\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 424 250 440\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 447 250 463\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 470 250 486\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 493 250 509\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 516 250 532\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 539 250 555\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 562 250 578\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 585 250 601\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 608 250 624\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 631 250 647\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 654 250 670\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 677 250 693\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 700 250 716\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 723 250 739\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 746 250 762\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 769 250 785\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 792 250 808\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 815 250 831\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 838 250 854\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 861 250 877\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 884 250 900\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 907 250 923\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 930 250 946\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 953 250 969\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 976 250 992\" data-label=\"Page-Header\">Telefonbuch 1942</div><div data-bbox=\"102 999 250 1000\" data-label=\"Page-Header\">Telefonbuch 1942</div>",
+      "cells": [
+        "col7_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "71",
+    "cells": [
+      "col7_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_71.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 142 31 151\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col7_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "72",
+    "cells": [
+      "col7_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_72.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col7_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "73",
+    "cells": [
+      "col7_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_73.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 922\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col7_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "74",
+    "cells": [
+      "col7_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_74.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col7_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "75",
+    "cells": [
+      "col7_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_75.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col7_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "76",
+    "cells": [
+      "col7_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_76.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col7_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "77",
+    "cells": [
+      "col7_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_77.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col7_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "78",
+    "cells": [
+      "col7_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_78.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 922\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col7_sec09.png"
+      ]
+    }
+  }
+]

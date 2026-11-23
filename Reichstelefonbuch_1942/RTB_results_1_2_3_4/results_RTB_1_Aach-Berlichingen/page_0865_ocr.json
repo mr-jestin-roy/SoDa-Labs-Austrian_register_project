@@ -1,0 +1,967 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"325 705 331 725\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Remagen.",
+        "entries": []
+      },
+      {
+        "region_name": "St. Thomas (Eifel).",
+        "entries": []
+      },
+      {
+        "region_name": "Trebnitz (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Trier.",
+        "entries": []
+      },
+      {
+        "region_name": "Untermünstertal (Breisgau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"202 135 998 839\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"448 218 747 279\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Aue (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Beuthen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Brandenburg (Havel).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Deutsch Brodelk (üb. Mähr. Trübau).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 528 48 854\" data-label=\"Text\"><p>10</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"11 111 200 404\"}, {\"label\": \"Text\", \"bbox\": \"11 430 998 953\"}]",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"170 80 856 317\"}, {\"label\": \"Text\", \"bbox\": \"296 359 739 496\"}, {\"label\": \"Text\", \"bbox\": \"145 494 888 645\"}, {\"label\": \"Text\", \"bbox\": \"244 654 792 796\"}, {\"label\": \"Text\", \"bbox\": \"299 799 740 951\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Huber &amp; Pichler",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"259 71 745 291\"}, {\"label\": \"Text\", \"bbox\": \"327 341 697 460\"}, {\"label\": \"Text\", \"bbox\": \"267 493 744 639\"}, {\"label\": \"Text\", \"bbox\": \"155 657 396 927\"}, {\"label\": \"Text\", \"bbox\": \"584 649 901 908\"}]",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"225 158 790 533\"}, {\"label\": \"Text\", \"bbox\": \"427 602 754 826\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Burg (Bez. Magdeburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Deisenhofen b. München.",
+        "entries": []
+      },
+      {
+        "region_name": "Flensburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Lüneburg.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Potsdam.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 0 190 360\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"43 96 944 585\"}, {\"label\": \"Text\", \"bbox\": \"228 625 752 764\"}, {\"label\": \"Text\", \"bbox\": \"274 796 722 942\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with minor scanning artifacts.\"/></div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "3122. Knallerbsen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 114 182 342\" data-label=\"Text\"><p><b>Gera.</b></p></div><div data-bbox=\"77 384 175 544\" data-label=\"Text\"><p>2503</p></div><div data-bbox=\"355 378 826 546\" data-label=\"Text\"><p><b>Geraer Knallerbsenfabrik</b></p></div><div data-bbox=\"371 566 810 731\" data-label=\"Text\"><p><b>Ewald Lehmann &amp; Co.</b></p></div><div data-bbox=\"188 750 983 950\" data-label=\"Text\"><p><b>Inh. P. Werner, Gera, Arminiusstr. 48</b></p></div>",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "PYROLA GMBH",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and contains no text or markings.\"/></div>",
+      "cells": [
+        "col2_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"48 236 570 662\"}, {\"label\": \"Text\", \"bbox\": \"588 197 928 753\"}]",
+      "cells": [
+        "col2_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"253 214 725 740\"}]",
+      "cells": [
+        "col2_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Neuß.",
+        "entries": []
+      },
+      {
+        "region_name": "Pilsen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"317 756 997 901\" data-label=\"Text\"><p><b>3116. Klöster — 316</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"57 243 957 820\"}]",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"12 136 998 886\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"15 125 242 355\"}, {\"label\": \"Text\", \"bbox\": \"25 395 998 795\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"191 226 817 740\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"102 218 915 736\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Miklhofen Main 1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"90 20 998 385\" data-label=\"Text\"><p>2847 G. Eberlein's Sohn, Spezialfabrik für<br/>Knochenleime, Sondershäuser Str. 8</p></div><div data-bbox=\"11 412 400 645\" data-label=\"Text\"><p><b>Rendsburg.</b></p></div><div data-bbox=\"93 651 889 839\" data-label=\"Text\"><p>3041 Chemische Düngertabrik Rendsburg</p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "3129. Knochenmehl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Forchheim (Oberfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "3131. Knöpfe ( Fabriken u.Großhandlungen )",
+        "entries": [
+          {
+            "extension": "",
+            "text": "s. a. Glasknöpfe Holzknöpfe Hornknöpfe Stelnußknöpfe Wascheknöpfe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Anspach (Taurus).",
+        "entries": []
+      },
+      {
+        "region_name": "Apolda.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Frankenhausen (Kyffh.).",
+        "entries": []
+      },
+      {
+        "region_name": "Beiersdorf (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 177 30\" data-label=\"Page-Header\">42 01 23</div>\n<div data-bbox=\"305 0 889 43\" data-label=\"Page-Header\"><b>W W U I C E R D I U S E R</b></div>\n<div data-bbox=\"194 57 987 150\" data-label=\"Text\">\n<p>Knopfigroßhandlung, C 2, Spandauer<br/>Straße 39. P 33806</p>\n</div>\n<div data-bbox=\"15 150 987 247\" data-label=\"Text\">\n<p>67 56 25 <b>Bungardt, Helmuth, Knopffabrik, Berlin</b><br/>SO 16, Rungestraße 9</p>\n</div>\n<div data-bbox=\"15 245 987 385\" data-label=\"Text\">\n<p>16 36 64 <b>Charlé &amp; Schirrmeister, Handlung in</b><br/>Knöpfen u. Schnallen, Berlin SW 68,<br/>Kommandantenstr. 88</p>\n</div>\n<div data-bbox=\"15 385 987 531\" data-label=\"Text\">\n<p>42 55 91 <b>Hoehne &amp; Benecke, Knopf-, Band-, Po-</b><br/>sam.-, Mode-, Kurz- u. Textilwr. Engros-<br/>Exp., C 2, Spandauer Str. 41</p>\n</div>\n<div data-bbox=\"15 529 987 625\" data-label=\"Text\">\n<p>62 94 92 <b>Koal &amp; Thiemann, Knopffabrik, Berlin-</b><br/>Neukölln, Nogatstraße 25</p>\n</div>\n<div data-bbox=\"15 625 987 764\" data-label=\"Text\">\n<p>32 07 02 <b>Matheisen &amp; Co., Westdeutsche Knopf-</b><br/>Manufaktur, Berlin-Charlottenburg, Wil-<br/>mersdorfer Str. 95</p>\n</div>\n<div data-bbox=\"15 764 987 862\" data-label=\"Text\">\n<p>16 71 86 <b>Paulmann &amp; Crone, Metallabzeichen- u.</b><br/>Knopffabrik, C 2, Spittelmarkt 8/10</p>\n</div>\n<div data-bbox=\"0 858 987 992\" data-label=\"Text\">\n<p>Sammel- { <b>Walter Rau K.G., Fabrikation modischer</b><br/>Nr. { <b>Damenknöpfe und Schnallen, Berlin W 8,</b><br/>16 81 98 { <b>Kronenstraße 48/49</b></p>\n</div>",
+      "cells": [
+        "col3_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "1. Knöpfe",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Bischofswerda (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Celle (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Eulau b. Bodenbach (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gablonz (Neisse).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Korneuburg (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Lüdenscheid.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Marienberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Naumburg (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Neusalza-Spremberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nixdorf (Kr. Schluckenau) [Sudetenland]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Oppach (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Pfronten-Ried (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with minor scanning artifacts.\"/>This image is a scan of a blank page from a 1942 German telephone directory. The page is entirely white with no text, markings, or illustrations. There are a few very small, faint dark specks scattered across the surface, which appear to be scanning artifacts or dust particles. The overall texture is slightly grainy, typical of a scanned document.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

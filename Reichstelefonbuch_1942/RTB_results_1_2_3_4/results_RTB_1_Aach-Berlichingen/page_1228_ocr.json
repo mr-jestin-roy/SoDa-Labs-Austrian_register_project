@@ -1,0 +1,1066 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 726 602 885\" data-label=\"Text\"><p>744 (Branchenteil)</p></div><div data-bbox=\"764 722 998 865\" data-label=\"Text\"><p><b>6081. Tel</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "6081. Telefonzellen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"276 227 975 335\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 132 429 361\" data-label=\"Text\"><p><b>Berlin.</b></p></div><div data-bbox=\"258 395 410 805\" data-label=\"Text\"><p>Sml.-Nr. {<br/>17 71 85 {</p></div><div data-bbox=\"457 395 937 791\" data-label=\"Text\"><p><b>Thermo-Technik K. G.</b><br/>Berlin SW 68, Markgrafenstr. 87</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"342 218 914 343\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Ilmenau (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a large white area with a small black smudge near the bottom right corner.\"/>This image shows a blank page from a 1942 German telephone directory. The page is mostly white with a few small black specks and a larger, irregular black smudge in the bottom right corner. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"289 102 584 322\"}, {\"label\": \"Text\", \"bbox\": \"289 361 742 572\"}, {\"label\": \"Text\", \"bbox\": \"289 645 481 852\"}, {\"label\": \"Text\", \"bbox\": \"581 645 906 852\"}, {\"label\": \"Image\", \"bbox\": \"820 21 985 323\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Osnabrück.",
+        "entries": []
+      },
+      {
+        "region_name": "Triptis (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"495 16 749 256\"}, {\"label\": \"Text\", \"bbox\": \"319 311 924 744\"}, {\"label\": \"Text\", \"bbox\": \"283 770 503 960\"}, {\"label\": \"Text\", \"bbox\": \"721 770 962 960\"}]",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"253 93 396 404\"}, {\"label\": \"Text\", \"bbox\": \"253 450 961 723\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"328 226 918 757\"}]",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Brackwede (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"298 153 383 343\"}, {\"label\": \"Text\", \"bbox\": \"457 61 901 942\"}]",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Gevelsberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Heiligenhaus (Bez. Düsseldorf).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col1_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col1_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col1_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 776 991 958\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Schönheide (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwerte (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"87 15 991 520\" data-label=\"Text\"><p>2896 Kuppersbusch, August, Tempergießerei,<br/>Velbert-Nedderheide</p></div><div data-bbox=\"10 617 666 951\" data-label=\"Text\"><p><b>Volmarstein (Ruhr).</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"66 61 971 886\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wolgast (Pomm.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"107 256 882 714\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Schwelm (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"202 270 794 645\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"144 260 884 727\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"147 256 842 705\"}]",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"10 417 190 888\"}]",
+      "cells": [
+        "col2_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Sport-Riebl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"103 375 967 813\" data-label=\"Text\"><p><b>6091. Teppiche s.a. Orientteppiche</b></p></div>",
+      "cells": [
+        "col2_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col2_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col2_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col2_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "| a) Fabriken u. Webereien |",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col2_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Adorf (Vogtl.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black speck near the bottom right corner.\"/>This image is a scan of a blank white page. It contains no text or other graphical elements, except for a small, isolated black pixel or speck located in the lower right quadrant of the page.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Böhm (Sudetenland)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "44 Wurzner Teppichfabrik, Werk Bilin",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Moriz Fuhrmann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Klazar",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"255 71 740 359\"}, {\"label\": \"Text\", \"bbox\": \"332 364 675 546\"}, {\"label\": \"Text\", \"bbox\": \"169 533 853 736\"}, {\"label\": \"Text\", \"bbox\": \"287 736 720 925\"}]",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 27 487 92\" data-label=\"Text\"><p><b>Coswig (Anh.).</b></p></div><div data-bbox=\"103 114 174 154\" data-label=\"Text\"><p>314</p></div><div data-bbox=\"201 86 970 184\" data-label=\"Text\"><p><b>Kokosteppichfabrik</b></p></div><div data-bbox=\"201 179 991 273\" data-label=\"Text\"><p><b>Stevens &amp; Co.</b> Kom.-Ges.<br/>Coswig (Anh.)</p></div><div data-bbox=\"10 294 917 350\" data-label=\"Text\"><p><b>Dörnhau b. Wüstegiersdorf (Niederschles.).</b></p></div><div data-bbox=\"22 387 164 564\" data-label=\"Text\"><p>Wüste-<br/>giers-<br/>dorf<br/>220</p></div><div data-bbox=\"177 360 991 591\" data-label=\"Text\"><p><b>Euleteppich Fabrik Dörnhau</b><br/><b>v. Rautenberg</b> Kommandit-<br/>Gesellschaft<br/>Dörnhau Post Wüstegiersdorf/Schles.</p></div><div data-bbox=\"10 614 531 674\" data-label=\"Text\"><p><b>Dorsten (Westf.).</b></p></div><div data-bbox=\"85 671 991 769\" data-label=\"Text\"><p>2646 { Kommanditgesellschaft Stevens &amp; Schür-<br/>2647 { holz, Teppichfabrik, Hervest-Dorsten</p></div><div data-bbox=\"10 778 494 841\" data-label=\"Text\"><p><b>Düren (Rhpfr.).</b></p></div><div data-bbox=\"13 837 991 992\" data-label=\"Text\"><p>Sammel- Nr. 2244 { <b>Gebrüder Schoeller, Anker-Teppich-Fa-</b><br/><b>brik, Düren. Teppiche, Läufer, Auslege-</b><br/><b>ware, Brücken, Vorleger, Bettumrandun-</b></p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Fulda.",
+        "entries": []
+      },
+      {
+        "region_name": "Gera.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hagenau (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"100 119 887 455\"}, {\"label\": \"Text\", \"bbox\": \"138 519 865 687\"}, {\"label\": \"Text\", \"bbox\": \"438 720 669 875\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Hameln (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Herford.",
+        "entries": []
+      },
+      {
+        "region_name": "Hoheneich (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Hohenstein-Ernstthal (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 172 151\" data-label=\"Text\"><p>Sammel-</p></div><div data-bbox=\"25 161 140 401\" data-label=\"Text\"><p>Nr.<br/>71451</p></div><div data-bbox=\"349 0 835 156\" data-label=\"Text\"><p><b>Letzet A.-G.</b></p></div><div data-bbox=\"172 192 983 473\" data-label=\"Text\"><p>C 1, Martin-Luther-Ring 13. Fabriken in<br/>Auerbach i. V. u. Oelsnitz i. V.</p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Mellau (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "I. Österreichische Hartfaser Spinnerei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Münchenbernsdorf (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Oelsnitz (Vogtl.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": {
+      "raw": "<div data-bbox=\"125 71 466 191\" data-label=\"Text\"><p><b>KOCH &amp; TE KOCK</b></p></div><div data-bbox=\"161 212 426 316\" data-label=\"Text\"><p><b>Aktiengesellschaft</b></p></div><div data-bbox=\"39 332 548 441\" data-label=\"Text\"><p><b>Alleinige Hersteller der bekannten</b></p></div><div data-bbox=\"100 453 489 563\" data-label=\"Text\"><p><b>HALBMOND-Teppiche in</b></p></div><div data-bbox=\"42 576 548 691\" data-label=\"Text\"><p><b>Wollplusch-Axminster, Tournay</b></p></div><div data-bbox=\"132 701 461 809\" data-label=\"Text\"><p><b>und Haargarn-Bouclé</b></p></div><div data-bbox=\"39 826 548 937\" data-label=\"Text\"><p><b>Fernsprecher 601 bis 605 T Koch</b></p></div><div data-bbox=\"594 35 754 588\" data-label=\"Image\"><img alt=\"Logo of Koch &amp; Te Kock, featuring a stylized crescent moon with a star inside, and a stylized 'K' below it.\"/>The logo consists of a dark, textured crescent moon shape. Inside the upper part of the crescent is a six-pointed star. Below the crescent, there is a stylized, bold letter 'K' that overlaps the bottom edge of the crescent.</div><div data-bbox=\"564 632 767 937\" data-label=\"Text\"><p><b>International<br/>eingetragene<br/>Schutzmarke</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "60",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_60.png",
+    "data": [
+      {
+        "region_name": "Wiener Teppichfabriken",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "61",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_61.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      },
+      {
+        "region_name": "Wurzen (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "62",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_62.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"68 16 143 308\"}, {\"label\": \"Text\", \"bbox\": \"159 21 312 938\"}, {\"label\": \"Text\", \"bbox\": \"324 16 792 830\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "63",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_63.png",
+    "data": {
+      "raw": "<div data-bbox=\"166 0 741 222\" data-label=\"Text\"><p>Fabrikmarke <del>-----</del> T Teppichfabrik Wurzen</p></div><div data-bbox=\"0 266 606 464\" data-label=\"Text\"><p><b>Zernsdorf (Kr. Teltow).</b></p></div><div data-bbox=\"0 464 797 937\" data-label=\"Text\"><p>KönigsWusterhausen 2761 Ka Be Zet-Werke K. Bert-<br/>hold, Zernsdorf G. m. b. H., Teppichfabrik<br/>u. techn. Gewebe, Fernspr. Bln. 65 96 24</p></div>",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "64",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_64.png",
+    "data": [
+      {
+        "region_name": "| b) Großhandel u. Import |",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "65",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_65.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Biberach (Riß) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "66",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_66.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, markings, or illustrations visible.</div>",
+      "cells": [
+        "col4_sec16.png"
+      ]
+    }
+  }
+]

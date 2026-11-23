@@ -1,0 +1,760 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"235 722 589 937\" data-label=\"Text\"><p><b>324 (Branchenteil)</b></p></div><div data-bbox=\"757 714 998 911\" data-label=\"Text\"><p><b>2660. Ho</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"281 17 989 158\" data-label=\"Text\"><p>30151 <b>Hotel Park-Hotel Kaiserhof u. Weingroß-</b><br/><b>hdlg. F. &amp; F. Gömöri, Wiesenhüttenstr. 36</b></p></div><div data-bbox=\"281 153 989 297\" data-label=\"Text\"><p>12494 <b>Hotel „Zur Post“, Höchst (Main), Bes.:</b><br/><b>Paul Maar, -Höchst, Albanusstr. 30</b></p></div><div data-bbox=\"239 290 989 431\" data-label=\"Text\"><p>Sml.-Nr. { <b>Hotel Prinz Heinrich, rechts am Haupt-</b><br/>31706 { <b>bahnhof, ruhige Lage. P 46108</b></p></div><div data-bbox=\"281 426 944 500\" data-label=\"Text\"><p>21774 <b>Hotel „Rheinischer Hof“, Buchgasse 1</b></p></div><div data-bbox=\"281 500 832 620\" data-label=\"Text\"><p>22644 <b>Hotel Salzhaus</b></p></div><div data-bbox=\"386 631 989 765\" data-label=\"Text\"><p>Bes. <b>Otto Blau, Roßmarkt. 80 Betten,</b><br/><b>fl. Wasser</b></p></div><div data-bbox=\"281 765 989 904\" data-label=\"Text\"><p>32341 <b>Hotel Stadt Wiesbaden, Scharnhorst-</b><br/><b>straße 52, am Hauptbahnhof</b></p></div><div data-bbox=\"281 901 908 973\" data-label=\"Text\"><p>34381 <b>Hotel „Zum Taunus“, Taunusstr. 48</b></p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"337 37 892 287\"}, {\"label\": \"Text\", \"bbox\": \"410 335 815 481\"}, {\"label\": \"Text\", \"bbox\": \"349 494 861 654\"}, {\"label\": \"Text\", \"bbox\": \"311 654 918 807\"}, {\"label\": \"Text\", \"bbox\": \"374 807 848 966\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Franzensbad (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Freiberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bahnhofshotel-Karsch",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Breisgau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Freilassing (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freistadt (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Freudenberg (Kr. Siegen).",
+        "entries": []
+      },
+      {
+        "region_name": "Freudenstadt (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Friedrichroda.",
+        "entries": []
+      },
+      {
+        "region_name": "Friedrichsbrunn b. Gernrode (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedrichshafen (Bodensee).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenwalde (Spree).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Füssen (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fulda.",
+        "entries": []
+      },
+      {
+        "region_name": "Gabelbach (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 718 94 904\" data-label=\"Text\"><p><b>els</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Gablonz (Neisse).",
+        "entries": []
+      },
+      {
+        "region_name": "Hotel „Krone“",
+        "entries": []
+      },
+      {
+        "region_name": "Gallspach (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Hotel Bayrischer Hof",
+        "entries": []
+      },
+      {
+        "region_name": "Gardelegen (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Garmisch-Partenkirchen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"85 0 992 625\" data-label=\"List-Group\">\n<p>4050 <b>MUICI „LINDG</b> Terne</p>\n<p>2029 <b>Hotel Husar</b>, Garmisch-P. <b>T Husarenhotel</b></p>\n<p>2174 <b>Hotel-Pension Kramerhof</b> vorm. <b>Kohlhardt</b>, von-Müller-Straße 12</p>\n<p>2361 <b>Hotel-Gaststätte Marktplatz</b>, Garmisch, 75 Betten, fließ. Wasser. Bevorzugtes Familienhotel</p>\n<p>2305 { <b>Hotel Partenkirchner Hof</b>, Inhaber Max</p>\n<p>2513 { Greckl, Partenkirchen, Bahnhofstr. 15</p>\n<p>2763 <b>Hotel Schneefernerhaus</b>, Garmisch-Partenkirchen, Am Zugspitzplatt</p>\n<p>2336 <b>Hotel Schönblick</b>, F. Stanner, Haus 1. Ranges, ganzjährig geöffnet</p>\n</div>\n<div data-bbox=\"14 625 899 807\" data-label=\"Text\">\n<p>Sammel- { <b>Hotel Sonnenbichl</b></p>\n<p>Nr. — Golfhotel — Betty Bader —</p>\n<p>2385 { Garmisch-Partenkirchen</p>\n</div>\n<div data-bbox=\"85 807 992 993\" data-label=\"List-Group\">\n<p>2440 <b>Hotel u. Café Werdenfelser Weinbauer</b>, Magdalene Schmidt, Hindenburgstr. 51</p>\n<p>2223 <b>Hotel Wittelsbach</b>, Garmisch-Partenkirchen. Besitzer: Josef Obexer</p>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "2016 Posthotel Partenkirchen",
+        "entries": []
+      },
+      {
+        "region_name": "Garz (Rüügen).",
+        "entries": []
+      },
+      {
+        "region_name": "Geislingen (Steige).",
+        "entries": []
+      },
+      {
+        "region_name": "Geithain (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Geldern (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gelsenkirchen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Hotel Vereinshaus",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Gemünden (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Gera.",
+        "entries": []
+      },
+      {
+        "region_name": "Gernsbach (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Gerolstein (Eifel).",
+        "entries": []
+      },
+      {
+        "region_name": "Giengen (Brenz) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Gießen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This is a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no visible text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 755 32 782\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Gleiwitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Gmünd 3 (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Gnesen (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Hotel Reichshof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Gocherberg (üß. Goch).",
+        "entries": []
+      },
+      {
+        "region_name": "Göhren (Rügen).",
+        "entries": []
+      },
+      {
+        "region_name": "Göppingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Gößweinstein (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Göttingen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Gotenhafen (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gotha.",
+        "entries": []
+      },
+      {
+        "region_name": "Gräfenberg (Ostpreußenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"118 18 983 532\" data-label=\"Text\"><p>26 <b>Hotel Zweiger</b>, schöne Zimmer, gute<br/>Küche und Getränke, Bentschener Str. 1</p></div><div data-bbox=\"0 690 335 947\" data-label=\"Text\"><p><b>Graudenz.</b></p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"82 75 918 375\"}, {\"label\": \"Text\", \"bbox\": \"269 401 772 529\"}, {\"label\": \"Text\", \"bbox\": \"194 580 829 723\"}, {\"label\": \"Text\", \"bbox\": \"249 753 741 904\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"78 32 984 270\" data-label=\"Text\"><p><b>2026 Hotel „Deutsches Haus“, Reinhold Thiel,<br/>Marienwerder Straße 42</b></p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black horizontal line at the bottom.\"/>This image is a scan of a blank white page. A prominent, thick black horizontal line runs across the bottom of the page, approximately one-third of the way from the bottom edge. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Hotel „Jünger Löwe“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"38 29 156 132\"}, {\"label\": \"Text\", \"bbox\": \"465 37 753 145\"}, {\"label\": \"Section-Header\", \"bbox\": \"58 209 736 580\"}, {\"label\": \"Text\", \"bbox\": \"193 567 595 691\"}, {\"label\": \"Text\", \"bbox\": \"258 687 535 796\"}, {\"label\": \"Text\", \"bbox\": \"255 796 541 904\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"94 84 712 375\"}, {\"label\": \"Text\", \"bbox\": \"201 398 595 541\"}, {\"label\": \"Text\", \"bbox\": \"216 596 584 740\"}, {\"label\": \"Text\", \"bbox\": \"256 783 545 934\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"37 110 755 361\"}, {\"label\": \"Text\", \"bbox\": \"37 411 755 576\"}, {\"label\": \"Text\", \"bbox\": \"284 572 513 764\"}, {\"label\": \"Text\", \"bbox\": \"37 787 758 917\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Greifswald (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Grimmenstein (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Grins (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Groß Aupa (Riesengeb.) [Sudetenland].",
+        "entries": []
+      },
+      {
+        "region_name": "Groß Meseritsch (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Güstrow (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gütersloh.",
+        "entries": []
+      },
+      {
+        "region_name": "Gumbinnen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gunzenhausen (Mittelfranken).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Habelschwerdt(Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hagnau (Bodensee).",
+        "entries": []
+      },
+      {
+        "region_name": "Hahnenkamm b. Kitzbühel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

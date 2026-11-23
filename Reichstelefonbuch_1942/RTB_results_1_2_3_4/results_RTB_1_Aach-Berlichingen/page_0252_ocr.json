@@ -1,0 +1,944 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"244 683 478 937\"}, {\"label\": \"Text\", \"bbox\": \"645 683 985 895\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "508 Kornhaus Alsfeld",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"240 0 998 991\" data-label=\"Text\"><p>252 Landkrankenkasse des Kreises Alsfeld<br/>411 Landrat des Landkreises Alsfeld<br/>508 Landwirtschaftliche Spar- und Darlehnskasse<br/>für Alsfeld und Umgebung e. G. m. b. H.<br/>346 Lang, Otto, Metzgerei, Ob. Fulderg. 10<br/>490 Lausch, Paul, Install., Marktpl. 15<br/>429 Leidner, Otto, Küchengeräte, Marktplatz 11<br/>(429) Leidner &amp; Co., Kohlen, Grünb. Str. 53<br/>353 Lenth, Ernst, Glaserei, Kirchpl. 6<br/>313 Leonhard, A., Bildhauerei, Hind. Str. 40<br/>312 Letzgus, Oskar, Schellengasse 10<br/>359 Lipphardt, Schuhhaus, Marktpl. 2<br/>533 Löb, Marie, Hebamme<br/>257 Mades, Werner, Obst, Ritterg. 1<br/>425 Mager, Joh. Ludw., Baugesch., Liederbach<br/>486 Martin, Emil, Juwelier, Obergasse 6<br/>509 Mechanische Weberei Alsfeld<br/>C. Grunewald &amp; Sohn K.-G.<br/>Leinenweberei<br/>437 Menn, Oskar, Marktpl. 16<br/>391 Mey, Hans, Gärtnerei, Unterg. 6.</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 997 992\" data-label=\"Text\"><p>474 Ortskrankenkasse für den Kreis Alsfeld<br/>372 Pferdeversicherungsverein, Alsfeld<br/>472 Ploch, Karl, Kolonialwaren, Leusel.<br/>215 Post, Herm., Buchdruckerei, Unt. Fulderg. 55<br/>463 Quchl, Karl, Schreiuerei, Kirchpl. 8<br/>302 Raab, Heinr., Bauer, Altenb. Str. 62<br/>427 Raab, Ludwig, Hornwrfbr., Altenb. Str. 60<br/>323 Rainspeck, Carl, Eisenwr., Marktplatz 10<br/>316 Rainspeck, Rich., Weinhdlg., Marktpl. 9<br/>236 Rebstock, Gustav, Ww.<br/>324 Reichsarbeitsdienst, Abt. 4/226<br/>325 Ders., Abtlg. 4/223<br/>250 Ders., Gruppe 223<br/>265 Reichsautobahnen, Straßenmeisterei<br/>398 Reichsbahn, Bhf. Alsfeld<br/>254 Dies., Güterabfertigung<br/>519 Dies., Bahnhof Eifa<br/>867 Reichsbanknebenstelle.<br/>478 Reichsnährstand, Kreisbauernschaft<br/>306 Derselbe, Landw. Schule u. Wirtsch. Berat.<br/>300 Reichspost. Postamt</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 0 992 994\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>200</th>\n<th>ALSFELD, ALSDORF, ALSDORF, ALSDORF, ALSDORF</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>388</td>\n<td>Remonteamt Mansbach, Nebenst. Dotzelrod</td>\n</tr>\n<tr>\n<td>242</td>\n<td>G. Reuscher &amp; Sohn, Webwaren</td>\n</tr>\n<tr>\n<td>332</td>\n<td>Riedesel, Jürgen Freihr. z. Eisenbach, Gutsbesitzer, Altenburg</td>\n</tr>\n<tr>\n<td>479</td>\n<td rowspan=\"2\">Rockel &amp; Co., Haar- u. Velourhutfabrik, Als-</td>\n</tr>\n<tr>\n<td>480</td>\n<td>feld (Oberhessen), Fuldaer Tor 30</td>\n</tr>\n<tr>\n<td>518</td>\n<td>Heinr. &amp; Aug. Rößner, Schlosser., Walkmühle</td>\n</tr>\n<tr>\n<td>229</td>\n<td>Rößner, Otto, Install., Ad.HitlerStr. 2</td>\n</tr>\n<tr>\n<td>396</td>\n<td>Roth, Georg, Schneiderei</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Rothley, Philipp, Maler, Bahnhofstr. 18</td>\n</tr>\n<tr>\n<td>305</td>\n<td>v. Rotsmann, Freifrau, Dotzelrod, Oberhof</td>\n</tr>\n<tr>\n<td>244</td>\n<td>Ruckelshauss, Peter, Moden, Walkmühl. W. 12</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Rühl, C., Buchdruckerei, Ad.-Hitler-Str. 16</td>\n</tr>\n<tr>\n<td>208</td>\n<td>Sanitätszug Alsfeld</td>\n</tr>\n<tr>\n<td>486</td>\n<td>Schaaf, Herm., Kol.-W., Oberg. 3</td>\n</tr>\n<tr>\n<td>429</td>\n<td>Schäfer, Karl, Wäsche, Marktpl. 5</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Scharmann, Ludw., Metzgerei, Hersf. Str. 26</td>\n</tr>\n<tr>\n<td>484</td>\n<td>Scheer, Karl, Metzgerei, Oberg. 10</td>\n</tr>\n<tr>\n<td>492</td>\n<td>Scheerer, Studienrat, Schwabenr. Str. 28</td>\n</tr>\n<tr>\n<td>441</td>\n<td>Schlachthof Alsfeld, Pfarrwiesenweg 3</td>\n</tr>\n<tr>\n<td>210</td>\n<td>...</",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 989 978\" data-label=\"List-Group\"><ul><li>444 Schmelz, Major, Rotenbergstr. 10</li><li>344 Schmidt, Otto, Gutbesitzer, Elbenrod.</li><li>227 Schneider, Aug., Bauer, Liederbach</li><li>485 Schneider, Fr., Spenglerei, Untergasse 23</li><li>248 Schneider I, Friedr., Wollwr., Grünb. Str. 18</li><li>403 Schneider, Otto, Lederhdlg., Baug. 4</li><li>452 Schröder, Ferdinand, Landw., Elbenrod</li><li>309 Schuhhaus Schuchardt, Mainzerg. 11</li><li>447 Schulte, Josef, Landw., Angenrod</li><li>369 Schwalm, Hermann, Modehaus</li><li>279 Seippel, Friedr., Insp., Schwabenr. Str. 1</li><li>501 Sitzmöbelfabriken Alsfeld-Türpe, Möbel- und Stuhlfabrik, Alsfeld (Oberhessen)</li><li>266 Sondermann, Karl, Möbel, Steinbornsgasse 1</li><li>510 Sondermann &amp; Bücking, Sägewerk</li><li>521 Stadtverwaltung</li><li>204 Stein, Joh. Heinrich, Kol.W., Eudorf</li></ul></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Herren- u. Damen-Velour- u",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"80 882 159 958\" data-label=\"Text\"><p>111</p></div><div data-bbox=\"188 882 375 958\" data-label=\"Text\"><p>112</p></div><div data-bbox=\"431 875 556 958\" data-label=\"Text\"><p>113</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 12 997 993\" data-label=\"Text\"><table><tbody><tr><td>233</td><td>Stein &amp; Mull, Weberei, Hindenb.Str. 7</td></tr><tr><td>435</td><td>Steuernagel, Hch., NSDAP., Eudorf</td></tr><tr><td>225</td><td>Steuernagel, W., Holz, Hindenburgstr. 14</td></tr><tr><td>231</td><td>Stöppler, Heinr., Autoreparatur</td></tr><tr><td>377</td><td>Strauch, Philipp, Gasthaus, Ludwigapl. 7</td></tr><tr><td>532</td><td>Stumpf, Hans, Kfm., Schelleng. 12</td></tr><tr><td>230</td><td>Überlandwerk Oberhessen, Schwabenr. Str.</td></tr><tr><td>383</td><td>Vagh, Julius, Installation, Amthof 1.</td></tr><tr><td>384</td><td>Vermessungsamt Gießen</td></tr><tr><td>508</td><td>Viehverwertungsgenossenschaft GmbH.</td></tr><tr><td>456</td><td>Vierheller, F., Landw. Masch., Grünb. Str. 32</td></tr><tr><td>318</td><td>Völsing, Dr., Bürgermstr., SchwabenrStr. 24</td></tr><tr><td>426</td><td>Volksbank, Alsfelder, E. G. m. b. H., Alsfeld<br/>(Oberhessen), Hindenburgstr. 10</td></tr><tr><td>408</td><td>Volksschule Alsfeld</td></tr><tr><td>517</td><td>Wachtel, Viktor, R.-A.[N], Grünb.Str. 10</td></tr><tr><td>330</td><td>Walter, Simon, Inspekt., Junkergarten 1</td></tr><tr><td>475</td><td>Wasserwirtschaftsamt Gießen, Außenstelle</td></tr><tr><td>436</td><td>Weber, Dr. Adolf, Arzt, Ad.HitlerStr. 17</td></tr><tr><td>454</td><td>Weber, Werner, Uhren, Kirchpl. 3</td></tr><tr><td>440</td><td>Wehrmeldeamt</td></tr><tr><td>250</td><td>Wehr Rudolf Kleinhof</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 10 997 950\" data-label=\"Text\"><p>237 Welker, Hans, Malerbedarf, Altenb.Str. 10<br/>489 Weppler, Valentin, Schreinerei, Altenb.-Str. 18<br/>410 Will, Rud., Baugeesch., Hofstadt 9<br/>487 Ziegenhain, Wilh., Heilprakt., Hitlerstr. 34<br/>462 Zitzer, Wilhelm, Buchhdlg., Obergasse 15<br/>337 Zulauf, Willi, Eudorf, Hauptstr. 24</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Alsheim (Rhein Hessen)",
+        "entries": [
+          {
+            "extension": "37",
+            "text": "Balz, Adam, Weingut"
+          },
+          {
+            "extension": "60",
+            "text": "Balz, Fr. W. L., Weinbauer, Bahnhofstr. 4."
+          },
+          {
+            "extension": "46",
+            "text": "Birkenhauer, Hch., Schreinerei, Ad.HitlerStr."
+          },
+          {
+            "extension": "1",
+            "text": "Blüm, Franz, Wirt, Ad.-Hitler-Str. 25"
+          },
+          {
+            "extension": "71",
+            "text": "Bretzer, Karl, Obsthdtr., Unterdorfstr. 8."
+          },
+          {
+            "extension": "17",
+            "text": "Bretzer, Phil., Weinbau."
+          },
+          {
+            "extension": "63",
+            "text": "Bürgermeisterei Alsheim (Rhein Hessen)"
+          },
+          {
+            "extension": "72",
+            "text": "Bürgermeistersterel Dorndürckheim"
+          },
+          {
+            "extension": "24",
+            "text": "Bürgermeistersterel Wintersheim"
+          },
+          {
+            "extension": "26",
+            "text": "A. u. Fr. Dettweiler, Bauer, Wintersheim"
+          },
+          {
+            "extension": "27",
+            "text": "Dettweiler, O., Ökon.-Rat, Wintersheim."
+          },
+          {
+            "extension": "27",
+            "text": "Dettweiler, Rud., Bauer, Wintersheim"
+          },
+          {
+            "extension": "5",
+            "text": "Dudenhöfer, Hans, Weingut — Weinhandlung"
+          },
+          {
+            "extension": "80",
+            "text": "Dudenhöfer I., Joh., Weinbau"
+          },
+          {
+            "extension": "83",
+            "text": "Dudenhöfer, Th., Wirtsch., Hangenwahlhelm"
+          },
+          {
+            "extension": "45",
+            "text": "Eckelmann, Heinrich. Malermeister."
+          },
+          {
+            "extension": "36",
+            "text": "Ehrath, Hans, Ortsbauernführer"
+          },
+          {
+            "extension": "77",
+            "text": "Emmert, II, Adam, Gastw."
+          },
+          {
+            "extension": "20",
+            "text": "Esper, Philipp, Weinbau"
+          },
+          {
+            "extension": "24",
+            "text": "Oehr Cononagal Weinvermittlung"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 997 991\" data-label=\"Text\"><p><b>6 Hahn, F., Baumaterialien-Handlung.</b><br/><b>73 Hirsch, Fr. L., Bauer</b><br/><b>40 Hirsch, Fritz, Weinkommission</b><br/><b>15 Hirsch, Karl, Bauer, Hirschhof</b><br/><b>35 Hirsch, Wilhelm, Bäckerei.</b><br/><b>30 Jung, Dr. Fritz, Arzt</b><br/><b>14 Jungkenn, Johann Georg, Obst</b><br/><b>10 Kieferdorf, Jacob, Landesprodukte</b><br/><b>44 Kissinger, Karl</b><br/><b>(42) Konsumverein, Mühlstr. 6.</b><br/><b>18 Krebs, Philipp, Bauer, Wintersheim</b><br/><b>7 Lambrecht, Herm., Automobile, Gimbsheim</b><br/><b>(27) Landw. Konsumverein Wintersheim</b><br/><b>4 Laux, Wilhelm, Elektromstr., Dorn-Dürkheim</b><br/><b>2 Marx, Konrad, Käferei, Ad.-Hitler-Str. 51</b><br/><b>13 Mayer, Ernst, Käferei</b><br/><b>28 Muth, Hermann, Weinbau</b><br/><b>67 Pauli, Karl, Weinbau</b><br/><b>19 Reichsbahn, Bahnhof.</b><br/><b>22 Schowalter, Christian, Bäckerei</b><br/><b>38 Schweitzer, A., Viehvertr., Schlachth. Mainz</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 930 960\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Ext.</th>\n<th>Name</th>\n<th>Business</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>21</td>\n<td>Spieß, Karl</td>\n<td>Düngemittel</td>\n</tr>\n<tr>\n<td>51</td>\n<td>Strieder, Albert</td>\n<td>Käsefabrik</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Strub, J. Chr.</td>\n<td>Erbhof Ulmerhof</td>\n</tr>\n<tr>\n<td>28</td>\n<td>Volz, Ernst</td>\n<td>Landwirt.</td>\n</tr>\n<tr>\n<td>61</td>\n<td>Weber, August</td>\n<td>Metzgerei</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Wetzel, Ernst, J.</td>\n<td>Weinbau</td>\n</tr>\n<tr>\n<td>11</td>\n<td>Winzergenossenschaft</td>\n<td>Mainzerstr. 1.</td>\n</tr>\n<tr>\n<td>42</td>\n<td>Winzerverein</td>\n<td>Geschäftsführer Jost &amp; Lauth.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Alsleben (saale) [Prov. Sachs.]",
+        "entries": [
+          {
+            "extension": "386",
+            "text": "Adler-Apotheke, Emma Fellenberg"
+          },
+          {
+            "extension": "227",
+            "text": "Amtsgericht, Preußisches"
+          },
+          {
+            "extension": "349",
+            "text": "Amtsvorsteher Beesenlaublingen"
+          },
+          {
+            "extension": "237",
+            "text": "Amtsvorstehher u. Ortsvorst., Belleben"
+          },
+          {
+            "extension": "379",
+            "text": "Amtsvorstehher, Schackstedt"
+          },
+          {
+            "extension": "338",
+            "text": "Anhaltwerk, GmbH, Elektr.-Maschinen"
+          },
+          {
+            "extension": "309",
+            "text": "Apitz, Louis, Bürgermstr., Beesedau"
+          },
+          {
+            "extension": "390",
+            "text": "Bauemeister, Willi, Radiofachgesch."
+          },
+          {
+            "extension": "388",
+            "text": "Bauges. C. Kaltenbach, GmbH, Mukrena"
+          },
+          {
+            "extension": "416",
+            "text": "Berger, Herm., Obstbauer"
+          },
+          {
+            "extension": "336",
+            "text": "Berlet, Adam, Kohlenhdlg."
+          },
+          {
+            "extension": "337",
+            "text": "Bieler, Carl, sanitäre Anlagen"
+          },
+          {
+            "extension": "243",
+            "text": "Boblenz, Louis, Fleischer, Strenznaundorf"
+          },
+          {
+            "extension": "279",
+            "text": "Bönicke, Martin, Spedition"
+          },
+          {
+            "extension": "303",
+            "text": "Bönicke, Robert, Fuhrgeschäft"
+          },
+          {
+            "extension": "356",
+            "text": "Börner, Karl, Gastw., Großwirschleben"
+          },
+          {
+            "extension": "383",
+            "text": "Böttcher, Edmund, Eisenwaren"
+          },
+          {
+            "extension": "290",
+            "text": "Bornemann, Friedrich, Kohlenhdlg."
+          },
+          {
+            "extension": "200",
+            "text": "Brecht, Wilh., Gasth., Strenznaundorf"
+          },
+          {
+            "extension": "954",
+            "text": "Risch Emil Viehhändler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 989\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>407</td>\n<td>Buch, Ernst, Viehverteiler</td>\n</tr>\n<tr>\n<td>408</td>\n<td>Buch, Otto, Viehverteiler</td>\n</tr>\n<tr>\n<td>306</td>\n<td>Buch, Walter, Viehhändler</td>\n</tr>\n<tr>\n<td>379</td>\n<td>Bürgermeister Schackstedt</td>\n</tr>\n<tr>\n<td>266</td>\n<td>Buneß, R.-A.[N]</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Burchardt, Paul, Tabakwaren</td>\n</tr>\n<tr>\n<td>401</td>\n<td>Deutsches Rotes Kreuz, Mansfeld</td>\n</tr>\n<tr>\n<td>345</td>\n<td>Erfurth, Gust., Haarhdlg.</td>\n</tr>\n<tr>\n<td>346</td>\n<td>Ermisch, August, Fleischermeister</td>\n</tr>\n<tr>\n<td>330</td>\n<td>Ernst sen., Alfred, Beesenlaublingen</td>\n</tr>\n<tr>\n<td>245</td>\n<td>Aug. Ernst, Kommanditgesellschaft, Gipsbruch<br/>und Gipsmühle, Melasse-Spiritusbrennerei,<br/>Beesenlaublingen</td>\n</tr>\n<tr>\n<td>239</td>\n<td>Ernst, Friedr., Beesedau (Saalkr.)</td>\n</tr>\n<tr>\n<td>248</td>\n<td>W. C. Ernst's Erben, Ziegelei, Beesenlaublingen</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Evang. Pfarramt, Beesenlaublingen</td>\n</tr>\n<tr>\n<td>342</td>\n<td>Feuerlöschpolizei, Rathaus</td>\n</tr>\n<tr>\n<td>287</td>\n<td>Fernau, Kurt, Motorfahrzeuge</td>\n</tr>\n<tr>\n<td>392</td>\n<td>Försterei (Revier-), Plötzkau</td>\n</tr>\n<tr>\n<td>258</td>\n<td>Frenkel, Hans, Bauer, Strenznaundorf</td>\n</tr>\n<tr>\n<td>418</td>\n<td>Frenkel, Willy, Bauer, Strenznaundorf</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 29 998 279\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"582 732 588 753\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 951 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>419</td>\n<td>Fritzsche, Art., Bäckerm., Beesenlaublingen</td>\n</tr>\n<tr>\n<td>874</td>\n<td>Gasthof z. Deutschen Haus. Schackstedt.</td>\n</tr>\n<tr>\n<td>380</td>\n<td>Gasthof z. Linde, Beesenlaublingen</td>\n</tr>\n<tr>\n<td>398</td>\n<td>Gasth. z. Weintraube, Beesedau</td>\n</tr>\n<tr>\n<td>278</td>\n<td>Gaßler, Helmuth, Kol.-W., Belleben</td>\n</tr>\n<tr>\n<td>209</td>\n<td>Gemeindeverwaltung Alsleben</td>\n</tr>\n<tr>\n<td>309</td>\n<td>Gemeindeverwaltung Beesedau</td>\n</tr>\n<tr>\n<td>349</td>\n<td>Gemeindeverwaltung Beesenlaublingen</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Gemeindeverwaltung Belleben</td>\n</tr>\n<tr>\n<td>807</td>\n<td>Gemeindeverwaltung Kustrena</td>\n</tr>\n<tr>\n<td>292</td>\n<td>Gendarm.-Einzelposten Beesenlaublingen</td>\n</tr>\n<tr>\n<td>278</td>\n<td>Gendarm.-Einzelposten Belleben</td>\n</tr>\n<tr>\n<td>876</td>\n<td>Georgl, Carl, Kohlen, Belleben.</td>\n</tr>\n<tr>\n<td>377</td>\n<td>Gieseler, Ernst, Fleischermstr.</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Göhre, Hermann, Malermstr.</td>\n</tr>\n<tr>\n<td>363</td>\n<td>Gottschalk, Hermann, Fleischerei</td>\n</tr>\n<tr>\n<td>294</td>\n<td>Gräfe, Hermann, Farben</td>\n</tr>\n<tr>\n<td>359</td>\n<td>Graßhoff, Otto, Gasthaus, Schackstedt</td>\n</tr>\n<tr>\n<td>238</td>\n<td>Grieseler, Karl, Schiffswerft, Mucrena.</td>\n</tr>\n<tr>\n<td>355</td>\n<td>Grüneberg, W., Beesenlaublingen.</td>\n</tr>\n<tr>\n<td>201</td>\n<td>Gutsverwaltung Haus Zeitz.</td>\n</tr>\n<tr>\n<td>912</td>\n<td>Maharland Landw. für Winshlhan</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 997 991\" data-label=\"Text\"><p>372 Haberland, Sophie, Heißmangel<br/>278 Haberland, Wilh., Getreidehandlung.<br/>281 Hachenberger, Olga, Landw., Belieben.<br/>329 Hamann, Dr. med., Arzt<br/>409 Hansen, Martin, Gartenbau<br/>353 Harkenthal, C., Steinsetzmstr.<br/>375 Hartz, Willy, Gasth., Kustrena<br/>397 Helm, Dr. med., Arzt<br/>366 Henning, Paul, Autotransporte<br/>305 Gebr. Herrmann, Tischlerei<br/>253 Hoerning'sche Gutsverw., Belieben<br/>263 Hörning, Hedwig, Landw., Belieben<br/>370 Hoffmann, Hans, Fuhrwesen, Beesenlaublingen<br/>272 Hotel zur neuen Sonne, Bes. Fr. Birkefeld<br/>398 Hündorf, Reinhold, Bauer, Lindenhof.<br/>255 Joachimi, A., Landw., Strenznaundorf<br/>335 Katholisches Pfarramt<br/>265 Kehlring, Otto, Viehändler, Belieben.<br/>341 Keller, Er., Gemischtwr., Beesenlaublingen<br/>226 Kieling, Karl, Kfm.,<br/>234 Kießler, Otto, Bauer</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>241</td>\n<td>Kleinbahn A.-G. Bebitz-Alsleben.</td>\n</tr>\n<tr>\n<td>315</td>\n<td>Dies., Güterabfertigung, Alsleben</td>\n</tr>\n<tr>\n<td>244</td>\n<td>Dies., Güterabfertigung, Beesenlaublingen</td>\n</tr>\n<tr>\n<td>351</td>\n<td>Knauff, Richard, Möbelfabrik, Mukrena</td>\n</tr>\n<tr>\n<td>287</td>\n<td>Knödel, W., Restaurant, Roßschlächterei</td>\n</tr>\n<tr>\n<td>295</td>\n<td>P. u. A. Kobe, Domäne Neubeesen</td>\n</tr>\n<tr>\n<td>293</td>\n<td>Kobold, Pfarrer</td>\n</tr>\n<tr>\n<td>383</td>\n<td>Köhler, Alfred, Bauer</td>\n</tr>\n<tr>\n<td>204</td>\n<td>Köhler, Max, Landwirt</td>\n</tr>\n<tr>\n<td>252</td>\n<td>Köhne, M., Domäne Plötzkau.</td>\n</tr>\n<tr>\n<td>415</td>\n<td>König, Friedrich, Bäckermstr.</td>\n</tr>\n<tr>\n<td>382</td>\n<td>Könnicke, Adolf, Lastfuhrwesen</td>\n</tr>\n<tr>\n<td>274</td>\n<td>Könnicke u. Sohn, Masch.Fbr., Plötzkau</td>\n</tr>\n<tr>\n<td>246</td>\n<td>F. v. Krosigk'sche Gutsverwaltung Poplitz</td>\n</tr>\n<tr>\n<td>314</td>\n<td>Krumme, Friedrich Fleischerei</td>\n</tr>\n<tr>\n<td>348</td>\n<td>Kühnewind, Paul, Kolonialwaren.</td>\n</tr>\n<tr>\n<td>301</td>\n<td>Kühne, Paul, Gemischtwr., Strenznaundorf</td>\n</tr>\n<tr>\n<td>362</td>\n<td>Ländl. Spar- u. Darlehnsk. eGmbH, Plötzkau</td>\n</tr>\n<tr>\n<td>264</td>\n<td>Ländl. Sparkasse eGmbH, Strenznaundorf</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Lautenschläger, Gustav, Rittergut</td>\n</tr>\n<tr>\n<td>221</td>\n<td>Lohse, Rudolph, Hausmann u. N</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 992\" data-label=\"Text\"><p><b>271</b> Lorenz, Hermann, Sattler, Strenznaundorf<br/><b>277</b> Gebr. Mädlr, Schmiedemeister.<br/><b>249</b> Mädlr, Ludwig, Kraftfahrzeuge<br/><b>333</b> Mann, Hermann, Bäckerei<br/><b>257</b> Meißner jr., D., Bauer, Strenznaundorf<br/><b>288</b> Meißner, Fritz, Bauer, Strenznaundorf<br/><b>302</b> Meißner, Kurt, Fuhrwesen, Strenznaundorf<br/><b>344</b> Meißner, Otto, Gemüse<br/><b>367</b> Meyer, H.-J., Steinwerk, Strenznaundorf<br/><b>202</b> Miram, Dr. Viktor, Zahnarzt<br/><b>250</b> Molkerei Alsleben, E. G.m.b.H.<br/><b>350</b> Müller Nachf., H., Inh. Karl Söhns<br/><b>364</b> Müllers Gast- u. Logierhaus, Belleben<br/><b>385</b> NSDAP.: Amt für Volkswohlfahrt<br/><b>304</b> Dies., Kinderheim d. NSV., Schloß Alsleben<br/><b>394</b> Oemisch, Ernst, Inspektor, Bründel<br/><b>235</b> Ollendorf, Friedrich, Kohlen<br/><b>402</b> Otto, Feodor, Oberstammführer d. HJ.<br/><b>352</b> Otto, Friedrich, Steinsetz<br/><b>389</b> Paschke, Alb., Gastwirt.<br/><b>360</b> Peau. Aug., Schankwirtsch.</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 933 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Ext.</th>\n<th>Name, Business, Location</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>313</td>\n<td>Peetz, Max, Wildhandlung</td>\n</tr>\n<tr>\n<td>381</td>\n<td>Pfaffe, Otto, Fleischerm., Beesenlaublingen</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Pfannenschmidt, G., Malermeister.</td>\n</tr>\n<tr>\n<td>410</td>\n<td>Plötzkauer Laube, Plötzkau</td>\n</tr>\n<tr>\n<td>209</td>\n<td>Polizeibehörde</td>\n</tr>\n<tr>\n<td>339</td>\n<td>Preuß. Kanalbauamt, Bauleitung Mukrena</td>\n</tr>\n<tr>\n<td>414</td>\n<td>Prüwer, Willy, Kaufmann</td>\n</tr>\n<tr>\n<td>289</td>\n<td>Pudritzki, Heinz, Konfektionshaus</td>\n</tr>\n<tr>\n<td>261</td>\n<td>Rap, Willi, Elektromstr., Belleben</td>\n</tr>\n<tr>\n<td>284</td>\n<td>Rabitz, Ww. Hermine, Materialwaren</td>\n</tr>\n<tr>\n<td>342</td>\n<td>Ratskeller, Walter Moche</td>\n</tr>\n<tr>\n<td>207</td>\n<td>Reichsbahn, Güterabfertigung Belleben.</td>\n</tr>\n<tr>\n<td>322</td>\n<td>Reichspost, Postamt</td>\n</tr>\n<tr>\n<td>334</td>\n<td>Rinkenberg, Friedrich, Fleischermmeister</td>\n</tr>\n<tr>\n<td>385</td>\n<td>Roth, Ad., Bauer</td>\n</tr>\n<tr>\n<td>358</td>\n<td>Sack, Karl, Bauer, Kustrena</td>\n</tr>\n<tr>\n<td>240</td>\n<td>Saline Laublingen AG, Beesenlaublingen</td>\n</tr>\n<tr>\n<td>216</td>\n<td>Salzmann, Ed., Bauer, Schackstedt.</td>\n</tr>\n<tr>\n<td>379</td>\n<td>Salzmann, Gust., Landw., Schackstedt</td>\n</tr>\n<tr>\n<td>384</td>\n<td>Sauer, Adolf, Getreide, Beesenlaublingen.</td>\n</tr>\n<tr>\n<td>310</td>\n<td>Salzmann, Gust., Schackstedt.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 923 977\" data-label=\"Text\"><p>222 Schaper, Walter, Dentist<br/>217 Schiffsversicherungs-Verein a. G.<br/>215 Schiennstedt, O., Getreidegesch., Belleben<br/>225 Schleusenmeisterei Alsleben-Mukrena<br/>319 Schlömer &amp; Köppen, Fuhrwesen<br/>282 Schmidt, Karl, Landwirt, Gr. Wirschleben<br/>378 Schneider, Curt, Gasth., Plötzkau<br/>280 Schnitzker, Louis, Bauer, Beesedau.<br/>387 Herm. Schönichen &amp; Sohn, mech. Sellerei<br/>230 Schütze, Hugo, Schiffswerft<br/>378 Derselbe, Landwirtschaft<br/>378 Schütze, Werner, Landwirt<br/>229 Schütze, Wilhelm<br/>230 Schütze, Willy, Ingenieur<br/>312 Schulze, Dr. Heinz, Tierarzt<br/>259 Schulze, M., Buchdruckerei<br/>340 Schumann, Dr., Amtsgerichtsrat</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 26 998 333\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 794 993\" data-label=\"Text\"><p>286 Schwenke, Karl, Bauer, Belleben.<br/>275 Seifert, Clemens, Germania-Drogerie.<br/>388 Siersleben, Paul, Fleischermstr.<br/>406 Sorge, Karl, Sammelstellenleiter<br/>389 Sparkasse d. Mansfelder Seekreises<br/>343 Sparkasse des Saalkr., Beesenlaublingen<br/>212 ( Stadt<span style=\"font-size: 2em; vertical-align: middle;\">{</span> Stadtmühle Alsleben Aktiengesellschaft, Als-<br/>213 leben (Saale). T Stadtmühle P Leipzig 10739<br/>214 Standfuß, Fritz, Reg.Baumstr. a. D.<br/>308 Stoye Nf., H., Tiefbaumaterialien<br/>353 Straube, Ernst, Baugeschäft.<br/>(253) Stromverteilung Belleben GmbH.<br/>256 Thorwest, Günther, Landw., Belleben<br/>391 Tischmeyer, Wilh., Möbeltischlerei.<br/>332 Trautmann, Max, Mukrena<br/>371 Türpe, Otto, Bauer, Belleben<br/>238 Überlandzentrale Anhalt, Meldestelle<br/>283 Alb. Ulrich &amp; Rd. Schwarz, Dachdeckermstr.<br/>233 Ulrich, August, Versicherung, Mukrena<br/>403 Ulrich, Karl, Bäckerei<br/>022 Monol Ernst Ratwiesel Mukrena</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 747 972\" data-label=\"Text\"><p>270 Vopel, Wilhelm, Schiffswerft<br/>(217) Vorschußverein zu Alslieben, Bankgesch.<br/>847 Wachamuth, A., Bauer, Belleben.<br/>219 Weber, Richard, Restauration<br/>242 v. Wedel, Landw., Piesdorf.<br/>247 Weibezahl, Adolf, Landw., Schackstedt<br/>228 Weimann, Julius, Getreide<br/>285 Weimann, Otto, Fährhof Mukrena.<br/>221 Weyhe, Hermann, Landw., Gr. Wirschleben<br/>205 Wilke, Carl, Zimmermstr., Schackstedt.<br/>291 Wilke jr., Carl, Bauer, Schackstedt<br/>208 Wilke, Kurt, Bauer, Schackstedt.<br/>228 Wittig, Emil, Dorfmühle.<br/>412 Zetzsch, Hermann, Großwirschleben<br/>318 Zorn, Alfred, Tischlerei<br/>220 Zuckerfabrik Alslieben GmbH</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Alstätte (Kr. Ahaus) [Westf.]",
+        "entries": [
+          {
+            "extension": "18",
+            "text": "Asbeck, Heinr., Wirt, Dorf 21."
+          },
+          {
+            "extension": "71",
+            "text": "Asbeck, Wilh., Klempnerei, Eisenwaren."
+          },
+          {
+            "extension": "88",
+            "text": "Averbeck, Heinr., Gastw., Alstätte 50"
+          },
+          {
+            "extension": "15",
+            "text": "Bäuerl. Bez.- u. Absatzgen., Spar- u. Darlehnskasse eGmbH"
+          },
+          {
+            "extension": "61",
+            "text": "Bahnhof Alstätte."
+          },
+          {
+            "extension": "28",
+            "text": "Bredeck, Ww., Gastwirtin."
+          },
+          {
+            "extension": "10",
+            "text": "Brüggemann, Aug., Haarmühle."
+          },
+          {
+            "extension": "44",
+            "text": "Gendarmerieposten Alstätte"
+          },
+          {
+            "extension": "23",
+            "text": "Gendarmerieposten, Lünten 116"
+          },
+          {
+            "extension": "66",
+            "text": "Grosse Hündfeld, Heinr., Bauer, Brook 76"
+          },
+          {
+            "extension": "62",
+            "text": "Grosse Hündfeld, Hubert, Ziegeleibes."
+          },
+          {
+            "extension": "63",
+            "text": "Gut Erika, Lünten, Post Vreden."
+          },
+          {
+            "extension": "50",
+            "text": "Hagemeister, W. H., Klinkerwerk, Alstätte"
+          },
+          {
+            "extension": "74",
+            "text": "Hassels, Joh., Mühle, Drescherei"
+          },
+          {
+            "extension": "46",
+            "text": "Haveloh, Gerh., Schreinerei, Schmähinghook 91"
+          },
+          {
+            "extension": "22",
+            "text": "Heffler, H., Gasthof zum Bahnhof"
+          },
+          {
+            "extension": "25",
+            "text": "Kappelhoff-Schulze, H., Bauer, Averesch."
+          },
+          {
+            "extension": "53",
+            "text": "Kath. Pfarrzentrale, Krankenhaus, Pastorat"
+          },
+          {
+            "extension": "22",
+            "text": "Kreis-Sonderpost Zwiet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 791 990\" data-label=\"Text\"><p>43 Krosmann, Bernh., Bierverlag<br/>45 Lösing, Anton, Baugesch., Enschederstr. 134<br/>77 Möllers, Franz, Fahrräder<br/>64 Molkereigenossenschaft, E. G. m. b. H.<br/>82 Nienhaus, Herm., Wagenbauer, Dorfstr. 22<br/>37 Redlich, H., Baugesch., Enscheder Str. 133<br/>55 Reichsfinanzverwaltung, Bez. Zollkommissar<br/>Enscheder Str. 128<br/>65 Dieselbe, Zollamt Alstätte<br/>69 Dieselbe, Zollamt Beßlinghook 25 11<br/>14 Dies., Zollamt Sandersküper-Brook 75<br/>20 Reichspost, Postagentur Alstätte<br/>42 Render, Herm., Buchdruckerei, Kirchpl. 20<br/>68 Render, Jos., Manuf.-W., Kirchpl. 45<br/>67 Rolfig, Bernh., Metzgerei<br/>27 Roß, Th., Gastwirt, Metzgerei<br/>51 Rundmund, Joh., Baumaterialien<br/>60 Schroer, Ww. Bernh., Kolonialwaren<br/>72 Schulze Kappelhoff, Bauer, Averesch 42<br/>59 Seller, Pfarrer, Lünten<br/>24 Tenhagen, Gerh., Wirt, Sandersküper.</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "17",
+            "text": "Vortkamp, H., Bierverlag, Schwiepinghook 97"
+          },
+          {
+            "extension": "21",
+            "text": "Vrenegor, Joh., Wirt, Lünten 56"
+          },
+          {
+            "extension": "70",
+            "text": "van Weyck, H., Möbelfbr., Dorf 36."
+          },
+          {
+            "extension": "47",
+            "text": "Wilmer, Herm., Schuhwr., Langestr. 64"
+          },
+          {
+            "extension": "58",
+            "text": "Wolfering, Joh., Bauer, Brink 36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Altach (Vorarlberg)[Tirol]",
+        "entries": [
+          {
+            "extension": "10",
+            "text": "Albert Ender &amp; Co.Wirkereigeschäft, Altach-Brois Nr. 57"
+          },
+          {
+            "extension": "12",
+            "text": "Architekt Ing. Dr. Ernst Längle"
+          },
+          {
+            "extension": "8",
+            "text": "Bürgermeisteramt"
+          },
+          {
+            "extension": "9",
+            "text": "Gächter, Herm., Klöppelspitzenfabrik"
+          },
+          {
+            "extension": "18",
+            "text": "Gendarmerieposten"
+          },
+          {
+            "extension": "16",
+            "text": "Hagen, Ant., Fleischerei, H. Nr. 215"
+          },
+          {
+            "extension": "14",
+            "text": "Huber, Erben, Josef, Nr. 341"
+          },
+          {
+            "extension": "3",
+            "text": "Kopf, Ad., Gemischtwaren, H. Nr. 35"
+          },
+          {
+            "extension": "13",
+            "text": "Kopf, Herm., Autovermietung, Nr. 7"
+          },
+          {
+            "extension": "7",
+            "text": "Kopf, Oskar, Stickerei"
+          },
+          {
+            "extension": "7",
+            "text": "Kopf, Theresia, Stickerei"
+          },
+          {
+            "extension": "2",
+            "text": "Gebrüder Längle, Wirkwarenfabrik"
+          },
+          {
+            "extension": "1",
+            "text": "National Allg. Vers.-Anstalt, J. Reis"
+          },
+          {
+            "extension": "20",
+            "text": "Rheinbauleitung"
+          },
+          {
+            "extension": "11",
+            "text": "Riedmann, Rud., Fleischerei"
+          },
+          {
+            "extension": "4",
+            "text": "Rohrer, August, Kohlen, Reichsstr. 192"
+          },
+          {
+            "extension": "19",
+            "text": "Sandholzer, J., Autovermietung, Nr. 25"
+          },
+          {
+            "extension": "15",
+            "text": "Schneider, Christian, Vertr., Nr. 297"
+          },
+          {
+            "extension": "91",
+            "text": "Vorarlberger Textilhandelsges. &amp; Sohn 196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 547 852\" data-label=\"List-Group\"><ul><li>5 <b>Walser, Herm., Gemischtwaren</b></li><li>6 <b>Weber, Stefan, mech. Stickerei</b></li><li>17 <b>Zollaufsichtsstelle</b></li></ul></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Alt Aussee (Oberdonau)",
+        "entries": [
+          {
+            "extension": "12",
+            "text": "Bauer, F., Bürgermstr. a. D., Egglgut 37"
+          },
+          {
+            "extension": "3",
+            "text": "Bergverwaltung, Alt-Aussee, Nr. 22"
+          },
+          {
+            "extension": "23",
+            "text": "Büro d. Reichsstatthalters, Fischerndorf 76"
+          },
+          {
+            "extension": "40",
+            "text": "Dangl, Franz, Kaufhaus"
+          },
+          {
+            "extension": "47",
+            "text": "Denkscherz, Gasthof"
+          },
+          {
+            "extension": "50",
+            "text": "Drogerie, Wilhelm Rastl, Fischerndorf 44"
+          },
+          {
+            "extension": "2",
+            "text": "Eibl, Hans, Fleischhauerei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 20 785 317\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  }
+]

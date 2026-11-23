@@ -1,0 +1,970 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"229 625 589 837\" data-label=\"Text\"><p><b>220 (Branchenteil)</b></p></div><div data-bbox=\"761 625 998 811\" data-label=\"Text\"><p><b>1793. Fö</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "1793. Förderbänder",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"253 89 966 937\" data-label=\"Text\"><p><b>Louis Herrmann</b> Industriesiebe, Horden<br/>und Metallförderbänder<br/><b>Dresden A 24, Zwickauer Str. 33. Ruf: 441 51</b></p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"292 208 930 270\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"376 226 846 352\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Herne (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Recklinghausen.",
+        "entries": []
+      },
+      {
+        "region_name": "Tetingen (Luxemburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Jon. Friser",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"232 46 599 313\" data-label=\"Text\"><p><b>Unna (Westf.).</b></p></div><div data-bbox=\"291 395 365 562\" data-label=\"Text\"><p>2007</p></div><div data-bbox=\"413 322 958 875\" data-label=\"Text\"><p><b>Karl Dröge</b> Förderwagen,<br/>Becherwerke u.<br/>Transportanlagen, Hansastr. 14–16</p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"252 208 966 266\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Waldsee (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"412 161 815 522\"}, {\"label\": \"Text\", \"bbox\": \"550 567 938 822\"}]",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "1801. Fornerstifte",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col1_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 161 998 811\" data-label=\"Text\"><p><b>Rönkhausen (Sauerland).</b><br/><b>64 Baußmann, Franz Joh., Drahtstiftfabrik</b></p></div>",
+      "cells": [
+        "col1_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col1_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "1802. Formkasten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col1_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 50 745 177\" data-label=\"Text\"><p><b>Freyburg (Unstrut).</b></p></div><div data-bbox=\"318 173 997 332\" data-label=\"Text\"><p><b>252 Deutsche Patent - Formkasten -</b></p></div><div data-bbox=\"387 352 825 514\" data-label=\"Text\"><p><b>Werke Freyburg a. Unstrut</b></p></div><div data-bbox=\"237 550 631 673\" data-label=\"Text\"><p><b>Milspe (Westf.).</b></p></div><div data-bbox=\"241 667 997 937\" data-label=\"Text\"><p><b>Gevelsberg 3568 Gebrüder Bosselmann, Herstellung<br/>von Formkästen u. Gießereimaschinen,<br/>Milspe, Heilenbecker Str. 8</b></p></div>",
+      "cells": [
+        "col1_sec19.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col1_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"344 226 888 292\"}]",
+      "cells": [
+        "col1_sec20.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col1_sec21.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col1_sec22.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "1804. Formsand",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col1_sec23.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Herbänder — 1809. Forschung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Ellrich (Südharz).",
+        "entries": []
+      },
+      {
+        "region_name": "Halberstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipen (üß. Borna [Bez. Leipzig]).",
+        "entries": []
+      },
+      {
+        "region_name": "Ratingen (Rhrp.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 283\" data-label=\"Text\"><p><b>Hirschau 50 Busch, Valentin, Quarzsandgruben,<br/>Silbersand, Schnaittenbach (Bayr. Ostm.)</b></p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "1805. Formstechereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Hard (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "1807. Formstückdrehereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Leonberg (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bischofswerda (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Freiberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Kolmar (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "ALSATIA-Verlag A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Langensalza (Prov. Sa.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Neu-Ulm (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Oberndorf a. Neckar (Wrtth.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"111 0 999 240\" data-label=\"Text\"><p><b>034</b> <b>Quirinen, Kuster, Duschl., Formular-</b><br/><b>sätze, Karbondruck, Transp. Zeichenpapier</b></p></div>",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 687 298 904\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"26 156 130 462\"}, {\"label\": \"Text\", \"bbox\": \"283 41 810 937\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Süßeln (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Vilsbiburg (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Vlotho (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wesel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"58 131 988 779\" data-label=\"Text\"><p>23802 <b>Pittroff &amp; Co., Spezialdruckerei, Wupper-</b><br/><b>tal-Elberfeld, Kieler Straße 29</b></p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"83 111 912 401\"}, {\"label\": \"Text\", \"bbox\": \"265 421 633 592\"}, {\"label\": \"Text\", \"bbox\": \"355 589 927 744\"}, {\"label\": \"Text\", \"bbox\": \"355 753 773 912\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 982\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>11 00 41</td>\n<td rowspan=\"2\">}</td>\n<td rowspan=\"2\"><b>Dieselbe, Nachtschaltung</b></td>\n</tr>\n<tr>\n<td>11 54 71</td>\n</tr>\n<tr>\n<td>31 91 04</td>\n<td></td>\n<td><b>Institut für Druck- und Reproduktions-technik, Technische Hochschule, Berlin-Charlottenburg, Kurfürstenallee 20</b></td>\n</tr>\n<tr>\n<td>46 41 36</td>\n<td></td>\n<td><b>Institut für Infektionskrankheiten „Robert Koch“, N 65, Führerstr. 2</b></td>\n</tr>\n<tr>\n<td>31 80 71</td>\n<td></td>\n<td><b>Institut für Konjunkturforschung, Berlin-Charlottenburg 2, Fasanenstr. 6</b></td>\n</tr>\n<tr>\n<td>42 33 46</td>\n<td></td>\n<td><b>Institut für Wohnungs- und Siedlungswesen Berlin C 2, Kleine Präsidentenstr. 7</b></td>\n</tr>\n<tr>\n<td>41 24 14</td>\n<td></td>\n<td><b>Kaiserin Friedrich-Haus für das Ärztliche Fortbildungswesen, Reichsärztekammer, NW 7, Robert-Koch-Platz 7</b></td>\n</tr>\n<tr>\n<td>12 00 47</td>\n<td rowspan=\"4\">}</td>\n<td rowspan=\"4\"><b>Lilienthal-Gesellschaft<br/>für Luftfahrtforschung<br/>Berlin SW 11<br/>Prinz-Albrecht-Straße 5</b></td>\n</tr>\n<tr>\n<td>Apparate</td>\n</tr>\n<tr>\n<td>1702</td>\n</tr>\n<tr>\n<td>1703</td>\n</tr>\n<tr>\n<td>41 65 71</td>\n<td></td>\n<td><b>Luftfahrt-Medizinisches Forschungsinstitut des Reichsluftfahrtministeriums, NW 40, Scharnhorststr. 35</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Christianstadt (Bober).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "<div data-bbox=\"775 156 782 188\" data-label=\"Text\"><p>1</p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Darmstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Köthen (Anh.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kraftborn (Kr. Breslau).",
+        "entries": []
+      },
+      {
+        "region_name": "Landsberg (Warthe).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Marienberg (Westerwald).",
+        "entries": []
+      },
+      {
+        "region_name": "München (Munich)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "M. Gladbach.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Reutlingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Schwäbisch Gmünd.",
+        "entries": []
+      },
+      {
+        "region_name": "Sorau (Lausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "Tübingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wangen (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Wesermünde.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

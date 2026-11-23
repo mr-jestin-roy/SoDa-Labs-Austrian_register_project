@@ -1,0 +1,466 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Branche",
+        "entries": []
+      },
+      {
+        "region_name": "Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 995 985\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>3001</td>\n<td>Leuwsche Waren</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3682</td>\n<td>Lesezirkel</td>\n<td>452</td>\n</tr>\n<tr>\n<td>3683</td>\n<td>Lesezirkelwerbungsmittler</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3685</td>\n<td>Leuchtkörper</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3686</td>\n<td>Leuchtmasse u. -farben</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3687</td>\n<td>Leucht- u. Signalmittel (s. a. Signalmittel)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3688</td>\n<td>Leuchtröhren (s. a. Neon-Leuchtröhren)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3689</td>\n<td>Leuchtschilder</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3691</td>\n<td>Lezithin</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3692</td>\n<td>Lichtbilder</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3693</td>\n<td>Lichtbogen-Schweißanlagen</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3694</td>\n<td>Lichtdruckanstalten</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3695</td>\n<td>Lichtfilter</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3697</td>\n<td>Licht- u. Photopausereien</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3698</td>\n<td>Lichtpausapparate u. -maschinen</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3699</td>\n<td>Lichtpausapapiere</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3700</td>\n<td>Lichtreklame</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3701</td>\n<td>Lichtsignalanlagen</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3703</td>\n<td>Lichtspieltheater</td>\n<td>„</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 67 989 976\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>3705</td>\n<td>Lieferungsgenossenschaften . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>    s. a. Genossenschaften</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>        Landw. Genossenschaften</td>\n<td></td>\n</tr>\n<tr>\n<td>3706</td>\n<td>Lieferwagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>...</td>\n<td>Liegestühle siehe Gartenmöbel</td>\n<td></td>\n</tr>\n<tr>\n<td>3707</td>\n<td>Liköre . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3708</td>\n<td>Liköressenzen (s. a. Essenzenfabriken) .</td>\n<td>456</td>\n</tr>\n<tr>\n<td>3710</td>\n<td>Liköretiketten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3711</td>\n<td>Likörstuben . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3712</td>\n<td>Limonadenfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3713</td>\n<td>Linealfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3715</td>\n<td>Liniieranstalten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3716</td>\n<td>Liniermaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3717</td>\n<td>Linoleum . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3718</td>\n<td>Linoleumunterlagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3719</td>\n<td>Linonformen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3721</td>\n<td>Linters . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3722</td>\n<td>Lithographiesteine . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"236 3 992 991\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>3724</td>\n<td>Lithopone . . . . .</td>\n<td>457</td>\n</tr>\n<tr>\n<td>3725</td>\n<td>Litzenflechtereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3727</td>\n<td>Lochkarten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3728</td>\n<td>Lochkartenmaschinen. . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3729</td>\n<td>Lochzangen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3730</td>\n<td>Loden . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3731</td>\n<td>Logierhäuser . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3733</td>\n<td>Lohnabrechnungssysteme . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3734</td>\n<td>Lohnbeutel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3735</td>\n<td>Lohnhärtereien (s. a. Härtereien) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3736</td>\n<td>Lohnmüllereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3737</td>\n<td>Lohnpackereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3739</td>\n<td>Lohnflugbetriebe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3740</td>\n<td>Lokalbahnen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3741</td>\n<td>Lokomobilen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3742</td>\n<td>Lokomotiven (s. a. Motorlokomotiven) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3743</td>\n<td>Lokomotiv-Bekohlungsanlagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3745</td>\n<td>Lokomotivwerkzeuge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3746</td>\n<td>Lösemittel-Rückgewinnung . . . . .</td>\n<td>„</td>\n</tr>\n</tbody>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"235 25 990 975\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>3747</td>\n<td>Lötapparate . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3748</td>\n<td>Lötfett . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3749</td>\n<td>Lötlampen u. -kolben für flüssige Brennstoffe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3751</td>\n<td>Lötmittel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3752</td>\n<td>Lötwasser . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3753</td>\n<td>Lötzinn . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3754</td>\n<td>Lotterie-Effekten . . . . .</td>\n<td>458</td>\n</tr>\n<tr>\n<td>3755</td>\n<td>Lotterie-Einnehmer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3758</td>\n<td>Lotterieunternehmer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3759</td>\n<td><b>Luftbefeuchtung</b> . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3760</td>\n<td>Luftbereifte Pferdezugwagen (s. a. Ackerwagen, luftbereifte) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3761</td>\n<td>Luftbildmeßgeräte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3763</td>\n<td>Lufterhitzer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3765</td>\n<td>Luftfahrtgeräte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3766</td>\n<td>Luftfahrtnachrichten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3767</td>\n<td>Luftfahrtwissenschaftl. Institute (s. a. Wissenschaftl. Institut)</td>\n<td></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"235 3 988 946\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>3770</td>\n<td>Luftfilter . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3772</td>\n<td>Luftheizapparate. . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3773</td>\n<td>Luftheizöfen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3775</td>\n<td>Luftheizungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Heizungsanlagen</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Zentralheizungen</td>\n<td></td>\n</tr>\n<tr>\n<td>3776</td>\n<td>Luftkompressoren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3777</td>\n<td>Luftpumpen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3778</td>\n<td>Luftreifenventile . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3779</td>\n<td>Luftschiffe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3782</td>\n<td>Luftschutzausrüstungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3783</td>\n<td>Luftschutzbauten . . . . .</td>\n<td>459</td>\n</tr>\n<tr>\n<td>3784</td>\n<td>Luftschutzbedarf. . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3785</td>\n<td>Luftschutzfenster . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3787</td>\n<td>Luftschutzgeräte. . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3788</td>\n<td>Luftschutzhelme . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3789</td>\n<td>Luftschutzraum-Belüftung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3790</td>\n<td>Luftschutzraumtüren u. -blenden . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3791</td>\n<td>Luftschutztragen . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a vertical red margin line on the left side. There is no text or other content visible on the page.\"/></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"578 818 587 836\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Branche",
+        "entries": []
+      },
+      {
+        "region_name": "Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "M",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 982\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>3823</td>\n<td>\n          Maler u. Anstreicher . . . . .<br/>\n          s. a. Anstreicher<br/>\n              Dekorationsmaler<br/>\n              Schildermaler\n        </td>\n<td>„</td>\n</tr>\n<tr>\n<td>3824</td>\n<td>Malerbedarf . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3826</td>\n<td>Malleinwandfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3827</td>\n<td>Malutensilien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3829</td>\n<td>Malzfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3830</td>\n<td>Malzextrakte u. Malzpräparate . . . . .</td>\n<td>462</td>\n</tr>\n<tr>\n<td>3831</td>\n<td>Malzkaffee . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3832</td>\n<td>Malzwendeschaufeln . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3833</td>\n<td>Manganerze . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3835</td>\n<td>Manikürartikel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>...</td>\n<td>Mangeln siehe Heißmangeln u. Wäsche-<br/>mangeln</td>\n<td></td>\n</tr>\n<tr>\n<td>3837</td>\n<td>Manometer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3838</td>\n<td>Mäntel . . . . .</td>\n<td>463</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Damenmäntel</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 14 992 992\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>3839</td>\n<td>Manufaktur- u. Modewaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3841</td>\n<td>Mappen . . . . .</td>\n<td>464</td>\n</tr>\n<tr>\n<td>3842</td>\n<td>Mappenschlösser . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3843</td>\n<td>Margarine . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3844</td>\n<td>Margarine-Rohstoffe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3845</td>\n<td>Marinieranstalten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3847</td>\n<td>Markisen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3848</td>\n<td>Marmeladenfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Gelees</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Konfitüren</td>\n<td></td>\n</tr>\n<tr>\n<td>3850</td>\n<td>Marmeladen-Halbfabrikate u. Rohsaft .</td>\n<td>465</td>\n</tr>\n<tr>\n<td>3851</td>\n<td>Marmor . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3852</td>\n<td>Marmorglas . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3853</td>\n<td>Marmorkies . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3855</td>\n<td>Marmorschleifereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3856</td>\n<td>Marmorwaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3857</td>\n<td>Marzipan-Rohmasse . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3859</td>\n<td>Marzipanwaren . . . . .</td>\n<td>„</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 61 998 992\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>3861</td>\n<td>Maschinenfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3862</td>\n<td>Maschinenhandlungen . . . . .</td>\n<td>471</td>\n</tr>\n<tr>\n<td>3863</td>\n<td>Maschinenbürsten . . . . .</td>\n<td>472</td>\n</tr>\n<tr>\n<td>3865</td>\n<td>Maschinenisolierungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3866</td>\n<td>Maschinenmesserfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3867</td>\n<td>Maschinen- u. Zylinderöle . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Mineralöle</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Techn. Öle</td>\n<td></td>\n</tr>\n<tr>\n<td>3869</td>\n<td>Maschinenreparaturen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3871</td>\n<td>Maschinenschraubstöcke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3873</td>\n<td>Maschinentechn. Großhandlungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3874</td>\n<td>Maschinenteile . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3875</td>\n<td>Maschinentransporte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Lasttransporte</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Schwertransporte</td>\n<td></td>\n</tr>\n<tr>\n<td>3878</td>\n<td>Maskenfabriken . . . . .</td>\n<td>473</td>\n</tr>\n<tr>\n<td>3879</td>\n<td>Maskenkostüme . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3883</td>\n<td>Massenartikel (s. a. Präzisionsmassen-<br/>artikel)</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 944\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>3884</td>\n<td>Musslvdecken u. -dächer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3885</td>\n<td>Maßstäbe u. Maßbänder (s. a. Rollband-<br/>maße) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3886</td>\n<td>Maste (s. a. Leitungsmaste) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3887</td>\n<td>Materialprüfapparate u. -maschinen (s. a.<br/>Magnet-elektr. Materialprüfmaschinen) „</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3889</td>\n<td>Materialwaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3890</td>\n<td>Mathemat. Instrumente . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3891</td>\n<td>Matratzen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Patentmatratzen</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Spiraldrahtmatratzen</td>\n<td></td>\n</tr>\n<tr>\n<td>3893</td>\n<td>Matratzendrelle . . . . .</td>\n<td>474</td>\n</tr>\n<tr>\n<td>3894</td>\n<td>Matratzenfedern . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3895</td>\n<td>Matratzenteile . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3896</td>\n<td>Matrizenfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3897</td>\n<td>Matten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3898</td>\n<td>Maurerkellen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3899</td>\n<td>Maurermeister . . . . .</td>\n<td>„</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely for a specific town or region that is not currently visible in this frame.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Inhaltsang",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Branche",
+        "entries": []
+      },
+      {
+        "region_name": "Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 998 993\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>3922</td>\n<td>Membranvergüßer</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3923</td>\n<td>Membranfilter</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3925</td>\n<td>Membranit — Membranol</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3926</td>\n<td>Mercerisieranstalten</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3927</td>\n<td>Meßämter</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3928</td>\n<td>Meßapparate (s. a. Prüfmaschinen)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3929</td>\n<td>Meßhäuser</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3931</td>\n<td>Meßinstrumente (s. a. Elektrische Meßinstrumente)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3933</td>\n<td>Meßuhren</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3934</td>\n<td>Meßwerkzeuge</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3935</td>\n<td>Messer</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3938</td>\n<td>Messingartikel</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3939</td>\n<td>Messingbleche, -bänder u. -scheiben</td>\n<td>477</td>\n</tr>\n<tr>\n<td>3940</td>\n<td>Messingdrähte</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3941</td>\n<td>Messinghalbzeug</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3943</td>\n<td>Messinglinien u. Messingschriften</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3944</td>\n<td>Messing-Preß- u. Stanzteile</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4042</td>\n<td>Messingnäher</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 992\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>3946</td>\n<td>Messingstangen u. -profile . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3947</td>\n<td>Messingwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3949</td>\n<td>Metalle . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3950</td>\n<td>Metallabfälle . . . . .</td>\n<td>478</td>\n</tr>\n<tr>\n<td>3951</td>\n<td>Metallasche u. -rückstände . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3952</td>\n<td>Metallätzereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3953</td>\n<td>Metallbandsägen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3955</td>\n<td>Metallbearbeitung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3956</td>\n<td>Metallbearbeitungsmaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3957</td>\n<td>Metallbearbeitungswerkzeuge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3958</td>\n<td>Metallbettstellen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3959</td>\n<td>Metallbuchstaben . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3961</td>\n<td>Metallchemie . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3962</td>\n<td>Metalldrhereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3963</td>\n<td>Metalldrückereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3964</td>\n<td>Metallersatzbleche . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3965</td>\n<td>Metallfolie . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3967</td>\n<td>Metallgewebe u. -geflechte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>3969</td>\n<td>Metallgießereien . . . . .</td>\n<td>479</td>\n</tr>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 990 995\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>U S T</th>\n<th>ANZEIGENVERKÄUFER</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 986\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>3999</td>\n<td>Metallspritzzapparate . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4000</td>\n<td>Metallspritzarbeiten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4003</td>\n<td>Metallstopfbüchsenpackungen (s. a.<br/>Stopfbüchsenpackungen) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4004</td>\n<td>Metalltuchfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4005</td>\n<td>Metallurgische Betriebe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4006</td>\n<td>Metallveredelung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4007</td>\n<td>Metallverschlüsse . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4008</td>\n<td>Metallwaren (s. a. Kleinmetallwaren) . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4009</td>\n<td>Metallwaren für die Parfümerie- u. Kos-<br/>metik-Branche. . . . .</td>\n<td>484</td>\n</tr>\n<tr>\n<td>4010</td>\n<td>Metallwaschmaschinen, Bau von . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4011</td>\n<td>Metallwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4012</td>\n<td>Metallziehereien (s. a. Preß-, Stanz- u.<br/>Ziehwerke) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4013</td>\n<td>Meteorologische Instrumente . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4015</td>\n<td>Meterzähler . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4016</td>\n<td>Metronomefabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>....</td>\n<td>Metzgereien usw. siehe unter Flei-</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"179 0 354 14\" data-label=\"Page-Header\"><p>-----</p></div>\n<div data-bbox=\"0 65 985 950\" data-label=\"Table-Of-Contents\">\n<table border=\"0\">\n<tr>\n<td>4017</td>\n<td>Mieder a) Fabriken u. Werkstätten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>b) Handlungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4018</td>\n<td>Miederbestandteile . . . . .</td>\n<td>485</td>\n</tr>\n<tr>\n<td>4019</td>\n<td>Miedersenkeln . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4021</td>\n<td>Miederzutaten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4022</td>\n<td>Mikrometer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4023</td>\n<td>Mikrophone . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4024</td>\n<td>Mikroskope . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4025</td>\n<td>Mikrotome . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4027</td>\n<td>Milchabsatzgenossenschaften . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4029</td>\n<td>Milchflaschen (feuerfest) für die Säuglingspflege . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4030</td>\n<td>Milchflaschenverschlüsse . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4031</td>\n<td>Milchindustrie . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4032</td>\n<td>Milchkannen . . . . .</td>\n<td>486</td>\n</tr>\n<tr>\n<td>4033</td>\n<td>Milchkonserven . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4034</td>\n<td>Milchmischgetränke . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a light beige background with faint vertical lines and a small, illegible mark in the bottom right corner.\"/>This image shows a blank page from a 1942 German telephone directory. The paper has a light beige or off-white color with a slightly textured appearance. There are faint vertical lines running down the page, which are likely part of the binding or the scanning process. In the bottom right corner, there is a small, dark, illegible mark that could be a stamp or a piece of tape. The overall appearance is that of an old, unused page from a book.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Lebe des Branchenteils",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Branche",
+        "entries": []
+      },
+      {
+        "region_name": "Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 28 784 972\" data-label=\"Table-Of-Contents\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>4051</td>\n<td>Mineralfarben . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4052</td>\n<td>Mineralien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4053</td>\n<td>Mineralmahlwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4054</td>\n<td>Mineralöle . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>    s. a. Maschinen- u. Zylinderöle</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>    Schmieröle</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>    Techn. Öle</td>\n<td></td>\n</tr>\n<tr>\n<td>4055</td>\n<td>Mineralquellen . . . . .</td>\n<td>487</td>\n</tr>\n<tr>\n<td>4057</td>\n<td>Mineralwasser, rein natürliche . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4058</td>\n<td>Mineralwasser, künstliche . . . . .</td>\n<td>488</td>\n</tr>\n<tr>\n<td>4059</td>\n<td>Mineralwasserapparate . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4060</td>\n<td>Mineralwollschnüre . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4063</td>\n<td>Ministerien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4064</td>\n<td>Mischfutterfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4065</td>\n<td>Mischgarne . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4066</td>\n<td>Misch- u. Knetmaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4067</td>\n<td>Missionsgesellschaften . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4070</td>\n<td>Möbelfabriken u. -werkstätten . . . . .</td>\n<td>489</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Stilmöbel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 784 992\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>4090</td>\n<td>Modewaren u. Modeausstellungen</td>\n<td>499</td>\n</tr>\n<tr>\n<td>4091</td>\n<td>Modezeichner</td>\n<td>499</td>\n</tr>\n<tr>\n<td>4093</td>\n<td>Modezeitschriften</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4094</td>\n<td>Modellbau (s. a. Baumodelle)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4095</td>\n<td>Modellbekleidung</td>\n<td>„</td>\n</tr>\n<tr>\n<td>....</td>\n<td>Modistinnen siehe „Damenhüte“ und<br/>„Putz- u. Modewaren“</td>\n<td></td>\n</tr>\n<tr>\n<td>4096</td>\n<td>Mohnmühlen</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4097</td>\n<td>Mokettwebereien (s. a. Möbelstoffe)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4099</td>\n<td>Molekularzerstäubung</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4100</td>\n<td>Molkereien</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4101</td>\n<td>Molkerei-Einrichtungen</td>\n<td>501</td>\n</tr>\n<tr>\n<td>4102</td>\n<td>Molkereigeräte u. -bedarfsartikel</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4103</td>\n<td>Molkereimaschinen</td>\n<td>502</td>\n</tr>\n<tr>\n<td>4105</td>\n<td>Molkereiprodukte</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4107</td>\n<td>Monopolin</td>\n<td>503</td>\n</tr>\n<tr>\n<td>4108</td>\n<td>Moorkultivierung (s. a. Ödlandkultivie-</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 779 994\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>4109</td>\n<td>Moorparaffin . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4111</td>\n<td>„Mop“-Fabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4112</td>\n<td>Mörtelwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4113</td>\n<td>Mörtelzusatz . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4114</td>\n<td>Mosaik u. Mosaikfliesen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4115</td>\n<td>Mostrich (s. a. Senf) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4119</td>\n<td><b>Motoren</b> . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>    s. a. Dieselmotoren</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>        Einbaumotoren</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>        Elektromotoren</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>        Gasmotoren</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>        Getriebemotoren</td>\n<td></td>\n</tr>\n<tr>\n<td>4120</td>\n<td>Motorenbestandteile . . . . .</td>\n<td>504</td>\n</tr>\n<tr>\n<td>4121</td>\n<td>Motorendichtungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4123</td>\n<td>Motorenöle (s. a. Betriebsstoffe) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4124</td>\n<td>Motor-Fahrräder . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4125</td>\n<td>Motorfahrzeuge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>    s. a. Automobile</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>        Kraftfahrzeuge</td>\n<td></td>\n</tr>\n<tr>\n<td>4127</td>\n<td>Motorlakromotiven</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 778 946\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>4129</td>\n<td>Motorpiluge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4130</td>\n<td>Motorräder . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4131</td>\n<td>Motorradbeiwagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4132</td>\n<td>Motorradbestandteile u. -zubehör . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4133</td>\n<td>Motorradketten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4135</td>\n<td>Motorradsättel . . . . .</td>\n<td>505</td>\n</tr>\n<tr>\n<td>4136</td>\n<td>Motorreparaturen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4137</td>\n<td>Motorsägenfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4138</td>\n<td>Motorspritzen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4139</td>\n<td>Motorstraßenwalzen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4141</td>\n<td>Motorwalzenverleih . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4142</td>\n<td>Mottenschutzsäcke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4143</td>\n<td>Mottenvertilgungsmittel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4144</td>\n<td>Mühlen (Mahlmühlen etc.) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4144a</td>\n<td>Mühlen für Feinstzerkleinerung . . . . .</td>\n<td>507</td>\n</tr>\n<tr>\n<td>4145</td>\n<td>Mühlenbau . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4147</td>\n<td>Mühlenbedarfsartikel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>4148</td>\n<td>Mühleneinrichtungen . . . . .</td>\n<td>„</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"503 963 525 989\" data-label=\"Page-Footer\">\n",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and contains no text, markings, or illustrations. It appears to be a separator page or a page where no entries were present for the specific area or region covered by this particular sheet.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

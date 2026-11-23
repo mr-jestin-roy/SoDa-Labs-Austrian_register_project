@@ -1,0 +1,984 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which are likely scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 997 984\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>32 46 46</td>\n<td></td>\n<td>Dieseide, Verkaufsdienstung Munkesberg-<br/>straße 7, Levantehaus</td>\n</tr>\n<tr>\n<td>36 42 91</td>\n<td rowspan=\"2\">{</td>\n<td>Diederichsen, Emil, Kosmos-Öle, Hbg. 11,</td>\n</tr>\n<tr>\n<td>36 42 92</td>\n<td>Deichstr. 38</td>\n</tr>\n<tr>\n<td>32 32 13</td>\n<td rowspan=\"2\">{</td>\n<td>„Drei Kronen“-Ölgesellschaft</td>\n</tr>\n<tr>\n<td>32 32 92</td>\n<td>Hamburg 1, Alsterdamm 9</td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td rowspan=\"2\">{</td>\n<td>„Glückauf“ Deutsche Oel Gesellschaft m.</td>\n</tr>\n<tr>\n<td>32 13 51</td>\n<td>b. H., Hbg. 1, Wallhof</td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td rowspan=\"2\">{</td>\n<td>Harburger Oelwerke Brinckman &amp; Mer-</td>\n</tr>\n<tr>\n<td>37 11 41</td>\n<td>gell, Hamburg-Harburg 1, Seehafenstr. 1/6</td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">{</td>\n<td>Emil Hauptmann &amp; Volckmar,</td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td>Cyl'öle, Autoöle, Spezialöle usw., Hbg. 36,</td>\n</tr>\n<tr>\n<td>35 26 55</td>\n<td rowspan=\"2\">{</td>\n<td>Kaufmannshaus, Bleichenbrücke 10</td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td>Hubbe Handelsgesellschaft, Zweignieder-</td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td rowspan=\"2\">{</td>\n<td>lassung Hamburg, Öle, Fette, Rohstoffe f.</td>\n</tr>\n<tr>\n<td>34 18 16</td>\n<td>d. Seifenind., Hbg. 36, Neuerwall 64/66</td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td rowspan=\"2\">{</td>\n<td>Leinhas, C., Oele, Fette für die Seifen- u.</td>\n</tr>\n<tr>\n<td>33 14 17</td>\n<td>Margarinefabrikation, Hbg. 11, Hüxter 14</td>\n</tr>\n<tr>\n<td>25 41 02</td>\n<td rowspan=\"2\">{</td>\n<td>Mineralöl-Import Hermann",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Kirchheim (Schwaben).",
+        "entries": []
+      },
+      {
+        "region_name": "Kleve (Bez. Düsseldorf).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"418 106 841 311\" data-label=\"Text\"><p><b>Kurt Bakker</b></p></div><div data-bbox=\"513 375 743 515\" data-label=\"Text\"><p><b>Ölgroßhandlung</b></p></div><div data-bbox=\"388 567 875 694\" data-label=\"Text\"><p><b>Litzmannstadt G 2, Buschlinie 78</b></p></div><div data-bbox=\"483 739 778 875\" data-label=\"Text\"><p><b>Fernsprecher 14218</b></p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Nagelsberg (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neuss.",
+        "entries": []
+      },
+      {
+        "region_name": "Nienhagen (Kr. Celle).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Offenbach (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Ohlau (Schles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      },
+      {
+        "region_name": "RUFOIL",
+        "entries": []
+      },
+      {
+        "region_name": "Rostock (Seestadt).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Rafinol-Werke A.G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Straubing (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wedel (Holst.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 0 998 132\" data-label=\"Text\"><p>K4 43 14 Herstellung und Vertrieb von Kerzen,<br/>Toilette- u. Schmierseifen, Pflanzenfett u.<br/>Speiseölen, II/27, Große Mohrengasse 31</p></div><div data-bbox=\"22 129 998 273\" data-label=\"Text\"><p>A4 60 30 Hermann Göls &amp; Co., Großhandel, Trak-<br/>toren-Oele, Autoöle, Petroleum, Terpen-<br/>tine, XX/20, Salzachstr. 39</p></div><div data-bbox=\"22 270 960 415\" data-label=\"Text\"><p>Sammel- Nr. { <b>Koch &amp; Co.</b> Rohstoffe,<br/>Einfuhr,<br/>U4 75 55 Wien IV/50, Argentinier Straße 26</p></div><div data-bbox=\"22 415 998 560\" data-label=\"Text\"><p>A2 32 09 Anton Kunzmann<br/>Öle, Fettwaren und chem.-techn. Pro-<br/>dukte, Wien IX/71, Ferstelgasse 4</p></div><div data-bbox=\"22 555 998 745\" data-label=\"Text\"><p>U2 55 58 { „NOVA“ Mineralöl-Vertriebs-<br/>U2 55 59 { gesellschaft m. b. H.<br/>U2 32 07 { Wien I/1, Trattnerhof 1<br/>U4 75 00 Vacuum Oil Company A.G.</p></div><div data-bbox=\"22 745 998 940\" data-label=\"Text\"><p>Verkaufs-Abt. für die<br/>Deutsche Vacuum Oil Aktiengesellschaft<br/>Gargoyle-Oele, Wien I, Schwarzenbergpl. 14<br/>T Vacuum, Fernschr. 084/822 P 38547</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content in the 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or a page with no content in the 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"77 714 997 890\" data-label=\"Text\"><p><b>4287. Öle — 4299. Ölmühle</b></p><hr/></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "„Vegetabile“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      },
+      {
+        "region_name": "Znaim (Niederdornau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Ölmühle der LandwirtschaftlichenVerwertungs- u. Vertriebsges. m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"81 191 912 740\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Bodenbach (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "4289. Olein",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Straßburg (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Viktor Haehl &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "4290. Olteste Schutzkleidung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 20 945 965\" data-label=\"Image\"><img alt=\"A black and white line drawing of a long, multi-story building with a curved facade and numerous windows, possibly a factory or warehouse.\"/>A black and white line drawing of a long, multi-story building with a curved facade. The building features a series of arched windows on the upper floors and rectangular windows on the lower floors. The roofline is also curved, following the shape of the building. The drawing is done in a simple, sketch-like style with bold lines and some cross-hatching for shading. The building appears to be a large industrial or commercial structure, possibly a factory or warehouse, given its size and the arrangement of the windows.</div>",
+      "cells": [
+        "col3_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"32 32 968 218\" data-label=\"Image\"><img alt=\"A row of small, stylized icons representing various telephone-related services or locations, such as telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams, telegrams",
+      "cells": [
+        "col3_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "KURTMETIUS-LEIPZIG CHA35",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Fernruf 58 18 62 u. 58 18 63",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "4291. Ölfeuerungsanlagen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Werdohl (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec21.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"55 10 935 125\" data-label=\"Text\"><p>| 24816 Willi Hartmann K.-G., Wiesbaden 30</p></div>",
+      "cells": [
+        "col3_sec21.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec22.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "4292. Olhärtungsanlagen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec23.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"22 102 300 386\"}, {\"label\": \"Text\", \"bbox\": \"80 445 791 710\"}]",
+      "cells": [
+        "col3_sec23.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec24.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"319 266 726 352\"}]",
+      "cells": [
+        "col3_sec24.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec25.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Industrie",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Beierfeld (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Schwarzenberg (Erzgeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "4295. Olkuchen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"36 71 759 580\"}, {\"label\": \"Text\", \"bbox\": \"64 641 230 722\"}, {\"label\": \"Text\", \"bbox\": \"520 641 726 722\"}, {\"label\": \"Text\", \"bbox\": \"237 778 552 876\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "4298. Ölmühleinrichtungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Neuß.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"81 240 714 309\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "Bad Tennstedt (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hugo Hofmann",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Lissa (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Neuß (Rhprr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Oels (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Riesa (Elbe).",
+        "entries": []
+      },
+      {
+        "region_name": "Thorn (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Weiz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": [
+      {
+        "region_name": "Ölmühle der LandwirtschaftlichenVerwertungs- u. Vertriebsges. m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col4_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": {
+      "raw": "<div data-bbox=\"515 76 562 343\" data-label=\"Page-Header\">67</div>",
+      "cells": [
+        "col4_sec17.png"
+      ]
+    }
+  }
+]

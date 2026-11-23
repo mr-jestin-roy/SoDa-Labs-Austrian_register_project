@@ -1,0 +1,880 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "476",
+            "text": "(Band V) Stuttgart: G:"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Gaststätten (Fortsetzung):",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"249 0 998 988\" data-label=\"Table\">\n<table>\n<tr>\n<td>3 00 72</td>\n<td>Bürgerstüble, U. Weiss, <i>Obth</i> Unibach.Str. 70</td>\n</tr>\n<tr>\n<td>5 25 63</td>\n<td>Bunz, Adolf, Kaffee, <i>Flb</i> Hintere Str. 4</td>\n</tr>\n<tr>\n<td>7 06 53</td>\n<td>Burgstallklause, L. Weber, Burgstallstr. 32</td>\n</tr>\n<tr>\n<td>2 01 67</td>\n<td>Calwerstüble, F. Reinhold, CalwerStr. 2</td>\n</tr>\n<tr>\n<td>5 12 17</td>\n<td>Cannstatter Bierhalle, <i>Cst</i> M.LutherStr. 89</td>\n</tr>\n<tr>\n<td>3 09 36</td>\n<td>Cannstatter Hof, <i>Unth</i> Augsb.Str. 215</td>\n</tr>\n<tr>\n<td>4 17 12</td>\n<td>Champignybau, Champignystr. 24</td>\n</tr>\n<tr>\n<td>7 20 66</td>\n<td>Charlottenhöhe, <i>Deg</i> Jahnstr. 84</td>\n</tr>\n<tr>\n<td>5 19 09</td>\n<td>Concordia, Hotel, <i>Cst</i> Bahnhofstr. 21</td>\n</tr>\n<tr>\n<td>2 85 92</td>\n<td>Corso, Kaffee-Restaur., Geißstr. 5</td>\n</tr>\n<tr>\n<td>5 10 96</td>\n<td>Cronmüller, Jul., <i>Cst</i> Daimlerstr. 107</td>\n</tr>\n<tr>\n<td>7 28 80</td>\n<td>Dachswald, Kaffee, Herm. Wurst</td>\n</tr>\n<tr>\n<td>2 91 04</td>\n<td>Deutscher Hof, K. Knauß, Seidenstr. 67</td>\n</tr>\n<tr>\n<td>5 09 80</td>\n<td>Deutsches Haus, <i>Cst</i> DuisburgerStr. 37</td>\n</tr>\n<tr>\n<td>7 14 13</td>\n<td>Deutsches Haus, Christophstr. 16</td>\n</tr>\n<tr>\n<td>6 02 62</td>\n<td>Diakonissenplatz, H. Schwarz, Forststr. 43</td>\n</tr>\n<tr>\n<td>7 02 90</td>\n<td>Dinkelackers Brauer.Rest., Tüb.Str. 48</td>\n</tr>\n<tr>\n<td>7 16 28</td>\n<td>Dinkelackers Saalbau, Hohenstaufenstr. 3</td>\n</tr>\n<tr>\n<td>5 05 61</td>\n<td>Dörner, Th., Rest., <i>Cst</i> Kreuznach.Str. 57</td>\n</tr>\n<tr>\n<td>2 36 24</td>\n<td>Dörr-Schnellgaststätt. KG, Rot.Str. 1a</td>\n</tr>\n<tr>\n<td>2 16 99</td>\n<td>Doggenburg-Restaur., Herdweg 117</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 997 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 53 29</td>\n<td>Drei Königen, z. d., Gasth., Leonhardspl. 7</td>\n</tr>\n<tr>\n<td>8 12 11</td>\n<td>Drei Mohren, Rommel, <i>Feu</i> GrazerStr. 50</td>\n</tr>\n<tr>\n<td>2 14 80</td>\n<td>Drei Mohren, K. Weber, Friedrichstr. 37</td>\n</tr>\n<tr>\n<td>2 91 28</td>\n<td>Drei Raben, Gasth., W.KirchhoffStr. 12</td>\n</tr>\n<tr>\n<td>2 44 90</td>\n<td>Eberhardbau-Restaur., Eberhardstr. 10</td>\n</tr>\n<tr>\n<td>8 18 97</td>\n<td>Eberhardsbau, <i>Feu</i> SteiermärkerStr. 90</td>\n</tr>\n<tr>\n<td>2 50 53</td>\n<td>Eberhardstube, Restaur., Eberhardstr. 39</td>\n</tr>\n<tr>\n<td>6 37 57</td>\n<td>Ebnisee, Restaur., Senefelderstr. 21</td>\n</tr>\n<tr>\n<td>6 20 32</td>\n<td>Eckerts, Silberburgstr. 124</td>\n</tr>\n<tr>\n<td>2 43 96</td>\n<td>Eden-Kasino, Konzertlok., Eberhardstr. 22</td>\n</tr>\n<tr>\n<td>2 53 82</td>\n<td>Eger, Anna, Weinrestaur., Wagnerstr. 30</td>\n</tr>\n<tr>\n<td>5 13 31</td>\n<td>Eisenbahn, <i>Cst</i> Bahnhofstr. 1</td>\n</tr>\n<tr>\n<td>2 11 80</td>\n<td>Eisenbahn, K. Bauer, Friedrichstr. 40</td>\n</tr>\n<tr>\n<td>3 02 89</td>\n<td>Eisernes Kreuz, Gasth., <i>Unth</i> Groß-<br/>glocknerstr. 20</td>\n</tr>\n<tr>\n<td>3 01 53</td>\n<td>Eisernes Kreuz, Wangen, Warth.Str. 4</td>\n</tr>\n<tr>\n<td>2 47 60</td>\n<td>Elsässer Taverne, EßlingerStr. 31 B</td>\n</tr>\n<tr>\n<td>8 10 35</td>\n<td>Engel, Chr. Walz, <i>Stam</i> Traubenstr. 2</td>\n</tr>\n<tr>\n<td>2 58 68</td>\n<td>Engele-Buck, Weinstube, Schusterstr. 6</td>\n</tr>\n<tr>\n<td>2 08 59</td>\n<td>Englischer Garten, Nordbahnhofstr. 20</td>\n</tr>\n<tr>\n<td>2 11 74</td>\n<td><i>Paula</i> <i>Einzel</i> <i>Paula</i> <i>Elternhaus</i> 41</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"241 0 992 990\" data-label=\"Text\"><table><tbody><tr><td>2 50 28</td><td>EBlinger Hof, EBlingerStr. 25</td></tr><tr><td>2 74 64</td><td>Eugensplatz, Oskar Kaiser, Eugenspl. 5</td></tr><tr><td>6 63 49</td><td>Euleneck, E. Heiligmann, Ludwigstr. 56</td></tr><tr><td>2 80 44</td><td>Europäischer Hof, Friedrichstr. 15</td></tr><tr><td>2 51 78</td><td>Excelsior, Veget. Gastst., Königstr. 43 b</td></tr><tr><td>7 21 43</td><td>Fäße, Gasth., A. Raff, <i>Deg</i> Löwenstr. 51</td></tr><tr><td>5 00 19</td><td>Fäße, H. Monatsberger, <i>Cst</i> Marktstr. 17</td></tr><tr><td>6 08 26</td><td>Fahrbach, Karl, Wirtsch., Merzstr. 1</td></tr><tr><td>8 12 09</td><td>Falken, A. Fischer, <i>Feu</i> Ad.Hitler-Str. 47</td></tr><tr><td>2 49 29</td><td>Falken, Gasth., F. Dupper, Christophstr. 3</td></tr><tr><td>6 13 12</td><td>Falkerstüble, Ernst Haag, Militärstr. 33</td></tr><tr><td>7 03 23</td><td>Fangelsbachhaus, Heusteigstr. 45</td></tr><tr><td>2 81 61</td><td>Farbenschachtel, HeilbronnerStr. 75</td></tr><tr><td>2 75 12</td><td>Feuchten Eck, z., Rest., Gymnas.Str. 25</td></tr><tr><td>8 08 93</td><td>Feuerbachtal, <i>Feu</i> Ostmarkstr. 57</td></tr><tr><td>7 27 82</td><td>Filderbahn, Restaur., <i>Deg</i> K.Pfaff-Str. 53</td></tr><tr><td>7 27 10</td><td>Filderhöhe, Gasth., <i>Deg</i> TübingerStr. 51</td></tr><tr><td>7 07 88</td><td>Filderhof, Karl Bauer, Filderstr. 43</td></tr><tr><td>7 80 19</td><td>Filderhof, Hotel-Rest., <i>Vh</i> Filderstr. 1</td></tr><tr><td>2 96 72</td><td>Fischerstuben, Weinst., Engestr. 6</td></tr><tr><td>9 19 87</td><td>Fleischmann, A., Seidenstr. 21</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"220 0 990 995\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>U</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>U</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>\n<th>V</th>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 987 954\" data-label=\"Text\"><table><tbody><tr><td>4 12 27</td><td>Germania, Eugen Nething, Talstr. 121</td></tr><tr><td>7 97 13</td><td>Germania, <i>Echtd</i> Adolf-Hitler-Str. 117</td></tr><tr><td>7 80 92</td><td>Germania, R. Hornung, <i>Vh</i> Paulinenstr. 5</td></tr><tr><td>8 04 69</td><td>Germania, F. Ziegler, <i>Feu</i> Ad.HitlerStr. 33</td></tr><tr><td>3 08 09</td><td>Germania, F. Heim, Wangen, Warth.Str. 2</td></tr><tr><td>2 01 59</td><td>Geroksruhe, A. Ziegler, Pischekstr. 70</td></tr><tr><td>2 70 80</td><td>Geroksruhe, Rest., Pischekstr. 68</td></tr><tr><td>2 28 89</td><td>Gillitzer, Weinhaus, Kanzleistr. 11</td></tr><tr><td>7 82 88</td><td>Glemstal, Gasthaus</td></tr><tr><td>4 22 64</td><td>Glocke, Otto Müller, Talstr. 105</td></tr><tr><td>4 15 48</td><td>Goldene Gerste, A. Schmid, Neckartor 10</td></tr><tr><td>5 00 15</td><td>Goldene Kanone, <i>Cst</i> Daimlerstr. 100</td></tr><tr><td>7 29 35</td><td>Goldene Traube, El. Raedler, Kolbstr. 14</td></tr><tr><td>2 85 89</td><td>Goldener Adler, W. Honold, Hptst.Str. 14</td></tr><tr><td>3 02 05</td><td>Goldener Hahn, <i>Unth</i> Oberstd.Str. 11</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Rhein-Ruhr-Gast",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Metztätten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Gaststätten (Fortsetzung):",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "83"
+          },
+          {
+            "extension": "5",
+            "text": "28"
+          },
+          {
+            "extension": "2",
+            "text": "46"
+          },
+          {
+            "extension": "4",
+            "text": "20"
+          },
+          {
+            "extension": "8",
+            "text": "14"
+          },
+          {
+            "extension": "2",
+            "text": "75"
+          },
+          {
+            "extension": "8",
+            "text": "05"
+          },
+          {
+            "extension": "6",
+            "text": "30"
+          },
+          {
+            "extension": "2",
+            "text": "57"
+          },
+          {
+            "extension": "7",
+            "text": "00"
+          },
+          {
+            "extension": "2",
+            "text": "21"
+          },
+          {
+            "extension": "6",
+            "text": "29"
+          },
+          {
+            "extension": "2",
+            "text": "20"
+          },
+          {
+            "extension": "5",
+            "text": "08"
+          },
+          {
+            "extension": "5",
+            "text": "10"
+          },
+          {
+            "extension": "2",
+            "text": "51"
+          },
+          {
+            "extension": "2",
+            "text": "12"
+          },
+          {
+            "extension": "7",
+            "text": "82"
+          },
+          {
+            "extension": "3",
+            "text": "02"
+          },
+          {
+            "extension": "6",
+            "text": "04"
+          },
+          {
+            "extension": "4",
+            "text": "02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 0 998 988\" data-label=\"Table\">\n<table>\n<tr>\n<td>2 56 26</td>\n<td>Häußermann, Weinst., Hoppenlaustr. 18</td>\n</tr>\n<tr>\n<td>8 10 59</td>\n<td>Hahnen, Gasth., <i>Zuff</i> ColmarerStr. 10</td>\n</tr>\n<tr>\n<td>8 13 95</td>\n<td>Hahnen, Ww. K. Koch, Weil im Dorf</td>\n</tr>\n<tr>\n<td>8 05 79</td>\n<td>Hahnen, Goldener, <i>Feu</i> Ad.Hitler-Str. 73</td>\n</tr>\n<tr>\n<td>6 52 36</td>\n<td>Haller, Sofie, Hasenbergstr. 74</td>\n</tr>\n<tr>\n<td>5 21 16</td>\n<td>Harmonie, Gasth., <i>Fub</i> Bahnhofstr. 67</td>\n</tr>\n<tr>\n<td>2 46 54</td>\n<td>Harmonie, Büchsenstr. 50</td>\n</tr>\n<tr>\n<td>8 07 93</td>\n<td>Harmonie, Weil im Dorf</td>\n</tr>\n<tr>\n<td>8 13 52</td>\n<td>Hasen, K. Böhmler, <i>Feu</i> Kapfenburgstr. 33</td>\n</tr>\n<tr>\n<td>4 24 98</td>\n<td>Hasen, W. Rittershofer, Steubenstr. 12</td>\n</tr>\n<tr>\n<td>3 05 83</td>\n<td>Hasen, Gasth., <i>Umb</i> InnsbruckerStr. 5</td>\n</tr>\n<tr>\n<td>6 31 39</td>\n<td>Hasenbergstüble, Restaur., Ludwigstr. 53</td>\n</tr>\n<tr>\n<td>2 73 46</td>\n<td>Haus Vaterland, Friedrichstr. 62</td>\n</tr>\n<tr>\n<td>2 71 49</td>\n<td>Haußmann, Fr., Restaur., Wagnerstr. 31</td>\n</tr>\n<tr>\n<td>8 15 15</td>\n<td>Heidelberger Faß, <i>Feu</i> Heilbronn.Str. 329</td>\n</tr>\n<tr>\n<td>5 32 00</td>\n<td>Heinle, J., <i>Cst</i> WalblingerStr. 128</td>\n</tr>\n<tr>\n<td>6 49 09</td>\n<td>Herzog Eugen, Restaur., Schwabstr. 84</td>\n</tr>\n<tr>\n<td>7 01 01</td>\n<td>Heslacher Bierstube, BöblingerStr. 99</td>\n</tr>\n<tr>\n<td>7 15 03</td>\n<td>Heslacher Weinstube, VaihingerStr. 18</td>\n</tr>\n<tr>\n<td>2 52 04</td>\n<td>Heusel, Karl, Weinstube, Katharinenpl. 1</td>\n</tr>\n<tr>\n<td>2 80 90</td>\n<td>Heusteigstüble, Restaur., Heusteigstr. 30</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 19 993 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>7 96 79</td>\n<td>Hirsch, E. Schule, <i>Bernh Rosenstr.</i> 27</td>\n</tr>\n<tr>\n<td>7 96 04</td>\n<td>Hirsch, G. Thumm, <i>Bonl Hauptstr.</i> 23</td>\n</tr>\n<tr>\n<td>4 00 20</td>\n<td>Hirsch, Oskar Veit, <i>Poststr.</i> 24</td>\n</tr>\n<tr>\n<td>6 11 26</td>\n<td>Hirsch, Gasthaus, <i>Botn EltingerStr.</i> 2</td>\n</tr>\n<tr>\n<td>7 20 99</td>\n<td>Hirsch, Alf. Hirth, <i>Deß TübingerStr.</i> 27</td>\n</tr>\n<tr>\n<td>4 06 62</td>\n<td>Hirsch, <i>Gabl</i> GablenbergerHauptstr. 112</td>\n</tr>\n<tr>\n<td>29 88 37</td>\n<td>Hirsch, <i>Kemnat</i></td>\n</tr>\n<tr>\n<td>7 96 80</td>\n<td>Hirsch (Post), Gasth. <i>Echterdingen</i></td>\n</tr>\n<tr>\n<td>3 01 34</td>\n<td>Hirsch, <i>Rohracker</i></td>\n</tr>\n<tr>\n<td>29 89 85</td>\n<td>Hirsch, <i>Ruit</i></td>\n</tr>\n<tr>\n<td>8 12 35</td>\n<td>Hirsch, K. Bader, <i>Stam AspergerStr.</i> 3</td>\n</tr>\n<tr>\n<td>7 80 79</td>\n<td>Hirsch, Restaur., Rob. Hahl, <i>Vaihingen</i></td>\n</tr>\n<tr>\n<td>8 12 94</td>\n<td>Hirsch, Gasth., <i>Wildj Hindenburgstr.</i> 404</td>\n</tr>\n<tr>\n<td>8 08 25</td>\n<td>Hirsch, A. Kunberger, <i>Zuff Bottwarstr.</i> 10</td>\n</tr>\n<tr>\n<td>2 53 69</td>\n<td>Hirschbräu-Gaststätten, <i>Hirschstr.</i> 14</td>\n</tr>\n<tr>\n<td>8 16 70</td>\n<td>Hochhaus, <i>Feu Ad.Hitler-Str.</i> 169</td>\n</tr>\n<tr>\n<td>5 16 08</td>\n<td>Höhengaststätte am Burgholzhof, Fritz<br/>Wittner, <i>Cst Auf der Heid</i> 1</td>\n</tr>\n<tr>\n<td>6 50 97</td>\n<td>Hölderlinplatz, G. Mohr, <i>Schwabstr.</i> 130</td>\n</tr>\n<tr>\n<td>5 07 35</td>\n<td>Hohenloher Hof, <i>Cst Seelbergstr.</i> 14</td>\n</tr>\n<tr>\n<td>6 55 00</td>\n<td>Hahnensch Wallentat 10</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 990\" data-label=\"Table\">\n<table>\n<tr>\n<td>4 24 53</td>\n<td>Hohentwiel, O. Kuntz, Landhausstr. 43</td>\n</tr>\n<tr>\n<td>2 87 23</td>\n<td>Holder, Eugen, Bierstube, Milchstr. 6</td>\n</tr>\n<tr>\n<td>7 08 39</td>\n<td>Holzwarth, Gerberstr. 19</td>\n</tr>\n<tr>\n<td>6 31 97</td>\n<td>Holzwarth, Frida, Reuchlinstr. 18</td>\n</tr>\n<tr>\n<td>2 04 98</td>\n<td>Hoppenlaustüble, Hoppenlaustr. 14</td>\n</tr>\n<tr>\n<td>2 46 02</td>\n<td>Horsch, Wilhelm, Eberhardstr. 49</td>\n</tr>\n<tr>\n<td>5 03 79</td>\n<td>Huber, Georg, <i>Cst</i> TilsiterStr. 2</td>\n</tr>\n<tr>\n<td>2 61 23</td>\n<td>Ilgenfritz, Friedrich, Pfarrstr. 21</td>\n</tr>\n<tr>\n<td>2 62 97</td>\n<td>Ilsfelderhof, Restaur., Nadlerstr. 11</td>\n</tr>\n<tr>\n<td>7 00 63</td>\n<td>Ipf, HauptstätterStr. 134</td>\n</tr>\n<tr>\n<td>29 88 03</td>\n<td>Jäger, Karl, <i>Schö</i> Stuttgart.Str. 116</td>\n</tr>\n<tr>\n<td>5 01 75</td>\n<td>Jägerhaus, <i>Cst</i> WaiblingerStr. 110</td>\n</tr>\n<tr>\n<td>8 05 67</td>\n<td>Jägerhaus, <i>Zuff</i> SchwieberdoingerStr. 7</td>\n</tr>\n<tr>\n<td>6 09 72</td>\n<td>Jägerheim, W. Raich, Silberburgstr. 145</td>\n</tr>\n<tr>\n<td>5 00 04</td>\n<td>Jägerhof, E. Mayer, <i>Cst</i> Hallschlagw. 145</td>\n</tr>\n<tr>\n<td>29 87 25</td>\n<td>Jägerhof, <i>Plien</i> StuttgarterStr. 88</td>\n</tr>\n<tr>\n<td>7 80 35</td>\n<td>Jägerhof, <i>Vh</i> Beim Pfaffenwald</td>\n</tr>\n<tr>\n<td>5 33 98</td>\n<td>Jägerstube, <i>Cst</i> König-Karl-Str. 26</td>\n</tr>\n<tr>\n<td>6 36 68</td>\n<td>Jägerstube, G. Rieker, Welmarstr. 7</td>\n</tr>\n<tr>\n<td>4 04 90</td>\n<td>Jägerstüble, GablenbergerHauptstr. 20</td>\n</tr>\n<tr>\n<td>5 00 82</td>\n<td>Jakobsbrunnen, <i>Cst</i> Tuchmacherg. 5</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "23"
+          },
+          {
+            "extension": "6",
+            "text": "11"
+          },
+          {
+            "extension": "6",
+            "text": "07"
+          },
+          {
+            "extension": "7",
+            "text": "40"
+          },
+          {
+            "extension": "2",
+            "text": "78"
+          },
+          {
+            "extension": "7",
+            "text": "80"
+          },
+          {
+            "extension": "9",
+            "text": "09"
+          },
+          {
+            "extension": "5",
+            "text": "04"
+          },
+          {
+            "extension": "6",
+            "text": "59"
+          },
+          {
+            "extension": "7",
+            "text": "16"
+          },
+          {
+            "extension": "2",
+            "text": "18"
+          },
+          {
+            "extension": "6",
+            "text": "42"
+          },
+          {
+            "extension": "5",
+            "text": "20"
+          },
+          {
+            "extension": "2",
+            "text": "35"
+          },
+          {
+            "extension": "6",
+            "text": "35"
+          },
+          {
+            "extension": "7",
+            "text": "09"
+          },
+          {
+            "extension": "8",
+            "text": "10"
+          },
+          {
+            "extension": "2",
+            "text": "55"
+          },
+          {
+            "extension": "4",
+            "text": "21"
+          },
+          {
+            "extension": "2",
+            "text": "93"
+          },
+          {
+            "extension": "4",
+            "text": "00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 952\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>3 05 11</td>\n<td>König Karl, Gasth., K. Schray, Hedelfingen</td>\n</tr>\n<tr>\n<td>5 06 29</td>\n<td>König-Karls-Brücke, <i>Cat</i> König-Karl-Str. 87</td>\n</tr>\n<tr>\n<td>2 24 89</td>\n<td>König v. Württemberg, Kronprinzstr. 26</td>\n</tr>\n<tr>\n<td>2 15 59</td>\n<td>Königshof, Rest., A. Seeger, Königstr. 18</td>\n</tr>\n<tr>\n<td>2 66 70</td>\n<td>Königstor, Paul Greiner, Königstr. 10 C</td>\n</tr>\n<tr>\n<td>7 25 97</td>\n<td>Dies., Wohn. Greiner, Alex. Str. 126</td>\n</tr>\n<tr>\n<td>2 74 71</td>\n<td>Kohm, Eug., Speiserest., O.-Bach-Str. 15</td>\n</tr>\n<tr>\n<td>7 09 90</td>\n<td>Kolb, Albert Jentner, Kolbstr. 8</td>\n</tr>\n<tr>\n<td>2 56 58</td>\n<td>Kornblume, Rest., Silberburgstr. 38</td>\n</tr>\n<tr>\n<td>2 90 79</td>\n<td>Krautter, Max, Jakobstr. 19</td>\n</tr>\n<tr>\n<td>8 12 89</td>\n<td>Kreuz, Fr. Schmelze, <i>Feu</i> Ostmarkstr. 1</td>\n</tr>\n<tr>\n<td>5 08 85</td>\n<td>Kreuz, Jos. Durr, <i>Oeff</i> Hauptstr. 40</td>\n</tr>\n<tr>\n<td>2 52 06</td>\n<td>Krichbaum, E. Essig, Ilgenstr. 4</td>\n</tr>\n<tr>\n<td>7 31 56</td>\n<td>Krone, L. Hafner, <i>Deß</i> Tübinger Str. 29</td>\n</tr>\n<tr>\n<td>29 87 96</td>\n<td>Krone, Kemat, Adolf-Hitler-Str. 45</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Stätten",
+        "entries": []
+      },
+      {
+        "region_name": "Das GroßDas Großstadt-Koi",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"948 756 992 906\" data-label=\"Page-Footer\"><p>E</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Gaststätten (Fortsetzung):",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "29"
+          },
+          {
+            "extension": "3",
+            "text": "08"
+          },
+          {
+            "extension": "3",
+            "text": "01"
+          },
+          {
+            "extension": "5",
+            "text": "11"
+          },
+          {
+            "extension": "2",
+            "text": "09"
+          },
+          {
+            "extension": "8",
+            "text": "11"
+          },
+          {
+            "extension": "2",
+            "text": "74"
+          },
+          {
+            "extension": "8",
+            "text": "03"
+          },
+          {
+            "extension": "3",
+            "text": "07"
+          },
+          {
+            "extension": "4",
+            "text": "02"
+          },
+          {
+            "extension": "7",
+            "text": "20"
+          },
+          {
+            "extension": "4",
+            "text": "02"
+          },
+          {
+            "extension": "2",
+            "text": "69"
+          },
+          {
+            "extension": "8",
+            "text": "04"
+          },
+          {
+            "extension": "2",
+            "text": "19"
+          },
+          {
+            "extension": "7",
+            "text": "26"
+          },
+          {
+            "extension": "4",
+            "text": "11"
+          },
+          {
+            "extension": "5",
+            "text": "04"
+          },
+          {
+            "extension": "7",
+            "text": "21"
+          },
+          {
+            "extension": "8",
+            "text": "14"
+          },
+          {
+            "extension": "00",
+            "text": "27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 0 998 990\" data-label=\"Text\"><table><tbody><tr><td>3 09 80</td><td>Lamm, Ungericht, Untertürkheim</td></tr><tr><td>3 02 84</td><td>Lamm, E. Rothfuß, Wangen, UlmerStr. 352</td></tr><tr><td>5 31 63</td><td>Lamm, J. Schmid, <i>Mühlh</i> Eybgasse 18</td></tr><tr><td>8 00 88</td><td>Lamm, J. Rinn, <i>Zuff</i> Ludwigsb. Str. 148</td></tr><tr><td>4 01 51</td><td>Lamparth, Franziska, Neckarstr. 125</td></tr><tr><td>2 81 19</td><td>Lang, Georg, Gymnasiumstr. 43</td></tr><tr><td>6 15 88</td><td>Lauffener Winzerstube, Rotebühlstr. 69</td></tr><tr><td>6 06 19</td><td>Lauser, G., Silberburgstr. 62 B</td></tr><tr><td>7 18 70</td><td>Lehen, G. Schöning, Lehenstr. 13</td></tr><tr><td>7 32 36</td><td>Leicht, Rob., TübingerStr. 17 B</td></tr><tr><td>2 53 66</td><td>Leonhardshof. Kaffee, Leonhardstr. 11</td></tr><tr><td>7 34 07</td><td>Lichtenstein, F. Dittus, Schlosserstr. 19</td></tr><tr><td>9 22 72</td><td>Lidle, Färberstr. 9</td></tr><tr><td>2 37 27</td><td>Liederhalle-Gaststätten, Büchsenstr. 59</td></tr><tr><td>6 18 19</td><td>Lilie, Restaur., Bismarckstr. 34</td></tr><tr><td>5 14 36</td><td>Linde, <i>Cat</i> WaiblingerStr. 113</td></tr><tr><td>4 06 82</td><td>Linde, Gasthaus, Karl Leeger, Talstr. 102</td></tr><tr><td>3 08 71</td><td>Linde, Heumaden</td></tr><tr><td>8 16 31</td><td>Linde, <i>Stam</i> Alexanderstr. 1</td></tr><tr><td>8 16 83</td><td>Linde, O. Hoch, <i>Zuff</i> Friesenstr. 2</td></tr><tr><td>7 80 11</td><td>Linde, H. A. Bitzer, <i>Vh</i> Ad. Hitler-Str. 6</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "23"
+          },
+          {
+            "extension": "7",
+            "text": "18"
+          },
+          {
+            "extension": "8",
+            "text": "03"
+          },
+          {
+            "extension": "8",
+            "text": "07"
+          },
+          {
+            "extension": "7",
+            "text": "32"
+          },
+          {
+            "extension": "7",
+            "text": "00"
+          },
+          {
+            "extension": "3",
+            "text": "07"
+          },
+          {
+            "extension": "3",
+            "text": "01"
+          },
+          {
+            "extension": "7",
+            "text": "95"
+          },
+          {
+            "extension": "29",
+            "text": "87"
+          },
+          {
+            "extension": "5",
+            "text": "00"
+          },
+          {
+            "extension": "8",
+            "text": "11"
+          },
+          {
+            "extension": "3",
+            "text": "08"
+          },
+          {
+            "extension": "7",
+            "text": "83"
+          },
+          {
+            "extension": "3",
+            "text": "04"
+          },
+          {
+            "extension": "8",
+            "text": "06"
+          },
+          {
+            "extension": "8",
+            "text": "16"
+          },
+          {
+            "extension": "8",
+            "text": "09"
+          },
+          {
+            "extension": "6",
+            "text": "55"
+          },
+          {
+            "extension": "8",
+            "text": "09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"28 0 998 990\" data-label=\"Text\"><table><tbody><tr><td>3 03 89</td><td>Luginsland, H. Erne, <i>Unth</i> Fellb.Str.143</td></tr><tr><td>2 93 78</td><td>Mainhardter Wald, Farberstr. 3</td></tr><tr><td>2 87 83</td><td>Malkasten, Gastst., Urbanstr. 33</td></tr><tr><td>7 26 89</td><td>Marienplatz, Wilh. Hahn, Böbl.Str. 1</td></tr><tr><td>5 24 64</td><td>Max-Eyth-See, Strandkaffee Hofen</td></tr><tr><td>7 27 84</td><td>Mayer, Gustav, Wirtsch., Dornhalde 00</td></tr><tr><td>2 64 78</td><td>Michoud, Otto Schneider, Lindenstr. 5</td></tr><tr><td>2 06 05</td><td>Milchhalle W. Bürkle, Königstr. 1</td></tr><tr><td>3 01 61</td><td>Mönchskeller, <i>Unth</i> AugsburgerStr. 421</td></tr><tr><td>6 42 91</td><td>Moltkekaserne, E. Schmelzle, Moltkestr. 27</td></tr><tr><td>6 52 79</td><td>Moos, Karl, Weinst., Silberburgstr. 154a</td></tr><tr><td>7 20 36</td><td>Mozart, Eug. Maier, Mozartstr. 49</td></tr><tr><td>6 32 14</td><td>Mozer, Hans, Rotebühnlstr. 61</td></tr><tr><td>8 02 68</td><td>Mühle, O. Schienle, <i>Feu</i> Feuerb.Weg 199</td></tr><tr><td>2 75 53</td><td>Müller, Peter, Leonhardtsplatz 17</td></tr><tr><td>2 34 43</td><td>Münchener Hof, CalwerStr. 40</td></tr><tr><td>2 11 70</td><td>Münchener Löwenbräu, Friedrichstr. 33</td></tr><tr><td>2 45 88</td><td>Murrhardt Hof, H. Atz, Wilhelmspl. 6</td></tr><tr><td>5 25 86</td><td>Neckarau, <i>Cst</i> Neckartalstr. 133</td></tr><tr><td>4 19 96</td><td>Neckarhof, Neckarstr. 88</td></tr><tr><td>5 06 38</td><td>Neckarlust, K. Naast, <i>Mstr</i> Austr. 189</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"23 0 987 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>U</th>\n<th>A</th>\n<th>V</th>\n<th>V</th>\n<th>K</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th>...</th>\n<th",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 0 987 953\" data-label=\"Text\"><table><tbody><tr><td>3 04 02</td><td>Ochsen, Gasth., Wangen, UlmerStr. 323</td></tr><tr><td>8 16 92</td><td>Ochsen, K. Klotz, Zuff Ludwigsb.Str. 125</td></tr><tr><td>6 46 51</td><td>Oesterle, Adolf, Rotebühnlstr. 33</td></tr><tr><td>7 13 32</td><td>Ofengabel, Ernst-Weinstein-Str. 25b</td></tr><tr><td>2 41 71</td><td>Olga-Eck, Flemmeyer, Olgastr. 40</td></tr><tr><td>2 46 33</td><td>Olgaklause, J. Meißle, Olgastr. 51B</td></tr><tr><td>7 29 64</td><td>Olgastüble, Olgastr. 116</td></tr><tr><td>4 23 13</td><td>Ostend, R. Festerling, Ostendstr. 83</td></tr><tr><td>4 13 10</td><td>Ostheimer Hof, F. Däuber, Landhausstr. 203</td></tr><tr><td>9 24 34</td><td>Palmer, Eug. Ernst, Hoppenlaustr. 12</td></tr><tr><td>2 33 05</td><td>Pandtle, Karl, Langestr. 47</td></tr><tr><td>4 15 13</td><td>Paradies, E. Bichlmeier, Neckarstr. 137</td></tr><tr><td>2 26 16</td><td>Paulaner Thomasbräu, CalwerStr. 45</td></tr><tr><td>6 31 66</td><td>Paulinenhof, G. Brunner, Paulinenstr. 60</td></tr><tr><td>6 36 59</td><td>Paulusklause, M. Löffler, Seyfferstr. 46</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "unternehmen va",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "läuterung der Orts- u. Vorortsabkürzungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Gaststätten (Fortsetzung):",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"24 0 770 988\" data-label=\"Text\"><table><tbody><tr><td>2 78 16</td><td>Postmichel, Weinstuben, EßlingerStr. 42</td></tr><tr><td>8 09 01</td><td>Pragwirtshaus, HeilbronnerStr. 229</td></tr><tr><td>2 05 97</td><td>Prager Hof, Nordbahnhofstr. 69</td></tr><tr><td>7 27 17</td><td>Probst, <i>Möhr</i> VaihingerStr. 13</td></tr><tr><td>2 36 21</td><td>Rapps Schnellgaststätten, Marktstr. 2</td></tr><tr><td>4 06 34</td><td>Rappen, Restaur., E. Bareis, Retraitestr. 11</td></tr><tr><td>2 41 80</td><td>Ratskeller, J. Neuffer, Marktplatz 1</td></tr><tr><td>8 02 27</td><td>Ratsstube, A. Schwarz, <i>Feu</i> Karlsplatz 8</td></tr><tr><td>2 83 19</td><td>Ratsstube, Fr. Ruthardt, Geißstr. 16</td></tr><tr><td>2 72 08</td><td>Raufeisen, Jos., Restaur., Lazarettstr. 12</td></tr><tr><td>7 04 13</td><td>Rebstöckle, BöblingerStr. 105</td></tr><tr><td>4 15 31</td><td>Rechberg, Restaur., Kanonenweg 137</td></tr><tr><td>7 95 24</td><td>Reichenbachthal, <i>Musb</i> BöblingerStr. 5</td></tr><tr><td>2 52 61</td><td>Reichsadler, P. Vogt., EßlingerStr. 8</td></tr><tr><td>2 48 87</td><td>Reichskrone, E. Thumm, Traubenstr. 12</td></tr><tr><td>5 19 16</td><td>Reichspost, K. Breusch, <i>Cst</i> Brunnenstr. 31</td></tr><tr><td>7 26 37</td><td>Reinhard, Karoline, Paulinenstr. 10</td></tr><tr><td>2 32 31</td><td>Reinholds Vesperstuben, Lautenschl. Str. 3</td></tr><tr><td>6 39 44</td><td>Reinsburger Hof, R. Hauser, Reinsb.<br/>Straße 151</td></tr><tr><td>5 29 32</td><td>Remstal, K. Bihn, <i>Cst</i> WaiblingerStr. 40</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "21 73 Rheinpfalz, Joh. Wahl, Neckarstr. 162"
+          },
+          {
+            "extension": "7",
+            "text": "21 16 Ritter, Gasth., Deg TübingerStr. 4"
+          },
+          {
+            "extension": "8",
+            "text": "15 72 Ritter, A. Merkle, Feu LeobenerStr. 28"
+          },
+          {
+            "extension": "3",
+            "text": "07 26 Ritter, K. Münch, Obth AugsburgerStr. 615"
+          },
+          {
+            "extension": "2",
+            "text": "45 28 Ritter, Eug. Elsäßer, Eberhardstr. 26"
+          },
+          {
+            "extension": "8",
+            "text": "16 09 Ritter, Gasth., K. Brückner, Weil im Dorf"
+          },
+          {
+            "extension": "2",
+            "text": "77 51 Röhm, Friedrich, Gartenstr. 14"
+          },
+          {
+            "extension": "5",
+            "text": "11 93 Römerkastell, Cst Sparrhärmlingweg 2"
+          },
+          {
+            "extension": "4",
+            "text": "28 90 Röble, G. Brencher, Berg, Poststr. 26"
+          },
+          {
+            "extension": "6",
+            "text": "11 74 Röble, F. Epple, Botn EltingerStr. 41"
+          },
+          {
+            "extension": "5",
+            "text": "24 73 Röble, Filb RommelshauserStr. 15"
+          },
+          {
+            "extension": "4",
+            "text": "23 25 Röble, Gasth., Osth Ostendstr. 82"
+          },
+          {
+            "extension": "7",
+            "text": "82 84 Röble, E. Wölfle, Rohr L., Weinstein-Str. 9"
+          },
+          {
+            "extension": "29",
+            "text": "89 98 Röble, Ruit"
+          },
+          {
+            "extension": "2",
+            "text": "81 35 Röble, Gasthof, Grabenstr. 9"
+          },
+          {
+            "extension": "7",
+            "text": "83 17 Röble, Fr. Rüdele, Vh Schulstr. 1"
+          },
+          {
+            "extension": "2",
+            "text": "54 17 Rommel, Herm. Gaststätten, Schulstr. 20"
+          },
+          {
+            "extension": "5",
+            "text": "17 70 Rose, Carl Eisenlohr, Cst Marktstr. 31"
+          },
+          {
+            "extension": "7",
+            "text": "28 68 Rose, E. Raichle, Deg Adm.Scheer-Str. 3"
+          },
+          {
+            "extension": "8",
+            "text": "01 76 Rose, E. Katz, Feu Ad. Hitler-Str. 124"
+          },
+          {
+            "extension": "0",
+            "text": "20 10 Dann E. Omm Hauptstr. 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 0 766 990\" data-label=\"Text\"><table><tbody><tr><td>3 00 85</td><td>Rose, E. Lägerer, Wangen, Zinkbr.Str. 1</td></tr><tr><td>6 04 26</td><td>Rosenau, Restaur., H. Grob, Roteb.Str.109</td></tr><tr><td>2 58 30</td><td>Rosenbergeck, W. Breuning, Rosenb.Str. 4</td></tr><tr><td>6 10 88</td><td>Rosenbergplatz, A. Heng, Schwabstr. 129</td></tr><tr><td>2 19 91</td><td>Roseneck, Restaur., H. Kniel, Schillerstr.20</td></tr><tr><td>2 84 73</td><td>Rosengarten, Kaffee, HohenheimerStr. 76</td></tr><tr><td>2 57 03</td><td>Rosenstein, z., J. Layer, Rosenstr. 32</td></tr><tr><td>7 83 87</td><td>Rosental, G. Feucht, Vh Ad.Hitler-Str. 57</td></tr><tr><td>6 57 82</td><td>Rotebühllhof, Hasenbergstr. 37 B</td></tr><tr><td>6 55 89</td><td>Rotenwaldeck, Rotenwaldstr. 1</td></tr><tr><td>2 72 63</td><td>Rottweiler Hof, K. Leonhardt, Brenner-<br/>straße 23</td></tr><tr><td>2 47 81</td><td>Ruff, E., „Alte Weinstube“, Wilhelmspl. 9</td></tr><tr><td>7 06 60</td><td>Saalbau Leicht, Ww. W. Lay, Schickh.<br/>Straße 5</td></tr><tr><td>4 03 11</td><td>Sakristei</td></tr><tr><td>2 35 07</td><td>Salzburger Hof, E. Bertsch, Gartenstr. 40</td></tr><tr><td>2 49 40</td><td>Schatten, O. Bauer, Leonhardstr. 1</td></tr><tr><td>7 80 09</td><td>Schatten, Kurhaus, A. Kühne, Vaihingen</td></tr><tr><td>2 32 85</td><td>Schickhardthaus, O. Staiger, Kanzleistr. 17</td></tr><tr><td>5 15 39</td><td>Schießbahn, Städt., Bad Cannstatt</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 760 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>U</th>\n<th>W</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 754 956\" data-label=\"Text\"><table><tbody><tr><td>6 08 20</td><td>Schützenheim, Senefelderstr. 40</td></tr><tr><td>2 53 99</td><td>Schule, Weinhaus, Schulstr. 11</td></tr><tr><td>4 17 32</td><td>Schurwald, z. Schurwaldstr. 27</td></tr><tr><td>2 34 76</td><td>Schuster, Fr., Bierhalle, Büchsenstr. 18</td></tr><tr><td>2 80 10</td><td>Schwab, Robert, Firnhaberstr. 13</td></tr><tr><td>5 19 93</td><td>Schwabenbräu, K. Dorer, <i>Cst</i> Bahnhofstr. 16</td></tr><tr><td>8 14 98</td><td>Schwabenbräu, <i>Feu</i> Wiener Str. 2</td></tr><tr><td>2 07 31</td><td>Schwabenbräu, Hotel, Friedrichstr. 35</td></tr><tr><td>2 46 68</td><td>Schwalb, Restaur., Danziger Freiheit 3</td></tr><tr><td>6 14 86</td><td>Schwanen, Gasth., <i>Botn</i> A. Stuttg. Str. 114</td></tr><tr><td>4 22 13</td><td>Schwanen, <i>Gabl</i> Gablenb. Hauptstr. 34</td></tr><tr><td>7 33 91</td><td>Schwanen, <i>Kalt</i> Feldbergstr. 38</td></tr><tr><td>7 31 92</td><td>Schwanen, R. Herbertz, Möh. Str. 106</td></tr><tr><td>2 56 79</td><td>Schwanen, Wirtsch., Weberstr. 44</td></tr><tr><td>8 05 53</td><td>Schwanen, <i>Stam</i> Kornwesth. Str. 23</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Don Essen",
+        "entries": []
+      }
+    ]
+  }
+]

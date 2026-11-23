@@ -1,0 +1,996 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Zdunska-Wola (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "VETAG",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Zgierz (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Zwischenwässern(Südkärnten)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"437 84 818 282\"}, {\"label\": \"Text\", \"bbox\": \"419 329 844 451\"}, {\"label\": \"Text\", \"bbox\": \"289 537 954 679\"}, {\"label\": \"Text\", \"bbox\": \"559 710 707 841\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "6130. Theater",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Baden b. Wien (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"269 441 401 660\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b><br/><b>57 41 86</b></p></div><div data-bbox=\"483 29 886 479\" data-label=\"Text\"><p><b>PLAZA</b></p></div><div data-bbox=\"582 493 799 583\" data-label=\"Text\"><p><b>Groß-Varieté</b></p></div><div data-bbox=\"659 596 723 665\" data-label=\"Text\"><p><b>und</b></p></div><div data-bbox=\"545 669 833 757\" data-label=\"Text\"><p><b>Märchen-Theater</b></p></div><div data-bbox=\"426 766 938 843\" data-label=\"Text\"><p><b>de NS-Gem. Kraft durch Freude</b></p></div><div data-bbox=\"480 865 893 945\" data-label=\"Text\"><p><b>Berlin O 17, Küstriner Platz</b></p></div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 7 992 993\" data-label=\"List-Group\">\n<p>31 67 80 Renaissance-Theater, Kasse, Berlin-Charlottenburg 2, Hardenbergstr. 6</p>\n<p>57 84 22 Rose-Theater, G. m. b. H., O 17, Gr. Frankfurter Str. 132</p>\n<p>57 84 31 Dasselbe, Bühne</p>\n<p>31 51 11 Schiller-Theater der Reichshauptstadt, -Charlottenburg 2, Bismarckstr. 110</p>\n<p>SmI.-Nr. ( Staatstheater Berlin, Generalintendanz, 16 45 31 (C 2, Oberwallstr. 22</p>\n<p>16 72 62 Dieselben, Staatsoper, Kasse, U. d. Linden</p>\n<p>12 48 59 Dieselben, Schauspielhaus, Kasse, Gendarmenmarkt</p>\n<p>25 36 78 Dieselben, Staatstheater — Kleines Haus — Kasse, Nürnberger Str. 70/71</p>\n<p>41 65 36 Theater am Horst-Wessel-Platz, Berlin C2, Linienstr. 227</p>\n<p>27 71 01 Theater am Nollendorfplatz, W 30, Nollendorfplatz 5</p>\n<p>19 21 31 ( Theater in der Saarlandstraße, 41 65 36 ( Berlin SW 11, Saarlandstr. 29</p>\n<p>42 33 66 Theater des Volkes, NW 7, Am Zirkus 1</p>\n<p>41 85 38 Volkshöhne General-Intendanz</p>\n</div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Brüx (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Darmstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"117 119 875 848\" data-label=\"Text\"><p><b>33460 Opernhaus Essen, Kasse</b><br/><b>25741 Verwaltung, Theaterplatz 12</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"59 244 941 950\" data-label=\"Text\"><p><b>31577 Schauspielhaus Essen, Kasse</b><br/><b>25741 Verwaltung. Theaterplatz 12</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Flensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hanau.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Hildesheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Hof (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Ingolstadt (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Jauer (Katzbachgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kahlberg (Frische Nehrung).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"46 24 992 351\" data-label=\"Text\"><p>22283 { Stadttheater, Kasse und Kartenverkauf,<br/>21027 { Intendantzbüro, Krefeld</p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 764 998 930\" data-label=\"Text\"><p><b>- 6135. Theater- u. Bühneneinr.</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Liegnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Theater zu Litzmannstadt",
+        "entries": []
+      },
+      {
+        "region_name": "Intendanz und Verwaltung",
+        "entries": []
+      },
+      {
+        "region_name": "Theater in der Moltkestraße 173",
+        "entries": []
+      },
+      {
+        "region_name": "Kammerspiele Gen.-Litzmann-Str. 21",
+        "entries": []
+      },
+      {
+        "region_name": "Theater- und Konzertkasse",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mainz.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Stadttheater",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Meiningen.",
+        "entries": []
+      },
+      {
+        "region_name": "Mülhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"64 50 950 261\"}, {\"label\": \"Text\", \"bbox\": \"417 261 620 395\"}, {\"label\": \"Text\", \"bbox\": \"244 411 762 572\"}, {\"label\": \"Text\", \"bbox\": \"262 589 748 753\"}, {\"label\": \"Text\", \"bbox\": \"253 770 764 937\"}]",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Münster (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Neuß (Rhpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nordhausen.",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"60 41 789 430\"}, {\"label\": \"Text\", \"bbox\": \"196 445 947 671\"}, {\"label\": \"Text\", \"bbox\": \"60 667 604 875\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Theater der Stadtder Reichsparteitag",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Oberhausen (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Reichsgautheater Posen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"384 305 391 325\" data-label=\"Text\"><p>-</p></div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Sondershausen (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Steyr (Oberdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Teschen (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Weimar.",
+        "entries": []
+      },
+      {
+        "region_name": "National-Theater Weimar",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "R2 34 56 „Femina“ — Revue-Bühne",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"385 15 565 135\" data-label=\"Text\"><p>Wien VI/56</p></div><div data-bbox=\"295 135 655 245\" data-label=\"Text\"><p>Mariahilfer Straße 103</p></div><div data-bbox=\"10 255 790 945\" data-label=\"List-Group\"><ul><li>B2 74 65 { <b>Raimundtheater</b> Tageskasse</li><li>B2 74 66 { <b>Direktion</b></li><li>A5 75 25 { <b>Wien VI/56, Wallgasse 18–20</b></li><li><b>Schauspiel- und Regieseminar Schön-</b></li><li><b>brunn, Wien XIII/89, Schönbrunner</b></li><li><b>Schloßtheater</b></li></ul></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Staatstheater",
+        "entries": []
+      },
+      {
+        "region_name": "Burg- und Akademietheater",
+        "entries": []
+      },
+      {
+        "region_name": "Staatsoper",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"128 114 655 645\"}, {\"label\": \"Text\", \"bbox\": \"42 645 754 912\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 227 777 352\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Oder).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"33 227 722 302\"}]",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 88 150 274\"}, {\"label\": \"Text\", \"bbox\": \"0 395 140 533\"}, {\"label\": \"Text\", \"bbox\": \"235 300 672 580\"}, {\"label\": \"Text\", \"bbox\": \"212 592 684 899\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 227 777 292\"}]",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 125 249 386\" data-label=\"Text\"><p><b>München.</b></p></div><div data-bbox=\"25 429 134 615\" data-label=\"Text\"><p>5 94 51</p></div><div data-bbox=\"282 417 640 625\" data-label=\"Text\"><p><b>„Bühnenbedarf“</b></p></div><div data-bbox=\"142 636 781 856\" data-label=\"Text\"><p>Fritz Harless, München 15, Bayerstr. 95</p></div>",
+      "cells": [
+        "col4_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "6135. Theater- u. Bühneneinr.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"57 71 594 326\"}, {\"label\": \"Text\", \"bbox\": \"200 386 607 859\"}]",
+      "cells": [
+        "col4_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  }
+]

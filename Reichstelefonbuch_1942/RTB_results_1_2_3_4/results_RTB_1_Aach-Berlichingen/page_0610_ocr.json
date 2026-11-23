@@ -1,0 +1,996 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"243 739 604 954\" data-label=\"Text\"><p><b>126 (Branchenteil)</b></p></div><div data-bbox=\"773 722 998 912\" data-label=\"Text\"><p><b>884. Bür</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Luckenwalde (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Offenburg (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"473 0 782 230\"}, {\"label\": \"Text\", \"bbox\": \"558 279 721 411\"}, {\"label\": \"Text\", \"bbox\": \"310 395 938 541\"}, {\"label\": \"Text\", \"bbox\": \"346 529 911 667\"}, {\"label\": \"Text\", \"bbox\": \"473 662 806 792\"}, {\"label\": \"Text\", \"bbox\": \"522 787 751 921\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"360 77 862 236\" data-label=\"Text\"><p><b>KARL KIST</b></p></div><div data-bbox=\"439 282 798 419\" data-label=\"Text\"><p><b>Büroeinrichtungen</b></p></div><div data-bbox=\"277 445 951 587\" data-label=\"Text\"><p><b>Büro-Organisation, Büromaschinen</b></p></div><div data-bbox=\"353 605 880 761\" data-label=\"Text\"><p><b>Straßburg (Els.)</b></p></div><div data-bbox=\"472 766 754 837\" data-label=\"Text\"><p><b>19. Juni-Straße 22</b></p></div><div data-bbox=\"499 854 728 934\" data-label=\"Text\"><p><b>Fernruf 252 61</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Rühl &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"235 20 406 100\" data-label=\"Text\"><p><b>1 9 0 3 5 7 (</b></p></div><div data-bbox=\"575 50 808 100\" data-label=\"Text\"><p><i>Dr. L.</i></p></div><div data-bbox=\"975 25 995 100\" data-label=\"Text\"><p><b>]</b></p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"234 0 988 955\" data-label=\"Text\"><p><b>9 03 59</b> <sup>bis</sup> { <b>Fabriken für Büroeinrichtungen</b><br/><b>Stuttgart-N, Rote Str. 7</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Waltersdorf (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"268 145 405 287\"}, {\"label\": \"Section-Header\", \"bbox\": \"484 80 884 321\"}, {\"label\": \"Text\", \"bbox\": \"442 364 954 524\"}, {\"label\": \"Text\", \"bbox\": \"584 563 817 720\"}, {\"label\": \"Text\", \"bbox\": \"500 740 897 895\"}]",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Kaut-Bullinger &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Staudinger &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "885. Bürohäuser",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Verwaltungsgebäude AllgemeineOrtskrankenkasse Dortmund",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"276 31 916 562\" data-label=\"Image\"><img alt=\"A black and white image showing a horizontal strip of a 1942 German telephone directory page. The strip is mostly black with a white, textured area in the center, possibly representing a page or a specific entry.\"/>This image shows a horizontal strip of a 1942 German telephone directory page. The strip is mostly black with a white, textured area in the center, possibly representing a page or a specific entry. The texture is grainy and speckled, suggesting a scan of a printed document. The strip is positioned at the top of the image, with a white background below it.</div>",
+      "cells": [
+        "col1_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col1_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 227 984 875\" data-label=\"Text\"><p><b>Erstklassiges Bürohaus neben dem Hauptbahnhof</b><br/><b>Anfragen an den Leiter.                      Fernspr.: 34241—45</b></p></div>",
+      "cells": [
+        "col1_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col1_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"26 89 365 375\"}, {\"label\": \"Text\", \"bbox\": \"82 430 197 636\"}, {\"label\": \"Text\", \"bbox\": \"448 404 766 625\"}, {\"label\": \"Text\", \"bbox\": \"298 658 935 912\"}]",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"179 256 844 352\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Karl Richter",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bautzen.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Bonn.",
+        "entries": []
+      },
+      {
+        "region_name": "Braunau (Inn) [Oberdonau].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bregenz (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "BARTAK",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 29 741 139\" data-label=\"Text\"><p><b>Josef Holub</b></p></div><div data-bbox=\"401 154 588 212\" data-label=\"Text\"><p><b>Moderne</b></p></div><div data-bbox=\"303 229 688 289\" data-label=\"Text\"><p><b>Rechenmaschinen</b></p></div><div data-bbox=\"234 307 753 372\" data-label=\"Text\"><p><b>Buchhaltungsmaschinen</b></p></div><div data-bbox=\"310 383 679 441\" data-label=\"Text\"><p><b>Addiermaschinen</b></p></div><div data-bbox=\"303 459 688 518\" data-label=\"Text\"><p><b>Schreibmaschinen</b></p></div><div data-bbox=\"157 551 850 608\" data-label=\"Text\"><p><b>Spezialwerkstätte für fachmännische</b></p></div><div data-bbox=\"366 623 598 677\" data-label=\"Text\"><p><b>Reparaturen</b></p></div><div data-bbox=\"409 701 566 793\" data-label=\"Text\"><p><b>Brünn</b></p></div><div data-bbox=\"326 810 670 861\" data-label=\"Text\"><p><b>Johannesgasse 16</b></p></div><div data-bbox=\"264 889 722 951\" data-label=\"Text\"><p><b>Fernsprecher: 183 68</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "L. Mazánek &amp; A. Šmalák",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "ORMEKA",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "schinen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "I Chaurmitz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"78 29 998 944\" data-label=\"Text\"><p><b>50355 Astra- u. Hamann-Vertriebs-G. m. b. H.</b><br/><b>Addier-Buchungs- u. Rechenmaschinen</b><br/><b>Ideal- u. Erika-Schreibmaschinen, Anna-</b><br/><b>berger Straße 105</b></p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Astrawerke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"47 20 979 852\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "331 41 WANDERER-WERKE",
+        "entries": []
+      },
+      {
+        "region_name": "CONTINENTAL",
+        "entries": []
+      },
+      {
+        "region_name": "CONTINENTAL SILENTA",
+        "entries": []
+      },
+      {
+        "region_name": "BERLIN:",
+        "entries": []
+      },
+      {
+        "region_name": "WIEN:",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "DÜSSELDORF:",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Heinrich Heck",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 183 800\" data-label=\"Image\"><img alt=\"Stylized logo consisting of three concentric semi-circular arcs, resembling a stylized 'U' or a signal symbol.\"/></div><div data-bbox=\"282 0 894 885\" data-label=\"Text\"><p><b>Frankfurt (Main), Moselstr. 4</b><br/><b>Fernsprecher 32657 u. 32658</b></p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Freiburg (Breisgau).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedland (Isargeb.) [Sudetenland].",
+        "entries": []
+      },
+      {
+        "region_name": "Glogau.",
+        "entries": []
+      },
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 54 312 555\" data-label=\"Image\"><img alt=\"Logo of Rheinmetall-Borsig, featuring two overlapping circles. The left circle contains the text 'RHEIN METALL' and the right circle contains the text 'BORSIG'.\"/></div><div data-bbox=\"317 29 946 253\" data-label=\"Text\"><p><b>RHEINMETALL</b></p></div><div data-bbox=\"314 287 944 550\" data-label=\"Text\"><p><b>Schreib-<br/>und Rechenmaschinen</b></p></div><div data-bbox=\"99 593 857 821\" data-label=\"Text\"><p><b>Karl Kral — Graz</b></p></div><div data-bbox=\"98 847 443 959\" data-label=\"Text\"><p><b>Krefelder Str. 32.</b></p></div><div data-bbox=\"591 847 856 973\" data-label=\"Text\"><p><b>Fernruf 6830</b></p></div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Franz Zecha &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/>This image is a completely blank white page. It contains no text, markings, or illustrations. It appears to be a separator page or a page from a document that is empty.</div>",
+      "cells": [
+        "col3_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"96 569 106 600\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"43 29 132 171\"}, {\"label\": \"Section-Header\", \"bbox\": \"254 9 634 194\"}, {\"label\": \"Text\", \"bbox\": \"41 236 740 391\"}, {\"label\": \"Text\", \"bbox\": \"58 391 719 540\"}, {\"label\": \"Text\", \"bbox\": \"241 540 541 694\"}, {\"label\": \"Text\", \"bbox\": \"166 694 614 845\"}, {\"label\": \"Text\", \"bbox\": \"41 845 740 977\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Kempten (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"68 145 122 343\"}, {\"label\": \"Section-Header\", \"bbox\": \"263 61 545 486\"}, {\"label\": \"Text\", \"bbox\": \"127 486 643 921\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "K Wirtshaus u d Waldes /Chaudanul",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Lahr (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Leoben (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": {
+      "raw": "<div data-bbox=\"39 10 125 35\" data-label=\"Text\"><p>—•••••</p></div><div data-bbox=\"208 10 680 135\" data-label=\"Text\"><p><b>„MIWI</b> Linz, Landstr. 78<br/><b>Inhaber: Hedwig Haberfellner</b></p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"79 67 677 317\"}, {\"label\": \"Text\", \"bbox\": \"116 311 653 554\"}, {\"label\": \"Text\", \"bbox\": \"154 589 608 735\"}, {\"label\": \"Text\", \"bbox\": \"228 805 534 934\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"138 0 605 330\"}, {\"label\": \"Text\", \"bbox\": \"71 391 663 937\"}]",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": {
+      "raw": "<div data-bbox=\"30 29 748 944\" data-label=\"Text\"><p>10817 Olympia Büromaschinenwerke A. G., Ver-<br/>kaufs- und Kundendienststelle, Adolf-<br/>Hitler-Straße 17. T Olympiatyp</p></div>",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "60",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_60.png",
+    "data": [
+      {
+        "region_name": "Reichert &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "61",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_61.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec15.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,933 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"241 9 993 992\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>68 11 09</td>\n<td>Basch, Jak., Klempn., SO 86, Grün. Str. 21</td>\n</tr>\n<tr>\n<td>85 38 60</td>\n<td>Derselbe, Zehl Hermannstr. 24</td>\n</tr>\n<tr>\n<td>26 82 56</td>\n<td>Basch, Klara Käte, W 30, Eisen. Str. 41</td>\n</tr>\n<tr>\n<td>71 09 54</td>\n<td>Basch, K., Install., Schb Gutenstr. 6</td>\n</tr>\n<tr>\n<td>42 73 46</td>\n<td>Basch, S., Kfm., N 54, Christinenstr. 41</td>\n</tr>\n<tr>\n<td>99 21 48</td>\n<td>Basch, Th., Waschanst., Chb Reichsstr. 38</td>\n</tr>\n<tr>\n<td>89 11 77</td>\n<td>Basch, W., Ingen., NW 21, Alt-Moabit 86b</td>\n</tr>\n<tr>\n<td>71 85 72</td>\n<td>Baschanow, J., Oberst, Schb Innsbr. 38</td>\n</tr>\n<tr>\n<td>44 62 10</td>\n<td>Basche, B., Eiskond., N 58, Pappelallee 89</td>\n</tr>\n<tr>\n<td>87 50 17</td>\n<td>Basche, R., Archit., Spd Pichelsd. Str. 6</td>\n</tr>\n<tr>\n<td>71 82 69</td>\n<td>Basche, Siegf., Kfm., Schb Gutenstr. 1</td>\n</tr>\n<tr>\n<td>26 81 68</td>\n<td>Basche, Walter, Kfm., W 30, Bamb. Str. 17</td>\n</tr>\n<tr>\n<td>16 22 59</td>\n<td>Baschel, R., Stoffe, SW 68, Kommand.-<br/>Straße 88</td>\n</tr>\n<tr>\n<td>65 98 87</td>\n<td>Baschin, A., Krim.-Ass., Wernsdorf, Alte<br/>Steinfurter Str. 64</td>\n</tr>\n<tr>\n<td>64 19 76</td>\n<td>Baschin, Gustav, Lebensm., Köp Wenden-<br/>schloßstr. 439</td>\n</tr>\n<tr>\n<td>67 82 80</td>\n<td>Baschin, Martha, SO 16, Mich. Str. 42</td>\n</tr>\n<tr>\n<td>92 10 04</td>\n<td>Baschin, Ida, Moden, W 15, Bayer. Str. 7</td>\n</tr>\n<tr>\n<td>59 26 74</td>\n<td>Baschin, Irmg., Felnkost, O 34, Ermeler-<br/>straße 9A</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 998 989\" data-label=\"Text\"><table><tbody><tr><td>34 12 63</td><td>Baschin, Marg.,</td><td>Sekr.,</td><td>Chb Wundtstr. 5</td></tr><tr><td>66 09 16</td><td>Baschin, P. O.,</td><td>Essenzenfbr.,</td><td>SW 29,<br/>Gneisenaustr. 94</td></tr><tr><td>58 86 77</td><td>Baschin, W.,</td><td>Bedach.,</td><td>O 112, Mirbachstr. 7</td></tr><tr><td>68 26 26</td><td>Baschin u. Berlin,</td><td>Holz,</td><td><i>Trept</i> Kiefholz-<br/>straße 79</td></tr><tr><td>61 39 49</td><td>Baschin &amp; Kaltwaßer,</td><td>Beleucht.-Körper,</td><td>SW 68, Gitschiner Str. 62</td></tr><tr><td>87 48 26</td><td>Baschwitz, Gertrud,</td><td><i>Wilm</i></td><td>Hohenz. D. 181</td></tr><tr><td>24 46 44</td><td>Baschwitz, Gertrud,</td><td><i>Wilm</i></td><td>Motzstr. 80</td></tr><tr><td>16 28 16</td><td>Baschwitz-Erdmannsdorfer</td><td>Verkaufsgem.,</td><td>GmbH, SW 68, Seydelstr. 24</td></tr><tr><td>69 06 14</td><td>Basclik, Werner,</td><td>SW 29,</td><td>Urbanstr. 28</td></tr><tr><td>84 16 59</td><td>Basdorf, P.,</td><td>Molkerei,</td><td><i>Zehl</i> Lindenstr. 44</td></tr><tr><td>67 28 14</td><td>Basedow K.-G.,</td><td>Buchdruckerei,</td><td>SO 16,<br/>Wusterhauser Str. 14</td></tr><tr><td>64 64 07</td><td>Basedow, August,</td><td>Zimmerm.,</td><td><i>Frhg</i> Müg-<br/>gelseedamm 279</td></tr><tr><td>83 69 18</td><td>Elsa u. Kl. Basedow,</td><td><i>Frdn</i></td><td>GoBlerstr. 21</td></tr><tr><td>48 04 05</td><td>Basedow, Glescla,</td><td>Tänz.,</td><td><i>Pko</i> Retzb. W. 44</td></tr><tr><td>64 78 64</td><td>Basedow, Hans,</td><td><i>Frhg</i></td><td>Löbauer Weg 7</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 997 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>78 91 26</td>\n<td>Basedow, Dr. M., Ass., Lt/ Marschn.Str.15</td>\n</tr>\n<tr>\n<td>87 50 97</td>\n<td>Basedow, W., Maj. (E), Wilm Brandenburgische Straße 7</td>\n</tr>\n<tr>\n<td>47 85 26</td>\n<td>Baselau, Ad., Dir., Fro Hainb.-Str. 27</td>\n</tr>\n<tr>\n<td>46 25 79</td>\n<td>Baselau, A., Waggonentladung, N 65, Gerichtstr. 57</td>\n</tr>\n<tr>\n<td>45 16 19</td>\n<td>Baselau, Max, Kfm., N 58, Gleimstr. 19</td>\n</tr>\n<tr>\n<td>58 59 44</td>\n<td>Baseler, Kurt, Blusen, O112, Frankf.Allee49</td>\n</tr>\n<tr>\n<td>96 42 87</td>\n<td>Baselt, Else, Hal Joach.-Friedr.-Str. 47</td>\n</tr>\n<tr>\n<td>71 75 16</td>\n<td>Baselt, F., Dir., Schb Nymphenb. Str. 10</td>\n</tr>\n<tr>\n<td>86 69 78</td>\n<td>Baselt, K., Kfm., Wilm Gasteiner Str. 13</td>\n</tr>\n<tr>\n<td>44 56 21</td>\n<td>Baselt, O., Buchführ., N 58, Weißenburger Straße 41</td>\n</tr>\n<tr>\n<td>58 15 35</td>\n<td>Basenau, E., Kleider, O 34, Lib. Str. 15</td>\n</tr>\n<tr>\n<td>58 86 27</td>\n<td>Basener, Ed., Gastw., Rönt Bahnhofstr. 83</td>\n</tr>\n<tr>\n<td>37 99 81</td>\n<td>Basigkow, F., O.-Insp., Süd Schönw.St.106</td>\n</tr>\n<tr>\n<td>68 79 47</td>\n<td>Basikow, Lisa, Abschr.Büro, SO 36, Kottbusser Str. 15</td>\n</tr>\n<tr>\n<td>92 32 07</td>\n<td>Basilius, Maria, Köchin, Chb 2 Uhlandstraße 179</td>\n</tr>\n<tr>\n<td>AK KN 79</td>\n<td>Basinelt St    Blatschen    Chb 17-14    St-    99</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 997 995\" data-label=\"Text\"><table><tbody><tr><td>17 61 76</td><td>C.F.Basista u. Co, Buchdr., SW 68, Ritterstraße 46</td></tr><tr><td>25 47 53</td><td>Baska, Franz, Install., W 30, Eisen. Str. 14</td></tr><tr><td>87 86 65</td><td>Baskakow, Elena, Wilm Kaiserallee 32</td></tr><tr><td>24 18 87</td><td>Baskakow, S., Maler, W 50, Eisleb. Str. 8</td></tr><tr><td>75 17 81</td><td>Baske, E.W., Oberst, Md Marienh. Weg 52</td></tr><tr><td>87 59 19</td><td>Baske, Paul, Wilm Kaiserallee 196</td></tr><tr><td>21 18 68</td><td>Basl, Karl, Amtsrat, W 62, Kielganstr. 5</td></tr><tr><td>89 68 41</td><td>Basler, Dr. Adolf, Chemiker, Dahl Max-Eyth-Str. 27</td></tr><tr><td>46 21 42</td><td>Basler, Anna, Schankw., N 65, Schulstr. 36</td></tr><tr><td>80 66 84</td><td>Basler, Friedr., Dreil Teerofendamm</td></tr><tr><td>44 80 94</td><td>Basler, F., D.-Mäntel, N 113, Schönh.A. 91</td></tr><tr><td>16 82 91</td><td>Fritz Basler &amp; Co., D.-Mäntel, C 2, Leipziger Str. 82</td></tr><tr><td>39 04 00</td><td>Basler, G., Reklame, NW 21, Boch. Str. 26</td></tr><tr><td>59 82 38</td><td>Basler, Herb., Assess., C 2, N. Königstr. 70</td></tr><tr><td>83 22 28</td><td>Basler, H., Dir., Dahl Max-Eyth-Str. 27</td></tr><tr><td>99 25 02</td><td>Basler, Irmg., Gymnast., Chb Reichsstr. 5</td></tr><tr><td>50 09 59</td><td>Basler, L., Kfm., Krisch Rheingoldstr. 27</td></tr><tr><td>62 07 38</td><td>Basler. W.. Kfm.. Neuk Berl. Str. 58</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 997 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>00 70 00</td>\n<td>Basler, W.,</td>\n<td>Architekt, N W 07, Deutsch. Su. 00</td>\n</tr>\n<tr>\n<td>61 88 44</td>\n<td>Basler &amp; Schmidt,</td>\n<td>Kammwr., SW 68, Ritterstr. 11</td>\n</tr>\n<tr>\n<td>91 28 44</td>\n<td>Basler</td>\n<td>Lebensversicherungs-Gesellschaft, W 15, Kurfürstendamm 52</td>\n</tr>\n<tr>\n<td>22 88 94</td>\n<td>Basler Vers.-Ges.</td>\n<td>g. Feuer, W 35, Standardenstr. 6</td>\n</tr>\n<tr>\n<td>21 37 71</td>\n<td>Basler Transp.-Vers. Ges.,</td>\n<td>W 35, Potsdamer Str. 94</td>\n</tr>\n<tr>\n<td>46 80 73</td>\n<td>Basner, Arthur,</td>\n<td>N 65, Neue Hochstr. 3</td>\n</tr>\n<tr>\n<td>24 25 33</td>\n<td>Basner, F.,</td>\n<td>Moden, W 50, Prager Str. 27</td>\n</tr>\n<tr>\n<td>68 03 84</td>\n<td>Basner, Gertrud,</td>\n<td>Obw Goethestr. 45</td>\n</tr>\n<tr>\n<td>76 17 58</td>\n<td>Bass, Alb.,</td>\n<td>Friseur, Lt/ Gélleustr. 3</td>\n</tr>\n<tr>\n<td>58 58 11</td>\n<td>Baß, Fritz,</td>\n<td>Bäckerm., O 17, Stral.Allee 23</td>\n</tr>\n<tr>\n<td>26 86 27</td>\n<td>Baß, Karl,</td>\n<td>Bäcker, W 62, Lutherstr. 13</td>\n</tr>\n<tr>\n<td>41 88 56</td>\n<td>Baß, Rud.,</td>\n<td>Dr. med, NW 40, Scharnhorststraße 31</td>\n</tr>\n<tr>\n<td>91 67 40</td>\n<td>Basse, Anna,</td>\n<td>Glaserei, W 15, Olivaer Pl. 9</td>\n</tr>\n<tr>\n<td>55 48 28</td>\n<td>Basse, F.,</td>\n<td>Milch, Lbg Frankf. Allee 241</td>\n</tr>\n<tr>\n<td>84 98 44</td>\n<td>v. Basse, F.,</td>\n<td>V.-Präs., Zehl Hochsitzw. 25</td>\n</tr>\n<tr>\n<td>80 79 04</td>\n<td>Basse, Käthe,</td>\n<td>Ww., Dreil Teerosendamm 3</td>\n</tr>\n<tr>\n<td>00 00 00</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "stanzer Str. 55",
+        "entries": [
+          {
+            "extension": "47",
+            "text": "84 70 Basse, Paul, Kfm., Hrnsd Martha-Ecke Bertramstr. 80"
+          },
+          {
+            "extension": "91",
+            "text": "71 73 Basse, W., Glas, W 15, Pariser Str. 18"
+          },
+          {
+            "extension": "89",
+            "text": "60 89 Basse Film GmbH, Dahl Breitenb. Pl. 12"
+          },
+          {
+            "extension": "65",
+            "text": "55 68 Bassen, A., Unteroffiz., Grü Dahmestr. 9"
+          },
+          {
+            "extension": "73",
+            "text": "45 77 Bassen, C., Architekt., Lif Großb. Str. 13"
+          },
+          {
+            "extension": "77",
+            "text": "21 84 Bassenge, Dorothea, Ww., Schb Inns- brucker Str. 21"
+          },
+          {
+            "extension": "88",
+            "text": "64 02 Bassenge, Erna, Wilm Spessartstr. 4"
+          },
+          {
+            "extension": "85",
+            "text": "07 54 Bassenge, Eugen, NW 40, Thomasiusstr. 27"
+          },
+          {
+            "extension": "89",
+            "text": "16 56 Bassenge, H., Hauptm., Grw Berkaer Str. 15"
+          },
+          {
+            "extension": "84",
+            "text": "45 77 Bassenge, H., Kfm., Zehl H. d. Rogg. 20"
+          },
+          {
+            "extension": "97",
+            "text": "41 81 v. Bassenheim, Waldbott, Friedr., Graf, Hal Kurfürstendamm 102"
+          },
+          {
+            "extension": "89",
+            "text": "68 20 v. Bassenheim, Waldbott, Gräfin Maria, Dahl Warnemünder Str. 27"
+          },
+          {
+            "extension": "17",
+            "text": "25 89 G. Basser KG., Flugz.-Rep.-Werk, SW 61, Belle-Alliance-Pl. 6 a"
+          },
+          {
+            "extension": "68",
+            "text": "79 24 Basser, Marlitt, Adl Althelder Str. 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"375 35 381 55\" data-label=\"Page-Header\"><p>1</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "und 5",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "88",
+            "text": "84"
+          },
+          {
+            "extension": "22",
+            "text": "11"
+          },
+          {
+            "extension": "16",
+            "text": "71"
+          },
+          {
+            "extension": "17",
+            "text": "35"
+          },
+          {
+            "extension": "25",
+            "text": "18"
+          },
+          {
+            "extension": "97",
+            "text": "21"
+          },
+          {
+            "extension": "92",
+            "text": "23"
+          },
+          {
+            "extension": "30",
+            "text": "47"
+          },
+          {
+            "extension": "91",
+            "text": "56"
+          },
+          {
+            "extension": "63",
+            "text": "76"
+          },
+          {
+            "extension": "67",
+            "text": "10"
+          },
+          {
+            "extension": "59",
+            "text": "09"
+          },
+          {
+            "extension": "61",
+            "text": "04"
+          },
+          {
+            "extension": "55",
+            "text": "03"
+          },
+          {
+            "extension": "44",
+            "text": "15"
+          },
+          {
+            "extension": "39",
+            "text": "60"
+          },
+          {
+            "extension": "97",
+            "text": "84"
+          },
+          {
+            "extension": "21",
+            "text": "21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Straße 59",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>88 28 93</td>\n<td>Basta, Ernst, <i>Frdn</i> Stierstr. 4</td>\n</tr>\n<tr>\n<td>32 32 70</td>\n<td>Bastanoff, K., Ing., <i>Chb</i> 2 Goethestr. 9</td>\n</tr>\n<tr>\n<td>86 68 09</td>\n<td>Bastanier, Dr. E., Arzt, <i>Wilm</i> Prinzregentenstr. 85</td>\n</tr>\n<tr>\n<td>48 27 41</td>\n<td>Bastanier, Eug., Milch, <i>Pko</i> Berl. Str. 91</td>\n</tr>\n<tr>\n<td>86 01 84</td>\n<td>Bastanier, Hauns, Bildh., <i>Wilm</i> Hohenz.-Damm 196</td>\n</tr>\n<tr>\n<td>96 07 48</td>\n<td>Bastanier, Katharina, <i>Chb</i> 4 Wilmersdorfer Straße 78</td>\n</tr>\n<tr>\n<td>66 61 05</td>\n<td>Bastanier, Werner, Musiker, SW 61, Großbeerenstr. 37</td>\n</tr>\n<tr>\n<td>73 26 11</td>\n<td>Bastanier, W., Assist., <i>Ltf</i> Hindenburgd. 12</td>\n</tr>\n<tr>\n<td>83 46 14</td>\n<td>Basté, Jul., <i>Wilm</i> Suuwestkorsg 46</td>\n</tr>\n<tr>\n<td>75 95 45</td>\n<td>Bastein, Wilh., Insp., <i>Tmp</i> Bosestr. 33</td>\n</tr>\n<tr>\n<td>49 54 43</td>\n<td>Bastel, Fr., Gärtner, <i>Witz</i> Eisenpf.-Str. 8</td>\n</tr>\n<tr>\n<td>68 21 58</td>\n<td>Bastel, Hedwig, SO 36, Graetzstr. 61</td>\n</tr>\n<tr>\n<td>91 15 92</td>\n<td>Basten, Hans, Major, W 15, Knesch.-Str. 52</td>\n</tr>\n<tr>\n<td>46 03 22</td>\n<td>Basten, H., Vertr., N 65, Reinick.Str. 41</td>\n</tr>\n<tr>\n<td>73 58 65</td>\n<td>Bastert, Carl, <i>Lkw</i> Melanchthonstr. 6</td>\n</tr>\n<tr>\n<td>68 89 40</td>\n<td>Bastert, E., Betr.-Leit., SO 36, Elsenstr. 61</td>\n</tr>\n<tr>\n<td>37 56 98</td>\n<td>Bastert, U., Schorusteinf., <i>Spd</i> Streitstr. 24</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 987\" data-label=\"Text\"><table><tbody><tr><td>39 22 79</td><td>Ders., Wohn., NW 87, Siegmunds Hof 14</td></tr><tr><td>91 58 67</td><td rowspan=\"2\">{ Bastfaserkontor Akt.-Ges., Flachs, W 15,</td></tr><tr><td>91 58 68</td><td rowspan=\"2\">{ Kurfürstendamm 199</td></tr><tr><td>22 49 71</td><td>Bastfaserverw. d. dtsch. landw. Gen.,<br/>GnbH, W 62, Einemstr. 8</td></tr><tr><td>25 45 63</td><td>Bastgen, W., Hptm., W 35, v.-Schröder-<br/>Straße 25</td></tr><tr><td>45 18 02</td><td>Bastheim, Helene, N 58, Gleimstr. 44</td></tr><tr><td>19 01 76</td><td>Bastiaan, H., Musiker, SW 61, Obentr.<br/>Straße 32</td></tr><tr><td>79 63 18</td><td>Bastian, A., R.-A., <i>Stegl</i> Martinstr. 6</td></tr><tr><td>34 74 83</td><td>Bastian, A., Lebensm., <i>Siem</i> Kapstr. 74</td></tr><tr><td>35 43 84</td><td>Ders., Wohnung, NW 40, Werftstr. 12</td></tr><tr><td>80 61 84</td><td>Bastian, Anna, Sellen, <i>Nik</i> Luckstr. 27</td></tr><tr><td>75 81 35</td><td>Bastian, Bernhard, O.-Ger.-Vollz., <i>Ma</i><br/>Bosphorusstr. 7</td></tr><tr><td>96 17 23</td><td>Bastian, Bertha, <i>Gru</i> Lynarstr. 5</td></tr><tr><td>86 08 34</td><td>Bastian, Dr. Bruno, Stud.-Rat, <i>Wilm</i><br/>Hohenz.-Damm 198</td></tr><tr><td>84 50 73</td><td>Bastian, C., Drog., <i>Telt</i> Ad.-Hitler-Str. 8</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "71",
+            "text": "73"
+          },
+          {
+            "extension": "87",
+            "text": "33"
+          },
+          {
+            "extension": "53",
+            "text": "52"
+          },
+          {
+            "extension": "79",
+            "text": "37"
+          },
+          {
+            "extension": "51",
+            "text": "13"
+          },
+          {
+            "extension": "25",
+            "text": "71"
+          },
+          {
+            "extension": "27",
+            "text": "67"
+          },
+          {
+            "extension": "68",
+            "text": "73"
+          },
+          {
+            "extension": "53",
+            "text": "33"
+          },
+          {
+            "extension": "59",
+            "text": "12"
+          },
+          {
+            "extension": "76",
+            "text": "07"
+          },
+          {
+            "extension": "89",
+            "text": "21"
+          },
+          {
+            "extension": "31",
+            "text": "25"
+          },
+          {
+            "extension": "50",
+            "text": "55"
+          },
+          {
+            "extension": "92",
+            "text": "61"
+          },
+          {
+            "extension": "72",
+            "text": "14"
+          },
+          {
+            "extension": "55",
+            "text": "38"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "84",
+            "text": "88"
+          },
+          {
+            "extension": "30",
+            "text": "74"
+          },
+          {
+            "extension": "73",
+            "text": "31"
+          },
+          {
+            "extension": "55",
+            "text": "34"
+          },
+          {
+            "extension": "84",
+            "text": "38"
+          },
+          {
+            "extension": "53",
+            "text": "41"
+          },
+          {
+            "extension": "93",
+            "text": "21"
+          },
+          {
+            "extension": "19",
+            "text": "07"
+          },
+          {
+            "extension": "64",
+            "text": "72"
+          },
+          {
+            "extension": "53",
+            "text": "22"
+          },
+          {
+            "extension": "47",
+            "text": "47"
+          },
+          {
+            "extension": "84",
+            "text": "22"
+          },
+          {
+            "extension": "66",
+            "text": "97"
+          },
+          {
+            "extension": "75",
+            "text": "84"
+          },
+          {
+            "extension": "97",
+            "text": "26"
+          },
+          {
+            "extension": "75",
+            "text": "78"
+          },
+          {
+            "extension": "63",
+            "text": "16"
+          },
+          {
+            "extension": "26",
+            "text": "28"
+          },
+          {
+            "extension": "62",
+            "text": "75"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin: 1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>24 87 00</td>\n<td>v. Bastineller, Hans, Rittmstr., W 62, Keithstr. 9</td>\n</tr>\n<tr>\n<td>56 07 63</td>\n<td>Basting, Benno, Küchenchef, Weiß Ettersburger Weg 6</td>\n</tr>\n<tr>\n<td>30 33 54</td>\n<td>Bastini, E., Chb 1 Kaufmannstr. 12</td>\n</tr>\n<tr>\n<td>39 60 16</td>\n<td>Bastmann, Rich., Stud.-Rat, NW 87, Türeward.-Str. 18</td>\n</tr>\n<tr>\n<td>65 62 54</td>\n<td>Baston, Emil, Grü Steinbinderweg 28</td>\n</tr>\n<tr>\n<td>50 43 36</td>\n<td>Bastubbe, P., Kfm., Hscho Leegestr. 17</td>\n</tr>\n<tr>\n<td>17 05 39</td>\n<td>Basuna, W. Kersten, SW 68, Ritterstr. 41</td>\n</tr>\n<tr>\n<td>49 03 68</td>\n<td>Lydia u. Liesb. Baszio, Konfit., Rei Gen.-Barby-Str. 2</td>\n</tr>\n<tr>\n<td>97 22 47</td>\n<td>Batacchi, Arnoldo, Hal Schweldn. Str. 6</td>\n</tr>\n<tr>\n<td>63 35 44</td>\n<td>Bataille, H., Archivl., Bschw Scheiblerstr. 12</td>\n</tr>\n<tr>\n<td>42 92 98</td>\n<td>Bate, Max, Kfm., C 2, K.-Wilh.-Str. 35</td>\n</tr>\n<tr>\n<td>58 29 21</td>\n<td>Batereau, Dr. Käthe, Ärztin, O 34, Warschauer Str. 73</td>\n</tr>\n<tr>\n<td>21 26 69</td>\n<td>Bates Maschinen GmbH, W 35, Lützowufer 14</td>\n</tr>\n<tr>\n<td>46 74 90</td>\n<td>Bath, A., Masch.-Rep., N 65, N. Hochstr. 15</td>\n</tr>\n<tr>\n<td>84 16 83</td>\n<td>Bath, Br., Archit., Zehl Idst. Str. 10</td>\n</tr>\n<tr>\n<td>47 00 04</td>\n<td>Bath, H., Architekt, Zehl Idst. Str. 10</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 995\" data-label=\"Text\"><table><tbody><tr><td>45 29 62</td><td>Bath, Erw., Kleider, N 113, Bornh. Str. 21</td></tr><tr><td>30 33 37</td><td>Bath, F., Dr. phil., <i>Siem</i> Quellweg 60</td></tr><tr><td>(19 28 86)</td><td>G. Bath &amp; Co., Verlagsges. mbH, SW 68, Wilhelmstr. 15</td></tr><tr><td>34 16 10</td><td>Bath, H., Major, <i>Chb</i> Stuttg. Pl. 20</td></tr><tr><td>55 08 82</td><td>Bath, Helene, <i>Frjde</i> Alt-Frfde 89</td></tr><tr><td>44 69 12</td><td>Bath, Herm., Kfm., N 58, Senef.-Str. 20</td></tr><tr><td>44 39 38</td><td>Bath, H., V.-Insp., NO 55, Prenzl. A. 138</td></tr><tr><td>68 48 75</td><td>Bath, Herta, Gastst., SO 36, Mariaun. Str. 17</td></tr><tr><td>25 13 20</td><td>Bath, Marg., Schneid., W 62, Landgr. Str. 6</td></tr><tr><td>64 37 41</td><td>Bath, Otto, Insp., <i>Köp</i> Waldburgweg 25</td></tr><tr><td>88 47 39</td><td>Bath, Rud., <i>Wilm</i> Markobrun. Str. 7</td></tr><tr><td>86 54 13</td><td>Bath, Walther, <i>Wilm</i> Detmolder Str. 61</td></tr><tr><td>49 10 89</td><td>Bath, W., Gastst., <i>ReiO</i> Holl. Str. 23</td></tr><tr><td>55 16 57</td><td>Bath, W., Bündelholz, <i>Frjde</i> A.-Friedrichsfelde 78a</td></tr><tr><td>48 33 75</td><td>Bath, W., Insp., <i>Pko</i> Gemünd. Str. 23</td></tr><tr><td>55 16 78</td><td>Bath, W., Kohlenanzünd.-Fbr., <i>Lbg</i> Herzbergstr. 127</td></tr><tr><td>55 46 79</td><td>Bath, Willi, Wohn., <i>Frjde</i> Schloßstr. 3</td></tr><tr><td>72 80 26</td><td>Bathauer. Marg., <i>Steal</i> Brentanostr. 11</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>00 10 08</td>\n<td>Baukaucki, W., Kammich, NW 41, Lichten-<br/>ger Straße 31</td>\n</tr>\n<tr>\n<td>37 73 58</td>\n<td>Bathe, Ad., Gastw., Staa Fink. Weg 71</td>\n</tr>\n<tr>\n<td>73 38 56</td>\n<td>Bathe, A., Rentn., Lt/ Lankw. Str. 1</td>\n</tr>\n<tr>\n<td>42 84 15</td>\n<td>Bathe, A., Schneider, N 54, Lott.Str. 10</td>\n</tr>\n<tr>\n<td>88 04 57</td>\n<td>Bathe, E., Kfm., Frdn Fr.-Wilh.-Pl. 2</td>\n</tr>\n<tr>\n<td>39 30 67</td>\n<td>Bathe, Dr. Erwin, Kfm., NW 87, Tile-War-<br/>denb.-Str. 18</td>\n</tr>\n<tr>\n<td>75 13 58</td>\n<td>Bathe, F., Fleischer, Md Chausseestr. 303</td>\n</tr>\n<tr>\n<td>61 17 92</td>\n<td>Bathe, Franz, Goldleist., SW 68, Prin-<br/>zessinnenstr. 22</td>\n</tr>\n<tr>\n<td>74 13 38</td>\n<td>Bathe, Fritz, Angest., Mfde Dorfstr. 15</td>\n</tr>\n<tr>\n<td>42 83 23</td>\n<td>Bathe, G., Bürobed., N 4, Elsüss.Str. 34</td>\n</tr>\n<tr>\n<td>46 27 08</td>\n<td>Bathe, Gertrude, N 65, Müllerstr. 179b</td>\n</tr>\n<tr>\n<td>98 08 47</td>\n<td>Bathe, M., Dekor.-Art., Chb Roscherstr. 17</td>\n</tr>\n<tr>\n<td>39 89 75</td>\n<td>Bathe, Margarete, NW 87, Altmoabit 74</td>\n</tr>\n<tr>\n<td>55 10 44</td>\n<td>Bathe, M., Zahnärztin, Frfde Bism.-Str. 1</td>\n</tr>\n<tr>\n<td>35 16 68</td>\n<td>Bathe, M., Baugeesch., NW 21, Bredowstr. 18</td>\n</tr>\n<tr>\n<td>84 33 32</td>\n<td>Bathe, O., Rektor, Stsd Lindenstr. 32</td>\n</tr>\n<tr>\n<td>35 33 04</td>\n<td>Bathe, O., Porz., NW 21, Wilhelmsh.Str. 4</td>\n</tr>\n<tr>\n<td>35 38 82</td>\n<td>O. Bathe &amp; Co., Bürobed., NW 21, Strom-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "87",
+            "text": "59"
+          },
+          {
+            "extension": "96",
+            "text": "15"
+          },
+          {
+            "extension": "84",
+            "text": "63"
+          },
+          {
+            "extension": "84",
+            "text": "96"
+          },
+          {
+            "extension": "44",
+            "text": "06"
+          },
+          {
+            "extension": "56",
+            "text": "04"
+          },
+          {
+            "extension": "86",
+            "text": "64"
+          },
+          {
+            "extension": "93",
+            "text": "44"
+          },
+          {
+            "extension": "89",
+            "text": "70"
+          },
+          {
+            "extension": "99",
+            "text": "30"
+          },
+          {
+            "extension": "58",
+            "text": "47"
+          },
+          {
+            "extension": "75",
+            "text": "59"
+          },
+          {
+            "extension": "44",
+            "text": "92"
+          },
+          {
+            "extension": "97",
+            "text": "16"
+          },
+          {
+            "extension": "63",
+            "text": "11"
+          },
+          {
+            "extension": "37",
+            "text": "28"
+          },
+          {
+            "extension": "34",
+            "text": "82"
+          },
+          {
+            "extension": "93",
+            "text": "51"
+          },
+          {
+            "extension": "97",
+            "text": "68"
+          },
+          {
+            "extension": "37",
+            "text": "79"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>72 55 00</td>\n<td>Dauermann, Frau Irene, <i>Steyr</i> Bergstr. 10</td>\n</tr>\n<tr>\n<td>27 53 43</td>\n<td>Bathmann, H., R.-A., W 35, Potsd. Str. 188</td>\n</tr>\n<tr>\n<td>71 88 94</td>\n<td>Ders., Wohnung, <i>Schö</i> Am Park 15</td>\n</tr>\n<tr>\n<td>30 72 18</td>\n<td>Batke, Hans, <i>Tgl</i> Bollestr. 1</td>\n</tr>\n<tr>\n<td>39 36 35</td>\n<td>v. Batocki, Annemarie, NW 87, Wullenw.-<br/>Straße 6</td>\n</tr>\n<tr>\n<td>68 11 19</td>\n<td>Batug, Max, Zeichner, SO 36, Skal. Str. 47</td>\n</tr>\n<tr>\n<td>42 13 46</td>\n<td>Batora, Ign., Schuhm., N 54, Bunn. Str. 11</td>\n</tr>\n<tr>\n<td>64 95 11</td>\n<td>Ders., Wohn. <i>Rah</i> Hangelsh. Gang 8</td>\n</tr>\n<tr>\n<td>50 12 67</td>\n<td>Batora, O., Lehrer, <i>Krleh</i> Gundelf.-Str. 25</td>\n</tr>\n<tr>\n<td>84 53 40</td>\n<td>Batsch, C., Maurerm., <i>Zehl</i> Machn. Str. 42</td>\n</tr>\n<tr>\n<td>76 37 65</td>\n<td>Batsch, E., Admiral a.D., <i>Ltf</i> Enzianstr. 1</td>\n</tr>\n<tr>\n<td>17 08 22</td>\n<td>Gebr. Batsch, Bürobed., SW 68, Alexan-<br/>drinenstr. 2</td>\n</tr>\n<tr>\n<td>88 17 15</td>\n<td>Batsch, Gg., Kfm., <i>Frdn</i> Südwestkors 4</td>\n</tr>\n<tr>\n<td>30 19 45</td>\n<td>Batsch, Hildeg., <i>Chb</i> Leibnizstr. 101</td>\n</tr>\n<tr>\n<td>44 88 73</td>\n<td>Batsch, Rich., Ger.-Vollz., N 113, Duncker-<br/>straße 38</td>\n</tr>\n<tr>\n<td>42 46 78</td>\n<td>Batsch, R., Schallpl., N 4, Artill.-Str. 1</td>\n</tr>\n<tr>\n<td>27 42 85</td>\n<td>Batschari Verlag GmbH, W 35, Bülowstr. 21</td>\n</tr>\n<tr>\n<td>76 27 16</td>\n<td>Batschari, E., Dr. phil., <i>Dahl</i> Altensteiner<br/>...</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "83",
+            "text": "32"
+          },
+          {
+            "extension": "83",
+            "text": "27"
+          },
+          {
+            "extension": "71",
+            "text": "65"
+          },
+          {
+            "extension": "24",
+            "text": "10"
+          },
+          {
+            "extension": "93",
+            "text": "50"
+          },
+          {
+            "extension": "25",
+            "text": "48"
+          },
+          {
+            "extension": "34",
+            "text": "53"
+          },
+          {
+            "extension": "52",
+            "text": "18"
+          },
+          {
+            "extension": "62",
+            "text": "44"
+          },
+          {
+            "extension": "61",
+            "text": "18"
+          },
+          {
+            "extension": "67",
+            "text": "64"
+          },
+          {
+            "extension": "84",
+            "text": "38"
+          },
+          {
+            "extension": "55",
+            "text": "18"
+          },
+          {
+            "extension": "97",
+            "text": "80"
+          },
+          {
+            "extension": "89",
+            "text": "14"
+          },
+          {
+            "extension": "80",
+            "text": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>A completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Basch — Baude (Band 11) 31",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 740 995\" data-label=\"Text\"><table><tbody><tr><td>68 67 32</td><td>Battige, A., Ingen.,</td><td>Trept Leiblstr. 8</td></tr><tr><td>49 50 73</td><td>Battige, P., Sekr.,</td><td>ReiO Grindelw.W. 4</td></tr><tr><td>55 29 13</td><td>Battke, C., Düngem.,</td><td>Frjde Prinzenallee 25</td></tr><tr><td>73 24 53</td><td>Battke, C., Eigent.,</td><td>Lt/ Curtiusstr. 92</td></tr><tr><td>88 65 41</td><td>Battke, Hans,</td><td>Frdn Odenwaldstr. 25</td></tr><tr><td>63 15 69</td><td>Battke, W., Kohlen,</td><td>Obw Nalepastr. 220</td></tr><tr><td>37 11 02</td><td>Battmer, Anna,</td><td>Schausp., Hash Küsterstr. 47</td></tr><tr><td>57 35 94</td><td>Battré, Ewald,</td><td>Dentist, O 17, Gr. Frankfurter Str. 148</td></tr><tr><td>56 02 84</td><td>Battré, L., Optik.,</td><td>Weiß Berl. Allee 241</td></tr><tr><td>55 17 24</td><td>Battüge, P., Obst,</td><td>Frjde Capriviallee 17</td></tr><tr><td>35 05 59</td><td>Batz, Agnes,</td><td>Gastw., NW 40, Werftstr. 1a</td></tr><tr><td>59 49 64</td><td>Batz, Alb., Lehrer,</td><td>O 34, Petersb. Str. 69</td></tr><tr><td>45 39 26</td><td>Batz, Ella,</td><td>N 113, Kuglerstr. 76</td></tr><tr><td>58 82 55</td><td>Batzdorf, Arib.,</td><td>Plakat., O 17, Markgrafen-<br/>damm 25 a</td></tr><tr><td>75 80 31</td><td>Batzdorf, Sophie,</td><td>Temp Bacharacher Str. 8</td></tr><tr><td>45 25 61</td><td>Batzdorf, W.,</td><td>Glasschleif., N 58, Pappelall. 5</td></tr><tr><td>22 37 58</td><td>Batzdorfer, Georg,</td><td>Pressestenogr., W 9,<br/>Llukstr. 9</td></tr><tr><td>25 32 94</td><td>Batzdorff, Clara,</td><td>W 62, Lützowpl. 10</td></tr><tr><td>17 81 79</td><td>Retna A</td><td>Schneid SW 24 Rcond Ste AA</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 740 988\" data-label=\"Text\"><table><tbody><tr><td>72 08 37</td><td>Batze, F., H.-Moden, <i>Stegl</i> Mariend.Str.30</td></tr><tr><td>19 72 40</td><td>Batzel, Dr. O., Treuh., SW 11, Hall.Str. 27</td></tr><tr><td>48 74 15</td><td>Batzke, Herm., <i>Pko</i> Crusemarkstr. 2</td></tr><tr><td>63 30 54</td><td>Bau u. Grund GmbH, <i>Bschw</i> N.Krugall.180</td></tr><tr><td>44 20 92</td><td>Bau- u. Holzh.-GmbH, N 58, Kopenh.St.71</td></tr><tr><td>19 08 31</td><td>Bau u. Ind. Verw., SW 68, Friedr.-Str. 217</td></tr><tr><td>(16 71 51)</td><td>Bau u. Land KG, Hiller &amp; Co., NW 7,<br/>Mittelstr. 57</td></tr><tr><td>47 12 30</td><td>Bau- u. Sägew.GmbH, <i>Waidm</i> Oranien-Str.51</td></tr><tr><td>34 32 39</td><td>Bau- u. Siedlungs-Ge. Hohen-Mühle, <i>Chb</i> 5<br/>Horstweg 4</td></tr><tr><td>68 05 71</td><td>Bau- u. Spar.-Gen.- Groß Berlin eGmbH,<br/>SO 36, Graetzstr. 36</td></tr><tr><td>31 71 11</td><td>Bau-Verl. R. Schirmer, W 15, Kurfürsten-<br/>damm 67</td></tr><tr><td>86 63 52</td><td>Bau- u. Verwaltungs-Ges. Kühnel &amp; Co,<br/><i>Wilm</i> Uhlandstr. 138</td></tr><tr><td>91 10 20</td><td>Bau- u. Werkstoff-Verwert. C. Wittje Nf.,<br/><i>Chb</i> 4 Wielandstr. 82</td></tr><tr><td>65 53 01</td><td>Bauabt. d. dtsch. Gartenst. GmbH, Bohns-<br/>dorf, Parchwitzer Str. 100</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "straße",
+        "entries": [
+          {
+            "extension": "21",
+            "text": "07 43 Bauadreibuch, W 9, Potsdamer Str. 17"
+          },
+          {
+            "extension": "59",
+            "text": "39 87 Bauausf. O. Hilbrich, NO 18, Höchste Str. 89"
+          },
+          {
+            "extension": "82",
+            "text": "73 13 Bauausf. H. Weiß, Neuk Schudomastr. 86"
+          },
+          {
+            "extension": "57",
+            "text": "15 56 Baubedarf Ost-West Rengarten & Co.G. m. b. H., O 17, Fruchtstr. 14"
+          },
+          {
+            "extension": "83",
+            "text": "16 57 Baubelik, Erna u. Lucie Zimmermann,Wilm Homburger Str. 12"
+          },
+          {
+            "extension": "17",
+            "text": "64 24 Baubeschlagfabrik GmbH, SW 68, Ritter-straße 84"
+          },
+          {
+            "extension": "88",
+            "text": "50 41 Baublies, Fritz, Trept Stuckstr. 11"
+          },
+          {
+            "extension": "67",
+            "text": "38 78 Bauch, Alfr., SO 18, Michaelkirchstr. 28"
+          },
+          {
+            "extension": "46",
+            "text": "07 96 Bauch, A., Schlächterm., N 65, N. Hochstr. 2"
+          },
+          {
+            "extension": "53",
+            "text": "44 74 Bauch, A., Hdlsvertr., C 2, Neue König-straße 74"
+          },
+          {
+            "extension": "32",
+            "text": "07 84 Bauch, Anneliese, Pianistin, Chb 5 Wind-scheidstr. 40"
+          },
+          {
+            "extension": "59",
+            "text": "53 77 Bauch, Annemarie, O 17, Brauner Weg 18"
+          },
+          {
+            "extension": "58",
+            "text": "10 71 Dieselbe, Wohnung"
+          },
+          {
+            "extension": "49",
+            "text": "36 45 Bauch, Carl, Eis, Rei-O Hoppestr. 18"
+          },
+          {
+            "extension": "40",
+            "text": "04 99 Bauch, Gust Wilm Wilhelm Buchh. 04-1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 737 994\" data-label=\"Text\"><table><tbody><tr><td>72 41 62</td><td>Bauch, Elise, <i>Stegl</i> Althoffstr. 23</td></tr><tr><td>79 66 02</td><td>Bauch, Elsbeth, <i>Stegl</i> Ringstr. 55</td></tr><tr><td>16 71 27</td><td>Bauch, Erich, Handlung mit bestem Porzellan u. Kristall, W 8, Charlottenstr. 66</td></tr><tr><td>66 63 89</td><td>Ders., Wohn., <i>Tmp</i> Bundesring 3</td></tr><tr><td>35 42 32</td><td>Bauch, E., Eis, NW 21, Emdener Str. 28</td></tr><tr><td>52 10 15</td><td>Bauch, Fritz, Kfm., C 2, Burgstr. 15</td></tr><tr><td>48 44 92</td><td>Bauch, Fritz, Vertr., <i>Bho</i> Elfenallee 87</td></tr><tr><td>39 63 81</td><td>Bauch, Gg., Geschäftsf., NW 87, Flotowstraße 12</td></tr><tr><td>62 13 83</td><td>Bauch, G., Vertr., <i>Neuk</i> Schudomastr. 40</td></tr><tr><td>12 40 56</td><td>Bauch, Hans, Vertr., W 8, Jägerstr. 19</td></tr><tr><td>35 01 22</td><td>Derselbe, Wohn., <i>Zehl</i> Waldh. Pfad 48</td></tr><tr><td>30 75 41</td><td>Bauch, Dr.H., Ärztin, <i>Tgl</i> T.-Brügge-W. 43</td></tr><tr><td>68 75 44</td><td>Bauch, H., Stud., <i>Trept</i> Trept. Park 39</td></tr><tr><td>44 92 61</td><td>Bauch, Johannes, N 58, Schönh. Allee 50</td></tr><tr><td>74 11 02</td><td>Bauch, Kurt, Kfm., <i>Lkw</i> Havenst. Str. 16a</td></tr><tr><td>39 86 55</td><td>Bauch, Dr. K., Stud.Rat, NW 87, Elberf. Straße 36</td></tr><tr><td>35 08 26</td><td>Bauch, Max, Verwalt., NW 87, Beusselstr. 44</td></tr><tr><td>41 78 70</td><td>Bauch, O., Motore. C 2. Weinmeisterstr. 13</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 737 993\" data-label=\"Text\"><table><tbody><tr><td>44 00 00</td><td>Bauch, H., Dusch., N 110, Schum. Autost</td></tr><tr><td>64 01 36</td><td>Bauch, Rich., Manuf.-W., Köp Schloßstr. 18</td></tr><tr><td>11 56 45</td><td>Bauch, Rob., Immob., SW 68, Zimmerstr. 9</td></tr><tr><td>87 38 77</td><td>Bauch, Rud., Beleuchtungsk.-Fbr., SO 16,<br/>Adalbertstr. 60</td></tr><tr><td>84 88 30</td><td>Bauch, R., Kfm., Zehl Argent. Allee 171</td></tr><tr><td>67 11 38</td><td>Bauch, Walter, SO 16, Schmidtstr. 24</td></tr><tr><td>58 12 94</td><td>Bauch, Walter, Kfm., O 112, Liebigstr. 21</td></tr><tr><td>92 67 94</td><td>Bauch, W. Fritz, Dentist, W 15. Kurf. D. 177</td></tr><tr><td>17 63 37</td><td>Bauch, W., Kfm., SW 68, Kommand. Str 35</td></tr><tr><td>61 39 51</td><td>Bauch, W., Kfm., SO 36, Oranienstr. 168</td></tr><tr><td>64 24 30</td><td>Bauch, Wern., Maurerm., Hs Bln. Str.</td></tr><tr><td>25 36 21</td><td>Bauch, Wolfg., Archit., W 30, Luitp. Str. 41</td></tr><tr><td>83 30 66</td><td>Bauchmüller, J., Wilm Gerolst. Str. 7</td></tr><tr><td>58 30 35</td><td>Bauchspies &amp; Gorn, Fbr. f. Innenausbau,<br/>O 34, Warschauer Str. 70</td></tr><tr><td>17 10 42</td><td>Bauchwitz, Max, Federboas, SW 68, Kom-<br/>mandantenstr. 19</td></tr><tr><td>87 39 58</td><td>Bauchwitz, W., Elektrobedarf, Wilm<br/>Hindenburgstr. 19a</td></tr><tr><td>84 59 54</td><td>Bauch, Adelaide, Zehl Werder Str. 18</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "sauer Str. 22",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 15 45 35\" data-label=\"Page-Header\"><p>•</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

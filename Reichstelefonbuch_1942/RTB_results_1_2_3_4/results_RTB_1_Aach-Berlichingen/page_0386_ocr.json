@@ -1,0 +1,785 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 697 511 930\" data-label=\"Text\"><p>178 (Band I)</p></div><div data-bbox=\"687 697 998 925\" data-label=\"Text\"><p><b>Bad Pyrmont</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"257 11 943 993\" data-label=\"Text\"><p>215 Reichsbahn, Bahnhofsvorsteher<br/>704 Dieselbe, Güterabfertigung<br/>705 Dieselbe, Güterabfertigung Lügde<br/>246 Reichsfinanzverw., Finanzamt, Ruststr. 7<br/>871 Dieselbe, Zollamt, Drakestr. 15<br/>602 Reichspost, Postamt<br/>638 Dieselbe, Postamt Lügde (Kr. Höxter)<br/>551 Repp, Carl, Papierwr., Brunnenstr. 15<br/>365 Rethmeyer, Emil, Autorepar.-Werkst.<br/>486 Reuber, Herm., Installation, Luisenstr. 8<br/>893 Reusch, Herm., Baumstr., Gartenstr. 14<br/>458 Rhein, Karl, Schlosserei, Lortzingstr. 35<br/>378 Richter, Karl, Bäckerin., Waisenhofstr. 8.<br/>501 Riedel, G., Modewr., Arkaden 3<br/>829 Riemenschneider, Luise, Friedrichstr. 5<br/>342 Ringe, Louis, Getreide, Futtermittel<br/>853 Ringe, O., Baugeschäft, Thalerlandstr.<br/>541 Derselbe, Wohnung, Marienstr. 7<br/>888 Rink, Joh., Maurermstr., Löwensen<br/>268 Ritter, Altenaustr. 8<br/>706 Ritter, Carl, Ziegeleibes., Schellenstr. 26.<br/>004 Dode Warm Vol-W Humboldtstr 10</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "583      Sanatorium Schücking",
+        "entries": [
+          {
+            "extension": "321",
+            "text": "Sanitäts-Halbzug"
+          },
+          {
+            "extension": "722",
+            "text": "Sauer, Friedr., Lehrmittel, Bathildisstr. 20"
+          },
+          {
+            "extension": "244",
+            "text": "Schaeffer, Parkstr."
+          },
+          {
+            "extension": "308",
+            "text": "Schaper, Ad., Wäscherei, Emmerstr. 184."
+          },
+          {
+            "extension": "566",
+            "text": "Schaub, Heinr., Wäscherei, Grieß.Str. 13"
+          },
+          {
+            "extension": "207",
+            "text": "Schaper, Rich., Feinkost, Lortzingstr. 7"
+          },
+          {
+            "extension": "763",
+            "text": "Schaper, Ww. Fr., Baumat., Lügde, Bhfstr. 336"
+          },
+          {
+            "extension": "680",
+            "text": "Schaefferdecker, F., Möbel, Oesdorfer Str. 5"
+          },
+          {
+            "extension": "324",
+            "text": "Schießstand e. V., A. d. Königsberge"
+          },
+          {
+            "extension": "337",
+            "text": "Schlichte, Aug., Architekt, Altenaustr. 2"
+          },
+          {
+            "extension": "854",
+            "text": "Schlichte, Friedr., Holzwrfr., Neubr.Weg 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">Oesbergstr. 52</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>828</td>\n<td>Schlüter, Gustav, Modewr., Brunnenstr. 45.</td>\n</tr>\n<tr>\n<td>459</td>\n<td>Schmid, Arthur, D.-Friseur, A. hyll. Born 1</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Schmidt, Ad., Waschanstalt, Untere Str. 18</td>\n</tr>\n<tr>\n<td>582</td>\n<td>Chr. u. A. Schmidt, Fließen, Erdfällenstr. 6</td>\n</tr>\n<tr>\n<td>331</td>\n<td>Schmidt, Wilhelm, Gasthaus zur Linde</td>\n</tr>\n<tr>\n<td>835</td>\n<td>Schnare, Carl, Schlachter, Hagerer Str. 6</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Schneider, K., Elektr.-Anl., Lügde, Mittl. Str.</td>\n</tr>\n<tr>\n<td>263</td>\n<td>Schneidewind, Ida, Wäscherel, Str. d. SA. 31</td>\n</tr>\n<tr>\n<td>497</td>\n<td>Schnelle, E., Buchhdlg., gegenüber Kurhotel</td>\n</tr>\n<tr>\n<td>809</td>\n<td>Schoedon, Herm., Bücherrev., Schloßstr. 1</td>\n</tr>\n<tr>\n<td>821</td>\n<td>Schottmann, Kreistierarzt, Helenenstr. 18</td>\n</tr>\n<tr>\n<td>838</td>\n<td>Schröder, Josef, Fleischerel, Oesdorferstr. 1</td>\n</tr>\n<tr>\n<td>304</td>\n<td>Schrupp, Aug., Gasthof, Lügde</td>\n</tr>\n<tr>\n<td>583</td>\n<td><b>Schücking, Prof., s. Sanatorium Schücking</b></td>\n</tr>\n<tr>\n<td>770</td>\n<td>Schücking, Dr. Andr., Arzt, Bombergallee</td>\n</tr>\n<tr>\n<td>769</td>\n<td>Schüre, Theodor, Fuhrgesch., Gg. Viktorstr. 16</td>\n</tr>\n<tr>\n<td>667</td>\n<td>Schürk, Kunsthdlg., Kurhaus Arkaden 1—2</td>\n</tr>\n<tr>\n<td>481</td>\n<td>Schüsseler, Marie, Fischhalle, Humboldtstr. 12</td>\n</tr>\n<tr>\n<td>330</td>\n<td>Schütte, Dr. Ernst, Zahnarzt, V. Lutzestr. 18</td>\n</tr>\n<tr>\n<td>001</td>\n",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 0 992 994\" data-label=\"Text\"><p>388 Schützenhaus, Oesbergstr. 33<br/>334 Schultz, W., Kirchenrat, Bathildisstr. 9a<br/>811 Schulze, Karl, Tischlerei, Straße d. SA. 68<br/>813 Schuster, Paul, Zimmermannstr. 5<br/>720 Schwaar, Fr., Lügder Mühle, Lügde<br/>721 Schwering &amp; Hasse, Zigarrenfabrik, Lügde<br/>530 Dieselben, Filiale Hagen<br/>525 Schwesternstation, Hopfengang 2<br/>553 Seeböhm, Schlagerplatz 5<br/>764 Seeböhm, Hedwig, Goethestr. 1<br/>674 Seeböhm, Rich., Landrat, Am hyll. Born 16<br/>889 Sennhütte, Ausflugsort, D. Drinkuth<br/>422 Siegmund, Alice Lucie, Humboldtstr. 2<br/>562 Sievers, August, Schmiede, Luisenstr. 5<br/>496 Simons, Elisabeth, Helenenstr. 23<br/>690 v. Sommerfeld, Oberstl. a. D., Seipstr. 7<br/>756 Spark. d. Stadt Bad Pyrmont, Brunnenstr. 2<br/>369 Spar- u. Darlehnsk. eGmbH, Str. d. SA. 57<br/>766 Spar- u. Darlehnskasse eGmbH, Lügde<br/>834 Spies, August, Furage, Winkelstr. 3.<br/>357 Sieß. August. Maßgeschäft. Lügde. Provinz-</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"320 0 476 25\" data-label=\"Page-Header\">\n<p>BUCHSTABEN 120</p>\n</div>\n<div data-bbox=\"248 25 993 989\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>296 Spilker, Ferd., Kfm., Lügde, Brückenstr. 98/99</li>\n<li>841 Spilker, H. F., Manuf.-W., Lügde, Vord. Str. 270</li>\n<li>634 Sprute, Ernst, Gastw., Eschenbruch</li>\n<li>724 <b>Staatlich Pyrmonter Mineralbrunnen-Versand</b><br/><b>Gebrüder Vietmeyer</b></li>\n<li>510 <b>Staatlich Pyrmonter Säuerling G. m. b. H.,</b><br/><b>Mineralbrunnen, Ruststr. 20</b></li>\n<li>279 Stadtsaal, Humboldtstr. 21</li>\n<li><b>641—643 Stadtverwaltung Bad Pyrmont</b><br/>Zentrale verbindet mit allen Dienststellen</li>\n<li><b>652 Städt. Verkehrsverein e.V. Bad Pyrmont</b><br/>Bad Pyrmont</li>\n<li>863 Städt. Lagerbierbrauerei, Ortsstr. 12</li>\n<li>882 Stahlmann, Ad., Schlachterm., Lortzingstr. 16</li>\n<li>407 Stahlmann, Wilh., Bäckerei, Humboldtstr. 9.</li>\n<li>598 Stapelberg, Fritz, Landwirt, Löwensen</li>\n<li>736 Steinebach, Dr. R., Med.-Rat, Bathildisstr. 2</li>\n<li>412 Aug. Steinert &amp; Co, Baugesch., Schellenstr. 10</li>\n<li>726 Steinhage, F., Geflügel, Lügde, Vord. Str. 295</li>\n</ul>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 998 972\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Nummer</th>\n<th>Name, Beruf, Anschrift</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>858</td>\n<td>Steinle, Hans, Buchhdlg., Emmerstr. 15</td>\n</tr>\n<tr>\n<td>868</td>\n<td>Steinmeyer, Aug., Fuhrgesch., Oesdorferstr. 18</td>\n</tr>\n<tr>\n<td>470</td>\n<td>Steinmeyer, Ernst, Autovermiet., Ruststr. 39</td>\n</tr>\n<tr>\n<td>471</td>\n<td>Steinmeyer, Herm., Malerinnung, Grieß.Str. 16</td>\n</tr>\n<tr>\n<td>630</td>\n<td>Steinmeyer, Otto, Zigarren</td>\n</tr>\n<tr>\n<td>538</td>\n<td>Steinmeyer, Wilh., Gemüse, Lortzingstr. 11</td>\n</tr>\n<tr>\n<td>289</td>\n<td>Steinwedel, D., Maler, Straße d. SA. 67</td>\n</tr>\n<tr>\n<td>445</td>\n<td>Stricker, Karl, Kommissariat, Vogellr.Weg 1</td>\n</tr>\n<tr>\n<td>579</td>\n<td>Strohbach, Arno, Friseur, Am hyll. Born 4</td>\n</tr>\n<tr>\n<td>332</td>\n<td>Struck, Carl, Schneiderei, Brunnenstr. 11</td>\n</tr>\n<tr>\n<td>892</td>\n<td>Stuckenbrock, Heinr., Bäckerei, Grieß. Str. 6</td>\n</tr>\n<tr>\n<td>686</td>\n<td>Stuckenbrock, Kurt, Manufakturwaren</td>\n</tr>\n<tr>\n<td>440</td>\n<td>Stuckenbrock, Lina, Massage, Bathildisstr. 11</td>\n</tr>\n<tr>\n<td>391</td>\n<td>Stürmer, Fr., Kohlen, G.-Vikor-Str. 30</td>\n</tr>\n<tr>\n<td>457</td>\n<td>Stürmer, Wilhelm, Fuhrgesch., Brunnenstr. 2</td>\n</tr>\n<tr>\n<td>683</td>\n<td>Stukenberg, Christian, Saline</td>\n</tr>\n<tr>\n<td>405</td>\n<td>Stukenberg, Ferd., Kolonialwaren</td>\n</tr>\n<tr>\n<td>876</td>\n<td>Stumpenhagen, Aug., Saaten, Neubrunnenw. 15</td>\n</tr>\n<tr>\n<td>700</td>\n<td>Stutzmann, Dr. E., Arzt, A. hylligen Born 4</td>\n</tr>\n<tr>\n<td>440</td>\n",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 691 998 895\" data-label=\"Text\"><p><b>: Reichsbahn — Bad Reichenhal</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 11 997 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>411</td>\n<td>Suthaus-Garage, Viktor Lutzestr. 28</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Tappe, Dr. Paul, Zahnarzt, Kaiserpl. 5</td>\n</tr>\n<tr>\n<td>695</td>\n<td>Tegtmeier, Alwin, Hermaunstr. 2</td>\n</tr>\n<tr>\n<td>284</td>\n<td>Telge, Alb., Bäckerel, Oesdorferstr. 4.</td>\n</tr>\n<tr>\n<td>527</td>\n<td>Terhardt, Wilh., Gasthaus Z. d. Erdfällen</td>\n</tr>\n<tr>\n<td>489</td>\n<td>Thams &amp; Garfs, Lebensm., Brunnenstr. 34</td>\n</tr>\n<tr>\n<td>537</td>\n<td>Thies, Alb., Feinkost, Lügde</td>\n</tr>\n<tr>\n<td>716</td>\n<td>Thole, Adele, Hebamme, Lügde, Vord. Str. 163</td>\n</tr>\n<tr>\n<td>370</td>\n<td>Thomsen. Dr. Marg., Ärztin, Kaiserpl. 2</td>\n</tr>\n<tr>\n<td>660</td>\n<td>Toback, Theod., Modehaus, Hauptallee</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Trompeter, Heinr., Ofenbau, Lortzingstr. 32</td>\n</tr>\n<tr>\n<td>362</td>\n<td>Trüber, Dr. phil., Wredestr. 7</td>\n</tr>\n<tr>\n<td>570</td>\n<td>Uthemann, W., Oberstl., Humb.-Str. 24</td>\n</tr>\n<tr>\n<td>683</td>\n<td>Vaerst, Otto, Tanzschule, Solbadstr. 36</td>\n</tr>\n<tr>\n<td>565</td>\n<td>Venn, Dr. Gustav, Arzt, Schloßstr. 2</td>\n</tr>\n<tr>\n<td>652</td>\n<td>Verkehrsverein e.V., Bad Pyrmont</td>\n</tr>\n<tr>\n<td>670</td>\n<td>Vielhaber &amp; Co, Immobilien, Bombergallee 2</td>\n</tr>\n<tr>\n<td>372</td>\n<td>Vietmeyer, Gg., Kolonialwr., Hagerer Str. 21</td>\n</tr>\n<tr>\n<td>724</td>\n<td>Gebr. Vietmeyer, Pyrm. Säuerling, Ruststr. 13</td>\n</tr>\n<tr>\n<td>491</td>\n<td>Vietmeyer, Hch., Gasth., Hagerer Str. 17</td>\n</tr>\n<tr>\n<td>518</td>\n<td>V",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 991\" data-label=\"Text\"><p>338 Volksschule 11, Kampstr. 23<br/>552 Vollmer, Johann, Parkstr. 8<br/>402 Voltmer, Anna, Putz, Brunnenstr. 5.<br/>534 Wackermann, Wanda, Bridgeltg., A. hyll. Born<br/>359 Wagner, Rupert, Malerm., Ruststr. 19<br/>250 Waldeck, Max, Weine, V.-Lutze-Str. 31<br/>316 Waldhof, Sägewerk, Herm. Wente<br/>849 Wans, Josef, Beauftragter<br/>223 Wasserwerke, Pyrmonter, Büro, Altenaustr. 11<br/>780 Dieselben, Pumpstation Hohenborn<br/>679 Webel, Erhard, Tischlerel, Lortzingstr. 13<br/>421 Webel, Fritz, Dachdeckermatr., Oesd. Str. 25<br/>694 Webel, Rich., Feinkost, Schloßstr. 16<br/>200 Weber, F. W., VDJ-VDEF, Am Felsenkeller 5<br/>205 Weber, Georg, Kol.-W., Oesdorferstr. 11.<br/>298 Weber, Heinr., Schlachterm., Str. d. SA. 82<br/>254 Weber, Dr. Rich., Arzt, Am hylligen Born 6.<br/>424 Wegener, G., Schuhrep., Lortzingstr. 10<br/>875 Weitz, W., Porzellan, Str. d. 30. Januar 16<br/>352 Welsch, Georg, Schneiderei, Brunnenstr. 46.<br/>547 Wenger, Polizeimeister, Bismarckstr. 10</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 972\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>EXT.</th>\n<th>NAME</th>\n<th>BUSINESS</th>\n<th>ADDRESS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>329</td>\n<td>Weruher, Dr. Georg,</td>\n<td>Professor, Forstweg</td>\n<td></td>\n</tr>\n<tr>\n<td>348</td>\n<td>Wesselmann, Gustav,</td>\n<td>Glas, Brunnenstr. 34</td>\n<td></td>\n</tr>\n<tr>\n<td>260</td>\n<td>Wibberenz, Albert,</td>\n<td>Direkt., V.Lutzestr. 19</td>\n<td></td>\n</tr>\n<tr>\n<td>340</td>\n<td>Wienecke, Herm.,</td>\n<td>Kohlen, Humboldtstr. 22</td>\n<td></td>\n</tr>\n<tr>\n<td>291</td>\n<td>Ilse u. Annemarie</td>\n<td>Winkelmann, Massage,</td>\n<td>Humboldtstr. 23</td>\n</tr>\n<tr>\n<td>640</td>\n<td>Wirtschafts- u. Ernährungsamt,</td>\n<td>Holzhausen,</td>\n<td>Grißemer Str.</td>\n</tr>\n<tr>\n<td>806</td>\n<td>Withof, Aug.,</td>\n<td>Kürschnerei,</td>\n<td>Arkaden 6</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Wittbrak, Fritz,</td>\n<td>Viehhdlg.,</td>\n<td>Straße d. SA. 8</td>\n</tr>\n<tr>\n<td>395</td>\n<td>Wittel, Herm.,</td>\n<td>Sägewerk,</td>\n<td>Holzhäuser Str. 1</td>\n</tr>\n<tr>\n<td>333</td>\n<td>Wolff &amp; Hohorst</td>\n<td>Nr., Buchhdlg.</td>\n<td></td>\n</tr>\n<tr>\n<td>484</td>\n<td>Wolfer, W.,</td>\n<td>Masseur,</td>\n<td>Oesdorferstr. 7</td>\n</tr>\n<tr>\n<td>848</td>\n<td>v. Wolfersdorf,</td>\n<td>Ernestine,</td>\n<td>Oesbergstr. 26</td>\n</tr>\n<tr>\n<td>805</td>\n<td>Wolkenhauer, A.,</td>\n<td>Landesprod.,</td>\n<td>Brunnenstr. 25</td>\n</tr>\n<tr>\n<td>390</td>\n<td>Wolkenhauer, H.,</td>\n<td>Autovermiet.,</td>\n<td>hyll. Born 1</td>\n</tr>\n<tr>\n<td>448</td>\n<td>Wortmann, Friedr.,</td>\n<td>Kohlen,</td>\n<td>Mühlen",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 985 880\" data-label=\"List-Group\"><ul><li>220 Würz, Karl, Presseleiter, Oead. Str. 14</li><li>544 Zarenkeller, Anna Schwindling, Brunnenstr. 3</li><li>345 Zastrow, P., Ober-Gerichtsvollz., Hunb. Str. 4</li><li>833 Zetzsche, Oskar, Zigarrenfabr., Str. d. SA. 41</li><li>689 Derselbe, privat, Forstweg 13</li></ul></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Bad Rappenau (Baden)",
+        "entries": [
+          {
+            "extension": "16",
+            "text": "Alt, Herm., Metzgermeister"
+          },
+          {
+            "extension": "64",
+            "text": "Auer, Hch., Baugeschäft"
+          },
+          {
+            "extension": "11",
+            "text": "Bauer jr., Ww. Wilh., Gasth., Siegelsbach."
+          },
+          {
+            "extension": "80",
+            "text": "Betz, Aug., Kraftfahrzeuge"
+          },
+          {
+            "extension": "7",
+            "text": "Gebrüder Botach, Maschinenfabrik und Eisen-gießerei, gegr. 1865"
+          },
+          {
+            "extension": "28",
+            "text": "Braun, Gust., Install. Salinenstr, 160"
+          },
+          {
+            "extension": "63",
+            "text": "Bruchhaus, Paul, Schreibwaren"
+          },
+          {
+            "extension": "89",
+            "text": "DAF., Gemeinschaftslager, Siegelsbach"
+          },
+          {
+            "extension": "2",
+            "text": "Dampfziegelei, Bad Rappenau"
+          },
+          {
+            "extension": "48",
+            "text": "Dörzbach, Emil, Bäckerei, Babst.-Str. 233."
+          },
+          {
+            "extension": "92",
+            "text": "Dotterer, Willy, Haarpflege, Schlageterstr. 121"
+          },
+          {
+            "extension": "46",
+            "text": "Evang. Pfarramt, Bad Rappenau"
+          },
+          {
+            "extension": "65",
+            "text": "Feierabend, Karl, Vertreter, Heinsch. Str. 97"
+          },
+          {
+            "extension": "45",
+            "text": "Freudenberger, Herm., Zimmerei"
+          },
+          {
+            "extension": "5",
+            "text": "Friederich, Wilh., Mühle, Zimmerhof"
+          },
+          {
+            "extension": "1",
+            "text": "Gemeindeverwaltung Bad Rappenau"
+          },
+          {
+            "extension": "19",
+            "text": "Gemeindeverwaltung Siegelsbach KA Andarmarination Dunningau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"24 0 986 990\" data-label=\"Text\"><p>91 Dies., Siegelsbach<br/>87 Glück, Otto, Metzgerei<br/>40 Gramling, Karl, Viehhdlg., Siegelsbach<br/>39 Grode, Ww. L., Gasth. z. Pfälzer Hof<br/>37 Guggolz, Leop., Glaserei<br/>8 Guts- u. Brennereiverwaltung, Rappenau<br/>4 Gutsverwaltung Zimmerhof.<br/>23 Häfner, Jakob, Brauerei.<br/>35 Hartmann, H., Dentist<br/>85 Hehl, Sebastian, Gartenbau, Siegelsbach<br/>26 Heilstätte für Chirurgische Tuberkulose<br/>44 Hermann, Gustav, Dr. med.<br/>69 Hofmann, Herm., Möbelfbr., Siegelsbach<br/>62 Hofmann, Ludwig, Metzgerei, Siegelsbach<br/>9 Hofmann, Peter, Landeserzeugnisse.<br/>60 Holoch, Oskar, Gemischtwaren, Siegelsbach<br/>51 Kindersolbad Stuttgart, Salinenstr. 156<br/>29 Klotz, Alfred, Bäckermstr., Siegelsbach<br/>22 Koos, Gottlieb, Gasthaus, Siegelsbach.<br/>83 Kornhaus Sinsheim eGmbH, Lager Bad Rap-<br/>penau</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "Kurhotel, Inh. Karl Schweikardt"
+          },
+          {
+            "extension": "34",
+            "text": "Lemperle, Hch., Pension, Salinenstr. 145"
+          },
+          {
+            "extension": "61",
+            "text": "Mann, Eugen, Elektrowerkst., Siegelsbach"
+          },
+          {
+            "extension": "13",
+            "text": "Mayer, Fritz, Konditorei"
+          },
+          {
+            "extension": "21",
+            "text": "Mayer, Ludwig, Gasthaus, Bahnhofsplatz."
+          },
+          {
+            "extension": "47",
+            "text": "Meyer, Ludw., Gasth., Babst.-Str. 21."
+          },
+          {
+            "extension": "59",
+            "text": "Müller, Karl, Bäckerei"
+          },
+          {
+            "extension": "27",
+            "text": "Münz, Dr. K., Badearzt, Salinenstr. 148"
+          },
+          {
+            "extension": "65",
+            "text": "Muth, Phil., Kol.-W., Salinenstr. 167."
+          },
+          {
+            "extension": "42",
+            "text": "Niebergall &amp; Co., Kol.-W."
+          },
+          {
+            "extension": "50",
+            "text": "Niederheiser, H. L., Apotheker."
+          },
+          {
+            "extension": "53",
+            "text": "Pflaum &amp; Schwab, Baugesch."
+          },
+          {
+            "extension": "30",
+            "text": "Pusch, Dr. Gerh., Arzt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 696 344 933\" data-label=\"Text\"><p><b>|: Beringer</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 11 998 993\" data-label=\"Text\"><p>33 Reichsbahn, Bad Rappenau<br/>90 Dies., Bhf. Siegelsbach<br/>82 Reichspost, Postamt<br/>76 Roser, Gustav, Möbel, Heinsheimer Str. 81<br/>57 Rothenhöfer, Heinr., Gärtnerei.<br/>43 Rothenhöfer, Herm., Gasthaus, Babst.Str.224<br/>12 Rothenhöfer Rud., Bäckerei<br/>2 Rothenhöfer, Mann &amp; Cie., Landmaschinen<br/>24 Rückeshäuser, L., Schweinehdlg., Bonf.Str.<br/>49 Schön, Fritz, Schreinerei, Bahnhofstr. 103.<br/>31 H. &amp; R. Schrezenmaier, Baug., Heinsch.Str. 82<br/>10 Siloa, Kindersolbad, Diakonissenhaus<br/>52 Späth, Wilh., Kraftfahrzeuge<br/>18 Statteimann, Jos., Schlosserei, Siegelsbach.<br/>32 Stein, Herm., Buchdruckerel, Verlag<br/>17 I. Stein &amp; Sohn, Bauunternehmen., Siegelsbach<br/>15 Heinrich &amp; Emil Stocker, Maler, Bhfstr. 194<br/>25 Volksbank Bad Rappenau, Kirchenstr.<br/>84 Volz, Fritz, Fuhrgesch., Gartenstr. 17<br/>71 Wagenbach, Gust., Gasth., Siegelsbach<br/>58 Weber, Albert, Autoverm.<br/>72 Wilhelm Duncan Kraftfahrzeuge</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"32 10 998 886\" data-label=\"List-Group\"><ul><li>87 Widmann, Friedr., Architekt, Siegelsbach</li><li>66 Zimmermann, Erwin, Inst.-Gesch.</li><li>38 Zimmermann, Otto, Bäckerei, Kirchenstr. 106</li></ul></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Bad Rehburg (üb. Wunstorf)[Hannover]",
+        "entries": [
+          {
+            "extension": "238",
+            "text": "Abelmann, Fr., Maschinen, Bahnhofstr. 36"
+          },
+          {
+            "extension": "268",
+            "text": "Aderhold, E., Gärtnerei, Nr. 60a"
+          },
+          {
+            "extension": "207",
+            "text": "Ahlhausen, Heinrich, Malergeschäft"
+          },
+          {
+            "extension": "372",
+            "text": "Ahlhausen, Lud., Viehhdlg., Münchehagen"
+          },
+          {
+            "extension": "233",
+            "text": "Apotheke, Oskar Behre"
+          },
+          {
+            "extension": "216",
+            "text": "Arning, Friedr., Baustoffe, Rehburg"
+          },
+          {
+            "extension": "395",
+            "text": "Aue, Louia, Baugeschäft, Schmiedestr. 56"
+          },
+          {
+            "extension": "347",
+            "text": "Bad Rehburg"
+          },
+          {
+            "extension": "266",
+            "text": "Bredemeier, Fr., Schmiedemstr., Münchehagen"
+          },
+          {
+            "extension": "235",
+            "text": "Bremer Heilstätte"
+          },
+          {
+            "extension": "240",
+            "text": "Gebr. Brinkmann, Autofuhrw., Münchehagen"
+          },
+          {
+            "extension": "248",
+            "text": "Brinkmann, H., Gasthaus zum Bahnhof"
+          },
+          {
+            "extension": "259",
+            "text": "Brinkmann, Heinr., Händler, Münchehagen"
+          },
+          {
+            "extension": "345",
+            "text": "Buck, Karl, Manufakturwaren, Winzlar"
+          },
+          {
+            "extension": "374",
+            "text": "Bührmann, Wilh., Fleischerei, Winzlar 33"
+          },
+          {
+            "extension": "222",
+            "text": "Bürgermeister, Büro, Bahnhofstr. 77"
+          },
+          {
+            "extension": "251",
+            "text": "Bürgermeister, Münchehagen"
+          },
+          {
+            "extension": "219",
+            "text": "Bürgermeister der Stadt Rehburg"
+          },
+          {
+            "extension": "336",
+            "text": "Bürgermeister Wölpinghausen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>226</td>\n<td>Bürgermeister Wilkening, Wiedenbrügge</td>\n</tr>\n<tr>\n<td>264</td>\n<td>Bultmann, Ratskeller, Rehburg</td>\n</tr>\n<tr>\n<td>304</td>\n<td>Busse, Friedr., Zementrohre, Loccumer Str. 302</td>\n</tr>\n<tr>\n<td>252</td>\n<td>Clasen, Dr. Otto, Arzt, Neue Str. 82</td>\n</tr>\n<tr>\n<td>218</td>\n<td>Dettmer, Herm., Maurermeister</td>\n</tr>\n<tr>\n<td>281</td>\n<td>Dökel, August, Loccumer Str. 200</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Dökel, Ernst, Baugeschäft, Nienburger Str.</td>\n</tr>\n<tr>\n<td>283</td>\n<td>Dökel, Friedr., Holz, Düsselb. Str. 299</td>\n</tr>\n<tr>\n<td>396</td>\n<td>Dökel, Heinr., Landwirt</td>\n</tr>\n<tr>\n<td>357</td>\n<td>Dornbusch, Ernst, Kolonialwr., Münchenhagen</td>\n</tr>\n<tr>\n<td>267</td>\n<td>Drebber, Ludw., Schlachterei, Bahnhofstr. 36a</td>\n</tr>\n<tr>\n<td>285</td>\n<td>Drebber, Wilh., Tischlermstr., Bahnhofstr. 61</td>\n</tr>\n<tr>\n<td>249</td>\n<td>Dreier, W., Steinbrüche, Berghol.</td>\n</tr>\n<tr>\n<td>337</td>\n<td>Dreier, Wilh., Maurermstr., Wölpinghausen</td>\n</tr>\n<tr>\n<td>237</td>\n<td>Dünnemann, Dr., Tierarzt</td>\n</tr>\n<tr>\n<td>296</td>\n<td>Ebeling, Wilhelm Kaufmann</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Eberhardt, Heinr., Gastw., Münchenhagen</td>\n</tr>\n<tr>\n<td>294</td>\n<td>Eberhardt, Wilh., Kohlen, Münchenhagen 68</td>\n</tr>\n<tr>\n<td>362</td>\n<td>Engelke, Wilh., Gasthaus zum Bahnhof</td>\n</tr>\n<tr>\n<td>246</td>\n<td>Forstamt, Preuß. Kloster-, Stadt Rehburg</td>\n</tr>\n<tr>\n<td>212</td>\n<td>Forstamtsdirektor Knut Oldowaa Rarohol</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 952 986\" data-label=\"Text\"><p>343 Gendarmerie-Gruppenposten Rehburg<br/>303 Gerberding, W., Sattler, Tapezier.<br/>221 Gerlach, Reinhard, Forstnstr., Nr. 347<br/>234 Grote, Wilh., Manufakturwaren, Nr. 225<br/>319 Machfeld, Wilh., Viehhdlg., Nr. 117<br/>220 Hänel, Dr., Chefarzt d. Lungenheilstätten<br/>341 Hartmann, Heinr., Landwirt, Wölpinghausen<br/>212 Haus Daheim, L. Höwe, Am Brunnenhof 18<br/>351 Heilstätte, „Liebrechtsborn“, Bad Rehburg<br/>398 Heine, Bahnhofsrestaurant, Winzlar<br/>293 Hellberg, Heinrich, Kolonialwaren<br/>310 Henke, M., Arzt, Alte Poststr. 5<br/>346 Hermann, Wilh., Klempn., Wölpinghausen<br/>301 Hesterberg, Heinr., Bauer, Landwehr<br/>321 Gebr. Hiller, Naturawerk<br/>202 Hockemeyer, W., Gärtnerei<br/>353 Hogrefe, Fritz, Restaurant zum Keller<br/>209 Hogrefe, Wilhelm, Bierverlag, Allee 4<br/>322 Holtorf, H., Molkerei, Rehburg (Stadt)<br/>256 Homeyer, W., Kfm., Winzlar 25<br/>205 Hotel (Tegtmeiers Kurhotel)</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>330</td>\n<td>Kahle, Wilh., Schlachterei, Münchehagen</td>\n</tr>\n<tr>\n<td>318</td>\n<td>Kammeyer, Fr., Landw., Winzlar 4</td>\n</tr>\n<tr>\n<td>331</td>\n<td>Kammeyer, H., Molkerei Wiedenbrügge</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Kiel, Carl, Malermstr.</td>\n</tr>\n<tr>\n<td>291</td>\n<td>Kiel, Wilhelm, Kohlen, Münchehagen, Nr. 163</td>\n</tr>\n<tr>\n<td>250</td>\n<td>Koors, Heinrich, Baugeschäft, Münchehagen</td>\n</tr>\n<tr>\n<td>277</td>\n<td>Korte, Heinrich, Gasthaus, Münchehagen</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Korte, H. W., Kfm., Hauptstr. 39</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Kreissparkasse Nienburg (Weser), Nebenst.</td>\n</tr>\n<tr>\n<td>213</td>\n<td>Krone, A., Gastwirtschaft</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Krudopp, Wilh., Zimmermstr., Münchehagen</td>\n</tr>\n<tr>\n<td>242</td>\n<td>Krull, Friedr., Wiedenbrügge 23</td>\n</tr>\n<tr>\n<td>282</td>\n<td>Lachmund, Gertrud, Bergstr.</td>\n</tr>\n<tr>\n<td>255</td>\n<td>Landjahrlager Rehburg (Stadt)</td>\n</tr>\n<tr>\n<td>288</td>\n<td>Landw. Bezugs- u. Absatzgen., Münchehagen</td>\n</tr>\n<tr>\n<td>306</td>\n<td>Linnemann, Aug., Bauer, Heidtorstr. 85</td>\n</tr>\n<tr>\n<td>206</td>\n<td>Lohr, Sanatorium</td>\n</tr>\n<tr>\n<td>352</td>\n<td>Lustfeld, A., Bäckerei</td>\n</tr>\n<tr>\n<td>371</td>\n<td>Lustfeld, Heinr., Dampfbäckerei</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Mackeben, Aug., Straßenbau</td>\n</tr>\n<tr>\n<td>222</td>\n<td>Mahlmann, Heinz, Oetwils</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 906 758\" data-label=\"Text\"><p>227 Marienheim, Genesungshaus<br/>280 Meyer, Aug., Nr. 223<br/>263 Meyer, Heinr., Tischlerei, Schmiedestr. 58<br/>340 Meyer, Heinr., Schlachterei, Hauptstr. 34<br/>286 Meyer, Dr. Karl, Arzt<br/>241 Meyer, Wilh., Schlachterei, Hauptstr. 120<br/>203 v. Moeller, Villa Jagdhaus<br/>315 Most, Dachdeckermstr., Jägerstr. 199<br/>324 Müller, Friedr., Schlossermstr., Winzlar<br/>329 Nienburger Stromversorgungs-A.G.<br/>245 Nordmeyer, Fr., Sägewerk<br/>271 NSDAP., Ortsgruppenleitung, Nr. 40<br/>316 Oldewage, Knut, Gartenbau, Berghol<br/>261 Pape, Bernh., Ziegelwerk, Wiedenbrügge<br/>258 Peters, Herm., Konditorei<br/>327 Pfarramt Münchenhagen</p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a thin black border. There is no text or other content visible on the page.\"/></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"673 582 683 604\" data-label=\"Page-Footer\"><p>4</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 11 797 993\" data-label=\"Text\"><p>244 Prinzhorn, Gasthaus, Winzlar 61<br/>355 Prinzhorn, Hermann, Mühle, Winzlar<br/>262 <b>Rabe, Karl, Modewr., Rehburg 30</b><br/>317 Reichsbahn, Güterabfertigung Münchenhagen<br/>368 Reichspost, Postamt<br/>225 H. u. C. Reitz Nf., Kfm., Kreuzweg 21<br/>302 Rieger, Gustav, Major a. D., Mühlenberg<br/>253 Rode, Heinr., Tischlerel, Wölpinghausen 66<br/>243 Römkel F. H., Kfm., Münchenhagen<br/>334 Rosenkranz, Franz, Mühle, Münchenhagen<br/>359 Rosenkranz, Herm., Mühle, Münchenhagen<br/>292 Salge, Wilh., Gastw., Schmalenbruch<br/>229 Scheele, Ernst H., Kfm., Münchenhagen<br/>385 Schmidt, Christ., Kfm., Heidtorstr. 78<br/>290 Schmidt, Fritz, Tischlermstr., Nr. 263<br/>295 Schmidt, Heinr., Heidtorstr. 282<br/>344 Schwester Ina Kühl, Luisenkinderb. Berghof<br/>201 Sparkasse Rehburg<br/>278 Spar- u. Darlehnskasse, Münchenhagen<br/>307 Spar- u. Darlehnskasse eGmbH, Winzlar<br/>309 Stadtländer, Friedr., Getreide, Münchenhagen<br/>310 Stadtländer Wein Steinbruch Münchenhagen</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 730 910\" data-label=\"List-Group\"><ul><li>336 Wilkening, Wilh., Schmalenbruch 20</li><li>313 Wilkening, Willi, Gasthaus, Wiedenbrügge</li><li>300 Witte, Wilh., Buchhdlg.</li><li>323 Zweckverbandsparkasse Stolzenau</li></ul></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Bad Reichenhall (Bay.)",
+        "entries": [
+          {
+            "extension": "3431",
+            "text": "Achhalter, Martin, Teppiche, Ludwigstr. 2"
+          },
+          {
+            "extension": "3547",
+            "text": "Agrippina-Gruppe, Versich.-Gesellschaft"
+          },
+          {
+            "extension": "3114",
+            "text": "Aicher, Anton, Gastwirt, Bayerisch Gmain"
+          },
+          {
+            "extension": "3468",
+            "text": "Aicher, Sylvester, Zimmermstr., Frühl. Str. 29"
+          },
+          {
+            "extension": "3281",
+            "text": "Aigner, Johann, Autofuhren, Piding HsNr. 50"
+          },
+          {
+            "extension": "3263",
+            "text": "Akermann, Ed., Herrenmoden, Salzb. Str. 2"
+          },
+          {
+            "extension": "3089",
+            "text": "Akermann, Eduard, Zigarren, Ludwigstr. 20"
+          },
+          {
+            "extension": "3021",
+            "text": "Albrecht, Ww. Ant., Weißwaren, Ludwigstr. 19"
+          },
+          {
+            "extension": "3130",
+            "text": "Allgem. Ortskrankenkasse, TrauFeldstr. 12"
+          },
+          {
+            "extension": "3593",
+            "text": "Almrausch, Fremdenheim, Lisel. Oberländer"
+          },
+          {
+            "extension": "3050",
+            "text": "Alpine Rettungsstelle, Salinenstr. 2"
+          },
+          {
+            "extension": "3022",
+            "text": "Amberger, Karl, Laborat., Ludwigstr. 30"
+          },
+          {
+            "extension": "3338",
+            "text": "Ambulante Krankenpflege Jugendheim"
+          },
+          {
+            "extension": "3056",
+            "text": "von Amerongen, Else, Frau, Bergweg 8"
+          },
+          {
+            "extension": "3643",
+            "text": "Amtsgericht, Poststr. 19"
+          },
+          {
+            "extension": "3570",
+            "text": "Andeßner, W. A., Wollwr., Poststr. 10"
+          },
+          {
+            "extension": "3414",
+            "text": "André Stanislawa, Ww., Kurfürstenstr. 26"
+          },
+          {
+            "extension": "3364",
+            "text": "Angerer, A., Hotel Post, Poststr. 2"
+          },
+          {
+            "extension": "3528",
+            "text": "Anselmi, Friedr., Lebensmittel, Poststr. 56"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 646 27\" data-label=\"Page-Header\">\n<p><b>WUETZ 30669, 3052, 3548, 3076, 3760, 3015, 3674, 3614, 3087, 3565, 3228, 3344, 3625, 3782, 3716, 3235, 3326</b></p>\n</div>\n<div data-bbox=\"0 23 793 971\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li><b>3069 Apotheke, Kronen-</b></li>\n<li><b>3052 Arbeitsamt Traunstein, Zweigstelle, Egidipl. 1</b></li>\n<li><b>3548 Arbeitsgemeinschaft Bad Reichenhall</b></li>\n<li><b>3076 Argstatter, F., Meierei, St.Zeno, Salzbr.Str. 42</b></li>\n<li><b>3760 Argstatter, Martin, Fuhrw., Piding, Nr. 35</b></li>\n<li><b>3015 Artmaier, Hans, Fahrräder, Ludwigstr. 22</b></li>\n<li><b>3674 Asam, Ludw., Gärtnerei, Heilingbr.Str. 3</b></li>\n<li><b>3614 Asboth, Dr. Hans Kohl</b></li>\n<li><b>3087 Aschauer, Karl, Fischhdlg., Getreidegasse 2</b></li>\n<li><b>3565 Aschl, Jos., Kolonialwr., Schachtstr. 1</b></li>\n<li><b>3228 „ASTHMOSANA“, Rudolf M. Mayer, Luit-</b><br/><b>poldstraße 2</b></li>\n<li><b>3344 Astoria Kurpension, Mozartstr. 4</b></li>\n<li><b>3625 Autobus-Verkehrs-Gen. eGmbH, Parkpl. 4</b></li>\n<li><b>3782 Autofahrten A. Bachmann, Berchtesg. Str. 26</b></li>\n<li><b>3716 Autofahrten E. Holzmannstetter, v.-Epp-</b><br/><b>Straße 12</b></li>\n<li><b>3235 Bachmeier, Monika, Villabes., Mackstr. 2</b></li>\n<li><b>3326 Bad Reichenhaller Latschen-Oel-Fabrik</b><br/><b>A. Leuthenmayr, Kurmittel, Badezusätze</b></li>\n</ul>\n</div>\n<div data-bbox=\"0 968 613 993\" data-label=\"Page-Footer\">\n<p><b>Seite 10</b></p>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 791 993\" data-label=\"List-Group\"><p><b>3408 Bahnhofhotel, Inhaberin Therese Stich, ver-</b><br/><b>witwete Anselmi</b></p><p><b>3363 Bahnhofsrestauration, Piding</b></p><p><b>3416 Balneo-GmbH, chem.-pharm. Präp., Salinen-</b><br/><b>straße</b></p><p><b>3723 Bau- u. Siedl.-Genoss., Baubüro Karlstein</b></p><p><b>3783 Dies., Baust. Stauffenbrücke</b></p><p><b>3314 Bauer, Jos., Villa Immergrün</b></p><p><b>3483 Baumann, Heinrich, Tapezierer, Luitp.Str. 25</b></p><p><b>3028 Baumgarten-Gastwirtschaft, Schneizlreuth</b></p><p><b>3298 Baur, Ludwig, Milchstube, Ludwigstr. 7</b></p><p><b>3107 { Bayerische Berg-, Hütten- und Salzwerke</b><br/><b>3153 { A.-G., Zweigniederlassung Saline Reichenhall,</b><br/><b>Salinenstr. 1</b></p><p><b>3213 Dies., Brunnhaus Jettenberg, Haus 4½</b></p><p><b>3236 Dies., Brunnhaus Nagling</b></p><p><b>3240 Dies., Brunnhaus Fager, Karlstein</b></p><p><b>3513 Bayer. Divinal-Werk, Fabrikation der „Chri-</b><br/><b>stol“-Badetabletten, Frühlingstr. 12½</b></p><p><b>3685 Bayer. Hypotheken- u. Wechsel-Bank, Filiale,</b><br/><b>Franz.-v.-Erd-Str. 2</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 790 697\" data-label=\"Text\"><p><b>0000</b> <b>Bayreuth, Nachbarnauflaufschulz, Uhlen, H.</b><br/>Sappl, Glück im Winkel 17<br/><b>3461</b> Bayer, Vereinsbank, Fil., Fr.-v.-Epp-Str. 7<br/><b>3645</b> Bayer. Warenverm. landw. Gen., Spitalg. 5<br/><b>3519</b> <b>Bayr. Genossenschaftsheim e. G. m. b. H.,</b><br/><b>Adolf-Schmid-Str. 5</b><br/><b>3637</b> Becker, Kuranstalt, Bayer. Gmain<br/><b>3522</b> Belling, Karl, Farben, Poststr. 3<br/><b>3707</b> Beltinger, Dr. Rud., Reg.-Rat a. D., Gmain<br/><b>3698</b> Berger, Andreas, Kohlen, Am Angerl 4<br/><b>3011</b> Berger, Hans, Apotheker, Innsbr. Str. 37<br/><b>3680</b> <b>Berghotel Predigtstuhl, Eigentümer Predigt-</b><br/><b>stuhlbahn</b><br/><b>3490</b> Bergmaier, Franz, Schuhwr., Ludwigstr. 36<br/><b>3592</b> Beringer, Josef, Friseur, Ludwigstr. 18</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

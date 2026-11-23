@@ -1,0 +1,766 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"261 10 998 995\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>22 25 48</td>\n<td>Münchener Kochelbräu, Inh. M. Dietl<br/>W 9, Linkstr. 12</td>\n</tr>\n<tr>\n<td>37 29 44</td>\n<td rowspan=\"2\">Neuer Ratskeller, Inh. Wilhelm Ruschin</td>\n</tr>\n<tr>\n<td>37 60 36</td>\n</tr>\n<tr>\n<td></td>\n<td>Berlin-Spandau, Carl-Schurz-Str. 4</td>\n</tr>\n<tr>\n<td>34 07 93</td>\n<td rowspan=\"2\">Opern-Restaurant, Inhaber: Hermani<br/>Lindner, Festsäle, Berlin-Charlottenburg</td>\n</tr>\n<tr>\n<td>34 37 21</td>\n</tr>\n<tr>\n<td></td>\n<td>Bismarckstraße 34</td>\n</tr>\n<tr>\n<td>52 20 15</td>\n<td>Ratskeller, Berliner, Restaurant, Berlin<br/>C 2, Königstr. 15/18</td>\n</tr>\n<tr>\n<td>71 08 88</td>\n<td rowspan=\"2\">Ratsweinkeller Schöneberg, Pächter: Ju<br/>lius Schwenk, Berlin-Schöneberg, Baden</td>\n</tr>\n<tr>\n<td>71 62 63</td>\n</tr>\n<tr>\n<td></td>\n<td>sche Straße 60</td>\n</tr>\n<tr>\n<td>91 13 08</td>\n<td>Restaurant Burgkeller, W 50, Kurfürsten<br/>damm 12</td>\n</tr>\n<tr>\n<td>12 54 88</td>\n<td>„Rheinpfalz“-Weinstuben<br/>Berlin W 8, Mauerstr. 66 u. 67</td>\n</tr>\n<tr>\n<td>37 29 44</td>\n<td rowspan=\"2\">Ruschin, Wilhelm, Neuer Ratskeller, Ber<br/>lin-Spandau, Carl-Schurz-Str. 4</td>\n</tr>\n<tr>\n<td>37 60 36</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">Stöckler's Weinstuben für Besonderheiten</td>\n</tr>\n<tr>\n<td>Nr.</td>\n</tr>\n<tr>\n<td>91 02 20</td>\n<td>Berlin W 50, Kurfürstendamm 228/229</td>\n</tr>\n<tr>\n<td>01 KN 04</td>\n<td>Vanavia's Italienisches Restaurant W 16</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"558 10 707 39\" data-label=\"Page-Header\">Kurfürstendamm 34</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"268 503 392 930\" data-label=\"Text\"><p>51 26 34<br/>22 10 05</p></div><div data-bbox=\"427 20 524 473\" data-label=\"Text\"><p>Gast-<br/>stätten</p></div><div data-bbox=\"427 19 970 447\" data-label=\"Text\"><p><b>B. Wollenberg</b></p></div><div data-bbox=\"455 493 955 944\" data-label=\"Text\"><p>Alexanderplatz Hochhaus Berolina<br/>Potsdamer Platz, Linkstr. 2</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"268 3 389 59\" data-label=\"Text\"><p>91 80 01</p></div><div data-bbox=\"585 3 814 65\" data-label=\"Text\"><p><b>Zigeuner-Keller</b></p></div><div data-bbox=\"453 62 956 125\" data-label=\"Text\"><p>Berlin W 15, Kurfürstendamm 26</p></div><div data-bbox=\"264 118 998 234\" data-label=\"Text\"><p>16 11 55 „Zillertal“, Inh. Willi Veitweber, Berlin<br/>NW 7, Weidendamm 1</p></div><div data-bbox=\"252 247 671 325\" data-label=\"Text\"><p><b>Berwang (Tirol).</b></p></div><div data-bbox=\"358 328 986 429\" data-label=\"Text\"><p>7 Pension „Egghof“ A. Covi</p></div><div data-bbox=\"588 434 807 489\" data-label=\"Text\"><p>Berwang/Tirol</p></div><div data-bbox=\"252 502 851 580\" data-label=\"Text\"><p><b>Biberach (Riß) [Wrttb.].</b></p></div><div data-bbox=\"326 577 998 692\" data-label=\"Text\"><p>531 Hotel „Württembergischer Hof“, Inh. Franz<br/>Schlechter, Eisenbahnstr. 11a</p></div><div data-bbox=\"252 706 484 772\" data-label=\"Text\"><p><b>Bielefeld.</b></p></div><div data-bbox=\"326 781 998 891\" data-label=\"Text\"><p>312 Geist, Paul, Bahnhofrestaurant, AmBahnhof.<br/>P Hannover 65705</p></div><div data-bbox=\"252 906 760 986\" data-label=\"Text\"><p><b>Bielitz (Oberschles.).</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Bischofshofen (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "44 Gasthof „Alte Post“",
+        "entries": []
+      },
+      {
+        "region_name": "Bischofswerda (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bitterfeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Blieskastel (Saar).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Bludenz (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Gastwirtschaft Fohrenburg",
+        "entries": []
+      },
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      },
+      {
+        "region_name": "Ratskeller",
+        "entries": []
+      },
+      {
+        "region_name": "Bodenbach (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Bödefeld (üß. Restwig) [Sauerland].",
+        "entries": []
+      },
+      {
+        "region_name": "Bonn.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brieg (Bez. Breslau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Brixlegg (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Bromberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bruck a. d. Mur (steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Brüx (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Büchensbeurem (Hunsrück).",
+        "entries": []
+      },
+      {
+        "region_name": "Buoch (Kr. Waiblingen) [wtbg.].",
+        "entries": []
+      },
+      {
+        "region_name": "Burg (Bez. Magdeburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Burgberg (Schwaben).",
+        "entries": []
+      },
+      {
+        "region_name": "Calbe (Milde).",
+        "entries": []
+      },
+      {
+        "region_name": "Celle (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"20 75 975 625\"}, {\"label\": \"Text\", \"bbox\": \"20 695 967 937\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 61 926 944\" data-label=\"Text\"><p><b>Gartenrestaurant und Konditorei</b><br/><b>„Vier Jahreszeiten“</b><br/><b>Danzlg, Hindenburgallee 9/10</b><br/><b>Fernsprecher : 254 02</b></p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 41 724 210\" data-label=\"Text\"><p><b>Café und Konditorei</b></p></div><div data-bbox=\"336 282 648 576\" data-label=\"Text\"><p><b>„Birk“</b></p></div><div data-bbox=\"277 585 706 736\" data-label=\"Text\"><p><b>Danzig, Postgasse 3/4</b></p></div><div data-bbox=\"292 787 691 940\" data-label=\"Text\"><p><b>Fernsprecher: 243 91</b></p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"369 50 614 204\" data-label=\"Text\"><p><b>Restaurant</b></p></div><div data-bbox=\"208 270 775 555\" data-label=\"Text\"><p><b>„Zur Hütte“</b></p></div><div data-bbox=\"189 563 783 710\" data-label=\"Text\"><p><b>Neufahrwasser, Olivaer Str. 82</b></p></div><div data-bbox=\"288 761 692 917\" data-label=\"Text\"><p><b>Fernsprecher : 352 28</b></p></div>",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"30 36 988 335\" data-label=\"Text\"><p><b>23565 Mampe-Berlin, Gaststätte, „Zum Elefanten“,<br/>Stadtgraben 12</b></p></div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"777 777 995 933\" data-label=\"Text\"><p><b>1985.</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Dessau.",
+        "entries": []
+      },
+      {
+        "region_name": "Diepholz (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dietfurt (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Dirschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dittersbach (b. Halbstadt) [Sudet.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"84 0 998 986\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>15020</td>\n<td>„Air-Bayern“, Bayerische Gaststätten,<br/>P. Freiberg, A 1, Wiener Platz 7</td>\n</tr>\n<tr>\n<td>16843</td>\n<td rowspan=\"2\">„Alte Mühle“, Gaststätte<br/>Inhaberin: Anna Misselwitz,<br/>A 1, Freiberger Platz 2</td>\n</tr>\n<tr>\n<td>13006</td>\n</tr>\n<tr>\n<td>22861</td>\n<td rowspan=\"2\">Barberina und Weindorf, Gustav Mühl-<br/>bach's Erben, A 1, Reitbahnstraße 37</td>\n</tr>\n<tr>\n<td>23774</td>\n</tr>\n<tr>\n<td>22931</td>\n<td>Gewerbehaus-Gaststätte, Max Lorenz,<br/>Dresden A 1, Ostra-Allee 13</td>\n</tr>\n<tr>\n<td>68141</td>\n<td>Hotel Flughafen, Gaststätte, M. Thomas,<br/>Dresden-Flughafen</td>\n</tr>\n<tr>\n<td>19675</td>\n<td rowspan=\"4\"><b>Italienisches Dörfchen</b></td>\n</tr>\n<tr>\n<td>19674</td>\n</tr>\n<tr>\n<td>37430</td>\n</tr>\n<tr>\n<td>38630</td>\n</tr>\n<tr>\n<td>17040</td>\n<td>Inh. Heinz Beyer, A 1, Adolf-Hitler-Platz 3<br/>„Luisenhof“ Restaurant, C. Albin Voigt,<br/>-Bad Weißer Hirsch, Bergbahnstr. 8<br/>Pschorr Bräu-Gaststätten, Besitzer: Kurt<br/>Hellmich, Dresden A 1, Schreiber-<br/>gasse 17–21</td>\n</tr>\n<tr>\n<td>31109</td>\n<td>„Schandauer Hof“, Restaurant, Inh.:<br/>Paul Hillmann, A 19, Schandauer Str. 10</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"72 0 987 97\" data-label=\"Text\"><p><b>31143 Hauptbahnhofsgaststätte, Inh. Fritz Min-</b><br/><b>dermann, Duisburg</b></p></div><div data-bbox=\"14 116 603 190\" data-label=\"Text\"><p><b>Ebenrode (Östpr.).</b></p></div><div data-bbox=\"113 187 986 286\" data-label=\"Text\"><p><b>326 Hotel „Berliner Hof“, Bes.: Aug. Weih-</b><br/><b>nacht, Ebenrode, Hindenburgstraße 3</b></p></div><div data-bbox=\"12 319 752 387\" data-label=\"Text\"><p><b>Ebrach (Oberfranken).</b></p></div><div data-bbox=\"153 384 986 529\" data-label=\"Text\"><p><b>2 Willz, Philipp, Gaststätte u. Klosterbräu-</b><br/><b>Brauerei, Fremdenzimmer mit fließend.</b><br/><b>Wasser u. Heizung, Garage</b></p></div><div data-bbox=\"12 557 837 625\" data-label=\"Text\"><p><b>Eckartsau (Niederdonau).</b></p></div><div data-bbox=\"155 621 860 701\" data-label=\"Text\"><p><b>3 Anna Thaller</b></p></div><div data-bbox=\"198 716 921 767\" data-label=\"Text\"><p><b>Gaststätte, Eckartsau (N.-D.) Nr. 17</b></p></div><div data-bbox=\"12 780 319 836\" data-label=\"Text\"><p><b>Eisenach.</b></p></div><div data-bbox=\"90 867 183 910\" data-label=\"Text\"><p><b>2078</b></p></div><div data-bbox=\"302 840 870 941\" data-label=\"Text\"><p><b>Hans Schilling</b></p></div><div data-bbox=\"331 939 833 987\" data-label=\"Text\"><p><b>Hauptbahnhofsgaststätten</b></p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Limshorn.",
+        "entries": []
+      },
+      {
+        "region_name": "Elsenborn (Kr. Malmedy) [Rheinprov.].",
+        "entries": []
+      },
+      {
+        "region_name": "Engelsdorf (Kr. Malmedy).",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Feldkirch (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Ferlach (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Göttingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gotenhafen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"485 25 495 45\" data-label=\"Page-Header\">\n<p>7</p>\n</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

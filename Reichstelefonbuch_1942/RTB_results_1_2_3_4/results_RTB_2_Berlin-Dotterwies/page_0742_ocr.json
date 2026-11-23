@@ -1,0 +1,991 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "722",
+            "text": "(Band II) Berlin: Stell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "August Stelling",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"271 3 998 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>75 86 94</td>\n<td>Stelling, Harald, Dip.Kfm.,</td>\n<td><i>Temp</i> Frdr.-Wilhelm-Str. 85</td>\n</tr>\n<tr>\n<td>46 20 09</td>\n<td>Stelling, M., Eigent.,</td>\n<td>N 65, Müllerstr. 55a</td>\n</tr>\n<tr>\n<td>34 86 60</td>\n<td>Stellmach, A., Ing.,</td>\n<td><i>Siem</i> Schwiebertw. 30</td>\n</tr>\n<tr>\n<td>58 72 28</td>\n<td>Stellmach, Erich, O</td>\n<td>112, Mirbachstr. 28</td>\n</tr>\n<tr>\n<td>57 22 60</td>\n<td>Stellmach, Max, Restaur.,</td>\n<td>O 17, Münchebergerstr. 16</td>\n</tr>\n<tr>\n<td>37 14 41</td>\n<td>Stellmacher, Dr. E.,</td>\n<td>Tierarzt, <i>Spd</i> Lindenufer 29</td>\n</tr>\n<tr>\n<td>27 08 58</td>\n<td>Stellmacher, E., Musik.,</td>\n<td>W 30, Schwäb. Straße 17</td>\n</tr>\n<tr>\n<td>45 19 61</td>\n<td>E. u. B. Stellmacher,</td>\n<td>Klempn., N 54, Zionskirchstr. 52</td>\n</tr>\n<tr>\n<td>24 71 54</td>\n<td>Stellmacher, Erna,</td>\n<td>W 62, Keithstr. 16</td>\n</tr>\n<tr>\n<td>89 69 62</td>\n<td>Stellmacher, Franz,</td>\n<td>Amtsrat, <i>Smgd</i> Doberaner Str. 6</td>\n</tr>\n<tr>\n<td>25.56 29</td>\n<td>Stellmacher, F.,</td>\n<td>Elektrotechn., W 30, Motzstraße 61</td>\n</tr>\n<tr>\n<td>86 54 06</td>\n<td>Stellmacher, F., Ing.,</td>\n<td><i>Wilm</i> Stenzelstr. 20</td>\n</tr>\n<tr>\n<td>21 25 60</td>\n<td>Stellmacher, G., Feink.,</td>\n<td>W 35, Lützowstr. 56</td>\n</tr>\n<tr>\n<td>51 36 86</td>\n<td>Stellmacher, Hans,</td>\n<td>Cafébes., C 2, Neue Königsstr. 42</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"270 0 997 982\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>00 42 82</td>\n<td>Stellmacher, Hans, Bauziehlr., SW 01, Delle-Alliance-Str. 89</td>\n</tr>\n<tr>\n<td>84 14 33</td>\n<td>Stellmacher, H., Dachd., <i>Schlsee</i> Stöck.Z. 2</td>\n</tr>\n<tr>\n<td>93 49 52</td>\n<td>Stellmacher, H., Kfm., <i>Chb</i> 5 Philippistr. 9</td>\n</tr>\n<tr>\n<td>68 20 01</td>\n<td>Stellmacher, Ida, Ztg., SO 36, Felsend. 25</td>\n</tr>\n<tr>\n<td>70 96 33</td>\n<td>Stellmacher, Ida, <i>Ltra</i> Wünsd. Str. 94</td>\n</tr>\n<tr>\n<td>60 79 10</td>\n<td>Stellmacher, Johann, Ing., Britz, Hanne-Nüte 66</td>\n</tr>\n<tr>\n<td>71 38 69</td>\n<td>Stellmacher, J., Seifen, <i>Schb</i> Bahnstr. 42</td>\n</tr>\n<tr>\n<td>71 86 68</td>\n<td>Stellmacher, Karl, Angest., <i>Schb</i> Cheruskerstr. 15</td>\n</tr>\n<tr>\n<td>64 01 42</td>\n<td>Stellmacher, Martha, <i>Wilhg</i> Fahlenb.Str.19</td>\n</tr>\n<tr>\n<td>58 50 60</td>\n<td>Stellmacher, M., Ing., O34, Grünb.Str.27</td>\n</tr>\n<tr>\n<td>(26 08 33)</td>\n<td>Stellmacher, Paul, Steuerb., W 30, Freisinger Str. 18</td>\n</tr>\n<tr>\n<td>79 47 13</td>\n<td>Stellmacher, Paul, Ausbildung.Leiter, <i>Stegl</i> Markelstr. 41</td>\n</tr>\n<tr>\n<td>46 39 32</td>\n<td>Stellmacher, P., Kfm., N 65, Liverp. Str. 2</td>\n</tr>\n<tr>\n<td>39 34 53</td>\n<td>Stellmacher, Susanne, NW 87, Kuxhavener Str. 13</td>\n</tr>\n<tr>\n<td>84 01 74</td>\n<td>Stellmacher, W., Kfm., <i>Schlsee</i> Stöckerz. 6</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "84",
+            "text": "46"
+          },
+          {
+            "extension": "47",
+            "text": "24"
+          },
+          {
+            "extension": "88",
+            "text": "14"
+          },
+          {
+            "extension": "16",
+            "text": "34"
+          },
+          {
+            "extension": "71",
+            "text": "84"
+          },
+          {
+            "extension": "71",
+            "text": "53"
+          },
+          {
+            "extension": "97",
+            "text": "15"
+          },
+          {
+            "extension": "48",
+            "text": "10"
+          },
+          {
+            "extension": "48",
+            "text": "14"
+          },
+          {
+            "extension": "58",
+            "text": "10"
+          },
+          {
+            "extension": "58",
+            "text": "16"
+          },
+          {
+            "extension": "71",
+            "text": "80"
+          },
+          {
+            "extension": "46",
+            "text": "06"
+          },
+          {
+            "extension": "46",
+            "text": "05"
+          },
+          {
+            "extension": "78",
+            "text": "27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"266 0 998 990\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>02 19 40</td>\n<td>Stelter, Hausmstr., Cz Dircksensur. 31</td>\n</tr>\n<tr>\n<td>44 74 08</td>\n<td>Stelter, A., Butter, N 20, Bornh. Str. 50</td>\n</tr>\n<tr>\n<td>44 05 06</td>\n<td>Stelter, Anna, Gastw., N 58, Starg. Str. 10</td>\n</tr>\n<tr>\n<td>24 79 50</td>\n<td>Stelter, Anna, Telefonistin, W 50, Passauer Str. 35</td>\n</tr>\n<tr>\n<td>19 14 47</td>\n<td>Stelter, Anni, SW 11, Saarlandstr. 31</td>\n</tr>\n<tr>\n<td>79 72 58</td>\n<td>Stelter, Anni, Ww., <i>Stegl</i> Zimmerm.-Str. 12</td>\n</tr>\n<tr>\n<td>68 71 52</td>\n<td>Stelter, Bruno, SO 36, Grünauer Str. 10</td>\n</tr>\n<tr>\n<td>55 30 88</td>\n<td>Stelter, Eduard, Revisor, <i>Lbg</i> Rüdigerstr. 80</td>\n</tr>\n<tr>\n<td>63 41 48</td>\n<td>Stelter, Erich, Lebensm., <i>Obw</i> Irmhildstr. 4</td>\n</tr>\n<tr>\n<td>50 40 97</td>\n<td>Stelter, Erich, Milch, <i>Hschö</i> Hoh. Str. 101</td>\n</tr>\n<tr>\n<td>63 10 65</td>\n<td>Stelter, Erna, Kunstst., <i>Bschw</i> Stromstr. 1</td>\n</tr>\n<tr>\n<td>48 50 92</td>\n<td>Stelter, E., <i>Pko</i> Damerowstr. 49</td>\n</tr>\n<tr>\n<td>50 09 22</td>\n<td>Stelter, Friedel, <i>Krlsh</i> Rheingoldstr. 2</td>\n</tr>\n<tr>\n<td>34 08 77</td>\n<td>Stelter, Fritz, Ing., <i>Siem</i> Harriesstr. 14</td>\n</tr>\n<tr>\n<td>89 65 06</td>\n<td>Stelter, Fritz, Insp., <i>Smgd</i> Tölzer Str. 18</td>\n</tr>\n<tr>\n<td>64 72 53</td>\n<td>Stelter, Georg, <i>Frhg</i> Am Damm 30</td>\n</tr>\n<tr>\n<td>24 48 55</td>\n<td>Stelter, G., Zigarren, W 50, Augsb. Str. 50</td>\n</tr>\n<tr>\n<td>88 28 95</td>\n<td>Stelter, Hedwig, <i>Wilm</i> Landauer Str. 9</td>\n</tr>\n<tr>\n<td>21 35 81</td>\n<td>Stelter, H., Gastw., W 35, Lützowufer 14</td>\n</tr>\n<tr>\n<td>89 03 03</td>\n<td>Stelter, Joachim, Kfm., <i>Grw</i> Königsallee 34</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "34",
+            "text": "05"
+          },
+          {
+            "extension": "46",
+            "text": "84"
+          },
+          {
+            "extension": "30",
+            "text": "94"
+          },
+          {
+            "extension": "25",
+            "text": "18"
+          },
+          {
+            "extension": "80",
+            "text": "81"
+          },
+          {
+            "extension": "62",
+            "text": "75"
+          },
+          {
+            "extension": "92",
+            "text": "06"
+          },
+          {
+            "extension": "55",
+            "text": "02"
+          },
+          {
+            "extension": "50",
+            "text": "98"
+          },
+          {
+            "extension": "30",
+            "text": "40"
+          },
+          {
+            "extension": "62",
+            "text": "61"
+          },
+          {
+            "extension": "35",
+            "text": "30"
+          },
+          {
+            "extension": "59",
+            "text": "08"
+          },
+          {
+            "extension": "58",
+            "text": "54"
+          },
+          {
+            "extension": "66",
+            "text": "23"
+          },
+          {
+            "extension": "61",
+            "text": "28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"264 11 992 605\" data-label=\"Text\"><table><tbody><tr><td>59 44 02</td><td>Steltner, G.,</td><td>O 34, Petersburger Str. 43</td></tr><tr><td>17 06 26</td><td>Steltner, K.,</td><td>Kranzb., SW 68, Lindenstr. 97</td></tr><tr><td>39 89 54</td><td>Steltner, Kurt,</td><td>Landw., NW 21, Alt<br/>Moabit 89</td></tr><tr><td>34 88 37</td><td>Steltzner, Gg.,</td><td>Restaur., Chb 1 Röntgenstr. 6</td></tr><tr><td>48 35 57</td><td>Steltzner, O.,</td><td>Ing., Ndschha Walhallastr. 28</td></tr><tr><td>50 83 87</td><td>Steltzner, Walter,</td><td>Revisor, Ksd Hellers-<br/>dorfer Str. 10</td></tr><tr><td>49 53 15</td><td>Stelz, F.,</td><td>Autofuhrw., Rei-O, Provinzstr. 15</td></tr><tr><td>31 91 58</td><td>Stelz, Karl,</td><td>Kfm., Chb 4 Kantstr. 128</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "ng -- Stenzel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "48",
+            "text": "14"
+          },
+          {
+            "extension": "87",
+            "text": "79"
+          },
+          {
+            "extension": "53",
+            "text": "59"
+          },
+          {
+            "extension": "75",
+            "text": "29"
+          },
+          {
+            "extension": "44",
+            "text": "88"
+          },
+          {
+            "extension": "48",
+            "text": "15"
+          },
+          {
+            "extension": "64",
+            "text": "09"
+          },
+          {
+            "extension": "68",
+            "text": "72"
+          },
+          {
+            "extension": "68",
+            "text": "28"
+          },
+          {
+            "extension": "42",
+            "text": "29"
+          },
+          {
+            "extension": "30",
+            "text": "36"
+          },
+          {
+            "extension": "92",
+            "text": "12"
+          },
+          {
+            "extension": "42",
+            "text": "75"
+          },
+          {
+            "extension": "30",
+            "text": "49"
+          },
+          {
+            "extension": "61",
+            "text": "33"
+          },
+          {
+            "extension": "30",
+            "text": "42"
+          },
+          {
+            "extension": "68",
+            "text": "71"
+          },
+          {
+            "extension": "24",
+            "text": "09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>89 05 07</td>\n<td>Stelzer, P.,</td>\n<td>Steuerrat, Gro Hohenz.D. 137</td>\n</tr>\n<tr>\n<td>55 22 03</td>\n<td>Stelzer, R.,</td>\n<td>Schmiede, Lbg Ruscheastr. 1</td>\n</tr>\n<tr>\n<td>68 56 76</td>\n<td>Stelzer, Dr. Willibald,</td>\n<td>Rekt., SO 36,<br/>Skalitzer Str. 55</td>\n</tr>\n<tr>\n<td>62 13 53</td>\n<td>Stelzig, Gerda,</td>\n<td>Neuk Emser Str. 4</td>\n</tr>\n<tr>\n<td>59 07 19</td>\n<td>Stelzig, M.,</td>\n<td>Schuhm.-Bedarfsart., O 34,<br/>Zorndorfer Str. 7</td>\n</tr>\n<tr>\n<td><b>12 10 52</b></td>\n<td><b>Paul Stelzmann</b></td>\n<td><b>Wirkwaren-Fabriken A.-G.,<br/>W 8, Haus Friedrichstadt</b></td>\n</tr>\n<tr>\n<td>35 29 84</td>\n<td>Stelzner, A.,</td>\n<td>Tabakwr., NW 87, Turmstr 60</td>\n</tr>\n<tr>\n<td>42 47 66</td>\n<td>Ders.,</td>\n<td>Wohnung, Invalidenstr. 14</td>\n</tr>\n<tr>\n<td>19 36 66</td>\n<td>Stelzner, A.,</td>\n<td>Obst, SW11, Anhalter Str. 11</td>\n</tr>\n<tr>\n<td>61 31 87</td>\n<td>Stelzner, Ferdinand,</td>\n<td>Metallwr., SO 36,<br/>Skalitzer Str. 10</td>\n</tr>\n<tr>\n<td>58 39 50</td>\n<td>Stelzner, Frieda,</td>\n<td>O 17, Hohenloheastr. 13</td>\n</tr>\n<tr>\n<td>84 62 17</td>\n<td>Stelzner, Dr. K.,</td>\n<td>Landger.-Dir., <i>Zehl</i><br/>Onkel-Tom-Str. 64</td>\n</tr>\n<tr>\n<td>24 53 47</td>\n<td>Stelzner, Marie,</td>\n<td>W 50, Prager Str. 11</td>\n</tr>\n<tr>\n<td>34 28 08</td>\n<td>Stelzner, Marta,</td>\n<td>Mittagstisch, <i>Chb 1</i> Minde-<br/>ner Str. 7</td>\n</tr>\n<tr>\n<td>59 48 34</td>\n<td>Stelzner, P.,</td>\n<td>Maler, C2, Blumenstr. 77</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "44",
+            "text": "33"
+          },
+          {
+            "extension": "17",
+            "text": "04"
+          },
+          {
+            "extension": "44",
+            "text": "63"
+          },
+          {
+            "extension": "86",
+            "text": "68"
+          },
+          {
+            "extension": "63",
+            "text": "26"
+          },
+          {
+            "extension": "47",
+            "text": "08"
+          },
+          {
+            "extension": "68",
+            "text": "49"
+          },
+          {
+            "extension": "73",
+            "text": "87"
+          },
+          {
+            "extension": "62",
+            "text": "60"
+          },
+          {
+            "extension": "46",
+            "text": "53"
+          },
+          {
+            "extension": "37",
+            "text": "24"
+          },
+          {
+            "extension": "31",
+            "text": "60"
+          },
+          {
+            "extension": "46",
+            "text": "33"
+          },
+          {
+            "extension": "86",
+            "text": "35"
+          },
+          {
+            "extension": "22",
+            "text": "60"
+          },
+          {
+            "extension": "11",
+            "text": "31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>71 71 58</td>\n<td>Stemmlinger, W., Kfm., <i>Schö</i> Bay. Platz 10</td>\n</tr>\n<tr>\n<td>45 04 59</td>\n<td>Stemmler, A., Ing., N 113, Wisb. Str. 59</td>\n</tr>\n<tr>\n<td>89 71 19</td>\n<td>Stemmler, Hans, <i>Grw</i> Cunostr. 59</td>\n</tr>\n<tr>\n<td>22 04 76</td>\n<td>Stemmler, M., Kfm., W 35, Kurf. Str. 3</td>\n</tr>\n<tr>\n<td>59 10 00</td>\n<td>Stemmler, Dr. P. J., Zahnarzt, C 2, Blumenstraße 5</td>\n</tr>\n<tr>\n<td>79 25 86</td>\n<td>Stemmler, R., Musik., <i>Stegl</i> Liliencr. Str. 1</td>\n</tr>\n<tr>\n<td>71 54 67</td>\n<td>Stemmler, W., Univ., <i>Schö</i> Bahnstr. 42</td>\n</tr>\n<tr>\n<td>65 90 64</td>\n<td>Stemmler, Willi, Schriftst., <i>Schmö</i> Miersdorfer Str. 19</td>\n</tr>\n<tr>\n<td>83 02 45</td>\n<td>Stempa, J., Weine, <i>Frdn</i> Südwestk. 17</td>\n</tr>\n<tr>\n<td>84 94 82</td>\n<td>Stempel, Major, <i>Zehl</i> Zinsw. Weg 2</td>\n</tr>\n<tr>\n<td>68 85 56</td>\n<td>Stempel, Alfons, Ob. Schullehrer, SO 36, Grünauer Str. 6</td>\n</tr>\n<tr>\n<td>73 54 06</td>\n<td>Stempel, Alfred, <i>Lko</i> Mühlenstr. 34</td>\n</tr>\n<tr>\n<td>88 60 66</td>\n<td>v. Stempel, Amanda, <i>Frdn</i> Rönneb. Str. 14</td>\n</tr>\n<tr>\n<td>41 45 43</td>\n<td>Stempel, C. E., Kaffee-Großöst., C 2, An der Spandauer Brücke 6</td>\n</tr>\n<tr>\n<td>42 23 41</td>\n<td>D. Stempel AG. Schriftgieß., N 4, Chausseestr. 25</td>\n</tr>\n<tr>\n<td>44 72 63</td>\n<td>Stempel, E., Schausp., N 113, Wichertstr. 19</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "46",
+            "text": "76"
+          },
+          {
+            "extension": "12",
+            "text": "56"
+          },
+          {
+            "extension": "25",
+            "text": "59"
+          },
+          {
+            "extension": "66",
+            "text": "14"
+          },
+          {
+            "extension": "31",
+            "text": "79"
+          },
+          {
+            "extension": "45",
+            "text": "26"
+          },
+          {
+            "extension": "22",
+            "text": "51"
+          },
+          {
+            "extension": "73",
+            "text": "81"
+          },
+          {
+            "extension": "59",
+            "text": "09"
+          },
+          {
+            "extension": "11",
+            "text": "45"
+          },
+          {
+            "extension": "61",
+            "text": "27"
+          },
+          {
+            "extension": "96",
+            "text": "03"
+          },
+          {
+            "extension": "41",
+            "text": "12"
+          },
+          {
+            "extension": "41",
+            "text": "15"
+          },
+          {
+            "extension": "34",
+            "text": "72"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "56",
+            "text": "36"
+          },
+          {
+            "extension": "59",
+            "text": "23"
+          },
+          {
+            "extension": "24",
+            "text": "75"
+          },
+          {
+            "extension": "83",
+            "text": "16"
+          },
+          {
+            "extension": "27",
+            "text": "41"
+          },
+          {
+            "extension": "73",
+            "text": "58"
+          },
+          {
+            "extension": "80",
+            "text": "77"
+          },
+          {
+            "extension": "27",
+            "text": "03"
+          },
+          {
+            "extension": "73",
+            "text": "12"
+          },
+          {
+            "extension": "50",
+            "text": "46"
+          },
+          {
+            "extension": "45",
+            "text": "05"
+          },
+          {
+            "extension": "39",
+            "text": "20"
+          },
+          {
+            "extension": "84",
+            "text": "89"
+          },
+          {
+            "extension": "39",
+            "text": "40"
+          },
+          {
+            "extension": "73",
+            "text": "35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "■",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Erläuter",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "41",
+            "text": "17"
+          },
+          {
+            "extension": "64",
+            "text": "62"
+          },
+          {
+            "extension": "86",
+            "text": "58"
+          },
+          {
+            "extension": "52",
+            "text": "46"
+          },
+          {
+            "extension": "30",
+            "text": "23"
+          },
+          {
+            "extension": "72",
+            "text": "49"
+          },
+          {
+            "extension": "37",
+            "text": "12"
+          },
+          {
+            "extension": "67",
+            "text": "43"
+          },
+          {
+            "extension": "97",
+            "text": "16"
+          },
+          {
+            "extension": "44",
+            "text": "63"
+          },
+          {
+            "extension": "55",
+            "text": "20"
+          },
+          {
+            "extension": "91",
+            "text": "61"
+          },
+          {
+            "extension": "88",
+            "text": "64"
+          },
+          {
+            "extension": "30",
+            "text": "80"
+          },
+          {
+            "extension": "88",
+            "text": "60"
+          },
+          {
+            "extension": "86",
+            "text": "17"
+          },
+          {
+            "extension": "35",
+            "text": "40"
+          },
+          {
+            "extension": "24",
+            "text": "00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 988\" data-label=\"Table\"><table><tr><td>41 52 01</td><td>Stender, Liesb., Textwr., U2, Klosterstr. 100</td></tr><tr><td>41 25 75</td><td>Ders., Wohn., C 2, A. d. Spand. Brücke 7</td></tr><tr><td>24 52 75</td><td>Stender, M., Zigarren, W 50, Prager Str. 4</td></tr><tr><td>84 74 23</td><td>O. Stender u. O. Röck, Tischl., <i>Zehl</i><br/>Potsdamer Str. 40</td></tr><tr><td>88 09 17</td><td>Stender, Verena, Mass., <i>Frda</i> Off. Str. 28</td></tr><tr><td>34 37 54</td><td>Stender, Dr.W..Ing., <i>Chb1</i> K.-Frdr.-Str. 103</td></tr><tr><td>41 76 43</td><td>Stender, W., Elektr. Anl., N 54, Linien-<br/>straße 43</td></tr><tr><td>44 56 20</td><td>Stendke, K., Klempn., NO 55, Weißenb.<br/>Straße 64</td></tr><tr><td>67 51 30</td><td>Stendler, H., Bildh., SW 68, Prinzenstr. 79</td></tr><tr><td>41 44 45</td><td>Eberh. u. Ursula Steneberg, Graphik,<br/>NW 7, Marienstr. 5</td></tr><tr><td>71 78 28</td><td>Steneberg, W., Redakt., <i>Schb</i> M.-Luther-<br/>Straße 42</td></tr><tr><td>45 31 74</td><td>Stengel, A., Fleischwr., N 58, Kopenh. Str. 74</td></tr><tr><td>53 52 21</td><td>Stengel, Agnes, Logierhaus, C 2, Neue<br/>Königstr. 26</td></tr><tr><td>68 73 19</td><td>Stengel, A., Bäck., SO 36, Liegn. Str. 7/8</td></tr><tr><td>45 20 68</td><td>Stengel, A., Malerei, N 58, Senef. Str. 3</td></tr></table></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>85 10 68</td>\n<td>Stengel, Dr. E., Prof., <i>Zehl</i> Bogenstr. 12</td>\n</tr>\n<tr>\n<td>52 14 37</td>\n<td>Stengel, E., Hektogr., O 2, Brüderstr. 14</td>\n</tr>\n<tr>\n<td>91 42 45</td>\n<td>v. Stengel, Frfr., Elis., Gesch.-Führ., W 15,<br/>Kurfürstendamm 205</td>\n</tr>\n<tr>\n<td>86 55 16</td>\n<td>Stengel, Elisabeth, Lehr., <i>Wilm</i> Güntzel-<br/>straße 49</td>\n</tr>\n<tr>\n<td>59 25 34</td>\n<td>Stengel, E., Vertr., NO 55, Woldenb. Str. 23</td>\n</tr>\n<tr>\n<td>85 24 83</td>\n<td>Stengel, Franz, Gartengest., <i>Zehl</i> Beeren-<br/>straße 1 2</td>\n</tr>\n<tr>\n<td>77 22 05</td>\n<td>Stengel, Fritz, Kfm., <i>Frdn</i> Vorarlb. D. 18</td>\n</tr>\n<tr>\n<td>73 05 48</td>\n<td>Stengel, Fritz, Gastwirt, <i>Lkw</i> Kaiser-Wil-<br/>helm-Str. 53</td>\n</tr>\n<tr>\n<td>70 91 61</td>\n<td>Stengel, G., Gastw., Kleinziethen, Dorfstr. 2</td>\n</tr>\n<tr>\n<td>64 08 87</td>\n<td>Stengel, H., Vertr., <i>Köp</i> Heidekr.-Str. 50</td>\n</tr>\n<tr>\n<td>55 23 06</td>\n<td>Stengel, Hch., Zigarr., <i>Rmb</i> Nowackstr. 42</td>\n</tr>\n<tr>\n<td>68 81 03</td>\n<td>Stengel, Hellmuth, Angest., SO 36, Wil-<br/>denbruchstr. 70</td>\n</tr>\n<tr>\n<td>34 45 94</td>\n<td>Stengel, H., Graphik., <i>Chb</i> 1 Kirchstr. 1</td>\n</tr>\n<tr>\n<td>89 11 07</td>\n<td>Stengel, H., Hofrat, <i>Grw</i> Hohenz.-D. 61</td>\n</tr>\n<tr>\n<td>58 55 42</td>\n<td>Stengel, Ida, Konf., O 34, Boxh. Str. 130</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "borner Str. 2",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 988\" data-label=\"Table\"><table><tr><td>22 76 01</td><td>Ders., Kanzl., W 35, v.-Koester-Ufer 65</td></tr><tr><td>86 23 68</td><td>Stenger, Luise, <i>Wilm</i> Hindenb.Str. 87</td></tr><tr><td>24 72 37</td><td>Stenger, Oskar, Theaterausst., W50, Prager<br/>Straße 27</td></tr><tr><td>99 37 21</td><td>Stenger, W., Ing., <i>Chb</i> 9 Bayernallee 14</td></tr><tr><td>16 74 27</td><td><b>Stenger &amp; Becker, Uniformen-Besatz u.<br/>Mützentuche, W 8, Mohrenstr. 29/30</b></td></tr><tr><td>34 29 40</td><td>Stengert, A., Kohlen, <i>Chb</i> 1 Schulstr. 11</td></tr><tr><td>75 35 86</td><td>Stengert, C., Ing., <i>Tmp</i> Konr.-Str. 23</td></tr><tr><td>39 69 22</td><td>Stengert, Ferdinand, D.-Bekleid., NW 87,<br/>Jagowstr. 35</td></tr><tr><td>71 06 86</td><td>Stengert, Hildegard, <i>Frdn</i> GrazerDamm 112</td></tr><tr><td>41 52 72</td><td>Stengert, J. Dachd., N 31, Ackerstr. 119</td></tr><tr><td>68 32 60</td><td>Stengert, Ottilie, Milch, SO 36, Görlitzer<br/>Straße 39</td></tr><tr><td>86 63 89</td><td>Stengert, Otto, Milch, <i>Wilm</i> Weg Str. 6/7</td></tr><tr><td>84 74 15</td><td>Stengl, W., Maler, <i>KiMa</i> Fontanestr. 20</td></tr><tr><td>93 42 60</td><td>Stengler, Albert, <i>Chb</i> 5 Riehlstr. 11</td></tr><tr><td>59 52 45</td><td>Stengler, E., Matratzen, NO18, Weberstr. 52</td></tr><tr><td>93 07 80</td><td>v. Stenglin, Frhr. Eberh., Kfm., <i>Chb</i> 9</td></tr></table></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 14 991 958\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>92 40 14</td>\n<td>v. Stenglin, Ruth, Frfr., W15, Uhlandstr. 52</td>\n</tr>\n<tr>\n<td>35 19 23</td>\n<td>Stenqritt, A., Auto, NW21, Turnstr. 41</td>\n</tr>\n<tr>\n<td>87 36 73</td>\n<td>Stenicka, A., Holz, <i>Wilm</i> Paretzer Str. 6</td>\n</tr>\n<tr>\n<td>84 30 35</td>\n<td>Ders., Wohn., <i>Zehl</i> Hartmannsw. Weg 19</td>\n</tr>\n<tr>\n<td>91 02 93</td>\n<td>Stenig, Dr. Paul, R.-A., W 15, Schlüter-<br/>straße 45</td>\n</tr>\n<tr>\n<td>53 52 78</td>\n<td>Stenke, Rich., Zig., NO 18, Friedenstr. 8</td>\n</tr>\n<tr>\n<td>69 07 47</td>\n<td>Stenkiewicz, F., Fuhrw., SW29, Fürbr. Str. 17</td>\n</tr>\n<tr>\n<td>75 38 33</td>\n<td>Stenner, Wilh., Kfm., <i>Temp</i> Privatstr. 4</td>\n</tr>\n<tr>\n<td>47 24 08</td>\n<td>Stennke, E., Tabakwr., <i>Fro</i> Dinkelsb. St. 16</td>\n</tr>\n<tr>\n<td>(75 82 74)</td>\n<td>Stenografenschaft eV., Deutsche, Ortsgr.<br/>Tiedt, (Köln. Gymn.)</td>\n</tr>\n<tr>\n<td>79 49 95</td>\n<td>Stenographenschaft, Deutsche, <i>Stegl</i> Schön-<br/>hauser Str. 17</td>\n</tr>\n<tr>\n<td>31 09 29</td>\n<td>Stenogr. Büro, Carl Höhne, <i>Chb</i> 2 Grolman-<br/>straße 51</td>\n</tr>\n<tr>\n<td>31 08 72</td>\n<td>Stenogr. Büro, Ew. Heinrich, <i>Chb</i> 4 Kai-<br/>ser-Friedrich-Str. 59</td>\n</tr>\n<tr>\n<td>66 93 45</td>\n<td>Stenokurse, Dr. Scheer, SW 29, Gneisenau-<br/>straße 15</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "ng der Orts- und Vorortsabkürzungen und",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 772 985\" data-label=\"Text\"><table><tbody><tr><td>61 29 39</td><td>Stenschke, Alfred, Pufferbäck., SW 68,<br/>Prinzenstr. 44</td></tr><tr><td>75 42 55</td><td>Stenschke, Erich, Buchhalter, Md An-<br/>kugelweg 8</td></tr><tr><td>34 59 63</td><td>Stenschke, E., Rest., Chb 1 K.Frdr.Str. 89</td></tr><tr><td>75 03 70</td><td>Stenschke, E., Fris., Süd Stegl. Str. 28</td></tr><tr><td>42 84 06</td><td>Stenschke, Georg, Buchdr., C 2, N. Schön-<br/>hauser Str. 16</td></tr><tr><td>75 48 32</td><td>Stenschke, Herb., Obst, Süd Stegl. Str. 28</td></tr><tr><td>87 51 82</td><td>Stenschke, H., Kol.-W., Wilm Kaiserpl. 16</td></tr><tr><td>71 85 18</td><td>Stenschke, Karl, Schb Ap.-Paulus-Str. 31</td></tr><tr><td>25 82 41</td><td>Stenschke, Dr. Karl Heinz, Reg.Rat, W 62,<br/>Burggrafenstr. 15</td></tr><tr><td>34 73 92</td><td>Stenschke, M., Blumen, Chb 1 K.-Frdr.-Str. 19</td></tr><tr><td>24 27 61</td><td>Stenschke, Marta, Pens., W 50, Augsb. Str. 31</td></tr><tr><td>45 01 65</td><td>Stenschke, M., Kartoff., N 58, Nordbhf.,<br/>Bernauer Str. 51</td></tr><tr><td>50 76 13</td><td>Stensitz, Emil, Marzahn Eiche Süd, Lands-<br/>berger Chaussee 13</td></tr><tr><td>19 79 61</td><td>Stensitz, Hildeg., Fris., SW 61, B. All. Pl. 17</td></tr><tr><td>58 20 49</td><td>Stensitzki, Otto, O 17, Rochowstr. 14</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 773 993\" data-label=\"Table\"><table><tr><td>91 27 33</td><td>Stenström, Else, W 15, Kurf.D. 178</td></tr><tr><td>24 23 85</td><td>Stenta, E., Archit., W50, Nachodstr. 22</td></tr><tr><td>17 63 35</td><td>Stentz, P., Schloss., SW68, Schützenstr.14</td></tr><tr><td>58 36 07</td><td>Stentzel, Martha, O 17, Beymestr. 15</td></tr><tr><td>84 07 59</td><td>Stentzel, R., Priv., <i>Zehl</i> Goethestr. 9</td></tr><tr><td>32 05 26</td><td>Stentzel, W. Ernst, <i>Chb</i> 2 Goethestr. 70</td></tr><tr><td>19 01 71</td><td>Stentzler, Carl, Hüttenerzeugn., SW 61,<br/>Großbeerenstr. 71</td></tr><tr><td>76 28 79</td><td>Ders., Wohn., <i>Dahl</i> Ehrenb. Str. 32</td></tr><tr><td>63 18 64</td><td>Stentzler, M., Archit., <i>Joh</i> Eibenweg 30</td></tr><tr><td>31 16 87</td><td>Stenull, W., Schokol., <i>Chb</i> 2 Kneseb.-Str. 20</td></tr><tr><td>26 40 31</td><td>Stenvers, Bürobed., W 30, Augsb. Str. 47</td></tr><tr><td>71 10 07</td><td>Stenvers, Fr., Konstrukt., <i>Schb</i> Hptstr. 30</td></tr><tr><td>60 15 17</td><td>Stenz, F., Grabmäl., <i>Neuk</i> Flugh. Str. 69</td></tr><tr><td>71 60 87</td><td>Stenz, Dr. H., Dir., <i>Schb</i> v. Steinstr. 10</td></tr><tr><td>75 21 92</td><td>Stenz, K., <i>Tmp</i> Mant. Str. 54</td></tr><tr><td>44 29 85</td><td>Stenz, O., D.-Bekleid., N 58, Gaudystr. 3</td></tr><tr><td>34 08 16</td><td>Stenz, Rud., Kfm., <i>Chb</i> 1 Berl. Str. 51</td></tr><tr><td>87 75 78</td><td>Stenz, Rud., *Kfm., <i>Wilm</i> Prinzer.-Str. 88</td></tr><tr><td>66 99 66</td><td>R. Stenz &amp; Co, Buchdruckmasch., SW 61,<br/>Ralla Allinense Str. 60</td></tr></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "37",
+            "text": "37"
+          },
+          {
+            "extension": "97",
+            "text": "94"
+          },
+          {
+            "extension": "44",
+            "text": "98"
+          },
+          {
+            "extension": "59",
+            "text": "26"
+          },
+          {
+            "extension": "89",
+            "text": "42"
+          },
+          {
+            "extension": "58",
+            "text": "82"
+          },
+          {
+            "extension": "60",
+            "text": "74"
+          },
+          {
+            "extension": "63",
+            "text": "17"
+          },
+          {
+            "extension": "21",
+            "text": "42"
+          },
+          {
+            "extension": "41",
+            "text": "34"
+          },
+          {
+            "extension": "44",
+            "text": "08"
+          },
+          {
+            "extension": "73",
+            "text": "05"
+          },
+          {
+            "extension": "99",
+            "text": "26"
+          },
+          {
+            "extension": "68",
+            "text": "80"
+          },
+          {
+            "extension": "89",
+            "text": "20"
+          },
+          {
+            "extension": "68",
+            "text": "77"
+          },
+          {
+            "extension": "68",
+            "text": "70"
+          },
+          {
+            "extension": "46",
+            "text": "79"
+          },
+          {
+            "extension": "53",
+            "text": "57"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "DURAU 55",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 766 955\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>34 62 52</td>\n<td>Stenzel, H., Hptm.,</td>\n<td>Chb 5 Wundtstr. 17</td>\n</tr>\n<tr>\n<td>67 07 45</td>\n<td>Stenzel, H., Kfm.,</td>\n<td>SO 16, Brückenstr. 10b</td>\n</tr>\n<tr>\n<td>53 31 82</td>\n<td>Stenzel, H., NO 18,</td>\n<td>Elbinger Str. 89</td>\n</tr>\n<tr>\n<td>62 89 20</td>\n<td>Stenzel, Johs., Pastor,</td>\n<td>Neuk Allerstr. 29</td>\n</tr>\n<tr>\n<td>42 47 41</td>\n<td>Stenzel, J., Fische,</td>\n<td>N 54, Dragonerstr. 38</td>\n</tr>\n<tr>\n<td>71 44 48</td>\n<td>Stenzel, K., Klempner,</td>\n<td>Schb Eisen. Str. 48</td>\n</tr>\n<tr>\n<td>84 62 77</td>\n<td>Stenzel, Kurt,</td>\n<td>Zehl Düppelstr. 4</td>\n</tr>\n<tr>\n<td>73 21 03</td>\n<td>Stenzel, Kurt, Kfm.,</td>\n<td>Lt/ Tropp. Str. 13</td>\n</tr>\n<tr>\n<td>89 46 69</td>\n<td>Stenzel, L., Ing., Dir.,</td>\n<td>Grw Frdr.-Str. 30</td>\n</tr>\n<tr>\n<td>71 93 21</td>\n<td>Stenzel, Lina,</td>\n<td>Schb Wartb.-Str. 29</td>\n</tr>\n<tr>\n<td>70 93 20</td>\n<td>Stenzel, Max, Schull.,</td>\n<td>Ltra Nürnbg. Str. 25</td>\n</tr>\n<tr>\n<td>72 50 72</td>\n<td>Stenzel, Max, Kunstmaler,</td>\n<td>Stegl Karl-Sticler-Str. 3</td>\n</tr>\n<tr>\n<td>37 12 82</td>\n<td>Stenzel, O., Leder,</td>\n<td>Spd C.-Schurz-Str. 23</td>\n</tr>\n<tr>\n<td>22 24 18</td>\n<td>Stenzel, O., Kap.-Mstr.,</td>\n<td>W 35, Bissingz. 16</td>\n</tr>\n<tr>\n<td>79 44 36</td>\n<td>Stenzel, O., Vertr.,</td>\n<td>Stegl Markelstr. 51</td>\n</tr>\n<tr>\n<td>58 81 79</td>\n<td>Stenzel, Otto, Kürschn.,</td>\n<td>O 34, Petersburger Str. 13</td>\n</tr>\n<tr>\n<td>41 73 56</td>\n<td>Stenzel, Paul, Wäscherei-</td>\n<td>Annahme, N 65, Liesenstr. 6</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"0 964 763 992\" data-label=\"Page-Footer\">\n<p>20 02 02    01111    N    02111    01111    01111    01111    01111    01111    01111    01111    01111</p>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 766 964\" data-label=\"Text\"><table><tbody><tr><td>60 62 97</td><td>Stenzel, P., Baug., <i>Rud</i> Sattlerstr. 2</td></tr><tr><td>62 13 42</td><td>Stenzel, P., Kohlen, <i>Neuk</i> Berth.-Str. 4</td></tr><tr><td>45 21 29</td><td>Stenzel, Paul, Fleischermstr., N 113, Carmen-Sylva-Str. 129</td></tr><tr><td>46 86 51</td><td>Stenzel, P., Malermstr., N 65, Wagnitzstr. 3</td></tr><tr><td>46 75 98</td><td>Stenzel, R., Rektor, N 65, Afrik.-Str. 33</td></tr><tr><td>71 19 94</td><td>Stenzel, Reinhard, <i>Schb</i> Salzb. Str. 11</td></tr><tr><td>46 14 47</td><td>Stenzel, Richard, Architekt, <i>Köp</i> Apelstr. 35</td></tr><tr><td>62 21 61</td><td>Stenzel, R., Vertr., <i>Neuk</i> Selchow. Str. 31</td></tr><tr><td>19 18 45</td><td>Stenzel, W., Gastw., SW 11, Möckernstraße 127</td></tr><tr><td>50 52 91</td><td>Stenzel, Walter, Fuhrw., <i>Hschö</i> Steffenstraße 6</td></tr><tr><td>84 37 38</td><td>Stenzel, W., Vertr., <i>Zehl</i> Waldh. Pfad 12</td></tr><tr><td>47 29 07</td><td>Stenzel, W., Dr. Ing., <i>Hmsd</i> Steinm. Str. 10</td></tr><tr><td>37 79 02</td><td>Stenzel, Walther, <i>Spd</i> Eschenweg 69</td></tr><tr><td>83 33 98</td><td>Stenzel, Dr. W., Kfm., <i>Wilm</i> Homb.-Str. 26</td></tr><tr><td>67 10 10</td><td>Stenzel, W., Gastw., SW 68, Dresd. Str. 49</td></tr><tr><td>30 19 89</td><td>Stenzel, W., Apoth., <i>Siem</i> Schwiegerst. 9</td></tr><tr><td>35 35 17</td><td>Stenzel, W., Kohlen, NW 40, Calvinstr. 32</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page. There are no markings, text, or figures present on the surface.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

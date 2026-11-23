@@ -1,0 +1,987 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"257 10 999 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>99 26 58</td>\n<td>Seeger, Hugo, med. Badeeinr.,</td>\n<td>Chb 9 Eber-</td>\n</tr>\n<tr>\n<td></td>\n<td>eschenallee 37</td>\n<td></td>\n</tr>\n<tr>\n<td>93 79 21</td>\n<td>Seeger, Ilse, Grw Eichkatzweg</td>\n<td>30</td>\n</tr>\n<tr>\n<td>19 10 01</td>\n<td>Seeger, J., Fris.-Einr., SW 68,</td>\n<td>Kochstr. 5</td>\n</tr>\n<tr>\n<td>80 77 26</td>\n<td>Seeger, Dr. J., Historik.,</td>\n<td>Nik Alb.Weg 2</td>\n</tr>\n<tr>\n<td>71 41 47</td>\n<td>Seeger, Josephine, Schb M.-Luther-</td>\n<td>Str. 45</td>\n</tr>\n<tr>\n<td>50 50 89</td>\n<td>Seeger, Julius, Schlächter,</td>\n<td>Hhschö Tres-</td>\n</tr>\n<tr>\n<td></td>\n<td>kowstraße 44</td>\n<td></td>\n</tr>\n<tr>\n<td>96 03 76</td>\n<td>Seeger, Jul., Kfm., Hal Küstr.</td>\n<td>Str. 2</td>\n</tr>\n<tr>\n<td>25 88 03</td>\n<td>Derselbe, Büro, W 62,</td>\n<td>Keithstr. 5</td>\n</tr>\n<tr>\n<td>73 39 98</td>\n<td>Seeger, J. O., Fbrk., Lt/ Mant.</td>\n<td>Str. 1</td>\n</tr>\n<tr>\n<td>48 20 51</td>\n<td>Seeger, K., Bandag., Pko Berl.</td>\n<td>Str. 105</td>\n</tr>\n<tr>\n<td>99 02 32</td>\n<td>Seeger, K., Angest., Chb Westendall.</td>\n<td>119</td>\n</tr>\n<tr>\n<td>62 99 96</td>\n<td>Seeger, Karl, Maler, Neuk Hohenz.-Pl.</td>\n<td>15</td>\n</tr>\n<tr>\n<td>84 58 49</td>\n<td>Seeger, Karl, Schneider, KlMn</td>\n<td>Brodberg 1</td>\n</tr>\n<tr>\n<td>75 49 23</td>\n<td>Seeger, K., Prok., Tmp Burchardstr.</td>\n<td>5</td>\n</tr>\n<tr>\n<td>84 69 12</td>\n<td>Seeger, K., NS.-Bed., Zehl</td>\n<td>Machn. Str. 11</td>\n</tr>\n<tr>\n<td>24 75 17</td>\n<td>Seeger, Lissi, W 50,</td>\n<td>Rankestr. 30</td>\n</tr>\n<tr>\n<td>64 72 98</td>\n<td>Seeger, Lothar, Min.Registr.,</td>\n<td>Frhg Müggel-</td>\n</tr>\n<tr>\n<td></td>\n<td>seedamm 259</td>\n<td></td>\n</tr>\n<tr>\n<td>71 96 87</td>\n<td>Seeger, Marg., Schb Berchtesg.</td>\n<td>Str. 17</td>\n</tr>\n<tr>\n<td>AN 21 KN</td>\n<td>Seeger Maria</td>\n<td>Rud Ruchehausmann 61</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 0 998 990\" data-label=\"Text\"><table><tbody><tr><td>34 89 93</td><td>Seeger, Martha, <i>Siem</i> Nonnend.-All. 92a</td></tr><tr><td>46 66 01</td><td>Seeger, Max, Bäck., N 65, Ravenéstr. 1</td></tr><tr><td>34 38 62</td><td>Seeger, M., Amtsrat, <i>Chb</i> Berl. Str. 154</td></tr><tr><td>55 40 88</td><td>Seeger, Max, Möbel, <i>Fr/de</i> Lütichauweg 28</td></tr><tr><td>73 32 10</td><td>Seeger, M., Vertr., <i>Lkw</i> Siemensstr. 49a</td></tr><tr><td>87 32 16</td><td>Seeger, Olga, <i>Wilm</i> Aschaffenb.Str. 23</td></tr><tr><td>84 89 39</td><td>Seeger, Olga, Konfit., <i>KlMn</i> Meierelfeld 2</td></tr><tr><td>99 23 08</td><td>Seeger, O., Refer., <i>Chb</i> 9 Eberesch.-A. 49</td></tr><tr><td>68 88 59</td><td>Seeger, Otto, Dentist, SO 36, Köp. Str. 25</td></tr><tr><td>64 66 16</td><td>Seeger, O., Krist.-Eis, <i>Frhg</i> Müggels.-D. 203</td></tr><tr><td>49 45 81</td><td>Seeger, O., Fahrr., <i>Rei-W</i> A.-Vikt.-Allee 2</td></tr><tr><td>37 69 74</td><td>Seeger, O., Klempner, <i>Spd</i> Streitstr. 63</td></tr><tr><td>52 47 58</td><td>Seeger, O., Pension, C 2, Alexanderstr. 58</td></tr><tr><td>79 20 79</td><td>Seeger, O., Schuhm., <i>Stegl</i> Schützenstr. 49</td></tr><tr><td>30 95 78</td><td>Seeger, O., Sekr., <i>Borsw</i> Ernststr. 86</td></tr><tr><td>56 09 39</td><td>Seeger, P., Treuh., <i>Weiß</i> Lehoferstr. 48</td></tr><tr><td>45 20 55</td><td>Seeger, Paul, N 113, Isländische Str. 11</td></tr><tr><td>67 29 20</td><td>Seeger, Paul, Kfm., SO 16, Schmidstr. 4</td></tr><tr><td>84 80 32</td><td>Seeger, P., Kfm., <i>Zehl</i> Machn. Busch 25</td></tr><tr><td>73 22 72</td><td>Seeger, P., Sekr., <i>LtJ</i> Oberhofer Weg 23</td></tr><tr><td>71 73 84</td><td>Seeger, P., Kfm., <i>Schb</i> Eisackstr. 20</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "35",
+            "text": "16"
+          },
+          {
+            "extension": "50",
+            "text": "93"
+          },
+          {
+            "extension": "58",
+            "text": "12"
+          },
+          {
+            "extension": "25",
+            "text": "67"
+          },
+          {
+            "extension": "53",
+            "text": "24"
+          },
+          {
+            "extension": "25",
+            "text": "80"
+          },
+          {
+            "extension": "42",
+            "text": "98"
+          },
+          {
+            "extension": "86",
+            "text": "12"
+          },
+          {
+            "extension": "75",
+            "text": "77"
+          },
+          {
+            "extension": "79",
+            "text": "20"
+          },
+          {
+            "extension": "97",
+            "text": "49"
+          },
+          {
+            "extension": "65",
+            "text": "57"
+          },
+          {
+            "extension": "53",
+            "text": "56"
+          },
+          {
+            "extension": "59",
+            "text": "52"
+          },
+          {
+            "extension": "73",
+            "text": "22"
+          },
+          {
+            "extension": "40",
+            "text": "21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "47",
+            "text": "11 94 Seeger, W., Bk.-Rat, Hrnsd Werderstr. 6"
+          },
+          {
+            "extension": "58",
+            "text": "17 09 Seeger, W., Schlächter, O 34, Petersb. Str. 14"
+          },
+          {
+            "extension": "25",
+            "text": "88 03 Seeger & Co, W 62, Keithstr. 5"
+          },
+          {
+            "extension": "61",
+            "text": "16 56 Seeger & Co. G. m. b. H., Präzisionswerk- stätten, Kolben- u. Kolbenringe, Berlin SW 68, Prinzenstraße 86"
+          },
+          {
+            "extension": "91",
+            "text": "39 41 Seeger-Klein, Tiny, Wilm Zähr.-Str. 17"
+          },
+          {
+            "extension": "61",
+            "text": "13 79 Seegers, Alfons, Sachbearb., SW 68, Curth- damm 22"
+          },
+          {
+            "extension": "26",
+            "text": "31 89 Seegers, F., Kfm., W 30, Heilbr. Str. 19"
+          },
+          {
+            "extension": "24",
+            "text": "60 34 Seegers, G., Major, W 15, Kaiserallee 212"
+          },
+          {
+            "extension": "32",
+            "text": "22 26 Seegers, H., Frau, Chb 4 Sybelstr. 68"
+          },
+          {
+            "extension": "97",
+            "text": "72 14 Seegers, Heinr., Kfm., Chb 4 Waitzstr. 11"
+          },
+          {
+            "extension": "92",
+            "text": "67 03 Seegers, Kurt, W 15, Duisb. Str. 12"
+          },
+          {
+            "extension": "60",
+            "text": "12 18 Seegers, Luise, Heimarb., Neuk Schiller- promenade 39"
+          },
+          {
+            "extension": "25",
+            "text": "19 90 Otto u. Elisabeth Seegers, Bildh. u. Mal., W 62, Kurfürstenstr. 71"
+          },
+          {
+            "extension": "71",
+            "text": "13 55 Seegers & Stephany, Agentur, Schb Mannheimstraße 29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 989 990\" data-label=\"Text\"><table><tbody><tr><td>37 38 30</td><td>Seegert, A., Lehrerin, <i>Spd</i> Schönw. Str. 90</td></tr><tr><td>32 32 07</td><td>Seegert, B., Friseur, <i>Chb</i> Sybelstr. 62</td></tr><tr><td>34 89 00</td><td>Seegert, Dr. Bruno, Prof., <i>Chb</i> 5 Wundt-<br/>straße 19</td></tr><tr><td>31 65 85</td><td>Seegert, E., Versich., <i>Chb</i> K.-Friedr.-Str. 35</td></tr><tr><td>39 38 34</td><td>Seegert, Dr. Friedr., Arzt, NW 87, Nor-<br/>kusstr. 13</td></tr><tr><td>73 89 10</td><td>Seegert, F., Ing., <i>Lt</i> Kommand.-Str. 93</td></tr><tr><td>75 74 20</td><td>Seegert, F., Seifen, <i>Tmp</i> Mant.-Str. 55</td></tr><tr><td>39 68 50</td><td>Seegert, Dr. P., Arzt, NW 87, Lessingstr. 48</td></tr><tr><td>41 26 70</td><td>Ders., Klinik, N 4, Johannisstr. 10</td></tr><tr><td>55 14 81</td><td>Seegert, Rich., Tischler, <i>Rmb</i> Hauptstr. 5</td></tr><tr><td>85 21 90</td><td>Seegert, W., Vertr., <i>Zehl</i> Im Kamp</td></tr><tr><td>92 62 28</td><td>Seegrün, H., Kfm., W 15, Lietzenb.-Str. 5</td></tr><tr><td>66 06 48</td><td>Seegrün, M., SW 29, Hasenheide 56</td></tr><tr><td>56 13 04</td><td>Seeh, R., Tankst., <i>Weiß</i> Charl. Str. 71</td></tr><tr><td>35 52 92</td><td>Seehaas, W., Töpf., NW 40, Lehrt. Str. 52</td></tr><tr><td>26 24 11</td><td>Seehaber, Alfred, W 30, Barbarossastr. 40</td></tr><tr><td>50 44 54</td><td>Seehafer, Fritz, Kohlen, <i>Hhschö</i> Hptstr. 20</td></tr><tr><td>37 66 59</td><td>Seehafer, Gertr., Lehrer., <i>Zehl</i> Zieg.-H. 8</td></tr><tr><td>64 39 05</td><td>Seehafer, Günter, Stud.-Assess., Müggel-</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "56",
+            "text": "08 48 Sechafer, Margarete, Stenotyp., Weiβ Rennbahnstr. 132"
+          },
+          {
+            "extension": "63",
+            "text": "08 66 Sechafer, W., Dr. jur., Joh Haged.-Str. 4"
+          },
+          {
+            "extension": "27",
+            "text": "08 70 Seehagen, G., Kraftf., W 35, Goebenstr. 7"
+          },
+          {
+            "extension": "53",
+            "text": "08 98 Seehagen, Helene, Damenbekleidung, NO 55, Greifswalder Str. 49"
+          },
+          {
+            "extension": "35",
+            "text": "56 09 Seehagen, Maria, NW 40, Melanchthon- Straße 14"
+          },
+          {
+            "extension": "75",
+            "text": "03 42 Seehagen, Martha, Kolonialwaren, Tmp Burchardstr. 45"
+          },
+          {
+            "extension": "19",
+            "text": "25 71 Seehagen, Mathilde, SW 11, Saarlandstr. 15"
+          },
+          {
+            "extension": "66",
+            "text": "38 63 Seehaus, Emma, Zig., SW 61, Vorckstr. 76"
+          },
+          {
+            "extension": "62",
+            "text": "70 34 Seehaus, Emmy, Frauenschaftsl., Neuk Finowstr. 12"
+          },
+          {
+            "extension": "25",
+            "text": "39 15 Seehaus, E., Pat.-Anw., W 50, Nachodstr. 22"
+          },
+          {
+            "extension": "62",
+            "text": "81 34 Seehaus, Frieda, Zigarren, Neuk Flug- hafenstr. 13"
+          },
+          {
+            "extension": "63",
+            "text": "34 06 Seehaus, Harry, Reis., NO 55, Ostseestr. 120"
+          },
+          {
+            "extension": "97",
+            "text": "38 30 Seehaus, Paul, Kfm., Chb Sybelstr. 31"
+          },
+          {
+            "extension": "85",
+            "text": "37 35 Seehaus, R., Reg.-Rat, Zehl Im Hagen 29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "und 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "63",
+            "text": "53"
+          },
+          {
+            "extension": "89",
+            "text": "22"
+          },
+          {
+            "extension": "17",
+            "text": "03"
+          },
+          {
+            "extension": "87",
+            "text": "57"
+          },
+          {
+            "extension": "34",
+            "text": "54"
+          },
+          {
+            "extension": "48",
+            "text": "35"
+          },
+          {
+            "extension": "45",
+            "text": "07"
+          },
+          {
+            "extension": "59",
+            "text": "47"
+          },
+          {
+            "extension": "62",
+            "text": "58"
+          },
+          {
+            "extension": "93",
+            "text": "62"
+          },
+          {
+            "extension": "83",
+            "text": "09"
+          },
+          {
+            "extension": "39",
+            "text": "78"
+          },
+          {
+            "extension": "97",
+            "text": "01"
+          },
+          {
+            "extension": "58",
+            "text": "50"
+          },
+          {
+            "extension": "75",
+            "text": "11"
+          },
+          {
+            "extension": "92",
+            "text": "69"
+          },
+          {
+            "extension": "83",
+            "text": "24"
+          },
+          {
+            "extension": "51",
+            "text": "15"
+          },
+          {
+            "extension": "51",
+            "text": "15"
+          },
+          {
+            "extension": "24",
+            "text": "75"
+          },
+          {
+            "extension": "75",
+            "text": "29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "taier Str. 3",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>75 33 74</td>\n<td>Seelemeyer, Dr. Wilhelm, Journalist, <i>Tmp</i><br/>Theodor-Francke-Str. 5</td>\n</tr>\n<tr>\n<td>87 14 14</td>\n<td>v. Seelen, Fritz, Landesrat, <i>Wilm</i> Walter-<br/>Fischer-Str. 14</td>\n</tr>\n<tr>\n<td>34 58 62</td>\n<td>Seelenbrandt, Herbert, Kfm., <i>Chb</i> 5 Neh-<br/>ringstr. 8</td>\n</tr>\n<tr>\n<td>55 38 83</td>\n<td>Seeler, Erich R., Nährm.-Fbr., <i>Lbg</i><br/>Scheffelstr. 25</td>\n</tr>\n<tr>\n<td>87 54 25</td>\n<td>v. Seeler, G., Dr. jur., <i>Wilm</i> Motzstr. 87</td>\n</tr>\n<tr>\n<td>37 61 95</td>\n<td>Seeler, Marie L., Ww., <i>Hasch</i> Schwertew. 22</td>\n</tr>\n<tr>\n<td>22 07 88</td>\n<td>Seeler, Marlene, W 35, Lützowstr. 72</td>\n</tr>\n<tr>\n<td>97 20 91</td>\n<td>Seeler, Ottilie, Milch, <i>Hal</i> Sees. Str. 52</td>\n</tr>\n<tr>\n<td>17 20 78</td>\n<td>Seeler, O., Buchdr., SW 68, Ritterstr. 52</td>\n</tr>\n<tr>\n<td>60 19 71</td>\n<td>Seeler, P., Uhren, <i>Neuk</i> Innstr. 35</td>\n</tr>\n<tr>\n<td>86 49 35</td>\n<td>v. Seeler, Ulla, <i>Wilm</i> Nass. Str. 25</td>\n</tr>\n<tr>\n<td>49 16 33</td>\n<td>Seeler u. Hoffmann, Fuhrbetrieb, <i>ReiO</i><br/>Breitkopfstr. 134</td>\n</tr>\n<tr>\n<td>31 33 90</td>\n<td>Seelert, H., Ger.-Rat, <i>Chb</i> Windsch.-Str. 31</td>\n</tr>\n<tr>\n<td>56 82 32</td>\n<td>Seelert, Dr. H., Prof., Hellanst. Buch</td>\n</tr>\n<tr>\n<td>16 22 87</td>\n<td>Seelet-Fabrikation Anny Stephan, C 2,<br/>Kurst. 32</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 989\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>17 20 00</td>\n<td>Seemannsiner, Heinz, SW 00, Rumman.-<br/>Straße 6</td>\n</tr>\n<tr>\n<td>50 75 21</td>\n<td>Ders., Wohn., Msd Treskowstr. 46</td>\n</tr>\n<tr>\n<td>47 17 51</td>\n<td>Seelhof, Wilh., Elektrot., Waidm Waid-<br/>mannsluster Damm 98</td>\n</tr>\n<tr>\n<td>91 38 13</td>\n<td>Seelhorst, Anne Marie, Kosmetik, W 15,<br/>Joachimstaler Str. 25</td>\n</tr>\n<tr>\n<td>85 25 07</td>\n<td>Seelhorst, Christel, KMn Kurm.Str. 4</td>\n</tr>\n<tr>\n<td>76 49 98</td>\n<td>Seelhorst, E., Dr., Dahl K.-Luise-Str. 34</td>\n</tr>\n<tr>\n<td>24 41 76</td>\n<td>v. Seelhorst, Eva, Malerin, W 50, Würz-<br/>burger Str. 1a</td>\n</tr>\n<tr>\n<td>25 69 36</td>\n<td>Seelhorst, Gertrud, Schauspielerin, W 50,<br/>Eislebener Str. 9</td>\n</tr>\n<tr>\n<td>72 11 37</td>\n<td>Seelhorst, Hedwig, Stegl J.-Stegen-Str. 16</td>\n</tr>\n<tr>\n<td>74 16 95</td>\n<td>Seelhorst, H., Ing., LtO Pfarracker 19</td>\n</tr>\n<tr>\n<td>25 14 07</td>\n<td>Seelhorst, Marg., W 62, Courbièrest. 7</td>\n</tr>\n<tr>\n<td>34 71 86</td>\n<td>Seelhorst, R., Ing., Frhg Fürstenw. D.349</td>\n</tr>\n<tr>\n<td>35 40 30</td>\n<td>Seelich, Dr. Frz., Doz., Zehl Ithweg 28a</td>\n</tr>\n<tr>\n<td>79 35 89</td>\n<td>Seelig, A., Insp., Steal Kniephofstr. 39</td>\n</tr>\n<tr>\n<td>77 26 62</td>\n<td>Seelig, A., Bankv., Hal Eisenzahnstr. 63</td>\n</tr>\n<tr>\n<td>19 31 81</td>\n<td>Seelig, Alfr., Kfm., ReiO Genf. Str. 77</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 978 968\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>33 40 92</td>\n<td>Seelig, Arth., Ing., <i>Frdn</i> Lefävrestr. 28</td>\n</tr>\n<tr>\n<td>14 58 82</td>\n<td>Seelig, A., Insp., N 113, Scherenb. Str. 11</td>\n</tr>\n<tr>\n<td>33 83 01</td>\n<td>Seelig, Christel, <i>Adl</i> Arndtstr. 1</td>\n</tr>\n<tr>\n<td>11 55 14</td>\n<td>Seelig, Draga, Rentn., <i>Chb</i> 2 Momms. Str. 8</td>\n</tr>\n<tr>\n<td>55 05 35</td>\n<td>Seelig, Dr. Erich, RA [N], <i>Frfde</i> Alt Friedrichsfelde 1</td>\n</tr>\n<tr>\n<td>60 90 58</td>\n<td>Ders., Wohn., <i>Misd</i> Hönower Str. 65</td>\n</tr>\n<tr>\n<td>34 72 50</td>\n<td>Seelig, Eugenie, <i>Zehl</i> Hakenheide 169</td>\n</tr>\n<tr>\n<td>8 03 20</td>\n<td>Seelig, F. Erich, Chemikal., O 112, Frankfurter Allee 313</td>\n</tr>\n<tr>\n<td>11 07 11</td>\n<td>Seelig, F., Obst, W 15, Meinekestr. 20</td>\n</tr>\n<tr>\n<td>7 59 93</td>\n<td>Seelig, Fritz, Kfm., W 50, Göbenstr. 22</td>\n</tr>\n<tr>\n<td>8 22 81</td>\n<td>Gebr. G.u.F. Seelig, Farben, O 112, Scharnweberstraße 3</td>\n</tr>\n<tr>\n<td>6 85 30</td>\n<td>Seelig, G., Gartenunstr., Buch, Siedl. 46</td>\n</tr>\n<tr>\n<td>3 18 23</td>\n<td>Seelig, H., Angest., <i>Frdn</i> Südwest-K. 71</td>\n</tr>\n<tr>\n<td>7 08 40</td>\n<td>Seelig, H., Ofenb., W 35, Großgörsch. Str. 28</td>\n</tr>\n<tr>\n<td>7 31 03</td>\n<td>Seelig, Johanna, SW 68, Schützenstr. 34</td>\n</tr>\n<tr>\n<td>7 31 45</td>\n<td>Seelig, K., Mal., O 17, Müncheb. Str. 17</td>\n</tr>\n<tr>\n<td>0 93 24</td>\n<td>Ders., Wohn., <i>Kisd</i> R.-Virchow-Str. 16</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"813 159 822 188\" data-label=\"Page-Header\">1</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin: S",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 11 998 976\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>16 79 57</td>\n<td>Seelig, O., Orthopädie, C 2, Wallstr. 21</td>\n</tr>\n<tr>\n<td>50 96 89</td>\n<td>Ders., Wohn., <i>Misd</i> Hultsch. D. 346</td>\n</tr>\n<tr>\n<td>55 37 00</td>\n<td>Seelig, P., Drogen, <i>Lbg</i> Normann.Str. 6</td>\n</tr>\n<tr>\n<td>34 39 27</td>\n<td>Seelig, R., Beamte., <i>Chb</i> 1 Wilm. Str. 25</td>\n</tr>\n<tr>\n<td>91 77 92</td>\n<td>Seelig, Rolf, Kfm., W 15, Fasan.Str. 56</td>\n</tr>\n<tr>\n<td>46 75 69</td>\n<td>Seelig, Therese, Leder, N 65, Müllerstr. 131</td>\n</tr>\n<tr>\n<td>17 29 60</td>\n<td>Seelig, Walter, Masch.-Fbr., SW 68, Hollmannstr. 10</td>\n</tr>\n<tr>\n<td>31 93 39</td>\n<td>Seelig, Werner A., Verkaufsleiter, <i>Chb</i> 4 Goethepark 18</td>\n</tr>\n<tr>\n<td>24 77 42</td>\n<td>Seelig, Wilh., Kunstmaler, W 50, Nachodstraße 10</td>\n</tr>\n<tr>\n<td>(64 23 28)</td>\n<td>Seelig, Willy, Kol.-W., <i>Köp</i> Amtstr. 7</td>\n</tr>\n<tr>\n<td>27 38 58</td>\n<td>Seelig, Wilma, W 35, Winterfeldtstr. 22</td>\n</tr>\n<tr>\n<td>64 17 75</td>\n<td>Seeliger, Alb., Ing., <i>Köp</i> Mittelheide 38</td>\n</tr>\n<tr>\n<td>50 03 96</td>\n<td>Seeliger, Alfred, Vertr., <i>Krsh</i> Ehrenfelsstraße 10</td>\n</tr>\n<tr>\n<td>97 39 84</td>\n<td>Seeliger, A., Techn., <i>Chb</i> 4 Roscherstr. 12</td>\n</tr>\n<tr>\n<td>80 59 46</td>\n<td>Seeliger, Else, <i>Wan</i> Kronprinzess.-Weg 3</td>\n</tr>\n<tr>\n<td>61 10 06</td>\n<td>Seeliger, Erich, Tapez., SW 68, Wassertorstraße 54</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "88",
+            "text": "44"
+          },
+          {
+            "extension": "73",
+            "text": "69"
+          },
+          {
+            "extension": "61",
+            "text": "25"
+          },
+          {
+            "extension": "24",
+            "text": "68"
+          },
+          {
+            "extension": "87",
+            "text": "64"
+          },
+          {
+            "extension": "30",
+            "text": "82"
+          },
+          {
+            "extension": "85",
+            "text": "26"
+          },
+          {
+            "extension": "97",
+            "text": "70"
+          },
+          {
+            "extension": "61",
+            "text": "36"
+          },
+          {
+            "extension": "91",
+            "text": "11"
+          },
+          {
+            "extension": "72",
+            "text": "18"
+          },
+          {
+            "extension": "62",
+            "text": "11"
+          },
+          {
+            "extension": "86",
+            "text": "56"
+          },
+          {
+            "extension": "62",
+            "text": "11"
+          },
+          {
+            "extension": "87",
+            "text": "44"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "99",
+            "text": "10"
+          },
+          {
+            "extension": "22",
+            "text": "37"
+          },
+          {
+            "extension": "74",
+            "text": "08"
+          },
+          {
+            "extension": "73",
+            "text": "27"
+          },
+          {
+            "extension": "60",
+            "text": "09"
+          },
+          {
+            "extension": "87",
+            "text": "75"
+          },
+          {
+            "extension": "75",
+            "text": "43"
+          },
+          {
+            "extension": "11",
+            "text": "51"
+          },
+          {
+            "extension": "91",
+            "text": "64"
+          },
+          {
+            "extension": "39",
+            "text": "24"
+          },
+          {
+            "extension": "21",
+            "text": "45"
+          },
+          {
+            "extension": "50",
+            "text": "44"
+          },
+          {
+            "extension": "86",
+            "text": "08"
+          },
+          {
+            "extension": "88",
+            "text": "67"
+          },
+          {
+            "extension": "30",
+            "text": "38"
+          },
+          {
+            "extension": "79",
+            "text": "79"
+          },
+          {
+            "extension": "44",
+            "text": "97"
+          },
+          {
+            "extension": "34",
+            "text": "13"
+          },
+          {
+            "extension": "70",
+            "text": "99"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>76 42 27</td>\n<td>Seelmann, H., Maj., Lt/W</td>\n<td>Undinestr. 8</td>\n</tr>\n<tr>\n<td>27 48 41</td>\n<td>Seelmann, Martha, Ztg.,</td>\n<td>W 35, Bülowstr. 56</td>\n</tr>\n<tr>\n<td>60 18 20</td>\n<td>Seelmann, Martha, F.,</td>\n<td>Schuhschmuck,<br/>Neuk Braunauer Str. 66</td>\n</tr>\n<tr>\n<td>34 12 55</td>\n<td>Seelmann-Eggebert, Eberhard,</td>\n<td>Kaufm.,<br/>Chb 5 Stelfensandstr. 1</td>\n</tr>\n<tr>\n<td>84 27 68</td>\n<td>Seelmann-Eggebert, Erich,</td>\n<td>Dr., Zehl<br/>Sven-Hedin-Str. 4</td>\n</tr>\n<tr>\n<td>73 21 35</td>\n<td>Seelmann-Eggebert, Karl,</td>\n<td>Oberstudien-<br/>direktor, Lt/ Ringstr. 25</td>\n</tr>\n<tr>\n<td>26 26 28</td>\n<td>Seelmann-Eggebert, Margarete,</td>\n<td>W 30,<br/>Berchtesgadener Str. 36</td>\n</tr>\n<tr>\n<td>12 12 56</td>\n<td>Seelmann-Eggebert, Dr. Walther,</td>\n<td>RA.[N],<br/>NW 7, Hermann-Göring-Str. 24</td>\n</tr>\n<tr>\n<td>76 12 45</td>\n<td>Ders., Wohnung, Dahl</td>\n<td>Arnimallee 11</td>\n</tr>\n<tr>\n<td>47 01 21</td>\n<td>Seelmeyer, G., San. Anl.,</td>\n<td>Hmsd Seeblick-<br/>straße 5</td>\n</tr>\n<tr>\n<td>45 24 64</td>\n<td>Seeloff, Wilh., Bäcker,</td>\n<td>N 58, Stubben-<br/>kammerstr. 2</td>\n</tr>\n<tr>\n<td>21 03 80</td>\n<td>Seelos, Gebh., Dr.,</td>\n<td>W 35, G.-Spee-Str. 25</td>\n</tr>\n<tr>\n<td>92 21 18</td>\n<td>Seelow, Käthe,</td>\n<td>W 15, Pfalzb. Str. 73</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "41",
+            "text": "42"
+          },
+          {
+            "extension": "44",
+            "text": "38"
+          },
+          {
+            "extension": "39",
+            "text": "03"
+          },
+          {
+            "extension": "46",
+            "text": "59"
+          },
+          {
+            "extension": "21",
+            "text": "26"
+          },
+          {
+            "extension": "59",
+            "text": "31"
+          },
+          {
+            "extension": "58",
+            "text": "75"
+          },
+          {
+            "extension": "47",
+            "text": "13"
+          },
+          {
+            "extension": "19",
+            "text": "03"
+          },
+          {
+            "extension": "17",
+            "text": "18"
+          },
+          {
+            "extension": "79",
+            "text": "44"
+          },
+          {
+            "extension": "36",
+            "text": "03"
+          },
+          {
+            "extension": "72",
+            "text": "87"
+          },
+          {
+            "extension": "14",
+            "text": "26"
+          },
+          {
+            "extension": "17",
+            "text": "41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 979 970\" data-label=\"Text\"><table><tbody><tr><td>15 21 95</td><td>Seemann, Hans, Roßschlächt., N 58,<br/>Granseer Str. 2</td></tr><tr><td>12 25 29</td><td>Seemann, H., Kfm., Chb 2 Savignypl. 13</td></tr><tr><td>12 85 76</td><td>Seemann, H., Fleisch., Neuk Reinh.-Str. 9</td></tr><tr><td>11 41 46</td><td>Seemann, J., Kfm., Chb Wielandstr. 40</td></tr><tr><td>09 68 08</td><td>Seemann, Julius, Dahl Im Dol 34a</td></tr><tr><td>10 79 81</td><td>Karl Seemann GmbH, Masch.-Fbr., Borsw<br/>Mühlenstr. 39</td></tr><tr><td>14 02 02</td><td>Seemann, K., Vertr., Lkw Bruchw. Str. 23</td></tr><tr><td>12 16 59</td><td>Seemann, Kurt, Neuk Donaustr. 103</td></tr><tr><td>14 76 72</td><td>Seemann, K., Vertr., W 62, Kurf. Str. 99a</td></tr><tr><td>14 32 14</td><td>Seemann, Kurt, Masch.-Fbr., Pko Wil-<br/>helm-Kuhr-Str. 40</td></tr><tr><td>13 32 17</td><td>Seemann, K., Kfm., Lkw Lankw. Ring 279</td></tr><tr><td>10 44 37</td><td>Seemann, Ludwig, Marktschlächt., Hschö<br/>Waldowstr. 38</td></tr><tr><td>18 61 29</td><td>Seemann, Martha, Wilm Ahrweil. Str. 29</td></tr><tr><td>17 09 56</td><td>Seemann, Mary, KassiererIn, SW 61, Git-<br/>schiner Str. 86</td></tr><tr><td>17 42 92</td><td>Seemann, Max, SO 16, Neanderstr. 26</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Seeger — Seeger (Band II) 691",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 12 793 992\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>50 15 09</td>\n<td>Seemann, Max, chirurgische Instrumente,<br/><i>Krlsh</i> Treskowallee 91</td>\n</tr>\n<tr>\n<td>64 01 81</td>\n<td>Seemann, O., Kantine, <i>Köp</i> Kird.Str. 99</td>\n</tr>\n<tr>\n<td>46 59 84</td>\n<td>Seemann, Paul, Vertr., N 65, Togostr. 55</td>\n</tr>\n<tr>\n<td>83 11 02</td>\n<td>Seemann, R., Major, <i>Frdn</i> Bornstr. 6</td>\n</tr>\n<tr>\n<td>91 09 17</td>\n<td>Seemann, R., Kfm., W 15, Düsseld. Str. 46</td>\n</tr>\n<tr>\n<td>58 42 32</td>\n<td>Seemann, Rob., Artist, O 17, Bossestr. 9</td>\n</tr>\n<tr>\n<td>75 77 61</td>\n<td>Seemann, Rudolf, Betr.-Leit., <i>Tmp</i> Bo-<br/>russiastr. 7</td>\n</tr>\n<tr>\n<td>25 21 85</td>\n<td>Seemann, Dr.Dr.Rudolf, R.-A., W 50, Nürn-<br/>berger Str. 33</td>\n</tr>\n<tr>\n<td>35 06 71</td>\n<td>Seemann, W., Seifen, NW 21, Lüß. Str. 42</td>\n</tr>\n<tr>\n<td>50 27 26</td>\n<td>Seemann, Werner, Archit., <i>Krlsh</i> Prinz-<br/>Adalbert-Str. 3</td>\n</tr>\n<tr>\n<td>91 76 77</td>\n<td>Seemann, Dr.Werner, R.A., W15, Joachims-<br/>taler Str. 33</td>\n</tr>\n<tr>\n<td>47 15 48</td>\n<td>Seemann, Wilh., Dir., <i>Fro</i> Zelt. Str. 13</td>\n</tr>\n<tr>\n<td>37 92 66</td>\n<td>Seemann, W., Fuhrbetr., <i>Spd</i> Amorb.W.12</td>\n</tr>\n<tr>\n<td>44 46 19</td>\n<td>Seemann, Willy, Violinist, N 113, Sta-<br/>vangerstr. 5</td>\n</tr>\n<tr>\n<td>41 58 84</td>\n<td>Seemayer, Franz, D.-Bekleid., N 65, Chaus-<br/>seeinstr. 50</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 791 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>72 31 05</td>\n<td>v. Seemen, Jost-Christian, Beamte, Siegl<br/>Hünensteig 26</td>\n</tr>\n<tr>\n<td>63 75 59</td>\n<td>Seer, H. J., Kfm., <i>AGlien</i> Teut. Str. 42</td>\n</tr>\n<tr>\n<td>46 07 34</td>\n<td>Seer, Willy, Klemp., N 65, Wagnitzstr. 7</td>\n</tr>\n<tr>\n<td>83 31 83</td>\n<td>Seering, Gustel, <i>Frdn</i> Kaiserallee 114</td>\n</tr>\n<tr>\n<td>76 44 56</td>\n<td>Seering, Hugo, <i>Lt/W</i> Tietzenweg 23</td>\n</tr>\n<tr>\n<td>89 02 36</td>\n<td>Seering, Karl, <i>Smgd</i> Borkumer Str. 4</td>\n</tr>\n<tr>\n<td>63 46 55</td>\n<td>Seering, L., Vertr., <i>Ndu</i>de Berl. Str. 116</td>\n</tr>\n<tr>\n<td>86 69 80</td>\n<td>Seeringen, Ilse, <i>Wilm</i> Bechstedt. W. 2</td>\n</tr>\n<tr>\n<td>86 08 64</td>\n<td>Sees, Annelotte, Säng., <i>Wilm</i> Weimarische<br/>Straße 15</td>\n</tr>\n<tr>\n<td>47 07 26</td>\n<td>Seeschloß Hermsdorf, <i>Hrm&amp;d</i> Junostr. 7</td>\n</tr>\n<tr>\n<td>76 56 48</td>\n<td>Seesemann, Hch., Doz., <i>Lt</i> Tulpenstr. 26b</td>\n</tr>\n<tr>\n<td>84 51 10</td>\n<td>Seesemann, Kurt, Dr., <i>Schlsee</i> Kurstr. 1</td>\n</tr>\n<tr>\n<td>73 43 30</td>\n<td>Seeßelberg, Dr. F., Prof., <i>Lt</i> Hochb.W. 20</td>\n</tr>\n<tr>\n<td>93 04 15</td>\n<td>Seeßlen, Gg., Ing., <i>Chb</i> 5 Kaiserd. 18</td>\n</tr>\n<tr>\n<td>55 02 22</td>\n<td>Seeterrasse, <i>Lbg</i> Roederstr. 11</td>\n</tr>\n<tr>\n<td>30 74 32</td>\n<td>Seeterrassen Tegel, <i>Tgl</i> Eisenh.-W. 129</td>\n</tr>\n<tr>\n<td>93 33 05</td>\n<td>Seethaler, K., Ing., <i>Chb</i> Platanenallee 4</td>\n</tr>\n<tr>\n<td>30 49 78</td>\n<td>Seetzen, F., Insp., <i>Chb</i> 1 K.-Luise-Str. 8</td>\n</tr>\n<tr>\n<td>22 54 52</td>\n<td>Sentzen Helene Nokr <i>Frdn</i> Kais. A. 99</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 785 993\" data-label=\"Text\"><table><tbody><tr><td>24 91 81</td><td>,Seeverkehr' K. G. Jurgensen &amp; Jursch, Wilm Trautenaustr. 2</td></tr><tr><td>68 30 42</td><td>Seewald, A., Kol.-W., SO 36, Eisenstr. 83</td></tr><tr><td>62 37 84</td><td>Seewald, Eduard, Angest., Neuk Stuttgarter Str. 44</td></tr><tr><td>64 67 59</td><td>Seewald, Fr., Dr. Ing., Frdn Spreestr. 2</td></tr><tr><td>31 33 97</td><td>Seewald, G., Vertr., Chb 4 Kantstr. 120</td></tr><tr><td>67 39 41</td><td>Seewald, Hans, Drog., SW 68, N. Jakobstraße 19</td></tr><tr><td>92 59 93</td><td>Seewald, H., Maler, W 15, Pariser Str. 2</td></tr><tr><td>44 20 12</td><td>Seewald, Kurt, Kfm., N 58, Kopenh. Str. 9</td></tr><tr><td>44 60 95</td><td>Seewald, Lotte Marie, N 31, Ramlerstr. 5</td></tr><tr><td>71 84 47</td><td>Seewald, O., Archit., Schb Kufst.-Str. 18</td></tr><tr><td>58 26 28</td><td>Seewald, Otto, Sped., O17, Hohenlohestr. 20</td></tr><tr><td>76 61 27</td><td>Seewald, Paul, Dahl Im Winkel 21</td></tr><tr><td>91 16 35</td><td>Seewald, Sonja, Schausp., W 15, Xantener Straße 23</td></tr><tr><td>72 46 93</td><td>Seewald, V., Eisenwr., Stegl Schloßstr. 30</td></tr><tr><td>72 86 54</td><td>Ders., Wohn., Stegl Goebenstr. 14</td></tr><tr><td>71 38 02</td><td>Seewald, W., Eisenwr., Schb Hauptstr. 54</td></tr><tr><td>56 14 85</td><td>Seewaldt. Herb. Weiß Steinberg 122e</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 782 993\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>53 11 93</td>\n<td>Seewang, Carl, FUK., NW 41, Wulzow-<br/>straße 125</td>\n</tr>\n<tr>\n<td>64 74 21</td>\n<td>Seezeichen-Versuchsfeld, Frhg Müggelsee-<br/>damm 336</td>\n</tr>\n<tr>\n<td>34 82 01</td>\n<td>Sefeloge, Martin, Siem Schuckertpl. 5</td>\n</tr>\n<tr>\n<td>34 26 46</td>\n<td>Seffer, A., Hebamme, Chb 5 Pestal.-Str. 57</td>\n</tr>\n<tr>\n<td>(27 48 79)</td>\n<td>Seffers, K., Steine, W 62, Kleiststr. 42</td>\n</tr>\n<tr>\n<td>27 37 01</td>\n<td>Seffner, A., Vertr., W 30, Frankenstr. 2</td>\n</tr>\n<tr>\n<td>17 69 16</td>\n<td>Seffzig, Otto, Klischeefabrik, SW 68,<br/>Alexandrinenstr. 97</td>\n</tr>\n<tr>\n<td>27 23 08</td>\n<td>Sefke, Dr. Gerhard, Tierarzt, W 30, N.<br/>Winterfeldtstr. 44</td>\n</tr>\n<tr>\n<td>83 15 56</td>\n<td>Sefrin, Dr. Ant., RA., Frdn Stierstr. 4</td>\n</tr>\n<tr>\n<td>84 14 20</td>\n<td>Segadlo, Lina, Frau, Zehl Schön. Str. 6</td>\n</tr>\n<tr>\n<td>55 11 22</td>\n<td>Segal, A., Holz, Lbg Kielblockstr. 2</td>\n</tr>\n<tr>\n<td>91 74 95</td>\n<td>Segal, H., Kfm., W 15, Kurf.-Damm 47</td>\n</tr>\n<tr>\n<td>12 42 81</td>\n<td>Segala, Dr., Journal., W 8, Mohrenstr. 1</td>\n</tr>\n<tr>\n<td>91 65 25</td>\n<td>Segall, Art., Archit., W 15, Konst. Str. 2</td>\n</tr>\n<tr>\n<td>Sammel-<br/>Nr.</td>\n<td rowspan=\"2\">{ A. &amp; S. Segall, Inh. Erich Bernd Reichow<br/>Pelzwarenfabrik. — Rauchwaren, SW 68,<br/>Sevdelsstr. 8/9</td>\n</tr>\n<tr>\n<td>16 82 01</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 776 986\" data-label=\"Text\"><table><tbody><tr><td>99 43 77</td><td>Segders, Adolf, <i>Chd</i> y Keilnstr. 104</td></tr><tr><td>59 32 11</td><td>Segeh, Sellen-Einkaufsgen. Berlin eGmbH,<br/>NO 55, Winstr. 12</td></tr><tr><td>48 03 03</td><td>Segebade, H.-J., Ger.-Assess., <i>Ndschs</i><br/>Rolandstr. 75</td></tr><tr><td>83 09 63</td><td>Segebarth, Elis., <i>Wilm</i> Markobr. Str. 18</td></tr><tr><td>73 87 98</td><td>Segebarth, F., Kfm., <i>Ltf</i> Krumme Str. 5</td></tr><tr><td>31 75 94</td><td>Segebarth, Magda, W 15, Kurfürst.-D. 62</td></tr><tr><td>84 16 56</td><td>Segebarth, W., Milch, <i>Zehl</i> Berliner Str. 14</td></tr><tr><td>79 51 56</td><td>Segeberg, Martha, <i>Stegl</i> Schloßstr. 101</td></tr><tr><td>17 66 05</td><td>Segebrecht, Carl, Fahrradteile, SW 68<br/>Alexandrinenstr. 37a</td></tr><tr><td>57 32 11</td><td>Segebrecht, F., O 112, Weichselstr. 1</td></tr><tr><td>57 04 81</td><td>F. Segebrecht &amp; Co, Zuschneidemaschinen,<br/>O 17, Gr. Frankfurter Str. 137</td></tr><tr><td>42 90 14</td><td>Segel, Ada, Kunstgew., NW 7, Karlstr. 14</td></tr><tr><td>35 48 78</td><td>Segel, Adolf, NW 40, Paulstr. 23</td></tr><tr><td>37 45 17</td><td>Segel, Dr. Theodor, Dipl.Chem., <i>Wilm</i><br/>Hildegardstr. 18</td></tr><tr><td>75 37 44</td><td>Segelcke, E., Dent., <i>Md</i> Königstr. 29</td></tr><tr><td>22 61 25</td><td>Segelcke, Dr. Gerhard, Zahnarzt, W 9,</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "17",
+            "text": "70 94 Segelcke, H., Vertr., SW 68, Jerus. Str. 6"
+          },
+          {
+            "extension": "38",
+            "text": "21 19 Ders., Wohn., Frdn Beckerstr. 9"
+          },
+          {
+            "extension": "34",
+            "text": "16 56 Segel-Club 1898 eV., Köp Wendenschloß- straße 354"
+          },
+          {
+            "extension": "34",
+            "text": "24 13 Segelclub Aegir 1921 eV., Müggelheim, Krampenburger Weg 25"
+          },
+          {
+            "extension": "34",
+            "text": "01 51 Segelclub Ahoi eV., Köp Nieberg.Str. 32"
+          },
+          {
+            "extension": "35",
+            "text": "99 25 Segelclub Argo eV, Schmö Argoallee 17"
+          },
+          {
+            "extension": "34",
+            "text": "10 56 Segelclub Friesen, Köp Wendenschl.-Str. 372"
+          },
+          {
+            "extension": "30",
+            "text": "93 92 Segelclub Odin eV., Tgl Bernauer Str."
+          },
+          {
+            "extension": "35",
+            "text": "98 49 Segelclub Seddin eV., Schmö Seddinsee 13"
+          },
+          {
+            "extension": "37",
+            "text": "57 17 Segelclub Spandau eV., Spd Rustwiesen"
+          },
+          {
+            "extension": "30",
+            "text": "90 45 Segelklub Nixe eV., Tgl Bernauer Str."
+          },
+          {
+            "extension": "34",
+            "text": "23 00 Segeler, C., Tel.-Insp., Köp Biesd. Str. 5"
+          },
+          {
+            "extension": "34",
+            "text": "89 75 Segelke, K., Ing., Chb Werniger. Str. 27"
+          },
+          {
+            "extension": "38",
+            "text": "49 22 Segeltuch-Industrie AG, SO 36, Hoff- mannstr. 17"
+          },
+          {
+            "extension": "35",
+            "text": "17 61 Seger, A., Bäckerei, NW 87, Waldstr. 42"
+          },
+          {
+            "extension": "38",
+            "text": "16 88 Seger, Curt, Frdn Gutsmuthsstr. 21"
+          },
+          {
+            "extension": "37",
+            "text": "44 31 Seger, Elisabeth, W 15, Brandenb. Str. 37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,890 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"552 625 557 642\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Glogau.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Kattowitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Krems (Donau) [Niederdonau].",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Marburg (Lahn).",
+        "entries": []
+      },
+      {
+        "region_name": "Neugersdorf (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Oberstdorf (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenbach (Vogtl.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "St. Pölten (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Villach (Kärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Waidhofen a. d. Thaya (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Reichs-Telefonbuch",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"814 796 995 942\" data-label=\"Text\"><p><b>856.</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 14 993 133\" data-label=\"Text\"><p><b>A3 92 70 Heinzel, Rudolf, Bücherrevisor, VI/56,<br/>Magdalenenstraße 8</b></p></div><div data-bbox=\"17 129 993 248\" data-label=\"Text\"><p><b>A3 96 95 Hoschek, Rudolf, Bücherrevisor, Wien<br/>V/55, Kohlgasse 46</b></p></div><div data-bbox=\"17 248 993 355\" data-label=\"Text\"><p><b>B2 20 18 Karl Kaschnitz Edler v. Weinberg</b></p></div><div data-bbox=\"202 355 993 583\" data-label=\"Text\"><p>Ober-Rechnungs-Rat, Sachverständiger<br/>für Buchfach-und Steuerwesen, Haus- und<br/>Gebäudeverwaltung, Immobilien, Wien<br/>VI/56, Schadekgasse 12</p></div><div data-bbox=\"17 578 993 696\" data-label=\"Text\"><p><b>U5 32 25 Klein, Ernst, Bücherrevisor, Wien XVII/<br/>107, Hormayrgasse 45</b></p></div><div data-bbox=\"14 692 993 809\" data-label=\"Text\"><p><b>B5 04 87 Mejtsky, Friedrich, Bücherrevisor u. Helfer<br/>i. Steuersachen, I/1, Beethovenpl. 2</b></p></div><div data-bbox=\"14 805 993 979\" data-label=\"Text\"><p><b>R3 47 34 Smola, Dkfm. Fritz, Oberstlttn., ger. beeed.<br/>Buchfachverst., Helfer in Steuersachen,<br/>Wien XII/87, Schöpferg. 2</b></p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Hans Stasny",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Zittau (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Znaim (Niederdonaau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"61 250 937 852\"}]",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"438 72 553 171\"}, {\"label\": \"Text\", \"bbox\": \"137 296 862 899\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Göttingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 993 346\" data-label=\"Text\"><p><b>22 13 72</b> <b>Geno-Organisation G. m. b. H., Ges. für</b><br/><b>neuzeitliche Buchhaltungs-Organisation,</b><br/><b>Gereonshaus</b></p></div><div data-bbox=\"11 394 274 558\" data-label=\"Text\"><p><b>Leipzig.</b></p></div><div data-bbox=\"61 546 931 799\" data-label=\"Text\"><p>40100 { <b>Martschink-Buchhaltung</b><br/>41388 { <b>Leipzig 340 - Gundorf</b></p></div><div data-bbox=\"7 829 496 970\" data-label=\"Text\"><p><b>Litzmannstadt.</b></p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "O. R. PFEIFFER",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Straßburg (Els.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"11 41 988 951\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Image\", \"bbox\": \"64 21 212 486\"}, {\"label\": \"Section-Header\", \"bbox\": \"286 102 881 515\"}, {\"label\": \"Text\", \"bbox\": \"368 545 782 705\"}, {\"label\": \"Text\", \"bbox\": \"398 713 756 876\"}]",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "360. Buchhaltungsmaschinen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"435 93 546 178\" data-label=\"Text\"><p>0 4 8 4</p></div><div data-bbox=\"128 320 848 576\" data-label=\"Text\"><p><b>Berlin - Weißensee,      Sedanstr. 46</b></p></div><div data-bbox=\"128 632 848 895\" data-label=\"Text\"><p><b>Fernsprecher : 56 41 81—56 41 84</b></p></div>",
+      "cells": [
+        "col2_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col2_sec19.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Bücherrevisoren — 861. Buchha",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "RUF-BUCHHALTUNG",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"63 21 200 88\"}, {\"label\": \"Section-Header\", \"bbox\": \"54 165 957 563\"}, {\"label\": \"Text\", \"bbox\": \"56 602 957 820\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "861. Buchhandlungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Allenstein.",
+        "entries": []
+      },
+      {
+        "region_name": "Altötting (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Amstetten (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Arnstadt (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Aschach (Niederdonau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Aussee (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Reichenhall.",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bayreuth.",
+        "entries": []
+      },
+      {
+        "region_name": "Bensheim (Bergstr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 988\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>17 47 41</td>\n<td><b>Deutsche Buch-Gemeinschaft G. A. Koch's Verlag Nachf., Berlin SW 68, Alte Jakobstraße 156/7. T Lesestunde P 103453</b></td>\n</tr>\n<tr>\n<td>17 39 24</td>\n<td><b>„Die Buchgemeinde“ Verlagsgesellschaft m. b. H., SW 68, Lindenstraße 38</b></td>\n</tr>\n<tr>\n<td>26 32 85</td>\n<td><b>Ewald, Kurt, Reise- und Versandbuchhandlung, W 30, Landshuter Str. 17</b></td>\n</tr>\n<tr>\n<td>Mühlenbeck 247</td>\n<td><b>Falken-Verlag Erich Sicker, Verlagsbuchhandlung, Berlin-Schildow, Katharinenstraße 1</b></td>\n</tr>\n<tr>\n<td>12 59 41</td>\n<td><b>Adolf Geipel vorm. A. Asher &amp; Co., Buchhandlung, W 8, Behrenstr. 55—57</b></td>\n</tr>\n<tr>\n<td>17 50 16</td>\n<td><b>Globig, Ernst, Buchhandlung, Berlin SW 68, Charlottenstr. 86</b></td>\n</tr>\n<tr>\n<td>11 64 65</td>\n<td><b>Hirschwaldsche Buchhandlung, Berlin NW 7, Unter den Linden 60</b></td>\n</tr>\n<tr>\n<td>17 77 23</td>\n<td><b>Lesestoffvertrieb Max Alte, Buchhdlg. und Verlagsanstalt, SW 68, Ritterstr. 61</b></td>\n</tr>\n<tr>\n<td>12 36 57</td>\n<td><b>Ludendorffs Verlag G. m. b. H., Zweigstelle Berlin W 8, Friedrichstr. 75</b></td>\n</tr>\n<tr>\n<td>42 26 15</td>\n<td><b>Müller, Robert, Buchhandlung und Anti-</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Betzdorf (Sieg).",
+        "entries": []
+      },
+      {
+        "region_name": "Beuthem (O/S.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/>This image is a completely blank white page. It contains no text, markings, or illustrations. It appears to be a separator page or a page from a document that is empty.</div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 782 248 954\" data-label=\"Text\"><p><b>Grundlungen</b></p></div><div data-bbox=\"417 782 774 954\" data-label=\"Text\"><p><b>(Branchenteil) 121</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Biberach (Riß) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      },
+      {
+        "region_name": "Bonn.",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"218 41 577 477\"}, {\"label\": \"Text\", \"bbox\": \"38 485 741 723\"}, {\"label\": \"Text\", \"bbox\": \"196 718 611 947\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Cammin (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Cilli (Untersteiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Cillier Druckerei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Crivitz (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Crossen (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Darmstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Dillenburg (Dillkreis).",
+        "entries": []
+      },
+      {
+        "region_name": "Donauwörth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Duderstadt (Eichsfeld).",
+        "entries": []
+      },
+      {
+        "region_name": "Dülmen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Eggenburg (Niederdonaustau).",
+        "entries": []
+      },
+      {
+        "region_name": "Elsfleth (Oldb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Flensburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "<div data-bbox=\"37 46 757 610\" data-label=\"List-Group\"><p>23141 Auffahrt, F. B., Roßmarkt 11. P 8080<br/>23722 Heinrich, Wilhelm, Buch- u. Kunsthand-<br/>lung, Antiquariat, Neue Mainzer Str. 35<br/>27176 Hermann Sack, Juristische Fachbuchhdlg.,<br/>Inh. E. Häussler, Neue Mainzer Str. 71</p></div><div data-bbox=\"481 641 524 761\" data-label=\"Page-Footer\"><p>16</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  }
+]

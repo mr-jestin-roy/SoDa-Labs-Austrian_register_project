@@ -1,0 +1,828 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"303 739 632 947\" data-label=\"Text\"><p>608 (Branchenteil)</p></div><div data-bbox=\"787 722 998 911\" data-label=\"Text\"><p>4789. Re</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"334 9 998 994\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>258 73</td>\n<td>Hanko, Reinhard, <i>Ebf</i> Ad.-Hitler-Str. 77</td>\n</tr>\n<tr>\n<td>201 96</td>\n<td>Hausmann, Dr. W., Rechtsanwalt, Wuppertal-Elberfeld, Mäuerchen 3. BK Dresdener Bank P Köln 71620</td>\n</tr>\n<tr>\n<td>221 29</td>\n<td>Heim, Dr. Edgar, <i>Ebf</i> Döppersb.Br. 2</td>\n</tr>\n<tr>\n<td>222 26</td>\n<td>Heinemann, E., <i>Ebf</i> Hofaue 80</td>\n</tr>\n<tr>\n<td>208 79</td>\n<td>Herkersdorf, Dr. W., <i>Ebf</i> Wortm.Str. 34</td>\n</tr>\n<tr>\n<td>248 13</td>\n<td>Hermes, Dr. H. <i>Ebf</i> Poststr. 9</td>\n</tr>\n<tr>\n<td>254 64</td>\n<td>Hertmannl, Dr. Erich, <i>Ebf</i> Hofaue 93</td>\n</tr>\n<tr>\n<td>353 15</td>\n<td>Hollinde, Dr. E., <i>Vw</i> Schlieffenstr. 69</td>\n</tr>\n<tr>\n<td>594 47</td>\n<td>Holtschmidt, Heinr., <i>Ba</i> Langem.Str. 6</td>\n</tr>\n<tr>\n<td>250 20</td>\n<td>Höß, <i>Ebf</i> Hermann-Göring-Str. 38</td>\n</tr>\n<tr>\n<td>319 08</td>\n<td>Hoss, Geh.J.-R., <i>Ebf</i> Kirschbaumstr. 21</td>\n</tr>\n<tr>\n<td>250 20</td>\n<td>Hoss, Dr. Kurt, <i>Ebf</i> H.-Göring-Str. 38</td>\n</tr>\n<tr>\n<td>259 53</td>\n<td>Hubernagel, Dr. Gerh., <i>Ebf</i> Hofaue 21</td>\n</tr>\n<tr>\n<td>260 40</td>\n<td>Hagner, Dr. Paul [St], <i>Ebf</i> Wirmhof 10</td>\n</tr>\n<tr>\n<td>258 23</td>\n<td>Kalsbach/ Dr. Werner, <i>Ebf</i> Ad.Hitl.-Str. 76</td>\n</tr>\n<tr>\n<td>316 98</td>\n<td>Kau, Jos., <i>Ebf</i> Laurentiusstr. 20</td>\n</tr>\n<tr>\n<td>25",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"310 0 998 984\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>239 07</td>\n<td>Kolbe, Ernst, <i>Ebf</i> Bembergstr. 8</td>\n</tr>\n<tr>\n<td>228 30</td>\n<td>Kolk, Dr. Walter, <i>Ebf</i> Ad.-Hitler-Str. 17</td>\n</tr>\n<tr>\n<td>206 23</td>\n<td>v. Korff, Graf E., <i>Ebf</i> Wall 24</td>\n</tr>\n<tr>\n<td>506 07</td>\n<td>Kornacker, Dr. Jul., <i>Ba</i> H.-Wessel-Pl. 7</td>\n</tr>\n<tr>\n<td>571 61</td>\n<td>Krofft, Dr. Jur., <i>Ba</i> Fischertal 2</td>\n</tr>\n<tr>\n<td>Smal.-Nr.</td>\n<td rowspan=\"2\">{ Dr. Jur. Krofft u. von der Becke, Rechts-</td>\n</tr>\n<tr>\n<td>57161</td>\n<td rowspan=\"2\">{ anwälte, -Barmen, Fischertal 2/4</td>\n</tr>\n<tr>\n<td>509 88</td>\n<td>Krüsemann, Hans, <i>Ba</i> H.-Hilbert-Str. 2</td>\n</tr>\n<tr>\n<td>564 73</td>\n<td>Langenbach, Dr. Wilh., <i>Ba</i> Hilbert-Str. 3</td>\n</tr>\n<tr>\n<td>200 08</td>\n<td>Lehning, Dr. Rolf, <i>Ebf</i> Wortmannstr. 26</td>\n</tr>\n<tr>\n<td>589 47</td>\n<td>Luckhaus, Dr. Otto, <i>Ba</i> Alte Garde 30</td>\n</tr>\n<tr>\n<td>223 53</td>\n<td>Lüdecke, Dr. Werner, <i>Ebf</i> Neue Fuhrstr. 5</td>\n</tr>\n<tr>\n<td>223 53</td>\n<td>Lüdecke-Schmitz, Dr. Ines, <i>Ebf</i> Neue Fuhrstr. 5</td>\n</tr>\n<tr>\n<td>245 75</td>\n<td>Lütters, Willi, <i>Ebf</i> Bergstr. 65</td>\n</tr>\n<tr>\n<td>242 17</td>\n<td>Mensing, Dr. K., -Elberfeld, Wall 1/3.</td>\n</tr>\n<tr>\n<td></td>\n<td>BK Deutsche Bank 5869. P Köln 222 12</td>\n</tr>\n<tr>\n<td>248 36</td>\n<td>Metzroth II, Dr. A., <i>Ebf</i> Schwanenstr. 21</td>\n</tr>\n",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"329 12 994 994\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>248 80</td>\n<td>Mook, Dr. Kurt, <i>Ebf</i> Kirchstr. 6</td>\n</tr>\n<tr>\n<td>208 21</td>\n<td>Morgenstern, Dr. Fritz, <i>Ebf</i> Wall 31</td>\n</tr>\n<tr>\n<td>508 07</td>\n<td>Müller, Dr. Oskar, <i>Ba</i> H.-Wessel-Pl. 7</td>\n</tr>\n<tr>\n<td>576 75</td>\n<td>Padberg, Dr. P., <i>Ba</i> Oberwall 27</td>\n</tr>\n<tr>\n<td>260 20</td>\n<td>Petzhold, Werner, <i>Ebf</i> Schlageterpl. 20</td>\n</tr>\n<tr>\n<td>604 51</td>\n<td>Riehl, Friedr., <i>Ba</i> Ludendorffstr. 180</td>\n</tr>\n<tr>\n<td>545 68</td>\n<td>van Riesenbeck, Math., <i>Ba</i> Alte Garde 82</td>\n</tr>\n<tr>\n<td>507 21</td>\n<td>Römer, Dr. Werner, <i>Ba</i> Brändströmstr. 4</td>\n</tr>\n<tr>\n<td>260 61</td>\n<td>Runkel, Dr. Hans, <i>Ebf</i> Bleichstr. 13</td>\n</tr>\n<tr>\n<td>388 23</td>\n<td>Sabin, Dr. Fritz, <i>Ebf</i> Str. d. SA 146</td>\n</tr>\n<tr>\n<td>240 29</td>\n<td>Sander, A., <i>Ebf</i> Wortmannstr. 40</td>\n</tr>\n<tr>\n<td>313 13</td>\n<td>Sardemann, Dr. Wilh., Justizrat, Wupper-<br/>tal-Elberfeld, Straße der SA 89</td>\n</tr>\n<tr>\n<td>372 03</td>\n<td>Dorselbe, Wohn., -Elberfeld, Mozartstr. 23</td>\n</tr>\n<tr>\n<td>209 47</td>\n<td>Sattler, Dr. jur., Rechtsanwalt, Wupper-<br/>tal-Elberfeld, Luisenstraße 70. <b>BK</b> Bank-<br/>haus Kersten P Köln 39560</td>\n</tr>\n<tr>\n<td>591 09</td>\n<td>Scheirmann, Friedr., <i>Ba</i> Marper Weg 7</td>\n</tr>\n<tr>\n<td>526 08</td>\n<td>Schiess, Dr. Rich., <i>Ba</i> Oberwall 68</td>\n</tr>\n<tr>\n<td>2",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"327 0 993 983\" data-label=\"Text\"><table><tbody><tr><td>527 78</td><td><b>Schroer, Hans, Ba</b> Schucharstr. 23</td></tr><tr><td>208 23</td><td><b>Schroer, Herm., Ebf</b> Wall 24</td></tr><tr><td>206 23</td><td><b>Hermann Schroer und E. Graf von Korff,</b><br/>Rechtsanwälte, Wuppertal - Elberfeld,<br/>Wall 24 (Eingang Herzogstraße)</td></tr><tr><td>204 26</td><td><b>Schumann, G., Rechtsanwalt,</b> Wuppertal-<br/>Elberfeld, Herzogstr. 22. <b>BK Deutsche</b><br/><b>Bank P Essen 4398</b></td></tr><tr><td>261 11</td><td><b>Schuster II, Ebf</b> Bembergstr. 4</td></tr><tr><td>543 94</td><td><b>Seelbach, Dr. Fritz, Lof</b> Am Timpen 2</td></tr><tr><td>222 00</td><td><b>Siebern, Dr. Ad., Ebf</b> Bankstr. 9</td></tr><tr><td>357 10</td><td><b>Sporling, Dr. Gust. Ebf</b> Straße d. SA 138</td></tr><tr><td>260 61</td><td><b>Spiecker, Otto, Ebf</b> Bleichstr. 13</td></tr><tr><td>278 48</td><td><b>Steinert, Hans, Ebf</b> Alte Freiheit 17</td></tr><tr><td>529 18</td><td><b>Strasmann, Dr. Otto, Ba</b> Hitler-Str. 624</td></tr><tr><td>252 90</td><td><b>Thedinga, Ebf</b> Kirchplatz 15</td></tr><tr><td>315 68</td><td><b>Thomashoff, Hans, Ebf</b> Alsenstr. 20</td></tr><tr><td>576 96</td><td><b>Trappenberg, Dr. W., Ebf</b> Hitler-Str. 629</td></tr><tr><td>355 51</td><td><b>Volkmann, Dr. Hans, Ebf</b> Str. d. SA 42</td></tr><tr><td>240 29</td><td><b>Vorberg, H., Ebf</b> Wortmannstr. 40</td></tr><tr><td>247 59</td><td><b>Wagner, Hans, Ebf</b> Calvinstr. 31</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Wurzen (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wusterhausen (Dosse) [Mark Brandenburg].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Wyk (Föhr) [Schlesw.-Holst.].",
+        "entries": []
+      },
+      {
+        "region_name": "Xanten (Rhpr.)",
+        "entries": []
+      },
+      {
+        "region_name": "Ybbs (Donau) [Niederdonau].",
+        "entries": []
+      },
+      {
+        "region_name": "Zarrentin (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zawiercie (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zehdenick (Mark Brandenburg.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 717 998 921\" data-label=\"Text\"><p><b>Rechtsanwälte — 4792. Reederei</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Zeitz (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zell (Mosel) [Rhp.r.].",
+        "entries": []
+      },
+      {
+        "region_name": "Zell (See) [Salzburg].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Zell (Ziller) [Tirol].",
+        "entries": []
+      },
+      {
+        "region_name": "Zella-Mehlis (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zerbst (Anh.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zeulenroda (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Zeuthen (Mark Brandenburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Zeven (Bez. Bremen).",
+        "entries": []
+      },
+      {
+        "region_name": "Ziegenhals (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zielenzig (Mark Brandenburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Zimmowitz auf Usedom [Pomm.].",
+        "entries": []
+      },
+      {
+        "region_name": "Zinten (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zistersdorf b. Geras (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Zittau (Oberlausitz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Znaim (Niederdonaau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Zobten (Bez. Breslau).",
+        "entries": []
+      },
+      {
+        "region_name": "Zöblitz (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zörbig (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zoppot (Westpr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "n u. Schiffahrtsgeschäfte",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Zossen (Mark Brandenburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Zschopau (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zuckmantel (Ostpreußen).",
+        "entries": []
+      },
+      {
+        "region_name": "Züllichau (Mark Brandenburg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zülz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zürich (Schweiz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Zweibrücken (Pfalz).",
+        "entries": [
+          {
+            "extension": "415",
+            "text": "Berdel, Christian, J.-R., Gutenbergstr. 29"
+          },
+          {
+            "extension": "14",
+            "text": "Biffar, Friedrich, Franz v. Epp-Str. 38"
+          },
+          {
+            "extension": "676",
+            "text": "Brügel, Richard, Franz v. Epp-Str. 7"
+          },
+          {
+            "extension": "666",
+            "text": "Hörnig, Dr. Ludwig, Franz v. Epp-Str. 23"
+          },
+          {
+            "extension": "290",
+            "text": "Klein, Dr. Heinrich, Kaiserstr. 39"
+          },
+          {
+            "extension": "26",
+            "text": "Kling, Adolf, Adolf-Hitler-Pl. 3"
+          },
+          {
+            "extension": "333",
+            "text": "Kurtz, Johann. J.-R., Bubenhauser Str. 5"
+          },
+          {
+            "extension": "634",
+            "text": "Mühlhäuser, Dr. Karl, Herzogstr. 5"
+          },
+          {
+            "extension": "149",
+            "text": "Rau, Friedrich, Dinglerstr. 8"
+          },
+          {
+            "extension": "149",
+            "text": "Rau Dr. Heinrich J.-R., Dinglerstr. 8"
+          },
+          {
+            "extension": "149",
+            "text": "Rau, Karl, [St], Dinglerstr. 8"
+          },
+          {
+            "extension": "693",
+            "text": "Rau, Richard, Kaiserstr. 26"
+          },
+          {
+            "extension": "669",
+            "text": "Rohrbacher, Adolf, Kaiserstr. 47"
+          },
+          {
+            "extension": "24",
+            "text": "Schuler, Max, Franz v. Epp-Str. 12"
+          },
+          {
+            "extension": "500",
+            "text": "Schultz, Pirmin, Kaiserstr. 52"
+          },
+          {
+            "extension": "84",
+            "text": "Trier, Adolf, [St], Hauptstr. 14"
+          },
+          {
+            "extension": "94",
+            "text": "Trier a. Ob. T-D Hauptstr. 14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Zwenkau (Bez. Leipzig).",
+        "entries": [
+          {
+            "extension": "419",
+            "text": "Döben, Dr., [N], Ritterstr. 19"
+          },
+          {
+            "extension": "350",
+            "text": "Mammitzsch, Horst, Ritterstr. 25"
+          },
+          {
+            "extension": "534",
+            "text": "Pommer, Dr. Fritz, [N], Ahnertstr. 2"
+          },
+          {
+            "extension": "314",
+            "text": "Rilke, Rudolf, Pegauer Str. 29"
+          },
+          {
+            "extension": "380",
+            "text": "Schulze, W., Pegauer Str. 53"
+          }
+        ]
+      },
+      {
+        "region_name": "Zwettl (Niederdonau).",
+        "entries": [
+          {
+            "extension": "78",
+            "text": "Benischek, Dr. Franz, Kais.-Wilh.-Str. 45"
+          },
+          {
+            "extension": "17",
+            "text": "Beydi, Dr. jur. Franz, Rechtsanwalt und Verteidiger in Strafsachen, Kanzlei: Kaiser-Wilhelm-Str. 20. P Wien 141950"
+          }
+        ]
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": [
+          {
+            "extension": "2451",
+            "text": "Arnoldt, K., Bahnhofstr. 23"
+          },
+          {
+            "extension": "2784",
+            "text": "Beyer I, Dr. Johannes, Schneeb.Str. 9"
+          },
+          {
+            "extension": "3731",
+            "text": "Beyer II, Dr. Rich., [N], Hitlerring 33"
+          },
+          {
+            "extension": "6260",
+            "text": "Boyer, Dr. Werner, [St], Auß.Plau.Str. 24"
+          },
+          {
+            "extension": "2515",
+            "text": "Donath, Dr. J., Ad.-Hitler-Ring 31"
+          },
+          {
+            "extension": "0215",
+            "text": "Ernst n. u. Ad. Wilhelm Diner 21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"82 0 990 988\" data-label=\"Text\"><table><tbody><tr><td>3801</td><td><b>Eisenreich, Dr. R.,</b> Planitz, Hindenb.PI.</td></tr><tr><td>4527</td><td><b>Frohberg, Walter,</b> [N], Marienstr. 3</td></tr><tr><td>3920</td><td><b>Hahn, Dr. Johannes,</b> Amtsgerichtsstr. 1</td></tr><tr><td>3280</td><td><b>Haun, Dr. Erich,</b> [N], Marienplatz 4</td></tr><tr><td>3731</td><td><b>Heiling, Dr. Hans,</b> [N], Ad.-Hitler-Ring 33</td></tr><tr><td>2128</td><td><b>Heitzig, Dr. Hch.,</b> [St], Inn.Plauen.Str. 22</td></tr><tr><td>2128</td><td><b>Heitzig, Dr. K.,</b> [N], Inn.Plauen.Str. 22</td></tr><tr><td>2128</td><td><b>Dr. K. Heitzig,</b> Rechtsanw. und Notar u.<br/><b>Hch. Heitzig,</b> Rechtsanw. u. Steuerberater</td></tr><tr><td>3630</td><td><b>Helfer, Walther,</b> Münzstr. 1</td></tr><tr><td>3630</td><td><b>Helfer-Lehmann,</b> Irmg., Münzstr. 1</td></tr><tr><td>3482</td><td><b>Hoffmann, Dr. Rud.,</b> [N], Hauptmarkt 14</td></tr><tr><td>7110</td><td><b>Kästner, Dr. Ernst,</b> Moritzstr. 35</td></tr><tr><td>7694</td><td><b>Krausse, Dr. Oskar,</b> [St], Hitlererring 14</td></tr><tr><td>5869</td><td><b>Kretzschmar, H.,</b> Wilhelmstr. 6</td></tr><tr><td>4291</td><td><b>Lehmann I, Dr. Fr.,</b> [N], Äuß.Plau.Str. 16</td></tr><tr><td>6875</td><td><b>Lincke, Helmuth,</b> Münzstr. 3</td></tr><tr><td>3920</td><td><b>Näke, Dr. Joh.,</b> [St], Amtsgerichtsstr. 1</td></tr><tr><td>4610</td><td><b>Pinkert, Karl A.,</b> [N], Äuß.Plau.Str. 17</td></tr><tr><td>2077</td><td><b>Pobbig, Dr.,</b> Inn.Plauenschestestr. 9</td></tr><tr><td>7885</td><td><b>Poley, Curt,</b> Leipziger Str. 10</td",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Zwittau (Schönhengstgau) [Sudetenland].",
+        "entries": [
+          {
+            "extension": "36",
+            "text": "Haczek, Dr. Otto"
+          },
+          {
+            "extension": "146",
+            "text": "Kloß, Dr. Benno, Ad. Hitler-Pl. 92"
+          },
+          {
+            "extension": "47",
+            "text": "Worm, Dr. Max, [St], Ad.-Hitler-Pl. 48"
+          }
+        ]
+      },
+      {
+        "region_name": "Zwönitz (Sachs.).",
+        "entries": [
+          {
+            "extension": "35",
+            "text": "Zimm, W., [N], Adolf-Hitler-Str. 29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "4790. Rechtsbeistände",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "4791. Reduzierventile",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"190 540 205 630\" data-label=\"Text\"><p>•<br/>•</p></div>\n<div data-bbox=\"40 950 50 980\" data-label=\"Text\"><p>•</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"30 33 146 308\"}, {\"label\": \"Text\", \"bbox\": \"164 33 798 386\"}, {\"label\": \"Text\", \"bbox\": \"341 399 658 565\"}, {\"label\": \"Text\", \"bbox\": \"222 587 751 770\"}, {\"label\": \"Text\", \"bbox\": \"148 770 801 960\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"10 85 166 421\"}, {\"label\": \"Text\", \"bbox\": \"10 485 776 783\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "4792. Reedereien u. Schiffahrts-geschäfte",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"10 125 240 411\"}, {\"label\": \"Text\", \"bbox\": \"54 460 828 950\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Unterweser Reederei",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Elbing.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"238 18 567 236\"}, {\"label\": \"Text\", \"bbox\": \"109 292 714 429\"}, {\"label\": \"Text\", \"bbox\": \"209 429 624 563\"}, {\"label\": \"Text\", \"bbox\": \"95 563 322 822\"}, {\"label\": \"Text\", \"bbox\": \"487 563 733 822\"}, {\"label\": \"Text\", \"bbox\": \"95 835 732 973\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Emden.",
+        "entries": []
+      },
+      {
+        "region_name": "Gotenhafen (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 832 991\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>32 69 51</td>\n<td>(Hbg. 1, Alsterdamm 25</td>\n<td></td>\n</tr>\n<tr>\n<td>Sammel-Nr.</td>\n<td>(Hamburg - Südamerikanische Dampfschiffahrts-Gesellschaft, Hbg. 11, Holzbrücke 8</td>\n<td></td>\n</tr>\n<tr>\n<td>38 10 07</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>38 07 41</td>\n<td>Dieselbe, für Ferngespräche</td>\n<td></td>\n</tr>\n<tr>\n<td>32 13 01</td>\n<td>Hansegesellschaft</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Aschpurwis &amp; Veltjens</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Reederei, Hbg. 1, Ferdinandstr. 38</td>\n<td></td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td>(Kaufahrtei Seereederei Adolf Wiards &amp;</td>\n<td></td>\n</tr>\n<tr>\n<td>55 84 51</td>\n<td>Co., Hbg. 36, Alsterufer. 10 T Kaufag</td>\n<td></td>\n</tr>\n<tr>\n<td>42 18 29</td>\n<td>Kelken &amp; Oelrichs, Frachtschiffahrt Helgoland, -Altona 1, Gr.Elbstr. 112</td>\n<td></td>\n</tr>\n<tr>\n<td>33 11 95</td>\n<td>Ernst Komrowski Reederei, Hamburg 1, Kattrepel 2</td>\n<td></td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td>(L. F. Mathies &amp; Co., Reederei, Schiffsmakler, Spedition, Hbg. 8, Grimm 27</td>\n<td></td>\n</tr>\n<tr>\n<td>31 10 81</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>38 26 69</td>\n<td>(Mathies Reederei K.-G., Hbg. 11, Steinhöft 11. Regelm. Linien Hamburg-Ostsee</td>\n<td></td>\n</tr>\n<tr>\n<td>38 26 53</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Sml.-Nr.</td>\n<td>(Oldenburg-Portugiesische Dampfschiffs-Reederei, Hbg. 1, Mönckebergstr. 27</td>\n<td></td>\n</tr>\n<tr>\n<td>32 43 06</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 864 503\" data-label=\"Text\"><p>43 26 52 Reederei K. K. Skriver G. m. b. H., Ham-<br/>burg 6, Neuer Pferdemarkt 30</p><p>32 15 71 Sauber &amp; Co., Reederei, Hamburg 1,<br/>Adolf-Hitler-Platz 4</p><p>32 13 77 Schuldt, H., Reederei, Schiffsmakler,<br/>Versicherungsbüro, Hamburg 1, Alster-<br/>damm 8</p></div>",
+      "cells": [
+        "col4_sec14.png"
+      ]
+    }
+  }
+]

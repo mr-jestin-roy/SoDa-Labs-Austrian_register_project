@@ -1,0 +1,742 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 10 998 993\" data-label=\"Text\">\n<p>\n    383 Plinke, Carl, Baustelle, Reihdamm<br/>\n    304 Plüschke, elektrot. Geschäft, Lange Str.<br/>\n    156 Plust, Herm., Maurermstr., Kayhausen<br/>\n    241 Pösnecker &amp; Dietrich, Baugesch., Rostrup<br/>\n    295 Popp, H., Dentist, Bruno-Bode-Str.<br/>\n    (829) Poppinga, T. B., Kolonialwaren<br/>\n    186 Rabben, Hermann, Geflügelhof, Meyerhause<br/>\n    287 Rabben, J. W., Bauer, Aschhauserfeld<br/>\n    283 Rabben, Wilh., Landwirt, Helle<br/>\n    393 Rath, Hans, Molkereibedarf, Langestr.<br/>\n    391 Reichsarbeitsdienst, Abt. 12/L/111<br/>\n    108 Reichsbahn-Güterabfertigung<br/>\n    320 Reichsbahn, Bhf. Kayhauserfeld<br/>\n    108 Reichsluftschutzbund, O. Gr. Ammerland<br/>\n    365 Kreisbauernschaft Ammerland<br/>\n    227 Derselbe, Landwirtschaftsschule<br/>\n    219 Reichs-Postamt<br/>\n    288 Reil, Joh., Bäckermstr., Schulstr.<br/>\n    240 Reil, Joh., Wirtsch., Haarenstroth<br/>\n    146 Reiners, Ww. Karl, Helle<br/>\n    374 Renken, Erich, Bauer, Aue<br/>\n    900 Dornier, Fritz, Wirtschaftshandels-Gerüsten\n  </p>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"210 0 998 990\" data-label=\"Text\"><p>388 Renken, Otto, Kaufm., Kayhausen<br/>344 Riedel, Otto, Gastwirt, Kayhausen<br/>145 Ries, Eberh., Buchdruck., Schulstr.<br/>246 Ring, Walter, Tiefbau, Elmendorf<br/>140 Ripken, Gerh., Manuf.-W., Wollspinnerei<br/>113 Roggemann &amp; Co., Fleischwarenfabrik<br/>225 Roggemann, H.-B., Kfm., Auf d. hoh. Ufer<br/>335 Rühl, Fritz, Kolonialwaren<br/>251 Rumpf, Rudolf, Specken<br/>346 Sager &amp; Woerner, Baubüro, Rostrup<br/>153 Sandstede, Gerh., landw. Maschinen<br/>379 Sandstede, Gerh., Schmiedemstr., Altenkam<br/>129 Sandstede, Heinr., Dr. h. c.<br/>216 Sandstede, J. G., Holzhandlung<br/>355 Sauer, Ernst, U. d. Eichen<br/>102 Schierhold, Ernst, Rektor<br/>300 Schindhelm, Edm., Ing., Schulstr.<br/>269 Schneider, Frdr., Manuf.-W., Aschhauserfeld<br/>252 Schröder, Gerh., Kol.-W., Ekern<br/>143 Schröder, J. H., Eisenwr., Mühlenstr.<br/>159 Schröder, Wilh., Schmiedemstr., Altenhof</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"204 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Verl.</th>\n<th>Name</th>\n<th>Beruf</th>\n<th>Ort</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>319</td>\n<td>Schulze-Dieckhoff, Jos.,</td>\n<td>Standartenf.</td>\n<td></td>\n</tr>\n<tr>\n<td>149</td>\n<td>Schweers, Heinr.,</td>\n<td>Schützenhof Brokhof</td>\n<td></td>\n</tr>\n<tr>\n<td>390</td>\n<td>Schwengers, Frdr.,</td>\n<td>Stellmacher, U. d. Eichen</td>\n<td></td>\n</tr>\n<tr>\n<td>353</td>\n<td>v. Seggern, Heinz,</td>\n<td>Gastwirt, Gristede</td>\n<td></td>\n</tr>\n<tr>\n<td>359</td>\n<td>Seitz, Dora, Frau,</td>\n<td>Elmendorf</td>\n<td></td>\n</tr>\n<tr>\n<td>191</td>\n<td>Siefken, G.,</td>\n<td>Landw., Specken</td>\n<td></td>\n</tr>\n<tr>\n<td>157</td>\n<td>Siems, J. F.,</td>\n<td>Schneidermstr., Lange Str.</td>\n<td></td>\n</tr>\n<tr>\n<td>325</td>\n<td>Siems, Wilh.,</td>\n<td>Schuhwaren, Bruno-Bode-Str.</td>\n<td></td>\n</tr>\n<tr>\n<td>338</td>\n<td>Stöckmann, Ernst,</td>\n<td>Baumschulen, Rostrup</td>\n<td></td>\n</tr>\n<tr>\n<td>230</td>\n<td>Theilken, Gustav,</td>\n<td>Gastw., Dänikhorst</td>\n<td></td>\n</tr>\n<tr>\n<td>314</td>\n<td>Tirre, Joh.,</td>\n<td>Maschinenfabrik und Maschinen-Reparaturwerk</td>\n<td></td>\n</tr>\n<tr>\n<td>27</td>\n<td>Töpken, Herm.,</td>\n<td>Gastwirtsch., Kayhauserfeld</td>\n<td></td>\n</tr>\n<tr>\n<td>242</td>\n<td>Treder, Dresel &amp; Co.,</td>\n<td>Nahrungsmittelwerke</td>\n<td></td>\n</tr>\n<tr>\n<td>309</td>\n<td>Ulrich, Heinr.,</td>\n<td>Bäckerei, Rostrup</td>\n<td></td>\n</tr>\n<tr>\n<td>177</td>\n<td>Wachtendorf, G.,</td>\n<td>Gastwirt, Helle</td>\n<td></td>\n</tr>\n<tr>\n<td>384</td>\n<td>Wagenknecht, W.,</td>\n<td>Flugzeugführer, Langestr",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "hagen",
+        "entries": [
+          {
+            "extension": "285",
+            "text": "Westerholt, H. C., Buchhdlg., Bruno-Bode-Str."
+          },
+          {
+            "extension": "165",
+            "text": "Witte, Johann, Sattlerei"
+          },
+          {
+            "extension": "(165)",
+            "text": "Witte, Artur, Polsterei"
+          },
+          {
+            "extension": "133",
+            "text": "Wittjen, Martha, Landwirt, Querenstede"
+          },
+          {
+            "extension": "211",
+            "text": "Wöltje, Carl, Kaufm., U. d. Eichen"
+          },
+          {
+            "extension": "387",
+            "text": "Ed. Züblin &amp; Cie. AG, Baubüro"
+          },
+          {
+            "extension": "124",
+            "text": "Zwischenahner Bank, G.m.u.H., Bahnhofstr."
+          },
+          {
+            "extension": "324",
+            "text": "Zwischenahner Lichtspiele, W. Grambart"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Badbergen (Hann.)",
+        "entries": [
+          {
+            "extension": "290",
+            "text": "Aachte, Bauer, Langen"
+          },
+          {
+            "extension": "432",
+            "text": "Alberding, Klemens, Bauer, Wehdel"
+          },
+          {
+            "extension": "289",
+            "text": "Altmann, Emma, Bauer, Lechterke"
+          },
+          {
+            "extension": "238",
+            "text": "Apotheke Badbergen"
+          },
+          {
+            "extension": "260",
+            "text": "Artländer Haus, Gastw., Bahnhofstr."
+          },
+          {
+            "extension": "222",
+            "text": "Auf dem Hövel, Dr. Karl, Zahnarzt"
+          },
+          {
+            "extension": "207",
+            "text": "Badberger Hof, Hotel"
+          },
+          {
+            "extension": "435",
+            "text": "Badberger Maschinenfabr. Medeke u. Netheler GmbH."
+          },
+          {
+            "extension": "294",
+            "text": "Batsche, Wilh., Uhren u. Goldwr."
+          },
+          {
+            "extension": "271",
+            "text": "Behre, Otto, Viehhdlg., Grothe"
+          },
+          {
+            "extension": "429",
+            "text": "Bemfert, Bauer, Vehs"
+          },
+          {
+            "extension": "419",
+            "text": "Berner, Bauer, Wulften"
+          },
+          {
+            "extension": "248",
+            "text": "Berner, Alfred, Bauer, Grünloh-Nord"
+          },
+          {
+            "extension": "362",
+            "text": "Block, Hermann, Bauer, Talge b. Bersenbr."
+          },
+          {
+            "extension": "341",
+            "text": "Block-Seegemann, Helle, Kr. Bersenbrück"
+          },
+          {
+            "extension": "221",
+            "text": "Bodemann, B. D. W., Manuf.-W., Modewr."
+          },
+          {
+            "extension": "431",
+            "text": "Borgstede, Bauer, Wehdel"
+          },
+          {
+            "extension": "433",
+            "text": "Boske, Heinrich, Bauer, Wehdel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"193 0 990 995\" data-label=\"List-Group\"><ul><li>213 Brackel, H., Kaufmann und Gastwirt</li><li>386 Brandt, Tischlermstr., Talge b. Bersenbrück.</li><li>392 Brundert, Bauer, Vehs</li><li>249 Brundert, Herm., Bauer, Lechterke</li><li>306 Brundert, Diedrich, Bauer, Helle</li><li>346 Bruning, F., Viehandlung, Badbergen</li><li>347 Bruning, Herm., Viehverteller, Wehdel</li><li>368 Brunswinkel, Bauer, Grothe</li><li>275 Budke, Bauer, Vehs</li><li>319 Budke-Volkert, Bauer, Langen</li><li>202 Büngeler, Schmied, Talge b. Bersenbrück</li><li>440 Bürgermeister Fritz Reuter</li><li>240 Bungenstock, Herm., Installationen</li><li>421 Burgdorff, Superintendent.</li><li>296 Dettmer-Göhlingshorst, Bauer, Wehdel</li><li>343 v. Dreele, Rüsfort b. Gehrde</li><li>402 v. Dreele, Gerhard, Viehhdlg., Grothe</li><li>340 zu Dreele, Hermann, Bauer, Helle b. Gehrde</li><li>358 zu Dreele, Rudolf, Landw., Helle b. Gehrde</li><li>380 Droste, W., Pferdehdlg., Wehdel.</li><li>422 Eilera. Raner. Grünloh h. Radherzan</li></ul></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"192 0 991 722\" data-label=\"Text\"><p>350 Minnaus, Bauer, Groune<br/>330 Einhaus, Otto, Bauer, Vehs<br/>279 Elting, Wilh., Bauer, Vehs<br/>378 Enders, Georg, Bauer, Grünloh<br/>274 Engberding-Ahrenhorst, D., Bauer, Vehs<br/>241 Espenhorst, Hermann, Bauer, Helle b. Gehrde<br/>424 Evers, Bauer, Vehs<br/>291 Feilker, Bauer, Talge b. Bersenbrück<br/>417 Feldforth, Herm., Bauer, Langen<br/>234 Flerlage, Willi, Bahnhofswirt</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"30 12 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>300</td>\n<td>Flissmeyer, Wilh., Gastwirt, Grünloh</td>\n</tr>\n<tr>\n<td>403</td>\n<td>Förtach, Bierverlag.</td>\n</tr>\n<tr>\n<td>393</td>\n<td>Freges-Stegemann, H., Bauer, Langen</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Gast, Wilhelm, Bauer, Wulften</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Geerdes, W., Autovermiet. u. Reparatur</td>\n</tr>\n<tr>\n<td>393</td>\n<td>Gendarmerie-Amt Wulften</td>\n</tr>\n<tr>\n<td>348</td>\n<td>Gend.-Posten Badbergen</td>\n</tr>\n<tr>\n<td>284</td>\n<td>Gervesmann, Bauer, Wulften</td>\n</tr>\n<tr>\n<td>352</td>\n<td>Göhlingshorst, Gustav, Kaufmann</td>\n</tr>\n<tr>\n<td>246</td>\n<td>Göhlingshorst, Heinr., Bauer, Grünloh</td>\n</tr>\n<tr>\n<td>372</td>\n<td>Goesmann, Bauer, Grünloh</td>\n</tr>\n<tr>\n<td>439</td>\n<td>Gräper, Herm., Bauer, Grünloh</td>\n</tr>\n<tr>\n<td>331</td>\n<td>Grevenkämper, Schmiede, Wulften</td>\n</tr>\n<tr>\n<td>404</td>\n<td>Haar, G., Wirt, Talge b. Bersenbrück</td>\n</tr>\n<tr>\n<td>239</td>\n<td>Hack, Dr. Christian, Arzt</td>\n</tr>\n<tr>\n<td>396</td>\n<td>Haverkamp, Hermann, Bauer, Helle</td>\n</tr>\n<tr>\n<td>325</td>\n<td>Hegewisch, August, Möbel</td>\n</tr>\n<tr>\n<td>264</td>\n<td>van der Heide, H., Autovermiet., Wehdel</td>\n</tr>\n<tr>\n<td>389</td>\n<td>von der Heide, Heinrich, Landwirt</td>\n</tr>\n<tr>\n<td>282</td>\n<td>Hilge, Lechterke.</td>\n</tr>\n<tr>\n<td>218</td>\n<td>Hilgefort, Aug., Bürgermstr., Grothe, Schulen</td>\n</tr>\n<tr>\n<td></td>\n<td>Hirn</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"19 0 967 993\" data-label=\"Text\"><p>444 Höner, Emma, Hebamme<br/>302 Hoffmann, Georg, Bauer, Grothe<br/>332 Hoffstall, S., Bauer, Wehdel<br/>237 Huster-Hagemann, W., Bauer, Grothe<br/>281 Iding, Aug., Landwirt, Wehdel<br/>351 Jürgens, Wilh., Bauer, Wohld<br/>320 Junghans, Kurt, Manufakturwr.<br/>298 Kahmann, Bauer, Grünloh<br/>297 Kahmann, Herm., Bauer, Wehdel<br/>370 Kalvelage, Ludwig, Arzt<br/>418 Kamlage, Kolonialwaren, Bäckerei.<br/>410 Kerkhoff, Georg, Bauer, Langen<br/>364 Kessens, Bauer, Langen<br/>262 Kettler, Hch., Gemeinderechnungsführer<br/>242 Kettler, Wilh., Baugeschäft<br/>409 Klatte, Bauer, Langen<br/>232 Kleinert, Robert, Buchhandlung<br/>285 Knollenberg, Hans-Albr., Bauer, Lechterke<br/>220 König, Gustav, Viehhdlg.<br/>382 Köper, W., Sägewerk, Grünloh<br/>(416) Kohorst, Heinrich. Viehandlung</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 986\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">LUXEMBURG, WILHELM, DAUGSTHAL</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>261</td>\n<td>Koppelmann, Georg, Bauer, Talge</td>\n</tr>\n<tr>\n<td>385</td>\n<td>Korthage, Heinrich, Landwirt, Grünloh</td>\n</tr>\n<tr>\n<td>292</td>\n<td>Kramer, Bauer, Lechterke</td>\n</tr>\n<tr>\n<td>277</td>\n<td>Krankenhaus, evang.</td>\n</tr>\n<tr>\n<td>438</td>\n<td>Krause, Werner, Bauer, Hof Heye, Grothe</td>\n</tr>\n<tr>\n<td>384</td>\n<td>Küst, Bauer, Vehs</td>\n</tr>\n<tr>\n<td>256</td>\n<td>Küst, G., Diplom-Ing., Landwirt, Grothe</td>\n</tr>\n<tr>\n<td>334</td>\n<td>Küst, Herm., Bauer, Rüsfort b. Gehrde</td>\n</tr>\n<tr>\n<td>441</td>\n<td>Kuhlmann-Lehmkuhle, landw. Maschinen</td>\n</tr>\n<tr>\n<td>434</td>\n<td>Laumeyer, Schneidermeister.</td>\n</tr>\n<tr>\n<td>265</td>\n<td>Lübke, Hermann, Bauer, Wohld.</td>\n</tr>\n<tr>\n<td>408</td>\n<td>Lücke, Bauer, Grothe</td>\n</tr>\n<tr>\n<td>335</td>\n<td>Lücke, Wilhelm, Viehandlung</td>\n</tr>\n<tr>\n<td>356</td>\n<td>Lüdeling, Heinr., Landwirt, Wehdel</td>\n</tr>\n<tr>\n<td>388</td>\n<td>Marbold, Bauer, Lechterke</td>\n</tr>\n<tr>\n<td>401</td>\n<td>Meessmann, Ad., Grothe</td>\n</tr>\n<tr>\n<td>316</td>\n<td>Mehsmann, Aug., Klempnerei</td>\n</tr>\n<tr>\n<td>276</td>\n<td>Mengert, Bauer, Wulften</td>\n</tr>\n<tr>\n<td>394</td>\n<td>Merschmann, Bauer, Grothe</td>\n</tr>\n<tr>\n<td>293</td>\n<td>Merschmann, Bauer, Talge</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 997\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>326</td>\n<td>Meyer, Hermann, Gastwirtschaft</td>\n</tr>\n<tr>\n<td>243</td>\n<td>Meyer zu Devern, Bauer, Grothe</td>\n</tr>\n<tr>\n<td>267</td>\n<td>Meyer zu Devern, Hof Sleckmann, Langen.</td>\n</tr>\n<tr>\n<td>336</td>\n<td>Meyer-Siemermann, Erich, Hof Lyra, Wehdel</td>\n</tr>\n<tr>\n<td>397</td>\n<td>Meyer-Siemermann, Oskar, Bauer, Langen</td>\n</tr>\n<tr>\n<td>288</td>\n<td>Meyer-Wingmann, Bauer, Vehs</td>\n</tr>\n<tr>\n<td>278</td>\n<td>Meyer zu Wehdel, Bauer, Wehdel</td>\n</tr>\n<tr>\n<td>344</td>\n<td>Middelkampf, Heinr., Bauer, Grönlöh</td>\n</tr>\n<tr>\n<td>245</td>\n<td>Middelkampf, Otto, Bauer, Grönlöh</td>\n</tr>\n<tr>\n<td>253</td>\n<td>Middelkampf, Wilh., Bauer, Grönlöh</td>\n</tr>\n<tr>\n<td>303</td>\n<td>Middendorf, Justus, Kol.W., Vehs</td>\n</tr>\n<tr>\n<td>227</td>\n<td>Molkerei Badbergen</td>\n</tr>\n<tr>\n<td>209</td>\n<td>Mühlenweg, Aug., Wirt u. Kfm., Vehs</td>\n</tr>\n<tr>\n<td>270</td>\n<td>Nehmelmann, Malermeister, Grothe</td>\n</tr>\n<tr>\n<td>310</td>\n<td>Netheler, Georg, Wirtschaft, Wehdel</td>\n</tr>\n<tr>\n<td>287</td>\n<td>Niehaus, Gustav, Elektro-Install.</td>\n</tr>\n<tr>\n<td>416</td>\n<td>Niemann, Bernh., Gastwirt.</td>\n</tr>\n<tr>\n<td>324</td>\n<td>Niemann, Jos., Spedition, am Bahnhof.</td>\n</tr>\n<tr>\n<td>269</td>\n<td>Nietfeld, Heinr., Bauer, Langen</td>\n</tr>\n<tr>\n<td>223</td>\n<td>Nietfeld, Otto, Bauer, Vehs</td>\n</tr>\n<tr>\n<td>492</td>\n<td>Nidanhorn Gustav</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 902 991\" data-label=\"Text\"><p>318 Using, August, Kfm., Fahrräder<br/>258 Using, Herm., Getreidehandlung, Grothe<br/>369 Pardieck, Hermann, Bauer, Lechterke<br/>383 Pelle-Lyre, Bauer, Wehdel<br/>314 Peters, Hermann, Kfm., Langen.<br/>426 Plangemann, Ww., Wirtschaft, Grothe.<br/>254 Quekemeyer, Bauer, Grünloh<br/>321 Quint, Herm., Schneidermstr.<br/>423 Rantze, Aug., Bauer, Wehdel<br/>437 Rantze, Carl, Bauer, Grünloh<br/>312 Reichsbahn, Bahnhof Badbergen<br/>400 Reichspost, Postamt<br/>313 Reinermann, D., Bauer, Wehdel<br/>272 Rengermann, Wilh., Bauer, Talge<br/>337 Rethorst, Gustav, Bauer, Wehdel<br/>440 Reuter, Fritz, Malermstr.<br/>359 Rethorst, Wilh., Bauer, Grünloh<br/>355 Rickhaus, Heinr., Autovermiet., Grothe<br/>235 Rodbert, Herm., Bauer, Lechterke<br/>420 Röhling, Herm., Autorepar.<br/>263 Roeßmann, D., Bauer, Wulften</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 970\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>NUMMER</th>\n<th>NAME, BERUFLICHES, ORT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>436</td>\n<td>Röwekamp, Bauer, Langen</td>\n</tr>\n<tr>\n<td>215</td>\n<td>Roßmann, Walter, Kaufmann</td>\n</tr>\n<tr>\n<td>407</td>\n<td>Rothmann, Bauer, Talge</td>\n</tr>\n<tr>\n<td>377</td>\n<td>Sandmann, Otto, Bauer, Grothe</td>\n</tr>\n<tr>\n<td>329</td>\n<td>Sanitäts-Rettungsstelle</td>\n</tr>\n<tr>\n<td>252</td>\n<td>Scheper, Herm., Kolonialwaren</td>\n</tr>\n<tr>\n<td>412</td>\n<td>Schiering, Aug., Viehhdlg., Rüßfort b. Gehrde</td>\n</tr>\n<tr>\n<td>414</td>\n<td>Schleusenhaus Wulften.</td>\n</tr>\n<tr>\n<td>398</td>\n<td>Schmitz, G., Gärtnerei u. Samenhdlg.</td>\n</tr>\n<tr>\n<td>308</td>\n<td>Schöne Warnefeld, Techniker, Talge.</td>\n</tr>\n<tr>\n<td>342</td>\n<td>Schöneberg, Diedrich, Gastw., Rüßfort.</td>\n</tr>\n<tr>\n<td>226</td>\n<td>Schone, Wilh., Mühlenbetrieb</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Schone, W., Wirtschaft</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Schwarte, Bauer, Wohld</td>\n</tr>\n<tr>\n<td>259</td>\n<td>Sickmann, Arnold, Bauer, Langen</td>\n</tr>\n<tr>\n<td>268</td>\n<td>Sickmann, Hermann, Landwirt, Langen 2</td>\n</tr>\n<tr>\n<td>338</td>\n<td>Sparkasse des Kreises Bersenbrück, Zweigst.</td>\n</tr>\n<tr>\n<td>217</td>\n<td>Spöde-Karrenkamp, W., Bauer, Wehdel</td>\n</tr>\n<tr>\n<td>374</td>\n<td>Spreckelmeyer, Herm., Landmaschinen</td>\n</tr>\n<tr>\n<td>309</td>\n<td>Strauß, Josef, Viehhdlg., Hauptstr. 85</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Bad Zwischenahn: Plinke — Ba",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"33 12 998 994\" data-label=\"Text\"><table><tbody><tr><td>251</td><td>Strodtmann, Heinrich, Helle b. Gehrde</td></tr><tr><td>427</td><td>Ströcker, Heinrich, Landwirt, Vehs</td></tr><tr><td>413</td><td>Ströcker, Wilh., Schmiedemstr., Langen</td></tr><tr><td>441</td><td>Strübbe, Heinrich</td></tr><tr><td>373</td><td>Sudhaus, Aug., Landwirt, Wulften</td></tr><tr><td>430</td><td>Sundermann, Bauer, Gr. Mimmelage</td></tr><tr><td>212</td><td>Telkamp, Bauer, Wulften</td></tr><tr><td>215</td><td>Thane, Aug., Baumaterialien, am Bahnhof</td></tr><tr><td>406</td><td>Thesing, Kaufmann, Wirtsch.</td></tr><tr><td>273</td><td>Thomann-Arenhorst, Diedr., Bauer, Vehs</td></tr><tr><td>305</td><td>Tiemann, Heinrich, Bauer, Vehs</td></tr><tr><td>206</td><td>Vageding, Bauer, Langen</td></tr><tr><td>205</td><td>Vehslage, Herm., Fleischwarenfabrik.</td></tr><tr><td>225</td><td>Vesper, Alb., Delikateseen, Restaurant</td></tr><tr><td>327</td><td>Volkert, Hermann, Bauer, Langen</td></tr><tr><td>371</td><td>Volkert, Justus, Bauer, Helle b. Gehrde</td></tr><tr><td>391</td><td>Vortmann, Georg, Gastw., Wulften</td></tr><tr><td>250</td><td>Vortmann, Wilhelm</td></tr><tr><td>219</td><td>Voth, Heinrich, Viehh., Grothe.</td></tr><tr><td>350</td><td>Wahlfeld, Bauer, Wohld</td></tr><tr><td>375</td><td>Wallmann, Fritz, Kolonialwaren, Wehdel</td></tr><tr><td>905</td><td>Wanatrath-Doris Mühlenbesitzer Antha</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"23 0 942 974\" data-label=\"Table\">\n<table>\n<tr>\n<td>390</td>\n<td>Warnefeld, Gr., Bauer, Talge</td>\n</tr>\n<tr>\n<td>365</td>\n<td>Wehlburg, Bauer, Rüsfort</td>\n</tr>\n<tr>\n<td>366</td>\n<td>Wehlburg, Bauer, Wehdel</td>\n</tr>\n<tr>\n<td>323</td>\n<td>Wehmeyer, Dr., Tierarzt, Grothe</td>\n</tr>\n<tr>\n<td>307</td>\n<td>Wehmhoff, Landwirt, Langen</td>\n</tr>\n<tr>\n<td>315</td>\n<td>Wernsing, Gerhard, Bauer, Langen</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Wesselmann, Bauer, Langen</td>\n</tr>\n<tr>\n<td>255</td>\n<td>Weßling, Alwine, Ww., Schulenburg</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Wiesepape, Bauunternehmen, Badbergen</td>\n</tr>\n<tr>\n<td>208</td>\n<td>Wilking &amp; Poske, Baugesch., Bahnhofstr.</td>\n</tr>\n<tr>\n<td>415</td>\n<td>Winsel, Heinz, Kolonialwaren</td>\n</tr>\n<tr>\n<td>283</td>\n<td>Wrocklage, Gerhard, Bauer, Vels</td>\n</tr>\n<tr>\n<td>247</td>\n<td>Wulfert-Block, Bauer, Grünloh</td>\n</tr>\n<tr>\n<td>266</td>\n<td>zur Horst, Günter, Bauer, Grünloh</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Baddeckenstedt (Hann.)",
+        "entries": [
+          {
+            "extension": "158",
+            "text": "Achilles, Friedrich, Landw., Gr. Elbe"
+          },
+          {
+            "extension": "156",
+            "text": "Achilles, H., Bauer, Gr. Elbe."
+          },
+          {
+            "extension": "141",
+            "text": "Ahrens, Herm., Bauer, Gr. Heere."
+          },
+          {
+            "extension": "196",
+            "text": "Appel, Heinrich, Gärtnerei"
+          },
+          {
+            "extension": "162",
+            "text": "Bartels, Wilh., Bauer, Gustedt"
+          },
+          {
+            "extension": "154",
+            "text": "Behrens, Fritz, Bäckermstr., Gustedt"
+          },
+          {
+            "extension": "160",
+            "text": "Bleckmann, Herm., Kaufmann."
+          },
+          {
+            "extension": "175",
+            "text": "Brandt, E., Bäckermstr., Groß-Elbe"
+          },
+          {
+            "extension": "168",
+            "text": "Bremer, Friedr., Gastw., Gr. Elbe"
+          },
+          {
+            "extension": "184",
+            "text": "Breyhan, Wilh., Bauer, Gustedt"
+          },
+          {
+            "extension": "228",
+            "text": "Bruer, Hermann, Baugeschäft, Gr. Elbe"
+          },
+          {
+            "extension": "115",
+            "text": "Bruer, W., Bürgermstr., Groß-Elbe"
+          },
+          {
+            "extension": "153",
+            "text": "Bürgermeisteramt, Baddeckenstedt"
+          },
+          {
+            "extension": "198",
+            "text": "Bürgermeisteramt Gr. Heere"
+          },
+          {
+            "extension": "187",
+            "text": "Bürgermeister Oelber, H. Schum"
+          },
+          {
+            "extension": "201",
+            "text": "v. Gramm, Dr., B., Frhr., Rittergut Oelber"
+          },
+          {
+            "extension": "202",
+            "text": "v. Gramm'sche Ziegeleiverwaltung, Oelber"
+          },
+          {
+            "extension": "169",
+            "text": "Ebeling, Erich, Gastwirt, Gustedt"
+          },
+          {
+            "extension": "142",
+            "text": "Evang. Pfarramt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 924 995\" data-label=\"Text\"><p><b>112 Fricke, Dr. A., Arzt, zur Rast.</b><br/><b>165 Fricke, Heinrich, Bauer, Gustedt</b><br/><b>151 Gelhaus, L., Gastwirt u. Pferdehändler.</b><br/><b>114 Gendarmerieposten I</b><br/><b>188 Gieram, Walter, Geflügelhof</b><br/><b>209 Giesecke, Wilh., Zigarrenfabr., Gr. Heere.</b><br/><b>220 Graf, Fr., Schlächter, Groß-Heere.</b><br/><b>218 Günter, Bernhard, Landwirt</b><br/><b>229 Habekost, C., Gärtner.</b><br/><b>137 Habekost jun., Carl, Spedition</b><br/><b>178 Hagemann, Karl, Landw., Kl.Elbe</b><br/><b>174 Hartmann, Wilh., Dachdeckerel, Gr. Heere</b><br/><b>171 Hauptgenossenschaft Hannover, Lager</b><br/><b>138. Hille, Frdr., Gastw., Gr. Heere</b><br/><b>210 Hoff, Rob., Baugesch., Gr. Heere</b><br/><b>193 Hoppmann, Heinrich, Bauer, Gustedt</b><br/><b>226 Hornbach, Ludw., Getreide</b><br/><b>186 Hunze, Aug., Gastwirtschaft.</b><br/><b>177 Hurlmann, Friedr., Uhrmacher</b><br/><b>194 Kaufmann, Gust., Landw., Gustedt</b><br/><b>219 Kinnenhero. E. Kolonialwr. Groß-Heere</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 917 982\" data-label=\"Text\"><p><b>140</b> Dorn, Nieuern, Dammeskenbichau<br/><b>133</b> Kochheim, Fr., Ing., Rhene<br/><b>207</b> Köhler, Hermann, Bauer, Gr. Elbe<br/><b>191</b> Konservenfbr., Baddeckenstedt.<br/><b>119</b> Kortmann, Dr., Tierarzt.<br/><b>222</b> Kreissparkasse Bockenem, Filiale<br/><b>130</b> Kreplin, J., Getreide, Futtermittel<br/><b>166</b> Liekefett, Gust., Bauer, Kl.-Heere<br/><b>195</b> Lüders, H., Lehrer, Rhene<br/><b>185</b> Lüer, R., Bauer, Gustedt.<br/><b>205</b> Gebr. Mackensen, Mühle, Bierbaumamühle<br/><b>225</b> Mäneke, Herbert, Bauer, Kl.Elbe<br/><b>189</b> Maibaum, Alfr., Bürgermstr., Kl. Heere<br/><b>173</b> Molkerei Gustedt<br/><b>132</b> Molkerei-Genossenschaft, Groß-Heere<br/><b>208</b> Müller, Gr., Hoch- u. Tiefbau<br/><b>143</b> Naue, Elfriede, Bäuerin, Gr. Heere<br/><b>159</b> Naue, Gust., Nauenburg<br/><b>172</b> Nickel, Otto, Straßenbau<br/><b>183</b> Niens, Ernst, Radio, Gr. Elbe<br/><b>(225)</b> NSDAP., Ortsgruppe</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>219</td>\n<td>Ohlendorf, Osk., Öb. Pöstinsp i. R., Gr.Elbe</td>\n</tr>\n<tr>\n<td>190</td>\n<td>Oppermann, Paul, Ww., Kolonialwaren</td>\n</tr>\n<tr>\n<td>204</td>\n<td>Otto, Arnold, Bauer, Kl. Elbe</td>\n</tr>\n<tr>\n<td>170</td>\n<td>Otto, Heinr., Bauer, Kl. Elbe</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Pfarre Gr. Heere</td>\n</tr>\n<tr>\n<td>152</td>\n<td>Preußag, Hannover, Baustelle</td>\n</tr>\n<tr>\n<td>211</td>\n<td>Ramm, Carl, Bauer, Gr. Elbe</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Ramm, E., Geflügelhof, Groß-Elbe</td>\n</tr>\n<tr>\n<td>110</td>\n<td>Reichsbahn, Bahnhof</td>\n</tr>\n<tr>\n<td>120</td>\n<td>Reichspost, Postamt</td>\n</tr>\n<tr>\n<td>117</td>\n<td>Reichsstelle für Getreide</td>\n</tr>\n<tr>\n<td>139</td>\n<td>Reichswerke AG Hermann Göring, Gut Gustedt</td>\n</tr>\n<tr>\n<td>118</td>\n<td>Dieselbe, Wasserwerk</td>\n</tr>\n<tr>\n<td>140</td>\n<td>Remmert, Herm., Versteig., Gr. Elbe</td>\n</tr>\n<tr>\n<td>157</td>\n<td>Rusack, Wilh., Schlächter, Oelber.</td>\n</tr>\n<tr>\n<td>217</td>\n<td>Salomon, Wilh., Landw, Kl.Elbe</td>\n</tr>\n<tr>\n<td>179</td>\n<td>Schaare, Fr., Autoverleih, Gr.Heere</td>\n</tr>\n<tr>\n<td>163</td>\n<td>Schlüter, Fr., Bauer, Kl. Heere</td>\n</tr>\n<tr>\n<td>180</td>\n<td>Schlüter, Hermann, Kl. Heere</td>\n</tr>\n<tr>\n<td>109</td>\n<td>Schmalkach Rwd Währichae Auel Str 100</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 839 571\" data-label=\"List-Group\"><p>197 Schum, Emma, Bäuerin, Gustedt<br/>221 Schwarte, H., Mühle, Baddeckenstedt.<br/>227 Seggelke, A., Bauer, Rhene.<br/>150 Seggelke, Ferd., Bauer, Gr. Elbe.<br/>155 Seggelke, Herm., Bauer, Gr. Elbe.</p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 787 341 930\" data-label=\"Text\"><p><b>den: Annantant</b></p></div><div data-bbox=\"504 787 756 946\" data-label=\"Text\"><p>(Band I) 197</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 12 756 978\" data-label=\"Text\"><p>214 Siebke, Elisabeth, Landw., Groß-Heere<br/>223 Sonnemann, Adolf, Stellmacher, Kl. Elbe<br/>146 Spar- u. Darlehnskasse Baddekenstedt.<br/>222 Sparkasse d. Kr. Marienburg zu Bockenem<br/>164 Staake, Herm., Gastw., Rhene<br/>148 Strube, Herm., Schlächtermeister.<br/>215 Sturm, Fritz, Gastw., Oelberg<br/>134 Thiele, Georg, Schmiedemeister, Groß-Elbe.<br/>185 Trumpff, M., Kfm., Oelber<br/>167 Vereinigte Untertag- u. Schachtbau GmbH,<br/>Gustedt<br/>149 Voss, Herm., Bauer, Gr.-Heere.<br/>131 Wasmus, H., Bauer, Gustedt<br/>116 Wegner, Otto, Bahnhofswirt<br/>144 Wesemann, H., GmbH, Kalkwerk, Rast.<br/>216 Wiedenroth, Otto, Landesbauinspektor<br/>161 Wolkenhauer, Oskar, Bauer, Kl. Heere<br/>186 Wolkenhauer, Willy, Bauer, Gustedt<br/>181 Zuckerfabrik zur Rast, Weißzuckerfabrik</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Badel (Altmark) [Prov. Sachsen]",
+        "entries": [
+          {
+            "extension": "65",
+            "text": "Albrecht, Rich., Bauer, Jeggeleben"
+          },
+          {
+            "extension": "1",
+            "text": "Altmärkisches Kornhaus eGmbH, Beetzendorf"
+          },
+          {
+            "extension": "16",
+            "text": "Bischoff, Ewald, Landwirt, Zierau."
+          },
+          {
+            "extension": "69",
+            "text": "Bolte, Wilh., Landwirt, Thüritz"
+          },
+          {
+            "extension": "19",
+            "text": "Damke, Berth., Landwirt, Thüritz."
+          },
+          {
+            "extension": "38",
+            "text": "Dampfmolkerei, Jeggeleben"
+          },
+          {
+            "extension": "51",
+            "text": "Dehorn, B., Schmiede, Güssefeld, Dorfstr. 10"
+          },
+          {
+            "extension": "63",
+            "text": "Forsthof Mösenthin"
+          },
+          {
+            "extension": "46",
+            "text": "Gaede, Adolf, Viehdlg., Jeggeleben 25"
+          },
+          {
+            "extension": "10",
+            "text": "Genthe, Rob., Landw., Zierau."
+          },
+          {
+            "extension": "55",
+            "text": "Gille, Helmuth, Fuhrw., Zethlingen"
+          },
+          {
+            "extension": "27",
+            "text": "Kersten, Martin, Landw., Jeggeleben."
+          },
+          {
+            "extension": "8",
+            "text": "Kersten, Paul, Landwirt, Zierau"
+          },
+          {
+            "extension": "44",
+            "text": "Kleinbahn, Bahnhof Badel"
+          },
+          {
+            "extension": "49",
+            "text": "Dieselbe, Bahnhof Bühne Güssefeld"
+          },
+          {
+            "extension": "3",
+            "text": "Köhn, Udo, Landwirt, Thüritz"
+          },
+          {
+            "extension": "62",
+            "text": "Kohde, Ludw., Gasth. u. Schmiede, Thüritz"
+          },
+          {
+            "extension": "35",
+            "text": "Krüger, Erich, Bauer, Zethlingen"
+          },
+          {
+            "extension": "68",
+            "text": "Krüger, Hermann, Bauer, Mösenthin"
+          },
+          {
+            "extension": "01",
+            "text": "Land- u. Forstwirtschafts-Tonnage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 704 991\" data-label=\"Text\"><p>9 Landl. Spar- u. Dahlehnskasse Zethlingen<br/>6 Landelektrizität GmbH, Stat. Güssfeld<br/>5 Langnese, G., Kfm., Jeggeleben.<br/>11 Lemme, Landwirt, Zierau.<br/>67 Lüdge, Ernst, Bauer, Mösenthin<br/>53 Lühmann, Gust., Landw., Jeggeleben<br/>32 Lüttge, Ernst, Gastwirt, Zethlingen.<br/>22 Mahlfeldt, Otto, Landwirt, Güssfeld<br/>40 Matsche, Karl, Bahnhofswirt Jeggeleben<br/>48 Molkerei Badel e.G.m.b.H.<br/>54 Mollenhauer, Martin, Landw., Zethlingen 11<br/>45 Mollenhauer, Otto, Landwirt, Jeggeleben<br/>41 Paelecke, Bernh., Landwirt, Güssfeld<br/>2 Paul, Fritz, Gastw., Güssfeld<br/>31 Pfarrant, Jeggeleben<br/>70 Pfarrant, Evangelisches, Zethlingen<br/>50 Plank, Helmut, Gastw., Güssfeld, Dorfstr.<br/>36 Reckling, Otto, Landw., Mösenthin<br/>30 Riebau, Gustav, Landwirt, Güssfeld.<br/>33 Schernikau, Fritz, Landw., Thüritz<br/>13 Schmidt, Landwirt, Badel.</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 707 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>25</th>\n<th>Schulz, Aug. Rich., Landwirt, Jeggeleben</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>52</td>\n<td>Schulz, Bernhard, Bauer, Güssefeld</td>\n</tr>\n<tr>\n<td>28</td>\n<td>Schulz, Friedr. Otto, Installateur, Jeggeleben</td>\n</tr>\n<tr>\n<td>60</td>\n<td>Schulz, Fritz, Gastw., Jeggeleben</td>\n</tr>\n<tr>\n<td>39</td>\n<td>Schulz, Fritz, Landwirt, Zierau</td>\n</tr>\n<tr>\n<td>43</td>\n<td>Schulz, Gust., Landwirt, Jeggeleben</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Schulz, Hermann, Gastwirt.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Schulz, Otto, Bauer, Jeggeleben</td>\n</tr>\n<tr>\n<td>23</td>\n<td>Schulz, Richard, Jeggeleben</td>\n</tr>\n<tr>\n<td>20</td>\n<td>Schulz, Walter, Güssefeld</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Schulz, W., Bauer, Zierau.</td>\n</tr>\n<tr>\n<td>34</td>\n<td>Schulze, Walter, Bauer, Zethlingen</td>\n</tr>\n<tr>\n<td>28</td>\n<td>Schulze I, Wilhelm, Bauer, Zethlingen</td>\n</tr>\n<tr>\n<td>47</td>\n<td>Schwerin, Martin, Landwirt, Dorfstr. 8</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Schwerin, Rudolf, Landw., Thüritz, Hof 7</td>\n</tr>\n<tr>\n<td>17</td>\n<td>Tanger, R., Güssefeld.</td>\n</tr>\n<tr>\n<td>18</td>\n<td>Thiede, Landwirt, Thüritz.</td>\n</tr>\n<tr>\n<td>66</td>\n<td>Thiede, Dr. Gerh., Landw., Güssefeld</td>\n</tr>\n<tr>\n<td>24</td>\n<td>Wesche, Dr. Gust., Tierarzt, Zierau</td>\n</tr>\n<tr>\n<td>37</td>\n<td>Wichmann-Prehm, Bauer, Güssefeld</td>\n</tr>\n<tr>\n<td>14</td>\n<td>Waltersdorf Landwirt Thüritz</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Baden b. Wien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"28 63 705 930\" data-label=\"Text\"><p><b>Baden bei Wien.</b> Klimatischer Kurort am Ost-<br/>rand des Wienerwaldes. 23000 Einwohner.<br/>Schwefelquellen, die schon von den alten Rö-<br/>mern zu Badezwecken benutzt wurden. Inha-<br/>lationskuren, Trinkkuren mit Schwefelwasser<br/>und im Herbst Traubenkuren. Ganzjährig ge-<br/>öffneter Kurbetrieb. Baden hat subalpines Klima<br/>und ist gegen Norden geschützt. 243 m ü. d. M.<br/>gelegen. Großes Strandbad und Spielkasino.</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"86 7 677 58\" data-label=\"Text\"><p><b>Hel</b> = Helenental (Post Baden b. Wien)</p></div><div data-bbox=\"89 55 654 101\" data-label=\"Text\"><p><b>Jos</b> = Josefsthal (Post Baden b. Wien)</p></div><div data-bbox=\"89 100 642 147\" data-label=\"Text\"><p><b>Jos</b> = Josefsthal (Post Tribuswinkel)</p></div><div data-bbox=\"89 145 654 193\" data-label=\"Text\"><p><b>Lsd</b> = Leesdorf (Post Baden b. Wien)</p></div><div data-bbox=\"89 190 638 236\" data-label=\"Text\"><p><b>Mö</b> = Möllersdorf b. Baden b. Wien</p></div><div data-bbox=\"89 236 684 284\" data-label=\"Text\"><p><b>Pf</b> = Pfaffstätten (Kr. Baden b. Wien)</p></div><div data-bbox=\"89 282 640 328\" data-label=\"Text\"><p><b>Trk</b> = Traiskirchen b. Baden b. Wien</p></div><div data-bbox=\"89 328 650 374\" data-label=\"Text\"><p><b>Tbw</b> = Tribuswinkel b. Baden b. Wien</p></div><div data-bbox=\"89 374 650 419\" data-label=\"Text\"><p><b>Wei</b> = Weikersdorf b. Baden b. Wien</p></div><div data-bbox=\"14 435 734 524\" data-label=\"Text\"><p>19 98 Adamek, Dr. Gustav, Primarius, MarchelstraÙe 42a</p></div><div data-bbox=\"0 524 656 573\" data-label=\"Text\"><p>181 45 Adler, Oscar, Fabrikbes., Antonsg. 20</p></div><div data-bbox=\"0 570 734 619\" data-label=\"Text\"><p>172 39 Alberti-Poja, A., Sekt.-Chef, Elisabeth.-Str. 34</p></div><div data-bbox=\"0 616 732 664\" data-label=\"Text\"><p>163 05 Aliner, Herm., Ob.Insp., K.-Franz-Ring 21</p></div><div data-bbox=\"0 662 734 710\" data-label=\"Text\"><p>170 39 Allg. Assekuranz, Insp. K. Brandl, Antonsg. 6</p></div><div data-bbox=\"0 708 734 798\" data-label=\"Text\"><p>13 62 Allgem. Elementar Versich. Akt. Ges., K.-Franz-Ring 47</p></div><div data-bbox=\"0 797 734 891\" data-label=\"Text\"><p>11 03 Allgem. Orts",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 33 712 588\" data-label=\"Text\"><p>179 37 Amtmann, Fritz, Fleischer, Wasserg. 7<br/>11 61 Amtsgericht, Adolf-Hitler-Platz 1<br/>167 39 Angell-Attems, Isabella, Hildegardg. 18<br/>169 73 Angerlehner, R., Buchhalter, Göschlg. 31<br/>176 75 Annatant, Gasthaus, Vöslauer Str. 6</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  }
+]

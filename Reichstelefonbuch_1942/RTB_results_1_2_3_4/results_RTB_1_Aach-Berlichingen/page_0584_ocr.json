@@ -1,0 +1,952 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"232 631 589 843\" data-label=\"Text\"><p>100 (Branchenteil)</p></div><div data-bbox=\"758 631 998 826\" data-label=\"Text\"><p><b>683. Blei</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "683. Bleicherde",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"229 154 475 445\" data-label=\"Text\"><p><b>München.</b></p></div><div data-bbox=\"257 481 998 740\" data-label=\"Text\"><p>5 29 60 Süd-Chemie Akt.-Ges., Lenbachplatz 5/6</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "685. Bleichereihilfsmittel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"229 187 381 533\" data-label=\"Text\"><p><b>Greiz.</b></p></div><div data-bbox=\"232 580 998 951\" data-label=\"Text\"><p><b>Sammel- | 7 <u>eschimmer</u> &amp; <u>Schwartz</u></b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"263 10 999 175\" data-label=\"Text\"><p>3841 | Chemische Fabrik Dölau, Greiz-Dölau</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"288 226 954 309\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Crimmitschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Rheydt (Rhrpr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "687. Bleistiftfabriken",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Budweis (Böhmen).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hersbruck (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neumarkt (Oberpfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Nordhalben (Oberfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"321 114 504 944\" data-label=\"Image\"><img alt=\"Stylized logo consisting of five jagged, mountain-like peaks arranged in a row, resembling a stylized 'A' or 'M' shape.\"/></div><div data-bbox=\"626 296 937 843\" data-label=\"Text\"><p><b>H. C. KURZ</b> Kom.-<br/><b>Ges.</b></p></div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 0 565 980\" data-label=\"Image\"><img alt=\"Logo of the Bayerische Eisenbahn (Bavarian Railway) featuring a knight on a horse, surrounded by the text 'BAYERISCHE EISENBANKE' and 'NÜRNBERG'. Below the emblem is a banner with the years '1882' and '1937'.\"/></div><div data-bbox=\"645 0 925 85\" data-label=\"Text\"><p><b>DIESELMAK</b></p></div><div data-bbox=\"675 110 890 305\" data-label=\"Text\"><p><b>Nürnberg 11<br/>Kirchenweg 5</b></p></div><div data-bbox=\"670 345 890 445\" data-label=\"Text\"><p><b>Fernsprecher :</b></p></div><div data-bbox=\"720 460 840 565\" data-label=\"Text\"><p><b>209 97</b></p></div><div data-bbox=\"720 585 840 690\" data-label=\"Text\"><p><b>209 98</b></p></div><div data-bbox=\"720 710 840 815\" data-label=\"Text\"><p><b>209 99</b></p></div><div data-bbox=\"610 825 950 990\" data-label=\"Text\"><p><b>Telegr.-Adresse : Oxyd<br/>Photographikonten</b></p></div>",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"245 20 295 155\" data-label=\"Text\"><p>G</p></div><div data-bbox=\"525 20 575 155\" data-label=\"Text\"><p>C</p></div><div data-bbox=\"660 15 890 105\" data-label=\"Text\"><p>Nürnberg 4040</p></div>",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Lyra - Orlow Bleistiftfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"220 10 500 800\" data-label=\"Image\"><img alt=\"Logo of Orlow and Lyrato featuring a stylized 'O' and 'L' inside a shield-like frame.\"/>A black and white logo consisting of a shield-shaped frame. Inside the frame, there is a large, stylized letter 'O' with a vertical line through its center, and a large, stylized letter 'L' to its right. The letters are white against a black background.</div><div data-bbox=\"508 75 964 821\" data-label=\"Text\"><p>Spezialmarken<br/><b>„Orlow“ und „Lyrato“</b><br/><b>Blei-, Farb- und</b><br/><b>Kopierstifte</b><br/>Nürnberg 1, Großweidennühl-<br/>straße 26/28</p></div><div data-bbox=\"459 847 784 963\" data-label=\"Text\"><p><b>Fernsprecher: 233 20</b></p></div>",
+      "cells": [
+        "col1_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col1_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 343 346 885\" data-label=\"Text\"><p>50151<br/>bis</p></div><div data-bbox=\"354 31 371 938\" data-label=\"Text\"><p>{</p></div><div data-bbox=\"418 203 945 938\" data-label=\"Image\"><img alt=\"Schwan logo featuring a stylized swan and the word 'Schwan.'\"/>The image shows the logo for Schwan. It features a stylized swan in flight, rendered in a woodcut or engraved style. The swan is positioned to the left of the word 'Schwan.', which is written in a bold, serif typeface. A horizontal line runs beneath the word 'Schwan.'. The entire logo is enclosed within a large, thin rectangular frame.</div>",
+      "cells": [
+        "col1_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col1_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"184 217 814 770\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Baiersdorf (Mittelfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Erlangen.",
+        "entries": []
+      },
+      {
+        "region_name": "Dunzhorn (Althannfeld)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 13 997 286\" data-label=\"Text\"><p><b>Altendorf 4 Rast, Julius, Bleistiftspitzerfabrik,</b><br/><b>Furthmühle Post Schwarzach b. Nabburg</b></p></div><div data-bbox=\"12 339 346 524\" data-label=\"Text\"><p><b>Nürnberg.</b></p></div><div data-bbox=\"68 520 997 811\" data-label=\"Text\"><p><b>68129 Putz, Emil, Figurenbleistiftspitzer, Dreh-</b><br/><b>stifte, Füllfederhalter, Rednitzstr. 29</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"93 204 896 279\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"229 217 777 292\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Engelsdorf b. Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Kufstein (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Landsherg (Lech) [Bay.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"184 0 784 29\" data-label=\"Page-Header\">\n<p>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 697 504 941\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Siegen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"125 165 881 279\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"105 204 888 750\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Heidenheim (Brenz) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Osnabrück.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Keichenberg (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "697. Blockflöten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Markneukirchen (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"10 15 987 162\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"297 145 732 800\"}]",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 89 288 231\" data-label=\"Text\"><p><b>Dresden.</b></p></div><div data-bbox=\"62 326 177 442\" data-label=\"Text\"><p>43055</p></div><div data-bbox=\"325 250 853 520\" data-label=\"Text\"><p><b>J. John Nchf.</b></p></div><div data-bbox=\"196 511 989 911\" data-label=\"Text\"><p>A 27, Zwickauer Str. 146. Kunstseiden-<br/>schichten, Appreturen u. Klebstoffe<br/>,„Blufajo“, ges. gesch. Marke</p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"88 135 892 882\"}]",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Baden b. Wien (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      },
+      {
+        "region_name": "Brand (Kr. Aachen).",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely white and contains no text or markings.\"/></div>",
+      "cells": [
+        "col3_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Bruck a. d. Leitha (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "<div data-bbox=\"55 10 750 103\" data-label=\"Text\"><p>24410 <b>Johannes Brüggemann</b></p></div><div data-bbox=\"275 105 614 181\" data-label=\"Text\"><p><b>Blumengeschäft</b></p></div><div data-bbox=\"251 184 634 244\" data-label=\"Text\"><p><b>Danzig, Langgasser Tor</b></p></div><div data-bbox=\"9 258 654 325\" data-label=\"Text\"><p><b>Deggendorf (Niederbay.).</b></p></div><div data-bbox=\"88 323 708 375\" data-label=\"Text\"><p>118 Blumen-Weingärtner, Bahnhofstraße</p></div><div data-bbox=\"9 386 208 443\" data-label=\"Text\"><p><b>Dessau.</b></p></div><div data-bbox=\"70 449 783 549\" data-label=\"Text\"><p>2705 Kobusinski, C., Einfuhr von Blumen,<br/>Dessau, Leopoldstraße 21</p></div><div data-bbox=\"9 560 290 618\" data-label=\"Text\"><p><b>Dortmund.</b></p></div><div data-bbox=\"54 625 783 725\" data-label=\"Text\"><p>21302 Freund &amp; Bauer, Inh. Aug. u. Fritz Bauer,<br/>Blumenhandlung, Westenhellweg 8</p></div><div data-bbox=\"9 733 240 791\" data-label=\"Text\"><p><b>Dresden.</b></p></div><div data-bbox=\"54 798 783 895\" data-label=\"Text\"><p>21709 O. &amp; G. Bartsch, Blumengeschäft, frische<br/>Schnittblumen, A 1, Prager Str. 6</p></div><div data-bbox=\"54 892 783 988\" data-label=\"Text\"><p>28877 Große, Kurt, Großvertrieb von Schnitt-<br/>blumen, Dresden A 1, Viktoriastr. 1</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Elmshorn.",
+        "entries": []
+      },
+      {
+        "region_name": "Erkelenz (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Gablonz (Neisse) [Sudetenl.].",
+        "entries": []
+      },
+      {
+        "region_name": "Gevelsberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Gnesen (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Göppingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Hilden (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hirschberg (Rsgb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ingolstadt (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Langenfeld (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"196 135 989 830\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"196 114 991 796\" data-label=\"Text\"><p><b>Berghausen (Amt Karlsruhe).</b><br/>Karlsruhe-Durlach 355 <b>Mall, Alfons</b>, Maschinen- u.<br/>Metallwarenfabrik, Wöschbacher Str. 37</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"201 175 353 481\"}, {\"label\": \"Text\", \"bbox\": \"201 533 951 800\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"343 240 847 313\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Charlier &amp; Apitz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 0 995 140\" data-label=\"Text\"><p>35021 <b>Ernst Schultze G. m. b. H.</b>, Wirktuchfa-<br/>brik, Herstellung von Woll-Wirkwaren,<br/>Peterstraße 48. <b>T Wirtex P</b> Köln 92835</p></div><div data-bbox=\"245 140 995 235\" data-label=\"Text\"><p>33579 <b>Erich Stehr &amp; Co., Tuchfabrik, Aachen,</b><br/><b>Borngasse 44</b></p></div><div data-bbox=\"245 235 995 328\" data-label=\"Text\"><p>31165 <b>Textilwerk Aachen G. m. b. H.</b>, Brabant-<br/>straße 73</p></div><div data-bbox=\"245 328 995 425\" data-label=\"Text\"><p>35141 { <b>Tuchfabrik Aachen Aktiengesellschaft,</b><br/>35142 { Aachen, Charlottenstr. 14</p></div><div data-bbox=\"200 425 995 615\" data-label=\"Text\"><p><b>Sammel-</b> { <b>Tuchfabrik Meissner &amp; Co. K.-G.</b><br/><b>Nr.</b> { Jülicher Straße 118—120<br/>27551 { <b>T Eincotuch P</b> Köln Nr. 707</p></div><div data-bbox=\"200 615 995 660\" data-label=\"Text\"><p>(26291) <b>Dieselben nach Büroschluß</b></p></div><div data-bbox=\"245 660 995 755\" data-label=\"Text\"><p>35747 <b>Tuchfabrik Josef Rummeny o. H. G.,</b><br/>Aachen-Haaren</p></div><div data-bbox=\"245 755 995 845\" data-label=\"Text\"><p>33357 <b>van Zütphen, Fried., Tuchfabrik, Brabant-</b><br/>straße 27</p></div><div data-bbox=\"200 860 995 995\" data-label=\"Text\"><p><b>Altenberg b. Iglau (Mähren).</b><br/>Iglau 12 <b>Altenberger <u>Wollgarnspinnerei</u> und Tuch-</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"263 0 998 943\" data-label=\"List-Group\">\n<p style=\"text-align: center;\"><b>TUCH UND TEPPICHEN, DR.-WEDDER-SUR. O</b></p>\n<p>1072 <b>Dieselben</b>, Färberei-Abteilung</p>\n<p>1826 <b>Dieselben</b>, Teppich-Abteilung</p>\n<p>1493 <b>Deutsch, Rudolf</b>, Tuchfabrik, Bielitz,<br/>Horst-Wessel-Straße 10</p>\n<p>1044 { <b>Hess, Piesch u. Strzygowski, Vereinigte</b><br/>1045 { <b>Tuch- und Schafwollwaren-Fabriken, Bielitz</b>, Nussdorfer Straße 20</p>\n<p>1287 <b>Simon Hoffmann</b> .<br/>Tuchfabrik, Berggasse 3</p>\n<p>1567 <b>Karl &amp; Erwin Inochowski</b>, Schafwollwaren, Büro u. Lager, Dr.-Goebbels-Straße 5</p>\n<p>1175 { „<b>Ka – Ri – Bi“ Komm. Leitg.</b>, Tuch-, Woll-<br/>2328 { waren- u. Teppichfabrik, Lohnfärberei und<br/>-Appretur, Horst-Wessel-Straße 22</p>\n<p>1085 <b>Karl Kramer &amp; Söhne</b>, Tuchfabrik und<br/>Appretur, Bielitz</p>\n<p>1446 <b>Macha, Hans</b>, Tuchfabrik, Bielitz O/S.,<br/>Auf der Bleiche 15</p>\n<p>2597 <b>Derselbe</b>, Wohnung, Nikelsdorf 144</p>\n</div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks near the top right corner.\"/>This image is a scan of a blank white page. It contains no text or other meaningful content. There are a few very small, faint black marks or specks located in the upper right quadrant of the page, which appear to be artifacts from the scanning process or dust on the original paper.</div>",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"862 736 989 908\" data-label=\"Page-Footer\"><p>629</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"85 15 992 992\" data-label=\"List-Group\"><p>1521 <b>Mifka, Karl</b>, Tuchfabrik, Handelsvertre-<br/>tungen, Zinngießergasse 19</p><p>1618 <b>Derselbe</b>, Wohnung, Schillerplatz 13</p><p>1387 <b>Gustav Molenda &amp; Sohn</b>, Färberei, Horst-<br/>Wessel-Straße 14</p><p>1388 <b>Dieselben</b>, Tuchfabrik, Kamitz 118</p><p>1848 <b>Morgenbesser, Fellner &amp; Co.</b><br/>kommissarische Leitung: Ernst Knab,<br/>Tuchfabrik, Adolf-Hitler-Straße 29</p><p>1237 <b>Stosius, Ernst</b>, Tuchfabrik, Kamitz 193</p><p>1191 <b>Strzygowski, Rudolf, Inh. R., R. u. A.</b><br/><b>Strzygowski</b>, Tuchfabrik, Büro: Bahnstr. 17</p><p>1192 <b>Derselbe, Fabrik</b>, Oskar-Gülicher-Str. 12</p><p>1102 <b>Friedrich Tislowitz</b><br/>Tuchfabrik, Rathausplatz 4</p><p>1616 <b>Leopold Vogt jun.</b>, Tuchfabrik<br/>Friedrichstraße 9</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"134 125 856 359\"}, {\"label\": \"Text\", \"bbox\": \"353 385 644 532\"}, {\"label\": \"Text\", \"bbox\": \"404 584 595 703\"}, {\"label\": \"Text\", \"bbox\": \"179 764 812 904\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Bischofswerda (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bischweiler (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Neue Tuchmanufaktur A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Bramsche b. Osnabrück.",
+        "entries": []
+      },
+      {
+        "region_name": "Brand b. Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Mos. Löw-Beer",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Brünnlitz (Schönhengstgau) [Sudetenland].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"59 81 934 280\"}, {\"label\": \"Text\", \"bbox\": \"278 309 709 506\"}, {\"label\": \"Text\", \"bbox\": \"209 548 782 654\"}, {\"label\": \"Text\", \"bbox\": \"64 684 376 795\"}, {\"label\": \"Text\", \"bbox\": \"331 815 934 937\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      },
+      {
+        "region_name": "Crimmitschau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"154 20 854 375\"}, {\"label\": \"Text\", \"bbox\": \"51 457 953 875\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"57 286 149 510\"}, {\"label\": \"Text\", \"bbox\": \"204 171 925 576\"}, {\"label\": \"Text\", \"bbox\": \"253 677 799 940\"}]",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"90 3 993 100\" data-label=\"Text\"><p>3326 <b>Carl Spengler G. m. b. H.</b>, Tuchfabrik,<br/>Crimmitschau, Carl-Spengler-Str. 1</p></div><div data-bbox=\"90 94 993 182\" data-label=\"Text\"><p>2556 <b>Gebrüder Spengler G. m. b. H.</b>, Tuchfabrik,<br/>Reichsstraße 6</p></div><div data-bbox=\"90 186 993 364\" data-label=\"Text\"><p>2127 <b>Hermann Streicher G. m. b. H.</b><br/>Tuchfabrik, Spez. schwarz Drapé u. Foulé,<br/>Amselstraße 17</p></div><div data-bbox=\"90 366 979 450\" data-label=\"Text\"><p>3451 <b>Friedrich Trommer G. m. b. H.</b></p></div><div data-bbox=\"90 456 973 542\" data-label=\"Text\"><p>2090 <b>F. Weidenmüller</b> Amselstr.<br/>2—4</p></div><div data-bbox=\"90 545 899 638\" data-label=\"Text\"><p>2033 <b>Carl Wilhelm</b><br/>Tuchfabrik, Melanchthonstr. 2a</p></div><div data-bbox=\"13 649 664 713\" data-label=\"Text\"><p><b>Dahlerau (Wuppach).</b></p></div><div data-bbox=\"13 711 993 805\" data-label=\"Text\"><p>Remscheid 51511 <b>Johann Wülfing &amp; Sohn</b>, Tuch-<br/>fabrik, Dahlerau</p></div>",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 731 998 942\" data-label=\"Text\"><p><b>6, Tubenfabriken — 6297. Tuc</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Dahlhausen (Wupper).",
+        "entries": []
+      },
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ebersbach a. Fils (Writb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eupen (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Euskirchen (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Falkenburg (Pommern.).",
+        "entries": []
+      },
+      {
+        "region_name": "Forst (Lausitz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"198 0 444 18\" data-label=\"Page-Header\">\n<p>2. 1942. 1. Ausgabe</p>\n</div>\n<div data-bbox=\"86 19 993 967\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>69 <b>Klintzsch, M.</b>, Tuchfabrik, Forst (Lausitz),<br/>Lothringer Straße 6</li>\n<li>670 <b>Koffmane &amp; Richter</b>, Tuchfabr., Roßstr. 16</li>\n<li>1138 <b>Laubsch &amp; Reiher</b>, Tuchfabrik, Reit- u.<br/>Whipkord, Richard-Wagner-Str. 10</li>\n<li>427 <b>Lehmann, Heinz</b>, Tuchfabrikation, Forst,<br/>Rüdigerstraße 13</li>\n<li>34 <b>Liefke, W.</b>, Tuchfabrik, Mühlenstr. 27/29.<br/>T Liefke Forstlausitz P Berlin 162153</li>\n<li>1270 <b>Paul u. Gerhard Müller</b>, Tuchfabrik,<br/>Herren- u. Damenstoffe, Gubener Str. 12</li>\n<li>24 <b>Nater, Reinhold</b>, Tuchfabrik, Forst (Lau-<br/>sitz), Rüdigerstraße 15</li>\n<li>51 { <b>Neubarth, Eugen</b>, Tuchfabriken, Kaiser-<br/>Wilhelm-Str. 6/8. <b>Spezialitäten:</b> Reit- u.<br/>52 { Whipkords, Livreen, Uniformtuche, Sport-<br/>anzüge, Paletots. Unter Nr. 22 von der<br/>R.Z.M. zugelassen.</li>\n<li>76 <b>Neumann, G.</b>, Tuchfabrik, Brühlstr. 1,<br/>Paletot-, Ulster-, Sport- u. Damenstoffe</li>\n</ul>\n</div>\n<div data-bbox=\"131 962 987 992\" data-label=\"Page-Footer\">\n<p>22 (Name) Zahl Tuchfabrik Heinrich</p>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Freudenstadt (Wrtlb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedrichstal b. Niederseßmar (Rhd.)",
+        "entries": []
+      },
+      {
+        "region_name": "Gablonz (Neisse).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"82 33 988 279\" data-label=\"Text\"><p>3047 <b>Rentsch, Heinz</b>, Tuch- u. Kleiderstoffabrik</p></div><div data-bbox=\"82 296 988 546\" data-label=\"Text\"><p>2263 <b>Scheibner &amp; Nickel</b>, Neuestr. 9. T Komet</p></div><div data-bbox=\"0 625 620 950\" data-label=\"Text\"><p><b>Glauchau (Sachs.).</b></p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 200 217 720\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b><br/><b>3451</b></p></div><div data-bbox=\"289 37 886 365\" data-label=\"Text\"><p><b>Bössneck &amp; Meyer</b></p></div><div data-bbox=\"339 382 838 885\" data-label=\"Text\"><p>Damenkleiderstoffabrik<br/><b>Glauchau (Sachs.)</b><br/>Otto-Schimmel-Platz 1</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Großbenheim (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Grünberg (Niederschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"115 15 215 385\"}, {\"label\": \"Text\", \"bbox\": \"290 35 905 380\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Guben.",
+        "entries": []
+      },
+      {
+        "region_name": "Gumpolds (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"143 42 606 947\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 75 655 239\" data-label=\"Text\"><p><b>Helenenthal b. Iglau (Mähren).</b></p></div><div data-bbox=\"0 317 150 441\" data-label=\"Text\"><p>Iglau 256</p></div><div data-bbox=\"213 270 666 460\" data-label=\"Text\"><p><b>Adolf Löw &amp; Sohn</b></p></div><div data-bbox=\"281 500 613 739\" data-label=\"Text\"><p><b>Aktiengesellschaft</b><br/>Helenenthal bei Iglau</p></div><div data-bbox=\"0 807 561 973\" data-label=\"Text\"><p><b>Hersfeld (Hess.-Nass.).</b></p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Georg Braun Kom.-Ges.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 114 730 937\" data-label=\"Text\"><table border=\"1\"><tr><td>Sammel-</td><td><b>A. Rechberg Kom.-Ges.</b></td></tr><tr><td>Nr.</td><td>Tuchfabrik, Export nach allen Ländern,</td></tr><tr><td>541</td><td>Hainstraße 7.</td></tr></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Kamenz (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kettwig (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchberg (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"112 37 133 78\" data-label=\"Text\"><p>5</p></div><div data-bbox=\"294 37 600 81\" data-label=\"Text\"><p><b>Karl u. Alois Grazer</b></p></div><div data-bbox=\"207 84 690 132\" data-label=\"Text\"><p>Fabrikation von Schafwollwaren</p></div><div data-bbox=\"261 133 635 183\" data-label=\"Text\"><p><b>Langenwang (Steiermark)</b></p></div><div data-bbox=\"3 194 205 258\" data-label=\"Text\"><p><b>Leipzig.</b></p></div><div data-bbox=\"50 260 748 360\" data-label=\"Text\"><p>22001 <b>Leopold Schoeller &amp; Söhne, Düren, Lager</b><br/><b>Leipzig, Tuche, Gottschedstr. 2</b></p></div><div data-bbox=\"3 387 420 455\" data-label=\"Text\"><p><b>Leisnig (Sachs.).</b></p></div><div data-bbox=\"81 460 722 514\" data-label=\"Text\"><p>506 <b>Böttger, Heinrich, Tuchfabrik, Leisnig</b></p></div><div data-bbox=\"3 540 455 609\" data-label=\"Text\"><p><b>Liebstadt (Ostpr.).</b></p></div><div data-bbox=\"81 614 745 666\" data-label=\"Text\"><p>169 <b>Tuchfabrik Hinrichsseggen, Schäfer &amp; Co.</b></p></div><div data-bbox=\"3 678 350 743\" data-label=\"Text\"><p><b>Linz (Donau).</b></p></div><div data-bbox=\"50 743 746 890\" data-label=\"Text\"><p>38336 <b>Linzer Tuchfabrik Otto Bayerl</b><br/><b>Linz-Kleinmünchen, Rädlerweg 65</b></p></div><div data-bbox=\"3 918 377 978\" data-label=\"Text\"><p><b>Litzmannstadt.</b></p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  }
+]

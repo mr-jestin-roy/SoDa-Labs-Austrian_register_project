@@ -1,0 +1,700 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"261 731 591 944\" data-label=\"Text\"><p><b>62 (Branchenteil)</b></p></div><div data-bbox=\"755 718 997 912\" data-label=\"Text\"><p><b>453. BAU</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"300 0 998 962\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"3\">Dortmund, Märkischestr. 178—180</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>24648</td>\n<td rowspan=\"2\">{</td>\n<td>Hochtief A.-G. für Hoch- u. Tiefbauten</td>\n</tr>\n<tr>\n<td>24649</td>\n<td>vorm. Gebr. Helfmann, Betenstr. 10/12</td>\n</tr>\n<tr>\n<td>21055</td>\n<td></td>\n<td>Jürgens, Wilh., Hoch- und Tiefbau-<br/>geschäft, Horst-Wessel-Str. 122</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"437 63 833 291\"}, {\"label\": \"Text\", \"bbox\": \"280 324 984 445\"}, {\"label\": \"Text\", \"bbox\": \"280 507 986 628\"}, {\"label\": \"Text\", \"bbox\": \"401 675 874 802\"}, {\"label\": \"Text\", \"bbox\": \"493 841 804 958\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"395 17 789 66\" data-label=\"Text\"><p>Dresden N 6, Hauptstr. 12</p></div><div data-bbox=\"291 61 907 209\" data-label=\"Text\"><p>40682 <b>Carl Grunewald</b> Beton- und<br/>45696 Eisenbetonbau,<br/>A 27, Würzburger Str. 69</p></div><div data-bbox=\"297 207 941 299\" data-label=\"Text\"><p>47348 <b>Walther Günther, Ing.</b></p></div><div data-bbox=\"559 301 828 347\" data-label=\"Text\"><p>Bauunternehmung</p></div><div data-bbox=\"395 346 990 439\" data-label=\"Text\"><p>Betonbau — Brückenbau — Eisenbeton-<br/>bau — Tiefbau — Straßenbau</p></div><div data-bbox=\"495 441 897 490\" data-label=\"Text\"><p>Dresden A, 24 Gartenstr. 3</p></div><div data-bbox=\"285 487 990 587\" data-label=\"Text\"><p>57848 <b>Hertzsch, Friedr. W.</b>, Baumeister und Ar-<br/>51932 chitekt, N 6, Königsbrücker Str. 22</p></div><div data-bbox=\"285 583 931 635\" data-label=\"Text\"><p>428 20 <b>Philipp Holzmann Aktiengesellschaft,</b></p></div><div data-bbox=\"285 630 952 682\" data-label=\"Text\"><p>460 26 Bauunternehmung, A 24, Kaitzerstr. 1</p></div><div data-bbox=\"291 679 990 776\" data-label=\"Text\"><p>864629 <b>August Kirchner Nachf.</b>, Tiefbauunter-<br/>nehmen, A 29, Mobschatzer Str. 25</p></div><div data-bbox=\"289 773 990 871\" data-label=\"Text\"><p>36031 <b>Kost, Bruno</b>, Bauunternehmung, Haupt-<br/>büro, A 19, Spenerstr. 21</p></div><div data-bbox=\"291 866 988 917\" data-label=\"Text\"><p>50148 <b>Löser Bauunternehmung K.-G.</b>, N 6, Jo-</p></div><div data-bbox=\"291 914 675 965\" data-label=\"Text\"><p>55439 hann-Meyer-Str. 13</p></div><div data-bbox=\"291 961 988 992\" data-label=\"Text\"><p>KARLA Maltes Paul Darmaintor N 20 Danhar.</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Dülken (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"285 10 980 330\" data-label=\"Text\"><p>15658 (gegr. 1910, Kreuzstr. 46/48<br/>52314 Dors., Werkplatz, Obk Lörikerstr. 103/111</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Carl Brandt",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 987 700\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>Sammel-Nr.<br/>14844</td>\n<td>{</td>\n<td><b>Düsseldorf</b> <b>Spar- u. Bauverein</b>, Bau-<br/>genossenschaft, Düsseldorf 1, Stahlstr. 38</td>\n</tr>\n<tr>\n<td>31090</td>\n<td>{</td>\n<td><b>Florack, Heinrich</b>, Hoch- u. Tiefbau,</td>\n</tr>\n<tr>\n<td>35119</td>\n<td>{</td>\n<td>Derendorfer Str. 64</td>\n</tr>\n<tr>\n<td>Sammel-Nr.<br/>60847</td>\n<td>{</td>\n<td><b>Frankipahl</b> Baugesellschaft<br/>m. b. H.</td>\n</tr>\n<tr>\n<td>24679</td>\n<td>{</td>\n<td>Goethestr. 73</td>\n</tr>\n<tr>\n<td>660 21</td>\n<td>{</td>\n<td><b>Hollmann &amp; Littmann Bau-A.G.</b>, Wilhelm-<br/>platz 9. T Heilbau P Essen 22209</td>\n</tr>\n<tr>\n<td>711795</td>\n<td>{</td>\n<td><b>Philipp Holzmann Aktiengesellschaft</b>,<br/>Bauunternehmung, Grafenberger Allee 82</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td><b>Dies.</b>, Lagerplatzverwaltung, -Reisholz</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "(Bauunternehmen)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"55 32 998 851\" data-label=\"List-Group\"><p>26855 <b>H. Niermann Nachf., Inh.:</b> A. Londong<br/>Bauunternehmung, D 1, Wagner Str. 44</p><p>391244 <b>Ophoven &amp; Dipl.-Ing. Fromm,</b> Tiefbau<br/>Düsseldorf-Kaiserswerth, Kreuzbergstr. 52</p><p>61451 <b>See, Max,</b> (Inh. Ellermann &amp; Neudeck)<br/>Bauunternehmungen, mechan. Zimmerei<br/>u. Schreinerei, Ludenberger Str. 27</p><p>63355 <b>Gebr. Zimmermann</b><br/>Düsseldorf 1, Cranachstr 48.</p></div><div data-bbox=\"20 875 328 981\" data-label=\"Text\"><p><b>Duisburg.</b></p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "ArbeitsgemeinschaftKehl &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Dzieditz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ebbs (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Efferen (Kr. Köln).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Einswarden (Oldb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eisenach.",
+        "entries": []
+      },
+      {
+        "region_name": "Eisenerz 1 (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"148 102 839 339\"}, {\"label\": \"Text\", \"bbox\": \"99 408 893 667\"}, {\"label\": \"Text\", \"bbox\": \"99 708 543 835\"}, {\"label\": \"Text\", \"bbox\": \"518 824 893 954\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Elfershausen (Mainfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Elmshorn.",
+        "entries": []
+      },
+      {
+        "region_name": "Elsterwerda (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eltville (Rheingau).",
+        "entries": []
+      },
+      {
+        "region_name": "Emden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"64 0 979 634\" data-label=\"List-Group\"><p>2050 u. n. <b>Benjamins u. n.</b>, Bauunternehmen,<br/>Emden, Straße der SA. 68</p><p>2523 <b>Peter Jürgens</b><br/>Emden, Adolf-Hitler-Straße 81</p><p>2864 <b>J. u. H. v. d. Linde</b>, Bauunternehmen,<br/>Hoch- u. Tiefbau, am Eisenbahndock</p><p>2818 <b>Meyer, Wilhelm</b>, Hoch- u. Tiefbau, Em-<br/>den, Llenbahnstraße 8</p><p>2960 { <b>Neeland, Jan</b>, Hoch- u. Tiefbau, Emden,<br/>3962 { Upstalsboomstr. 1</p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a blank white page, likely a separator or a page with no content from a 1942 German telephone directory. It contains several small, faint black specks which appear to be scanning artifacts or dust particles. There is no text or other graphical content on the page.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Emmerich (Rhpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Erding (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Ergoldsbach (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Erlangen.",
+        "entries": []
+      },
+      {
+        "region_name": "Ernstthal (Rennsteig).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Eschwege (Hess.-Nass.).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Euskirchen (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Falkenberg (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Feldkirch (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Fellbach (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Frankenberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankenstein (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 520 268 540\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Oder).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Freiberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Freiburg (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freital (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedrichsdorf b. Igau (Mähren).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedrichshafen am Bodensee.",
+        "entries": []
+      },
+      {
+        "region_name": "Frinsdorf (Mähren)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Frommern-Dürrwangen (Wrtb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenberg (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenberg (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenfeldbruck (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenwalde (Spree).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Füssen (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gänserndorf 1 (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Gaggenau (Murgtal).",
+        "entries": []
+      },
+      {
+        "region_name": "Gangelt (Rhprr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Gardelegen (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Garmisch-Partenkirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Geesthacht (Schlesw.-Holst.)",
+        "entries": []
+      },
+      {
+        "region_name": "Gehweiler (üß. Türkismühle.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

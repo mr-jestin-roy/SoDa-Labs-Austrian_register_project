@@ -1,0 +1,852 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"265 11 998 993\" data-label=\"Text\"><table><tbody><tr><td>3069</td><td>Heucke, Dr. W., Kupferschmiedsg. 10</td></tr><tr><td>3259</td><td>Kennes, Karl, J.-R., [N], Am Kanal 57</td></tr><tr><td>1794</td><td>Kiltz, Bernh., Kaiser-Wilhelm-Str. 21</td></tr><tr><td>3376</td><td>Knaut, Heinrich, Brandenburger Str. 24</td></tr><tr><td>5095</td><td>Kobow, Günter, Brandenb.Str. 12</td></tr><tr><td>7200</td><td>Kolck, Werner, <i>Bab</i> Filmakademiestr. 9</td></tr><tr><td>7573</td><td>Kretzschmar, Dr. Walt., <i>Bab</i> Bierstr. 7</td></tr><tr><td>7902</td><td>Lass, Helmut, <i>Bab</i> Filchnerstr. 19</td></tr><tr><td>6594</td><td>Medrow, Dr. Karl, Charlottenstr. 34</td></tr><tr><td>7333</td><td>Mielenz, Wilh., [N], <i>Bab</i> Lindenstr. 87</td></tr><tr><td>6213</td><td>Mihaltsek, Franz, Sedanstr. 25</td></tr><tr><td>3513</td><td>v. Patow, Frhr. H., Wilhelmpl. 16</td></tr><tr><td>1018</td><td>Popp, Dr. Karl, [N], Nauener Str. 5</td></tr><tr><td>3376</td><td>Rother, Dr. Günther, Brandenb.Str. 24</td></tr><tr><td>1347</td><td>Sagerer, Dr. Otto, [N], Am Kanal 21</td></tr><tr><td>2035</td><td>Sandler, Kurt, Am Kanal 45</td></tr><tr><td>1873</td><td>Schiller, Herbert, Nauener Str. 33</td></tr><tr><td>1132</td><td>Schlichting, Ed., J.-R., [N], Am Kanal 23a</td></tr><tr><td>2530</td><td>Schmidtgall, Mart., Charlottenstr. 51</td></tr><tr><td>3069</td><td>Schmitz, Dr.W., [N], Kupfersch.-Gasse 10</td></tr><tr><td>3513</td><td>Schroeder, Dr. Herm., [N], Wilh.Platz 16</td></tr><tr><td>6596</td><td>Schulz, Hermann Waisenstr. 9A</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Potsdam-Fahrland (Mark).",
+        "entries": [
+          {
+            "extension": "142",
+            "text": "Adams, Dr. Paul, Siedl. Kramnitzsee"
+          },
+          {
+            "extension": "140",
+            "text": "Sagerer, Dr. Otto, [N], Am Lehnitzsee"
+          }
+        ]
+      },
+      {
+        "region_name": "Pottenstein (Triesting) [Niederdonau].",
+        "entries": [
+          {
+            "extension": "38",
+            "text": "Rainer, Dr. Hans, Hainf.Str. 261"
+          }
+        ]
+      },
+      {
+        "region_name": "Poysdorf (Niederdonau).",
+        "entries": [
+          {
+            "extension": "29",
+            "text": "Claus, Dr. Karl, Adolf-Hitler-Str. 2"
+          },
+          {
+            "extension": "30",
+            "text": "Rebitzer, Dr. W., Adolf-Hitler-Str. 27"
+          }
+        ]
+      },
+      {
+        "region_name": "Prachchatitz (Böhmerwald).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Preetz (Holstein).",
+        "entries": [
+          {
+            "extension": "354",
+            "text": "Bartram, Dr. K.-H., [N], Mühlenstr. 11"
+          },
+          {
+            "extension": "379",
+            "text": "Jasperse, Wilh., [N], Bahnhofstr. 14"
+          },
+          {
+            "extension": "465",
+            "text": "Koerts, Gustav, Kirchenstr. 9"
+          }
+        ]
+      },
+      {
+        "region_name": "Pregarten (Oberdonau).",
+        "entries": [
+          {
+            "extension": "19",
+            "text": "Lemberger, Dr. Richard, [N]"
+          }
+        ]
+      },
+      {
+        "region_name": "Prenzlau-Röpersdorf (Mark).",
+        "entries": [
+          {
+            "extension": "736",
+            "text": "Dommer, Erich, [N], Königstr. 180"
+          },
+          {
+            "extension": "(915)",
+            "text": "Dröscher, Dr. Wilh., [St/N], Königstr. 153"
+          },
+          {
+            "extension": "1136",
+            "text": "Jahn, Dr. Eberhard, Steinstr. 410"
+          },
+          {
+            "extension": "1136",
+            "text": "Jahn, Dr. Georg, J.-R., [N], Steinstr. 410"
+          },
+          {
+            "extension": "913",
+            "text": "Kluge, Walter, [N], Scharnstr. 195"
+          },
+          {
+            "extension": "942",
+            "text": "Möller, Dr. Ehrich, [N], Steinstr. 404"
+          },
+          {
+            "extension": "(915)",
+            "text": "Schmidt-Dietrich, Dr., [N], Königstr. 153"
+          },
+          {
+            "extension": "915",
+            "text": "Schwartz, Dr. E., [N], Königstr. 153"
+          },
+          {
+            "extension": "937",
+            "text": "Schwarzer, Dr. Friedr., [N], Stett. Str. 12"
+          },
+          {
+            "extension": "545",
+            "text": "Traxel, Alfred, [St], Steinstr. 405"
+          },
+          {
+            "extension": "460",
+            "text": "Zierenberg, Dr. Gerh., [St], Markt 470"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Prerow (Darß).",
+        "entries": []
+      },
+      {
+        "region_name": "* Preßnitz (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Prettin (Kr. Torgau).",
+        "entries": []
+      },
+      {
+        "region_name": "Pr. Eylau (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Preußisch Friedland (Kr. Schlochau).",
+        "entries": []
+      },
+      {
+        "region_name": "Pr. Holland (Ostpr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Pulsnitz (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Pyritz (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Quakenbrück (Hann.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains two small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Quedlinburg (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Querfurt (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Raabs (Thaya) [Niederdomau].",
+        "entries": []
+      },
+      {
+        "region_name": "Radeberg (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Radeburg (Bez. Dresden).",
+        "entries": []
+      },
+      {
+        "region_name": "Radiumbad St. Joachimsthal(Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Radolfzell (Bodensee).",
+        "entries": []
+      },
+      {
+        "region_name": "Radstadt (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Ragnit (Ostpr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Raguhn (Anhalt).",
+        "entries": []
+      },
+      {
+        "region_name": "Rahden (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rankweil (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Rastatt (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Rathenow (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Ratibor (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Ratingen (Rhpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rattenberg (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Ratzebuhr (Pomm.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely white and contains no text or markings.\"/></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"644 778 998 930\" data-label=\"Text\"><p><b>4789. Red</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Rawitsch (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Recklinghausen (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Rees (Rhpbr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Regen (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Regensburg.",
+        "entries": [
+          {
+            "extension": "2913",
+            "text": "Artmann, Jos., Unt. Bachgasse 12/14"
+          },
+          {
+            "extension": "(5187)",
+            "text": "Beer, Dr. German, Gesandtenstr. 16"
+          },
+          {
+            "extension": "2510",
+            "text": "Dirnberger, H., Stadtmhof"
+          },
+          {
+            "extension": "3846",
+            "text": "Ederer, Lorenz, Maximilianstr. 12"
+          },
+          {
+            "extension": "2240",
+            "text": "Fierl, Dr. Josef, Martin-Luther-Str. 15"
+          },
+          {
+            "extension": "4095",
+            "text": "Heiß, Alfons, Pfauengasse 2"
+          },
+          {
+            "extension": "2711",
+            "text": "Heunisch, Mich., J.-R., Königstr. 3"
+          },
+          {
+            "extension": "2015",
+            "text": "Keiter, Engelhard, Rich.-Wagner-Str. 12"
+          },
+          {
+            "extension": "2344",
+            "text": "Kellner, Josef, Neupfarpl. 15"
+          },
+          {
+            "extension": "2666",
+            "text": "Knaus, Friedrich, Krauterermarkt 4"
+          },
+          {
+            "extension": "5832",
+            "text": "Kremerskothen, Herm., Fahrbeckg. 11"
+          },
+          {
+            "extension": "5588",
+            "text": "Miedel, Karl, Maximilianstr. 7"
+          },
+          {
+            "extension": "5712",
+            "text": "Oswald, Dr. Rud., Maximilianstr. 2"
+          },
+          {
+            "extension": "5898",
+            "text": "Popp, Dr. Th., [St], Fröhl. Türkenstr. 2"
+          },
+          {
+            "extension": "3674",
+            "text": "Renner, Dr. Ludwig, Schw. Bärenstr. 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Regenwalde (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Regis-Breitingen (Bez. Leipzig).",
+        "entries": []
+      },
+      {
+        "region_name": "Rehau (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichemau (Niederdonaau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Reichenau (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenbach (Eulengeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenbach (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenbach (Vogtl.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Reichenberg (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry for a specific town or region.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 779 239 937\" data-label=\"Text\"><p><b>tsanwälte</b></p></div><div data-bbox=\"400 779 744 947\" data-label=\"Text\"><p>(Branchenteil) 599</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"68 11 744 992\" data-label=\"Text\"><p>3469 <b>Held, Dr. Josef</b>, [St], Schückerstr. 6<br/>4659 <b>Henlein, Dr. Josef</b>, Schückerstr. 8<br/>2389 <b>Hergl, Dr. Walter</b>, G.-Hauptmann-Str. 9<br/>4622 <b>Herzog, Dr. Rudolf</b>, Konr.Henlein-Pl. 9<br/>3226 <b>Hübner, Dr. Herm.</b>, Ad.Hitler-Pl. 23<br/>3376 <b>Jurna, Dr. Hubert</b>, [St], Schückerstr. 3<br/>3408 <b>Just, Dr. Ehrhard</b>, Wiener Str. 15<br/>3093 <b>Kreisel, Dr. Rudolf</b>, Bismarck-Pl. 2<br/>4400 <b>Lange, Dr. Wilh.</b>, Ad.Hitler-Pl. 10<br/>3602 <b>Lebeda, Dr. Heinr.</b>, Friedländer Str. 1<br/>2539 <b>Leicht, Dr. Eugen Th.</b>, Ad.Hitler-Pl. 19<br/>4385 <b>Mertz, Dr. Adolf</b>, Schückerstr. 24<br/>3718 <b>Miksch, Dr. Ernst</b>, Ad.Hitler-Pl. 7<br/>2307 <b>Neumann, Dr. Ernst</b>, Bismarckpl. 5<br/>2610 <b>Osborne, Dr. Albert</b>, Eisengasse 10<br/>3602 <b>Pfeifer, Dr. Ferd.</b>, Friedländerstr. 1<br/>2869 <b>Pirki, Dr. Richard</b>, Eisengasse 20<br/>2678 <b>Ressel, Dr. Fritz</b>, Schückerstr. 15<br/>3109 <b>Ressel, Dr. Josef</b>, Kratzauer Str. 12<br/>2684 <b>Richter, Dr. Bruno</b>, Ad.Hitler-Pl. 23<br/>3376 <b>Rohm, Dr. Wilh.</b>, Schückerstr. 3<br/>2002 <b>Schickotany, Dr. Edmund</b> [St] Schülbr</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Remagen (Rheinpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Remscheid",
+        "entries": []
+      },
+      {
+        "region_name": "Rendsburg (Schlesw.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rennerod (Westerwald).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Reppen (Bez. Frankfurt) [Oder].",
+        "entries": [
+          {
+            "extension": "382",
+            "text": "Kluth, Dr., [N], Ad.-Hitler-Str. 20"
+          },
+          {
+            "extension": "204",
+            "text": "Merten, Rich., Herrenstr. 2"
+          }
+        ]
+      },
+      {
+        "region_name": "Retz (Niederdonau).",
+        "entries": [
+          {
+            "extension": "33",
+            "text": "Peloschek, Dr. Rud., Hauptpl. 4"
+          },
+          {
+            "extension": "29",
+            "text": "Tichtl, Dr. Alfred, Str. d. Sudetend. 23"
+          }
+        ]
+      },
+      {
+        "region_name": "Reutlingen (Wrttb.).",
+        "entries": [
+          {
+            "extension": "2798",
+            "text": "Hayer, [N], Gartenstr. 37"
+          },
+          {
+            "extension": "3607",
+            "text": "Heintzeler, Dr., Gartenstr. 11"
+          },
+          {
+            "extension": "3672",
+            "text": "Knödler, Dr., Ad. Hitler Str. 6"
+          },
+          {
+            "extension": "3545",
+            "text": "Koch, Eberhard, Kaiserstr. 27"
+          },
+          {
+            "extension": "2308",
+            "text": "Kurr, Dr. Artur, [St], Gartenstr. 28"
+          },
+          {
+            "extension": "2565",
+            "text": "Leuze, Dr. Eduard, Gartenstr. 33"
+          },
+          {
+            "extension": "3607",
+            "text": "Lillich, Dr. jur. Karl, Gartenstr. 11"
+          },
+          {
+            "extension": "3426",
+            "text": "Rau, Dr. Max, Gartenstr. 32"
+          },
+          {
+            "extension": "3265",
+            "text": "Völker, Dr. W., Gartenstr. 34"
+          }
+        ]
+      },
+      {
+        "region_name": "Reutte (Tirol).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Rhaunen (Hunsrück).",
+        "entries": []
+      },
+      {
+        "region_name": "Rhein (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rheinbach (Rhprr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with some minor scanning artifacts.\"/></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,984 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Tübingen (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Vöcklabruck (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"368 37 902 266\"}, {\"label\": \"Text\", \"bbox\": \"490 313 785 437\"}, {\"label\": \"Text\", \"bbox\": \"354 445 922 574\"}, {\"label\": \"Text\", \"bbox\": \"380 602 895 744\"}, {\"label\": \"Text\", \"bbox\": \"461 770 804 923\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 84 987 904\" data-label=\"Text\"><table><tr><td>Wien-</td><td rowspan=\"3\">{</td><td><b>Höbinger, Johann</b>, Bautischlerei,</td></tr><tr><td>Atzgersdorf</td><td>Hallenbauten, Baracken, Türen u.</td></tr><tr><td>532</td><td>Treppen, Wien XXV, -Atzgersdorf</td></tr></table></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "J. Ofenböck",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Stephansdach Holzbau",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"352 0 905 250\"}, {\"label\": \"Text\", \"bbox\": \"287 250 969 500\"}, {\"label\": \"Text\", \"bbox\": \"477 485 781 610\"}, {\"label\": \"Text\", \"bbox\": \"414 606 843 722\"}, {\"label\": \"Text\", \"bbox\": \"465 727 794 852\"}, {\"label\": \"Text\", \"bbox\": \"414 852 840 962\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Zillertal-Erdmannsdorf (Rsgb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "2372. Hallenöfen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Crimmitschau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 15 550 330\" data-label=\"Image\"><img alt=\"A black square icon followed by a decorative wavy line.\"/></div><div data-bbox=\"605 15 955 330\" data-label=\"Text\"><p><b>Ruf: Sammel-Nr. 2039</b></p></div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 30 970 50\" data-label=\"Image\"><img alt=\"A thick black horizontal line, possibly a separator or a scanning artifact.\"/></div>",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"280 210 960 266\"}]",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col1_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"436 226 784 283\"}]",
+      "cells": [
+        "col1_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col1_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"245 114 528 352\"}, {\"label\": \"Text\", \"bbox\": \"292 390 990 770\"}]",
+      "cells": [
+        "col1_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col1_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"367 222 866 283\"}]",
+      "cells": [
+        "col1_sec19.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col1_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"245 84 958 941\" data-label=\"Text\"><p><b>Anhammer</b> <b>Üb. Frankenberg (Eder).</b><br/><b>Battenberg</b> { <b>Hasenclever &amp; Sohn</b><br/>209. 210 { <b>Hammerwerk u. Eisengießerei</b><br/><b>Berlin.</b></p></div>",
+      "cells": [
+        "col1_sec20.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col1_sec21.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"317 29 929 950\" data-label=\"Text\"><p><b>Otto Pinnow</b>      <b>Fabrik für</b><br/><b>Apparate</b><br/><b>und Metallbearbeitung, Hammerschmiede</b><br/><b>Berlin-Spandau, Brunsbütteler Damm 77</b><br/><b>Fernsprecher 37 19 48</b></p></div>",
+      "cells": [
+        "col1_sec21.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col1_sec22.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"652 786 997 937\" data-label=\"Text\"><p><b>2371. Hal</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Dahlerbrück (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fulpmes (Tirol).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Felix Ralling",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Iserlohn.",
+        "entries": []
+      },
+      {
+        "region_name": "Krähwinklerbrücke (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Langenau (Kr. Freberg) [Sachs.].",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Leslau (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Losenstein (Oberdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"157 0 997 32\" data-label=\"Text\"><p>vugau, m., mauchmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmichmich",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Schwerte a. Ruhr.",
+        "entries": []
+      },
+      {
+        "region_name": "Siegen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stift Keppel-Allenbach (Kr. Siegen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Wahlscheid (Sieglkreis).",
+        "entries": []
+      },
+      {
+        "region_name": "Weidenau (Sieg).",
+        "entries": []
+      },
+      {
+        "region_name": "Weitenstein (Untersteiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"200 93 785 274\"}, {\"label\": \"Text\", \"bbox\": \"43 326 933 442\"}, {\"label\": \"Text\", \"bbox\": \"352 468 631 588\"}, {\"label\": \"Text\", \"bbox\": \"158 611 820 744\"}, {\"label\": \"Text\", \"bbox\": \"396 791 586 895\"}]",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Schoeller-Bleckmann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 782 998 947\" data-label=\"Text\"><p><b>enbauten — 2390. Handelsges</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"25 54 697 321\"}, {\"label\": \"Text\", \"bbox\": \"125 317 993 736\"}]",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"187 236 815 343\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Ellefeld (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Heimarbeitsstätte",
+        "entries": []
+      },
+      {
+        "region_name": "Hof (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Naila (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"204 10 829 66\" data-label=\"Text\"><p>Handstickerei, Nilla-Froschgrün</p></div><div data-bbox=\"16 82 242 142\" data-label=\"Text\"><p><b>Pilsen.</b></p></div><div data-bbox=\"98 173 190 218\" data-label=\"Text\"><p>1656</p></div><div data-bbox=\"415 142 782 228\" data-label=\"Text\"><p><b>W. Klein</b></p></div><div data-bbox=\"228 244 958 396\" data-label=\"Text\"><p>Handarbeitsgeschäft, Treuhänderische<br/>Leitung, Pilsen, Riegrstr. 1<br/>Telegrammadresse: W. Klein, Pilsen</p></div><div data-bbox=\"16 411 994 478\" data-label=\"Text\"><p><b>Sachsenberg-Georgenthal (Vogtl.).</b></p></div><div data-bbox=\"16 478 994 579\" data-label=\"Text\"><p>Klingenthal 2115 Riedl, Franz, Tapisseriefabrik,<br/>Sachsenberg-Georgenthal 1</p></div><div data-bbox=\"14 608 972 678\" data-label=\"Text\"><p><b>Schwaderbach (Sudetenland).</b></p></div><div data-bbox=\"154 678 994 729\" data-label=\"Text\"><p>8 Lorenz, Franz, Hand- u. Maschinenstickerei.</p></div><div data-bbox=\"14 759 850 827\" data-label=\"Text\"><p><b>Silberbach (Sudetenland).</b></p></div><div data-bbox=\"134 827 945 879\" data-label=\"Text\"><p>15 Müller, Josef, Lederhandschuhstickerei</p></div><div data-bbox=\"14 909 565 980\" data-label=\"Text\"><p><b>Straßburg (Els.).</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "G. Heinrich &amp; M. Bubel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"106 175 895 292\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"111 261 870 348\"}]",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"28 227 946 811\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Godesberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Baden-Baden.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "<div data-bbox=\"187 0 839 62\" data-label=\"Page-Header\">\n<p>DEUTSCHE TELEFONBUCH, 1942, 10</p>\n</div>\n<div data-bbox=\"8 58 978 569\" data-label=\"List-Group\">\n<p>63 72 37 „Schliha“, Schlüpmannsche Industrie-<br/>\n    und Handels-G. m. b. H., Berlin-Adlers-<br/>\n    hof, Adlergestell 265</p>\n<p>22 22 80 Südost-Handels-Ges. von Ramin &amp; Co.,<br/>\n    Berlin W 35, Graf-Spee-Straße 19</p>\n</div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 786 252 941\" data-label=\"Text\"><p><b>Ilischafte</b></p></div><div data-bbox=\"424 786 789 954\" data-label=\"Text\"><p>(Branchenteil) 283</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Brandenburg (Havel).",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Eger (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Fürstenwalde (Spree).",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Hamm (Westf.)",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Karstädt (Westprignitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": {
+      "raw": "<div data-bbox=\"48 14 710 85\" data-label=\"Text\"><p>35546 } <b>Ges. m. b. H., Lizentgrabenstraße 13</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": {
+      "raw": "<div data-bbox=\"31 214 162 766\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b><br/><b>241 71</b></p></div><div data-bbox=\"177 10 750 946\" data-label=\"Text\"><p><b>Haupthandelsgesellschaft</b><br/><b>ostpreußischer landw. Genossenschaften</b><br/><b>m.b.H., Gen.-Litzmann-Str. 27/33, Ge-</b><br/><b>treide, Dünge- u. Futtermittel, Saaten,</b><br/><b>Hülsenfrüchte, Rauhfutter. <b>T</b> Raiffeisen</b></p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "Leitmeritz (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Ludwigshafen (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Memel.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Oberhausen (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Pelplin (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Raspenau (Kr. Friedland) [Sargeb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Schlochau (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,795 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "siehe am Kopf von Stuttgart (S. 458).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 11 998 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>5 07 29</td>\n<td>Feile, Lisbeth, Lebensm., Cst Kiss.Str. 41</td>\n</tr>\n<tr>\n<td>2 72 86</td>\n<td>Feller, Emil, Fleischwr., Olgastr. 45</td>\n</tr>\n<tr>\n<td>7 87 35</td>\n<td>Feilner, Jul., Vertr., Vaih Marienstr. 8</td>\n</tr>\n<tr>\n<td>2 80 32</td>\n<td>Fein, Dr. A., Arzt, Urbanstr. 34</td>\n</tr>\n<tr>\n<td>4 21 08</td>\n<td>Fein, Berthold, Dr.Ing., Nikolausstr. 14</td>\n</tr>\n<tr>\n<td>6 02 47</td>\n<td rowspan=\"3\">{ C. &amp; E. Fein, Elektrotechnische Fabrik,</td>\n</tr>\n<tr>\n<td>6 02 48</td>\n<td rowspan=\"3\">{ elektrisch betrieb. Werkzeuge, Kasernen-</td>\n</tr>\n<tr>\n<td>6 02 49</td>\n<td rowspan=\"3\">{ straße 43. T Gefein P 694</td>\n</tr>\n<tr>\n<td>9 08 47</td>\n<td>Fein, Ernst, Kfm., Hauptm.Reute 80</td>\n</tr>\n<tr>\n<td>2 25 10</td>\n<td>Fein, Dr. Hans, Ing., Ad.StifterStr. 109</td>\n</tr>\n<tr>\n<td>6 51 76</td>\n<td>Fein, Karl, Telegr.Dir., Botn Bruckn.Str. 1</td>\n</tr>\n<tr>\n<td>6 13 80</td>\n<td>Fein, Martha, Ww., Hasenbergsteige 26</td>\n</tr>\n<tr>\n<td>6 28 89</td>\n<td>Fein, Paul, Major, Hauptmannsreute 156</td>\n</tr>\n<tr>\n<td>5 00 83</td>\n<td>Feinauer, Augs, Fensterrein., Cst WildungerStr. 48</td>\n</tr>\n<tr>\n<td>2 80 06</td>\n<td>L. u. H. Feinauer, Baustoffe, Marienstr. 1</td>\n</tr>\n<tr>\n<td>7 15 18</td>\n<td>Feinauer, W., Reinig.Inst., Tüb.Str. 65</td>\n</tr>\n<tr>\n<td>6 30 12</td>\n<td>Feinbuch, Geschäftsbücherfabr., Joh.Str. 3a</td>\n</tr>\n<tr>\n<td>7 16 24</td>\n<td>Feinseifenwerk Walter Rau &amp; Co, Möhr</td>\n</tr>\n<tr>\n<td></td>\n<td>StuttgarterStr. 31</td>\n</tr>\n<tr>\n<td>2 02 94</td>\n<td>Feist, Jacob, Ind-Erzeugn., Calwerstr. 7b</td>\n</tr>\n<tr>\n<td>2 09 14</td>\n<td>Folhar Eugen Heißmangel Tüth Strim.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "pfeldb.Str. 14",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "14 89 Felder, Friedr., Briefmarken, Wldf Zuffen- hauserStr. 6"
+          },
+          {
+            "extension": "5",
+            "text": "07 45 Feldhäuser, Georg, Bäckerei, Mstr Echaz- straße 10"
+          },
+          {
+            "extension": "5",
+            "text": "14 79 Feldmaier, Dr. H., Arzt, Cst K.Karl Str. 54"
+          },
+          {
+            "extension": "5",
+            "text": "02 03 Feldmann, Erich, Vertr., Cst Daimlerstr. 15"
+          },
+          {
+            "extension": "2",
+            "text": "27 14 Feldmann, Dr. H., Arzt, Alexanderstr. 92"
+          },
+          {
+            "extension": "7",
+            "text": "41 81 Feldmeth, Paul, App-Bau, E.Weinst.- Straße 14b"
+          },
+          {
+            "extension": "4",
+            "text": "07 38 Feldmüller, Berta, Frau, Werfmersh. 21"
+          },
+          {
+            "extension": "2",
+            "text": "57 85 Feldmüller, Edwin, Dir., Planckstr. 78"
+          },
+          {
+            "extension": "6",
+            "text": "23 49 Feldtkeller, Rich., Dr., Gust.SiegleStr. 9"
+          },
+          {
+            "extension": "3",
+            "text": "02 68 Felger, Friedr., Dir. i. R., Led Heumadener Straße 240"
+          },
+          {
+            "extension": "2",
+            "text": "37 95 Felger, Gerh., zahnärztl. Instr., Hegelstr. 25"
+          },
+          {
+            "extension": "7",
+            "text": "13 59 Felger, Gottl., Transporte, Christophstr. 34"
+          },
+          {
+            "extension": "7",
+            "text": "24 36 Felger, Hans, Ingen., Immenhof.Str. 27"
+          },
+          {
+            "extension": "4",
+            "text": "13 78 Felger, Herm., Kunstmaler, Frauenkopf, Frauenkopfstr. 61"
+          },
+          {
+            "extension": "2",
+            "text": "60 64 Felger, Karl, Buchhdlg., EßlingerStr. 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 993 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 25 76</td>\n<td>Felix, V., Spieleit., Bopserwaldstr. 18</td>\n</tr>\n<tr>\n<td>5 01 06</td>\n<td>Fellbacher Möbelwerkstätte, Schwabstr. 17</td>\n</tr>\n<tr>\n<td>5 21 29</td>\n<td>Fellbacher Tagblatt, G. Conradi, Verlag,<br/>Flub. Vord.Str. 2.</td>\n</tr>\n<tr>\n<td>7 27 08</td>\n<td>Felle, Georg, Dr., Etzelstr. 26</td>\n</tr>\n<tr>\n<td>2 84 34</td>\n<td>Felle, Herm., Bücherrev., Danneckerstr. 22</td>\n</tr>\n<tr>\n<td>2 19 20</td>\n<td>Feller, Artur, Kfm., Alexanderstr. 14</td>\n</tr>\n<tr>\n<td>5 25 77</td>\n<td>Feller, Fritz, H.Wäschefbr., Flub Sänger-<br/>straße 2</td>\n</tr>\n<tr>\n<td>6 06 80</td>\n<td>Feller, Franz, Friseur, Schwabstr. 75</td>\n</tr>\n<tr>\n<td>2 07 91</td>\n<td>Feller, Wilh., Wäschefbr., Feuerb.Weg 1</td>\n</tr>\n<tr>\n<td>6 58 36</td>\n<td>Fellhauer, Alb., Waagen, Rosenbergstr. 124</td>\n</tr>\n<tr>\n<td>6 58 07</td>\n<td>Fellhauer &amp; Sohn, Waagen, Rosenb.Str. 108</td>\n</tr>\n<tr>\n<td>4 24 08</td>\n<td><b>Walter Fellmann</b><br/><b>Perlmutterknöpfe</b><br/><b>Stuttgart-N, Friedrichstr. 32</b></td>\n</tr>\n<tr>\n<td>2 68 81</td>\n<td>Fellmeth, Herm., Kfm., Stafflenbergstr. 16</td>\n</tr>\n<tr>\n<td>7 80 80</td>\n<td>Derselbe, im Sommer, Pfaffenhof</td>\n</tr>\n<tr>\n<td>2 35 89</td>\n<td>Fellmeth, Wilh., Lebensm., Tunzhof.Str. 7</td>\n</tr>\n<tr>\n<td>7 28 70</td>\n<td>Fels, Fr., Reg.Baumstr., Deg Königstr. 42</td>\n</tr>\n<tr>\n<td>2 21 24</td>\n<td>Fels, Monda, Monda, D...</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"236 0 992 992\" data-label=\"Text\"><table><tbody><tr><td>2 95 72</td><td>Felsmann, Edgar, Kfm., Kriegsbergstr. 59</td></tr><tr><td>9 00 48</td><td>Felten &amp; Guilleaume-Carlswerk AG,<br/>Kriegsbergstr. 38</td></tr><tr><td>9 15 31</td><td>Fempel, Ernst, Schornsteinf., Ehrenh. 7</td></tr><tr><td>5 09 29</td><td>Fenchel &amp; Schlegel, Tapez., Ost Pragstr. 18</td></tr><tr><td>7 36 63</td><td>Fengler, M. G., Korv.Kapt., <i>Dez</i> Wedd.<br/>Straße 119</td></tr><tr><td>2 79 64</td><td>Fenster- u. Parkett Reinigung Claus, Karl,<br/>Eßlingerstr. 29</td></tr><tr><td>2 24 07</td><td>Fensterreinigungsgesch. Betschart, R.,<br/>Jacobstr. 17</td></tr><tr><td>4 03 35</td><td>Ferber, Alfred, Kfm., Schwarenbergstr. 139</td></tr><tr><td>9 12 26</td><td>Ferber, Otto, Vertr., Scharnhorststr. 19</td></tr><tr><td>2 61 74</td><td>Ferienwaldheim Frauenkopf b. d. Geroks-<br/>ruhe</td></tr><tr><td>3 11 04</td><td>Ferle, E. J., Techn.Büro, <i>Unth</i> Post-<br/>wiesenstr. 5</td></tr><tr><td>2 36 63</td><td>Ferlein, Max, Schreinerei, Eugenstr. 3</td></tr><tr><td>9 04 48</td><td>Fernand, Heinr., Kfm., Alexanderstr. 2</td></tr><tr><td>2 64 54</td><td>Fernandes, W., Vertr., Schottstr. 97</td></tr><tr><td>4 19 39</td><td>Fernau, Rud., Schausp., Stälinweg 22</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 992 995\" data-label=\"Text\"><table><tbody><tr><td>6 48 24</td><td>{ Chemische Fabrik, W, Silberburgstr. 159</td></tr><tr><td>6 18 20</td><td>Ferner, W., Dr., Botnanger Steige 14</td></tr><tr><td>6 49 54</td><td>Fertig, Walter, Dr. jur., Schwabstr. 147</td></tr><tr><td>8 12 01</td><td>Feßler, Karl, Zuff Ludwigsburg.Str. 60</td></tr><tr><td>6 54 34</td><td>Fessmann, Eug., Obersekr., Gaußstr. 104</td></tr><tr><td>5 25 16</td><td>Festerling, Alex, Metzger, Cst Brunnen-<br/>straße 38</td></tr><tr><td>4 19 68</td><td>Festner, Fritz, Ing., Marquardtstr. 21</td></tr><tr><td>6 38 40</td><td>Fette, M., Ww., BotnangerStr. 33</td></tr><tr><td>5 05 82</td><td>Fettig, A., Schneiderm., Cst Scelbergstr. 24</td></tr><tr><td>5 24 99</td><td>Fetzer, Anna, Lebensm., Cst Wild.Str. 40</td></tr><tr><td>7 94 23</td><td>Fetzer, Albert, Gasthaus, Echtd</td></tr><tr><td>4 06 05</td><td>Fetzer, Arthur, Verwalter, Luisenpl. 6</td></tr><tr><td>6 31 01</td><td>Fetzer, Carl, Apoth., Senefelderstr. 93</td></tr><tr><td>8 16 85</td><td>Fetzer, Erich, Techn.Büro, Feu Leob.Str.22</td></tr><tr><td>2 60 63</td><td>Fetzer, Ernst, Schokol., Charlottenstr. 6a</td></tr><tr><td>6 30 39</td><td>Fetzer, Georg, Apothek., Schwabstr. 165</td></tr><tr><td>9 01 84</td><td>Fetzer, Herm., Baumstr., Gerokstr. 13B</td></tr><tr><td>2 28 93</td><td>Fetzer, Jos., Dir., Schottstr. 7</td></tr><tr><td>4 01 55</td><td>Fetzer, Dr. Max, Arzt, K.SchurzStr. 24</td></tr><tr><td>5 05 05</td><td>Fetzer, W., Dr., Botnanger Steige 14</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"223 0 993 953\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>7 97 80</td>\n<td>Fetzer, Otto, z. Bahnhof, Bernhausen</td>\n</tr>\n<tr>\n<td>8 13 23</td>\n<td>Fetzer jr., Paul, Gipser, Zuff Langob.Str.14</td>\n</tr>\n<tr>\n<td>4 13 72</td>\n<td>Fetzer, Rob., Kfm., Am Hohengeren 9</td>\n</tr>\n<tr>\n<td>4 25 84</td>\n<td>Fetzer, Thusn., Musiklehr., A.Schäffle-<br/>straße 130</td>\n</tr>\n<tr>\n<td>2 05 57</td>\n<td>Fetzer, Wilh., Papierwr., Alexand.Str. 108</td>\n</tr>\n<tr>\n<td>2 63 98</td>\n<td>Feucht, Dr. Alb., Zahnarzt, Charlottenstr.1</td>\n</tr>\n<tr>\n<td>29 87 85</td>\n<td>Feucht, Emil, Omnibusbes., Kemnat,<br/>StuttgarterStr. 12</td>\n</tr>\n<tr>\n<td>3 05 95</td>\n<td>Feucht, Ernst, Rektor, Unth Fellb.Str. 38</td>\n</tr>\n<tr>\n<td>6 61 73</td>\n<td>Feucht jr., Friedr., Bürstenhdlg., Reins-<br/>burgstr. 93</td>\n</tr>\n<tr>\n<td>6 08 89</td>\n<td>Feucht, F., Drahtwr., Reinsburgstr. 93</td>\n</tr>\n<tr>\n<td>7 45 12</td>\n<td>Feucht, Hans, Friseur, Tübingerstr. 22</td>\n</tr>\n<tr>\n<td>7 05 61</td>\n<td>Feucht, Hel., Maj.Ww., Silberburgstr. 195</td>\n</tr>\n<tr>\n<td>6 44 10</td>\n<td>Feucht, Lina, Ww., Herdweg 114</td>\n</tr>\n<tr>\n<td>5 09 44</td>\n<td>Feucht, Dr. Otto, Zahnarzt, Kö.Karl Str.51</td>\n</tr>\n<tr>\n<td>7 31 24</td>\n<td>Feucht, Paul, Kfm. Hauptstätterstr. 57</td>\n</tr>\n<tr>\n<td>7 29 87</td>\n<td>Feucht, Rich., Kaffee, Heusteigstr. 64</td>\n</tr>\n<tr>\n<td>7 32 32</td>\n<td>Feucht, W., Ob.Postrat, Deg Ob.Weinst. 12</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "— - - - - -",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": ".",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"35 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>8 01 77</td>\n<td>Feucht &amp; Sohn, Möbelfbr., Korntal</td>\n</tr>\n<tr>\n<td>8 05 68</td>\n<td>Feuchter, F., Häute, <i>Zuff</i> Reisstr. 21</td>\n</tr>\n<tr>\n<td>2 97 29</td>\n<td>Feuchter, Gg., Kol.W., Kernerstr. 24</td>\n</tr>\n<tr>\n<td>7 38 36</td>\n<td>Feuchter, Hugo, Weine, Pfaffenweg 45</td>\n</tr>\n<tr>\n<td>5 06 16</td>\n<td>Feuchter M., Rohre, <i>Cst</i> König-Karl-Str. 21</td>\n</tr>\n<tr>\n<td>2 44 69</td>\n<td>Feuchter, Martha, Obst, <i>Sü</i> Kirchh.Str. 51</td>\n</tr>\n<tr>\n<td>7 13 29</td>\n<td>Feuchtinger, Herm., Baumstr., Wannenstraße 20</td>\n</tr>\n<tr>\n<td>2 77 54</td>\n<td>Feuchtinger, J., Musikverlag, Dann.Str. 28</td>\n</tr>\n<tr>\n<td>8 11 59</td>\n<td>Feuerb. Bettfedernfabrik, Kugler &amp; Herrmann, KG, <i>Feu</i> Dornbirnerstr. 2</td>\n</tr>\n<tr>\n<td>8 08 46</td>\n<td>Feuerb. Eigenhandelsges. mbH, <i>Feu</i> Siemensstr. 40</td>\n</tr>\n<tr>\n<td>2 00 13</td>\n<td>Feuerbacher Heide, Eisbahn</td>\n</tr>\n<tr>\n<td>8 07 56</td>\n<td>Feuerbacher Volksbank eGmbH, Ad. Hitler-Str. 63</td>\n</tr>\n<tr>\n<td>8 10 67</td>\n<td>Feuerbacher Zeitung, <i>Feu</i> Wienerstr. 85</td>\n</tr>\n<tr>\n<td>4 27 68</td>\n<td>Feuerbacher, Ad., Autotransp., Landhausstraße 148</td>\n</tr>\n<tr>\n<td>6 55 12</td>\n<td>Feuerbacher, Hans, Transp., Johann.Str. 20</td>\n</tr>\n<tr>\n<td>6 24 68</td>\n<td>Feuerbacher, Karl, Tuche, Hasenbergstr. 27</td>\n</tr>\n<tr>\n<td>0 11 09</td>\n<td>Forchachstadt <i>Wainin</i> <i>Wainin</i> <i>Wanzel</i> 10</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"29 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>9 14 75</td>\n<td>Feuerherd, Rud., Vertret., Hölderlinstr. 29</td>\n</tr>\n<tr>\n<td>7 23 94</td>\n<td>Feuerlein, L., Magnetopath., Cottastr. 10</td>\n</tr>\n<tr>\n<td>2 75 60</td>\n<td>Feuerlein, Prof. L., Gesangslehrer, Stitzenburgstr. 9</td>\n</tr>\n<tr>\n<td>3 02 35</td>\n<td>Feuerstein, Alois, Techn., <i>Unth</i> Augsb. Straße 235</td>\n</tr>\n<tr>\n<td>2 84 76</td>\n<td>Feuerstein, Ernst, Elektrot., Langestr. 49</td>\n</tr>\n<tr>\n<td>2 97 25</td>\n<td>Feuerstein, F., Vertret., Wächterstr. 8</td>\n</tr>\n<tr>\n<td>7 38 10</td>\n<td>Feuerstein, Hildeg., Diktate, Tübing. Str. 69</td>\n</tr>\n<tr>\n<td>2 30 10</td>\n<td>Feurich-Keks AG, Königstr. 36</td>\n</tr>\n<tr>\n<td>2 18 76</td>\n<td>Fewa-Werke, Verk. Büro, Birkenw. Str. 60</td>\n</tr>\n<tr>\n<td>7 88 82</td>\n<td>Fey, Fritz, Dachdeck., <i>Vaih</i> Vischerstr. 30</td>\n</tr>\n<tr>\n<td>4 12 32</td>\n<td>Feyerabend, Luise, Frau, Ameisenb. Str. 9</td>\n</tr>\n<tr>\n<td>4 15 65</td>\n<td>Feyerabend, Erich, Planckstr. 44</td>\n</tr>\n<tr>\n<td>6 42 32</td>\n<td>Feyhl, Alb., Fbrkt., <i>Botn</i> Brahmsweg 13</td>\n</tr>\n<tr>\n<td>2 42 16</td>\n<td>Feyl, Alb., Obst, Markthalle, Stand 95</td>\n</tr>\n<tr>\n<td>3 04 09</td>\n<td>Derselbe, Wohn., <i>Unth</i> Widersteinstr. 13</td>\n</tr>\n<tr>\n<td>8 25 04</td>\n<td>Feyler, Friedr., Bürgermstr. a. D., <i>Wild</i> Drostestr. 6</td>\n</tr>\n<tr>\n<td>2 05 75</td>\n<td>Feyrer, Josef, Kfm., Kronprinzstr. 30</td>\n</tr>\n<tr>\n<td>2 35 76</td>\n<td>Fezer, Hans, Sägewerk, Grillparzerweg 4</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "74 99 Fiala, Alfr., Dir., Albr. Dürerweg 64"
+          },
+          {
+            "extension": "5",
+            "text": "26 88 Ficht, Jos., Hptm., Cst Brenzstr. 5"
+          },
+          {
+            "extension": "5",
+            "text": "04 35 Fichtel, G., Metzgerei, Cst Aachenerstr. 29"
+          },
+          {
+            "extension": "4",
+            "text": "11 48 Fichtel, Rich., Kurzw., Ostendstr. 80"
+          },
+          {
+            "extension": "6",
+            "text": "61 75 Fichtel & Sachs AG, Herzogstr. 13"
+          },
+          {
+            "extension": "7",
+            "text": "83 18 Fichtner, Ewald, Vertr., Vaik Rosental-straße 24"
+          },
+          {
+            "extension": "6",
+            "text": "14 81 Fick, Paul, Blumen, Silberburgstr. 80"
+          },
+          {
+            "extension": "8",
+            "text": "19 01 Fickel, Dr. W., Zahnarzt, Zuff UnterländerStraße 71"
+          },
+          {
+            "extension": "2",
+            "text": "01 05 Ficker, G., Zimmermstr., Nordbhfstr. 111"
+          },
+          {
+            "extension": "7",
+            "text": "30 56 Otto Ficker AG, Papier, Paulinenstr. 1b"
+          },
+          {
+            "extension": "4",
+            "text": "22 61 Fickert, Karl, Spezerei, Berg, K. Schurz-Straße 21"
+          },
+          {
+            "extension": "2",
+            "text": "83 72 Fideler, Herm., Kfm., Gaisburgstr. 27"
+          },
+          {
+            "extension": "6",
+            "text": "19 97 Fidler, Eugen, Glaserei, Schwabstr. 28"
+          },
+          {
+            "extension": "5",
+            "text": "17 88 Fidler, R., Baumst., Cst Daimlerstr. 19"
+          },
+          {
+            "extension": "5",
+            "text": "32 68 Fidler, Rud., Prok., Cst Daimlerstr. 19"
+          },
+          {
+            "extension": "2",
+            "text": "18 29 Fiechtner, Elis., Schausp., Gerokstr. 72"
+          },
+          {
+            "extension": "0",
+            "text": "14 00 Fiechtner, ..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 993 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>7 41 83</td>\n<td>Fiedler, E., Lehr., Sonn Güntherstr. 18</td>\n</tr>\n<tr>\n<td>6 18 83</td>\n<td>Fiedler, H., Prägeanst., Reinsburgstr. 84b</td>\n</tr>\n<tr>\n<td>8 22 97</td>\n<td>Fiedler, Hildeg., Tapeten, Menzelstr. 39</td>\n</tr>\n<tr>\n<td>5 33 66</td>\n<td>Fiedler, Paul, Ing., <i>Steinh</i> Zuckerb. 17</td>\n</tr>\n<tr>\n<td>2 83 71</td>\n<td>Fiedler, Reinh., Musiker, Wilhelmstr. 9</td>\n</tr>\n<tr>\n<td>5 23 80</td>\n<td>Fiegel, Alb., Archit., Cst Haldenstr. 7a</td>\n</tr>\n<tr>\n<td>6 34 70</td>\n<td>Fierthbauer, Jul., Vertr., Augustenstr. 3</td>\n</tr>\n<tr>\n<td>4 11 72</td>\n<td>Fiesel, Frz., Lebensmittel, Ostendstr. 8</td>\n</tr>\n<tr>\n<td>6 46 27</td>\n<td>Fietz, B., Waschanstalt, Moltkestr. 85</td>\n</tr>\n<tr>\n<td>3 00 94</td>\n<td>Figel, Christ., Buchdruck., <i>Redl</i> Heumade-<br/>ner Straße 17</td>\n</tr>\n<tr>\n<td>7 03 92</td>\n<td>Figel, Otto, Vertr., Markusplatz 1</td>\n</tr>\n<tr>\n<td>2 45 27</td>\n<td>Figel, Wilh., Herdfbr., Eßling. Str. 28</td>\n</tr>\n<tr>\n<td>7 28 87</td>\n<td>Fikenscher, Karl, Geschäftsf., Schick-<br/>hardtstr. 49</td>\n</tr>\n<tr>\n<td>7 25 43</td>\n<td>Filder-Baustoffvertr., <i>Möhr</i> Bhf. Str. 59 .</td>\n</tr>\n<tr>\n<td>7 81 14</td>\n<td>Filderbuchhdlg. E. Schiller, <i>Vh</i> A. Hitler-<br/>Straße 1</td>\n</tr>\n<tr>\n<td>7 96 06</td>\n<td>Fildersauerkraut-Fabriken, Erste Echter-<br/>dingen, GmbH, Echterdingen</td>\n</tr>\n<tr>\n<td>7 96 44</td>\n<td>Fildersauerkrautfabrik „Edelweiß“. Fried-</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "96 10 Fildersauerkrautfabrik Otto Sommer, Echterdingen, Hauptstr. 108. P 6899"
+          },
+          {
+            "extension": "7",
+            "text": "26 36 Filderschule, Deg Leinfeldener Str. 61"
+          },
+          {
+            "extension": "5",
+            "text": "14 46 Filmpal. Bad Cannstatt, Cst Seelbergstr. 11"
+          },
+          {
+            "extension": "6",
+            "text": "13 23 Filzer, Herm., Tabak, Rotebühhlstr. 75"
+          },
+          {
+            "extension": "5",
+            "text": "32 09 Filzer, L., Schrein., Fuß Schlag.Str. 37"
+          },
+          {
+            "extension": "5",
+            "text": "30 62 Fimpel, Osk., Kfm., Cst Katz.Str. 10"
+          },
+          {
+            "extension": "2",
+            "text": "27 51 Finanzministerium, Lindenstr. 45"
+          },
+          {
+            "extension": "2",
+            "text": "22 67 Dasselbe, Bauabt., Militärstr. 15"
+          },
+          {
+            "extension": "2",
+            "text": "27 38 Dass., Dienstst. Königstr., Königstr. 44"
+          },
+          {
+            "extension": "6",
+            "text": "19 60 Finck, Adolf, Kfm., Gustav-Siegle-Str. 28"
+          },
+          {
+            "extension": "2",
+            "text": "40 32 Finck, Herm., Herrenwäsche, Königstr. 48"
+          },
+          {
+            "extension": "6",
+            "text": "57 01 Finck, Karl, Fußb.Schleif., Reinsburgstr. 8"
+          },
+          {
+            "extension": "2",
+            "text": "49 74 Finck, Maria, H.Moden, Königstr. 101"
+          },
+          {
+            "extension": "4",
+            "text": "09 06 Dieselbe, privat, Heidehofstr. 15"
+          },
+          {
+            "extension": "6",
+            "text": "31 92 Dr. Finckh oHG, Johannesstr. 15"
+          },
+          {
+            "extension": "6",
+            "text": "02 76 Finckh, Hans, Marmorind., Ludwigstr. 93"
+          },
+          {
+            "extension": "6",
+            "text": "21 17 Finckh, Hedwig, Ww., Knospstr. 3"
+          },
+          {
+            "extension": "2",
+            "text": "64 58 Finckh, Dr. Max, Arzt, Im Schellenkönig 6"
+          },
+          {
+            "extension": "2",
+            "text": "33 22 Drs. Finckh, Koetzle u. Speidel, Röntgen-"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 950\" data-label=\"Table\">\n<table>\n<tr>\n<td>29 88 65</td>\n<td>Find, Fr., Buchdruck., Pleningen</td>\n</tr>\n<tr>\n<td>78 90 26</td>\n<td>Find, Paula, Ww., <i>Möhr</i> TüibingerStr. 70</td>\n</tr>\n<tr>\n<td>6 07 37</td>\n<td>Find, Wilh., Malermstr., Silberburgstr. 33</td>\n</tr>\n<tr>\n<td>8 00 93</td>\n<td>Th. &amp; Paul Findling, Gipser, <i>Zuff</i> BönigheimerStr. 59</td>\n</tr>\n<tr>\n<td>5 01 95</td>\n<td>Marie u. Pauline Fingerle, Aussteuern, Cst Marktstr. 67</td>\n</tr>\n<tr>\n<td>5 05 90</td>\n<td>Fingerle, Rich., Mechan., Cst Hallstr. 67</td>\n</tr>\n<tr>\n<td>2 15 07</td>\n<td>Fingerle, Rob., Bäck., Nordbahnhofstr. 79</td>\n</tr>\n<tr>\n<td>6 38 09</td>\n<td>Fink, Ad., Dek.Maler, Vogelsangstr. 30</td>\n</tr>\n<tr>\n<td>8 05 13</td>\n<td>Fink, Ad., Metzg., <i>Zuff</i> Stammheim. Str. 57</td>\n</tr>\n<tr>\n<td>(7 10 91)</td>\n<td>Fink, Alb., Schaufensterbed., Filderstr. 39</td>\n</tr>\n<tr>\n<td>2 21 02</td>\n<td>Fink, Andreas, Kohlen, Seidenstr. 52</td>\n</tr>\n<tr>\n<td>2 16 30</td>\n<td>Fink, Carl, Möbelfbr., Königstr. 10A</td>\n</tr>\n<tr>\n<td>7 15 11</td>\n<td>Fink, Carl, Eisschrankfbr., Olgastr. 90</td>\n</tr>\n<tr>\n<td>2 01 76</td>\n<td>Fink, Conrad, Friseur, Friedrichstr. 47</td>\n</tr>\n<tr>\n<td>4 14 79</td>\n<td>Fink, Emil, Verlag, Heidehofstr. 15</td>\n</tr>\n<tr>\n<td>2 63 27</td>\n<td>Fink, Eugen, Kfm., Uhlandstr. 16A</td>\n</tr>\n<tr>\n<td>7 36 41</td>\n<td>Fink, F. W., Baumwolle, Silberburgstr. 187</td>\n</tr>\n<tr>\n<td>7 95 07</td>\n<td>Gebr. Fink, Lackfbr., <i>Bernh</i> Karlstr.</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Stuttgart: Feile — Fl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 11 998 976\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>8 06 73</td>\n<td>Fink, G., Bauunt.,</td>\n<td>Few Steierm.Str. 10</td>\n</tr>\n<tr>\n<td>7 31 77</td>\n<td>Fink, G., D.Schneider,</td>\n<td>Weißenb.Str. 29</td>\n</tr>\n<tr>\n<td>6 40 55</td>\n<td>Fink, Hch., Buchdruck.,</td>\n<td>Johannesstr. 3a</td>\n</tr>\n<tr>\n<td>4 27 79</td>\n<td>Fink, Helmut, Auslief.,</td>\n<td>Wagenburgstr. 6</td>\n</tr>\n<tr>\n<td>4 05 24</td>\n<td>Fink, Herm., Eisen,</td>\n<td>Gaisb UlmerStr.</td>\n</tr>\n<tr>\n<td>2 20 42</td>\n<td>Fink, J., Buchdruckerei,</td>\n<td>Seestr. 3</td>\n</tr>\n<tr>\n<td>9 16 74</td>\n<td>Fink, J., Verlag,</td>\n<td>Hegelstr. 30</td>\n</tr>\n<tr>\n<td>2 40 03</td>\n<td>Fink, Joh. G., Kräuter,</td>\n<td>A.StifterStr. 10</td>\n</tr>\n<tr>\n<td>5 13 15</td>\n<td>Fink, Karl, Kfm.,</td>\n<td>Cst Pragstr. 4</td>\n</tr>\n<tr>\n<td>6 31 26</td>\n<td>Fink, Loth., Sportlehr.,</td>\n<td>Bismarckstr. 56</td>\n</tr>\n<tr>\n<td>3 07 99</td>\n<td>Fink, Max, Metzger,</td>\n<td>Unith Hindel.Str. 14</td>\n</tr>\n<tr>\n<td>2 84 78</td>\n<td>O. Fink u. Dr. Ellwanger,</td>\n<td>Versich., Calwer<br/>Straße 10</td>\n</tr>\n<tr>\n<td>78 90 50</td>\n<td>Fink, Oskar, O.Postinsp.,</td>\n<td>Vh Wörthstr. 41</td>\n</tr>\n<tr>\n<td>5 05 28</td>\n<td>Fink, Otto, Dentist,</td>\n<td>Filz Bahnhofstr. 42</td>\n</tr>\n<tr>\n<td>7 82 95</td>\n<td>Fink, Paul, Kfm.,</td>\n<td>Rohr Thingstr. 7</td>\n</tr>\n<tr>\n<td>6 04 64</td>\n<td>Fink, Reinh., Papier,</td>\n<td>Rotebühlstr. 40 B</td>\n</tr>\n<tr>\n<td>7 85 11</td>\n<td>Fink, Rich., Kfm.,</td>\n<td>Vh MöhringerStr. 60</td>\n</tr>\n<tr>\n<td>8 07 04</td>\n<td>Fink, Wilh., Bäcker,</td>\n<td>Zuff Stammh.Str. 66</td>\n</tr>\n<tr>\n<td>4 15 18</td>\n<td>Fink, Wilh., Organisator,</td>\n<td>Schellbergstr. 48</td>\n</tr>\n<tr>\n<td>4 19 15</td>\n<td>Fink &amp; Ott, Matratzen,</td>\n<td>Staffelstr. 1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"42 973 947 993\" data-label=\"Page-Footer\">\n<p>— 10 —</p>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"33 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>7 13 93</td>\n<td>Finkbeiner, Friedr., Bäck., Mozartstr. 54</td>\n</tr>\n<tr>\n<td>7 85 84</td>\n<td>Finkbeiner, Fritz, Schneider, Vh A. Hitlerstr. 51</td>\n</tr>\n<tr>\n<td>7 48 18</td>\n<td>Finkbeiner, Hanns, Handelsvertr., Deg ReutlingerStr. 63</td>\n</tr>\n<tr>\n<td>6 07 66</td>\n<td>Finkbeiner, H., Fleischw., Schloßstr. 61</td>\n</tr>\n<tr>\n<td>4 16 18</td>\n<td>Finkbeiner, Herm., Archit., Werastr. 81b</td>\n</tr>\n<tr>\n<td>6 01 21</td>\n<td>Finkbeiner, Joh., Wohnung, Schloßstr. 61</td>\n</tr>\n<tr>\n<td>2 15 91</td>\n<td>Finkbeiner, Karl, Archit., Gähkopf 12</td>\n</tr>\n<tr>\n<td>6 23 09</td>\n<td>Finkbeiner, Liesbeth, Kinderwagen, Hermannstr. 17</td>\n</tr>\n<tr>\n<td>7 32 81</td>\n<td>Finkbeiner, Rich., Kfm., Heusteigstr. 57</td>\n</tr>\n<tr>\n<td>7 22 84</td>\n<td>Finkbeiner, W., Arch., Deg Rienzistr. 13</td>\n</tr>\n<tr>\n<td>7 01 39</td>\n<td>Finkbeiner, W., Tapez., Heusteigstr. 62</td>\n</tr>\n<tr>\n<td>5 17 66</td>\n<td>Finkel, Dr. Jos., Arzt, Münster a. Neckar</td>\n</tr>\n<tr>\n<td>4 01 89</td>\n<td>Finkenbeiner, E., Früchte, Neckarstr. 86</td>\n</tr>\n<tr>\n<td>5 03 65</td>\n<td>Finn, Walt., Vertr., Cat Reichenh. Str. 45</td>\n</tr>\n<tr>\n<td>2 79 46</td>\n<td>Firnhaber, Fritz, Möbelhaus, CalwerStr. 35</td>\n</tr>\n<tr>\n<td>6 08 38</td>\n<td>Firnig, F., Versich., Reinsb. Str. 105</td>\n</tr>\n<tr>\n<td>7 87 37</td>\n<td>Fischell, Herb., Vertr., Vh Zeisigweg 9</td>\n</tr>\n<tr>\n<td>A 07 00</td>\n<td>Fischer Ad Ingan Zannalinstr 5</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"29 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>6 53 94</td>\n<td>Fischer, Ad., Ladeneinricht., Gaußstr. 74 B</td>\n</tr>\n<tr>\n<td>8 11 04</td>\n<td>Fischer, Adolf, Milch, Feuerbacher Weg 115</td>\n</tr>\n<tr>\n<td>7 09 71</td>\n<td>Fischer, Alb., Buchbind., Immenh. Str. 17 d</td>\n</tr>\n<tr>\n<td>8 07 01</td>\n<td>Fischer, A., Ferntransp., <i>Feu</i> Wiener Str. 72</td>\n</tr>\n<tr>\n<td>6 41 21</td>\n<td>Fischer, Alb., Kol.W., Ludwigstr. 45</td>\n</tr>\n<tr>\n<td>6 41 55</td>\n<td>Fischer, Albr., Baurat, Hauptmannstr. 131</td>\n</tr>\n<tr>\n<td>2 35 09</td>\n<td>Fischer, Alfons, Kfm., Zimmermannstr. 6</td>\n</tr>\n<tr>\n<td>6 48 32</td>\n<td>Fischer, Alfred, Kfm., Bismarckstr. 57</td>\n</tr>\n<tr>\n<td>9 11 69</td>\n<td>Fischer, Alfr., Kfm., <i>Sü</i> Im Lauch 6</td>\n</tr>\n<tr>\n<td>3 11 48</td>\n<td>Fischer, Anna, Lebensm., <i>Redl</i> Dürzbach-<br/>straße 6</td>\n</tr>\n<tr>\n<td>4 23 11</td>\n<td>Fischer, Anna, Dekoratr., Rotenbergstr. 104</td>\n</tr>\n<tr>\n<td>4 14 65</td>\n<td>Fischer, Anna, Ww., Villastr. 43</td>\n</tr>\n<tr>\n<td>2 24 83</td>\n<td>Fischer, Annie, Ww., Kriegsbergstr. 48</td>\n</tr>\n<tr>\n<td>6 22 17</td>\n<td>Fischer, Anton, Lenaustr. 15</td>\n</tr>\n<tr>\n<td>5 02 02</td>\n<td>Fischer, Aug., Kohlen, Cst Hof. Str. 82 b</td>\n</tr>\n<tr>\n<td>2 48 71</td>\n<td>Fischer, Carl, Kfm., Birkenwaldstr. 165 d</td>\n</tr>\n<tr>\n<td>9 06 56</td>\n<td>Fischer, Carl, Herrenart., Hindenburgbau</td>\n</tr>\n<tr>\n<td>5 15 01</td>\n<td>Fischer, Christof, Dir., Cst Wulfilastr. 11</td>\n</tr>\n<tr>\n<td>2 73 92</td>\n<td>Fischer, Clara, Ww., Calwer Str. 41</td>\n</tr>\n<tr>\n<td>8 15 04</td>\n<td>Fischer. David. Mineralwasserfabr., <i>Zuff</i></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Wolfschlugener Str. 11",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"28 4 998 954\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>7 29 55</td>\n<td>Fischer, Dr. J. Gg., Arzt, <i>Sonn</i> Hitlerstr. 52</td>\n</tr>\n<tr>\n<td>7 42 46</td>\n<td>Fischer, Jakob, Priv., Alexanderstr. 120</td>\n</tr>\n<tr>\n<td>7 21 91</td>\n<td>Fischer, Joh., Gipser, <i>Deg</i> Ob. Weinsteige 7</td>\n</tr>\n<tr>\n<td>2 82 71</td>\n<td>Fischer, Johannes, Kanonenweg 6</td>\n</tr>\n<tr>\n<td>7 86 06</td>\n<td>Fischer, Josef, Automützenfabr., <i>Vh</i> Stoß-</td>\n</tr>\n<tr>\n<td>.</td>\n<td>äckerstraße 35</td>\n</tr>\n<tr>\n<td>7 47 75</td>\n<td>Fischer, Josef, Schuhmacherstr., <i>Deg</i></td>\n</tr>\n<tr>\n<td></td>\n<td>ReutlingerStr. 127</td>\n</tr>\n<tr>\n<td>6 42 70</td>\n<td>Fischer, Julie, Ww., Reinsburgstr. 18</td>\n</tr>\n<tr>\n<td>8 05 04</td>\n<td>Fischer, Jul., Oberlehr., <i>Wild</i> Leuth. Str. 8</td>\n</tr>\n<tr>\n<td>7 18 65</td>\n<td>Fischer, Julius, Malermstr., Adlerstr. 45</td>\n</tr>\n<tr>\n<td>2 00 78</td>\n<td>Fischer, Julius, Blumenbinderei, Königsb.</td>\n</tr>\n<tr>\n<td>2 60 22</td>\n<td>Fischer, Dr. K. W., Arzt, Friedrichstr. 23 B</td>\n</tr>\n<tr>\n<td>6 27 66</td>\n<td>Fischer, Karl, Bankoberinsp., Herweghst. 1</td>\n</tr>\n<tr>\n<td>5 17 09</td>\n<td>Fischer, Karl, Gipser, <i>Cst</i> Katzensteigstr. 2</td>\n</tr>\n<tr>\n<td>6 01 79</td>\n<td>Fischer, Karl, Hutfabr., Paulinenstr. 50</td>\n</tr>\n<tr>\n<td>6 38 48</td>\n<td>Fischer, Karl, Kohlen, <i>Botn</i> Alte Stutt-</td>\n</tr>\n<tr>\n<td></td>\n<td>garterStr. 77</td>\n</tr>\n<tr>\n<td>4 18 06</td>\n<td>Fischer, Karl, Gaststätte, Ostendstr. 70</td>\n</tr>\n<tr>\n<td>8 21 16</td>\n<td>Fischer, Karl, Vertr., Lenbachstr. 39</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page. There are no markings, text, or figures present on the surface.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "eischerzeitung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 9 794 994\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2 78 57</td>\n<td>Fischer, Klara, Studienrätin, <i>Sill</i> Sillenb.-<br/>Straße 29</td>\n</tr>\n<tr>\n<td>2 49 63</td>\n<td>Fischer, Klara, Maßgesch., Königstr. 18</td>\n</tr>\n<tr>\n<td>(6 53 94)</td>\n<td>Fischer, Lore, Sängerin, Gaußstr. 74B</td>\n</tr>\n<tr>\n<td>7 06 69</td>\n<td>Fischer, Louis, Maler, Schlosserstr. 31</td>\n</tr>\n<tr>\n<td>2 10 77</td>\n<td>Fischer, Dr. M., San.Rat, Herdweg 59</td>\n</tr>\n<tr>\n<td>9 12 32</td>\n<td>Fischer, M., Strümpfe, Charlottenstr. 16</td>\n</tr>\n<tr>\n<td>6 50 80</td>\n<td>Fischer, M., Zigarren, Schwabstr. 29</td>\n</tr>\n<tr>\n<td>4 25 40</td>\n<td>Fischer, Maria, Erzählerin, Raitelsb.Str. 33</td>\n</tr>\n<tr>\n<td>7 96 42</td>\n<td>Fischer, Ww. Marie, Bäckerei, <i>Vh</i> Hin-<br/>denburgstr. 48</td>\n</tr>\n<tr>\n<td>2 74 95</td>\n<td>Fischer, Dr. Max, Chem., Gänswaldweg 11</td>\n</tr>\n<tr>\n<td>2 31 73</td>\n<td>Fischer, Nath., Pfarrer, Kernerstr. 48</td>\n</tr>\n<tr>\n<td>8 04 66</td>\n<td>Fischer, Osk., Ing., <i>Zuff</i> Reisstr. 32</td>\n</tr>\n<tr>\n<td>2 78 88</td>\n<td>Fischer, Otto, Bankdir., Hölderlinstr. 1</td>\n</tr>\n<tr>\n<td>6 19 87</td>\n<td>Fischer, Otto, Dekorateur, Ludwigstr. 8</td>\n</tr>\n<tr>\n<td>7 37 92</td>\n<td>Fischer, Otto, Archit., <i>Sonn</i> Ad.Hitl.Str.32</td>\n</tr>\n<tr>\n<td>7 08 57</td>\n<td rowspan=\"2\">Fischer, Otto, Elektro- u. Rundfunkgroß-<br/>handlung, Stuttgart 8, Liststr. 9. T Isolator</td>\n</tr>\n<tr>\n<td>7 29 19</td>\n</tr>\n<tr>\n<td></td>\n<td>P 950</td>\n</tr>\n<tr>\n<td>2 37 03</td>\n<td>Fischer, Otto, Kfm., Bismarckturm 54</td>\n</tr>\n<tr>\n<td>7 29 02</td>\n<td>Fischer, Otto, Malerm <i>Vh</i> Gneistestr 4</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 774 989\" data-label=\"Text\"><table><tbody><tr><td>7 38 29</td><td>Fischer, Paul, Privatier, Baumreute 80</td></tr><tr><td>6 47 64</td><td>Fischer, Paul, Kondit., Schwabstr. 63</td></tr><tr><td>2 75 75</td><td>Fischer, P., Palo-Regler, Hohenh.Str. 26</td></tr><tr><td>7 08 73</td><td>Fischer, Peter, Fettwr., Mittelstr. 5</td></tr><tr><td>7 44 56</td><td>Fischer, Raim., Fris., Böbl.Str. 61</td></tr><tr><td>7 06 24</td><td>Fischer, Rich., Install., Böheimstr. 96</td></tr><tr><td>6 05 84</td><td>Fischer, Rich., Muster, Hermannstr. 17</td></tr><tr><td>5 09 81</td><td>Fischer, Rob., Cst Viaduktstr. 10</td></tr><tr><td>7 84 04</td><td>Fischer, Rob., Schreiner, Rohr, Haldenstrasse 10</td></tr><tr><td>2 19 26</td><td>Fischer, Rudi, Fbrkt., Dobelklinge 15</td></tr><tr><td>7 22 05</td><td>Fischer, Rud., Polstermat., Mozartstr. 7</td></tr><tr><td>2 78 14</td><td>Fischer, Seb., Salz, Äuß.Büchsenstr. 97</td></tr><tr><td>6 32 06</td><td>Fischer, Theodor, Vertr., Moltkestr. 29</td></tr><tr><td>6 49 56</td><td>Fischer, Th., Zentralheiz., Kasernenstr. 67</td></tr><tr><td>5 08 90</td><td>Fischer, Th., Heilprax., Cst Taubenh.Str. 60</td></tr><tr><td>4 24 84</td><td>Fischer, Dr. Traugott, Prof., Straußweg 47</td></tr><tr><td>2 64 30</td><td>Fischer, Walter, Friedrichstr. 32</td></tr><tr><td>9 21 32</td><td>Fischer, W., Grabm., Hohenh.Str. 31</td></tr><tr><td>5 30 04</td><td>Fischer, W., Ing., Cst Remstalstr. 31</td></tr><tr><td>4 27 07</td><td>Fischer, Walter, Kfm., Schwar.Str. 81</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Kodra-App. für Desinfektion und Reinigung,Friedrichstr. 32",
+        "entries": [
+          {
+            "extension": "9",
+            "text": "21 32 Fischer, Walt., Bildh., Hohenh. Str. 31"
+          },
+          {
+            "extension": "2",
+            "text": "96 68 Fischer, Dr. Werner, Arzt, Herdweg 59"
+          },
+          {
+            "extension": "2",
+            "text": "63 65 Fischer, W., Fbr. chir. Art., Nordbhfrstr. 21"
+          },
+          {
+            "extension": "5",
+            "text": "09 87 Fischer, W., Kohlen, Cst Überking. Str. 4"
+          },
+          {
+            "extension": "5",
+            "text": "06 79 Fischer, Wilh., Papier Cst Wilh. Str. 20"
+          },
+          {
+            "extension": "6",
+            "text": "37 56 Fischer, Wilh., Bäckerei, Gutenbergstr. 57"
+          },
+          {
+            "extension": "2",
+            "text": "52 62 Fischer, Wilh., Schrein., Brunnenstr. 21"
+          },
+          {
+            "extension": "5",
+            "text": "17 31 Fischer, Dr. W., Stud.-Rat, Cst Zür. Str. 71"
+          },
+          {
+            "extension": "6",
+            "text": "01 84 Fischer, Wilh., Tabakwr., Augustenstr. 43"
+          },
+          {
+            "extension": "7",
+            "text": "87 76 Fischer, Wilh., Kreisleit., Vh Hind. Str. 3"
+          },
+          {
+            "extension": "5",
+            "text": "10 92 Fischer, Wilhelmine, Wollwr., Cst Hallstr. 47"
+          },
+          {
+            "extension": "3",
+            "text": "13 07 Fischer Willy, Kfm., Hedlf Alosenweg 92"
+          },
+          {
+            "extension": "4",
+            "text": "26 74 Fischer, Willi, Musikdir., Rich. Koch-Str. 14 (8 15 04) Fischer, Willi, Fahrräd., Zuff Böhr. Str. 6"
+          },
+          {
+            "extension": "6",
+            "text": "32 36 Fischer, Willy, Dentist, Rotebühlstr. 40 A"
+          },
+          {
+            "extension": "8",
+            "text": "24 97 Fischer & Frank, Kol.-W., Löwentorstr. 46"
+          },
+          {
+            "extension": "4",
+            "text": "01 32 Fischer & Schmid, Kühlerfbr., Schubart- straße 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "straße 11",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "40 11 Flaig, Franz, Muizelweg 5"
+          },
+          {
+            "extension": "7",
+            "text": "41 62 Flaig, Erb., Kfm., Möhr Hindenburgstr. 66"
+          },
+          {
+            "extension": "5",
+            "text": "11 61 Flaig, Jos., Fris., Ost Eis.Str. 16"
+          },
+          {
+            "extension": "2",
+            "text": "72 89 Flaig, Karl, Photogr., Eberhardstr. 53"
+          },
+          {
+            "extension": "9",
+            "text": "25 80 Flaig, Max, Möbeltransp., Alex.Str. 78"
+          },
+          {
+            "extension": "7",
+            "text": "88 13 Flaich, E., Röhren, Vh Katzenbachstr. 17"
+          },
+          {
+            "extension": "2",
+            "text": "65 26 Flaich, Ottilie, Ww., Gähkopf 21 B"
+          },
+          {
+            "extension": "2",
+            "text": "12 50 Flamingo, Wäschefabrikation u. Wäscherei Hedwig Penner, HellbronnerStr. 105"
+          },
+          {
+            "extension": "2",
+            "text": "92 93 flamma, Bestatt. u. Lebensversich.Ges. a. G., Friedrichstr. 16"
+          },
+          {
+            "extension": "7",
+            "text": "01 18 Flammer, Else, Ww., Deg Ahornstr. 12"
+          },
+          {
+            "extension": "7",
+            "text": "32 64 Flatt, C., z Lindle, HauptstätterStr. 98"
+          },
+          {
+            "extension": "7",
+            "text": "12 45 Flatt, Emil, Vermess.-Rat, Sonn Breuning- straße 14"
+          },
+          {
+            "extension": "6",
+            "text": "15 69 Flattich, Eug., Baugesch., Rötistr. 41a"
+          },
+          {
+            "extension": "3",
+            "text": "01 08 Flattich, Fritz, Metzger, Untth Augsb. Straße 354"
+          },
+          {
+            "extension": "4",
+            "text": "08 26 Flattich, Hugo, Dir., Breitlingstr. 19"
+          },
+          {
+            "extension": "6",
+            "text": "05 59 Flattich, Karl, Zimmerm., Johannesstr. 81"
+          },
+          {
+            "extension": "6",
+            "text": "01 67 Flaxland, Julie, Ww., Hasenbergstr. 54"
+          },
+          {
+            "extension": "2",
+            "text": "22 24 ..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"19 0 772 957\" data-label=\"Text\"><table><tbody><tr><td>9 10 82</td><td>Fleck, Anneliese, Füllhalter, Königstr. 1</td></tr><tr><td>5 08 30</td><td>Fleck Egid, Ing., <i>Fub</i> Bahnhofstr. 149</td></tr><tr><td>9 25 64</td><td>Fleck, Frida, Albert-Schäffle-Str. 133</td></tr><tr><td>7 12 96</td><td>Fleck, Hans, Bäckerei, Filderstr. 37</td></tr><tr><td>9 09 17</td><td>Fleck, Johann, Herm.-Pleuer-Str. 35</td></tr><tr><td>6 15 28</td><td>Fleig, Oskar, Ing., Am Kräherwald 205 B</td></tr><tr><td>2 80 70</td><td>Fleig, Val., Haarpflege, Königstr. 21</td></tr><tr><td>2 89 96</td><td>Fleiner, Aug., Dir., Relenbergstr. 50</td></tr><tr><td>6 62 14</td><td>Fleiner, Eb., Versich., Gaußstr. 45</td></tr><tr><td>6 43 60</td><td>Fleiner, Herm., Möbel, Rosenbergstr. 106</td></tr><tr><td>6 53 04</td><td>Fleiner, Johanna, Gesangunt., GutbrodstraÙe 95</td></tr><tr><td>2 46 55</td><td>Fleiner, Dr. Wilhelm, Zahnarzt, Sonnenbergstr. 13</td></tr><tr><td>2 86 62</td><td>Fleisch, E. C., Patentanw., ZimmermannstraÙe 11</td></tr><tr><td>4 07 84</td><td>Fleischer, Josef, Gaststätte Johannisburg, Lembergstr. 19</td></tr><tr><td>2 57 83</td><td>Fleischerinnung, Urbanstr. 6</td></tr><tr><td>7 11 73</td><td>Fleischerzeitung, Marienstr. 11</td></tr></tbody></table></div><div data-bbox=\"482 973 523 991\" data-label=\"Page-Footer\"><p>22</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"484 21 521 43\" data-label=\"Page-Header\"><p>--</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

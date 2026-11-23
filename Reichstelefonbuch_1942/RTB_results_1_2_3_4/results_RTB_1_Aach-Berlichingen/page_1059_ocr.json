@@ -1,0 +1,653 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"422 875 431 891\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"236 10 990 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>21971</td>\n<td>Daseking, Dr. Gg., [N], Schillerstr. 10</td>\n</tr>\n<tr>\n<td>23456</td>\n<td>Degener-Grischow, Dr., [N], Schlüsselk. 20</td>\n</tr>\n<tr>\n<td rowspan=\"2\">Samuel-<br/>Nr.</td>\n<td rowspan=\"2\">{ Dr. Degener-Grischow, Dr. W. Lürman,<br/>Dr. H. Apelt, Rechtsanwälte und No-</td>\n</tr>\n<tr>\n<td>tariat, Schlüsselkorb 20/21</td>\n</tr>\n<tr>\n<td>23456</td>\n<td></td>\n</tr>\n<tr>\n<td>24760</td>\n<td>Delius, Lutz, [N], Obernstr. 41/43</td>\n</tr>\n<tr>\n<td>29302</td>\n<td>Diehe, Dr. G., [N], Ostertorstr. 28</td>\n</tr>\n<tr>\n<td>22281</td>\n<td>Donandt, F., [N], Baumwollbörse, Z. 122</td>\n</tr>\n<tr>\n<td>26785</td>\n<td>ten Doornkaat-Koolman, Dr. Lina, Con-</td>\n</tr>\n<tr>\n<td></td>\n<td>trescarpe 8</td>\n</tr>\n<tr>\n<td>25551</td>\n<td>Drowes, Dr. Fritz, [N], Schlüsselkorb 20</td>\n</tr>\n<tr>\n<td>29302</td>\n<td>Düsing, Dr. Ernst, [N], Ostertorstr. 28</td>\n</tr>\n<tr>\n<td>25803</td>\n<td>Dwerhagen, Wilh., Sögestr. 23</td>\n</tr>\n<tr>\n<td>27855</td>\n<td>Edzard, Gust., [N], Langenstr. 128</td>\n</tr>\n<tr>\n<td>27220</td>\n<td>Eggers, Dr. H., Kreftingstr. 10</td>\n</tr>\n<tr>\n<td>25186</td>\n<td>Eilinghausen, Dr. H., Obernstr. 32</td>\n</tr>\n<tr>\n<td>26051</td>\n<td>Feyer, Dr. Walter, Sögestr. 48</td>\n</tr>\n<tr>\n<td>26051</td>\n<td>Dres. Walter Feyer u. Paul Schlingmann,<br/>Rechtsanwälte, Sögestr. 48</td>\n</tr>\n<tr>\n<td>23141</td>\n<td>Ficke, Dr. Heinr., [N], Hakenstr. 4</td>\n</tr>\n<tr>\n<td>43283</td>\n<td>Finger,",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">}</td>\n<td>Dr. H. Finke, Dr. R. Ahlers, G. Edzard, K.-</td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td>A. u. Notare, Dr. F. Strube, Dr. F. Rosen-</td>\n</tr>\n<tr>\n<td>27855</td>\n<td></td>\n<td>kranz, R.-A., Langenstr. 128/130 II</td>\n</tr>\n<tr>\n<td>23333</td>\n<td></td>\n<td>Francke, Fritz W., Domshelde 10/12</td>\n</tr>\n<tr>\n<td>27222</td>\n<td></td>\n<td>Franke, Dr. Bernhard, Petristr. 2</td>\n</tr>\n<tr>\n<td>(53341)</td>\n<td></td>\n<td>Frick, Dr. Const., H. d. Mauer 1</td>\n</tr>\n<tr>\n<td>24760</td>\n<td></td>\n<td>Fritze, Aug., [N], Obernstr. 41/43</td>\n</tr>\n<tr>\n<td>23655</td>\n<td></td>\n<td>Gätjen, Dr. Bernh., [N], Petristr. 3/5</td>\n</tr>\n<tr>\n<td>40792</td>\n<td></td>\n<td>Galperin, Dr. Hans, HornerStr. 103</td>\n</tr>\n<tr>\n<td>21971</td>\n<td></td>\n<td>Gebert, Dr. Hugo, [N], Schillerstr. 10</td>\n</tr>\n<tr>\n<td>20741</td>\n<td></td>\n<td>Geriach, Dr. Jur., Fr., [N], Sögestr. 23</td>\n</tr>\n<tr>\n<td>26236</td>\n<td></td>\n<td>Gieschen, Dr. Wilh., Wachtstr. 31</td>\n</tr>\n<tr>\n<td>28386</td>\n<td></td>\n<td>Graff, Dr. Adolf, [N], Obernstr. 30</td>\n</tr>\n<tr>\n<td>24488</td>\n<td></td>\n<td>Haefker, Walter, [N], Wachtstr. 26a</td>\n</tr>\n<tr>\n<td>24488</td>\n<td rowspan=\"2\">}</td>\n<td>Walter Haefker, Notar, K. Speckhahn,</td>\n</tr>\n<tr>\n<td>24969</td>\n<td>Rechtsanwälte, Wachtstraße 26a</td>\n</tr>\n<tr>\n<td>23303</td>\n<td></td>\n<td>Hahne, Dr. Heinr., U. L. Frauenk. 8</td>\n</tr",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>Sammel-Nr.</td>\n<td>Die Rechtsanwältung, Notare, E. F. Helne-</td>\n</tr>\n<tr>\n<td>28751</td>\n<td>mann, Dr. W. Hogrewe, Rechtsanwälte, Am Wall 163</td>\n</tr>\n<tr>\n<td>25186</td>\n<td>Heimken, Dr. L., [N], Obernstr. 32</td>\n</tr>\n<tr>\n<td>20554</td>\n<td>Henschen, Dr. A., [N], Langenstr. 9</td>\n</tr>\n<tr>\n<td>27251</td>\n<td>Heymann, Dr., [N], Am Wall 143/144</td>\n</tr>\n<tr>\n<td>22281</td>\n<td>Hirschfeld, Dr. E., Baumwollbörse, Z. 122</td>\n</tr>\n<tr>\n<td>43409</td>\n<td>Hirschfeld, Dr. Georg, [N], Goebenstr. 3</td>\n</tr>\n<tr>\n<td>(22241)</td>\n<td>Hobelmann, Dr. F., [St], Sögestr. 62</td>\n</tr>\n<tr>\n<td>23141</td>\n<td>Höppner, Dr. Friedr., Hakenstr. 4</td>\n</tr>\n<tr>\n<td>20570</td>\n<td>Hogrefe, Dr. M., [N], U.L.Frauenkirchh. 15</td>\n</tr>\n<tr>\n<td>20570</td>\n<td>Dr. Max Hogrefe, Notar, u. H. Wentzien, Rechtsanwälte, U.L.Frauenkirchhof 15</td>\n</tr>\n<tr>\n<td>28751</td>\n<td>Hogrewe, Dr. Ludw., [N] Am Wall 163,</td>\n</tr>\n<tr>\n<td>28751</td>\n<td>Hogrewe, Dr. Wilh., Am Wall 163</td>\n</tr>\n<tr>\n<td>24806</td>\n<td>Ichon, Dr. Th., [N], Ostertorstr. 39</td>\n</tr>\n<tr>\n<td>25130</td>\n<td>Janssen, Dr. Herm., [N], Buchtstr. 16</td>\n</tr>\n<tr>\n<td>46616</td>\n<td>Jantzen, Dr. Johannes, Rembrandtstr. 4</td>\n</tr>\n<tr>\n<td>40287</td>\n<td>Kahrs, Dr. J., [N], Hemelingen, Bhfstr. 15</td>\n</tr>\n<tr>\n<td>28751</td>\n<td>Kelbling, Dr., [N], Am Wall 163</td>\n</tr>\n<tr>\n<td>10000</td",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 0 998 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>27951</td>\n<td>Kind, Dr. Friedr., [N], Langenstr. 139/140</td>\n</tr>\n<tr>\n<td>25341</td>\n<td rowspan=\"2\">{ Koch I, Rechtsanwalt u. Notar, Bremen,</td>\n</tr>\n<tr>\n<td>25342</td>\n<td>Am Wall 192</td>\n</tr>\n<tr>\n<td>27223</td>\n<td>Kottmeler, Dr. Th., [N], Hutfilterstr. 9/13 I</td>\n</tr>\n<tr>\n<td>20400</td>\n<td>Kuck, Dr. Gerhard, [N], Knochenh.-Str. 46</td>\n</tr>\n<tr>\n<td>25144</td>\n<td>Kuhimann, Dr. E., [N], Liebfrauenk. 8</td>\n</tr>\n<tr>\n<td>25475</td>\n<td>Kulenkampf, Dr. Ed., [N], Am Markt 11</td>\n</tr>\n<tr>\n<td>24441</td>\n<td>Kulenkampf, Dr. Wolfgang, Domsheide 3</td>\n</tr>\n<tr>\n<td>20757</td>\n<td>Lahrs, Dr. Gerh., [N], Wachtstr. 27/28</td>\n</tr>\n<tr>\n<td>54331</td>\n<td>Lahusen, Dr. Diedrich, [N], General-Luden-</td>\n</tr>\n<tr>\n<td></td>\n<td>dorf-Str. 107</td>\n</tr>\n<tr>\n<td>24783</td>\n<td>Landwehr, Dr. Th., [N], Buchtstr. 8</td>\n</tr>\n<tr>\n<td>22281</td>\n<td>Lange, Dr. L., Baumwollbörse, Z. 122</td>\n</tr>\n<tr>\n<td>255 17</td>\n<td>Leist, Dr. O. F., [N], Langenstr. 4/6</td>\n</tr>\n<tr>\n<td>27251</td>\n<td>Lemke, Dr., [N], Am Wall 143</td>\n</tr>\n<tr>\n<td>27251</td>\n<td>Lemke, Dr. Wilh., [N], Am Wall 144</td>\n</tr>\n<tr>\n<td>24641</td>\n<td>Löning, Dr. Hans, Sögestr. 37</td>\n</tr>\n<tr>\n<td>24641</td>\n<td>Lührssen, Dr. Fr., [N], Sögestr. 37</td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">{ Dres. Lührssen, Rechtsanwalt und Notar,</td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td>und H. Löning",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"270 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>26744</td>\n<td>Lüthke, Dr. Friedrich, [N], Börse 7/11</td>\n</tr>\n<tr>\n<td>26525</td>\n<td>Lutter, Dr. Th., [N], Ostertorstr. 27</td>\n</tr>\n<tr>\n<td>20554</td>\n<td>Mahlstaedt, B. H., [N], Langenstr. 9</td>\n</tr>\n<tr>\n<td>23118</td>\n<td>Maier, Dr. Herbert Georg, Altenwall 4</td>\n</tr>\n<tr>\n<td>24270</td>\n<td>Mehihorn, Walter, [N], Langenstr. 14</td>\n</tr>\n<tr>\n<td>20708</td>\n<td>Mehne, Günther, Dechanatstr. 1b</td>\n</tr>\n<tr>\n<td>25383</td>\n<td>Meler, Dr. Herm., [N], Schüsselkorb 20</td>\n</tr>\n<tr>\n<td>25808</td>\n<td>Mensch, Dr. Bruno, [N], A. Markt 18</td>\n</tr>\n<tr>\n<td>29309</td>\n<td>Merling, Dr. Kurt, [N], Sögestr. 49</td>\n</tr>\n<tr>\n<td>27951</td>\n<td>Meyer, Dr. O., [St/N], Langenstr. 139</td>\n</tr>\n<tr>\n<td>26116</td>\n<td>Meyer-Schwaring, Dr. H., Am Markt 14</td>\n</tr>\n<tr>\n<td>26225</td>\n<td>Milarch, Dr. G., [N], Ostertorstr. 27</td>\n</tr>\n<tr>\n<td>26572</td>\n<td>Müller, Stats Maria, Altenwall 24</td>\n</tr>\n<tr>\n<td>23252</td>\n<td>Müllershausen, Dr. J. N., [St/N], Sögestr. 63</td>\n</tr>\n<tr>\n<td>25806</td>\n<td>Mund, W., [N], Am Markt 18</td>\n</tr>\n<tr>\n<td>24488</td>\n<td>Nicolaus, Willy, Wachtstr. 26a</td>\n</tr>\n<tr>\n<td>25475</td>\n<td>Nielsen, Dr., [N], Am Markt 11</td>\n</tr>\n<tr>\n<td>(25186)</td>\n<td>Nienaber, Dr. Friedr., Obernstr. 32</td>\n</tr>\n<tr>\n<td>25130</td>\n<td>Noltenius, Dr. Eberhard, [N], Buchtstr. 16</td>\n</tr>\n<tr>\n<td>25130</td>\n",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"285 0 998 963\" data-label=\"Text\"><table><tbody><tr><td>54331</td><td>Noltenius, Dr. I. E., Ludendorff-Str. 107</td></tr><tr><td>48152</td><td>Noltenius, Dr. Hans, [N], Humboldtstr. 92</td></tr><tr><td>20554</td><td>Otten, Dr. Herm., [N], Langenstr. 9</td></tr><tr><td>40619</td><td>Petig, Adolf, [N], Staader Str. 4</td></tr><tr><td>24270</td><td>Pohl, Wolfgang, [N], Langenstr. 14</td></tr><tr><td>29271</td><td>Räcke, Dr. Heinr., [N], Domshof 17/18</td></tr><tr><td>29464</td><td>Reichard, Walther, [N], Langenstr. 7</td></tr><tr><td>20419</td><td>Ristedt, Dr. Heinr., [N], Sögestr. 60</td></tr><tr><td>20419</td><td>Dres. Heinrich Ristedt, [N], u. Waldemar Zeisner, Rechtsanwälte, Sögestr. 60</td></tr><tr><td>40369</td><td>Rohmeyer, Dr. H., Hemelingen, Sebaldsbr.-Heer-Str. 34</td></tr><tr><td>27855</td><td>Rosenkranz, Dr. Fritz, Langenstr. 128</td></tr><tr><td>25363</td><td>Rutenberg, Dr. A., [N], Schüsselkorb 20</td></tr><tr><td>25363</td><td rowspan=\"2\">Rutenberg, Dr. A., Rechtsanwalt u. Notar, Schüsselkorb 20/21</td></tr><tr><td>25551</td></tr><tr><td>42361</td><td>Derselbe, Wohn., Lothringer Str. 15</td></tr><tr><td>25635</td><td>Schell, Hermann, [N], Petristr. 3</td></tr><tr><td>24441</td><td>Scherer, Dr. Aug., [N], Domsheide 3</td></tr><tr><td>25192</td><td>Schierloh, Dr. N., [N], Dechanatstr. 1a/c</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"42 11 986 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>222 81</td>\n<td>Schlemmermeyer, Dr. L., [N], Baumwollb.</td>\n</tr>\n<tr>\n<td>260 51</td>\n<td>Schlingmann, Dr. Paul, Sögestr. 48</td>\n</tr>\n<tr>\n<td>449 81</td>\n<td>Schlüter, Dr. H. L., Clausewitzstr. 33</td>\n</tr>\n<tr>\n<td>253 41</td>\n<td>Scholtz, Dr. Hans, Am Wall 192</td>\n</tr>\n<tr>\n<td>272 51</td>\n<td>Schotte, Dr. Georg, [N], Am Wall 143/144</td>\n</tr>\n<tr>\n<td>249 08</td>\n<td>Schröder, Dr. Carl, [N], Langenstr. 133</td>\n</tr>\n<tr>\n<td>203 65</td>\n<td>Schröder, J. J., [N], Obernstr. 82</td>\n</tr>\n<tr>\n<td>200 28</td>\n<td>Schütte, Dr. Carl, [N], Obernstr. 34/36</td>\n</tr>\n<tr>\n<td>279 51</td>\n<td>Schulze-Smidt, Dr. Arthur, [J/N], Langenstraße 149</td>\n</tr>\n<tr>\n<td>279 51</td>\n<td>Schulze-Smidt, Dr. E., Langenstr. 139</td>\n</tr>\n<tr>\n<td>253 63</td>\n<td>v. Seelen, Dr. Erich, [N], Schüsselkorb 20</td>\n</tr>\n<tr>\n<td>288 32</td>\n<td>Seyde, Dr. Hans, Petristr. 3/5</td>\n</tr>\n<tr>\n<td>234 51</td>\n<td>Smid, J. M., [N], Sögestr. 49</td>\n</tr>\n<tr>\n<td>280 51</td>\n<td>Smidt, Dr. Hans-Georg, [St/N], Sögestr. 58</td>\n</tr>\n<tr>\n<td>474 03</td>\n<td>Soeken, Erich, Zeppelinstr. 15</td>\n</tr>\n<tr>\n<td>244 88</td>\n<td>Speckhahn, Karl, Wachtstr. 26a</td>\n</tr>\n<tr>\n<td>288 32</td>\n<td>Stahn, Roderich, Petristr. 3—5</td>\n</tr>\n<tr>\n<td>204 00</td>\n<td>Storch, Dr. Heinr., [N], Knochenh.Str. 46</td>\n</tr>\n<tr>\n<td>2",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 988 755\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>424 77</td>\n<td><b>Tedelmann, Dr. H.</b>, Schwachh. Heerstr. 45</td>\n</tr>\n<tr>\n<td>207 57</td>\n<td><b>Tellmann, Dr. A.</b>, [N], Wachtstr. 27/29</td>\n</tr>\n<tr>\n<td>432 24</td>\n<td><b>Upmann, Dr. H.</b>, Rich.-Wagner-Str. 16</td>\n</tr>\n<tr>\n<td>232 47</td>\n<td><b>Weichberger, Wolffg.</b>, Altenwall 4</td>\n</tr>\n<tr>\n<td>293 02</td>\n<td><b>Wellmann, Dr. O.</b>, [N], Ostertorstr. 28</td>\n</tr>\n<tr>\n<td>293 02</td>\n<td rowspan=\"2\"><b>Dres. Wellmann, Düsing u. Dietho</b>, Rechts-</td>\n</tr>\n<tr>\n<td>293 03</td>\n<td>anwälte u. Notare, Ostertorstr. 28/29</td>\n</tr>\n<tr>\n<td>205 70</td>\n<td><b>Wentzien, H.</b>, [St], Liebfrauenkirchhof 15</td>\n</tr>\n<tr>\n<td>267 44</td>\n<td><b>Wilckens, Dr. B. J.</b>, [N], Börsenhptgeb.</td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\"><b>Dr. jur. B. Joh. Wilckens, Dr. jur. Fr.</b></td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td><b>Lüthke, Dr. jur. G. Bechtel</b>, Rechtsanwäl-</td>\n</tr>\n<tr>\n<td>267 44</td>\n<td>te u. Notare, Börsenhauptgebäude</td>\n</tr>\n<tr>\n<td>(207.57)</td>\n<td><b>Wille, Hans-Oskar</b>, Wachtstr. 27/29</td>\n</tr>\n<tr>\n<td>233 33</td>\n<td><b>Winckelmann, Dr. G.</b>, [N], Domsh. 10/12</td>\n</tr>\n<tr>\n<td>247 83</td>\n<td><b>Wriedt, Dr. C. H.</b>, [N], Buchtstr. 8</td>\n</tr>\n<tr>\n<td>204 19</td>\n<td><b>Zelsner, Dr. Waldemar</b>, Sögestr. 60</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"10 785 508 842\" data-label=\"Section-Header\">\n<h2><",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"67 14 998 992\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>34826</td>\n<td>Bick, Dr. Georg, Gartenstr. 47</td>\n</tr>\n<tr>\n<td>29197</td>\n<td>Bick, Georg, J.-R., [N], Junkernstr. 11</td>\n</tr>\n<tr>\n<td>53660</td>\n<td>v. Bismarck, Otto, [N], Schweidn.Str. 16</td>\n</tr>\n<tr>\n<td>51382</td>\n<td>Bitter, Dr. Alb., [St], Schweidn.Str. 31</td>\n</tr>\n<tr>\n<td>50994</td>\n<td>Blauel, Friedrich, [N], Gartenstr. 46</td>\n</tr>\n<tr>\n<td>23233</td>\n<td>Bocksch, Herbert, Claassenstr. 9</td>\n</tr>\n<tr>\n<td>28585</td>\n<td>Bohn, Dr. Erich, [N], Ring 26</td>\n</tr>\n<tr>\n<td>33947</td>\n<td>Bone, Martin, [N], Str. d. SA. 75</td>\n</tr>\n<tr>\n<td>80200</td>\n<td>Bornschier, Dr. P. W.; Gabitzstr. 168</td>\n</tr>\n<tr>\n<td>31748</td>\n<td>Borowietz, August, Sadowastr. 35</td>\n</tr>\n<tr>\n<td>23362</td>\n<td>Brans, Bernhard, Zwingerpl. 2</td>\n</tr>\n<tr>\n<td>21824</td>\n<td>Braunsdorf, Dr. E., Ohlauer Stadtgr. 16</td>\n</tr>\n<tr>\n<td>33431</td>\n<td>Büchal, Karl, Gartenstr. 61</td>\n</tr>\n<tr>\n<td>53230</td>\n<td>Buchholz, Dr. G. H., [St], Ohl. Stadtgr. 23</td>\n</tr>\n<tr>\n<td>28980</td>\n<td>Bujakowsky, Dr., Junkernstr. 17</td>\n</tr>\n<tr>\n<td>26667</td>\n<td>Bumbke, Peter, [N], N. Schweidn. Str. 15</td>\n</tr>\n<tr>\n<td>28585</td>\n<td>Bungenstab, Dr. Walter, Ring 26</td>\n</tr>\n<tr>\n<td>37560</td>\n<td>Burchard, Erwin, [N], Straße d. SA 21</td>\n</tr>\n<tr>\n<td>34547</td>\n<td>Burda, Herbert, Rechtsanwalt und Notar,<br/>Bresl. 13. Straße der SA 56. P 17610</td>\n</tr>\n<tr>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"57 0 998 990\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>57374</td>\n<td><b>v. Buschmann, Dr. Max,</b> Schweidn. Str. 43</td>\n</tr>\n<tr>\n<td>35081</td>\n<td><b>Chytraeus, Max,</b> Sadowastr. 29</td>\n</tr>\n<tr>\n<td>51123</td>\n<td><b>Cuschirow, Silvio,</b> Tauentzienstr. 53</td>\n</tr>\n<tr>\n<td>55728</td>\n<td><b>Diugosch, Erna,</b> Gartenstr. 62</td>\n</tr>\n<tr>\n<td>20304</td>\n<td><b>v. Dobschütz, Gerh.,</b> Museumpl. 9</td>\n</tr>\n<tr>\n<td>20161</td>\n<td><b>Dombrowsky, Alfred,</b> [N], Zimmerstr. 10</td>\n</tr>\n<tr>\n<td>23400</td>\n<td><b>Dwucet-Beyer, Hilde,</b> Friedr. Wilh. Str. 8</td>\n</tr>\n<tr>\n<td>50090</td>\n<td><b>Eitner, Dr. Albrecht,</b> Schweidn. Str. 27</td>\n</tr>\n<tr>\n<td>(51890)</td>\n<td><b>Eisner, Dr. Gerhard,</b> Gartenstr. 30</td>\n</tr>\n<tr>\n<td>58803</td>\n<td><b>Enders, Dr. Karl,</b> [N] Ohl. Str. 81</td>\n</tr>\n<tr>\n<td>28919</td>\n<td><b>Ferneding, Dr. H.,</b> [N], Junkernstr. 21</td>\n</tr>\n<tr>\n<td>34826</td>\n<td><b>Fischer, Dr. Norbert,</b> [N], Gartenstr. 47</td>\n</tr>\n<tr>\n<td>34826</td>\n<td rowspan=\"2\">\n<b>Dr. Norbert Fischer, Notar, u. Dr. Georg</b><br/>\n<b>Bick, Rechtsanwälte, Breslau 5, Garten-</b><br/>\n<b>straße 47</b>\n</td>\n</tr>\n<tr>\n<td>34828</td>\n</tr>\n<tr>\n<td>45917</td>\n<td><b>Floegel, Dr. Martin,</b> Kaiserstr. 78—80</td>\n</tr>\n<tr>\n<td>57523</td>\n<td><b>Franke, Dr. Eberh.,</b> Tauentzienpl. 6</td>\n</tr>\n<tr>\n<td>44933</td>\n<td><b>Franzke, W.,</b> Kaiserstr. 85</td>\n</tr>\n<tr>\n<td>25951</td>\n<td",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"71 0 998 968\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>30785</td>\n<td>Friedrich, Dr. J., [N], Str. d. SA 81</td>\n</tr>\n<tr>\n<td>28506</td>\n<td>Friemelt, Herbert, [N], Ring 6</td>\n</tr>\n<tr>\n<td>56841</td>\n<td>Fritsch, Stefan, Tauentzienpl. 7</td>\n</tr>\n<tr>\n<td>51687</td>\n<td>Fritsch, Dr. W., [N], Schweidn. Stadtg. 19</td>\n</tr>\n<tr>\n<td>81658</td>\n<td>Fromberg, Dr. H., [N], Kurfürstenstr. 16</td>\n</tr>\n<tr>\n<td>32051</td>\n<td>Fürer, Dr. Dr., Kurt, Str. d. SA 53</td>\n</tr>\n<tr>\n<td>84077</td>\n<td>Funcck, Dr. Enno, Mörikestr. 30</td>\n</tr>\n<tr>\n<td>57523</td>\n<td>Gaertner, Dr. W., J.-R., [N], Tauentz. Pl. 6</td>\n</tr>\n<tr>\n<td>57523</td>\n<td>Dr. Willy Gaertner, Justizrat, Rechtsanwalt u. Notar u. Dr. Eberhard Franke, Rechtsanwalt, Bresl. 5, Tauentzienplatz 6</td>\n</tr>\n<tr>\n<td>36968</td>\n<td>Garn, Herbert, Sadowastr. 82</td>\n</tr>\n<tr>\n<td>(27470)</td>\n<td>Gelsler, Dr. Hans-G., Anger 13</td>\n</tr>\n<tr>\n<td>50090</td>\n<td>Gerike, Ulrich, [N], Schweidn. Str. 27</td>\n</tr>\n<tr>\n<td>51509</td>\n<td>v. Gersdorff, Frhr. Dr., [N], Gartenstr. 60</td>\n</tr>\n<tr>\n<td>26826</td>\n<td>Gerstenberg, Herm., [N], Tauentzienpl. 10b</td>\n</tr>\n<tr>\n<td>50318</td>\n<td>Glessmann, Dr. Rich., [N], Taschenstr. 23</td>\n</tr>\n<tr>\n<td>54975</td>\n<td>Götz, Dr. Joseph, [N], Gartenstr. 18</td>\n</tr>\n<tr>\n<td>56333</td>\n<td>Günther, Dr. Gerh., Zimmerstr. 10</td>\n</tr>\n<tr>\n<td>85009</td>\n<td>Hacks, Dr. Karl, Gabitzstr. 172</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image is a scan of a blank page from a 1942 German telephone directory. The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry for a specific town or region that was not included in this particular volume of the directory.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"630 753 997 937\" data-label=\"Text\"><p><b>4759. Rech</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"56 11 986 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>50350</td>\n<td>Halbe, Dr. Albert, [N], Tauentzienpl. 1</td>\n</tr>\n<tr>\n<td>32542</td>\n<td>Hanke, Dr. Helimuth, Viktoriastr. 122</td>\n</tr>\n<tr>\n<td>44969</td>\n<td>Heese, Dr. Dietr., [N], Tierg.Str. 9</td>\n</tr>\n<tr>\n<td>25707</td>\n<td>Heimann-Trosien, Dr. G., Ohlauufer 18</td>\n</tr>\n<tr>\n<td>43398</td>\n<td>Hempel, Dr. Herbert, Matthiaspl. 20</td>\n</tr>\n<tr>\n<td>20413</td>\n<td>Henke, Kurt, [N], Ring 20</td>\n</tr>\n<tr>\n<td>24220</td>\n<td>Hepner, Dr. Rudolf, N. Taschenstr. 24</td>\n</tr>\n<tr>\n<td>27771</td>\n<td>Herbst, Hans, Klosterstr. 11</td>\n</tr>\n<tr>\n<td>27771</td>\n<td>Herzog, Hans, Klosterstr. 11</td>\n</tr>\n<tr>\n<td>55226</td>\n<td>Hilgermann, Dr. Norbert, Schmiedeb. 48</td>\n</tr>\n<tr>\n<td>32322</td>\n<td>Hirte, Walter, Gartenstr. 63</td>\n</tr>\n<tr>\n<td>50236</td>\n<td>Hochheiser, Dr. Alfred, Salvatorpl. 8</td>\n</tr>\n<tr>\n<td>50236</td>\n<td>Dr. Alfred Hochheiser u. Notar Dr. Alexander Hoßmann, Rechtsanwälte am Oberlandesgericht, Büro: Salvatorplatz 8</td>\n</tr>\n<tr>\n<td>42542</td>\n<td>Höhl, Dr. I., [St], Kletschkaustr. 33</td>\n</tr>\n<tr>\n<td>50236</td>\n<td>Hoßmann, Dr. A., [N], Salvatorplatz 8</td>\n</tr>\n<tr>\n<td>25201</td>\n<td>Hruschka, Idef., Friedr.-Wilh.-Str. 7/9</td>\n</tr>\n<tr>\n<td>24493</td>\n<td>Huhn, Walter, [N], Museumplatz 5</td>\n</tr>\n<tr>\n<td>55344</td>\n<td>Huth, Werner, Tauentzienpl. 11</td>\n</tr>\n<tr>\n<td>51305</td>\n<td>Jacklach, Dr. H., [N], Ursulinerstr. 5/6</td>\n</tr>\n<tr>\n<td>KKK00</td",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"46 0 987 990\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>56805</td>\n<td>Joseph, Dr. H., [N], N. Schweidn. Str. 16</td>\n</tr>\n<tr>\n<td>57791</td>\n<td>Jüttner, Dr. Ignaz, [N], Junkernstr. 22/24</td>\n</tr>\n<tr>\n<td>81690</td>\n<td>Jung, Dr. Albr., Kastanienallee 10</td>\n</tr>\n<tr>\n<td>56841</td>\n<td>Jungfer, Dr. E., [N], Tauentzienstr. 7</td>\n</tr>\n<tr>\n<td>29511</td>\n<td>Kasparek, Kurt, [N], Nikolaistadtg. 25</td>\n</tr>\n<tr>\n<td>54231</td>\n<td>Kasperkowitz, Dr. K., Ohl. Stadtg. 1</td>\n</tr>\n<tr>\n<td>57436</td>\n<td>Kaufhold, Bernh., Tauentzienstr. 14</td>\n</tr>\n<tr>\n<td>41619</td>\n<td>Kaufmann, Dr. Ernst, Kreuzstr. 30</td>\n</tr>\n<tr>\n<td>55569</td>\n<td>Kenhardt, Harry, [N], Tauentzienstr. 2</td>\n</tr>\n<tr>\n<td>50983</td>\n<td>Kethner, Herbert, Rechtsanwalt u. Notar,<br/>Gartenstr. 94. P Breslau 855</td>\n</tr>\n<tr>\n<td>50861</td>\n<td>Kiefer, Dr. Herm., [N], Freib. Str. 34</td>\n</tr>\n<tr>\n<td>41764</td>\n<td>Kirchner, Dr. Erich, Wilhelmsruher Str. 1</td>\n</tr>\n<tr>\n<td>51890</td>\n<td>Kittelmann, Dr. Hedwig, Gartenstr. 30</td>\n</tr>\n<tr>\n<td>35981</td>\n<td>Knothe, Leonhard, Theaterstr. 1</td>\n</tr>\n<tr>\n<td>29511</td>\n<td>Koch, Herbert, Nikolaistadtgr. 25</td>\n</tr>\n<tr>\n<td>54354</td>\n<td>Koch, Dr. Walther, [N], Junkernstr. 1</td>\n</tr>\n<tr>\n<td>(28919)</td>\n<td>Köhler, Dr. Gerhard, [N], Junkernstr. 21</td>\n</tr>\n<tr>\n<td>51525</td>\n<td>Koose, Helmut, Schweidn. Str. 52</td>\n</tr>\n<tr>\n<td>57037</td>\n<td>Kotulla, Dr. W., Neue Taschenstr. 22</td>\n</tr>\n<tr>\n<td>283",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 0 998 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>56509</td>\n<td>Kratzert, Dr. Walter, [N], Gartenstr. 20</td>\n</tr>\n<tr>\n<td>51382</td>\n<td>Krause, Dr. Martin, [St], Schweidn.Str. 31</td>\n</tr>\n<tr>\n<td>26074</td>\n<td>Krause, Max, Gartenstraße 32</td>\n</tr>\n<tr>\n<td>27470</td>\n<td>Kröber, Dr. Hans, Angerstr. 13</td>\n</tr>\n<tr>\n<td>51281</td>\n<td>Ksoll, Dr. Eberhard, Schweidn.Str. 37</td>\n</tr>\n<tr>\n<td>23663</td>\n<td>Kubuschok, Dr. Egon, Tauentzienpl. 1b</td>\n</tr>\n<tr>\n<td>25590</td>\n<td>Kuchendorf, Dr. Eugen, Hauptbahnhof 2</td>\n</tr>\n<tr>\n<td>38770</td>\n<td>Kuhn, Dr. Georg, Straße d. SA 29</td>\n</tr>\n<tr>\n<td>(54231)</td>\n<td>Kuhnert, Gotth., Ohlauer Stadtgr. 1</td>\n</tr>\n<tr>\n<td>82572</td>\n<td>Kuttner, Dr. Hans, Str. d. SA 5—7</td>\n</tr>\n<tr>\n<td>21227</td>\n<td>Kwiatkowski, Dr. Gotth., [St], Schweidnitzer Straße 30</td>\n</tr>\n<tr>\n<td>20459</td>\n<td>Land, Dr. Otto, [N], N.Schweidn.Str. 4</td>\n</tr>\n<tr>\n<td>35285</td>\n<td>Lattke, Dr. Joachim, Rechtsanwalt u. Notar, Bresl. 5, N. Schweidnitzerstr. 7/8</td>\n</tr>\n<tr>\n<td>(26090)</td>\n<td>Latzel, Gerhard, Museumpl. 15</td>\n</tr>\n<tr>\n<td>51018</td>\n<td>Lemor, Dr. Hans J., Schweidn.Str. 54</td>\n</tr>\n<tr>\n<td>54671</td>\n<td>Leuschner, Heinrich, [St], Junkernstr. 13</td>\n</tr>\n<tr>\n<td>20577</td>\n<td>Ludwig, Dr. Franz, Rechtsanwalt und Notar, Agnesstr. 1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"68 10 998 993\" data-label=\"Text\"><table><tbody><tr><td>85581</td><td>Lukaschek, Dr. Hans, Str. d. SA 106</td></tr><tr><td>25951</td><td>Lummert, Dr. Günth., [St], Salvatorpl. 8</td></tr><tr><td>34684</td><td>Marcuso, Oswald, JR., Körnerstr. 37</td></tr><tr><td>83850</td><td>Maskos, Walter, Straße d. SA 208</td></tr><tr><td>31602</td><td>Matschke, Dr. Alex, Str. d. SA 27</td></tr><tr><td>24669</td><td>Matschke, Lutz, Königstr. 7</td></tr><tr><td>56842</td><td>Menzel, Dr. Georg, Tauentzienpl. 7</td></tr><tr><td>58018</td><td>Mertens, Dr. Werner, Tauentzienstr. 28</td></tr><tr><td>21730</td><td>Monser, Herb., Neue Taschenstr. 25b</td></tr><tr><td>38281</td><td>Müller, Dr. Konstantin, Gartenstr. 51</td></tr><tr><td>23887</td><td>Münch, Hans, Tauentzienstr. 15</td></tr><tr><td>21877</td><td>Nagel, Dr. L., [N], Schweidn.Stadtgr. 21</td></tr><tr><td>54841</td><td>Nawrocki, Dr. K., [N], Agnesstr. 6</td></tr><tr><td>33184</td><td>Neumann, Dr. Franz, Neudorfstr. 77</td></tr><tr><td>31493</td><td>Neuwiam, Dr. G., [N], Str. d. SA 59</td></tr><tr><td>37102</td><td>Nitschke, Georg, Sadowastr. 37</td></tr><tr><td>23604</td><td>Nowack, Bruno, Tauentzienplatz 9</td></tr><tr><td>24377</td><td>Oibrich, Dr. Emil, Gartenstr. 16</td></tr><tr><td>26660</td><td>Otte, Dr. Felix, Tauentzienstr. 52</td></tr><tr><td>81723</td><td>Paetzold, Dr. Dietrich, Eichendorfstr. 13</td></tr><tr><td>82112</td><td>Dallakv Dr. Rudolf N Grunnamstr. 9</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 0 997 988\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>55344</td>\n<td><b>Ranger, Dr. Kuo.,</b> Tautenzienpl. 11</td>\n</tr>\n<tr>\n<td>25826</td>\n<td><b>Poch, Dr. Gerhard,</b> Blücherplatz 10</td>\n</tr>\n<tr>\n<td>81903</td>\n<td><b>Peucker, Dr. Oscar,</b> [N], Goethestr. 17</td>\n</tr>\n<tr>\n<td>25919</td>\n<td><b>Pinkert, Hans,</b> Neue Taschenstr. 4</td>\n</tr>\n<tr>\n<td>30122</td>\n<td><b>Piper, Dr. Wilh.,</b> Elsasser Str. 1</td>\n</tr>\n<tr>\n<td>55929</td>\n<td><b>Pioschke, Dr. F. W.,</b> Höfichenstr. 5</td>\n</tr>\n<tr>\n<td>25220</td>\n<td><b>Pöhlemann, Dr. Curt,</b> [N], Eichbornstr. 4</td>\n</tr>\n<tr>\n<td>31300</td>\n<td><b>Poetsch, Dr. Helmuth,</b> Goethestr. 8</td>\n</tr>\n<tr>\n<td>53804</td>\n<td><b>Polke, Dr. Heinr.,</b> Ohlauufer 14</td>\n</tr>\n<tr>\n<td>57222</td>\n<td><b>Prause, Dr. Fritz,</b> [N], Schweidn. Str. 16/18</td>\n</tr>\n<tr>\n<td>43475</td>\n<td><b>Proelss, Dr. E. F.,</b> Birkenwäldchen 8</td>\n</tr>\n<tr>\n<td>55407</td>\n<td><b>Quabbe, Dr. G.,</b> [N], Agnesstr. 11</td>\n</tr>\n<tr>\n<td>58226</td>\n<td><b>Rabuske, Helmut,</b> [St], Taschenstr. 3/5</td>\n</tr>\n<tr>\n<td>80395</td>\n<td><b>Rauch, Dr. Friedrich,</b> Straße d. SA 220</td>\n</tr>\n<tr>\n<td>21879</td>\n<td><b>Riedel, Dr. Max,</b> [N], Taschenstr. 10</td>\n</tr>\n<tr>\n<td>54509</td>\n<td><b>Riediger, Dr. Fritz,</b> [N], N. Taschenstr. 12</td>\n</tr>\n<tr>\n<td>54354</td>\n<td><b>Riemann, Dr. E., J.-R.,</b> [N], Junkernstr. 1</td>\n</tr>\n<tr>\n<td>Sammel-<br",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"44 0 997 970\" data-label=\"Table\"><table><tr><td>(26826)</td><td>Roesch, Dr. O., [N], Tauentzienplatz 10b</td></tr><tr><td>31016</td><td>Rohland, Herbert, Gartenstr. 57</td></tr><tr><td>44201</td><td>Rosner, Dr. Friedrich, [N], Kaiserstr. 11</td></tr><tr><td>26871</td><td>Rossmann, Dr. Walter, Museumpi. 10</td></tr><tr><td>26860</td><td>Sahm, Dr. Johannes, Tauentzienstr. 52</td></tr><tr><td>33882</td><td>Schaffarczyk, Paul, Straße der SA 18</td></tr><tr><td>33435</td><td>Schimmelpfennig, Dr. H. W., [N], Straße der SA 21</td></tr><tr><td>51948</td><td>Schmidt, Dr. Herbert, [N], Blücherpl. 13</td></tr><tr><td>37760</td><td>Schmidt, Dr. Walter, [N], Charlottenstr. 16</td></tr><tr><td>21333</td><td>Schottky, Dr. H., [N], Junkernstr. 41/43</td></tr><tr><td>35513</td><td>Schroetter, Paul, N. Schweldn. Str. 13</td></tr><tr><td>43470</td><td>Schütz, Helmut, Schillstr. 2</td></tr><tr><td>31367</td><td>Schulz, Victor, [N], Str. d. SA 83</td></tr><tr><td>85525</td><td>Schupp, Dr. Peter, Agathstr. 9</td></tr><tr><td>39486</td><td>Schur, Dr. Karl, Str. d. SA 13</td></tr><tr><td>81128</td><td>Schwarze, Werner, Lenaustr. 2</td></tr><tr><td>32193</td><td>Schwarzer, Dr. Fritz, Sadowastr. 37</td></tr><tr><td>26868</td><td>Seegerbarth, Dr. Willi, [N], Gartenstr. 54</td></tr><tr><td>41314</td><td>Siemon, Dr. Lothar, Leerbeutelstr. 9a</td></tr></table></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 750 239 937\" data-label=\"Text\"><p><b>tsanwälte</b></p></div><div data-bbox=\"408 750 767 960\" data-label=\"Text\"><p>(Branchenteil) 575</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"27 11 768 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>20459</td>\n<td><b>Simmel, Erich, [N], N. Schweidn. Str. 4</b></td>\n</tr>\n<tr>\n<td>80491</td>\n<td><b>Simon, Karl, [N], Str. d. SA. 188</b></td>\n</tr>\n<tr>\n<td>56025</td>\n<td><b>Sindermann, Dr. Albert, Gartenstr. 85</b></td>\n</tr>\n<tr>\n<td>26597</td>\n<td><b>Strauss, Dr. Ernst, [N], Gartenstr. 34</b></td>\n</tr>\n<tr>\n<td>26090</td>\n<td><b>Streil, Hugo, Museuml. 15</b></td>\n</tr>\n<tr>\n<td>53804</td>\n<td><b>Strzybny, Dr. Joh., [N], Ohlauufer 14</b></td>\n</tr>\n<tr>\n<td>55728</td>\n<td><b>Tausche, Felicitas, Gartenstr. 62</b></td>\n</tr>\n<tr>\n<td>28393</td>\n<td><b>Tletz, Walther, [N], Tauentzienstr. 27</b></td>\n</tr>\n<tr>\n<td>31415</td>\n<td><b>Wagner, Dr. K., [N], Goethestr. 30</b></td>\n</tr>\n<tr>\n<td>39794</td>\n<td><b>Walter, Dr. Heinrich, Herdainstr. 32</b></td>\n</tr>\n<tr>\n<td>57909</td>\n<td><b>Warmbrunn, Dr. H. Ulrich, Schw.Stdtg. 16</b></td>\n</tr>\n<tr>\n<td>25191</td>\n<td><b>Watzlawik, Dr. Erich, Nik.Stadtgr. 24</b></td>\n</tr>\n<tr>\n<td>32963</td>\n<td><b>Weinert, Max, [N], Str. d. SA 5—7</b></td>\n</tr>\n<tr>\n<td>32963</td>\n<td rowspan=\"2\">\n<b>Dres. Weinert, Notar und Kuttner,</b><br/>\n<b>Rechtsanwälte, Breslau 13, Straße der SA</b>\n</td>\n</tr>\n<tr>\n<td>32572</td>\n<td><b>Nr. 5/7</b></td>\n</tr>\n<tr>\n<td>57791</td>\n<td><b>Welzel, Dr. Karl, Junkernstr. 22/24</b></td>\n</tr>\n<tr>\n<td>53773</td>\n<td><b>Wendtland, Dr. Leo, [St], Schweidn. Str. 33</b></td>\n</tr>\n<tr>\n",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Bretten (Baden).",
+        "entries": [
+          {
+            "extension": "304",
+            "text": "Böhmann, Ernst, Melanchthonstr. 13"
+          },
+          {
+            "extension": "304",
+            "text": "Schmidt, Otto H., Melanchthonstr. 13"
+          },
+          {
+            "extension": "366",
+            "text": "Stellberger, Karl, Melanchthonstr. 50"
+          }
+        ]
+      },
+      {
+        "region_name": "Brieg (Bez. Breslau).",
+        "entries": [
+          {
+            "extension": "480",
+            "text": "Anton, Dr. Hch., [N], Lindenstr. 46"
+          },
+          {
+            "extension": "274",
+            "text": "Bartsch, Dr. Georg, [N], Mollw. Str. 1"
+          },
+          {
+            "extension": "237",
+            "text": "Bochat, [N], Lange Str. 11"
+          },
+          {
+            "extension": "572",
+            "text": "Hertwig, Friedrich, Lindenstr. 54/55"
+          },
+          {
+            "extension": "1190",
+            "text": "Ruffert, Dr. O., [N], Herzog-Georg-Str. 1"
+          },
+          {
+            "extension": "432",
+            "text": "Schwintzer, Herbert, Lindenstr. 14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Brieselang (Osthavelland).",
+        "entries": []
+      },
+      {
+        "region_name": "Brilon (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bromberg (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bruchhausen-Vilsen (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bruchsal (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Bruck (Leitha) [Niederdonaau].",
+        "entries": [
+          {
+            "extension": "26",
+            "text": "Mildschuh, Dr. Leopold, Ad.-Hitler-Pl."
+          },
+          {
+            "extension": "22",
+            "text": "Schubert, Dr. Karl, Rechtsanwalt, Kanzlei: .Adolf-Hitler-Platz 15. P Wien 117621"
+          }
+        ]
+      },
+      {
+        "region_name": "Bruck (Mur) [Steiermark].",
+        "entries": [
+          {
+            "extension": "317",
+            "text": "Dedovich, Dr. Eduard, Minoritenpl. 3"
+          },
+          {
+            "extension": "436",
+            "text": "Kendzersky, Dr. Otmar, Wienertor 3"
+          },
+          {
+            "extension": "318",
+            "text": "Lenz, Dr. Hans Mart., Mitterg. 8"
+          },
+          {
+            "extension": "462",
+            "text": "Lipp-Terler, Dr. Anton, Mitterg. 28"
+          },
+          {
+            "extension": "338",
+            "text": "Rosegger, Dr. Walter, [St], Mitterg. 26"
+          }
+        ]
+      },
+      {
+        "region_name": "Brückkenau (Mainfranken).",
+        "entries": [
+          {
+            "extension": "378",
+            "text": "Halbritter, Dr. Josef"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Brühl (Bez. Köln).",
+        "entries": [
+          {
+            "extension": "(2130)",
+            "text": "Helm, Kaiserstr. 42"
+          },
+          {
+            "extension": "2316",
+            "text": "Krautwig, Anton, Steinweg 6"
+          },
+          {
+            "extension": "2026",
+            "text": "Nagel, Max, [St], Uhistr. 101"
+          },
+          {
+            "extension": "2539",
+            "text": "Schüller, Dr. Hans, Gartenstr. 24"
+          }
+        ]
+      },
+      {
+        "region_name": "Brüx (Sudetenland).",
+        "entries": [
+          {
+            "extension": "399",
+            "text": "Füssel, Dr. Adolf, Goebbelspl. 267"
+          },
+          {
+            "extension": "332",
+            "text": "Gruner, Dr. Rich., Kircheng. 2"
+          },
+          {
+            "extension": "102",
+            "text": "Herold, Dr. Wilhelm, Tuchrahme 20"
+          },
+          {
+            "extension": "531",
+            "text": "Laube, Walther, Dr., Seeg. 3"
+          },
+          {
+            "extension": "30",
+            "text": "Merhaut, Dr. Rud., Wassergasse 3"
+          },
+          {
+            "extension": "333",
+            "text": "Nickel, Dr. Karl, Fleischbankgasse 51"
+          },
+          {
+            "extension": "17",
+            "text": "Niethammer, Dr. Fritz, Weitengasse 10/11"
+          },
+          {
+            "extension": "205",
+            "text": "Porsche, Dr. Karl, Straße d. SA 9"
+          },
+          {
+            "extension": "348",
+            "text": "Rippaus, Dr. Eduard, Ad.-Hitler-Pl. 55"
+          },
+          {
+            "extension": "79",
+            "text": "Schmldinger, Dr. O., [St], Str. d. SA 20"
+          },
+          {
+            "extension": "280",
+            "text": "Tittmann, Dr. Franz, Färbergasse 1"
+          },
+          {
+            "extension": "450",
+            "text": "Vogl, Heinr., Dr., Tuchrahme 16"
+          },
+          {
+            "extension": "411",
+            "text": "Vogl sen. Dr. Heinr., Grenzstr. 17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Brunshaupten s. OstseebadKühlungsborn",
+        "entries": []
+      },
+      {
+        "region_name": "Bublitz (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Buchen (Odenwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Buchholz (Kr. Harburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Bückeburg (Schraub.-Lippe).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content in the 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or a page with no content in the 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

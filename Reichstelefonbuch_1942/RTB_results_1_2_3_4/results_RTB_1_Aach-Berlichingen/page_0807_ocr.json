@@ -1,0 +1,806 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text or other markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Dahlerbrück (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dahme (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"391 114 837 316\"}, {\"label\": \"Text\", \"bbox\": \"467 395 756 511\"}, {\"label\": \"Text\", \"bbox\": \"436 554 791 678\"}, {\"label\": \"Text\", \"bbox\": \"442 746 773 875\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 0 848 89\" data-label=\"Text\"><p><b>Deutsch-Brod (Böhmen).</b></p></div><div data-bbox=\"328 128 366 194\" data-label=\"Text\"><p>63</p></div><div data-bbox=\"475 83 897 236\" data-label=\"Text\"><p><b>Hotel „Zita“</b></p></div><div data-bbox=\"536 239 773 311\" data-label=\"Text\"><p>Fremdenzimmer</p></div><div data-bbox=\"579 315 701 393\" data-label=\"Text\"><p>Garagen</p></div><div data-bbox=\"231 412 867 520\" data-label=\"Text\"><p><b>Diedenhofen (Westmark).</b></p></div><div data-bbox=\"307 561 362 634\" data-label=\"Text\"><p>235</p></div><div data-bbox=\"435 516 944 645\" data-label=\"Text\"><p><b>Hotel Hubertus</b></p></div><div data-bbox=\"419 671 952 752\" data-label=\"Text\"><p>Haus der guten Küche und Keller</p></div><div data-bbox=\"431 752 949 897\" data-label=\"Text\"><p><b>Diedenhofen (Lothr.)</b> An der<br/>Brücke</p></div><div data-bbox=\"452 897 934 973\" data-label=\"Text\"><p>Zimmer mit fließendem Wasser</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "„Hotel Metropol“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"231 114 815 369\"}, {\"label\": \"Text\", \"bbox\": \"326 386 963 937\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"389 16 834 283\"}, {\"label\": \"Text\", \"bbox\": \"437 335 781 494\"}, {\"label\": \"Text\", \"bbox\": \"550 494 675 630\"}, {\"label\": \"Text\", \"bbox\": \"474 651 746 792\"}, {\"label\": \"Text\", \"bbox\": \"484 792 733 964\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Diepholz (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dietfurt (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Dillingen (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Hotel Stern",
+        "entries": []
+      },
+      {
+        "region_name": "Dirschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Döbeln (Sachs.)",
+        "entries": []
+      },
+      {
+        "region_name": "Dornier (Wannsee)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"530 61 680 244\" data-label=\"Text\"><p><b>Hotel</b></p></div><div data-bbox=\"395 276 816 494\" data-label=\"Text\"><p><b>„Weißes Kreuz“</b></p></div><div data-bbox=\"336 490 875 596\" data-label=\"Text\"><p><b>Zimmer mit fließ. Wasser und Bad.</b></p></div><div data-bbox=\"468 596 743 708\" data-label=\"Text\"><p><b>Bes. Wwe. Spiegel</b></p></div><div data-bbox=\"283 704 926 817\" data-label=\"Text\"><p><b>Dornbirn, Vorarlberg, Adolf-Hitler-Platz 10.</b></p></div><div data-bbox=\"487 809 725 925\" data-label=\"Text\"><p><b>Fernsprecher 16</b></p></div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Dorsten (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/>This image is a completely blank white page. It contains no text, markings, or illustrations. It appears to be a separator page or a page with no content from a document.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "HOTEL EDEN KAFFEE",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Hotel Europahof A 1, Prager- undSidonienstr.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"66 10 998 985\" data-label=\"List-Group\"><p>68141 <b>Hotel Flughafen, Gaststätte, M. Thomas,</b><br/>Dresden-Flughafen</p><p>43801 <b>Hotel Hoeritzsch</b> Am Haupt-<br/>bahnhof<br/>Dresden A 24, Bismarckstr. 14</p><p>13201 <b>Hotel Monopol-Metropol, Adolf K. Strähle,</b><br/>Haus ersten Ranges, Dresden A 1, Am<br/>Hauptbahnhof. Wiener Platz 9</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 33 955 950\" data-label=\"Text\"><p><b>Hotel Palast-Hotel Weber</b> (am Zwinger)<br/>Bes. Ernst Binder<br/>Dresden A 1, Ostra-Allee 1.<br/><b>T Palasthotel Fernsprecher Sammel-Nr. 25346</b></p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 10 992 940\" data-label=\"Text\"><p><b>22253 Motel „Ritterhof“ Bes. Ida Pfeil, Dresden</b><br/>A 1, Breite Straße 22<br/><b>24976 Hotel Schiller. A 1. Sidonienstr. 8</b></p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Hotel „Stadt Gotha“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"205 10 788 204\"}, {\"label\": \"Text\", \"bbox\": \"44 236 952 804\"}, {\"label\": \"Text\", \"bbox\": \"224 799 768 964\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Duderstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Düben (Mulde).",
+        "entries": []
+      },
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Breidenbacher Hof",
+        "entries": []
+      },
+      {
+        "region_name": "Das Haus von Weltruf",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Hotel Bahnhof-Hotel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"922 816 993 941\" data-label=\"Page-Footer\"><p>26</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Dux (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Ebene Reichenau (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Ebenrode (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eberswalde (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Echternach (Luxemburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Ediger (Mosel).",
+        "entries": []
+      },
+      {
+        "region_name": "Geer (Sundetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"40 54 954 942\" data-label=\"Text\"><p><b>Hotel Thüringer Hof</b> Letzter Hotelneubau<br/>m. weltstädt. Restaurant<br/>zeitgem. Preise, Karlsplatz. Fernspr.: <b>2132</b> u. <b>2133</b></p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"249 0 938 312\" data-label=\"Text\"><p><b>u. neuer Erfurter Hof</b><br/>(Alb. Schäfermeier-Kossenhaschen),<br/>Erfurt, Am Bahnhofsplatz 1/2</p></div><div data-bbox=\"58 358 174 451\" data-label=\"Text\"><p>22491</p></div><div data-bbox=\"239 312 944 617\" data-label=\"Text\"><p><b>Hotel Metropol</b>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Hotel National",
+        "entries": []
+      },
+      {
+        "region_name": "Erkelenz (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Erlangen.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Hotel Kaiserhof",
+        "entries": []
+      },
+      {
+        "region_name": "Hotel Reichshof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Hotel van Look",
+        "entries": []
+      },
+      {
+        "region_name": "Eßlingen (Neckar) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Ettal (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eupen (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"74 89 218 305\"}, {\"label\": \"Text\", \"bbox\": \"74 463 218 675\"}, {\"label\": \"Text\", \"bbox\": \"250 90 555 610\"}, {\"label\": \"Text\", \"bbox\": \"34 766 714 927\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Finsterwalde (N/L.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fischhausen b. Schliersee.",
+        "entries": []
+      },
+      {
+        "region_name": "Flensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Forst (Lausitz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "32060 Hotel und Gaststätte Deutscher Hof",
+        "entries": []
+      },
+      {
+        "region_name": "Hotel Excelsior",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 745 670\" data-label=\"Text\"><p><b>Simi.-Nr. | Hotel Kyrrnauter, Kaiserstr. 62, I Minute</b><br/>33241 | vom Hauptbahnhof<br/>32725 | <b>Hotel Monopol-Metropole</b>, Inh.: F. Herr-<br/>30191 | lein, Gneisenaustr. 11/13<br/>31839 <b>Hotel „Nassauer Hof“</b>, Inh. E. Huber,<br/>Gneisenaustr. 9<br/>33883 <b>Hotel Nürnberg</b>, Besitzer E. Osthoff &amp; K.<br/>Reinhard, Moselstr. 20</p></div><div data-bbox=\"486 666 507 725\" data-label=\"Text\"><p>*</p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

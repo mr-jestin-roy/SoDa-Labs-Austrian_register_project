@@ -1,0 +1,758 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "siehe am Kopf von Köln (S. 132).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 10 998 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>1 47 37</td>\n<td>Schenk, Jos., Kalk, Buchforststr. 18</td>\n</tr>\n<tr>\n<td>7 95 05</td>\n<td>Schenk, Karl, Wickratherstr. 10</td>\n</tr>\n<tr>\n<td>4 56 12</td>\n<td>Schenk, P., Werkzeuge, <i>Lth</i> Zülp.Str. 377</td>\n</tr>\n<tr>\n<td>1 10 96</td>\n<td>Schenk, Pet., Gefl.-Zucht, <i>Mrh/r</i> Olp<br/>Straße 395</td>\n</tr>\n<tr>\n<td>5 38 82</td>\n<td>Schenk, Rich., Dent., Brüss.Str. 90</td>\n</tr>\n<tr>\n<td>21 98 01</td>\n<td>Schenk, Wilh., Schuhm., Engelb.Str. 90</td>\n</tr>\n<tr>\n<td>5 44 91</td>\n<td>Schenk, Willi, Suppenwürzefabr., <i>Ehf</i> Ter-<br/>rassenweg 60</td>\n</tr>\n<tr>\n<td>7 99 96</td>\n<td>Schenkel, Anton, Vertr., RiehlerStr. 16</td>\n</tr>\n<tr>\n<td>7 95 91</td>\n<td>Schenkel, Ant., <i>Mrh/l</i> Neuß.Str. 626</td>\n</tr>\n<tr>\n<td>7 29 32</td>\n<td>Schenkel, J., Garage, <i>Mrh/l</i> Niehl.Str. 348</td>\n</tr>\n<tr>\n<td>5 61 31</td>\n<td>Schenkel, L., Zuschneider, Brab.Str. 29</td>\n</tr>\n<tr>\n<td>7 88 05</td>\n<td>Schenkel, P., <i>Mrh/l</i> Scheibenstr. 8</td>\n</tr>\n<tr>\n<td>7 30 75</td>\n<td>Schenkel, Theo, Wäscherei, <i>Mrh/l</i> Neußer<br/>Straße 612</td>\n</tr>\n<tr>\n<td>7 87 48</td>\n<td>Schenkel, Ww. Wilh., Futtermittel, <i>Mrh/l</i><br/>NeußerStr. 569</td>\n</tr>\n<tr>\n<td>7 27 27</td>\n<td>Schenkel u. Kluth, Transp., Riehl, Stamm-<br/>heimerStr. 125</td>\n</tr>\n<tr>\n<td>21 74 41</td>\n<td>Schenkenbach, Leo, Pelzwr., Pfeilstr. 30</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 997 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4 75 92</td>\n<td>Schepers, Joh., Ww.,</td>\n<td><i>Lth</i> L.Gürtel 81</td>\n</tr>\n<tr>\n<td>4 14 05</td>\n<td>Schepp, F., Masch.,</td>\n<td>Sülz, Berrenr.Str. 420</td>\n</tr>\n<tr>\n<td>21 27 74</td>\n<td>Scher, Joh., Tabakwr.,</td>\n<td>Alte Wallg. 11</td>\n</tr>\n<tr>\n<td>9 77 88</td>\n<td>Scherb, Heinr., Obst,</td>\n<td><i>Zst</i> Brunnenstr. 5</td>\n</tr>\n<tr>\n<td>21 11 03</td>\n<td>Scherb, Sophie, Schneid.,</td>\n<td>Klapperhof 21</td>\n</tr>\n<tr>\n<td>5 64 55</td>\n<td>Scherbaum, Artur, Transp.,</td>\n<td><i>Brf</i> Junkersdorf, Maarstr. 27</td>\n</tr>\n<tr>\n<td>7 69 40</td>\n<td>Scherber, K., Gartenbau,</td>\n<td>Kahlenhaus. 33</td>\n</tr>\n<tr>\n<td>9 44 04</td>\n<td>Scherer, A., Vertr.,</td>\n<td><i>Bay</i> Andern.Str. 3</td>\n</tr>\n<tr>\n<td>5 79 33</td>\n<td>Scherer, B., Ww.,</td>\n<td><i>Ehf</i> Everhardstr. 54</td>\n</tr>\n<tr>\n<td>7 49 86</td>\n<td>Scherer, Elisabeth,</td>\n<td><i>Np</i> Gellertstr. 25</td>\n</tr>\n<tr>\n<td>7 97 39</td>\n<td>Scherer, Hans, Autovermiet.,</td>\n<td>Riehlerg.</td>\n</tr>\n<tr>\n<td>21 16 54</td>\n<td>Scherer, Hans, Radio,</td>\n<td>Wolfsstr. 10</td>\n</tr>\n<tr>\n<td>4 95 89</td>\n<td>J. A. Scherer &amp; Sohn,</td>\n<td>Masch.Fbr., <i>Lth</i> V.Schnitzler-Str. 58</td>\n</tr>\n<tr>\n<td>7 40 98</td>\n<td>Scherer, Otto, Konrektor,</td>\n<td><i>Mrh/l</i> Ortweinstraße 7</td>\n</tr>\n<tr>\n<td>9 40 86</td>\n<td>Scherf, Gertrud,</td>\n<td>LothringerStr. 23</td>\n</tr>\n<tr>\n<td>22 86 88</td>\n<td>Scherf, W., Kohlen,</td>\n<td>Kasinostr. 3</td>\n</tr>\n<tr>\n<td>21 32 68</td>\n<td>Scherg, Jean, D.-Schneider,</td>\n<td>Jahnstr. 38</td>\n</tr>\n<tr>\n<td>a n n n</td>\n<td>Schone M</td>\n<td>Tabakw. Wall-Mall. 41- 002</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 993 990\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>4 77 65</td>\n<td>Scherges, H.,</td>\n<td>Vertr.,</td>\n<td>Sülz, Lux.Str. 136</td>\n</tr>\n<tr>\n<td>4 79 71</td>\n<td>Scherhag, Dr. W.,</td>\n<td>Arzt,</td>\n<td>Sülz, ErpelerStr.20</td>\n</tr>\n<tr>\n<td>(22 88 87)</td>\n<td>Schering-Kahlbaum AG,</td>\n<td></td>\n<td>Kardinalstr. 5</td>\n</tr>\n<tr>\n<td>5 51 54</td>\n<td>Scherm &amp; Co.,</td>\n<td>chem. Prod.,</td>\n<td><i>Brf</i> Junkersdorf, Frankenstr. 30</td>\n</tr>\n<tr>\n<td>22 95 37</td>\n<td>Schermmer, Dr. H.,</td>\n<td>Chiroprakt.,</td>\n<td>HoheStr.40</td>\n</tr>\n<tr>\n<td>5 04 85</td>\n<td>Schertgens, Hans,</td>\n<td>Buchdr.,</td>\n<td>Venl.Str. 49</td>\n</tr>\n<tr>\n<td>1 12 71</td>\n<td>Schesterfell, W.,</td>\n<td>Vertr.,</td>\n<td>Deutz, Eckartpl. 8</td>\n</tr>\n<tr>\n<td>7 56 23</td>\n<td>Scheu, Ernst,</td>\n<td>Ing.,</td>\n<td>Riehl, Stammh.Str. 88</td>\n</tr>\n<tr>\n<td>22 51 16</td>\n<td>Scheu-Passmann,</td>\n<td>Friseur,</td>\n<td>Wallrafpl. 7</td>\n</tr>\n<tr>\n<td>5 09 74</td>\n<td>Scheube, W.,</td>\n<td>Sachverst.,</td>\n<td><i>Lth</i> Hollarstr. 3</td>\n</tr>\n<tr>\n<td>4 18 18</td>\n<td>Scheuch, K.,</td>\n<td>Schrein.,</td>\n<td>Sülz, Gustavstr. 37</td>\n</tr>\n<tr>\n<td>5 48 65</td>\n<td>Scheuer, Alb.,</td>\n<td>Frau,</td>\n<td><i>Brf</i> Paulistr. 33</td>\n</tr>\n<tr>\n<td>1 12 10</td>\n<td>Scheuer, Jos.,</td>\n<td>Kol.-W.,</td>\n<td>Deutz, Alsenstr. 20</td>\n</tr>\n<tr>\n<td>1 19 78</td>\n<td>Scheuer, K.,</td>\n<td>Kol.W.,</td>\n<td>Deutz, Tempelstr. 16</td>\n</tr>\n<tr>\n<td>4 27 50</td>\n<td>Scheuermann, F.,</td>\n<td></td>\n<td>Sülz, Heisterb.Str. 17</td>\n</tr>\n<tr>\n<td>9 86 68</td>\n<td>Scheuermann, Heinz,</td>\n<td>Ing.,</td>\n<td>MainzerStr. 61</td>\n</tr>\n<tr>\n<td>5 64 30</td>\n<td>Scheuern, Jos.,</td>\n<td><i>Ehf</i></td>\n<td>Stammstr. 11</td>\n</tr>\n<tr>\n<td>5 36 30</td>\n<td>Scheuern, Pet.,</td>\n<td>Sped.,</td>\n<td><i>Ehf</i> Fröbelstr. 54</td>\n</tr>\n<tr>\n<td>5 64 30</td>\n<td>Scheuern, Wilh.,</td>\n<td>Sped.,</td>\n<td><i>Ehf</i> Stammstr. 11</td>\n</tr>\n<tr>\n<td>4 88 65</td>\n<td>Scheufen, H.,</td>\n<td>Metzger,</td>\n<td><i>Lth</i> Bach.Str. 66</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"245 0 994 980\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>STADT</th>\n<th>POSTLEITZ</th>\n<th>ORTSBEZEICHNUNG</th>\n<th>BEZIEHUNG</th>\n<th>TELEFON-NR.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>4 85 91</td>\n<td>Ders., chem. Labor.,</td>\n<td><i>Lth</i></td>\n<td>Bach.Str. 30</td>\n</tr>\n<tr>\n<td></td>\n<td>7 82 25</td>\n<td>Scheuffele, Dr. H.,</td>\n<td>Heilprakt.,</td>\n<td>Blumenth.<br/>Straße 18</td>\n</tr>\n<tr>\n<td></td>\n<td>5 10 80</td>\n<td>Scheuffgen, A. R.,</td>\n<td>Dr. jur.,</td>\n<td>Spich.Str. 55</td>\n</tr>\n<tr>\n<td></td>\n<td>4 86 97</td>\n<td>Scheuren, Jean, Ww.,</td>\n<td><i>Lth</i></td>\n<td>Klosterstr. 86</td>\n</tr>\n<tr>\n<td></td>\n<td>22 20 67</td>\n<td>Scheuren, Jos.,</td>\n<td>Möbelfbr.,</td>\n<td>Kupferg. 6</td>\n</tr>\n<tr>\n<td></td>\n<td>22 69 12</td>\n<td>Scheuren, Mich.,</td>\n<td>Vertr.,</td>\n<td>Röhreng. 38</td>\n</tr>\n<tr>\n<td></td>\n<td>7 36 73</td>\n<td>Scheurer, Hans,</td>\n<td>Zuckerw.,</td>\n<td><i>Np</i> Neußer<br/>Straße 271</td>\n</tr>\n<tr>\n<td></td>\n<td>6 07 01</td>\n<td>Scheurer, Jul.,</td>\n<td>Fuhrw.,</td>\n<td><i>Hhs</i> Berl.Str. 259</td>\n</tr>\n<tr>\n<td></td>\n<td>7 89 09</td>\n<td>Scheurer, P.,</td>\n<td>Farben,</td>\n<td><i>Np</i> NeußerStr. 256</td>\n</tr>\n<tr>\n<td></td>\n<td>5 04 31</td>\n<td>Scheurle, J.,</td>\n<td>Lebensm.,</td>\n<td><i>Bick</i> Servazistr. 14</td>\n</tr>\n<tr>\n<td></td>\n<td>21 28 00</td>\n<td>Scheurmann, H.,</td>\n<td>Bürobed.,</td>\n<td>Apostelnstr. 9</td>\n</tr>\n<tr>\n<td></td>\n<td>9 75 34</td>\n<td>Scheuß, Hans,</td>\n<td>Techn.,</td>\n<td><i>Zst</i> HöningerW. 183</td>\n</tr>\n<tr>\n<td></td>\n<td>5 42 80</td>\n<td>Scheuß, H.,</td>\n<td>Kol.-W.,</td>\n<td><i>Bick</i> Feltenstr. 54</td>\n</tr>\n<tr>\n<td></td>\n<td>21 93 55</td>\n<td>Scheuß, Jos.,</td>\n<td>Maler,</td>\n<td>Benesisstr. 9</td>\n</tr>\n<tr>\n<td></td>\n<td>4 86 49</td>\n<td>Scheussen, Aenne,</td>\n<td>Geschäftsf.,</td>\n<td><i>Lth</i> Lort-<br/>zingstr. 11</td>\n</tr>\n<tr>\n<td></td>\n<td>5 41 23</td>\n<td>Scheuten, Josta,</td>\n<td>Abt.-Leit.,</td>\n<td>Brüss.Pl. 14</td>\n</tr>\n<tr>\n<td></td>\n<td>22 97 17</td>\n<td>Scheuvens, H.,</td>\n<td>Zuckerwr.,</td>\n<td>Gr.Witschg. 4</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"242 0 993 962\" data-label=\"Table\">\n<table>\n<tr>\n<td>4 53 67</td>\n<td>Schiebel, O., Vertr., Sülz, Remig.Str. 38</td>\n</tr>\n<tr>\n<td>9 61 08</td>\n<td>Schiedewitz, Kurt, Kfm., 1st Vorgebirgs-<br/>straße 360</td>\n</tr>\n<tr>\n<td>4 65 22</td>\n<td>Schiedmayer, P., Sülz, Mommsenstr. 27</td>\n</tr>\n<tr>\n<td>7 34 22</td>\n<td>Schiedrum, Dr. F. W., Syndikus, Riehl,<br/>Bodinusstr. 2</td>\n</tr>\n<tr>\n<td>22 00 01</td>\n<td>Schiedsgericht d. Produkt. &amp; Warenbörse,<br/>Unt. Sachsenhausen 4</td>\n</tr>\n<tr>\n<td>6 00 87</td>\n<td>Schiefen, Frau, Putz, <i>Mh</i> Dünnw.Str. 36</td>\n</tr>\n<tr>\n<td>5 00 14</td>\n<td>Schiefenbusch, Blumen, BrüsselerStr. 67</td>\n</tr>\n<tr>\n<td>21 60 07</td>\n<td>Schiefenbusch, Äune, Garderobenank.,<br/>Thieb.G. 150</td>\n</tr>\n<tr>\n<td>21 25 97</td>\n<td>Schiefenbusch, Dr. Erna, Bühnenleiterin,<br/>Hohenst.R. 61</td>\n</tr>\n<tr>\n<td>21 35 33</td>\n<td>Schiefenbusch, Fritz, Bekleid., Thiebolds-<br/>gasse 112</td>\n</tr>\n<tr>\n<td>Worr 505</td>\n<td>Schiefenbusch, P., Metzger, Tönnisstr. 18</td>\n</tr>\n<tr>\n<td>4 23 97</td>\n<td>Schiefenbusch, T., <i>Lh</i> Pücklerstr. 16</td>\n</tr>\n<tr>\n<td>6 34 25</td>\n<td>Schiefer, Kohlen, <i>Dbr</i> Ernastr. 46</td>\n</tr>\n<tr>\n<td>5 69 17</td>\n<td>Schiefer, Franz, Install., <i>Eh</i> Glasstr. 77</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"58 928 88 952\" data-label=\"Page-Footer\"><p>- - - -</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Doppelherz — Energien für Blut und",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "57"
+          },
+          {
+            "extension": "4",
+            "text": "45"
+          },
+          {
+            "extension": "21",
+            "text": "34"
+          },
+          {
+            "extension": "6",
+            "text": "06"
+          },
+          {
+            "extension": "6",
+            "text": "29"
+          },
+          {
+            "extension": "22",
+            "text": "60"
+          },
+          {
+            "extension": "1",
+            "text": "31"
+          },
+          {
+            "extension": "4",
+            "text": "20"
+          },
+          {
+            "extension": "1",
+            "text": "39"
+          },
+          {
+            "extension": "5",
+            "text": "01"
+          },
+          {
+            "extension": "21",
+            "text": "47"
+          },
+          {
+            "extension": "1",
+            "text": "36"
+          },
+          {
+            "extension": "1",
+            "text": "22"
+          },
+          {
+            "extension": "9",
+            "text": "74"
+          },
+          {
+            "extension": "4",
+            "text": "28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "20"
+          },
+          {
+            "extension": "21",
+            "text": "54"
+          },
+          {
+            "extension": "4",
+            "text": "28"
+          },
+          {
+            "extension": "9",
+            "text": "17"
+          },
+          {
+            "extension": "5",
+            "text": "01"
+          },
+          {
+            "extension": "21",
+            "text": "40"
+          },
+          {
+            "extension": "5",
+            "text": "74"
+          },
+          {
+            "extension": "7",
+            "text": "11"
+          },
+          {
+            "extension": "9",
+            "text": "85"
+          },
+          {
+            "extension": "1",
+            "text": "35"
+          },
+          {
+            "extension": "9",
+            "text": "36"
+          },
+          {
+            "extension": "9",
+            "text": "46"
+          },
+          {
+            "extension": "21",
+            "text": "72"
+          },
+          {
+            "extension": "1",
+            "text": "15"
+          },
+          {
+            "extension": "6",
+            "text": "06"
+          },
+          {
+            "extension": "22",
+            "text": "95"
+          },
+          {
+            "extension": "6",
+            "text": "08"
+          },
+          {
+            "extension": "7",
+            "text": "26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\"><table><tr><td>21 68 86</td><td>Schierenberg, Dr. F., Arzt, Gereonsmühleng. 26</td></tr><tr><td>4 42 90</td><td>Schiestel, Chr., Sülz, Petersbergstr. 78</td></tr><tr><td>5 71 93</td><td>Schiestel, Pet., Maler, <i>Bick</i> Takustr. 72</td></tr><tr><td>22 33 24</td><td>Schietesch, Ferd., Möbel, Kämmerg. 32</td></tr><tr><td>1 27 62</td><td>Schievenbusch, Willy, Deutz, Totilastr. 1</td></tr><tr><td>4 76 50</td><td><b>Schiffbauer, Ernst, Finanzierungsbüro, -Lindenthal, Klarenbachstr. 237</b></td></tr><tr><td>1 29 00</td><td>Schiffbauer, J., Sped., Kalk, Lüttr.Str. 64</td></tr><tr><td>4 99 10</td><td>Schiffbauer, Otto, Stolzestr. 8</td></tr><tr><td>9 67 68</td><td>Schiffbauer, P. J., Spirituos., Paul tr. 4</td></tr><tr><td>4 21 61</td><td>Schiffbauer, Robert, Lebensm., Sülz, ZülpicherStr. 327</td></tr><tr><td>4 93 35</td><td>Schiffbauer &amp; Co., Kohlen, Stolzestr. 8</td></tr><tr><td>5 58 85</td><td>Schiffelers, Ad., Bäck., <i>Ehf</i> Roßstr. 3</td></tr><tr><td>21 17 84</td><td>Schiffelers, C., Masseur, TriererStr. 36</td></tr><tr><td>7 95 18</td><td>Schiffelmann, Wilh., Baugesch., <i>Np</i> Auguststraße 19</td></tr><tr><td>21 57 31</td><td>Schiffelmann, Frau Wilh., Blumen, Lindenstr. 38</td></tr><tr><td>5 98 34</td><td>Schiffer. Ant., Install., <i>Lo</i> Hauptstr. 81</td></tr></table></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 0 991 975\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 00 00</td>\n<td>Schiffer, Aug., Bauuntern., Dailichg v</td>\n</tr>\n<tr>\n<td>5 97 38</td>\n<td>Schiffer, B., Kohlen, <i>Bm</i> Mengen.Str. 53</td>\n</tr>\n<tr>\n<td>4 40 70</td>\n<td>Schiffer, C., Geschäftsf., <i>Lth</i> Kerp.Str. 7</td>\n</tr>\n<tr>\n<td>7 45 34</td>\n<td>Schiffer, Christel, <i>Np</i> UerdingerStr. 3</td>\n</tr>\n<tr>\n<td>7 98 31</td>\n<td>Schiffer, Chr., Prok., <i>Np</i> Niehl.Str. 84</td>\n</tr>\n<tr>\n<td>5 48 28</td>\n<td>Schiffer, Dr. Emil, Kfm., <i>Brf</i> Maarweg 17</td>\n</tr>\n<tr>\n<td>4 55 37</td>\n<td>Schiffer, Ernst, Assess., Sülz, Lux.Str. 261</td>\n</tr>\n<tr>\n<td>21 58 08</td>\n<td>Schiffer, Franz, Maler, M. Gerhard-Str. 18</td>\n</tr>\n<tr>\n<td>1 29 50</td>\n<td>Schiffer, F., FaBhdlg., Poll, Salmstr. 29</td>\n</tr>\n<tr>\n<td>5 53 45</td>\n<td>Schiffer, Hans, Automob., Maastrichter<br/>Straße 27</td>\n</tr>\n<tr>\n<td>21 75 09</td>\n<td>Schiffer, Hans, Zahnt., Christophstr. 31</td>\n</tr>\n<tr>\n<td>5 19 80</td>\n<td>Schiffer, H., Rohtabak, Hohenz.R. 97</td>\n</tr>\n<tr>\n<td>7 64 74</td>\n<td>Schiffer, H., Versich., <i>Np</i> Christinastr. 2</td>\n</tr>\n<tr>\n<td>4 41 84</td>\n<td>Schiffer, H., Vertr., Sülz, Zülp.Str. 193</td>\n</tr>\n<tr>\n<td>5 54 27</td>\n<td>Schiffer, Herm., Sped., <i>Ehf</i> Vogels.Str. 256</td>\n</tr>\n<tr>\n<td>21 88 88</td>\n<td>Schiffer, H., Autoschule, Schaafenstr. 61</td>\n</tr>\n<tr>\n<td>1 49 64</td>\n<td>Schiffer, Herta, Dr.med., Deutz, Cher.Str. 1</td>\n</tr>\n<tr>\n<td>6 35 02</td>\n<td>Schiffer, H., Landw., <i>Hw</i> Wichh.Str. 276</td>\n</tr>\n<tr>\n<td>4 36 64</td>\n<td>J. R. Schiffer &amp; Cie., Landmasch., Luxemb-<br/>burgerStr. 48</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 997 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>1 24 92</td>\n<td>Schiffer, J., Schrein., Kalk, Weim.Str. 34</td>\n</tr>\n<tr>\n<td>21 87 50</td>\n<td>Schiffer, Joh. Rein., Schaafenstr. 71</td>\n</tr>\n<tr>\n<td>5 19 88</td>\n<td>Schiffer, Joh., Waschanst., Moltkestr. 89</td>\n</tr>\n<tr>\n<td>5 48 60</td>\n<td>Schiffer, Jos., Kondit.-Bed., Hansaring 89</td>\n</tr>\n<tr>\n<td>7 87 03</td>\n<td>Ders., Wohn., <i>Mrh/l</i> GraditzerStr. 1</td>\n</tr>\n<tr>\n<td>5 04 19</td>\n<td>Schiffer, Frau M., Lebensm., <i>Ehf</i> Nußh.Str. 80</td>\n</tr>\n<tr>\n<td>1 39 65</td>\n<td>Schiffer, P., Straßemb., Deutz, Cimb.Str. 5</td>\n</tr>\n<tr>\n<td>4 91 22</td>\n<td>Schiffer, Frau Phil., Molkereierzeugn.,<br/>Sülz, Siebengeb.Allee 40</td>\n</tr>\n<tr>\n<td>22 47 77</td>\n<td>Schiffer, Reiner, R.-A., HohePf. 20</td>\n</tr>\n<tr>\n<td>1 49 13</td>\n<td>Schiffer, W., Vertr., Deutz, Custodisstr. 1</td>\n</tr>\n<tr>\n<td>5 37 44</td>\n<td>Schiffer, Wilh., Schreibm.-Rep., <i>Ehf</i><br/>Ehrenfeldg. 143</td>\n</tr>\n<tr>\n<td>22 53 20</td>\n<td>Schiffer &amp; Co., zool. Hdlg., Langg. 12</td>\n</tr>\n<tr>\n<td>22 25 62</td>\n<td>Schiffers, Gertrud, Gastw., Bolzeng. 8</td>\n</tr>\n<tr>\n<td>5 60 90</td>\n<td>Schiffers-Davringhausen, <i>Brf</i> Maarweg 37</td>\n</tr>\n<tr>\n<td>22 43 67</td>\n<td>Schiffgen, Martin, Beleucht., Höhle 8</td>\n</tr>\n<tr>\n<td>1 30 49</td>\n<td>Schiffgen, Peter, Kartoffeln, Kalk, Vorster-<br/>straße 76</td>\n</tr>\n<tr>\n<td>5 31 51</td>\n<td>Schiffgens, J., Papierwrfbr., <i>Ehf</i> Simr.<br/>Straße 69</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 992 981\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>7 35 29</td>\n<td>Ders., Wonn., Neuberstr. 50</td>\n</tr>\n<tr>\n<td>21 25 72</td>\n<td>Schiffler, Maria, Frau, Limb.Str. 19</td>\n</tr>\n<tr>\n<td>6 00 81</td>\n<td>Schiffmann, F., Kfm., <i>Mh</i> Frankf.Str. 85</td>\n</tr>\n<tr>\n<td>1 24 48</td>\n<td>Schiffmann, Fritz, Werbegeschenke, Deutz,<br/>Konstantinstr. 86</td>\n</tr>\n<tr>\n<td>22 75 09</td>\n<td>Schiffmann &amp; Co., U.Sachsenhausen 37</td>\n</tr>\n<tr>\n<td>22 88 80</td>\n<td>Schiffsfrachtenkontor d. Hamb.-Amerika<br/>Linie GmbH, Neumarkt</td>\n</tr>\n<tr>\n<td>5 75 23</td>\n<td>Schikora, Elly, Pension, Spich.Str. 52</td>\n</tr>\n<tr>\n<td>6 32 07</td>\n<td>Schilbach, E., Kfm., <i>Mh</i> Fürstenb.Str. 32</td>\n</tr>\n<tr>\n<td>5 27 93</td>\n<td>Schilbach, P., Vertr., Maybachstr. 30</td>\n</tr>\n<tr>\n<td>21 30 73</td>\n<td>Schilberg, A. M., Oelwr., V.Werth-Str. 1</td>\n</tr>\n<tr>\n<td>7 85 76</td>\n<td>Schilberz, Fr., Farben, <i>Np</i> Baudripl. 2</td>\n</tr>\n<tr>\n<td>1 42 27</td>\n<td>Schild, Ad., Baugesch., Poll, Weing.G. 21</td>\n</tr>\n<tr>\n<td>4 78 45</td>\n<td>Schild, Frau J., Kol.W., <i>Lth</i> Dür.Str. 219</td>\n</tr>\n<tr>\n<td>4 69 34</td>\n<td>Schild, Otto, Metzg., <i>Lth</i> Düren.Str. 192</td>\n</tr>\n<tr>\n<td>7 74 05</td>\n<td>Schilder, Chr., Install., <i>Np</i> Uerd.Str. 1</td>\n</tr>\n<tr>\n<td>22 11 06</td>\n<td>Schilderhof Wirtschaftsbetr., Schilderg. 37</td>\n</tr>\n<tr>\n<td>9 31 23</td>\n<td>Schildgen &amp; Co., Röhren, <i>Zst</i> Gottesweg 83</td>\n</tr>\n<tr>\n<td>22 19 68</td>\n<td>Schildgen, Emil, Blaubach 18</td>\n</tr>\n<tr>\n<td>21 32 21</td>\n<td>Schildt, Barbara, Lungeng. 35</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "erven!",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "22",
+            "text": "56"
+          },
+          {
+            "extension": "7",
+            "text": "83"
+          },
+          {
+            "extension": "4",
+            "text": "37"
+          },
+          {
+            "extension": "4",
+            "text": "41"
+          },
+          {
+            "extension": "4",
+            "text": "96"
+          },
+          {
+            "extension": "5",
+            "text": "15"
+          },
+          {
+            "extension": "9",
+            "text": "81"
+          },
+          {
+            "extension": "22",
+            "text": "24"
+          },
+          {
+            "extension": "9",
+            "text": "89"
+          },
+          {
+            "extension": "6",
+            "text": "33"
+          },
+          {
+            "extension": "7",
+            "text": "30"
+          },
+          {
+            "extension": "9",
+            "text": "33"
+          },
+          {
+            "extension": "5",
+            "text": "71"
+          },
+          {
+            "extension": "5",
+            "text": "64"
+          },
+          {
+            "extension": "(9)",
+            "text": "11"
+          },
+          {
+            "extension": "4",
+            "text": "45"
+          },
+          {
+            "extension": "5",
+            "text": "77"
+          },
+          {
+            "extension": "5",
+            "text": "47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"9 15 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>9 64 41</td>\n<td>Schilling, Jakob, Kfm., Karolingerring 24</td>\n</tr>\n<tr>\n<td>1 19 40</td>\n<td>Schilling, Jos., Deutz, Tempelstr. 50</td>\n</tr>\n<tr>\n<td>5 06 82</td>\n<td>Schilling, Maria, Kol.W., <i>Np</i> Niev.Str. 22</td>\n</tr>\n<tr>\n<td>9 79 16</td>\n<td>Schilling, Paul, <i>Bay</i> Rond.Str. 36</td>\n</tr>\n<tr>\n<td>1 35 16</td>\n<td>Schilling, W., Altwr., Kalk, Classenstr. 36</td>\n</tr>\n<tr>\n<td>5 32 25</td>\n<td>Schilling, Wilh., Gasth., <i>Brf</i> Junkersdorf,<br/>Dorfstr. 51</td>\n</tr>\n<tr>\n<td>22 49 91</td>\n<td>Schilling-Babst, G., Kunstmaler, Komöd.<br/>Straße 97</td>\n</tr>\n<tr>\n<td>5 62 90</td>\n<td>Schillings, Jac., Garage, Mastr.Str. 38</td>\n</tr>\n<tr>\n<td>22 21 61</td>\n<td>Schillings, Math., Elektr., Matth.Str. 2</td>\n</tr>\n<tr>\n<td>6 19 76</td>\n<td>Schillings, Wilh., Gastw., <i>Mh</i> Windm.<br/>Straße 76</td>\n</tr>\n<tr>\n<td>22 71 57</td>\n<td>Schillitz, Fritz, Friseur, Krebsg. 18</td>\n</tr>\n<tr>\n<td>1 34 48</td>\n<td>Gebr. Schilson, alkoholfr. Getränke, Kalk,<br/>Taunusstr. 14</td>\n</tr>\n<tr>\n<td>21 45 18</td>\n<td>Schimkat, Karl, Kfm., Hohenst.Ring 32</td>\n</tr>\n<tr>\n<td>7 62 90</td>\n<td>Schimmel, Clara, Frau, Fontanestr. 5</td>\n</tr>\n<tr>\n<td>7 49 36</td>\n<td>Schimmel, Ew., Vertr., Thürmchenwall 72</td>\n</tr>\n<tr>\n<td>9 24 14</td>\n<td>Schimmel, Gerh., Vertr., Paulstr. 17</td>\n</tr>\n<tr>\n<td>99 99 97</td>\n<td>Schimmelfaden W Deubur Garmenl 99</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 992 989\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4 68 13</td>\n<td>Schimmelpfeng, F. W., Dr.,</td>\n<td>Lth Weyert. 51</td>\n</tr>\n<tr>\n<td>4 41 74</td>\n<td>Schinck, Dr. H., Kfm.,</td>\n<td>Brf Aach.Str. 493</td>\n</tr>\n<tr>\n<td>22 13 31</td>\n<td>Schindheim, Joh.,</td>\n<td>Sped., Appellhofpl. 11</td>\n</tr>\n<tr>\n<td>6 34 75</td>\n<td>Schindler, Arno,</td>\n<td>Hw Rotkäppchenweg 19</td>\n</tr>\n<tr>\n<td>1 41 92</td>\n<td>Schindler, Fr.,</td>\n<td>Metzg., Kalk, Osth.Str. 20</td>\n</tr>\n<tr>\n<td>9 85 58</td>\n<td>Schindler, Josef,</td>\n<td>Vertr., Saliering 20</td>\n</tr>\n<tr>\n<td>7 41 02</td>\n<td>Schingen, A. J.,</td>\n<td>Farben, Alvensl.Str. 2</td>\n</tr>\n<tr>\n<td>7 29 36</td>\n<td>Schingen, Jean,</td>\n<td>Kol.-W., Eigelstein 137</td>\n</tr>\n<tr>\n<td>5 64 11</td>\n<td>Schink, Hub.,</td>\n<td>Kfm., Bick A.I.Stein 5</td>\n</tr>\n<tr>\n<td>7 88 61</td>\n<td>Schink, Wilh.,</td>\n<td>kfm. Leiter, Aduchtstr. 4</td>\n</tr>\n<tr>\n<td>22 29 16</td>\n<td>Schinzel, Carl,</td>\n<td>Friseur, Domhof 1</td>\n</tr>\n<tr>\n<td>4 35 92</td>\n<td>Schippan, A.,</td>\n<td>Dir., Lth Lindenthalg. 81</td>\n</tr>\n<tr>\n<td>4 63 92</td>\n<td>Schippan, Ed.,</td>\n<td>Kfm., Sülz, Momms.Str. 25</td>\n</tr>\n<tr>\n<td>22 74 63</td>\n<td>Schipper, Kurt,</td>\n<td>Gastw., Weichserhof 30</td>\n</tr>\n<tr>\n<td>7 89 25</td>\n<td>Schipper, W.,</td>\n<td>Zeitungsverl., Hansar. 117</td>\n</tr>\n<tr>\n<td>5 31 90</td>\n<td>Schipperges, J.,</td>\n<td>Kfm., Ehf Nußb.Str. 38</td>\n</tr>\n<tr>\n<td>(9 62 03)</td>\n<td>Schippers, Annemarie,</td>\n<td>Moden, Bay OberländerUfer 90</td>\n</tr>\n<tr>\n<td>7 39 07</td>\n<td>Schippers, F.,</td>\n<td>Kfm., Np Baudristr. 5</td>\n</tr>\n<tr>\n<td>4 95 59</td>\n<td>Schirk, H.,</td>\n<td>Versich., Lth Lortzingstr. 19</td>\n</tr>\n<tr>\n<td>4 82 54</td>\n<td>Schirk, H.,</td>\n<td>Elektr. Anl., Lth Klosterstr. 13</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "35"
+          },
+          {
+            "extension": "22",
+            "text": "73"
+          },
+          {
+            "extension": "5",
+            "text": "24"
+          },
+          {
+            "extension": "9",
+            "text": "89"
+          },
+          {
+            "extension": "21",
+            "text": "69"
+          },
+          {
+            "extension": "5",
+            "text": "79"
+          },
+          {
+            "extension": "1",
+            "text": "31"
+          },
+          {
+            "extension": "5",
+            "text": "63"
+          },
+          {
+            "extension": "4",
+            "text": "43"
+          },
+          {
+            "extension": "7",
+            "text": "68"
+          },
+          {
+            "extension": "5",
+            "text": "20"
+          },
+          {
+            "extension": "9",
+            "text": "15"
+          },
+          {
+            "extension": "9",
+            "text": "76"
+          },
+          {
+            "extension": "22",
+            "text": "99"
+          },
+          {
+            "extension": "5",
+            "text": "00"
+          },
+          {
+            "extension": "6",
+            "text": "11"
+          },
+          {
+            "extension": "4",
+            "text": "78"
+          },
+          {
+            "extension": "21",
+            "text": "75"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>5 09 87</td>\n<td>Schlafke, P., Flugkpt.,</td>\n<td>Brf Geilenk.Str. 46</td>\n</tr>\n<tr>\n<td>4 16 41</td>\n<td>Schlag, Franz, Kfm.,</td>\n<td>Sülz, Weißh.Str. 23</td>\n</tr>\n<tr>\n<td>4 92 20</td>\n<td>Schlag, Hch., Kol.-W.,</td>\n<td>Lth Gleuel.Str. 210</td>\n</tr>\n<tr>\n<td>4 32 30</td>\n<td>Schlag, Käthe, Frau,</td>\n<td>Lth Rückertstr. 6</td>\n</tr>\n<tr>\n<td>7 58 72</td>\n<td>Schlag, Paul, Fbr.-Dir.,</td>\n<td>Ad.HitlerPl. 19</td>\n</tr>\n<tr>\n<td>7 50 25</td>\n<td>Schlag, Dr. Paul, Arzt,</td>\n<td>Hansaring 98 a</td>\n</tr>\n<tr>\n<td>4 97 82</td>\n<td>Schlag, Paul, Prok.,</td>\n<td>Sülz, Neuenh.All. 19</td>\n</tr>\n<tr>\n<td>7 40 27</td>\n<td>Schlagehan, Kurt,</td>\n<td>Mrh/l Leuthenstr. 4</td>\n</tr>\n<tr>\n<td>5 67 02</td>\n<td>Schlags, Alfr., R.-A.,</td>\n<td>Hansaring 43</td>\n</tr>\n<tr>\n<td>1 31 05</td>\n<td>Schlags, Carl, Dr.,</td>\n<td>Doutz, Suevenstr. 5</td>\n</tr>\n<tr>\n<td>5 49 40</td>\n<td>Schlags, Wilh.,</td>\n<td>Bismarckstr. 2</td>\n</tr>\n<tr>\n<td>7 41 73</td>\n<td>Schlagwein, Ferd.,</td>\n<td>Weißenburgstr. 51</td>\n</tr>\n<tr>\n<td>6 22 13</td>\n<td>Schlagwein jr., H.,</td>\n<td>Kfm., Mrh Clev.R. 4</td>\n</tr>\n<tr>\n<td>5 78 87</td>\n<td>Schlaich, Osw.,</td>\n<td>Metzgerei, AachenerStr. 30</td>\n</tr>\n<tr>\n<td>7 36 31</td>\n<td>Schlang, Jean, Obst,</td>\n<td>NeußerStr. 8</td>\n</tr>\n<tr>\n<td>7 83 58</td>\n<td>Schlarp, W., Dir.,</td>\n<td>Mrh/l N.Kirchw. 141</td>\n</tr>\n<tr>\n<td>7 39 14</td>\n<td>Schlauch, Chr.,</td>\n<td>Schreiner, Kunibertskl. 17</td>\n</tr>\n<tr>\n<td>22 18 76</td>\n<td>Schlax, W., Tabakwr.,</td>\n<td>Severinstr. 232</td>\n</tr>\n<tr>\n<td>7 42 20</td>\n<td>Schlebusch, Johannes,</td>\n<td>Autorepar., Np<br/>Sechzigstr. 127 a</td>\n</tr>\n<tr>\n<td>7 76 44</td>\n<td>Schlecht. A., Spedit.,</td>\n<td>Winterb.Str. 14</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 990 975\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>1 37 10</td>\n<td>Schleicher, H., Dr.-Ing., Duis, Marienbui. 10</td>\n</tr>\n<tr>\n<td>4 37 32</td>\n<td>Schlechter, Dr. H., Kfm., Sülz, Sülzg. 57</td>\n</tr>\n<tr>\n<td>5 16 20</td>\n<td>Schlechter, Heinr., Kfm., Kamekestr. 37</td>\n</tr>\n<tr>\n<td>7 92 80</td>\n<td>Schlechtriem, H., Dir., <i>Mrh/l</i> Ziethestr. 9</td>\n</tr>\n<tr>\n<td>1 38 97</td>\n<td>Schlechtriem, W., Ing., Deutz, Bastion 3</td>\n</tr>\n<tr>\n<td>1 26 29</td>\n<td>Schlechtriem, Engelb., Bäckerei, Kalk,<br/>OlpenerStr. 179</td>\n</tr>\n<tr>\n<td>7 17 31</td>\n<td>Gebr. Schlechtweg, Zentralheizungen, <i>Np</i><br/>Schwerinstr. 5</td>\n</tr>\n<tr>\n<td>7 92 10</td>\n<td>Schlederer, Ing., Riehl, Schleidenstr. 3</td>\n</tr>\n<tr>\n<td>7 79 03</td>\n<td>Schlederer, Kath., Ww., Weideng. 81</td>\n</tr>\n<tr>\n<td>9 60 84</td>\n<td>Schlederer, M., Kfm., <i>Bay</i> Goldst.Str. 211</td>\n</tr>\n<tr>\n<td>5 48 89</td>\n<td>Schlee, Ant., Maler, <i>Ehf</i> Grimmstr. 17</td>\n</tr>\n<tr>\n<td>4 69 78</td>\n<td>Schlee, Fr., Gesch.-F., <i>Lth</i> Klarenb.Str. 190</td>\n</tr>\n<tr>\n<td>9 35 37</td>\n<td>Schleef, Wilh., Dr., <i>Bay</i> Kreuzn.Str. 3</td>\n</tr>\n<tr>\n<td>5 47 36</td>\n<td>Schlegel, Alfr., Ing., <i>Ehf</i> Tieckstr. 94</td>\n</tr>\n<tr>\n<td>9 29 37</td>\n<td>Schlegel, Erna, <i>Bay</i> NeuenahrerStr. 1</td>\n</tr>\n<tr>\n<td>7 62 83</td>\n<td>Schlegel, G., Metallw., <i>Np</i> Sechz.Str. 109</td>\n</tr>\n<tr>\n<td>9 49 31</td>\n<td>Schlegel, Georg, Ing., <i>Bay</i> Schönh.Str. 56</td>\n</tr>\n<tr>\n<td>4 71 24</td>\n<td>Schlegel, Hans, <i>Lth</i> Lortzingstr. 48</td>\n</tr>\n<tr>\n<td>(9 80 91)</td>\n<td>Schlegelmilch, Toni, Volksg.Str. 58</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "k — Schlifus (Band IV) 205",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 795 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>4 71 01</td>\n<td>Schleh, Hanne, <i>Lth</i> Immerm.Str. 46</td>\n</tr>\n<tr>\n<td>5 32 30</td>\n<td>Schleh, Kurt, Ind.-Bed., <i>Lth</i> Haselb.Str.17</td>\n</tr>\n<tr>\n<td>21 99 80</td>\n<td>Schlehecker, Ww. W., Kol.-W., Schaafen-<br/>straße 48</td>\n</tr>\n<tr>\n<td>21 46 05</td>\n<td>Schlehein &amp; Co, Sitzmöbel, Maur.Weg 68</td>\n</tr>\n<tr>\n<td>1 30 28</td>\n<td>Schleicher, Luise, Lehr., Deutz, Gotenr. 6</td>\n</tr>\n<tr>\n<td>9 47 95</td>\n<td>Schleicher, Max, Major a. D., Trajanstr. 9</td>\n</tr>\n<tr>\n<td>22 10 26</td>\n<td>Schleicher, Mini, Hunnenrücken 18</td>\n</tr>\n<tr>\n<td>(21 24 15)</td>\n<td>Schleicher, Rob., Frau, <i>Brf</i> Junkersdorf,<br/>Frankenstr. 10</td>\n</tr>\n<tr>\n<td>5 19 72</td>\n<td>Schleicher, Rudolf, Hansaring 79</td>\n</tr>\n<tr>\n<td>5 06 68</td>\n<td>Schleider, M., Transp., <i>Ehf</i> Hosterstr. 14</td>\n</tr>\n<tr>\n<td>1 19 75</td>\n<td>Schleif, Wilh., Kfm., Deutz, Alarichstr. 20</td>\n</tr>\n<tr>\n<td>7 61 62</td>\n<td>Schleifenbaum, C., Install., Hansaring 102</td>\n</tr>\n<tr>\n<td>4 66 30</td>\n<td>Schleifenbaum, Fritz, Vertr., Sülz, Mar-<br/>siliusstr. 68</td>\n</tr>\n<tr>\n<td>6 11 03</td>\n<td>Schleifenbaum, Hanna, Sülz, Sonderb.<br/>Straße 1</td>\n</tr>\n<tr>\n<td>4 80 70</td>\n<td>Schleifer, Franziska, <i>Lth</i> AachenerStr. 313</td>\n</tr>\n<tr>\n<td>21 31 63</td>\n<td>Schleifer, H., Rahmentischn., Beeth.Str.17</td>\n</tr>\n<tr>\n<td>21 71 13</td>\n<td>Schleifer, Paul, Maler, Beeth.Str. 25</td>\n</tr>\n<tr>\n<td>8 95 27</td>\n<td>Schleimer                      <i>Ins</i>                      <i>Wohnenranger</i>                      <i>Kollr</i></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Heidelbergstr. 37",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Wien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Hauptstr. 135",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"19 17 787 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4 69 26</td>\n<td>Schlieben, Thea, Putz, <i>Brf</i> Aach.Str. 507</td>\n</tr>\n<tr>\n<td>7 25 21</td>\n<td>Schlieder, Felix, Rekl.-Mal., Dtsch.R. 58</td>\n</tr>\n<tr>\n<td>5 09 50</td>\n<td>Schlief, Wilh., Ing., <i>Brf</i> Melateng. 6</td>\n</tr>\n<tr>\n<td>5 59 74</td>\n<td>Schlienkamp, Artur, Major, <i>Brf</i> Aachener<br/>Straße 456</td>\n</tr>\n<tr>\n<td>4 36 22</td>\n<td>Schlienzz, Georg, Dr. med., Sülz, Hardtstr. 2</td>\n</tr>\n<tr>\n<td>7 55 31</td>\n<td>Schlieper, Erich, Gastw., RiehlerStr. 86</td>\n</tr>\n<tr>\n<td>4 93 90</td>\n<td>Schlieper, Dr. Friedr., Handelslehrer, <i>Lth</i><br/>Godenfelsstr. 1</td>\n</tr>\n<tr>\n<td>5 70 37</td>\n<td>Schlieper, H., Steine, <i>Brf</i> Widd.Str. 325</td>\n</tr>\n<tr>\n<td>4 62 23</td>\n<td>Schlieper u. Heyng, Farbenfabr., <i>Lth</i> Sülzbr.<br/>Straße 241</td>\n</tr>\n<tr>\n<td>5 75 61</td>\n<td>Schlieper, Wilh., AntwerpenerStr. 17</td>\n</tr>\n<tr>\n<td>7 99 63</td>\n<td>Schliephake, R., Ww., Riehl, Müllerstr. 28</td>\n</tr>\n<tr>\n<td>4 67 18</td>\n<td>Schlierkamp, A., Kondit., <i>Lth</i> Franzstr.</td>\n</tr>\n<tr>\n<td>6 32 95</td>\n<td>Gebr. Schlimbach, Tankst., <i>Dbt</i> Gladb.<br/>Straße 977</td>\n</tr>\n<tr>\n<td>6 27 44</td>\n<td>Dies., Autorepar., <i>Hw</i> Suitbertstr. 29</td>\n</tr>\n<tr>\n<td>5 55 79</td>\n<td>Schlimbach, Gg., Drog., <i>Ehf</i> Danielstr. 2</td>\n</tr>\n<tr>\n<td>6 07 18</td>\n<td>Schlimbach, J., Install., <i>Mth</i> Bachstr. 67</td>\n</tr>\n<tr>\n<td>6 99 99</td>\n<td>Schlimbach <i>Tsh</i> <i>Vchlan</i> <i>Mehle</i> <i>Rüdinor.</i></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

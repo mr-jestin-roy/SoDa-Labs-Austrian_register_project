@@ -1,0 +1,882 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 0 944 520\" data-label=\"Text\"><p>..... [ Wien 1, Burgring 1 Tel. A 35 2 84</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"404 153 845 559\"}, {\"label\": \"Text\", \"bbox\": \"461 614 785 875\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "452. Bautischlereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Amstetten (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Antonienhütte (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bärn (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"394 10 856 339\"}, {\"label\": \"Text\", \"bbox\": \"448 326 800 481\"}, {\"label\": \"Text\", \"bbox\": \"479 486 767 640\"}, {\"label\": \"Text\", \"bbox\": \"279 645 477 809\"}, {\"label\": \"Text\", \"bbox\": \"753 651 968 805\"}, {\"label\": \"Text\", \"bbox\": \"374 805 874 967\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Falkensee b. Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Feldkirch (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Forsting b. Ebersberg (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Glatten (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hallein (Salzburg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "451. BAU (Bautenschutz)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Kalisch (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      },
+      {
+        "region_name": "Kindelbrück (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Korneuburg (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Leoben (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"45 20 990 852\" data-label=\"Text\"><p><b>255315 Franz Köstler Nacht., Bau- u. Möbel-</b><br/><b>tischlerei, Linz-Urfahr, Reindlstr. 21</b></p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Karl Reichinger",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Luckenwalde (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Lundenburg (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Mannersdorf a. Leithaberge (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Müllhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Aichinger A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Nahe (Holstein).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Ostrowo (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Pr. Eylau (Ostpr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"195 89 895 437\" data-label=\"Text\"><p>Möbeltischlerei, -Itzling, Keilgasse 7</p></div><div data-bbox=\"0 520 922 947\" data-label=\"Text\"><p><b>St. Veit (Sawe) [Südkärnten].</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"98 61 166 300\" data-label=\"Text\"><p>748</p></div><div data-bbox=\"186 61 882 602\" data-label=\"Text\"><p><b>„BOR“ Franz Kregar Tischlerei</b></p></div><div data-bbox=\"264 632 794 925\" data-label=\"Text\"><p>St. Veit (Sawe) - Wischmarje</p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Sourbrodt (üb. Malmedy) [Rheinprov.].",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Teschen (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"118 93 869 330\"}, {\"label\": \"Text\", \"bbox\": \"375 375 609 500\"}, {\"label\": \"Text\", \"bbox\": \"261 555 717 697\"}, {\"label\": \"Text\", \"bbox\": \"304 731 679 878\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 787 998 973\"}]",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Velten (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Weidhausen b. Coburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"203 39 454 187\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"104 54 892 960\" data-label=\"Text\"><p><b>Holzbauwerk</b><br/><b>J. &amp; F. Hrachowina</b><br/><b>Zimmererei und Tischlerei</b><br/>Wien XXI/39, Wagramerstr. 26/II<br/>Fernruf R 4 90 59 u. R 4 54 62<br/>Lager Nordbahnhof: R 4 41 04<br/>Lager Kagramer Platz: R 4 60 78</p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"19 114 187 346\" data-label=\"Text\"><p>U 3 58 55</p></div><div data-bbox=\"206 128 547 580\" data-label=\"Text\"><p><b>Franz Hradzil</b></p></div><div data-bbox=\"205 636 891 899\" data-label=\"Text\"><p>Wien XIV/89, Karl-Bauer-Gasse 28</p></div><div data-bbox=\"627 125 918 632\" data-label=\"Text\"><p><b>Bau- und<br/>Möbelfischerei,</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"374 55 658 167\"}, {\"label\": \"Text\", \"bbox\": \"44 223 960 483\"}, {\"label\": \"Text\", \"bbox\": \"209 537 788 654\"}, {\"label\": \"Text\", \"bbox\": \"48 701 643 826\"}, {\"label\": \"Text\", \"bbox\": \"676 701 963 826\"}, {\"label\": \"Text\", \"bbox\": \"48 843 609 968\"}, {\"label\": \"Text\", \"bbox\": \"676 843 963 968\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 46 960 490\" data-label=\"Text\"><p><b>A 2 92 01 Morawski &amp; CO.,</b> Fabrikstischlerei,<br/>Wien I/1, Reichsratstraße 11</p></div><div data-bbox=\"11 486 992 951\" data-label=\"Text\"><p><b>A 5 60 14 Nikolaus, Hermann, Ing.,</b> Patent-Schiebe-<br/>fenster, Möbelfabrik u. Bautischlerei,<br/>XIV/89, Cumberlandstr. 49</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"300 67 692 455\"}, {\"label\": \"Text\", \"bbox\": \"81 540 909 921\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Wien-Mödling.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Zillertal-Erdmannsdorf (Rsgb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "453. Bauunternehmungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"10 236 257 606\"}, {\"label\": \"Text\", \"bbox\": \"14 602 917 951\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Aalen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Affenz (Kurort) [Steiermark].",
+        "entries": []
+      },
+      {
+        "region_name": "Ahlbeck (Seebad).",
+        "entries": []
+      },
+      {
+        "region_name": "Ahlem (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 776 265 950\" data-label=\"Text\"><p><b>Ordnungen)</b></p></div><div data-bbox=\"437 782 782 950\" data-label=\"Text\"><p><b>(Branchenteil) 59</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Algringen (Lothringen).",
+        "entries": []
+      },
+      {
+        "region_name": "41 Baugeschäft Josef Pignon A. G.",
+        "entries": []
+      },
+      {
+        "region_name": "Allenstein.",
+        "entries": []
+      },
+      {
+        "region_name": "Allentsteig (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Altdamm b. Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Altdorf b. Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Altenburg (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Altenmarkt b. Osterhofen",
+        "entries": []
+      },
+      {
+        "region_name": "Altenmarkt (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Althofen (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Amberg (Oberpfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Ammendorf (Saalkr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Amstetten (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Andernach (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Angerburg (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Anklam (Pomm.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Annahütte (N-L.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ansbach (Mittelfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Appenthal (Ob. Lambrecht) [Pfalz].",
+        "entries": []
+      },
+      {
+        "region_name": "Argenau (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Arnsdorf (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Arnswalde (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Attersee (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Au b. Berchtesgaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Aue (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

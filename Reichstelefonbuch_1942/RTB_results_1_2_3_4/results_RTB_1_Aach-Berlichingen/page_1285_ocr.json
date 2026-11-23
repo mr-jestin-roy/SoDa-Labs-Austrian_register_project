@@ -1,0 +1,866 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"394 598 400 614\" data-label=\"Text\"><p>-</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"352 71 850 395\"}, {\"label\": \"Text\", \"bbox\": \"475 395 737 537\"}, {\"label\": \"Text\", \"bbox\": \"268 576 579 740\"}, {\"label\": \"Text\", \"bbox\": \"675 576 935 731\"}, {\"label\": \"Text\", \"bbox\": \"444 776 775 944\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"247 29 998 537\" data-label=\"Text\"><p>45683 Rößig, Martin, Damenunterwäschefabrik,<br/>Wilhelmstraße 2</p></div><div data-bbox=\"201 641 816 951\" data-label=\"Text\"><p><b>Cilli (Untersteiermark).</b></p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Franz Dobowitschnik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eibau (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Ellefeld (Vogtl.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Falkenstein (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Feldstetten (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Gnadenfrei (Niederschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"278 102 347 425\" data-label=\"Text\"><p><b>189</b></p></div><div data-bbox=\"391 33 899 852\" data-label=\"Text\"><p><b>Johann Kühnl &amp; Co.</b><br/><b>Wäschefabrik</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hartmannsdorf b. Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Heiligenstadt (Eichsfeld).",
+        "entries": []
+      },
+      {
+        "region_name": "Herford.",
+        "entries": []
+      },
+      {
+        "region_name": "Kempten (Allgäu).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background of the document.\"/></div>",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a thick black horizontal line along the bottom edge.\"/>This image is a scan of a blank white page. It features a prominent, thick black horizontal line running across the entire width of the page near the bottom. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"353 110 666 338\"}, {\"label\": \"Text\", \"bbox\": \"118 385 857 636\"}, {\"label\": \"Text\", \"bbox\": \"198 665 657 800\"}, {\"label\": \"Text\", \"bbox\": \"635 800 875 937\"}]",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Lauter (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leinzell (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leisnig (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"86 20 921 950\" data-label=\"Text\"><p><b>Gebrüder Dietzel</b><br/><b>Wirkwaren und Wäche-Fabrik</b><br/><b>Litzmannstadt, Hauländer Straße 37</b><br/><b>Fernsprecher 175 50</b><br/><b>Zweigwerk: Straßburger Linie 7</b><br/><b>Fernsprecher 144 28</b></p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Oskar Dietzel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Eduard Freund &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Lößnitz (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Lustenau (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Luxemburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "JOS. STANGÉ-BINTNER",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Mähr. Ostrau (Protectorat).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "„INDUSTRIAL“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Pácl &amp; Vachta",
+        "entries": []
+      },
+      {
+        "region_name": "Mainz.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Mühlhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Elsässische Hemdenfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "M. Gladbach.",
+        "entries": []
+      },
+      {
+        "region_name": "Mylau (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Naila (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"572 731 998 925\" data-label=\"Text\"><p><b>6581. Wäsch</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Neugersdorf (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neuhammer (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Neupaka (Böhmen).",
+        "entries": []
+      },
+      {
+        "region_name": "Neu-Ulm (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Niederschlema (Erzgeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Niemes (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Olmütz (Mähren).",
+        "entries": []
+      },
+      {
+        "region_name": "Osnabrück.",
+        "entries": []
+      },
+      {
+        "region_name": "Pilsen (Protectorat).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Josef Adler &amp; Söhne",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"179 106 812 960\" data-label=\"Text\"><p><b>Textilwerke<br/>Wäschefabrik<br/>Jaroslav Kodet<br/>A. G.<br/>Pilsen<br/>Fernsprecher 877 u. 1380</b></p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"110 57 861 152\" data-label=\"Text\"><p><b>Fabrik der feinsten Herrenwäsche</b></p></div><div data-bbox=\"41 178 318 729\" data-label=\"Image\"><img alt=\"Circular logo for 'CLOCKENMAKEREI' featuring a bell in the center. The text 'CLOCKENMAKEREI' is written in a circle around the bell, and 'G. S. G. S. CH' is written below it.\"/></div><div data-bbox=\"420 214 861 381\" data-label=\"Text\"><p><b>Josef Feigl</b></p></div><div data-bbox=\"476 406 811 547\" data-label=\"Text\"><p><b>Prag XIII.</b></p></div><div data-bbox=\"377 591 904 693\" data-label=\"Text\"><p><b>König-Georg-Straße 466</b></p></div><div data-bbox=\"52 738 391 928\" data-label=\"Text\"><p><b>Fernsprecher:</b><br/><b>596 32. 596 33</b></p></div><div data-bbox=\"474 738 918 940\" data-label=\"Text\"><p><b>Telegramm-Adresse:</b><br/><b>Clochia Prag</b></p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Wilhelm Lebenhart",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"55 39 169 95\" data-label=\"Text\"><p>33234</p></div><div data-bbox=\"272 12 895 133\" data-label=\"Text\"><p><b>Max Renner</b> Wäsche-<br/>Erzeugung</p></div><div data-bbox=\"349 128 799 193\" data-label=\"Text\"><p>Prag I, Rittergasse 16</p></div><div data-bbox=\"55 222 170 278\" data-label=\"Text\"><p>61698</p></div><div data-bbox=\"285 196 884 311\" data-label=\"Text\"><p><b>Ernst Schwarzkopf</b></p></div><div data-bbox=\"385 312 784 438\" data-label=\"Text\"><p>Baumwollwaren und<br/>Wäscheerzeugung</p></div><div data-bbox=\"363 436 825 500\" data-label=\"Text\"><p>Prag I., Fischmarkt 12</p></div><div data-bbox=\"55 530 166 585\" data-label=\"Text\"><p>32530</p></div><div data-bbox=\"249 501 938 621\" data-label=\"Text\"><p><b>Emanuel Skall</b> Wäsche-<br/>Erzeugung</p></div><div data-bbox=\"359 619 808 687\" data-label=\"Text\"><p>Prag I, Rittergasse 18</p></div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 726 250 912\" data-label=\"Text\"><p><b>De aller Art</b></p></div><div data-bbox=\"413 731 755 942\" data-label=\"Text\"><p>(Branchenteil) 801</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Reichenbach (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "C. H. Müller",
+        "entries": []
+      },
+      {
+        "region_name": "Rheda (Bez. Minden).",
+        "entries": []
+      },
+      {
+        "region_name": "Rostock (Seestadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Rumburg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Westerheim (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"198 93 542 359\"}, {\"label\": \"Text\", \"bbox\": \"268 412 468 558\"}, {\"label\": \"Text\", \"bbox\": \"212 566 524 733\"}, {\"label\": \"Text\", \"bbox\": \"61 764 331 937\"}, {\"label\": \"Text\", \"bbox\": \"363 790 378 938\"}, {\"label\": \"Text\", \"bbox\": \"445 779 641 925\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 16 734 986\" data-label=\"List-Group\"><p><b>R3 81 54B Partik, Ludwig, Fabrikation von LU-<br/>PA Herrenwäsche, XII/82, Bonyg. 61</b></p><p><b>B3 12 50 Rössler, Rudolf, Wiener Trikotagen-Werk-<br/>stätte, Erzeugung feiner Trikotwäsche,<br/>Wien VII/62, Burggasse 28/32</b></p><p><b>R3 46 55 Rothbauer, Hans, Herstellung moderner<br/>Charmeusewäsche, Wien XV/101, Her-<br/>klotzgasse 5</b></p><p><b>B3 80 30 Rott, Helene, Damen- u. Kinderwäsche-<br/>fabrik, VII/62, Stiftgasse 21. P 38505</b></p><p><b>U2 93 86 August Schoike <sup>Kleider-</sup><br/>u. Wäsche-<br/>fabrikation, Wien I/1, Neutorgasse 12</b></p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"93 24 642 231\"}, {\"label\": \"Text\", \"bbox\": \"147 270 587 533\"}, {\"label\": \"Text\", \"bbox\": \"289 550 436 707\"}, {\"label\": \"Text\", \"bbox\": \"263 707 470 830\"}, {\"label\": \"Text\", \"bbox\": \"196 839 527 973\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 71 128 235\" data-label=\"Text\"><p>U4 60 53</p></div><div data-bbox=\"199 15 679 385\" data-label=\"Text\"><p><b>Alois Tirelli</b> Herstellung<br/>von Wäsche,<br/>Wien IV/50, Favoritenstraße 19</p></div><div data-bbox=\"438 417 499 550\" data-label=\"Text\"><p>101</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  }
+]

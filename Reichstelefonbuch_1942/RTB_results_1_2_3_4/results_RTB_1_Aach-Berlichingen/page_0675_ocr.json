@@ -1,0 +1,901 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Hersfeld (H/N.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Georg Braun Kom.-Ges.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"290 111 977 937\" data-label=\"Text\"><table border=\"0\"><tr><td style=\"vertical-align: middle;\">Sammel-</td><td rowspan=\"3\" style=\"vertical-align: middle; font-size: 4em;\">{</td><td style=\"vertical-align: middle;\"><b>A. Rechberg Kom.-Ges.</b></td></tr><tr><td style=\"vertical-align: middle;\">Nr.</td><td style=\"vertical-align: middle;\"><b>Tuchfabrik, Export nach allen Ländern,</b></td></tr><tr><td style=\"vertical-align: middle;\">541</td><td style=\"vertical-align: middle;\"><b>Hainstraße 7</b></td></tr></table></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Iserlohn.",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchbach (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Lübeck",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Lustenau (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"377 20 890 781\" data-label=\"Text\"><p><img alt=\"Pschorr Bräu logo: a circular emblem with a stylized 'P' and a crown-like structure on top.\" data-bbox=\"450 30 570 310\"/><br/><b>Pschorr Bräu</b><br/><b>MÜNCHEN</b></p></div><div data-bbox=\"494 799 775 882\" data-label=\"Text\"><p><b>Bayerstraße 30-32</b></p></div><div data-bbox=\"322 891 540 973\" data-label=\"Text\"><p><b>Fernspr. 62591</b></p></div><div data-bbox=\"579 891 940 973\" data-label=\"Text\"><p><b>| Tel.-Adr. Pschorrbräu</b></p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Gabriel u. Jos. Sedlmayr",
+        "entries": []
+      },
+      {
+        "region_name": "Spaten-Franziskaner-Leistbräu A.-G.",
+        "entries": []
+      },
+      {
+        "region_name": "Neustadt (Orla).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Pforzheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"329 311 418 661\"}, {\"label\": \"Text\", \"bbox\": \"466 10 933 955\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Schlag b. Gablonz (Neisse) [Budetenland].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Solingen.",
+        "entries": [
+          {
+            "extension": "32645",
+            "text": "} F. Koeller &amp; Co., Export- u. Stahlwaren,"
+          },
+          {
+            "extension": "32646",
+            "text": "} Solingen-Ohligs, Südstraße 28—32"
+          },
+          {
+            "extension": "25677",
+            "text": "Gottfr. Weyersberg Söhne, Export- undStahlwarenfabrik, Heinrich-Diehl-Str. 16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Steinbach-Hallenberg (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Steinschönau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Unter Maxdorf (Isargeb.) (Sudetenland)",
+        "entries": []
+      },
+      {
+        "region_name": "Weidhausen b. Coburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Rigobert Baumann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 6 186 67\" data-label=\"Text\"><p>B3 34 88</p></div><div data-bbox=\"442 9 761 75\" data-label=\"Text\"><p><b>Leopoldine Besel</b></p></div><div data-bbox=\"209 71 997 204\" data-label=\"Text\"><p>Gurken-, Konserven-, Sauerkrautexport,<br/>Wien XV/101, Dreihausgasse 1</p></div><div data-bbox=\"14 226 188 286\" data-label=\"Text\"><p>B3 70 28</p></div><div data-bbox=\"210 204 997 325\" data-label=\"Text\"><p><b>Eduard Edlitzberger &amp; Co.</b></p></div><div data-bbox=\"506 327 691 385\" data-label=\"Text\"><p>Ausfuhr</p></div><div data-bbox=\"277 388 965 456\" data-label=\"Text\"><p>VII/62, Zieglerg. 33. P Wien 81508</p></div><div data-bbox=\"18 453 188 574\" data-label=\"Text\"><p>Sammel-<br/>Nr.</p></div><div data-bbox=\"556 458 647 520\" data-label=\"Text\"><p><b>Egro</b></p></div><div data-bbox=\"18 578 188 641\" data-label=\"Text\"><p>B3 35 45</p></div><div data-bbox=\"18 452 997 650\" data-label=\"Text\"><p>{ <b>Export- und Grosshandelsgesellschaft m.<br/>b. H., Wien VII/62, Kirchengasse 4</b></p></div><div data-bbox=\"18 684 188 744\" data-label=\"Text\"><p>U2 44 77</p></div><div data-bbox=\"210 652 997 787\" data-label=\"Text\"><p><b>Franz Faschingbauer</b></p></div><div data-bbox=\"295 783 903 978\" data-label=\"Text\"><p>Modellhaus und Modellexport,<br/>Wien I/1, Jasomirgottstraße 6.<br/>Telegramm-Adresse „Modex“</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "TuchgroßhandlungHanke &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 29 967 308\" data-label=\"Text\"><p>R2 34 69 <b>Issakides &amp; Co.</b> Orient. Handels-<br/>gesellschaft,<br/>Wien I/1, Fleischmarkt 13</p></div><div data-bbox=\"10 303 992 404\" data-label=\"Text\"><p>A3 20 63 { <b>Jann, Franz</b>, Export, Buying Agency,</p></div><div data-bbox=\"10 395 776 496\" data-label=\"Text\"><p>A3 13 86 { Wien VI/56, Capistrangasse 4</p></div><div data-bbox=\"10 489 992 774\" data-label=\"Text\"><p>R4 81 73L <b>Jungbauer, Daniel</b>, Großhandel in<br/>Schmuckwaren aller Arten, Reiseanden-<br/>ken-Artikel, II/27, Prater Str. 54</p></div><div data-bbox=\"10 770 873 869\" data-label=\"Text\"><p>B2 75 80 { <b>Ed. Kanitz &amp; Co. Akt.-Ges.</b>,</p></div><div data-bbox=\"10 861 829 964\" data-label=\"Text\"><p>B2 75 81 { Wien I/1, Spiegelgasse 3</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "MASCHEK &amp; CO.",
+        "entries": []
+      },
+      {
+        "region_name": "Jersey Export K. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 20 990 311\" data-label=\"Text\"><p>B3 34 52 <b>Mazanek, Franz</b>, Großerzeugung und Export von Kleidern und Blusen, Wien VII/62, Lindengasse 37</p></div><div data-bbox=\"0 305 965 964\" data-label=\"Text\"><p>R5 59 95 <b>Käthe Rast</b> Anfertigung und Ausfuhr von Modellkleidern, IX/66, Peregring 3</p><p>R2 80 86 { <b>Schmitz, Siemssen &amp; Co.</b></p><p>R2 04 86 { Einfuhr — Ausfuhr Wien I/1, Stubenring 6/III</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Hermann G. Schütte &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 29 718 261\" data-label=\"Text\"><p><b>Znaim (Niederdonaustau).</b></p></div><div data-bbox=\"119 313 759 611\" data-label=\"Text\"><p><b>73 Hejtmann &amp; Co.</b></p></div><div data-bbox=\"791 303 955 602\" data-label=\"Text\"><p>Gurken-<br/>ausfuhr</p></div><div data-bbox=\"186 615 647 782\" data-label=\"Text\"><p>Znaim, Bruckerstraße 8</p></div>",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"92 196 883 744\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Gablonz (Neisse) [Sudetengl.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "1439. Extraktionseinrichtungen für Gerb- u. Farbstoffe",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"207 218 818 735\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "1444. Fachschulen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Amstetten (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Anderburg (Kr. Cill, Südsteiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Landwirtschaftsschule",
+        "entries": []
+      },
+      {
+        "region_name": "Anderburg",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Aue (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Frankenhausen (Kyffh.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"135 33 998 964\" data-label=\"Text\"><p><b>58 Ingenieurschule Bad Frankenhausen<br/>(Kyffh.), Reichsanerkannte Fachschule<br/>für Maschinenbau, Elektrotechnik, Flug-<br/>zeugbau (Flugbetrieb), Lehrgänge für<br/>Blitzableiterprüfer und -Setzer</b></p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Bad Köstritz (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Baldinstein (Lahn).",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Buxtehude.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"60 0 981 30\" data-label=\"Text\"><p>53410 <b>MUNIC</b> <b>RAHNPLATZ</b> 103 <b>1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 989 510\" data-label=\"Text\"><p><b>Empfertshausen</b> (üb. Dermbach)<br/>[Rhöngeb.]</p><p>Kaltennordheim 98 Staatliche Schnitzschule Emp-<br/>fertshausen über Dermbach (Rhöngeb.)</p></div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 782 264 937\" data-label=\"Text\"><p><b>chschulen</b></p></div><div data-bbox=\"439 782 811 960\" data-label=\"Text\"><p>(Branchenteil) 191</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "| Essen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Folkwangschulen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Haida (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hallein (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"42 33 144 311\" data-label=\"Text\"><p><b>324 32</b></p></div><div data-bbox=\"176 10 749 937\" data-label=\"Text\"><p><b>Staatliche Meisterschule<br/>des Deutschen Handwerks<br/>Kassel, Friedrich-Wilhelms-Platz 6</b></p></div>",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"38 0 762 235\" data-label=\"Text\"><p>20431 { <b>Textilberufsschule</b><br/>20433 { <b>Litzmannstadt, Ludendorffstraße 115</b></p></div><div data-bbox=\"0 253 679 520\" data-label=\"Text\"><p><b>Lülsfeld (üß. Gerolzhofen).</b><br/><b>Gerolzhofen 72 Haushaltungsschule Lülsfeld</b></p></div>",
+      "cells": [
+        "col4_sec14.png"
+      ]
+    }
+  }
+]

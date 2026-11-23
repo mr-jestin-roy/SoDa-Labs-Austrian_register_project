@@ -1,0 +1,778 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or tables.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Ritterfeld",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Blankenburg (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "Brand (Kr. Aachen).",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Darmstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Diekirch (Luxemburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Döbeln (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"444 46 763 250\"}, {\"label\": \"Text\", \"bbox\": \"353 276 862 704\"}, {\"label\": \"Text\", \"bbox\": \"250 710 961 937\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Dorsten (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Erding (Oberbay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks.\"/>This image is a scan of a blank white page. It contains two small, dark, irregular specks located in the lower half of the page, one slightly to the left of the center and one slightly to the right of the center. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"70 34 184 79\" data-label=\"Text\">20288</div>\n<div data-bbox=\"261 16 934 105\" data-label=\"Text\"><b>Welgelt &amp; Co.</b> Samenzucht und<br/>Samenhandlung</div>\n<div data-bbox=\"330 104 866 149\" data-label=\"Text\">Erfurt, Weimarische Straße</div>\n<div data-bbox=\"13 147 992 288\" data-label=\"Text\">\n<table border=\"0\">\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\"><b>Alfons Ziegler</b></td>\n<td>Samenzucht,</td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td>Gärtnerei, Baumschulen,</td>\n</tr>\n<tr>\n<td>231 32</td>\n<td></td>\n<td></td>\n<td>Erfurt, Rudolstädter Straße 39</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"11 298 728 361\" data-label=\"Text\"><b>Fischench (Kr. Köln).</b></div>\n<div data-bbox=\"11 359 889 454\" data-label=\"Text\">\n<table border=\"0\">\n<tr>\n<td>Hermülheim</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\"><b>Zopes, Jacob</b></td>\n<td>Samenhandlung,</td>\n</tr>\n<tr>\n<td>448 u. 447</td>\n<td>(Fischench (Kr. Köln))</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"11 464 367 527\" data-label=\"Text\"><b>Flensburg.</b></div>\n<div data-bbox=\"89 525 992 620\" data-label=\"Text\">\n<table border=\"0\">\n<tr>\n<td>1945</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\"><b>Kloster, A. P.</b></td>\n<td>Feldsamen-Bau und Hand-</td>\n</tr>\n<tr>\n<td>1946</td>\n<td>lung, Flensburg, Holm 70</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"11 629 580 692\" data-label=\"Text\"><b>Frankfurt (Main).</b></div>\n<div data-bbox=\"59 692 992 783\" data-label=\"Text\">\n<table border=\"0\">\n<tr>\n<td>618 11</td>\n<td><b>Alms, Wilhelm</b></td>\n<td>Samengroßhandlung —<br/>Dahlienkulturen, Offenbacher Landstr. 377</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"61 783 926 871\" data-label=\"Text\">\n<table border=\"0\">\n<tr>\n<td>422 ",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"72 0 992 77\" data-label=\"Text\"><p>10701 11001, 11002, 11003, 11004, 11005, 11006, 11007, 11008, 11009, 11010, 11011, 11012, 11013, 11014, 11015, 11016, 11017, 11018, 11019, 11020, 11021, 11022, 11023, 11024, 11025, 11026, 11027, 11028, 11029, 11030, 11031, 11032, 11033, 11034, 11035, 11036, 11037, 11038, 11039, 11040, 11041, 11042, 11043, 11044, 11045, 11046, 11047, 11048, 11049, 11050, 11051, 11052, 11053, 11054, 11055, 11056, 11057, 11058, 11059, 11060, 11061, 11062, 11063, 11064, 11065, 11066, 11067, 11068, 11069, 11070, 11071, 11072, 11073, 11074, 11075, 11076, 11077, 11078, 11079, 11080, 11081, 11082, 11083, 11084, 11085, 11086, 11087, 11088, 11089, 11090, 11091, 11092, 11093, 11094, 11095, 11096, 11097, 11098, 11099, 11100, 11101, 11102, 11103, 11104, 11105, 11106, 11107, 11108, 11109, 11110, ",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Hainichen (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Heidelberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Hohensalza (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Innsbruck (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Insterburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kitzingen (Mainfranken).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"82 227 990 865\" data-label=\"Text\"><p>2717 <b>Keuschnigg, Josef</b>, Samengroßhandlung,<br/>Otto-Planetta-Platz 6</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"177 15 816 937\" data-label=\"Text\"><p><b>Zentrale:</b> Stuttgarter Platz 5<br/><b>Saatgut:</b> Gabelsbergerstr. 17a<br/><b>Maschinen:</b> Fernruf 3120<br/>Schlachthofstraße 17</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Königsane üb. Aschersleben.",
+        "entries": []
+      },
+      {
+        "region_name": "Kröpelin (Mecklb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"770 799 996 937\" data-label=\"Text\"><p><b>5039.</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Kutno (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Lantershofen (Kr. Ahrweiler).",
+        "entries": []
+      },
+      {
+        "region_name": "Letschin (Oderbruch).",
+        "entries": []
+      },
+      {
+        "region_name": "Lintorf (Bez. Düsseldorf).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Lippstadt (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "M. Berdeis Nachf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Metz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"113 59 183 279\" data-label=\"Text\"><b>710</b></div><div data-bbox=\"434 33 734 283\" data-label=\"Text\"><b>Bar &amp; Cie.</b></div><div data-bbox=\"385 326 779 589\" data-label=\"Text\"><b>Samengroßhandlung</b></div><div data-bbox=\"268 602 954 875\" data-label=\"Text\"><b>Bayernplatz 27—29. T Bar Samen</b></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Fabre",
+        "entries": []
+      },
+      {
+        "region_name": "SamengroßhandlungSamen-Kulturen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Miltenberg (Mainfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Mülheim (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"47 37 183 205\"}, {\"label\": \"Text\", \"bbox\": \"47 222 183 391\"}, {\"label\": \"Text\", \"bbox\": \"47 408 183 576\"}, {\"label\": \"Text\", \"bbox\": \"47 593 183 761\"}, {\"label\": \"Text\", \"bbox\": \"47 778 183 946\"}, {\"label\": \"Section-Header\", \"bbox\": \"379 16 779 326\"}, {\"label\": \"Text\", \"bbox\": \"314 404 846 589\"}, {\"label\": \"Text\", \"bbox\": \"443 593 710 769\"}, {\"label\": \"Text\", \"bbox\": \"220 778 932 946\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Naumburg (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Neisse.",
+        "entries": []
+      },
+      {
+        "region_name": "Neudietendorf (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nordhausen.",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"264 19 732 332\"}, {\"label\": \"Text\", \"bbox\": \"192 399 838 960\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Osnabrück.",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Quedlinburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"13 10 233 145\" data-label=\"Text\"><p>2 4100 1 1</p></div><div data-bbox=\"336 10 884 145\" data-label=\"Text\"><p>22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100</p></div>",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 799 238 941\" data-label=\"Text\"><p><b>Lämereien</b></p></div><div data-bbox=\"406 799 756 954\" data-label=\"Text\"><p>(Branchenteil) 633</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 760 895\" data-label=\"Text\"><p>520 [2520] <b>F. Korte &amp; Co., Samenzucht und Samen-</b><br/>handlung, Steinweg 18</p><p>15 [2015] <b>Gebrüder Laux G. m. b. H., Samenzucht,</b><br/>Quedlinburg, Oeringerhof</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"30 111 172 852\" data-label=\"Text\"><p>10. 110<br/>[Sammel-<br/>Nr.<br/>2121]</p></div><div data-bbox=\"187 20 731 361\" data-label=\"Text\"><p><b>Heinrich Mette &amp; Co. G. m. b. H.</b></p></div><div data-bbox=\"348 404 578 567\" data-label=\"Text\"><p>Samenzüchterei</p></div><div data-bbox=\"208 585 717 770\" data-label=\"Text\"><p><b>Quedlinburg, Stumpfsburger Str. 10</b></p></div><div data-bbox=\"208 770 673 958\" data-label=\"Text\"><p><b>T Mettesamen P Magdeburg 5784</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Kolbwein (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Salzwedel (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Sophienhof (iib. Plathe) [Pomm.].",
+        "entries": []
+      },
+      {
+        "region_name": "Speyer.",
+        "entries": []
+      },
+      {
+        "region_name": "Stadt Olbersdorf (Ostsudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Kolonialwarengroßhandlung",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Steyr (Oberdomau).",
+        "entries": []
+      },
+      {
+        "region_name": "Straß (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Striegau (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Tabarz (Thür. Wald).",
+        "entries": []
+      },
+      {
+        "region_name": "Trier.",
+        "entries": []
+      },
+      {
+        "region_name": "Troppau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Weißenfels (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Welun (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 760 280\" data-label=\"Text\"><p>B2 20 65 <b>WIRTSCHAFTS NAUWETZAR &amp; VU.,</b> GRIEDHAUPT<br/>A3 30 91 { in allen landwirtschaftlichen Sämereien,<br/>Gemüse- und Blumensamen, Wien I/1,<br/>Getreidemarkt 12 (Eschenbachgasse 11)</p></div><div data-bbox=\"0 275 740 505\" data-label=\"Text\"><p>U2 63 84 <b>Swoboda's Neffe Nachf.</b> Groß-<br/>handel,<br/>Kleinhandel, I/1, Schottengasse 3</p></div><div data-bbox=\"0 500 755 735\" data-label=\"Text\"><p>U2 13 35 <b>Wieschnitzky &amp; Clauser's Nachf.</b><br/>Wien I/1, Wipplingerstraße 15</p></div><div data-bbox=\"465 750 515 840\" data-label=\"Page-Footer\"><p>80</p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

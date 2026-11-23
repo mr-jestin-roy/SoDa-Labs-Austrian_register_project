@@ -1,0 +1,828 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 680 600 930\" data-label=\"Text\"><p>214 (Branchenteil)</p></div><div data-bbox=\"769 675 998 900\" data-label=\"Text\"><p>1691. Fil</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Wesermünde.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"307 0 998 937\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>3401</td>\n<td>3401</td>\n<td>„Seefisch“, Postfach 88. T Seefisch</td>\n</tr>\n<tr>\n<td>5</td>\n<td>5</td>\n<td>Hochseefischerei-Gesellschaft B. Droste</td>\n</tr>\n<tr>\n<td>704</td>\n<td>704</td>\n<td>Wwe. &amp; Co., Seefisch-Großhandlung,<br/>Westseite des alten Hafens. T Hochsee</td>\n</tr>\n<tr>\n<td>903</td>\n<td>903</td>\n<td>Kunkel, Hans, Seefischgroßhandlung,<br/>Dampfhochseefischerei u. Fischindustrie</td>\n</tr>\n<tr>\n<td>848</td>\n<td>848</td>\n<td>Meyer, Gustav, Fischgroßhandlung, Weser-<br/>münde-Fischereihafen, Halle I, Abt. 22-24</td>\n</tr>\n<tr>\n<td>826</td>\n<td>826</td>\n<td>Gustav Meyer G. m. b. H., Seefischgroß-<br/>handlung, Wesermünde-Fischereihafen</td>\n</tr>\n<tr>\n<td>834</td>\n<td>834</td>\n<td>Rubardt, J., Seefischgroßhandlung, Weser-<br/>münde-Fischereihafen. T Rubardt P Ham-</td>\n</tr>\n<tr>\n<td>87</td>\n<td>87</td>\n<td>burg 4541 (Inh. Hosemann, Tel. Nr. 310)</td>\n</tr>\n<tr>\n<td>939</td>\n<td>939</td>\n<td>Schierock, Wilhelm, Seefischgroßhandlung<br/>Wesermünde-Fischereihafen</td>\n</tr>\n<tr>\n<td>1256</td>\n<td>1256</td>\n<td>Ders., nach Geschäftsschluß 7 Uhr abends</td>\n</tr>\n<tr>\n<td>838</td>\n<td>838</td>\n<td>Siebert, M., Dampfhochseefischerei u. See-</td>\n</tr>\n<tr>\n<td>1801</td>\n<td>1801</td>\n<td>fischgroßhandlung, Wesermünde-Fische-<br/>reihafen, Halle I, Abt. 38-41</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"245 946 371 990\" data-label=\"Text\">\n<p><b>Wien</b></p>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"242 102 402 339\"}, {\"label\": \"Section-Header\", \"bbox\": \"483 10 913 473\"}, {\"label\": \"Text\", \"bbox\": \"386 464 997 950\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Hans Cerwenka",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      },
+      {
+        "region_name": "Zittau (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"325 196 901 313\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neustadt (Weinstrasse).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"237 59 499 178\"}, {\"label\": \"Text\", \"bbox\": \"237 167 986 451\"}]",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "ehgroßhandlungen — 1700. Fl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"161 292 860 731\"}]",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Arnstadt (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bernsdorf b. Trautenau (Sudetenld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gelsenkirchen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gotenhafen.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"278 102 720 348\"}, {\"label\": \"Text\", \"bbox\": \"129 404 883 889\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Mähr. Ostrau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Hausner &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Oderberg (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"307 84 668 308\"}, {\"label\": \"Text\", \"bbox\": \"90 375 881 507\"}, {\"label\": \"Text\", \"bbox\": \"258 579 732 722\"}, {\"label\": \"Text\", \"bbox\": \"475 778 941 921\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Schrtuchereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Rumburg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Rybnik (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "St. Pölten (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Schlutup (Lübeck-Schlutup).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"77 156 227 361\" data-label=\"Text\"><p><b>Lübeck</b></p></div><div data-bbox=\"88 396 216 583\" data-label=\"Text\"><p><b>343 47</b></p></div><div data-bbox=\"88 617 216 804\" data-label=\"Text\"><p><b>343 48</b></p></div><div data-bbox=\"364 37 871 421\" data-label=\"Text\"><p><b>Fritz Steffen</b></p></div><div data-bbox=\"462 496 782 727\" data-label=\"Text\"><p><b>Lübeck-Schlutup</b></p></div><div data-bbox=\"330 727 925 951\" data-label=\"Text\"><p><b>Fischkonservenfabrik „Anker“</b></p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 67 999 330\" data-label=\"Text\"><p>Lübeck (Westphal, Hans, Fischkonservenfa-<br/>34168. 34267 brik, -Schlutup, Ludendorffstr. 142</p></div><div data-bbox=\"39 317 992 817\" data-label=\"Text\"><p>Lübeck ( <b>H. P. Westphal &amp; Sohn</b><br/>34217 Fischkonservenfabrik Marke „Weltkrone“<br/>Lübeck-Schlutup</p></div><div data-bbox=\"14 882 991 981\" data-label=\"Text\"><p><b>Schwerin</b> (Das Westphal Fundament)</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 990 110\" data-label=\"Text\"><p>B5 05 31 <b>Hatwagner &amp; Co., Fischkonserven und Marinaden, III/40, Schredtgasse 13</b></p></div><div data-bbox=\"0 100 990 295\" data-label=\"Text\"><p>Sammel-Nr. { <b>Hugo Kollmer</b><br/>U4 65 15 { Eigene Erzeugung von Feinmarinaden, Wien IV/50, Viktororgasse 18</p></div><div data-bbox=\"0 285 990 430\" data-label=\"Text\"><p>B2 40 46 <b>Kolm &amp; Mitterer, Großvertrieb von Fischkonserven, Käse u. Lebensmitteln, IV/50, Naschmarkt Stand 433/35</b></p></div><div data-bbox=\"0 420 990 480\" data-label=\"Text\"><p>A3 32 56 <b>Dieselben, Büro, VI/56, Girardigasse 7</b></p></div><div data-bbox=\"0 470 990 570\" data-label=\"Text\"><p>B2 65 35 <b>Hans Mayr</b></p></div><div data-bbox=\"0 560 990 660\" data-label=\"Text\"><p>Großhandlung in Käse, Feinkost, Fischkonserven, VI/56, Linke Wienzeile 20</p></div><div data-bbox=\"0 650 990 755\" data-label=\"Text\"><p>R3 84 44 „Ocean“ Konservenfabrik, Dr. Ernst Pajor, Wien XV/101, Grimmgasse 18</p></div><div data-bbox=\"0 770 990 940\" data-label=\"Text\"><p><b>Zauchtel (Ostsludentenland).</b><br/>6 Warhanek, C., Fischräucherei, Fischkonservenfabrik, Essigfabrik</p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"216 197 739 292\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "J. H. Wilhelms &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 59 322 165\"}, {\"label\": \"Text\", \"bbox\": \"67 180 978 380\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"72 41 796 800\" data-label=\"Text\"><table><tr><td>819</td><td rowspan=\"2\">{</td><td><b>Geestemünde</b></td><td><b>Fischmehlfabrik</b></td><td><b>Lülich</b></td></tr><tr><td>1414</td><td><b>&amp; Co.</b></td><td><b>Wesermünde-Fischereihafen.</b></td><td></td></tr><tr><td></td><td>{</td><td><b>T Idealfischmehl P</b></td><td><b>Hannover 3573</b></td><td></td></tr><tr><td>2230</td><td rowspan=\"2\">{</td><td><b>Wilhelms, J. Hinrich,</b></td><td><b>Fischmehlfabrik,</b></td><td></td></tr><tr><td>2231</td><td><b>Weserm.-Fischereihafen,</b></td><td><b>„Vikinghaus“</b></td><td></td></tr></table></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Wesermünde.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "1700. Fischräuchereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Haistarmost (Wester )",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      },
+      {
+        "region_name": "Köslin.",
+        "entries": []
+      },
+      {
+        "region_name": "Leba (Ostsee).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"151 0 748 71\" data-label=\"Text\"><p>handlung, C 1, Dösner Weg 23. P 17368</p></div><div data-bbox=\"0 98 347 852\" data-label=\"Text\"><p><b>Mähr. Ostrau.</b></p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Hausner &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Memel.",
+        "entries": []
+      },
+      {
+        "region_name": "Schlutup (Lübeck-Schlutup).",
+        "entries": []
+      },
+      {
+        "region_name": "Stralsund.",
+        "entries": []
+      },
+      {
+        "region_name": "Wesermünde.",
+        "entries": []
+      },
+      {
+        "region_name": "Wismar (Mecklb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

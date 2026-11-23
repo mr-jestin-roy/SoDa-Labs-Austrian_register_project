@@ -1,0 +1,732 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, markings, or illustrations visible. It appears to be a scan of a physical document, showing some minor scanning artifacts.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 11 997 992\" data-label=\"Text\"><p>183 Militzer, Wilh., Install., Rostockerstr. 47<br/>165 Molkerei Kavelsdorf<br/>149 Molkereigenossenschaft eGmbH<br/>226 NSDAP., Ortsgruppe, Bad Sülze<br/>153 Peters, Alb., Schlachtermstr., Markt 24.<br/>170 Peters, Karl, Baugesch., Rostocker Str.<br/>141 Rauhfuttersammelstelle<br/>151 Reichsarbeits-W.-J.-Lager 3/33<br/>173 Reichsarbeitsdienst, Abt. 2/60, Bad Sülze<br/>224 Reichsbahnhof Bad Sülze.<br/>225 Reichsbahnhof Langsdorf.<br/>195 Reichs-Postamt<br/>117 Rheuma- u. Kinderheilstätte<br/>163 Röhring, A., Maschinenrepar., H.-Wessel-Str. 1<br/>179 Rowoldt, Chr., Lebensmittel, Markt<br/>128 Schlathölter, Dr., Tierarzt, Kurze Str. 170<br/>220 Schlechte, Kurt, Bürgermstr., Hitlerstr. 341<br/>162 Schmidt, Hans, Tabak, Rostockerstr. 40.<br/>192 Schmuhl, Carl, Bäckermstr., Rostockerstr. 57<br/>127 Schröder, A., Hebamme, Rostock. Str. 79<br/>110 Schröder, Hermann, Landw., Hof Kneese<br/>199 <del>Adulph II Adulphstamm</del> <del>Post</del> <del>St</del> <del>99</del></p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 0 960 966\" data-label=\"List-Group\"><p>123 Sinner, Hanna, Hebamme, Rost. Str. 42<br/>221 Stadtkrankenhaus.<br/>199 Stadtparkasse, Am Markt 111<br/>181 Thams. &amp; Garfs, Inh. Kley<br/>152 Timm, Alb., Gärtnerei, N. d. Post.<br/>174 Volksschule Bad Sülze<br/>121 Weber, Dr. O., Arzt, Am Markt<br/>191 Wendland, Karl, Bauer, Eixen<br/>176 Witt, Wilh., Müllerstr., Rostockerstr. 46<br/>166 Wittern, C., Autoverm., H.-Wessel-Str. 129</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Bad Sulza (Thür.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"374 115 841 635\" data-label=\"Text\"><p>Alien zum Wohle,<br/>Bad Sulza's Sole.</p></div><div data-bbox=\"251 701 961 880\" data-label=\"Text\"><p><b>Auskunft Kurverwaltung Bad Sulza, Ruf 220</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 15 992 993\" data-label=\"Text\"><p><b>136 Enders, O., Tischlerei, Alexanderstr. 2</b><br/><b>196 Enzian, Edgar, Postinsp., Unterneusulza</b><br/><b>121 Feuerwehr</b><br/><b>173 Förster, Curt, Bäcker, Unterneusulza.</b><br/><b>112 Foerster, Ernst, Feinkost, Naumburgerstr. 5</b><br/><b>130 Frauendorff, Edmund, Buchhandlung</b><br/><b>119 Gasthof Rehehausen, Ww. Naß.</b><br/><b>200 Gasthof z. deutschen Reich, Großheringen</b><br/><b>267 Gasthof z. Linde, Großheringen 46</b><br/><b>209 Gastw. Bürgergarten, Hindenburgstr. 2</b><br/><b>187 Gemeinde Sonnendorf, Gasth. Darnstedt</b><br/><b>240 Gendarmeriestation, Hindenburgstr. 13</b><br/><b>127 v. Gerstenbergk-Helldorf, Edler von Zech</b><br/><b>126. Gräfe, Rich., Holzhdig., Großheringen.</b><br/><b>226 Gräntzel, H., Landw.-Rat, Alb.Lindnerstr. 2</b><br/><b>241 Gressner, Dr. Gerh., Arzt, Saarlandstr. 8</b><br/><b>268 Günther, Curt, Obst, Ad.-Hitler-Str. 8</b><br/><b>148 Gundermann, Alfr., Zigarrenfabr.</b><br/><b>172 Handwerk, H., Weinschänke, Cl.-Denh.-Str. 4</b><br/><b>239 Haucke, H., Schmiedemstr., H.-Schemm-Str.11</b><br/><b>000 Hail Johannes H Konfektion Markt 7</b></p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 0 993 767\" data-label=\"List-Group\"><p>149 Heinecke. Willy, Möbel, H.Schemmstr. 6<br/>186 Heyland, Max, Wirkwrfbr., Ad.Hitlerstr. 6<br/>185 Hilfskrankenhaus Entbindungsheim<br/>151 Hill, Eduard, Hauptbahnhofswirtschaft<br/>128 Holle, Otto, Strickerei, Bergsulza 47<br/>107 Hotel Simon, K. Arnold, Saarlandstr. 6<br/>168 Hotel z. Eschenbaum, Wilh.-Ernst-Str. 13<br/>254 Judersleben, H., Baumstr., Eckartsb. Str. 10<br/>227 Junghaus, Karl, Bäckerei, W.-Ernst-Str. 31<br/>265 Kaiser, Joh., Gartenbau, Ziegeleistr. 5<br/>260 Karasch, Hans, Geflügelzucht, Wesselstr. 7<br/>216 Kaufmann, Fritz, Feinkost, Hindenburgstr. 13<br/>237 Kinderheilbad Sophie, Sophienstr. 9<br/>116 Kinder-Kurheim, Pr. K. v. Schwedenstiftung<br/><b>182 Kinderkurhaus der Carl-Zeiß - Stiftung</b><br/><b>Bad Sulza (Thür.)</b></p></div><div data-bbox=\"217 767 963 992\" data-label=\"List-Group\"><p>140 Kirsten, Fr. H., Maschinen, Eberstedt<br/>184 Kirsten, Fritz, Fleischwr., Saarlandstr. 13<br/>213 Koch, Oskar, Molkerei, Ad.Hitlerstr. 3<br/>167 Koch, Walter, Fleischw., Wilh. Ernststr. 38<br/>127 König Kurt Garherai Weidstr 17</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"216 0 993 988\" data-label=\"Text\"><p>(214) <b>Kunstmunie Bad Sulza</b><br/>113 <b>Kürbs, Udo, Mühle, Eberstedt</b><br/>147 <b>Kunze, Friedrich, Ing., Apparatebau</b><br/>222 <b>Kurhaus Kinderhort, Sophienstr. 3</b><br/>220 <b>Kurverwaltung Solbad Bad Sulza</b><br/>202 <b>Landelektrizität GmbH, Großheringen</b><br/>109 <b>Landw. Ein- u. Verkaufsverein, Niedertrebra.</b><br/>193 <b>Licht- u. Kraftwerke Bad Sulza.</b><br/>189 <b>Lohse, Richard, Wirkwr., Wilh.-Ernststr. 52.</b><br/>233 <b>Lotze, Johanne, Schwester, Am Lachenberg 4</b><br/>122 <b>Meißner, Max, Bauer, Lachstedt</b><br/>215 <b>Meißner, Herm., Zimmergesch., W. Ernststr. 45</b><br/>170 <b>Meißner, Otto, Gastst. z. Nordbhf.</b><br/>230 <b>Michael, K., Gastw., Unterneusulza, Dorfstr.</b><br/>248 <b>Milsch, Max, Landw., Großheringen</b><br/>175 <b>Mühlenwerke Großheringen, M. &amp; R. Schmidt</b><br/>256 <b>Müller, W., Gartenbau, Ad.-Hitler-Str. 10</b><br/>211 <b>Nießen, Dr. W., Zahnarzt, K.-Spaeter-Str. 9</b><br/>146 <b>NSDAP, SA.-Brigade 42, Kirchplatz 3</b><br/>166 <b>Dies., Ortsgr. Großheringen, Unterneusalza</b><br/>221 <b>Orlamünde &amp; Köberling, Ziegelei, Zieg.Str. 2</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image is a scan of a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely corresponding to a specific town or region that was not included in this particular view.</div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black speck near the bottom center.\"/>This image is a scan of a blank white page. It contains a single, small, dark speck located approximately in the lower-middle section of the page. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"9 11 992 993\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>125</td>\n<td>Pädagogium Mittelschule</td>\n</tr>\n<tr>\n<td>218</td>\n<td>Pannicke, Richard, Dentist, Sophienstr. 1</td>\n</tr>\n<tr>\n<td>255</td>\n<td>Park-Lichtspiele Th. Scheer, Sophienstr. 7</td>\n</tr>\n<tr>\n<td>132</td>\n<td>Pfarramt, Ev., Gustav-Zunckelstr. 28</td>\n</tr>\n<tr>\n<td>259</td>\n<td>Pfarramt, Ev., Bergsulza</td>\n</tr>\n<tr>\n<td>160</td>\n<td>Pfeiffer, M., Bauer, Lachstedt.</td>\n</tr>\n<tr>\n<td>253</td>\n<td>Pfeiffer, Paul, Molk.-Prod., G.-Zunckel-Str. 39</td>\n</tr>\n<tr>\n<td>194</td>\n<td>Pommernelle, G., Uhrm., Hindenburgstr. 18</td>\n</tr>\n<tr>\n<td>124</td>\n<td>Präbler, Paul, Kohlen, G.Zunckelstr. 22</td>\n</tr>\n<tr>\n<td>225</td>\n<td>Priese, Alfred, Gastw., Kleinheringen</td>\n</tr>\n<tr>\n<td>108</td>\n<td>Rahnis, H., Mineralw.-Fbr., Wilh. Ernststr. 28</td>\n</tr>\n<tr>\n<td>178</td>\n<td>Raiffeisen-Lager</td>\n</tr>\n<tr>\n<td>118</td>\n<td>Reichsbahn, Güterabfertigung.</td>\n</tr>\n<tr>\n<td>101</td>\n<td>Reichsbahn, Güterabf. Großheringen</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Reichsbahn, Güterabf. Niedertrebra</td>\n</tr>\n<tr>\n<td>162</td>\n<td>Reichspost, Amtsvorsteher</td>\n</tr>\n<tr>\n<td>165</td>\n<td>Dies., Postamt 2</td>\n</tr>\n<tr>\n<td>152</td>\n<td>Dies., Postamt Großheringen</td>\n</tr>\n<tr>\n<td>235</td>\n<td>Richter, Friedr., Holz, Horst-Wessel-Str. 6</td>\n</tr>\n<tr>\n<td>249</td>\n<td>Richter, Julius, Wollwarenfabrik.</td>\n</tr>\n<tr>\n<td>150</td>\n<td>Risch, Carl, Bücherrevisor, Sophienstr. 4</td>\n</tr>\n<tr>\n<td>901</td>\n<td>Ruhmann Walter Raun Anshainnen AA</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 990 991\" data-label=\"Text\"><p>145 Rosenbaum, Max, Emsenmühle<br/>224 Rudel, Aug., Strickerei, Wilh.-Ernststr. 37.<br/>214 <b>SALINE NEUSULZA Freiherr zu Inn-<br/>und Knyphausen Kommanditgesellschaft,</b><br/>Siedesalz, Getreidemühle, Kunstdünger<br/>134 Saline Neusulza Heinrichschacht Darnstedt<br/>236 Salm, Martha, Modewr., Mühlstr. 12<br/>227 Sattler, Helmut, Landwirt, Großheringen<br/>231 Schacht, Dr. Mart., Arzt, Sophienstr. 1<br/>141 Scharch, Herm., Landw., Sonnendorf 13<br/>174 Schenk, Dr. W., Arzt, G.Zunkelstr. 4<br/>264 Schmelzer, Heinr., Maler, Karolinenstr. 6<br/>263 Schmidt, Martha, Hebamme, Markt 4<br/>115 Schröder, Rudolf, Strickerei, Gartenstr. 3<br/>228 Schröter, W., Schlosserei Ad.Hitlerstr. 14<br/>245 Schüler, Paul, Strickwrfbr., Lachenweg 8<br/>229 Schunke, Frdr., Gasth., Großheringen<br/>117 Schurig, Rud., Radio, Ad.Hitlerstr. 5<br/>138 Schwendler, Heino, Kohlen, Hindenburgstr. 7<br/>210 Seitz, Arno, Fuhrgesch., Karolinenstr. 9<br/>177 Seydholdt, A., Kaufm., W.Ernststr. 42</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 992 945\" data-label=\"Text\"><p>101 Weise, Heinrich, Koniën, Camourger Str.<br/>242 Widder, August, Schuhwr., G.-Zunckel-Str. 13<br/>163 Wieber, August, Lehrer<br/>195 Wölfel, Else, Baugesch., H.-Wessel-Str. 6<br/>139 Wunderlich, H., Feinkost, Hindenburgstr. 4<br/>262 Ziervogel, Kurt, Kol.-W., Alexanderstr. 3<br/>232 Zitzmann, H., Fahrräder, Hindenb.Str. 9</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Bad Tatzmannsdorf (steiermark)",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "Gendarmeriestation"
+          },
+          {
+            "extension": "1",
+            "text": "Heilbad Tatzmannsdorf, Kurverwaltung, Bad Tatzmannsdorf"
+          },
+          {
+            "extension": "3",
+            "text": "Raus, Hartmann, Diplom-Ingenieur"
+          },
+          {
+            "extension": "2",
+            "text": "Saurer, Karl, Gastwirt"
+          },
+          {
+            "extension": "1",
+            "text": "Smital, Dr. Wilh., Arzt, Marienvilla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Bad Teinach (wrth.)",
+        "entries": [
+          {
+            "extension": "123",
+            "text": "Adrion, Christ., Gasth., Neubulach"
+          },
+          {
+            "extension": "245",
+            "text": "Apotheke, Apothekerin L. Dinkelacker"
+          },
+          {
+            "extension": "173",
+            "text": "Bauers Diätension"
+          },
+          {
+            "extension": "203",
+            "text": "Baur, Alex., Gasthof z. Gold. Faß"
+          },
+          {
+            "extension": "201",
+            "text": "Birkle, Christian, Gutspächter, Hof Dicke"
+          },
+          {
+            "extension": "133",
+            "text": "Braun, Heinr., Gemischtwr., Hauptstr. 30"
+          },
+          {
+            "extension": "174",
+            "text": "Dieter, Gottlob, Wäscherei, U. Talstr. 38"
+          },
+          {
+            "extension": "182",
+            "text": "Duß, Eug., Gasth., Neubulach"
+          },
+          {
+            "extension": "244",
+            "text": "Duß u. Bender GmbH, Werkz.-Fbr., Neubulach"
+          },
+          {
+            "extension": "151",
+            "text": "Energie-Versorgung Schwaben A.-G."
+          },
+          {
+            "extension": "193",
+            "text": "Energie-Versorgung Schwaben AG, Monteurst.Liebelsberg"
+          },
+          {
+            "extension": "136",
+            "text": "Dieselbe, Wehrwärter Talmühle"
+          },
+          {
+            "extension": "112",
+            "text": "Erholungsheim Waldfrieden"
+          },
+          {
+            "extension": "192",
+            "text": "Fossele, Gottlieb, Tabakwr."
+          },
+          {
+            "extension": "128",
+            "text": "Forstamt"
+          },
+          {
+            "extension": "229",
+            "text": "Försterei (Revier-) Naislach"
+          },
+          {
+            "extension": "200",
+            "text": "Frisch, Josef, Bankier, Zavelstein"
+          },
+          {
+            "extension": "111",
+            "text": "Gasthof z. Löwen, Sommerhardt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 963 993\" data-label=\"Table\">\n<table>\n<tr>\n<td>122</td>\n<td>Gemeindeverwaltung</td>\n<td>Bad Teinach</td>\n</tr>\n<tr>\n<td>169</td>\n<td>Gemeindeverwaltung</td>\n<td>Emberg</td>\n</tr>\n<tr>\n<td>118</td>\n<td>Gemeindeverwaltung</td>\n<td>Holzbronn</td>\n</tr>\n<tr>\n<td>135</td>\n<td>Gemeindeverwaltung</td>\n<td>Liebelsberg</td>\n</tr>\n<tr>\n<td>137</td>\n<td>Gemeindeverwaltung</td>\n<td>Neubulach</td>\n</tr>\n<tr>\n<td>206</td>\n<td>Gemeindeverwaltung</td>\n<td>Oberhaugstett</td>\n</tr>\n<tr>\n<td>168</td>\n<td>Gemeindeverwaltung</td>\n<td>Rötenbach</td>\n</tr>\n<tr>\n<td>167</td>\n<td>Gemeindeverwaltung</td>\n<td>Sonnenhardt</td>\n</tr>\n<tr>\n<td>131</td>\n<td>Gemeindeverwaltung</td>\n<td>Würzbach</td>\n</tr>\n<tr>\n<td>144</td>\n<td>Gemeindeverwaltung</td>\n<td>Zavelstein</td>\n</tr>\n<tr>\n<td>129</td>\n<td colspan=\"2\">von Georgii von Georgenau, Luise, Dachshof</td>\n</tr>\n<tr>\n<td>115</td>\n<td colspan=\"2\">Graubner, Dr. Friedr., Arzt</td>\n</tr>\n<tr>\n<td>237</td>\n<td colspan=\"2\">Großhans, Martin, Mineralw., Hint. Talatr. 7</td>\n</tr>\n<tr>\n<td>242</td>\n<td colspan=\"2\">Günzler, Dr. Heinr., Arzt, Neubulach</td>\n</tr>\n<tr>\n<td>221</td>\n<td colspan=\"2\">Hamann, Georg, Bäckerei</td>\n</tr>\n<tr>\n<td>139</td>\n<td colspan=\"2\">Hamann, Hans, Kolonialwr., Neubulach.</td>\n</tr>\n<tr>\n<td>176</td>\n<td colspan=\"2\">Hamann, Karl, Autoverkehr</td>\n</tr>\n<tr>\n<td>171</td>\n<td colspan=\"2\">Hanselmann, Heinr., Transp., Liebelsberg</td>\n</tr>\n<tr>\n<td>134</td>\n<td colspan=\"2\">Hof Waldeck, Ernst Dönges</td>\n</tr>\n<tr>\n<td>202</td>\n<td colspan=\"2\">Hotel Hirsch, Inhaber: Adolf Andler.</td>\n</tr>\n<tr>\n<td>191</td>\n<td>Kirchhorr</td>\n<td>Gottl Gaath v. Tamm</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 724 450\" data-label=\"Text\"><p><b>214 Krieg, Alir., Gasthof, Zavestein</b><br/><b>117 Krukenberg-Conze, Ww.</b><br/><b>215 Lang, Karl, Möbel, Teinachtal</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 13 991 993\" data-label=\"List-Group\"><p>125 Lautenbachhof.<br/>239 Lindenberger, Julius, Kaufhaus<br/>184 Lörcher, Michael, Gasthof, Schmieh.<br/>126 Maler, Gottlob, Autoverm., Neubulach<br/>204 Marmorwerke, Vereinigte, Emil Majer<br/>186 Gebr. Matt, mech. Werkst., Neubulach<br/>207 Mineralbr. Überk.-Teinach-Ditzenbach AG<br/>110 Mörsch, Karl, Gasthof z. Station Teinach<br/>208 NSDAP., Kreisbauernführer, Liebelsberg<br/>162 Ohngemach, E., Malermstr., Neubulach, Markt-<br/>straße 118<br/>161 Ohngemach, Gotthilf, Gemischtwr., Altbulach<br/>132 Pfarramt, Ev., Würzbach<br/>181 Gebr. Pfrommer, Gasth., Röttenbach<br/>219 Reichsbahn, Bahnhof u. Güterabfertigung<br/>141 Reichs-Postamt<br/>(212) Roller, Wilh., mech. Werkst.<br/>228 Schill, Emil, Viehhdlg., Neubulach<br/>138 Schill, Gottlieb, Metzgerei, Neubulach<br/>241 Schill, Wilh., Gasthaus z. Sonne, Neubulach<br/>225 Schönhardt, Karl, Baugesch., Zavelstein<br/>949 <i>Altes Schönebach nach Altmann</i></p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 981\" data-label=\"Text\"><p>216 Schumacher, Emil, Privater, Sommerhards<br/>205 Schwämmle, Feinkost<br/>212 Schwarzw. Baubeschlagfabr. Irlion &amp; Co., KG<br/>223 Dieselbe, Betr. in Zavelstein<br/>218 Söll, Fritz, Baumeister.<br/>(181) Spar- u. Darlehnskasse, Röttenbach<br/>238 Stadtpfarramt, Ev., Neubulach<br/>213 Stepper, Hans, Metzgerei.<br/>227 <b>Theurer, Johannes, Säge-, Hobel- und Spalt-<br/>werk, Station Bad Teinach</b><br/>234 Verwaltungs-AG<br/>164 Weidle, Friedr., Mineralwasser<br/>154 (à Wengen, Harry, Luftfahrtgeräte, Talmühle<br/>155 (Kr. Calw)<br/>166 Wentsch, Jak., Gasthaus, Altbulach<br/>217 Wentsch, Johs., Mühle.<br/>183 Wieland, Dr. Hugo, Zahnarzt<br/>165 Wohlgemuth, Michael, Bäckerei, H. Talstr. 15<br/>234 Wolfarth, Paul, Kfm., Telnachtal<br/>246 Zerweckh, Heinrich, Gemischtwaren</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Bad Tennstedt (Prov. Sachsen)",
+        "entries": [
+          {
+            "extension": "304",
+            "text": "Aissen, Bernh., Prozeßagent, Bahnhofstr. 582"
+          },
+          {
+            "extension": "315",
+            "text": "Allenhof, Selmar, Bauernf., Ostvorstadt 552"
+          },
+          {
+            "extension": "216",
+            "text": "Alshuth, Waldemar, Maurermstr."
+          },
+          {
+            "extension": "388",
+            "text": "Amtsgericht"
+          },
+          {
+            "extension": "432",
+            "text": "H. u. E. Angermeyer, Lehrerinnen, Her Schulg. 3"
+          },
+          {
+            "extension": "248",
+            "text": "Apotheke Bad Tennstedt, Werner John"
+          },
+          {
+            "extension": "446",
+            "text": "Apotheke, Inh. Bentz, Herbsleben"
+          },
+          {
+            "extension": "306",
+            "text": "Bank, Alwin, Fuhrgesch., Haussömmern"
+          },
+          {
+            "extension": "350",
+            "text": "Bauer, Mart., Tageblatt, Bahnhofstr. 581"
+          },
+          {
+            "extension": "222",
+            "text": "Baum, A., Schulleiter, Herbsleben, Schloß"
+          },
+          {
+            "extension": "434",
+            "text": "Bergmeyer, Edw., Bürgermeister, Herbsleben"
+          },
+          {
+            "extension": "414",
+            "text": "Bertuch, Emil, Sattlerei."
+          },
+          {
+            "extension": "443",
+            "text": "Bertuch, Paul, Rendant"
+          },
+          {
+            "extension": "266",
+            "text": "Bez. Abgabestelle Gartenbau, Her Bahnhof"
+          },
+          {
+            "extension": "453",
+            "text": "Blankenburg, Otto. Kolonialwr., Bruchstedt."
+          },
+          {
+            "extension": "305",
+            "text": "Blankenburg, Rich., Lederfr., Markt 134"
+          },
+          {
+            "extension": "301",
+            "text": "Blumeroth, M., Dentist, Kurstr."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Text\"><p>221 Brandt, Erich, Gartenbau, V. d. Brückentor 366<br/>441 Braun, Paul, Kohlen, Herbsleben.<br/>270 Brückner, Albert, Spediteur, Herbsleben<br/>335 Bürgermeister, Bad Tennstedt, Kurverw.<br/>252 Bürgermeister Bruchstedt<br/>454 Bürgermeister, Der, Rath. Herbsleben<br/>235 Bürgermeister u. Amtsvorst., Mittelsömmern<br/>263 Bürgermeister, Clettstedt<br/>268 Bürgermeister Nehrlich, Kleinballhausen<br/>376 Bürgermeister Strube, Ka Mühlh. Str. 97<br/>422 Dampfmolkerei Haussömmern.<br/>469 Dampfmolkerei Herbsleben.<br/>439 Degenhardt, Oskar, Saaten, Herbsleben.<br/>288 Degenhardt, Paul, Eisenwaren, Herbsleben.<br/>365 Dingel, C. G., Eisenwaren.<br/>360 Dorl, Paul, Kino, Schulgasse 14<br/>426 Dreyse, Alwin, Eisenwr., Herbsleben.<br/>314 Ebhardt, Edm., Drehmasch., Kleinvargla<br/>257 Eger, Robert, Viehhdlg., Herbsleben.<br/>447 Eisenhardt, Armin, Obermühle, Herbsleben.<br/>287 Eisenhardt H Elektr.-Werk Harhalahan</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 986 983\" data-label=\"Text\"><p>291 Eisenhardt, Kurt, Mat.-W., Herdsieden.<br/>318 Elektr. Licht- u. Kraftanlagen Paul Runze<br/>256 Ev. Pfarramt, Mittelsömmern<br/>247 v. Feilitzsch, Urban, Frhr., Rtbg. Clettstedt<br/>406 Fritz, Kantor, Kleinvargula.<br/>413 Garthof Nr., Manuf.- u. Modewaren.<br/>362 Gasthaus zum Adler, Inh. A. Dittrich<br/>364 Gasth. zur Aussicht, H. Herrling.<br/>329 Gasthaus zum Bahnhof, Inh. Forst<br/>259 Gasthaus Centralhalle, Inh. Blankenburg<br/>303 Gasth. Deutsches Haus, Herbsleben, Anger 1<br/>249 Gasthaus zum Mohren, K. Keppler<br/>448 Gasthof z. Deutschen Kaiser, Herbsleben<br/>322 Gasthof zum Hirsch, Inh. Schött<br/>312 Gasthof z. Löwen, Großballhausen<br/>427 Gasth. z. Schützen, Herbaleben.<br/>255 Gastwirtsch. R. Wittmann, Großurleben<br/>258 Gaswerk.<br/>353 Gemeindegasthaus Kutzleben, Langestr. 91<br/>445 Gendarmeriestation <i>Her</i> Ad.-Hitler-Str. 53<br/>330 Gewerbe- u. Landwirtschaft. Bank. eGmbH.</p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "kohlfabrikation, Steinweg 232",
+        "entries": [
+          {
+            "extension": "261",
+            "text": "Görbing, Walt., Gartenbau, Steinweg 232"
+          },
+          {
+            "extension": "344",
+            "text": "Hackel, Erna, Hebamme, Her Kirchg. 4"
+          },
+          {
+            "extension": "429",
+            "text": "Händel, Hugo, Gastw., Herbsleben."
+          },
+          {
+            "extension": "201",
+            "text": "Hartmann, Herm., Kohlen, Holz"
+          },
+          {
+            "extension": "223",
+            "text": "Hartung, Otto, Spedition, Ostvorstadt 396"
+          },
+          {
+            "extension": "241",
+            "text": "Hartung, R., landw. Maschinen, Bahnhofstr. 582"
+          },
+          {
+            "extension": "400",
+            "text": "Hause, Rich., Gemeindeschenke, Haussömmern"
+          },
+          {
+            "extension": "471",
+            "text": "Hauser, Kurt, Kolonialwr., Bahnhofstr. 473"
+          },
+          {
+            "extension": "310",
+            "text": "Hecht, Kurt, Bauer, Herbsleben"
+          },
+          {
+            "extension": "457",
+            "text": "Gebr. Heimbürger, Getreide, Mittelsömmern."
+          },
+          {
+            "extension": "225",
+            "text": "Heinemann, O., Gemüse, Her Moltkestr. 2"
+          },
+          {
+            "extension": "431",
+            "text": "Helbing, Bruno, Hutmann, Her Ratiborstr. 7"
+          },
+          {
+            "extension": "372",
+            "text": "Helmboldt, G., Bürgermstr., Hornsömmern 34"
+          },
+          {
+            "extension": "415",
+            "text": "Hendrich, Kurt, Baugesch., Kurstr. 393 de"
+          },
+          {
+            "extension": "300",
+            "text": "Hendrich, Paul, Baugeschäft"
+          },
+          {
+            "extension": "386",
+            "text": "Henning, Albin, Obst, Herbsleben"
+          },
+          {
+            "extension": "287",
+            "text": "Henning, Rich., Baumat., Herbsleben"
+          },
+          {
+            "extension": "442",
+            "text": "Hesse, Albert, Manufakturwr., Herbsleben."
+          },
+          {
+            "extension": "383",
+            "text": "Hirsch, E., Bürgermstr., Haussömmern"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 779 993\" data-label=\"Text\"><p>352 Hoffer, Rttgt. Roter Hof, Großballhausen<br/>326 Hofmann, Hugo, Öl- u. Schneidemühle.<br/>380 Hoppe, Osk., Gemeindeschänke, Bruchstedt<br/>373 Hotel zum Anker, Kurt Haupt<br/>290 Hubert, Gotthilf, Landw., Hausömmern.<br/>243 Hühn Nf., O., Hedw. Rudolph, Modewr.<br/>417 Hühn, Reinhold, Landw., Kleinurleben<br/>208 Hufeland, Alfred, Brauerei<br/>308 Hufeland, Gustav, Bahnhofstr.<br/>294 Janke, Dr. Martin, Arzt, Kurstr.<br/>402 Gebr. John, Landesprodukte, Hauptstr. 42<br/>388 John, W., Kies, Kleinballhausen, Anger 93<br/>449 Jordan, Dr. Gerhardt, Arzt, Herbsleben<br/>(449) Jordan, Dr. M., San.-Rat, Herbsleben<br/>336 Kalkuergelwerk u. Kartoffelfabr., Herbsleben.<br/>334 Kallenberg, Heinrich, Bankgeschäft<br/>346 Kayser, Alb., Landwirt, <i>Her</i> Hptstr. 34<br/>228 Kellner, Alfred, Bauer, Schulgasse 13<br/>339 Kellner, Willy, Fleischermeister.<br/>338 Kleinecke, B., Bäckerei, A.-Hitler-Str. 59<br/>209 Knauert, W., Gastw., Großballhausen<br/>294 Kähler Hans Gastwirt</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 780 990\" data-label=\"Text\"><p>366 Kohler, Otto, Kol.-W.<br/>333 Krämer, Paul, Gastw. i. Mittelsömmern.<br/>224 Kraftwerk Thüringen AG, Tennst.Str. 153<br/>237 Krah, Christian, Kurzw., Kleinballhausen<br/>232 Kramer, Wilh., Bäckerei, Steinweg 39<br/>450 Kühmstedt, Albin, Untermühle, <i>Her</i> Wallstr. 1<br/>309 Ldw. Ein- u. Verkaufsv., eGmbH, <i>Her</i> Schloßg. 2<br/>385 Lange, Friedrich, Landw., Kutzleben.<br/>412 Lange, Otto, Zimmerei, <i>Her</i> Henningsgasse 13<br/>250 Lehmann, Dr. H., Zahnarzt, Lindenstr. 382<br/>230 Leibing, Otto, Händler, Ostvorstadt 543<br/>323 List, Reinhold, Eisenhdlg.<br/>332 Lorenz, Chr., Samenzucht, Brückenstr. 13<br/>295 Luckner, Gerhard, Rep.-Werkst., Mittelsömmern, Hauptstr. 5<br/>421 von Lucius, Freifr., Schloß Kleinballhausen<br/>430 v. Lucius, Frhr., A., Landw., Kleinballhausen<br/>357 Gebr. v. Lucius, Ritterg., Großballhausen<br/>316 Ludwig, Oskar, Bahnhofstr. 482<br/>347 Meyer, Kurt, Amstvorsteher, Kutzleben<br/>204 Meyer, Willy, Musikdirektor.</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 778 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">Austria, Vorarlberg, Tirol, Vorarlberg</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>234</td>\n<td>Möser, A., Gastwirt, Kleinvargula, Hauptstr. 53</td>\n</tr>\n<tr>\n<td>358</td>\n<td>Mößler, Karl, Feinkost, Steinweg 227</td>\n</tr>\n<tr>\n<td>358</td>\n<td>Mößler, Walter, Vertr., Steinweg 227</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Molkerei, C. Seeck</td>\n</tr>\n<tr>\n<td>331</td>\n<td>Müller, Karl, Gasth., Herbsleben.</td>\n</tr>\n<tr>\n<td>231</td>\n<td>Nahrungmittelwerk Ingelfingen, <i>Her</i> Ad.-Hitler-<br/>Straße 59</td>\n</tr>\n<tr>\n<td>213</td>\n<td>Naumann, Osk., Spedition</td>\n</tr>\n<tr>\n<td>369</td>\n<td>Neubauer, Gerhard, Viehgesch., Herbsleben.</td>\n</tr>\n<tr>\n<td>381</td>\n<td>Neumeister, Hermann, Bedachungsgesch.</td>\n</tr>\n<tr>\n<td>272</td>\n<td>Nordmann, Art., Obst, Bahnhofstr. 473</td>\n</tr>\n<tr>\n<td>280</td>\n<td>NSKK. Motorsturm 11/M 142, Anger 509</td>\n</tr>\n<tr>\n<td>212</td>\n<td>Ortolph jr., Julius, Kfm., Markt 92</td>\n</tr>\n<tr>\n<td>260</td>\n<td>Ortskrankenkasse Langensalza, Tennstedt</td>\n</tr>\n<tr>\n<td>262</td>\n<td>Pfarramt, Großballhausen Nr. 120</td>\n</tr>\n<tr>\n<td>(443)</td>\n<td>Pfarramt, Evangelisches</td>\n</tr>\n<tr>\n<td>277</td>\n<td>Pfeiffer, A., Bürgermstr., Kleinvargula, Hptstr.</td>\n</tr>\n<tr>\n<td>348</td>\n<td>Pfennig, W., Landmaschinen, Darrg. 53</td>\n</tr>\n<tr>\n<td>281</td>\n<td>Posse, Edwin, Gartenbau, <i>Ku</i> Mühlgasse 74</td>\n</tr>\n<tr>\n<td>451</td>\n<td>Ratskeller</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 780 974\" data-label=\"List-Group\"><p>205 Reichsbahn, Güterabfertig. Bad Tennstedt.<br/>419 Reichsbahn, Güterabfertig. Herbsleben.<br/>470 Reichspost, Postamt<br/>328 Reindke, Paul, Saatenbetr., Bahnhofstr. 472b<br/>208 Riebeck-Brauerei AG, Niederl., Weil. Höhle 583<br/>337 Rintisch, Ernst, Gärtnerei, <i>Her</i> Hauptstr. 3<br/>436 Ritter, Alb., Herbsleben, Herrengasse 6<br/>217 Rödiger, Paul, Lehrer, Kleinballhausen<br/>325 Rost, Berth., Baugeesch., Kleinurleben<br/>390 Rückbeil, Otto, Verwalter, Kleinballhausen<br/>211 Ruhmlieb, Louis, Fleischermstr., Schuhmarkt.<br/><b>309 Saatbaugenossenschaft Herbsleben</b><br/>e. G. m. b. H., Herbsleben (Thür.)<br/>370 Sahlender, Franz, Rittergut, Kleinvargula<br/>486 Schinköth, Willy, Kleinballhausen<br/>298 Schloß Herbsleben, Oskar Becker, Herbsleben<br/>355 Schmalfuß, Dr. A., Arzt, <i>Ku</i> Tennst. Str. 162<br/>274 Schmidt, Karl, Schlosserei, Brückenstr. 25<br/>356 Schneppe, Paul, Bäckerei, Markt 223<br/>233 Schött, Selmar, Tabakwr., Herbsleben</p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 777 978\" data-label=\"Text\"><p>220 Schütze, Paul, Autoreparatur<br/>428 Schützenhaus, Inh. Karl Woellner<br/>227 Schuhhaus C. Schenk Nf., Schuhmarkt 12<br/>275 Schule, Rektor Picht, Tennstedt<br/>278 Schwanengel, Hugo, Amtsvorst., Bruchstedt<br/>340 Seeber, A., Fleischermstr., <i>Her</i> Ad. Hitler Str. 52<br/>345 Seeber, Doris, Kol.-W., <i>Her</i> Schulgasse 10<br/>392 Seiffart, Rud., Ortsbauernf., Großurleben<br/>202 Seydel, C. F., Papierfabrik<br/>244 Seydel, Emma<br/>203 Fr. Seydel jr., Tütenfabrik<br/>271 Spark. f. vorm. Herzogt. Gotha, Herbsleben<br/>291 Spar- u. Darlehnskasse eGmbH, <i>Her</i> Anger 13<br/>458 Stadtsparkasse mit Bankabteilung.<br/>276 Stötzer, Rudi, Lehrer, <i>Her</i> Ratiborstr. 12<br/>296 Steuckardt, Oskar, Landw., Herbsleben<br/>420 Steuckardt, Victor, Bauer, <i>Her</i> Hitlerstr. 21<br/>342 Superintendenzur Großurleben<br/>452 <b>Heinrich Teubner</b> Kartoffel- u. Obstgroß-<br/>handlung, Herbsleben (Thür.)</p><p>---</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 780 980\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>439</th>\n<th>Thüringer Saatén-Vertrieb<br/>Oskar Degenhardt<br/>Herbsleben (Thür.)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>246</td>\n<td>Tonwerk Tennstedt, Bahnhofstr. 482</td>\n</tr>\n<tr>\n<td>425</td>\n<td>Verbrauchsgenossenschaft eGmbH, Herbsleben</td>\n</tr>\n<tr>\n<td>382</td>\n<td>Vogt, Ernst, Viehgeschäft, Markt 81</td>\n</tr>\n<tr>\n<td>455</td>\n<td>Volksschule Herbsleben</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Vollrath, W., Lederfabrik</td>\n</tr>\n<tr>\n<td>240</td>\n<td>Waldsack, Horst A., Rittergut, Hörnsommern</td>\n</tr>\n<tr>\n<td>317</td>\n<td>Wadsack, Dr. Joach., Landw., Kutzleben</td>\n</tr>\n<tr>\n<td>286</td>\n<td>Otto Wagner<br/>Thür. landw. Saatenstelle<br/>Herbsleben (Thür.)</td>\n</tr>\n<tr>\n<td>343</td>\n<td>Waldmann, Ludw., Elektro, <i>Her</i> Hauptstr. 48</td>\n</tr>\n<tr>\n<td>226</td>\n<td>Weiß, Kurt, Haussömmern, Dorfstr. 44</td>\n</tr>\n<tr>\n<td>320</td>\n<td>Werner, Otto, Tierarzt.</td>\n</tr>\n<tr>\n<td>245</td>\n<td>Wilhelms, Dr. Albert, Rechtsanwalt [N]</td>\n</tr>\n<tr>\n<td>215</td>\n<td>Zeyß, Alfred, Mühlenbes.</td>\n</tr>\n<tr>\n<td>229</td>\n<td>Zopf, Fr., Installationsgeschäft</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page, possibly a separator or the back of a document from a 1942 German telephone directory. It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

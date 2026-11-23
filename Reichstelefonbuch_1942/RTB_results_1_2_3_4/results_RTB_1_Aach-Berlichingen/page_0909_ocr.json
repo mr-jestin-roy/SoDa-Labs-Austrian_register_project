@@ -1,0 +1,942 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"247 16 992 992\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td data-bbox=\"253 88 375 218\">\n        Sammel-<br/>Nr.<br/>A3 35 65\n      </td>\n<td data-bbox=\"382 21 988 288\">\n        { <b>Herbig-Haarhaus A.-G.</b><br/>\n<b>Lackfabrik</b><br/>\n        Werk Wien-Vösendorf,<br/>\n        Wien 50, Wiedner Hauptstr. 40. T Herbig<br/>\n        Postsparkassenkonto: Wien 119901\n      </td>\n</tr>\n<tr>\n<td data-bbox=\"253 313 375 353\">\n        B3 34 20\n      </td>\n<td data-bbox=\"382 288 988 378\">\n<b>Gebrüder Jirschik</b>\n</td>\n</tr>\n<tr>\n<td data-bbox=\"268 488 375 513\">\n        .....\n      </td>\n<td data-bbox=\"382 378 988 558\">\n<b>Farben- und Lackfabrik,</b><br/>\n        Wien XV/101, Ullmannstraße 35<br/>\n<b>Dieselben,</b> Wien XXIV-Brunn a. G.<br/>\n        Wiener Str. 66. Ruf Mödling 264\n      </td>\n</tr>\n<tr>\n<td data-bbox=\"253 583 375 623\">\n        B1 10 29\n      </td>\n<td data-bbox=\"382 558 988 743\">\n<b>A. Kailan</b> Fabrikation von<br/>\n        Farben, Lacken,<br/>\n        Firnis, chemischen Produkten, Wien<br/>\n        XIX/119, Greinergasse 30\n      </td>\n</tr>\n<tr>\n<td data-bbox=\"253 763 375 803\">\n        B5 15 00\n      </td>\n<td data-bbox=\"382 743 988 968\">\n<b>Reitz &amp; Co.</b> Farben-<br/>\n        großhandlung,<br/>\n        Ölfarben- und Kittfabrikation,<br/>\n        Wien IX/66, Platz der Sudetendeut-<br/>\n        schen 5. P Wien 108702\n      </td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"243 0 999 145\" data-label=\"Text\"><p>B2 62 59 } <b>Lack- und Farbenfabrik,</b><br/>B2 03 69 } Wien VI/56, Linke Wienzeile 16</p></div><div data-bbox=\"243 145 999 381\" data-label=\"Text\"><p>R3 40 40 } <b>Steppan &amp; Co.</b> Lackfabrik<br/>R3 30 84 } Generalvertretung<br/>für Duco und Autoducolux<br/>XII/87, Wittmayerg. 6. P Wien 58432</p></div><div data-bbox=\"243 381 999 616\" data-label=\"Text\"><p>R1 32 62 } <b>Striz &amp; Schischik „Farbenhof“</b><br/>U4 71 75Z } Großvertrieb von Farben, Lacken und<br/>Wirtschaftsartikeln, Wien X/75, Sic-<br/>cardsburggasse 74</p></div><div data-bbox=\"243 616 999 821\" data-label=\"Text\"><p>R1 45 44 } <b>„Tefilak“</b> Groß- Ein- und<br/>R1 55 44 } Verkaufsgenossenschaft<br/>für Maler u. Lackierer e. G. m. b. H.,<br/>X/75, Wielandgasse 5</p></div><div data-bbox=\"243 821 999 986\" data-label=\"Text\"><p>F2 24 51 } <b>Wagner, Vinzenz</b>, Herstellung von Lacken,<br/>F2 24 52 } Farben, Firnissen, Kitt, Emaillackfarben,<br/>Nitrozelluloselacke, Linoleumpasta,</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Wien-Hinterbrühl.",
+        "entries": []
+      },
+      {
+        "region_name": "Ludwig Marx",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "3499. Lackierereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"262 19 970 937\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Hans Felber",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Krems (Donau) [Niederdonau].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"321 33 997 196\" data-label=\"Text\"><p>885 <b>Weger Wolff &amp; Co. K.-G.,</b> Maler-Tüncher-,<br/>Lackiergeschäft, Schopperstr. 10</p></div><div data-bbox=\"251 186 394 281\" data-label=\"Text\"><p><b>Wien.</b></p></div><div data-bbox=\"251 330 382 404\" data-label=\"Text\"><p>R1 09 60</p></div><div data-bbox=\"491 291 899 425\" data-label=\"Text\"><p><b>Robert Fiala</b></p></div><div data-bbox=\"391 447 997 684\" data-label=\"Text\"><p>Maler-, Anstreicher- und Lackierermeister,<br/>Spezialität für Möbel, Wien X/75,<br/>Antonsplatz 26</p></div><div data-bbox=\"303 721 587 792\" data-label=\"Text\"><p>Reichs-Telefonbuch</p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"624 718 997 875\" data-label=\"Text\"><p><b>3497. Lack</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "3500. Lackierspritzanlagen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Holzhausen b. Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"181 259 808 343\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Bernsbach (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Emmerich (Rhpr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"186 256 808 339\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"246 250 750 343\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "St. Goar (Rhpfr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"233 256 760 761\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"175 236 814 352\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Neuß",
+        "entries": []
+      },
+      {
+        "region_name": "Wien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 10 998 904\" data-label=\"Text\"><p><b>R4 60 85 Beckacite Kunstharzfabrik Gesellschaft<br/>m. b. H., Wien XXII, Breitenleer-<br/>straße 424, Postanschrift Wien 146</b></p></div>",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "3507. Lacktrockenanlagen,Bau von",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Radebeul-Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"145 244 856 826\"}]",
+      "cells": [
+        "col2_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 125 480 450\" data-label=\"Text\"><p><b>Oelde (Westf.).</b></p></div><div data-bbox=\"0 445 810 915\" data-label=\"Text\"><p>SmI.-Nr. 222 { <b>WESTFALIA SEPARATOR AG.</b></p></div>",
+      "cells": [
+        "col2_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"186 250 807 335\"}]",
+      "cells": [
+        "col2_sec19.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Geisweid (Kr. Siegen).",
+        "entries": []
+      },
+      {
+        "region_name": "Gotha.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec21.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Haiger (Dillkreis).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "e und Lackfarben — 3513. La",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Emil Böhme",
+        "entries": []
+      },
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Südladenbau",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 46 908 977\" data-label=\"Text\"><p><b>„Süschala“</b><br/><b>Süddeutsche</b><br/><b>Schaufenster- u. Ladenbau</b><br/><b>G. m. b. H.</b><br/><b>Stuttgart-Zuffenhausen</b><br/><b>Stammheimer Str. 10/18</b><br/><b>Fernsprecher: / Telegr.-Adr.: Ladenbau</b><br/><b>80080. 80687 / P Stuttgart 12517</b></p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"86 156 92 178\" data-label=\"Text\"><p>1</p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"67 222 915 779\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Coburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Erlau (Kr. Rochlitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Gotha.",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Mitnacht-Ladenbau",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "3512. Lagereinrichtungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Leichlingen (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "3513. Lagerhäuser",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Aken (Elbe).",
+        "entries": []
+      },
+      {
+        "region_name": "Amberg (Oberpfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Andorf (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 23 796 135\" data-label=\"Text\"><p>35 57 44 <b>Hamburg-Lehrter Speicher G. m. b. H.</b>,<br/>Berlin NW 40, Invalidenstr. 50</p></div><div data-bbox=\"18 132 800 244\" data-label=\"Text\"><p>75 02 96 <b>Lagerhaus Hafen-Tempelhof GmbH</b>,<br/>Berlin-Tempelhof, Berliner Str. 107/110</p></div><div data-bbox=\"7 255 796 442\" data-label=\"Text\"><p><b>Böhmisch Leipa (Sudetenland)</b><br/>277{ Lode, Emil, Spedition u. Lagerei, Fern-<br/>75{ verkehr, Renngasse 850 u. Töpfergasse 859</p></div><div data-bbox=\"7 453 764 640\" data-label=\"Text\"><p><b>Bramsche b. Osnabrück.</b><br/>387{ Eilers, August, Spedition und Lagerei,<br/>388{ Bramsche (Oldenburg)</p></div><div data-bbox=\"7 652 228 718\" data-label=\"Text\"><p><b>Bremen.</b></p></div><div data-bbox=\"56 726 735 890\" data-label=\"Text\"><p>21701{ <b>J. H. Bachmann</b><br/>21801{ Spedition, Umschlag, Lagerung,<br/>Getreidesilos, Schlachte 15/18</p></div><div data-bbox=\"7 900 453 979\" data-label=\"Text\"><p><b>Brünn (Mähren).</b></p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"61 146 162 343\"}, {\"label\": \"Text\", \"bbox\": \"222 54 589 401\"}, {\"label\": \"Text\", \"bbox\": \"331 490 470 710\"}, {\"label\": \"Text\", \"bbox\": \"209 717 603 941\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": {
+      "raw": "<div data-bbox=\"37 33 767 395\" data-label=\"Text\"><p><b>Wilhelm Gullich</b> Spedition<br/>Lagerung</p></div><div data-bbox=\"154 399 642 958\" data-label=\"Text\"><p>Verzollung, Sammelverkehr<br/>Chemnitz-Süd, Lutherstraße 74<br/>Fernsprecher 54 154</p></div>",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with minor scanning artifacts.\"/></div>",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  }
+]

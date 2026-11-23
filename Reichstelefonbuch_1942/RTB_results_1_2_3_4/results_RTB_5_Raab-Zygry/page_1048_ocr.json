@@ -1,0 +1,464 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "1028",
+            "text": "(Band V) Wien: Roll"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 10 998 967\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>U1</td>\n<td>95 00</td>\n<td>URolle, Herb., Werbeber., III/40, Weyrg. 5</td>\n</tr>\n<tr>\n<td>A5</td>\n<td>40 11</td>\n<td>Ders., Wohnung, XIII/89, St.Veit-G. 12</td>\n</tr>\n<tr>\n<td>A5</td>\n<td>33 47</td>\n<td>Rolleczek, Th., Prok., XIII/89, Weinz.G. 9</td>\n</tr>\n<tr>\n<td>A5</td>\n<td>68 75</td>\n<td>Rolleder, Dr. Anton, Arzt, XIII/89, Fais-<br/>stauerg. 123</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>17 78</td>\n<td>Rolleder, Anton, Gerichtsr., XIII/89,<br/>LinzerStr. 428</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>16 73</td>\n<td>Rolleder, Herb., I/1, Himmelpf.G. 19</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>85 35</td>\n<td>Rolleder, K. A., Blumen, IV/50, Argent.<br/>Straße 1</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>77 61</td>\n<td>Ders., Wohn., IV/50, Apfelg. 6</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>53 45</td>\n<td>Roller, Betty, IX/66, WähringerStr. 16</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>89 34</td>\n<td>Roller, Dr. D. A., Arzt, III/40, Landstr.<br/>Hauptstr. 136</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>31 51</td>\n<td>B Roller, Ella, IV/50, Preßg. 29</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>21 04</td>\n<td>URoller, Emil, Beamter, XVIII/110,<br/>Schulg. 90</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>79 78</td>\n<td>Roller, F., Kfm., XVI/107, Neulerchenf.<br/>Straße 29</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>02 42</td>\n<td>Roller, Hans, I/1, Eschenbachg. 7</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>37 84</td>\n<td>Roller, Heinr., Vertr., XX/20, Staudinger-<br/>gasse 17</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>A2 31 80</td>\n<td>Roller, Henriette, XVIII/110, Wallrißg. 116</td>\n</tr>\n<tr>\n<td>B2 84 93</td>\n<td><b>Hermann Roller</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Kleiderfabrik, Wien VI/56, Webgasse 16</b></td>\n</tr>\n<tr>\n<td>B3 22 44</td>\n<td>Roller's Ww. J., Hotel, VII/62, Neubaug. 46</td>\n</tr>\n<tr>\n<td>A5 33 74</td>\n<td>Roller, Ludwig, Dr., XIII/89, Trauttmannsds. G. 34</td>\n</tr>\n<tr>\n<td>U4 79 14</td>\n<td>Roller, Maria, I/1, Bösendorferstr. 3</td>\n</tr>\n<tr>\n<td>R4 29 97</td>\n<td>Roller, Oskar, Eispulfer, II/27, Wohlmutsstr. 25</td>\n</tr>\n<tr>\n<td>A5 43 39</td>\n<td>Roller, Robert, XIII/89, LainzerStr. 77</td>\n</tr>\n<tr>\n<td>B1 50 02</td>\n<td>Rollett, Edwin, Dr., XIX/117, Langackergasse 7a</td>\n</tr>\n<tr>\n<td>A1 26 01</td>\n<td>Rollet, Karl, Dr., IX/66, Boltzmanng. 22</td>\n</tr>\n<tr>\n<td>R3 93 32</td>\n<td>Rollig, Franz, Schneider, XIII/101, SechshauserStr. 85</td>\n</tr>\n<tr>\n<td>A1 94 25</td>\n<td>Rollig, J., H. Ing., IX/66, Liechtenst. Str. 25</td>\n</tr>\n<tr>\n<td>U2 46 87</td>\n<td>Rollinger, F. R., Ing., I/1, Graben 31</td>\n</tr>\n<tr>\n<td>U2 00 33</td>\n<td rowspan=\"2\">\n<b>Rollinger, F., Fabrikation von Geschäftsbüchern, Buch-, Kunst- und Steindruckerei, Buchbinderei und Rastrleranstalt, Bürobedarf. Kontorainrichtungen. Wien I/1.</b>\n</td>\n</tr>\n<tr>\n<td>U2 44 14</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"368 0 632 39\" data-label=\"Page-Header\"><p>(KONTINUIRUNG. 13)</p></div><div data-bbox=\"227 42 998 988\" data-label=\"List-Group\"><p>B4 86 03 Rollinger, Franz, Dipl.Kfm., XVIII/110,<br/>Jos.Hackel-G. 9</p><p>B5 42 77 Rollitschek, Eugenie, III/40, M.Reger-G.4</p><p>R1 03 04 Rolly, Franz, X/75, TriesterStr. 75</p><p>A5 22 27 Rolly, Walter, Dipl.-Kfm., XIII/89,<br/>Auhofstr. 4</p><p>B3 44 28 Rolny, Alois, Notar, Wien VII/62,<br/>Mariahilfer Str. 48. P Wien 123965</p><p>R2 52 24 Derselbe, Wohnung, I/1, Biberstraße 4</p><p>U5 33 15 U Rolny, Richard, Knopffbr., XVI/107,<br/>OttakringerStr. 164</p><p>U5 23 76 L Ders., Wohnung, XVI/107, Gallitzinstr. 58</p><p>A1 23 19 Rolz, Franz, Ing., XVIII/110, Gentzg. 144</p><p>B5 53 78 Rolz, jr. Franz, Dipl.-Ing., II/27, Schüt-<br/>telstr. 81</p><p>U2 30 32 Rom, Ernst, Ing., I/1, Wildpretmarkt 1</p><p>A1 24 36 Rom, Ernst, Oberst, XVIII/110, Micha-<br/>elerstr. 9</p><p>A6 28 39 Rom, F. H., Schuhrepar., XXI/141,<br/>Schloßh.Str. 14</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "222",
+            "text": "01 022 20011, 222 20011, 222 200, 222 200, 222 200111. 0.0 A2 02 18 Rom u. Kresse, Feinkost, VIII/65, Josef- städterStr. 27 B1 47 39 Romako, Otto, Oberst, XIX/117, Hohe Warte 13 R2 69 04 Roman, Adolf, Uhrmacher, I/1, Doro- theergasse 14 U2 97 73 Derselbe, I/1, Wallnerstr. 2 B3 11 71L Roman, Franz, Uhrmacher, VII/62, Kai- serstr. 8 U1 48 64 Roman, Rosa, III/40, Kegelgasse 41 A2 02 64U Romanek, Dr., Romana, Ärztin, XVIII/110, Martinstr. 28 A5 63 57 Romanik, Felix, Studienrat, XIII/89, Auhofstr. 24 B5 78 46 Romann, Johann, Tischlerei, III/40, Kleistg. 3 B3 41 08L Romano, Alois, Klempererei, VII/62, Neubaug. 59 U1 52 57 „Romanova“ Vertriebsges. f. Min. Ölprod. GmbH, Mannswörth"
+          },
+          {
+            "extension": "222",
+            "text": "02 022 20011, 222 20011, 222 200, 222 200, 222 200111. 0.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"217 0 992 972\" data-label=\"Text\"><table><tbody><tr><td>B4 18 77</td><td>Romanowsky, Max, Studienrat, XVII/107, Geblerg. 60</td></tr><tr><td>B1 05 61</td><td>Romberg, Willy, Vertr., XIX/114, Neust. a. Walde 12</td></tr><tr><td>A3 80 20</td><td>„Rombus“ Patent, A. Blaha, VI/56, Webgasse 4</td></tr><tr><td>A2 71 81Z</td><td>Romen, S., Kfm., IX/66, Währ.Str. 3</td></tr><tr><td>R4 39 52</td><td rowspan=\"2\">Romer, Arpad, Möbeltransportunternehmen, Speditionsgeschäft, Wien XX/20, Salzachstraße 24</td></tr><tr><td>A4 12 66</td></tr><tr><td>U2 62 93</td><td>Romfeld, A., Uhren, I/1, Wippling.Str. 18</td></tr><tr><td>R4 01 57U</td><td>Romich, Jos., Ing., II/27, Alliiertenstr. 16</td></tr><tr><td>A1 50 91</td><td>Romich, Dr. Siegfried, Arzt, IX/66, Nußdorf.Str. 72</td></tr><tr><td>A1 10 93</td><td>Romig, Wilhelm, Fbkt., XVIII/110, Sternwartestr. 44</td></tr><tr><td>A5 36 37</td><td>Rommel, Antonie, Ww., XIII/89, Kremserg. 17</td></tr><tr><td>R6 24 77</td><td>Rommel, Dr. Otto, Hofrat, XVIII/114, Geyerg. 5</td></tr></tbody></table></div><div data-bbox=\"217 972 977 993\" data-label=\"Page-Footer\"><p>THE NATIONAL TELEPHONE DIRECTORY OF AUSTRIA 1942</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Straße 70",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "— Rossmannith",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Büromöbel und -maschinen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Platz 4",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>IV/50, Heumühlg.</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>91</td>\n<td>81B</td>\n<td>Rosa, Adele, IV/50, Heumühlg. 16</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>73</td>\n<td>21</td>\n<td>Rosa, Anton, Autorepar., IV/50 Heumühlg. 15</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>70</td>\n<td>88</td>\n<td>Rosa, Carl, Kühlanl., VIII/65, Pfeilg. 9</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>77</td>\n<td>30</td>\n<td>Rosa, Eleonore, II/27, Castellezg. 11</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>21</td>\n<td>62L</td>\n<td>Rosa, Emil, Reg.-Rat, II/27, Augarten, Wäschestöckel</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>91</td>\n<td>60B</td>\n<td>Rosa, Lucy, III/40, Rasum.-G. 27</td>\n</tr>\n<tr>\n<td>A5</td>\n<td>25</td>\n<td>44</td>\n<td>Rosak, Dr. Maria A., Ärztin, XIV/89, Jenullg. 3</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>78</td>\n<td>73</td>\n<td>Rosak, Michael, Ing., V/55, Schönbr. Str. 120</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>23</td>\n<td>00</td>\n<td>Rosak, Vally, XII/82, Gottsl. G. 3</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>05</td>\n<td>87</td>\n<td>Rosam, Alex., Leim, V/55, Luftg. 3</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>00</td>\n<td>30</td>\n<td>Rosam, Karl, Sachverst., XII/82, Aichholzg. 9</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>20</td>\n<td>88</td>\n<td>Rosanelli, Adolf, Anstreicher, V/55, Bandgasse 3</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>22</td>\n<td>77</td>\n<td>Rosanelli, Josefine, D.-Kleider, V/55, Reinpr. Str. 30</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>53</td>\n<td>77</td>\n<td>Rosar, Annie, XVIII/110, Währinger</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 9 998 995\" data-label=\"Text\"><table><tbody><tr><td>R5 30 44</td><td>v. Rosas, Hedw. Louise, IX/66, Boltzmanngasse 21</td></tr><tr><td>U2 87 06</td><td>Rosch, Margarita, I/1, HoherMarkt 8</td></tr><tr><td>B1 21 59</td><td>Roschanek, Cornelia, XIX/119, Grinzing. Straße 70</td></tr><tr><td>R3 24 18</td><td>Roscher, Gg., Transporte, XV/101, Sechsh. Straße 17</td></tr><tr><td>A4 41 89</td><td>Roscher, Hugo, XX/20, Pappenheimg. 37</td></tr><tr><td>U1 03 77</td><td>Roscher, Maria, XI/79, Strindbergg. 1</td></tr><tr><td>B5 97 49</td><td>Roscher, Marie, III/40, Marxergasse 37</td></tr><tr><td>R2 87 49</td><td>Roscher, Rosa, D.-Kleider, I/1, Franzisk. Platz 5</td></tr><tr><td>B2 02 82</td><td>Roschger, Karl, Ing., VI/56, Mariah. Straße 49</td></tr><tr><td>U1 21 55U</td><td>Roschinsky, Joh., Maler, III/40, Khunn-gasse 22</td></tr><tr><td>A2 13 40L</td><td>Roschitz, Josef, Möbel, VIII/65, Lerchenf. Straße 78</td></tr><tr><td>B5 87 92</td><td>Roschitz-Roschitzberg, Emil, Oberst, III/40, Hafeng. 15</td></tr><tr><td>R2 20 70</td><td>Roschlo Amalia Clathaus YTT/22</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td></td>\n<td></td>\n<td>Wienerstr. 46</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>20 26</td>\n<td>Roschka, A., Ing., IV/50, Brucknerstr. 4</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>80 31</td>\n<td>Ders., Wohn., IV/50, Wied.Gürtel 60</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>20 29</td>\n<td>Roschka, Josef, Restaur., III/40, Landstr.<br/>Hauptstr. 40</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>70 07</td>\n<td>Roschlapill, O., Kinobes., IX/66, Scheuch-<br/>gasse 2</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>20 36</td>\n<td>Ders., Wohn., IX/66, Alserb.Str. 31</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>01 41</td>\n<td>Roschnik, Janet, XVIII/110, Czartoryski-<br/>gasse 6</td>\n</tr>\n<tr>\n<td>R6</td>\n<td>29 18</td>\n<td>Roschnik, Polyxena, XVIII/110, Schöffel-<br/>gasse 22</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>78 16</td>\n<td>Rose, Fritz, V/55, Schönbr.Str. 145</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>62 91</td>\n<td>Rose, Dr. Heinr., Arzt, III/40, Landstr.<br/>Hauptstr. 27</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>71 25B</td>\n<td>Rose, Salomon, VII/62, Kircheng. 24</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>70 32</td>\n<td>Rosee, Lotte, III/40, Traung. 7</td>\n</tr>\n<tr>\n<td>A6</td>\n<td>03 47</td>\n<td>Rosen-Apotheke, Mr. d. Pharm. Anton<br/>Gruber, Wien XXI/141, Brünner Str. 37</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>88 40</td>\n<td>Rosen, Else, XII/87, Schönbr.Allee 30</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>26 82</td>\n<td>Rosen, Lea, Vertrgn., IX/66, Serviteng. 17</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "U4 86 57 Rosenauer, Felix, IV/50, Paniglg. 16",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"943 775 992 912\" data-label=\"Page-Footer\"><p><b>B1</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 10 998 986\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>B2 44 12</td>\n<td>Rosenbauer, René, Oberstlttn., VI/56,<br/>L.Wienzeile 48</td>\n</tr>\n<tr>\n<td>R1 36 92</td>\n<td>Rosenbaum, J., Amtsr., X/75, Quell.Str. 211</td>\n</tr>\n<tr>\n<td>A1 84 87</td>\n<td>Rosenberg, Erich, Dipl.-Ing., XIX/117,<br/>Blaasstr. 6</td>\n</tr>\n<tr>\n<td>B2 81 16U</td>\n<td>Rosenberg, Gabriele, Redakteurin, VI/56,<br/>Stumperg. 30</td>\n</tr>\n<tr>\n<td>R3 23 62</td>\n<td>Rosenberg, Grete, XII/82, Tivolig. 74</td>\n</tr>\n<tr>\n<td>A3 54 96</td>\n<td>Rosenberg, Hugo, Kürschnerei, Wien<br/>VI/56, Gumpendorfer Straße 26</td>\n</tr>\n<tr>\n<td>A3 44 46</td>\n<td>Derselbe, Wohnung, Wien VI/56, Fill-<br/>gradergasse 12</td>\n</tr>\n<tr>\n<td>A2 39 23</td>\n<td>Rosenberg, Johann, VIII/65, LangeG. 2</td>\n</tr>\n<tr>\n<td>B2 92 32</td>\n<td>Rosenberg, Karl, Kürschner, VI/56,<br/>Corneliusg. 4</td>\n</tr>\n<tr>\n<td>U4 71 60L</td>\n<td>Rosenberg, Marie, IV/50, Karolineng. 19</td>\n</tr>\n<tr>\n<td>A5 23 69</td>\n<td>Rosenberg, Marie, XIII/89, Auhofstr. 22</td>\n</tr>\n<tr>\n<td>A1 24 74</td>\n<td>Rosenberg, S., A., Insp., XVIII/110,<br/>Gentzg. 57</td>\n</tr>\n<tr>\n<td>B5 80 62</td>\n<td>Rosenberg u. Fleischner, Bürstenfabr.,<br/>III/40, Obere Viaduktg. 32</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 17 993 965\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td>Lorberg. 6</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A3</td>\n<td>01 30</td>\n<td>Rosenberger,</td>\n<td>Berta,</td>\n<td>Essigfabr., V/50,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Garteng. 10</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>U1</td>\n<td>68 81</td>\n<td>Rosenberger,</td>\n<td>Franz,</td>\n<td>III/40, O.Viad.G.28</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>11 78U</td>\n<td>Rosenberger,</td>\n<td>Franz,</td>\n<td>Kapellmstr., V/55,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Reinprechtsd. Str. 29</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R3</td>\n<td>39 28</td>\n<td>Rosenberger,</td>\n<td>Josef,</td>\n<td>Gastw., XII/82,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Meidl.Hauptstr. 40</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B2</td>\n<td>71 40U</td>\n<td>Rosenberger,</td>\n<td>Ludw.,</td>\n<td>Feinkost, V/55,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Leitgeb. 10</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>U1</td>\n<td>02 50</td>\n<td>Rosenberger,</td>\n<td>Marianne,</td>\n<td>Schwester, XI/79,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Schneiderg. 7</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B4</td>\n<td>72 83</td>\n<td>Rosenberger,</td>\n<td>Dr. Oskar Israel,</td>\n<td>jüd. Kranken-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>behandler,</td>\n<td>VIII/65,</td>\n<td>Blindeng. 36</td>\n</tr>\n<tr>\n<td>U5</td>\n<td>31 69L</td>\n<td>Rosenberger,</td>\n<td>Theodor,</td>\n<td>XVII/107, Domes-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>platz 1</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R4</td>\n<td>76 89</td>\n<td>Rosenberger,</td>\n<td>Theresia,</td>\n<td>Gasthaus, II/27,</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Kneippg. 8</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B3</td>\n<td>89 76</td>\n<td>Rosenblatt,</td>\n<td>Juliane,</td>\n<td>Ww. I/1, Bellar.Str.6</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>61 73Z</td>\n<td>Rosenbräuer,</td>\n<td>Max,</td>\n<td>Vortragskünstler, II/</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"214 965 607 992\" data-label=\"Page-Footer\">\n<p>© 1942 Reichstelefonbuch</p>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 0 998 997\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>A3 44 21</td>\n<td>Rosenbusch, Ad., Molkerei, V/55, Ob. Amtsh.G. 40</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B2 81 03B</td>\n<td>Rosenecker, Edu., Radio, VI/56, Gumpendorfer Str. 80</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B5 51 17</td>\n<td>Rosenegger, Hubert, III/40, Reisnerstr. 27</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>U4 47 81</td>\n<td>Rosenfeld, Alex., Kfm., IV/50, Goldegg.22</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R4 47 77</td>\n<td>Rosenfeld, Anna, II/27, Pillersd.G. 8</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B5 71 63</td>\n<td>Rosenfeld, Ernst, Vertr., III/40, Klimschgasse 6</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B3 01 53Z</td>\n<td>Rosenfeld, Franziska, VII/62, Neustiftg.10</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B1 35 87</td>\n<td>Rosenfeld, Helm., Redakt., XIX/119, Springs.G. 2</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R4 39 30</td>\n<td>Rosenfeld, Dr.Julius Israel, jüd. Krankenbeh., II/27, Gr.Stadtgutg. 28</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R5 37 11</td>\n<td>Rosenfeld. Ruth, IX/66, Koling. 3</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>8ml.-Nr.</td>\n<td rowspan=\"2\">{ Rosenfeld &amp; Co., Bank, Wien 1/1, Rathausstraße 20</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A2 75 10</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A3 27 56</td>\n<td>Rosenits, Hans, VI/56, Schmalzhofg. 13</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>U1 27 33</td>\n<td>Rosenitsch, Georg, Glaserei, III/40, Unt. Viaduktg. 16</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A1 11 07I</td>\n<td>Rosenitsch</td>\n<td>Harm</td>\n<td>Markler TX/AA</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Änderung der Orts- u. Vorortsabkürzungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "A6 01 82 Rosicky, Karl, Bäckerei, XXI/141,",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "U3 49 64 Roslifka, Ad. G., Vergnügungsuntern.,",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Kreitent. Str. 183",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "AZ 71 87 L Rosner, Fr., Ungeheuer, XVII/107, Fliener-",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 733 992\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>B4 88 86</td>\n<td>Roszbach, Aug., Zahnat., XVI/107, Brunnenengasse 41</td>\n</tr>\n<tr>\n<td>U2 66 74</td>\n<td>Rossek, Friedr., Ing., I/1, Tuchlauben 5</td>\n</tr>\n<tr>\n<td>A1 92 74</td>\n<td>Rosset, Dr. Herm., Dir., XVIII/110, Türkenschanzstr. 25</td>\n</tr>\n<tr>\n<td>B1 12 87</td>\n<td>Rossi, Ferd., XIX/117, Saarpl. 20</td>\n</tr>\n<tr>\n<td>R3 92 47</td>\n<td>Rossi, Fritz, Kfm., XII/82, Hohenb.Str. 3</td>\n</tr>\n<tr>\n<td>U1 33 41</td>\n<td>Rossi, Giovanni, Sped., III/40, Beatrixg. 26</td>\n</tr>\n<tr>\n<td>B3 21 97L</td>\n<td>Rossi, Grete, D. Moden, VII/62, Mariahilf. Straße 32</td>\n</tr>\n<tr>\n<td>A3 38 34</td>\n<td>Rossi, Viktor, Edler v. Riedkirch, Oberst, IV/50, Schleifm. G. 8</td>\n</tr>\n<tr>\n<td>B5 30 31</td>\n<td>Rossipaul, Maxim., Baumstr., III/40, Traung. 2</td>\n</tr>\n<tr>\n<td>A5 18 05</td>\n<td>Rossius, Wanda, XIII/89, Stuttg.Str. 22</td>\n</tr>\n<tr>\n<td>R5 20 52</td>\n<td>Rossiwall, Dr. Fr., Zahnarzt, IX/71, Porzellang. 52</td>\n</tr>\n<tr>\n<td>B1 57 71</td>\n<td>Rossiwall, Helene, XIX/117, Kaasgraben-<br/>gasse 11</td>\n</tr>\n<tr>\n<td>A5 10 39</td>\n<td>Roska, Cölestine, Strickerei, XIII/89,</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "U5 01 47L Rosska, Johann, Gastw., XVIII/110,",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

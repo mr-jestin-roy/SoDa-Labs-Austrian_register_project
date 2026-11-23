@@ -1,0 +1,904 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"317 102 931 404\" data-label=\"Text\"><p><b>Brauerei Kronenburg A. G.</b></p></div><div data-bbox=\"508 395 744 576\" data-label=\"Text\"><p><b>„Tiger Bräu“</b></p></div><div data-bbox=\"436 602 808 720\" data-label=\"Text\"><p><b>Straßburg-Kronenburg</b></p></div><div data-bbox=\"367 764 881 895\" data-label=\"Text\"><p><b>Fernsprecher 200 77. 246 36</b></p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Brauerei zum Grünen Wald",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Straubing (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Suhl (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tauberbischofsheim (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Themar (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Thorn.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"392 0 555 283\" data-label=\"Text\"><p>Thorn-Süd</p></div><div data-bbox=\"242 412 772 852\" data-label=\"Text\"><p><b>Tichau (Oberschles.).</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Traunstein (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Trautenau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Treysa (Bez. Kassel).",
+        "entries": []
+      },
+      {
+        "region_name": "Troppau (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 46 988 292\" data-label=\"Text\"><p><b>Tückelhausen (üß. Ochsenfurt).</b></p></div><div data-bbox=\"239 287 489 453\" data-label=\"Text\"><p>Ochsenfurt 208</p></div><div data-bbox=\"626 287 825 453\" data-label=\"Text\"><p><b>Brauerei Hell</b></p></div><div data-bbox=\"520 464 944 645\" data-label=\"Text\"><p>Tückelhausen (Mainfranken)</p></div><div data-bbox=\"237 691 735 937\" data-label=\"Text\"><p><b>Tüffer (Steiermark).</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"386 37 846 305\"}, {\"label\": \"Text\", \"bbox\": \"426 417 807 671\"}, {\"label\": \"Text\", \"bbox\": \"302 774 428 917\"}, {\"label\": \"Text\", \"bbox\": \"711 774 932 934\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"794 803 996 941\" data-label=\"Text\"><p><b>763. I</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Vilsbiburg (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Vilshofen (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Völklingen (Saar).",
+        "entries": []
+      },
+      {
+        "region_name": "Vorchdorf (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Waldkirch (Breisgau).",
+        "entries": []
+      },
+      {
+        "region_name": "Waldsassen (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Wangen (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Warburg (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Warthausen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wasseralfingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wasserburg a. Inn (Bay.)",
+        "entries": []
+      },
+      {
+        "region_name": "Weiden (Oberpfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"198 84 517 244\" data-label=\"Text\"><p>Reger-Straße 37</p></div><div data-bbox=\"12 287 564 515\" data-label=\"Text\"><p><b>Weismain (Bay.).</b></p></div><div data-bbox=\"151 511 931 682\" data-label=\"Text\"><p>7 Obendorfer, Hans, Brauerei, Weismain</p></div><div data-bbox=\"12 718 989 942\" data-label=\"Text\"><p><b>Weismes (Kr. Malmedy) [Rheinpr.].</b></p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "SIMONBRÄU",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Weißenbrunn b. Kronach (Bay.)",
+        "entries": []
+      },
+      {
+        "region_name": "Weißenburg (Bay.)",
+        "entries": []
+      },
+      {
+        "region_name": "Weißenfels (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Weißenthurm (Kr. Koblenz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Wielun (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wernesgrün b. Auerbach (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wernigerode (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "Wesel.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Gösser-Brauerei Akt.-ges.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Wien-Atzgersdorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"59 156 129 811\" data-label=\"Text\"><p>670<br/>671<br/>672</p></div><div data-bbox=\"131 29 156 955\" data-label=\"Text\"><p>{</p></div><div data-bbox=\"215 29 922 261\" data-label=\"Text\"><p>Ostmärkische-Brau-Aktiengesellschaft</p></div><div data-bbox=\"215 253 903 731\" data-label=\"Text\"><p><b>Brauerei Liesing</b></p></div><div data-bbox=\"375 718 743 942\" data-label=\"Text\"><p>Wien XXV-Liesing</p></div>",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 795 998 941\" data-label=\"Text\"><p><b>rauereien — 765. Brauereibed.</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Wien-Klosterneuburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Wieselburg a. d. Erlauf (Niederdonauf).",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesenburg (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Wilhelmshaven.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"89 0 841 140\" data-label=\"Text\"><p>1810 (lage Wilhelmshaven, Koonstr. 14</p></div><div data-bbox=\"11 175 828 375\" data-label=\"Text\"><p><b>Willich (Bez. Düsseldorf).</b></p></div><div data-bbox=\"108 375 993 658\" data-label=\"Text\"><p>205 Vereinigte Willicher Brauereien u. Han-<br/>nen-Korschenbroich G. m. b. H., Willich</p></div><div data-bbox=\"11 753 621 958\" data-label=\"Text\"><p><b>Wilz (Luxemburg).</b></p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "BRAUEREIGEBRÜDER GRUBER",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"182 62 826 981\" data-label=\"Image\"><img alt=\"A high-contrast, black and white illustration of a city skyline featuring several buildings of varying heights, some with windows and balconies, set against a background of stylized trees and a dotted sky.\"/>A high-contrast, black-and-white illustration of a city skyline. The scene is dominated by several buildings of varying heights and architectural styles. In the foreground, there are two smaller, multi-story buildings with numerous windows. Behind them, a taller, more prominent building with a series of balconies or windows stands out. To the right, another building with a gabled roof is visible. The background features stylized trees with dense foliage, represented by clusters of dots. The sky is filled with a pattern of small dots, suggesting a starry night or a textured sky. The entire illustration is enclosed within a thick black rectangular border.</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "SIMONBRÄU",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Windelsbach b. Geslau (Mittellr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Windischschenbach (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Winterlingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberge (Bez. Potsdam).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittlich (Bez. Trier).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 792 258 937\" data-label=\"Text\"><p><b>urfsartikel</b></p></div><div data-bbox=\"434 792 800 954\" data-label=\"Text\"><p>(Branchenteil) 109</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"16 33 796 710\" data-label=\"Text\"><table><tr><td>Sammel-</td><td rowspan=\"3\">{</td><td><b>Tienes &amp; Sohn Kom.-Ges.</b></td></tr><tr><td>Nr.</td><td><b>Bierbrauerei,</b></td></tr><tr><td>50814</td><td><b>Wuppertal-Barmen, Klingelholl 61/67</b></td></tr><tr><td>Sml.-Nr.</td><td rowspan=\"2\">{</td><td><b>Wicküler-Küpper-Brauerei</b></td><td><b>Aktiengesell-</b></td></tr><tr><td>21001</td><td><b>schaft, Wuppertal</b></td><td></td></tr></table></div><div data-bbox=\"12 783 776 966\" data-label=\"Text\"><p><b>Zdunska-Wola (Wartheland).</b></p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "„Bürgerbräu“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"84 29 770 925\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Zwickau (Bez. Aussig) [Sudetenland]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"125 218 654 266\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"41 236 753 313\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Mainleus (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"29 0 787 665\" data-label=\"Text\"><p>und Einrichtungen, M 2, Amiraplatz 3<br/>5 16 19 <b>Oswald Kropf,</b><br/>techn. Büro für Bierbrauer, Nymphen-<br/>burger Str. 38. T Hefeversand</p></div><div data-bbox=\"0 766 271 967\" data-label=\"Text\"><p><b>Nürnberg.</b></p></div>",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Valentin Müller",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Prag.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "<div data-bbox=\"124 63 680 391\" data-label=\"Text\"><p><b>la Bier-, Luft- und Wasserschläuche,<br/>Mannheimer Glasur, Filtermasse,<br/>Desinfektion „Antibakterin“</b></p></div><div data-bbox=\"154 437 654 614\" data-label=\"Text\"><p><b>K. Kafka &amp; Co.</b></p></div><div data-bbox=\"188 671 618 779\" data-label=\"Text\"><p><b>Prag II., Beethovenstraße 8</b></p></div><div data-bbox=\"142 811 666 954\" data-label=\"Text\"><p><b>Fernsprecher : 288 00. 303 85</b></p></div>",
+      "cells": [
+        "col4_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"768 20 778 45\" data-label=\"Page-Header\"><p>-</p></div>",
+      "cells": [
+        "col4_sec16.png"
+      ]
+    }
+  }
+]

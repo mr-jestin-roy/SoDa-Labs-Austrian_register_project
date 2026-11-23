@@ -1,0 +1,888 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"216 135 998 792\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"213 135 998 826\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Bad Aibling (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Nenndorf (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Sooden-Allendorf (H/N.).",
+        "entries": []
+      },
+      {
+        "region_name": "Benningen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Bordesholm (Holst.).",
+        "entries": []
+      },
+      {
+        "region_name": "Finsterwalde (Niederlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Großbröhrsdorf (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      },
+      {
+        "region_name": "Lahr (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Oelsa (Bez. Dresden).",
+        "entries": []
+      },
+      {
+        "region_name": "Rheda (Bez. Minden).",
+        "entries": []
+      },
+      {
+        "region_name": "Schnaittach (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"207 0 972 416\" data-label=\"Text\"><p style=\"text-align: center;\">V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V V",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "6177. Tischbohrmaschinen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"205 93 353 214\" data-label=\"Text\"><p><b>Wien.</b></p></div><div data-bbox=\"205 223 986 636\" data-label=\"Text\"><p>U1 70 63 } <b>Hans Malleczek</b> Tischbohr-<br/>U1 32 20 } Ständerbohrmaschinen m. direkt elektr.<br/>Antrieb, III/40, Rechte Bahngasse 30/32</p></div>",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"945 475 965 515\" data-label=\"Page-Header\"><p>41</p></div><div data-bbox=\"785 730 975 865\" data-label=\"Text\"><p><b>6173.</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "6178. Tisch- u. Diwandecken",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Hohenstein-Ernstthal (Sächs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Königinhof (Elbe) [Böhmen].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "SOTEX Textilwerke A. G.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Konstanz.",
+        "entries": []
+      },
+      {
+        "region_name": "Lichtenstein (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tutzing (Oberbay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"96 217 890 799\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Freudenthal (Ostsuðetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Emmerich Machold",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Landeshut (Schles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schneeberg (Erzgeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "6181. Tischlereien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Allentsteig (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Baden b. Wien (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bärn (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Bartenstein (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "FR. BERGER &amp; CO.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Birkenhain (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Blankenfelde (Kr. Teltow).",
+        "entries": []
+      },
+      {
+        "region_name": "Blankenhain (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Brandenburg (Havel).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Rintenfabriken — 6182. Tischl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Cosel (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Eggemberg b. Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Elsenborn (Kr. Malmedy) [Rheinprov.].",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Guben.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hildesheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Mohendorf (Post Dallwitz) [Sudetenland].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Knittelfeld (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kreuz (Ostbahn).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Karl Reichinger",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      },
+      {
+        "region_name": "Lundenburg (Niederdonaau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Melk (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Neumarkt (Donau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Nienburg (Weser).",
+        "entries": []
+      },
+      {
+        "region_name": "Oberammergau (Oberbay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 782 246 932\" data-label=\"Text\"><p><b>Freibedarf</b></p></div><div data-bbox=\"407 782 760 947\" data-label=\"Text\"><p>(Branchenteil) 759</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Preußisch Stargard (Westpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Pschow (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Püttlingen (Saar).",
+        "entries": []
+      },
+      {
+        "region_name": "Ramsau b. Hainfeld (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Regensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Ried (Innkreis) [Oberdonau].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"85 0 755 235\" data-label=\"Text\"><p>112 <b>Abend und abends, 11.00 bis 13.00</b><br/>Innkreis, Bahnhofstr. 45</p></div><div data-bbox=\"8 266 715 447\" data-label=\"Text\"><p><b>Saalfelden a. Steinernen Meer (Salzburg).</b></p></div><div data-bbox=\"102 468 141 589\" data-label=\"Text\"><p>93</p></div><div data-bbox=\"381 464 534 593\" data-label=\"Text\"><p><b>Hans Lirk</b></p></div><div data-bbox=\"172 602 743 740\" data-label=\"Text\"><p>Mechanische Bau- und Möbeltischlerei</p></div><div data-bbox=\"8 787 711 973\" data-label=\"Text\"><p><b>St. Veit (Sawe) [Südkärnten].</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"37 75 722 937\" data-label=\"Text\"><p><b>748 „Bor“ Franz Kregar Tischlerei</b><br/><b>St. Veit (Sawe)-Wischmarje</b></p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Schneidemühl.",
+        "entries": []
+      },
+      {
+        "region_name": "Steinhaus b. Wels (Oberdonau)",
+        "entries": []
+      },
+      {
+        "region_name": "Stelzenöd (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      },
+      {
+        "region_name": "Unterach am Attersee (Oberdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"67 33 138 80\" data-label=\"Text\">4471</div><div data-bbox=\"165 10 459 92\" data-label=\"Text\"><b>Jösef Wrann</b></div><div data-bbox=\"475 10 756 204\" data-label=\"Text\">Tischlermeister<br/>Maschinelle Werk-<br/>statt für Möbel-, Parkett- und Schiffs-<br/>bodenschleiferei, Gerbergasse 27</div><div data-bbox=\"8 198 151 256\" data-label=\"Text\"><b>Wien.</b></div><div data-bbox=\"8 263 138 310\" data-label=\"Text\">B4 60 68</div><div data-bbox=\"148 263 756 409\" data-label=\"Text\"><b>Bednar, Wilhelm</b>, Kunsttischlerei, Kaffee-<br/>hauseinrichtungen, Wien XVII/107, Hern-<br/>alser Hauptstr. 59/61</div><div data-bbox=\"8 406 154 453\" data-label=\"Text\">A2 23 12L</div><div data-bbox=\"148 406 756 506\" data-label=\"Text\"><b>Brem, Hubert</b>, mech. Tischlereibetrieb,<br/>XVIII/110, Ludwigsgasse 4</div><div data-bbox=\"8 501 138 547\" data-label=\"Text\">B5 92 46</div><div data-bbox=\"357 501 538 547\" data-label=\"Text\"><b>Josef Cahak</b></div><div data-bbox=\"171 547 738 647\" data-label=\"Text\">Tischlerei-, Hobel- und Fräseanstalt,<br/>Wien III/40, Erdberger Lände 30</div><div data-bbox=\"8 644 136 690\" data-label=\"Text\">U3 86 45</div><div data-bbox=\"327 644 579 690\" data-label=\"Text\"><b>Mathias Grabner</b>,</div><div data-bbox=\"256 690 643 742\" data-label=\"Text\">Bau- und Möbeltischlerei,</div><div data-bbox=\"202 740 698 790\" data-label=\"Text\">Wien XIV/89, Kirschenstraße 28</div><div data-bbox=\"8 811 133 857\" data-label=\"Text\">F2 24 49</div><div data-bbox=\"153 790 546 870\" data-label=\"Text\"><b>Anton Hofmann</b></div><div data-bbox=\"560 790 736 884\" data-label=\"Text\">Tischlerei,<br/>Ausführung</div><div data-bbox=\"145 884 752 981\" data-label=\"Text\">sämtlicher",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"76 46 676 382\"}, {\"label\": \"Text\", \"bbox\": \"112 375 636 492\"}, {\"label\": \"Text\", \"bbox\": \"125 524 639 632\"}, {\"label\": \"Text\", \"bbox\": \"128 636 619 736\"}, {\"label\": \"Text\", \"bbox\": \"125 757 617 855\"}, {\"label\": \"Text\", \"bbox\": \"125 852 617 955\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 750 503\" data-label=\"Text\"><p><b>A4 29 03</b> <b>Jahrl, Johann</b>, Tischlerei, Übernahme<br/><b>☎ ☎</b> sämtlicher Tischlerarbeiten, Wien XX/20<br/>Treustraße 21</p></div><div data-bbox=\"0 520 711 977\" data-label=\"Text\"><p><b>A5 60 70</b> <b>Vinzenz Kabele</b> Kunst-<br/>tischlerei<br/>Wien XIV/89, Penzinger Straße 25</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"29 85 716 343\"}, {\"label\": \"Text\", \"bbox\": \"123 352 621 493\"}, {\"label\": \"Text\", \"bbox\": \"148 533 598 707\"}, {\"label\": \"Text\", \"bbox\": \"200 774 535 923\"}]",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Wimpassing (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "6182. Tischlereibedarf",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Bärenstein (Bez. Chemnitz).",
+        "entries": []
+      }
+    ]
+  }
+]

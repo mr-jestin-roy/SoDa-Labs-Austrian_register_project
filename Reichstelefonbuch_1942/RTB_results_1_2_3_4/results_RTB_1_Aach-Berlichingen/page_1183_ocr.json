@@ -1,0 +1,768 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which are likely scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Gräfenhain (üß. Ohrdruf).",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hockenheim (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Reichenberg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Schalksmühle (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schramberg (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwabach (Mittelfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwenningen (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Solingen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"391 0 833 42\" data-label=\"Text\"><p>Unigs, Scharrenberger Str. 9</p></div><div data-bbox=\"247 102 639 852\" data-label=\"Text\"><p><b>Velbert (Rhld.).</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Friedr. Neblung Komm.-Ges.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "5674. Spiralschläuche",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Siegen (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"272 165 952 821\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Meißen (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"271 42 444 738\" data-label=\"Image\"><img alt=\"Logo of Maschinenfabrik Imperial, featuring a stylized cross or plus sign inside a circle.\"/></div><div data-bbox=\"458 54 950 283\" data-label=\"Text\"><p><b>Maschinenfabrik Imperial</b></p></div><div data-bbox=\"595 283 831 401\" data-label=\"Text\"><p><b>G. M. B. H.</b></p></div><div data-bbox=\"591 427 840 554\" data-label=\"Text\"><p><b>Spezialfabrik für</b></p></div><div data-bbox=\"457 567 967 697\" data-label=\"Text\"><p><b>Filter, Trockner u. Wärmetauscher</b></p></div><div data-bbox=\"365 731 654 960\" data-label=\"Text\"><p><b>Meißen/Sachs.</b></p></div><div data-bbox=\"668 731 879 843\" data-label=\"Text\"><p><b>Hainstraße 15</b></p></div><div data-bbox=\"668 843 964 967\" data-label=\"Text\"><p><b>Ruf: Sml.-Nr. 2056</b></p></div>",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a vertical line on the right edge and a small mark near the bottom right corner.\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a vertical line on the right edge and a small mark near the bottom right corner.</div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "5677. Spirituosen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Allenstein.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which are likely scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"27 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>32 18 81</td>\n<td><b>Heino Krack &amp; Hankwitz</b>, Gen. Vertr. in Spirituosen und Weinen, Berlin-Charlottenburg 4, Niebuhrstr. 66</td>\n</tr>\n<tr>\n<td>53 09 09</td>\n<td><b>Kriese, Paul</b>, Großvertrieb von Wein u. Spirituosen, C 2, Landsberger Str. 32</td>\n</tr>\n<tr>\n<td>46 35 02</td>\n<td><b>Carl Kulke sen.</b>, Großhandlung in Spirituosen, N 65, Lindower Str. 22</td>\n</tr>\n<tr>\n<td>41 06 41</td>\n<td><b>Kultermann, Fritz</b>, Fabrikation von Likören, N 4, Chausseestraße 109</td>\n</tr>\n<tr>\n<td>71 06 55</td>\n<td><b>Litzke, Max</b>, Spirituosen- und Weingroßhandlung, Berlin-Schöneberg, Merseburger Straße 3. P 21 37 86</td>\n</tr>\n<tr>\n<td>44 12 55</td>\n<td><b>Robert Melchers A.G.</b>, Weingroßhandlung, Likörfabrik, Lebensmittel, N 31, Wattstraße 11 u. 12</td>\n</tr>\n<tr>\n<td>35 29 58</td>\n<td><b>Robakowski &amp; Co.</b>, Likörfabrik, Weingroßverkauf, NW 40, Lehrter Str. 48b</td>\n</tr>\n<tr>\n<td>51 24 14</td>\n<td><b>Carl Rosenke</b> Rum-Import<br/>Berlin C 2, Kaiserstr. 41</td>\n</tr>\n<tr>\n<td>16 07 26</td>\n<td><b>Adalbert Trobach &amp; Co.</b> Likörfabrikation</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Ringen (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Bismarckhütte (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brevell h. Lohberich (Rhnr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 990 200\" data-label=\"Text\"><p>LOUVERICH } notornern, Julius, Weinhandlung, her-<br/>381 {stellung von Likör, Breyell-Natt 57a</p></div><div data-bbox=\"0 259 553 408\" data-label=\"Text\"><p><b>Brünn (Mähren).</b></p></div><div data-bbox=\"52 459 177 558\" data-label=\"Text\"><p>17 960</p></div><div data-bbox=\"242 399 938 587\" data-label=\"Text\"><p><b>Wilhelm Dvořák</b></p></div><div data-bbox=\"224 625 959 735\" data-label=\"Text\"><p>Erzeugung von Likören, Fruchtsäften</p></div><div data-bbox=\"339 736 842 843\" data-label=\"Text\"><p>Spirituosen und Essenzen</p></div><div data-bbox=\"236 843 943 954\" data-label=\"Text\"><p><b>Brünn-Königsfeld, Poděbradgasse 73</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "J. N. Wägner &amp; Sohn",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Deggendorf (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"699 32 710 55\" data-label=\"Page-Header\"><p>-</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 821 997 964\" data-label=\"Text\"><p><b>5673. Spiralfedern — 5677. S</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg u. D.-Ruhrort.",
+        "entries": []
+      },
+      {
+        "region_name": "Engelsdorf (Kr. Malmediv).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "2204 PITZ-SCHWEITZER",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Flensburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freudenstadt (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Friedeberg (Isergeb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Göttingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Graslitz (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Graudenz.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 980 485\" data-label=\"Text\"><p>35 15 55 <b>Hugo Peters &amp; Co. Aktiengesellschaft,</b><br/><b>Spirituosen, Hbg. 11, Ellerholzdam</b></p></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 825 239 947\" data-label=\"Text\"><p><b>dirituosen</b></p></div><div data-bbox=\"413 825 771 962\" data-label=\"Text\"><p>(Branchenteil) 699</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Helmstedt (Brschw.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Hettstedt (Südharz).",
+        "entries": []
+      },
+      {
+        "region_name": "Isernhagen (üß. Hannover).",
+        "entries": []
+      },
+      {
+        "region_name": "Jüterbog (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"51 135 705 389\"}, {\"label\": \"Text\", \"bbox\": \"51 428 244 532\"}, {\"label\": \"Text\", \"bbox\": \"166 576 708 675\"}, {\"label\": \"Text\", \"bbox\": \"500 759 708 856\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Kulm (Weichsel).",
+        "entries": []
+      },
+      {
+        "region_name": "Langerwehe (Kr. Düren).",
+        "entries": []
+      },
+      {
+        "region_name": "Lechenich (Rhpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Leitmeritz (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Leslau (Wartheland).",
+        "entries": []
+      }
+    ]
+  }
+]

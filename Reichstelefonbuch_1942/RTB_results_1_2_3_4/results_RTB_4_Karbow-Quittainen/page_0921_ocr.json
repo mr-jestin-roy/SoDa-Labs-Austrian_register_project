@@ -1,0 +1,885 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "siehe auf Seite 822.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"186 11 999 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>7 45 68</td>\n<td>Obermaier, Hch., Schauf.-Fig., Eichstr. 1</td>\n</tr>\n<tr>\n<td>4 55 31</td>\n<td>Obermaier, J. Brennholz, Hohenw.Str. 8</td>\n</tr>\n<tr>\n<td>3 45 79</td>\n<td>Obermaier, J., Mech., Hohenz.Str. 114</td>\n</tr>\n<tr>\n<td>6 23 08</td>\n<td>Obermaier, Jos., <i>Obm</i> MenzingerStr. 2</td>\n</tr>\n<tr>\n<td>7 22 90</td>\n<td>Obermaier, Karl, Archit., Mittenw.Str. 3</td>\n</tr>\n<tr>\n<td>(7 45 68)</td>\n<td>Obermaier K., Maler, Maria-Eichstr. 8</td>\n</tr>\n<tr>\n<td>48 14 07</td>\n<td>Obermaier, Leonh., Landw., Ostpr.Str. 4</td>\n</tr>\n<tr>\n<td>47 46 49</td>\n<td>Obermaier, Martin, Bäck., Furth Hs. 34</td>\n</tr>\n<tr>\n<td>5 48 79</td>\n<td>Obermaier, Math., Gastw., Kazmaistr. 1</td>\n</tr>\n<tr>\n<td>48 02 41</td>\n<td>Obermaier, M., Bauuntern., Ostpr.Str. 4</td>\n</tr>\n<tr>\n<td>4 17 06</td>\n<td>Obermaier, Max, Gasthof, Truder.Str. 30</td>\n</tr>\n<tr>\n<td>6 11 05</td>\n<td>Obermaier, O., Bildhauer, Künstlerhof 1</td>\n</tr>\n<tr>\n<td>4 28 87</td>\n<td>Obermaier, O., Spalterei, Eintrachtstr. 1</td>\n</tr>\n<tr>\n<td>8 14 98</td>\n<td>Obermaier, Rob., Vertr., Fröbelpl. 16</td>\n</tr>\n<tr>\n<td>3 11 84</td>\n<td>Obermaier, Rup., Angest., Kaiserstr. 65</td>\n</tr>\n<tr>\n<td>4 09 29</td>\n<td>Obermaier, Cäcilia, Fuhrw., Orleansstr. 89</td>\n</tr>\n<tr>\n<td>37 02 82</td>\n<td>Obermaier, Claus, Hauptm., Tengstr. 26</td>\n</tr>\n<tr>\n<td>2 80 05</td>\n<td>Obermaier, Emeran, Bankbeamte., Frühling<br/>straße 15</td>\n</tr>\n<tr>\n<td>37 14 29</td>\n<td>Obermaier, Mathilde, Ww., Tengstr. 36</td>\n</tr>\n<tr>\n<td>3 59 62</td>\n<td>Obermaier, Dr. Max Bankdir., Georgen<br/>straße 14</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"184 0 999 984\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>5 05 89</td>\n<td>Obermaier, Xaver, Fuhrw., Pas Landsb. Str. 24</td>\n</tr>\n<tr>\n<td>3 08 73</td>\n<td>Obermayer, Elly, Ww., V. Scheffelstr. 11</td>\n</tr>\n<tr>\n<td>2 46 91</td>\n<td>Obermayer, E., Makl., Bürkleinstr. 12</td>\n</tr>\n<tr>\n<td>6 14 88</td>\n<td>Obermayer, Franz, Kfm., Dietrichstr. 33</td>\n</tr>\n<tr>\n<td>29 63 02</td>\n<td>Obermayer, Dr. Gg., Versich., Glockenb. 6</td>\n</tr>\n<tr>\n<td>2 29 54</td>\n<td>Obermayer, Hans, Bankier, Isartorpl. 5</td>\n</tr>\n<tr>\n<td>3 12 29</td>\n<td>Obermayer, Joh., Fuhrw., Lerchen. Str. 1</td>\n</tr>\n<tr>\n<td>3 20 26</td>\n<td>Obermayer, J., Kohlen, Schleißh. Str. 407</td>\n</tr>\n<tr>\n<td>4 11 48</td>\n<td>Obermayer, Jos., Harfenbau, Auerf. Str. 2</td>\n</tr>\n<tr>\n<td>8 23 56</td>\n<td>Obermayer, Karl, Pas Dr. Boettcher-Str. 10</td>\n</tr>\n<tr>\n<td>1 15 02</td>\n<td>Obermayer, Lina, Sonnenstr. 3</td>\n</tr>\n<tr>\n<td>4 48 18</td>\n<td>Obermayer, Max, Maler, Pr.-Reg. Str. 21</td>\n</tr>\n<tr>\n<td>3 22 84</td>\n<td>Obermayer, Wilh., Fuhrw., Lerch. Str. 30</td>\n</tr>\n<tr>\n<td>3 12 51</td>\n<td>Obermayer, W., Kunstmühle, Riesenfeld<br/>Belgradstr. 199</td>\n</tr>\n<tr>\n<td>49 29 34</td>\n<td>Obermayr, A., Vertr., Tegerns. Ldstr. 116</td>\n</tr>\n<tr>\n<td>(7 08 83)</td>\n<td>Obermayr, Fritz, R.-A., H. Schmid-Str. 1</td>\n</tr>\n<tr>\n<td>4 30 67</td>\n<td>Obermayr, Karl, Roßschl., Breis. Str. 12</td>\n</tr>\n<tr>\n<td>4 06 28</td>\n<td>Obermayr, Ludw., Gutsbes., Rienner Str. 78</td>\n</tr>\n<tr>\n<td>9 35 87</td>\n<td>Obermayr, Rudolf, Isenschmidstr. 18</td>\n</tr>\n<tr>\n<td>4 11 95</td>\n<td>Obermeier, F., Polieranst., Preys. Str. 22</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "79",
+            "text": "33"
+          },
+          {
+            "extension": "5",
+            "text": "91"
+          },
+          {
+            "extension": "8",
+            "text": "13"
+          },
+          {
+            "extension": "6",
+            "text": "71"
+          },
+          {
+            "extension": "7",
+            "text": "09"
+          },
+          {
+            "extension": "7",
+            "text": "28"
+          },
+          {
+            "extension": "3",
+            "text": "43"
+          },
+          {
+            "extension": "6",
+            "text": "08"
+          },
+          {
+            "extension": "36",
+            "text": "02"
+          },
+          {
+            "extension": "3",
+            "text": "39"
+          },
+          {
+            "extension": "6",
+            "text": "37"
+          },
+          {
+            "extension": "48",
+            "text": "14"
+          },
+          {
+            "extension": "6",
+            "text": "12"
+          },
+          {
+            "extension": "3",
+            "text": "58"
+          },
+          {
+            "extension": "6",
+            "text": "11"
+          },
+          {
+            "extension": "4",
+            "text": "22"
+          },
+          {
+            "extension": "7",
+            "text": "36"
+          },
+          {
+            "extension": "5",
+            "text": "22"
+          },
+          {
+            "extension": "8",
+            "text": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"170 0 997 991\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>37 16 62</td>\n<td>v. Obernberg, Dr. med. vet., Ansd. Str. 2</td>\n</tr>\n<tr>\n<td>2 33 75</td>\n<td>Oberndörfer, Hans, Stud.-Prof., Zwei-<br/>brückenstr. 8</td>\n</tr>\n<tr>\n<td>4 08 62</td>\n<td>Oberndorfer, A., Kriegsrat, Nigerstr. 18</td>\n</tr>\n<tr>\n<td>(7 05 06)</td>\n<td>Oberndorfer, Georg, Därme, Häberlstr. 19</td>\n</tr>\n<tr>\n<td>4 13 04</td>\n<td>Oberndorfer, Hans Gauamtsrevisor, Prey-<br/>singstr. 7</td>\n</tr>\n<tr>\n<td>2 77 20</td>\n<td>Obernetter, R., Fototechn., Reichen-<br/>bachstr. 16</td>\n</tr>\n<tr>\n<td>5 84 79</td>\n<td>Oberniedermayr, Anton, Dr. med., Schu-<br/>bertstraße 7</td>\n</tr>\n<tr>\n<td>1 35 01</td>\n<td>Oberpollinger Kaufhaus, Neuh. Str. 44</td>\n</tr>\n<tr>\n<td>6 14 11</td>\n<td>Oberprieler, K., Malerm., Nibel. Str. 93</td>\n</tr>\n<tr>\n<td>8 08 23</td>\n<td>Oberpriller, Jos., Kunstmühle, <i>Obm</i> Nr. 10</td>\n</tr>\n<tr>\n<td>5 62 00</td>\n<td>Oberreit, Elfriede, Moden, Lothstr. 30</td>\n</tr>\n<tr>\n<td>8 98 73</td>\n<td>Oberschule d. Gemeinde Gräfelfing, <i>Gräf</i><br/>Ludendorffstr. 90</td>\n</tr>\n<tr>\n<td>8 04 67</td>\n<td>Oberschule f. Mädchen, Priv., <i>Pas</i> Rich.<br/>Wagner-Str. 21</td>\n</tr>\n<tr>\n<td>37 04 45</td>\n<td>Oberschule f. Jungen (Gisela-), Arcisstr. 65</td>\n</tr>\n<tr>\n<td>1 34 53</td>\n<td>Oberschule f. Jungen (Ludwigs-), Maxstr. 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "12"
+          },
+          {
+            "extension": "6",
+            "text": "12"
+          },
+          {
+            "extension": "4",
+            "text": "16"
+          },
+          {
+            "extension": "1",
+            "text": "12"
+          },
+          {
+            "extension": "2",
+            "text": "66"
+          },
+          {
+            "extension": "2",
+            "text": "73"
+          },
+          {
+            "extension": "8",
+            "text": "02"
+          },
+          {
+            "extension": "3",
+            "text": "20"
+          },
+          {
+            "extension": "5",
+            "text": "36"
+          },
+          {
+            "extension": "(28)",
+            "text": "91"
+          },
+          {
+            "extension": "(20)",
+            "text": "32"
+          },
+          {
+            "extension": "(28)",
+            "text": "91"
+          },
+          {
+            "extension": "6",
+            "text": "28"
+          },
+          {
+            "extension": "8",
+            "text": "23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"161 0 990 952\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>3 24 50</td>\n<td>Obersojer, Anton, Kol.-W., Antonienstr. 8</td>\n</tr>\n<tr>\n<td>4 42 37</td>\n<td>Obersojer, Jos., Molkerei, Preysingstr. 13</td>\n</tr>\n<tr>\n<td>2 06 32</td>\n<td>H. Oberst &amp; Cie, Tapeten, Herrnstr. 27</td>\n</tr>\n<tr>\n<td>39 91 19</td>\n<td>Obersojer, M., Landw., Feldmoching,<br/>Bahnhofstr. 21</td>\n</tr>\n<tr>\n<td>37 21 73</td>\n<td>Oberst, Susanne, Jakob-Klar-Str. 4</td>\n</tr>\n<tr>\n<td>59 68 64</td>\n<td>Oberstötter, C., Schornstf., Marsstr. 22</td>\n</tr>\n<tr>\n<td>8 25 20</td>\n<td>Oberstötter, Paul, Bäcker, Neuaubing,<br/>Ludw.Siebert-Pl. 10</td>\n</tr>\n<tr>\n<td>29 67 16</td>\n<td>Oberversich.-Amt, Ludwigstr. 14</td>\n</tr>\n<tr>\n<td>3 17 46</td>\n<td>Oberwalder, Alb., Dir., Ohmstr. 22</td>\n</tr>\n<tr>\n<td>48 16 88</td>\n<td>Oberwallner, Dr. F., Abt.-Chef, Sternwart-<br/>straße 7</td>\n</tr>\n<tr>\n<td>37 05 14</td>\n<td>Oberwallner, Lina, Pens., Georgenstr. 103</td>\n</tr>\n<tr>\n<td>2 64 82</td>\n<td>Oberwallner, Ludwig, Kfm., Rosental 2</td>\n</tr>\n<tr>\n<td>1 34 55</td>\n<td>Oberwegner, Kath., Ww., Neu-Str. 9</td>\n</tr>\n<tr>\n<td>6 04 15</td>\n<td>Oberzollner, H., Gartenbau, Volp.Str. 72</td>\n</tr>\n<tr>\n<td>2 35 66</td>\n<td>Obexer, Jos., Tapezier, Türkenstr. 61</td>\n</tr>\n<tr>\n<td>5 32 05</td>\n<td>Obexer jr., Mart., Tapez., Dach.Str. 20</td>\n</tr>\n<tr>\n<td>3 57 39</td>\n<td>Obinger, G., Seilerwarenf., Hohenz.Str. 50</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"32 12 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>(2 69 12)</td>\n<td>Oblatenkloster, Corneliusstr. 17</td>\n</tr>\n<tr>\n<td>2 83 26</td>\n<td>Obletter, Max, Goldschmied, Adelg.Str. 1</td>\n</tr>\n<tr>\n<td><b>1 09 16</b></td>\n<td><b>Obletter, Jos., Inh. Franziska Wiedlin<br/>Spielwaren, Karlsplatz 11</b></td>\n</tr>\n<tr>\n<td>49 28 83</td>\n<td>Oblinger, Martin, Kohlen, Deisenh.Str. 4</td>\n</tr>\n<tr>\n<td>4 01 29</td>\n<td>Ders., Wohnung, Amselweg 10</td>\n</tr>\n<tr>\n<td>5 10 93</td>\n<td>Obpacher, E., Min.-Rat, Nymph.Str. 39</td>\n</tr>\n<tr>\n<td>3 36 62</td>\n<td>Obpacher, Dr. Heinz, Geologe, Giselastr. 1</td>\n</tr>\n<tr>\n<td>29 60 48</td>\n<td>Obrist, K., Optik, Adalbertstr. 27</td>\n</tr>\n<tr>\n<td>3 00 18</td>\n<td>Obrist, M. L., Ww., K.Theodorstr. 24</td>\n</tr>\n<tr>\n<td>3 42 58</td>\n<td>Obrovac, Milan, Major, Frz.Joseph-Str.</td>\n</tr>\n<tr>\n<td>7 49 51</td>\n<td>Obstner, Jos., Graph., Lindw.Str. 133</td>\n</tr>\n<tr>\n<td>59 67 09</td>\n<td>Ochs, Gregor, Malcr, Schwanth.Str. 106</td>\n</tr>\n<tr>\n<td>5 71 47</td>\n<td>Ochs, J., Tabakwr., Schleißh.Str. 47</td>\n</tr>\n<tr>\n<td>5 00 86</td>\n<td>Ochs, Rudolf, Bürobedarf, Theresienstr. 3</td>\n</tr>\n<tr>\n<td>8 08 86</td>\n<td>Ochsenbauer, F., Bauuntern., <i>Paß</i> H<br/>Wessel-Str. 5</td>\n</tr>\n<tr>\n<td>7 31 61</td>\n<td>Ochsenbauer, M., Sekr., Planeggerstr. 26</td>\n</tr>\n<tr>\n<td>6 06 86</td>\n<td>Ochsenreither, E., Kfm., Untermenzing<br/>Grünspechtstr. 18</td>\n</tr>\n<tr>\n<td>4 31 75</td>\n<td>Ockert, Chr., Malergesch., Weißenb.Str. 4</td>\n</tr>\n<tr>\n<td>1 20 25</td>\n<td><i>Onularium</i> Ont. Trst. Konfincoratr 15</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 59 05</td>\n<td>„Oculus“ Verlags- &amp; Vertriebs-GmbH<br/>Liebigstr. 10c</td>\n</tr>\n<tr>\n<td>37 06 63</td>\n<td>Dies., Geschäftsführ., Adalbertstr. 110</td>\n</tr>\n<tr>\n<td>5 32 20</td>\n<td>O. D.-Vertreib, E. Mittag, Karlstr. 45</td>\n</tr>\n<tr>\n<td>37 08 57</td>\n<td>v. Odelga, Dr. Fritz, Frhr., Elisabethstr. 3</td>\n</tr>\n<tr>\n<td>2 36 54</td>\n<td>Odeon, Odeonsplatz 3</td>\n</tr>\n<tr>\n<td>2 42 27</td>\n<td>Odeon-AutoService u. Garage GmbH<br/>Fürstenstr. 1a</td>\n</tr>\n<tr>\n<td>2 07 99</td>\n<td>Odeon-Bad, Glückstr. 7</td>\n</tr>\n<tr>\n<td>2 58 10</td>\n<td><b>Odeon-Casino, Inh. August Annast, M 2<br/>Brienner Straße 55</b></td>\n</tr>\n<tr>\n<td>29 64 52</td>\n<td>Odeon-Wollstube, N. Nies, Marienpl. 8</td>\n</tr>\n<tr>\n<td>3 49 55</td>\n<td>Odorfer, Josef, Dentist, Ainmillerstr. 43a</td>\n</tr>\n<tr>\n<td>48 15 33</td>\n<td>Odrich, Marta, MauerkircherStr. 18</td>\n</tr>\n<tr>\n<td>2 83 51</td>\n<td>Odrich, Dr. W., Zahnarzt, Steinsd.Str. 1a</td>\n</tr>\n<tr>\n<td>2 71 57</td>\n<td>Oebbecke, Helene, Ww., Jägerstr. 26</td>\n</tr>\n<tr>\n<td>59 66 17</td>\n<td>Oechsl, Joh., Vertr., Kreittm.Str. 3</td>\n</tr>\n<tr>\n<td>5 37 33</td>\n<td>Oechsle, Eugen, Fahrräder, Thalk.Str. 7</td>\n</tr>\n<tr>\n<td>2 14 86</td>\n<td>Oechsle, Paula, Ledererstr. 21</td>\n</tr>\n<tr>\n<td>37 23 97</td>\n<td>Oechsner, Ad., Graphik, Zentnerstr. 24</td>\n</tr>\n<tr>\n<td>3 25 67</td>\n<td>Oechsner, Helene, Frau, Leopoldstr. 16</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>49 32 24</td>\n<td>Oelgärtner, F., Prokur., Berchtesg.Str. 51</td>\n</tr>\n<tr>\n<td>6 22 91</td>\n<td>Oelgasanstalt d. J. Pintsch KG, Donnersberger Str. 70</td>\n</tr>\n<tr>\n<td>3 23 02</td>\n<td>v. Oelhafen-Schoellenbach, W., Chemikalien, Ainmillerstr. 25</td>\n</tr>\n<tr>\n<td>6 63 38</td>\n<td>Oellbrunner, Anton, Gärttn., Feldm.Str. 69</td>\n</tr>\n<tr>\n<td>6 37 58</td>\n<td>Öllbrunner, A., Gartenbau, Feldm.Str. 128</td>\n</tr>\n<tr>\n<td>6 16 15</td>\n<td>Oellbrunner, Ferd., Gärttn., Gärtnerstr. 17</td>\n</tr>\n<tr>\n<td>4 37 84</td>\n<td>Oller, Anastasia, Kol.-W., Friedenstr. 36</td>\n</tr>\n<tr>\n<td>5 15 46</td>\n<td>Oelschläger, Anna, Fremdenh., Aug.Str. 15</td>\n</tr>\n<tr>\n<td>(3 10 14)</td>\n<td>Oelschläger, Hanna, Hebamme, Werneckstraße 15a</td>\n</tr>\n<tr>\n<td>3 58 38</td>\n<td>Oelwerke, Südd., Hugo Schühle, Leopoldstraße 200</td>\n</tr>\n<tr>\n<td>5 30 47</td>\n<td>Oemeta, Chem. Werke, Gollierstr. 52</td>\n</tr>\n<tr>\n<td>37 11 96</td>\n<td>Oepen, Jos., SA.-Stand.-Führer, Hiltensp. Straße 36</td>\n</tr>\n<tr>\n<td>6 09 08</td>\n<td>Oertel, Dr. Frdr., Arzt, Nymph.Str. 95</td>\n</tr>\n<tr>\n<td>48 02 28</td>\n<td>Oertel, Dr. Hanns, Prof., Pienzen.Str. 36</td>\n</tr>\n<tr>\n<td>7 07 28</td>\n<td>Oertel, Hans, Prok., Linderhofstr. 19</td>\n</tr>\n<tr>\n<td>5 12 42</td>\n<td>Oertel, Joh., Malerm., Gollierstr. 49</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "44 12 Oertel, Rich., Vertr., Lechelst. 8"
+          },
+          {
+            "extension": "1",
+            "text": "31 68 Oerter, N., Mittagstisch, Eisenm.Str. 1"
+          },
+          {
+            "extension": "5",
+            "text": "75 78 Oerthel, H., Schuhbedarf, Maistr. 1"
+          },
+          {
+            "extension": "3",
+            "text": "35 10 Oertle, Herm., Immob., Biederst.Str. 7"
+          },
+          {
+            "extension": "7",
+            "text": "48 77 Oesch, A. H., Lebensm., Thalk.Str. 128"
+          },
+          {
+            "extension": "7",
+            "text": "38 91 Oeschey, Dr. A., Arzt, Wolfr.Str. 13"
+          },
+          {
+            "extension": "5",
+            "text": "87 23 Oeschey, Dr. Ottm., Arzt, Luisenstr. 27"
+          },
+          {
+            "extension": "49",
+            "text": "22 89 Oeser, Paul, Bürobed., H.Schemnstr. 39"
+          },
+          {
+            "extension": "2",
+            "text": "93 27 Oeser, Willy, Schneider, Burgstr. 12"
+          },
+          {
+            "extension": "3",
+            "text": "09 31 Oest, Arnold, M 13, Unertlstr. 34"
+          },
+          {
+            "extension": "7",
+            "text": "13 30 Oesterhelt, Egon, Dr., Anglerstr. 30"
+          },
+          {
+            "extension": "6",
+            "text": "46 37 Oesterle, Hans, Mineralw., AllacherStr. 151"
+          },
+          {
+            "extension": "1",
+            "text": "12 40 Oesterle, Hugo, Kfm., Maffeistr. 6"
+          },
+          {
+            "extension": "2",
+            "text": "60 08 Oesterle, Joseph, Dr., Reitmorstr. 26"
+          },
+          {
+            "extension": "2",
+            "text": "12 71 Oesterreicher, Auguste, Graphol., Rheinberger Str. 5"
+          },
+          {
+            "extension": "3",
+            "text": "00 35 Oesterreicher, Elise, Ww., Ungererstr. 11"
+          },
+          {
+            "extension": "2",
+            "text": "70 40 Oesterreicher, Jos., Metzger, Fürstenstr. 18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"31 31 961 947\" data-label=\"Text\"><table><tr><td><b>2 42 06</b></td><td rowspan=\"3\"><b>{</b></td><td><b>Österreichische Magnesit Aktiengesellschaft</b></td></tr><tr><td><b>2 42 07</b></td><td><b>Radenthein (Kärnten). Hauptverwaltung:</b></td></tr><tr><td><b>2 42 08</b></td><td><b>München, Pettenbeckstr. 5. T Magnesite</b></td></tr></table></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 9 990 832\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>5 86 57</td>\n<td>Oesterr. Saurerwerke, Deutsche Vertriebs-GmbH, Bayerstr. 43</td>\n</tr>\n<tr>\n<td>6 37 21</td>\n<td>Oesterr. Saurer Werke, Vertr. Steinhäusser &amp; Söhne, AiblingerStr. 5</td>\n</tr>\n<tr>\n<td>5 76 90</td>\n<td>Oestreicher, H., Klischeeanstalt, Schwanthaler Str. 12</td>\n</tr>\n<tr>\n<td>4 10 19</td>\n<td>Östreicher, M. J., Gesch.-F., Schönstr. 10</td>\n</tr>\n<tr>\n<td>3 56 87</td>\n<td>Oestreicher, Osc., Maler, Osterw.Str. 21</td>\n</tr>\n<tr>\n<td>(2 74 94)</td>\n<td>Oestreicher, Veroni, Hundepflege, Arudtstraße 5</td>\n</tr>\n<tr>\n<td>8 91 28</td>\n<td>v. Oetinger, Ferd., Rittmstr., Krailling, Beethovenstr. 1</td>\n</tr>\n<tr>\n<td>37 11 32</td>\n<td>Oetinger, Gust., Teppiche, Adelh.Str. 20</td>\n</tr>\n<tr>\n<td>5 12 00</td>\n<td>Oetker, Dr. A., Vertr., Bayerstr. 43</td>\n</tr>\n<tr>\n<td>2 21 97</td>\n<td>Oetker Backberatung, Dr. Aug. Oetker, Theatinerstr. 48</td>\n</tr>\n<tr>\n<td>1 28 45</td>\n<td>Oettinger, Dr. K. H., R.-A., Kauf.Str. 29</td>\n</tr>\n<tr>\n<td>2 18 79</td>\n<td>Oettl, Sportbekl., M 2, Rosental 7</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "München: Oberma",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"44 12 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4 04 87</td>\n<td>Oettl, Dr. Aug., Arzt, Rosenh.Str. 151</td>\n</tr>\n<tr>\n<td>3 06 98</td>\n<td>Oettl, Clara, Buchpr., Gundel.Str. 7</td>\n</tr>\n<tr>\n<td>6 07 21</td>\n<td>Oexle, Greta, Lampadiustr. 16</td>\n</tr>\n<tr>\n<td>3 13 35</td>\n<td>Öxler, Xaver, Lebensm., Freis.Ldstr. 56</td>\n</tr>\n<tr>\n<td>59 60 61</td>\n<td>Ofenkranz, Kochanl., Westendstr. 113</td>\n</tr>\n<tr>\n<td>48 09 46</td>\n<td>Ofenstein, Georg, Chauff., Isman.Str. 75</td>\n</tr>\n<tr>\n<td>5 88 07</td>\n<td>Ofenstein, R., Marsgarage</td>\n</tr>\n<tr>\n<td>(8 90 97)</td>\n<td>Off, Andr., Metzgerei, Bräuhausstr. 18</td>\n</tr>\n<tr>\n<td>4 20 89</td>\n<td>Offenberger, Mich., Wachtm., Waldeck<br/>straße 58</td>\n</tr>\n<tr>\n<td>2 87 97</td>\n<td>Offenmüller, Phil., Oberst-Dir. i. R., Li<br/>bigstraße 39</td>\n</tr>\n<tr>\n<td>4 19 29</td>\n<td>Offermann, Jac. Gesch.-Führer Lamon<br/>straße 13</td>\n</tr>\n<tr>\n<td>8 21 76</td>\n<td>Offinger, P., Rekl.-Chef, Byecherstr. 36</td>\n</tr>\n<tr>\n<td>5 72 74</td>\n<td>Offiz. Ausstell. Sped., Theresienhöhe 14</td>\n</tr>\n<tr>\n<td>2 93 31</td>\n<td>Offiziersheim Pr. Arnulfkas., Türkenstr.</td>\n</tr>\n<tr>\n<td>3 57 37</td>\n<td>Offiziersheim Pr.-Leop.-Kas., Reiterstr. 4</td>\n</tr>\n<tr>\n<td>2 86 41</td>\n<td>Offizier-Wohlfahrtsgruppe im NS.-Reichs<br/>kriegerbund, Königinstr. 33</td>\n</tr>\n<tr>\n<td>5 63 99</td>\n<td>O-Ge-Vau, Glühlampen, Schlosserstr. 2</td>\n</tr>\n<tr>\n<td>5 22 22</td>\n<td>Orvis Maria Traunmarkt Ansdorf 94</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2 78 81</td>\n<td>v. Oheimb, Ulrich, Major, Liebigstr. 37</td>\n</tr>\n<tr>\n<td>4 50 08</td>\n<td>Ohl-Alquist, Ernst, Jak.Gelb-Pl. 9</td>\n</tr>\n<tr>\n<td>7 07 19</td>\n<td>Ohler, Wilhelm, Heimeranstr. 34</td>\n</tr>\n<tr>\n<td>59 69 80</td>\n<td>Derselbe, Paul-Heysestr. 10</td>\n</tr>\n<tr>\n<td>48 03 43</td>\n<td>Ohlrogge, Adolf, Kim., Newtonstr. 1</td>\n</tr>\n<tr>\n<td>48 03 71</td>\n<td>Ohlrogge, Ilse, Frau, Newtonstr. 1</td>\n</tr>\n<tr>\n<td>39 91 46</td>\n<td>Ohlschmid, Joh., Bäcker, Feldmoching<br/>Hauptstr. 5</td>\n</tr>\n<tr>\n<td>4 14 25</td>\n<td>Ohlsen, Joh., Musiker, WalserStr. 8</td>\n</tr>\n<tr>\n<td>6 71 32</td>\n<td>Ohlwerther, Margarete, Nymphenb.Str. 12</td>\n</tr>\n<tr>\n<td>6 70 88</td>\n<td>Ohly, Gertrud, Frau, DöllingerStr. 37</td>\n</tr>\n<tr>\n<td>4 27 14</td>\n<td>Ohmer, Hanns, Tiefbau, Aignerstr. 9</td>\n</tr>\n<tr>\n<td>3 45 67</td>\n<td>Ohms, Elisabeth, Sängerin, Werneckstr. 5</td>\n</tr>\n<tr>\n<td>4 54 32</td>\n<td>Ohmstede, Johs., Saaten, Lamontstr. 3</td>\n</tr>\n<tr>\n<td>6 31 63</td>\n<td>Ohnenmüller, F. W., Major, Hild.Str. 14</td>\n</tr>\n<tr>\n<td>5 77 28</td>\n<td>Ohnesorg, Kath., Kol.-W., Karlstr. 114</td>\n</tr>\n<tr>\n<td>1 21 15</td>\n<td>Ohnesorg, Val., Getreide, H. Wilhelm-Str. 20</td>\n</tr>\n<tr>\n<td>37 19 98</td>\n<td>Ohnmacht, Maria, Lebensm., Klarstr. 5</td>\n</tr>\n<tr>\n<td>5 75 81</td>\n<td>Ohrenklinik, Univ., Pettenk.Str. 8a</td>\n</tr>\n<tr>\n<td>5 30 24</td>\n<td>Dieselbe, Priv.-Abt., Prof. Dr. Brünings</td>\n</tr>\n<tr>\n<td>59 71 13</td>\n<td>Dieselbe, Oberarzt</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "10"
+          },
+          {
+            "extension": "5",
+            "text": "91"
+          },
+          {
+            "extension": "5",
+            "text": "27"
+          },
+          {
+            "extension": "3",
+            "text": "06"
+          },
+          {
+            "extension": "5",
+            "text": "51"
+          },
+          {
+            "extension": "2",
+            "text": "36"
+          },
+          {
+            "extension": "7",
+            "text": "14"
+          },
+          {
+            "extension": "2",
+            "text": "49"
+          },
+          {
+            "extension": "2",
+            "text": "49"
+          },
+          {
+            "extension": "2",
+            "text": "49"
+          },
+          {
+            "extension": "37",
+            "text": "02"
+          },
+          {
+            "extension": "3",
+            "text": "48"
+          },
+          {
+            "extension": "3",
+            "text": "23"
+          },
+          {
+            "extension": "2",
+            "text": "65"
+          },
+          {
+            "extension": "3",
+            "text": "23"
+          },
+          {
+            "extension": "3",
+            "text": "08"
+          },
+          {
+            "extension": "4",
+            "text": "21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>79 42 13</td>\n<td>Oldenbourg, Wilh., Buchhdlr., Singerstr. 5</td>\n</tr>\n<tr>\n<td>37 00 93</td>\n<td>Oldenburg, H. A., Versich., Bauerstr. 9</td>\n</tr>\n<tr>\n<td>3 53 72</td>\n<td>de Olea, Prof. A., Lektor, Georgenstr. 24</td>\n</tr>\n<tr>\n<td>2 49 91</td>\n<td>Olex Deutsche Benzin- u. Petrol.-GmbH,<br/>Wittelsb. Pl. 4</td>\n</tr>\n<tr>\n<td>7 45 60</td>\n<td>Olf, Köpke &amp; Co, Bananen, Implerstr. 18</td>\n</tr>\n<tr>\n<td>4 17 91</td>\n<td>Oli-Lichtspiele, Orleanspl. 2</td>\n</tr>\n<tr>\n<td>5 60 63</td>\n<td>Oligohal-Kräuter GmbH, Blütenb. Str. 12</td>\n</tr>\n<tr>\n<td>8 21 45</td>\n<td>Oliv, Otto, Kfm., Veit-Stoßstr. 43</td>\n</tr>\n<tr>\n<td>3 09 02</td>\n<td>Olive, Michael, M 23, Ohmstr. 13</td>\n</tr>\n<tr>\n<td>7 28 49</td>\n<td>Ollert, L., Automaten-Dienst, Thalk. Str. 19</td>\n</tr>\n<tr>\n<td>3 20 87</td>\n<td>Olofs, Max, Goldschmied, Königinstr. 44</td>\n</tr>\n<tr>\n<td>3 14 67</td>\n<td>Ders., Wohnung, Kaiserstr. 43</td>\n</tr>\n<tr>\n<td><b>4 00 75</b></td>\n<td><b>Olschar, V., Käse- und Fisch-Vertretung<br/>und Großhandel, M 8, Goerzer Str. 50</b></td>\n</tr>\n<tr>\n<td>29 68 17</td>\n<td>Olsen, Hugo, Dr. Ing., Oettingenstr. 31</td>\n</tr>\n<tr>\n<td>37 00 55</td>\n<td>Olszewski, K. E., Kunstmal., Elis. Str. 26</td>\n</tr>\n<tr>\n<td>49 38 82</td>\n<td>Oltersdorf, Fr., Terrazzo, Bergstr. 7</td>\n</tr>\n<tr>\n<td>2 20 33</td>\n<td>Olympia-Biromasch. AG, Theat. Str. 32</td>\n</tr>\n<tr>\n<td>59 61 47</td>\n<td>Olympia-Lichtspiele, Schellingstr. 115</td>\n</tr>\n<tr>\n<td>3 12 38</td>\n<td>v. O'Lvich. T.K., Kunstmaler. Leon. Str. 51</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Andreas Opel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 956\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>5 59 71</td>\n<td>Oppel, Fritz, Bäckerei, Erzgieß.Str. 47</td>\n</tr>\n<tr>\n<td>3 23 16</td>\n<td>Oppel, Dr. G., Forsch.-Inst., Josephstr. 41</td>\n</tr>\n<tr>\n<td>1 22 77</td>\n<td>Oppel, Georg, Schneider, Kapellenstr. 5</td>\n</tr>\n<tr>\n<td>6 06 00</td>\n<td>Oppel, Hans, Schneider, Donnersb.Str. 58</td>\n</tr>\n<tr>\n<td>2 01 89</td>\n<td>Oppelt, Annie, Sängerin, Amalienstr. 14</td>\n</tr>\n<tr>\n<td>3 00 91</td>\n<td>Oppelt, Dorothea, Hohenzollernstr. 7</td>\n</tr>\n<tr>\n<td>5 65 49</td>\n<td>Oppenheimer, A., Konsulent, Bayerstr. 25</td>\n</tr>\n<tr>\n<td>59 62 57</td>\n<td>Oppenheimer, Georg, Transp., Ligsalzstr. 4</td>\n</tr>\n<tr>\n<td>5 57 92</td>\n<td>Oppenrieder, F., Schrein., Theres.Str. 112</td>\n</tr>\n<tr>\n<td>36 02 34</td>\n<td>Oppenrieder, K., Steinmetz, Ungererstr.112</td>\n</tr>\n<tr>\n<td>49 29 09</td>\n<td>Opper, Hans, Direktor, Deisenh.Str. 4</td>\n</tr>\n<tr>\n<td>49 20 14</td>\n<td>Oppermann, Dr. F., Med.Rat, Willr.Str. 5</td>\n</tr>\n<tr>\n<td>37 18 20</td>\n<td>Oppermann, R., Zigarren, Nordendstr. 39</td>\n</tr>\n<tr>\n<td>5 87 44</td>\n<td>Oppermann, Wilh., Kunstmaler, Ludw.Pl.1</td>\n</tr>\n<tr>\n<td>6 39 32</td>\n<td>Oppler, Marie, Blumenburgstr. 92</td>\n</tr>\n<tr>\n<td>1 24 23</td>\n<td>Oppler, Theo, Reklame, Herzogs.Str. 9</td>\n</tr>\n<tr>\n<td>7 04 91</td>\n<td>Oppowa, Josef, Kohlen, Senserstr. 20</td>\n</tr>\n<tr>\n<td>4 08 16</td>\n<td>Optimol-G. mbH, Friedenstr. 7</td>\n</tr>\n<tr>\n<td>5 27 84</td>\n<td>Opt. ocul. Anst. J. Rodenstock Nf. Optiker<br/>Wolff GmbH, Bayerstr. 3</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "er — Oswald (Band IV) 897",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Optische WerkeG. Rodenstock",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "48 69 Orag Bürohaus Pettenbeckstr. AG, Nieser- straße 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Optische WerkeC. A. Steinheil SöhneG. m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 10 735 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2 73 92</td>\n<td>Orag eGmbH, Schneidergen., Dultstr. 2a</td>\n</tr>\n<tr>\n<td>47 23 04</td>\n<td>Orden d. barnh. Schwestern v. hl. V. v. P.,<br/>Unterhach., Gut Marxhof, Hs. 53</td>\n</tr>\n<tr>\n<td>49 32 60</td>\n<td>Orden d. bayer. Tapferkeitsmedaille,<br/>Maikowskistr. 4</td>\n</tr>\n<tr>\n<td>2 34 18</td>\n<td>Oremus, W., techn. Kfm., Reitmorstr. 12</td>\n</tr>\n<tr>\n<td>7 20 55</td>\n<td>Orendi, Siegr., Dipl.-Ing., Platenstr. 1</td>\n</tr>\n<tr>\n<td><b>5 94 66</b></td>\n<td><b>Orenstein &amp; Koppel A.G. siehe Maschinen-<br/>bau und Bahnbedarf A.G.</b></td>\n</tr>\n<tr>\n<td>4 35 05</td>\n<td>Orentschuk, W., Konsul, L.Grahnstr. 46</td>\n</tr>\n<tr>\n<td>6 33 67</td>\n<td>Orff, Carl, M 2, MaillingerStr. 16</td>\n</tr>\n<tr>\n<td>5 76 75</td>\n<td>Orff, Carl, Regier.-Dir., Karlstr. 25a</td>\n</tr>\n<tr>\n<td>2 69 95</td>\n<td>Organisat.- u. Handelsges., Barerstr. 50</td>\n</tr>\n<tr>\n<td>5 48 73</td>\n<td>Org.Buchhdlg., Jos. Bader, Wagnerstr. 18</td>\n</tr>\n<tr>\n<td>6 26 37</td>\n<td>Ori KG Seifenfabr. Braun &amp; Rühlmann,<br/>Siemensstr. 16</td>\n</tr>\n<tr>\n<td><b>1 15 14</b></td>\n<td><b>Orient. Cigarettefabr. Yenidse, Sendl.Str. 55</b></td>\n</tr>\n<tr>\n<td>2 05 80</td>\n<td>Orlandowäscherei Schürer, Pfisterstr. 9</td>\n</tr>\n<tr>\n<td>4 48 06</td>\n<td>von Orlie, Lily, Ismaninger Str. 52</td>\n</tr>\n<tr>\n<td>37 18 18</td>\n<td>Orlowsky, Paul, Assessor, Elisabethstr. 20</td>\n</tr>\n<tr>\n<td>5 93 55</td>\n<td>Orlowski, Therese, Blütenb.Str. 36</td>\n</tr>\n<tr>\n<td><b>2 22 22</b></td>\n<td><b>Dinaberg M 10 Tilitenthalstr. 6</b></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 722 992\" data-label=\"Text\"><table><tbody><tr><td>6 23 59</td><td>Ormig, Vertretung, Wotanstr. 28b</td></tr><tr><td>36 05 17</td><td>Ornelli, Anna, Tänzerin, Brabanterstr. 2</td></tr><tr><td>36 05 17</td><td>Ornelli, Otto, Ballettmstr., Brab.Str. 2</td></tr><tr><td>49 38 67</td><td>Oroszi, Robert, Geiselgasteigstr. 141</td></tr><tr><td>5 24 24</td><td>Orschler, Ant., Schuhfbr., Ligsalzstr. 30</td></tr><tr><td>3 28 09</td><td>Orschler, Jos., Hptm., Degenfeldstr. 2</td></tr><tr><td>4 30 03</td><td>Orschler, Joseph, Bürsten, Alpenplatz 4</td></tr><tr><td>6 01 11</td><td>Orschler, Peter, Versich., Klugstr. 128</td></tr><tr><td>89 91 05</td><td>Ortbrock, G. B., Amtsw., <i>Pla</i> Hdbg.All.15</td></tr><tr><td>4 22 46</td><td>v. Ortenburg, Graf A. ,Antiquit.-Restaur., Kellerstr. 28</td></tr><tr><td><b>2 64 51</b></td><td><b>Orth &amp; Betz, Textilwarengroßhandel, M 2, Rindermarkt 16</b></td></tr><tr><td>3 15 83</td><td>Orth &amp; Sohn, Lederfbr., Petuelstr. 15</td></tr><tr><td>5 17 16</td><td>Orth, Eugen, Kfm., Pettenkoferstr. 2</td></tr><tr><td>3 23 96</td><td>Orth, Gebh., Kfm., Tristanstr. 18a</td></tr><tr><td>1 35 93</td><td>Orth, Grete, Moden, v.Epp-Pl. 11</td></tr><tr><td>2 95 51</td><td>Orth, Julius, Modellbau, Baumstr. 8</td></tr><tr><td>3 34 51</td><td>Orth, Julius, Zentnerstr. 52</td></tr><tr><td>2 86 44</td><td>Orth, Lisa, Moden, Fürstenstr. 9</td></tr><tr><td>5 87 50</td><td>Orth, Marie, Korsette, Sonnenstr. 23</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "48",
+            "text": "03 97"
+          },
+          {
+            "extension": "5",
+            "text": "57 35"
+          },
+          {
+            "extension": "49",
+            "text": "22 51"
+          },
+          {
+            "extension": "3",
+            "text": "47 86"
+          },
+          {
+            "extension": "47",
+            "text": "24 41"
+          },
+          {
+            "extension": "5",
+            "text": "76 32"
+          },
+          {
+            "extension": "2",
+            "text": "69 34"
+          },
+          {
+            "extension": "6",
+            "text": "46 55"
+          },
+          {
+            "extension": "49",
+            "text": "28 30"
+          },
+          {
+            "extension": "6",
+            "text": "26 89"
+          },
+          {
+            "extension": "2",
+            "text": "05 53"
+          },
+          {
+            "extension": "7",
+            "text": "12 74"
+          },
+          {
+            "extension": "4",
+            "text": "13 61"
+          },
+          {
+            "extension": "7",
+            "text": "36 87"
+          },
+          {
+            "extension": "6",
+            "text": "12 53"
+          },
+          {
+            "extension": "3",
+            "text": "24 38"
+          },
+          {
+            "extension": "2",
+            "text": "93 14"
+          },
+          {
+            "extension": "6",
+            "text": "06 16"
+          },
+          {
+            "extension": "6",
+            "text": "30 87"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 714 994\" data-label=\"Text\"><table><tbody><tr><td>5 85 53</td><td>Ortner, Karl, Wandpl., Thalk.Str. 74</td></tr><tr><td>5 64 67</td><td>Ortner, Ludw., Butter, Goethestr. 20</td></tr><tr><td>5 70 54</td><td><b>Ortner, Michael, Schuhgroßhandlung u. Vertretung, München 15 Schwanthaler Straße 18</b></td></tr><tr><td>3 29 71</td><td>Ders., Wohnung, Riesenfeldstr. 42</td></tr><tr><td>7 05 25</td><td>Ortner, Otto, Kfm., Dietramsz.Pl. 7</td></tr><tr><td>8 19 26</td><td>Ortner, Rosa, Heißmangel, Untermenzing, Ad.Hitler-Str. 71</td></tr><tr><td>5 65 31</td><td>Ortner, Ther., Feinkost, Guldeinstr. 32</td></tr><tr><td>8 01 83</td><td>Ortskrankenkasse, allg., Pasing</td></tr><tr><td>5 06 01</td><td>Ortskrankenk. München, allg., Maistr. 43</td></tr><tr><td>5 25 67</td><td>Orwitz, Franz, Gärtner, Zieblandstr. 21</td></tr><tr><td>2 21 01</td><td>Osann, Cläre, Frau, Briennerstr. 55</td></tr><tr><td>2 11 20</td><td>Osann, Lina, Ww., Oettingenstr. 4</td></tr><tr><td>3 37 22</td><td>Osborne, Dr. Walter, Arzt, Giselastr. 1</td></tr><tr><td>3 02 32</td><td>Oschatz, Hans, Kfm., Traut.Str. 8</td></tr><tr><td>(4 21 66)</td><td>Oschatz, Karl, Vertreter, Falkenstr. 9</td></tr><tr><td>5 94 06</td><td>Oschmann, H., Oberstlttn., Luisenstr. 58</td></tr><tr><td>2 57 47</td><td>Oschmann, Herm., Dr., Widenm.Str. 47</td></tr><tr><td>4 20 20</td><td>Osol Anton Dedic Genuu Str. 70</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "62 88 Osel, Hans, Bildhauer, Fizanstr. 16"
+          },
+          {
+            "extension": "8",
+            "text": "02 17 Osel, Dr. H., Arzt, Perhamerstr. 74"
+          },
+          {
+            "extension": "4",
+            "text": "27 06 Osel, Martin, Isareckstr. 37 (5 90 81) Ofenbrunner, Hans, Pianist, Waltherstr. 19"
+          },
+          {
+            "extension": "2",
+            "text": "76 71 Osiris, Graph. Kunst, Rumfordstr. 29"
+          },
+          {
+            "extension": "6",
+            "text": "23 01 Osram GmbH, KG, Dach.Str. 112"
+          },
+          {
+            "extension": "36",
+            "text": "05 77 Ossanna, Dr. Ing., Prof., Germaniastr. 5"
+          },
+          {
+            "extension": "6",
+            "text": "02 60 Obberger, Cl., Chem. Erz., Isenst.Str. 11"
+          },
+          {
+            "extension": "79",
+            "text": "44 14 Ossberger, Dr. Jos., Tierarzt, Soln, Hirschensstr. 42"
+          },
+          {
+            "extension": "59",
+            "text": "75 75 { Ossie Papiervertrieb Anton Plapperer, M 12,"
+          },
+          {
+            "extension": "59",
+            "text": "75 73 { Landsberger Straße 173"
+          },
+          {
+            "extension": "4",
+            "text": "25 66 Osswald, Anna, Molk.-Prod., Kirchenstr. 5"
+          },
+          {
+            "extension": "6",
+            "text": "26 64 Osswald, Eugen, Tiermaler, Düllstr. 17"
+          },
+          {
+            "extension": "48",
+            "text": "14 67 Osswald, F., Landger.-Präs. i. R., Montgelasstr. 3"
+          }
+        ]
+      }
+    ]
+  }
+]

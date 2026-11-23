@@ -1,0 +1,821 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"200 12 998 422\" data-label=\"List-Group\">\n<table border=\"0\">\n<tr>\n<td>16 17 33</td>\n<td>Hotel Genfer Hof, Inh. J. Röder, NW 7, Dorotheenstr. 74</td>\n</tr>\n<tr>\n<td>53 21 24</td>\n<td>Hotel Georgenhof, C 2, Georgenkirchstr. 25</td>\n</tr>\n<tr>\n<td>11 62 75</td>\n<td>Hotel Georgenhof, NW 7, Georgenstr. 24</td>\n</tr>\n<tr>\n<td>51 12 98</td>\n<td>Hotel Germania, C 2, A.-Schützeustr. 12</td>\n</tr>\n<tr>\n<td>96 27 46</td>\n<td>Hotel Gervinus, Chb 4 Gervinusstr. 12</td>\n</tr>\n<tr>\n<td>68 77 76</td>\n<td>Hotel Görl. Bahnhof, SO 36, Wendenstr. 2</td>\n</tr>\n<tr>\n<td>53 02 19</td>\n<td>Hotel goldener Löwe, C 2, Georgenk. Str. 41</td>\n</tr>\n<tr>\n<td>42 25 25</td>\n<td>Hotel Gotland, N 4, Am Stettiner Bhf. 1</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"202 424 998 994\" data-label=\"List-Group\">\n<table border=\"0\">\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">}</td>\n<td><b>Hotel Golf-Hotel</b></td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td><b>Bes. Inn A.-G.</b></td>\n</tr>\n<tr>\n<td>91 83 71</td>\n<td></td>\n<td>Am Bahnhof Zoo, Hardenbergstr. 27 a/28</td>\n</tr>\n<tr>\n<td>16 09 53</td>\n<td></td>\n<td>Hotel Gottwald, SW 68, Charlottenstr. 20</td>\n</tr>\n<tr>\n<td>16 50 21</td>\n<td></td>\n<td>Hotel z. grünen Baum, W 8, Krausenstr. 56</td>\n</tr>\n<tr>\n<td>41 15 25</td>\n<td></td>\n<td>Hotel Habana, C 2, Rosent. Str. 44</td>\n</tr>\n<tr>\n<td>19 52 01</td>\n<td></td>\n<td><b>Hotel Habsburger Hof</b>, Fritz Otto, siehe<br/>jetzt Hotel Nürnberger Hof</td>\n</tr>\n<tr>\n<td>41 51 51</td>\n<td></td>\n<td>Hotel Härtel, NW 7, Friedrichstr. 135 a</td>\n</tr>\n<tr>\n<td>19 40 47</td>\n<td></td>\n<td>Hotel Hallescher Hof, SW 11, Saarl.-Str. 37</td>\n</tr>\n<tr>\n<td>11 45 50</td>\n<td></td>\n<td>Hotel Hagen, NW 10, Hagenstr. 1</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"198 0 995 290\" data-label=\"List-Group\">\n<table border=\"0\">\n<tr>\n<td>42 82 86</td>\n<td>Hotel Hansa-Hotel, C 2, Dircksenstraße 40</td>\n</tr>\n<tr>\n<td>11 11 82</td>\n<td>Hotel Harzburg. Hof, NW 7, Doroth. Str. 71</td>\n</tr>\n<tr>\n<td>91 82 91</td>\n<td>Hotel Haus Stephanie, W 15, Kurfürsten-<br/>damm 45</td>\n</tr>\n<tr>\n<td>67 58 66</td>\n<td>Hotel Helgoland, SO 16, Brückenstr. 10</td>\n</tr>\n<tr>\n<td>41 24 94</td>\n<td>Hotel Helvetia, N 4, Borsigstr. 27</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"198 295 995 532\" data-label=\"List-Group\">\n<table border=\"0\">\n<tr>\n<td><b>Sammel-</b></td>\n<td rowspan=\"2\"><b>Hotel Hermes</b></td>\n</tr>\n<tr>\n<td><b>Nr.</b></td>\n</tr>\n<tr>\n<td>41 69 81</td>\n<td>NW 7, Schiffbauerdamm 4, am Bahnhof<br/>Friedrichstraße und Weidendamm-<br/>Brücke. T Hermotel P 39280</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"198 537 995 635\" data-label=\"List-Group\">\n<table border=\"0\">\n<tr>\n<td>19 22 09</td>\n<td>Hotel K. Hinz, SW 68, Wilhelmstr. 3 b</td>\n</tr>\n<tr>\n<td>27 57 16</td>\n<td>Hotel Am Hochbahn., W 35, Bülowstr. 22</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"198 642 995 832\" data-label=\"List-Group\">\n<table border=\"0\">\n<tr>\n<td><b>Sammel-</b></td>\n<td rowspan=\"2\"><b>Hotel Hollstein</b></td>\n</tr>\n<tr>\n<td><b>Nr.</b></td>\n</tr>\n<tr>\n<td>19 65 11</td>\n<td>SW 11, Snarlandstr. 71, am Anhalter<br/>Bahnhof rechts. T Hollsteinhotel</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"198 837 995 983\" data-label=\"List-Group\">\n<table border=\"0\">\n<tr>\n<td>32 39 66</td>\n<td>Hotel Hollywood, W 15, Kurfürst. D. 62</td>\n</tr>\n<tr>\n<td>11 27 92</td>\n<td>Hotel Homburg v. d. Höhe, W 8, Friedr.-Str. 74</td>\n</tr>\n<tr>\n<td>64 64 95</td>\n<td>Hotel Hubertus, <i>Frkg</i> Schöneicher Str.</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"191 11 992 966\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>92 81 21</td>\n<td>Hotel Imperial. W 15, Kurfürstend. 181</td>\n</tr>\n<tr>\n<td>41 04 64</td>\n<td>Hotel International, NW 7, Friedr. Str. 131</td>\n</tr>\n<tr>\n<td>42 90 58</td>\n<td>Hotel Jägerheim, N 4, Chausseestr. 9</td>\n</tr>\n<tr>\n<td>12 20 03</td>\n<td>Hotel Jägerhof, W 8, Jägerstr. 66</td>\n</tr>\n<tr>\n<td>59 32 39</td>\n<td>Hotel Jannowitzbrücke, C 2, Holzstr. 69</td>\n</tr>\n<tr>\n<td>91 63 01</td>\n<td>Hotel Joachim am Zoo, Chb 2 Joach. Str. 2</td>\n</tr>\n<tr>\n<td>42 04 01</td>\n<td>Hotel Johannishof, N 4, Johannistr. 22</td>\n</tr>\n<tr>\n<td>88 51 94</td>\n<td>Hotel Kaisereiche, Frdn Rheinstr. 54</td>\n</tr>\n<tr>\n<td>12 60 81</td>\n<td>Hotel Kaiserhof, W 8, Mohrenstr. 1</td>\n</tr>\n<tr>\n<td>37 25 28</td>\n<td>Hotel „Kaiserhof“, Bes.: Minna Würdel,<br/>Berlin-Spandau, Schlemminger Str. 2</td>\n</tr>\n<tr>\n<td>84 20 19</td>\n<td>Hotel Kaiserhof, Zehl Potsd. Str. 50</td>\n</tr>\n<tr>\n<td>8 ml.-Nr.<br/>11 71 01</td>\n<td>( Hotel „Kaiser-Hotel“, W 8, Friedrich-<br/>straße 176/179. T Kaiserhotel</td>\n</tr>\n<tr>\n<td>22 61 06</td>\n<td>Hotel Kaiserkrone, W 35, Woyrschstr. 40</td>\n</tr>\n<tr>\n<td>31 17 08</td>\n<td>Hotel Kant Hotel, Chb 4 Kantstr. 54</td>\n</tr>\n<tr>\n<td>11 73 01</td>\n<td><b>Hotel Kieeler Hof</b> NW 7, Mittelstr 21/22.<br/>In allen Zimmern<br/>fließ. w. u. k. Wasser u. Reichstelefon.<br/>Zimmer m. anschl. Bad. Fahrstuhl</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"189 0 992 994\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>42 30 47</td>\n<td>Hotel Klein, NW 7, Friedrichstr. 115</td>\n</tr>\n<tr>\n<td>71 30 90</td>\n<td>Hotel Kleist, <i>Schö</i> Kaiser-Wilhelm-Pl. 2*</td>\n</tr>\n<tr>\n<td>27 65 25</td>\n<td>Hotel Kleist-Park, W 35, Potsd. Str. 187</td>\n</tr>\n<tr>\n<td>12 00 18</td>\n<td>Hotel Koburger Hof, NW 7, Georgenstr. 23</td>\n</tr>\n<tr>\n<td>19 25 75</td>\n<td>Hotel Königgr. Hof, SW 11, Saarl. Str. 72</td>\n</tr>\n<tr>\n<td>59 03 72</td>\n<td>Hotel Königstadt, C 2, Holzmarktstr. 66</td>\n</tr>\n<tr>\n<td>53 11 73</td>\n<td>Hotel Königstor, NO 18, Neue Königstr. 11</td>\n</tr>\n<tr>\n<td>67 16 95</td>\n<td>Hotel Köpenicker Hof, SO 16, Köpen.<br/>Straße 102</td>\n</tr>\n<tr>\n<td>19 23 26</td>\n<td>Hotel Köthener Hof, W 9, Köth. Str. 36</td>\n</tr>\n<tr>\n<td>58 30 17</td>\n<td>Hotel Komet, O 34, Warschauer Str. 33</td>\n</tr>\n<tr>\n<td>19 26 95</td>\n<td>Hotel Koppe, SW 11, Saarlandstr. 86</td>\n</tr>\n<tr>\n<td>51 28 01</td>\n<td>Hotel Kraft, C 2, Heiligegegelststr. 17</td>\n</tr>\n<tr>\n<td>16 63 21</td>\n<td>Hotel Der Krausenhof, W 8, Krausenstr. 8</td>\n</tr>\n<tr>\n<td>19 14 16</td>\n<td>Hotel Kreuzberg, SW 11, Saarlandstr. 26</td>\n</tr>\n<tr>\n<td>41 38 73</td>\n<td>Hotel zur Krone, N 4, Novallistr. 5</td>\n</tr>\n<tr>\n<td>19 24 66</td>\n<td>Hotel Kronstadt, SW 68, Friedrichstr. 214</td>\n</tr>\n<tr>\n<td>19 48 37</td>\n<td>Hotel Kühn, SW 11, Anhalter Str. 11</td>\n</tr>\n<tr>\n<td>59 15 61</td>\n<td>Hotel Küstriner Hof, O 17, Madalstr. 8</td>\n</tr>\n<tr>\n<td>91 02 96</td>\n<td>Hotel Kurfürst am Zoo, W 50, Kurf.-D. 17</td>\n</tr>\n<tr>\n<td>22 31 33</td>\n<td>Hotel z. Kurfürsten, W 35, Ludend. Str. 88</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"188 0 991 975\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>22 27 37</td>\n<td>Hotel Der Kurfürstenhof, W 35, Kurf. Str. 150</td>\n</tr>\n<tr>\n<td>19 78 66</td>\n<td>Hotel Kurmark, SW 11, Saarlandstr. 52</td>\n</tr>\n<tr>\n<td>42 09 14</td>\n<td>Hotel Lehrter Hof, NW 40, Alex. Uf. 2</td>\n</tr>\n<tr>\n<td>21 22 24</td>\n<td>Hotel Emma Lenz, W 9, Potsd. Str. 11</td>\n</tr>\n<tr>\n<td>59 68 36</td>\n<td>Hotel Liegnitzer Hof, O 17, Koppenstr. 2</td>\n</tr>\n<tr>\n<td>42 83 15</td>\n<td>Hotel Lloyd, N 4, Invalidenstr. 124</td>\n</tr>\n<tr>\n<td>68 63 58</td>\n<td>Hotel Lübben, SO 36, Skalitzer Str. 47</td>\n</tr>\n<tr>\n<td>31 03 33</td>\n<td>Hotel Lützow, Chb 2 Kantstr. 149</td>\n</tr>\n<tr>\n<td>67 13 58</td>\n<td>Hotel Luisenstadt, SW 68, A. Jak. Str. 61</td>\n</tr>\n<tr>\n<td>59 30 88</td>\n<td>Hotel Märkischer Hof, Besitzer: Minna Schulz, O 17, Koppenstr. 3a</td>\n</tr>\n<tr>\n<td>42 71 51</td>\n<td>Hotel Märk. Hof, N 4, Linienstr. 133</td>\n</tr>\n<tr>\n<td>97 76 51</td>\n<td><b>Hotel Villa Majestic</b><br/>Berlin-Wilmersdorf, Brandenburgische Strasse 47. T Majestic</td>\n</tr>\n<tr>\n<td>10 61 41</td>\n<td>Hotel Manegold, SW 11, Saarlandstr. 80</td>\n</tr>\n<tr>\n<td>17 35 15</td>\n<td>Hotel Markgraf, SW 68, Zimmerstr. 30</td>\n</tr>\n<tr>\n<td>16 84 44</td>\n<td>Hotel Markgrafen-Hof, Hans Blanckenburg, Berlin W 8, Markgrafenstr. 47</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"188 9 992 975\" data-label=\"Text\"><table><tbody><tr><td>61 10 86</td><td>Hotel Meier, SW 68, Oranienstr. 50</td></tr><tr><td>91 75 33</td><td>Hotel Merkur, W 15, Kurfürstend. 212</td></tr><tr><td>19 26 52</td><td>Hotel Meyer, SW 68, Wilhelmstr. 119</td></tr><tr><td>19 08 72</td><td>Hotel Minerva, SW 11, Saarlandstr. 68</td></tr><tr><td>12 49 77</td><td>Hotel Mohreneck, W 8, Friedrichstr. 185</td></tr><tr><td>16 27 65</td><td>Hotel Monopol, NW 7, Georgenstr. 29</td></tr><tr><td>61 19 46</td><td>Hotel Moritzplatz, SW 68, Luck. Str. 2</td></tr><tr><td>42 15 94</td><td>Hotel Münchener Haus, NW 7, Friedr. Str. 135</td></tr><tr><td>19 01 19</td><td>Hotel Münchener Hof, SW 11, Saarl. Str. 93</td></tr><tr><td>19 19 39</td><td>Hotel Naydek, SW 11, Saarlandstr. 63</td></tr><tr><td>85 05 70</td><td>Hotel Nestler, <i>Zehl</i> Beerenstr. 57</td></tr><tr><td>41 45 35</td><td>Hotel Neubrandenburg, N 4, Chauss. Str. 120</td></tr><tr><td>52 08 70</td><td>Hotel n. Königlshof, C 2, N. Königlstr. 43</td></tr><tr><td>42 66 28</td><td>Hotel Neues Tor, N 4, Invalidenstr. 102</td></tr><tr><td>42 12 59</td><td>Hotel Neumann, NW 7, Friedrichstr. 124</td></tr><tr><td>19 26 30</td><td>Hotel Neumann, SW 11, Bernb. Str. 11</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Kaiserhof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "t und 5",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 12 998 421\" data-label=\"Table\">\n<table>\n<tr>\n<td>12 22 96</td>\n<td>Hotel Neustädter Hof, NW 7, Doroth. Str. 57</td>\n</tr>\n<tr>\n<td>42 04 70</td>\n<td>Hotel Neustrelitz, N 4, Borsigstr. 14</td>\n</tr>\n<tr>\n<td>11 11 83</td>\n<td>Hotel Neutral, NW 7, Friedrichstr. 151</td>\n</tr>\n<tr>\n<td>59 19 01</td>\n<td>Hotel Neutraler Hof, O 17, Schles. Bhf. 5</td>\n</tr>\n<tr>\n<td>19 21 47</td>\n<td>Hotel Niendorf, SW 11, Anhalter Str. 1</td>\n</tr>\n<tr>\n<td>51 40 65</td>\n<td>Hotel Nix, C 2, Klosterstr. 42</td>\n</tr>\n<tr>\n<td>58 32 93</td>\n<td>Hotel Noack, O 34, Frankf. Allee 339</td>\n</tr>\n<tr>\n<td>41 35 00</td>\n<td>Hotel Nord, N 4, Eichendorffstr. 6</td>\n</tr>\n<tr>\n<td>35 48 34</td>\n<td>Hotel Nord-West, NW 40, Alt Moabit 120</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"15 418 998 758\" data-label=\"Table\">\n<table>\n<tr>\n<td>Sammel-</td>\n<td><b>Hotel Norddeutscher Hof</b></td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td><b>Inh. Richard Dolling</b></td>\n</tr>\n<tr>\n<td>16 50 46</td>\n<td>W 8, Krausenstr. 11 an der Friedrich- u. Leipziger Str. T Dollinghotel</td>\n</tr>\n<tr>\n<td>42 59 86</td>\n<td>Hotel Nordischer Hof, N 4, Inval. Str. 125</td>\n</tr>\n<tr>\n<td>42 57 31</td>\n<td>Hotel Nordland, N 4, Invalidenstr. 115</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"15 758 998 992\" data-label=\"Table\">\n<table>\n<tr>\n<td>Sammel-</td>\n<td><b>Hotel Nürnberger Hof</b></td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td>Egt. Fritz Otto, SW 11, Askanischer</td>\n</tr>\n<tr>\n<td>19 52 01</td>\n<td>Platz 1. T Nürnberghof</td>\n</tr>\n<tr>\n<td>42 34 04</td>\n<td>Hotel Oranienburger Hof, N 4, Linien-</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"196 972 398 992\" data-label=\"Page-Footer\">\n<p>— 1200 — 1977</p>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "61",
+            "text": "31"
+          },
+          {
+            "extension": "59",
+            "text": "57"
+          },
+          {
+            "extension": "57",
+            "text": "35"
+          },
+          {
+            "extension": "42",
+            "text": "39"
+          },
+          {
+            "extension": "27",
+            "text": "54"
+          },
+          {
+            "extension": "19",
+            "text": "33"
+          },
+          {
+            "extension": "42",
+            "text": "69"
+          },
+          {
+            "extension": "16",
+            "text": "03"
+          },
+          {
+            "extension": "41",
+            "text": "46"
+          },
+          {
+            "extension": "12",
+            "text": "35"
+          },
+          {
+            "extension": "91",
+            "text": "15"
+          },
+          {
+            "extension": "91",
+            "text": "74"
+          },
+          {
+            "extension": "25",
+            "text": "51"
+          },
+          {
+            "extension": "41",
+            "text": "44"
+          },
+          {
+            "extension": "24",
+            "text": "13"
+          },
+          {
+            "extension": "12",
+            "text": "23"
+          },
+          {
+            "extension": "91",
+            "text": "71"
+          },
+          {
+            "extension": "32",
+            "text": "02"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "17",
+            "text": "00"
+          },
+          {
+            "extension": "19",
+            "text": "79"
+          },
+          {
+            "extension": "19",
+            "text": "03"
+          },
+          {
+            "extension": "92",
+            "text": "81"
+          },
+          {
+            "extension": "22",
+            "text": "08"
+          },
+          {
+            "extension": "19",
+            "text": "01"
+          },
+          {
+            "extension": "61",
+            "text": "39"
+          },
+          {
+            "extension": "96",
+            "text": "14"
+          },
+          {
+            "extension": "31",
+            "text": "01"
+          },
+          {
+            "extension": "31",
+            "text": "45"
+          },
+          {
+            "extension": "25",
+            "text": "26"
+          },
+          {
+            "extension": "61",
+            "text": "10"
+          },
+          {
+            "extension": "11",
+            "text": "40"
+          },
+          {
+            "extension": "61",
+            "text": "09"
+          },
+          {
+            "extension": "24",
+            "text": "36"
+          },
+          {
+            "extension": "27",
+            "text": "19"
+          },
+          {
+            "extension": "91",
+            "text": "82"
+          },
+          {
+            "extension": "42",
+            "text": "26"
+          },
+          {
+            "extension": "24",
+            "text": "62"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\"><table><tr><td>19 21 87</td><td>Hotel-Pens. Roman, SW 11, Hall. Str. 28</td></tr><tr><td>91 36 72</td><td>Hotel-Pension Royal, W 50, Kurf.-D. 13</td></tr><tr><td>41 44 84</td><td>Hotel-Pension Ruff, NW 7, Marienstr. 30</td></tr><tr><td>21 29 35</td><td>Hotel-Pens. Sadewasser, W 9, Linkstr. 28</td></tr><tr><td>41 56 10</td><td>Hotel-Pens. Saebeler, N 4, Elsäßer Str. 43</td></tr><tr><td>11 34 23</td><td>Hotel-Pens. Scharlemann, NW 7, Mittelstr. 34</td></tr><tr><td>41 49 59</td><td>Hotel-Pens. A. Schubert, NW 7, Schiffb.-D. 6</td></tr><tr><td>52 12 51</td><td>Hotel-Pens. Ellis. Sternkopf, C 2, Poststr. 12</td></tr><tr><td>19 41 41</td><td>Hot.-Pens. Tegethoff, SW 11, Schönch. Str. 32</td></tr><tr><td>42 76 22</td><td>Hotel-Pens. E. Weiß, NW 7, Friedr.-Str. 122</td></tr><tr><td>91 20 09</td><td>Hotel-Pension K. Werres, W 50, Augsb.<br/>Straße 37</td></tr><tr><td>25 74 46</td><td>Hotel-Pens. Wittenberg, W 62, Lutherstr. 12</td></tr><tr><td>51 29 26</td><td>Hotel Pfälzer Hof, C 2, N. Friedr. Str. 22</td></tr><tr><td>19 47 03</td><td>Hotel Phönix, SW 11, Saarlandstr. 67</td></tr><tr><td>41 35 25</td><td>Hotel Pomm. Hof, N 4, Chausseestr. 118</td></tr><tr><td>51 25 34</td><td>Hotel Pomm. Haus, C 2, Prenzl. Str. 32</td></tr><tr><td>27 14 18</td><td>Hotel Potsdam, Inh.: B. Kujawski, Berlin<br/>W 35, Potsdamer Str. 156</td></tr><tr><td>19 42 42</td><td>Hotel Potsdamer Hof, W 9, Köth. Str. 45</td></tr><tr><td>19 36 46</td><td>Hotel a. Potsd. Platz, W 9, Saarl. Str. 125</td></tr></table></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Lietzow 31",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Wunmerl",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "[REDACTED] [REDACTED]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Berlin: I",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "19",
+            "text": "13"
+          },
+          {
+            "extension": "42",
+            "text": "60"
+          },
+          {
+            "extension": "27",
+            "text": "70"
+          },
+          {
+            "extension": "42",
+            "text": "26"
+          },
+          {
+            "extension": "91",
+            "text": "30"
+          },
+          {
+            "extension": "31",
+            "text": "81"
+          },
+          {
+            "extension": "22",
+            "text": "28"
+          },
+          {
+            "extension": "12",
+            "text": "45"
+          },
+          {
+            "extension": "41",
+            "text": "05"
+          },
+          {
+            "extension": "84",
+            "text": "20"
+          },
+          {
+            "extension": "68",
+            "text": "28"
+          },
+          {
+            "extension": "34",
+            "text": "48"
+          },
+          {
+            "extension": "11",
+            "text": "62"
+          },
+          {
+            "extension": "71",
+            "text": "14"
+          },
+          {
+            "extension": "19",
+            "text": "23"
+          },
+          {
+            "extension": "19",
+            "text": "41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "12",
+            "text": "18"
+          },
+          {
+            "extension": "12",
+            "text": "43"
+          },
+          {
+            "extension": "84",
+            "text": "40"
+          },
+          {
+            "extension": "16",
+            "text": "15"
+          },
+          {
+            "extension": "12",
+            "text": "15"
+          },
+          {
+            "extension": "27",
+            "text": "34"
+          },
+          {
+            "extension": "27",
+            "text": "53"
+          },
+          {
+            "extension": "67",
+            "text": "57"
+          },
+          {
+            "extension": "16",
+            "text": "29"
+          },
+          {
+            "extension": "42",
+            "text": "22"
+          },
+          {
+            "extension": "11",
+            "text": "27"
+          },
+          {
+            "extension": "42",
+            "text": "69"
+          },
+          {
+            "extension": "17",
+            "text": "75"
+          },
+          {
+            "extension": "31",
+            "text": "77"
+          },
+          {
+            "extension": "59",
+            "text": "55"
+          },
+          {
+            "extension": "42",
+            "text": "09"
+          },
+          {
+            "extension": "68",
+            "text": "13"
+          },
+          {
+            "extension": "31",
+            "text": "18"
+          },
+          {
+            "extension": "10",
+            "text": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>11 23 38</td>\n<td>Hotel Stadt Köln, NW 7, Dorotheenstr. 69</td>\n</tr>\n<tr>\n<td>31 15 40</td>\n<td>Hotel Stadt Königsberg, Chb Stuttgart. Pl. 8</td>\n</tr>\n<tr>\n<td>42 24 06</td>\n<td>Hotel Stadt Kopenhagen, N 4, Gartenstr. 9</td>\n</tr>\n<tr>\n<td>19 40 67</td>\n<td>Hotel Stadt Leipzig, SW 11, Möck. Str. 145</td>\n</tr>\n<tr>\n<td>22 36 35</td>\n<td>Hotel Stadt Nürnberg, W 35, Bülowstr. 87</td>\n</tr>\n<tr>\n<td>59 01 11</td>\n<td>Hotel Stadt Posen, O 17, Schles. Bhf. 1a</td>\n</tr>\n<tr>\n<td>41 05 00</td>\n<td>Hotel Stadt Prag, NW 7, Schiffbauerd. 18</td>\n</tr>\n<tr>\n<td>52 31 64</td>\n<td>Hotel Stadt Pyritz, C 2, Dircksenstr. 4</td>\n</tr>\n<tr>\n<td>21 16 67</td>\n<td>Hotel Stadt Rheinsberg, W9, Potsd. Str. 13</td>\n</tr>\n<tr>\n<td>11 68 11</td>\n<td>Hotel Stadt Riga, NW 7, Mittelstr. 12</td>\n</tr>\n<tr>\n<td>41 43 61</td>\n<td>Hotel Stadt Ruppin, N 4, Borsigstr. 18</td>\n</tr>\n<tr>\n<td>59 02 52</td>\n<td>Hotel Stadt Ruppin, O 17, Koppenstr. 3</td>\n</tr>\n<tr>\n<td>42 84 28</td>\n<td>Hotel Stadt Schwerin, N 4, Eichend.-Str. 10</td>\n</tr>\n<tr>\n<td>19 33 70</td>\n<td>Hotel Stadt Weimar, SW 11, Möck. Str. 144</td>\n</tr>\n<tr>\n<td>19 36 59</td>\n<td>Hotel Stadt Wien, SW 11, Hedemannstr. 2</td>\n</tr>\n<tr>\n<td>59 05 32</td>\n<td>Hotel z. Stadtwappen, O 17, Kopp. Str. 96</td>\n</tr>\n<tr>\n<td>42 05 46</td>\n<td>Hotel Stahmann, NW 7, Karlstr. 25</td>\n</tr>\n<tr>\n<td>41 18 08</td>\n<td>Hotel Stargarder Hof, N 4, Inval. Str. 127</td>\n</tr>\n<tr>\n<td>19 01 26</td>\n<td>Hotel Staudemeyer, SW 11, Saarlandstr. 65</td>\n</tr>\n<tr>\n<td>8ml.-Nr.<br/>31 53 01</td>\n<td>( Hotel Steinplatz, Inh. Frau E. Zellermayer,<br/>-Charlottenburg 2. Uhlandstr. 197</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Spandau, Carl-Schurz-Straße 47",
+        "entries": [
+          {
+            "extension": "42",
+            "text": "65 45 Hotel Stettiner Bahnhof, Inh. A. Grosam, N 4, Invalidenstraße 123"
+          },
+          {
+            "extension": "41",
+            "text": "33 98 Hotel Stettiner Haus, N 4, Schlegelstr. 4"
+          },
+          {
+            "extension": "42",
+            "text": "87 05 Hotel Stettiner Hof, N 4, Invalidenstr. 117"
+          },
+          {
+            "extension": "51",
+            "text": "10 84 Hotel Stralauer Hof, C 2, Stralauer Str. 10"
+          },
+          {
+            "extension": "41",
+            "text": "22 69 Hotel Stralsund, N 4, Invalidenstr. 31"
+          },
+          {
+            "extension": "19",
+            "text": "61 01 Hotel Stuttgarter Hof, Hermann Weinreich, Berlin SW 11, Anhalter Str 9"
+          },
+          {
+            "extension": "34",
+            "text": "65 69 Hotel Stuttgarter Hof, Chb Stuttg. Pl. 20"
+          },
+          {
+            "extension": "67",
+            "text": "26 40 Hotel Süd-Ost, SO 16, Brückenstr. 15"
+          },
+          {
+            "extension": "32",
+            "text": "39 11 Hotel Tempo, W 15, Kurfürstendamm 59"
+          },
+          {
+            "extension": "22",
+            "text": "07 30 Hotel Terminus, W 9, Potsdamer Str. 14"
+          },
+          {
+            "extension": "16",
+            "text": "12 21 Hotel Thalia, C 2, Neue Rußstr. 19"
+          },
+          {
+            "extension": "62",
+            "text": "83 63 Hotel Thüringer Hof, Neuk Neckarstr. 2"
+          },
+          {
+            "extension": "19",
+            "text": "05 71 Hotel Thüringer Hof, SW 11, Hedem. Str. 8"
+          },
+          {
+            "extension": "62",
+            "text": "65 19 Hotel Tivoli, SW 29, Kottbusser Damm 95"
+          },
+          {
+            "extension": "11",
+            "text": "68 01 Hotel Toepfer, NW 7 Dorotheenstr. 66"
+          },
+          {
+            "extension": "31",
+            "text": "45 66 Hotel „Union“, Bes.: Waldem. Weinert, -Charlottenburg 4, Stuttgarter Platz 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 987 975\" data-label=\"Table\">\n<table>\n<tr>\n<td>22 61 16</td>\n<td>Hotel Wienandt, W 35, Potsdamer Str. 65</td>\n</tr>\n<tr>\n<td>68 48 83</td>\n<td>Hotel Wiener-Hof, SO 36, Wiener Str. 66</td>\n</tr>\n<tr>\n<td>51 84 47</td>\n<td>Hotel Wienerhof, C 2, Kurze Str. 15</td>\n</tr>\n<tr>\n<td>42 77 20</td>\n<td>Hotel Wilhelmshof, C 2, K.-Wilh.-Str. 36</td>\n</tr>\n<tr>\n<td>68 02 13</td>\n<td>Hotel u. Wirtshaus z. goldenen Rößl,<br/>SO 36, Wiener Str. 24</td>\n</tr>\n<tr>\n<td>42 70 61</td>\n<td>Hotel Wittchen, NW 7, Albrechtstr. 11</td>\n</tr>\n<tr>\n<td>19 27 03</td>\n<td>Hotel Württemberger Hof, SW 11, Anh. Str. 2</td>\n</tr>\n<tr>\n<td>42 10 85</td>\n<td>Hotel Wuppertaler Hof, N 4, Schlegelstr. 19</td>\n</tr>\n<tr>\n<td>41 12 90</td>\n<td>Hotel Zeisler, N 54, Dragonerstr. 15</td>\n</tr>\n<tr>\n<td>58 33 15</td>\n<td>Hotel Zentralviehhof, O 34, Weidenweg 49</td>\n</tr>\n<tr>\n<td>17 72 53</td>\n<td>Hotel Zentrum, SW 68, Zimmerstr. 78</td>\n</tr>\n<tr>\n<td>51 08 50</td>\n<td>Hotel Zentrum, Alexanderpl., Bes.: Charl.<br/>Müller, C 2, Memhardstr. 2</td>\n</tr>\n<tr>\n<td>19 14 51</td>\n<td>Hotel Zenz, SW 11, Beruburger Str. 6</td>\n</tr>\n<tr>\n<td>12 36 64</td>\n<td>Hotel Ziegler, W 8, Friedrichstr. 76</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "- Elberfeld",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Hotel — Howey (Band II) 303",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 11 758 981\" data-label=\"Text\"><table><tbody><tr><td>91 91 81</td><td>Hotel am Zoo, W 15, Kurf.-D. 25</td></tr><tr><td>91 81 66</td><td>Hotel „Zoo-Eck“, Inh. Paul Berghausen,<br/>W 15, Kurfürstendamm 23</td></tr><tr><td>11 74 41</td><td>Hotelbetriebs AG, W 8, U. d. Linden 33</td></tr><tr><td>25 06 30</td><td>Hotelnachweis, W 62, Bayreuther Str. 33</td></tr><tr><td>71 57 67</td><td>Dr. Hotes, Schober &amp; Co Chem. Fbr.,<br/>GmbH, <i>Schb</i> Hauptstr. 26</td></tr><tr><td>71 42 26</td><td>Hotescheck, A., Gastw., <i>Schb</i> Bahnstr. 10</td></tr><tr><td>30 80 25</td><td>Hotescheck, R., Gastw., <i>Borsw</i> Ernststr. 23</td></tr><tr><td>26 56 51</td><td>Hoth, Alb., Kfm., W 30, Traunst. Str. 8</td></tr><tr><td>25 77 00</td><td>Hoth, Alb., Kohlen, W 62, Keithstr. 5</td></tr><tr><td>87 61 52</td><td>Hoth, Dr. B., Tierarzt, <i>Wilm</i> Uhlandstr. 61</td></tr><tr><td>37 44 61</td><td>Hoth, Carl, Bekleid., <i>Spd</i> Markt 6</td></tr><tr><td>61 32 62</td><td>Hoth, Emil, Plätt., SO 35, Thielschufer 36</td></tr><tr><td>91 27 52</td><td>Hoth, F., Friseur, W 50, Augsb. Str. 35</td></tr><tr><td>89 71 21</td><td>Hoth, Fritz, Vertreter, <i>Grw</i> Plöner Str. 22</td></tr><tr><td>25 09 22</td><td>Hoth, Dr. G., Arzt, W 30, N. Winterf. Str. 18</td></tr><tr><td>99 32 76</td><td>Hoth, Klaus, <i>Chb</i> 9 Reichssportfeldstr. 21</td></tr><tr><td>42 88 84</td><td>Hoth, P., Gastst., N 4, Oranienb. Str. 34</td></tr><tr><td>52 49 10</td><td>Hoth, P., Lederkleid., C 2, Memhardstr. 10</td></tr><tr><td>57 36 63</td><td>Ders., O 34, Warschauer Str. 63</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Straße 27",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 748 992\" data-label=\"Text\"><table><tbody><tr><td>96 13 51</td><td>Hotz, Prof., E., Dr.-Ing.,</td><td><i>Hal</i> Küstr.Str.10</td></tr><tr><td>72 75 37</td><td>Hotz, Hedwig,</td><td><i>Stegl</i> Liliencronstr. 16</td></tr><tr><td>73 94 23</td><td>Hotz, Dr. W.,</td><td>Archivar, <i>Ltf</i> Berl. Str. 59</td></tr><tr><td>62 98 85</td><td>Hotz, W.,</td><td>Feinstahlbau, Britz, Werderstr.82</td></tr><tr><td>75 25 31</td><td>Hotz, W.,</td><td>Ingen., <i>Tmp</i> Dorfstr. 36</td></tr><tr><td>51 46 45</td><td>Hotzan, Fritz, R.-A.,</td><td>C 2, Memhardstr. 6</td></tr><tr><td>44 17 07</td><td>Hotze, Else,</td><td>Angest., <i>Pko</i> Rennerstr. 83</td></tr><tr><td>80 72 45</td><td>Hotze, F.,</td><td>Dr. jur., <i>Wan</i> Kyllmannstr. 18</td></tr><tr><td>65 60 62</td><td>Hotze, Herb.,</td><td>Apoth., <i>Grü</i> Preuß. Str. 37</td></tr><tr><td>50 41 68</td><td>Hotze, Hermann,</td><td><i>Hhschö</i> Elsastr. 18</td></tr><tr><td>44 89 90</td><td>Hotze, H.,</td><td>Särge, N 31, Demminer Str. 14</td></tr><tr><td>89 60 82</td><td>Hotze, Karl,</td><td>Versich., <i>Smgd</i> Aug.-Vikt.-<br/>Straße 42</td></tr><tr><td>58 44 54</td><td>Hotze, L.,</td><td>Fuhrw., O 34, Boxh. Str. 117</td></tr><tr><td>42 75 76</td><td>Hotze, W.,</td><td>Tierhdlg., N 54, Weinb.-Weg 11</td></tr><tr><td>63 40 43</td><td>Hotze, Willi,</td><td>Ref., <i>Ndude</i> Berliner Str. 62</td></tr><tr><td>67 04 21</td><td>Hotzel, B.,</td><td>Kfm., SO 16, Michaelk.Pl. 15</td></tr><tr><td>99 11 35</td><td>Hotzel, Curt,</td><td>Schriftst., <i>Chb</i> Halmstr. 10</td></tr><tr><td>93 12 62</td><td>Hotzel, Lilly,</td><td><i>Chb</i> 9 Langobardenallee 11</td></tr><tr><td>62 55 30</td><td>Hotzel, P.,</td><td>Autofuhrw., <i>Neuk</i> Wechselstr. 67</td></tr><tr><td>48 73 27</td><td>Hotzel, R.,</td><td>Vertr., <i>Ndude</i> Blumenth.Str.27</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 744 981\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th>5</th>\n<th>6</th>\n<th>7</th>\n<th>8</th>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 742 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>39 27 04</td>\n<td>v. Hout, E.,</td>\n<td>Ger.-Rat, NW 21, Ess.Str. 22</td>\n</tr>\n<tr>\n<td>31 23 13</td>\n<td>C. J. van Houten &amp; Zoon GmbH,</td>\n<td>Cacaofbr.,<br/>Chb 4 Weimarer Str. 36</td>\n</tr>\n<tr>\n<td>75 95 42</td>\n<td>Houtrouw, C., Dir.,</td>\n<td>Süd Krumme Str. 4</td>\n</tr>\n<tr>\n<td>72 25 74</td>\n<td>Houtrouw, O.G., Verlag,</td>\n<td>Stegl Feuerb.-Str. 61</td>\n</tr>\n<tr>\n<td>97 21 35</td>\n<td>v. Houwald, K.F., Frhr., Major,</td>\n<td>Hal Eisenz.<br/>Straße 5</td>\n</tr>\n<tr>\n<td>34 59 97</td>\n<td>Hoven, H., Fuhrw.,</td>\n<td>Chb 1 Berliner Str. 57</td>\n</tr>\n<tr>\n<td>64 90 67</td>\n<td>Howald, M., Ing.,</td>\n<td>Wilhg Fahlenb. Str. 26</td>\n</tr>\n<tr>\n<td>76 04 13</td>\n<td>Howaldt, Hans,</td>\n<td>Ltf Willd.-Str. 28</td>\n</tr>\n<tr>\n<td>76 23 36</td>\n<td>Howaldt, Kurt, Dir.,</td>\n<td>Dahl Falkenried 2</td>\n</tr>\n<tr>\n<td>50 83 49</td>\n<td>Howaldt, M., Kap.Matr.,</td>\n<td>Biesd Parad. 44</td>\n</tr>\n<tr>\n<td>73 41 08</td>\n<td>Howe, Albert,</td>\n<td>Ltf Hindenburgd. 104</td>\n</tr>\n<tr>\n<td>71 09 30</td>\n<td>Howe, Anna,</td>\n<td>Schb Salzburger Str. 14</td>\n</tr>\n<tr>\n<td>35 42 58</td>\n<td>Howe, Aug., Café,</td>\n<td>NW 21, Turmstr. 20</td>\n</tr>\n<tr>\n<td>37 34 75</td>\n<td>Howe, C., Gärtner,</td>\n<td>Gtw Gat.Str. 296</td>\n</tr>\n<tr>\n<td>83 15 45</td>\n<td>Howe, Elfriede,</td>\n<td>Frdn Kaiserallee 105</td>\n</tr>\n<tr>\n<td>60 69 70</td>\n<td>Howe, Ella, Britz,</td>\n<td>Grün. Weg 14</td>\n</tr>\n<tr>\n<td>59 09 91</td>\n<td>Howe, E., H. Bekleid.,</td>\n<td>O 17, Braun. W. 96</td>\n</tr>\n<tr>\n<td>64 97 09</td>\n<td>Ders., Wohn.,</td>\n<td>Wilhg Pleßstr. 53</td>\n</tr>\n<tr>\n<td>82 55 82</td>\n<td>Howe Fr Ansest.</td>\n<td>Wiltn Joh Str. 1</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 744 969\" data-label=\"Text\"><table><tbody><tr><td>84 90 03</td><td>Howe, Georg, Udst, <i>Almzenien</i>. D. 121</td></tr><tr><td>89 08 72</td><td>Howe, Gerh., Ing., <i>Sngd</i> Forck.-Str. 58</td></tr><tr><td>92 68 11</td><td>Howe, Gertrud, Schausp., W 15, Lietz. Str. 22</td></tr><tr><td>39 04 96</td><td>Howe, Gustav, Verw., NW 21, Ess. Str. 28</td></tr><tr><td>24 70 72</td><td>Howe, H., Dir., W 50, Spichernstr. 2</td></tr><tr><td>44 90 08</td><td>Howe, H., Insp., N 113, Bornh. Str. 76</td></tr><tr><td>79 43 49</td><td>Howe, K. Fr., Amtsrat, <i>Stegl</i> H. Kohl-Str. 3</td></tr><tr><td>87 66 93</td><td>Howe, Louise, Frau, <i>Wilm</i> Pfalzb. Str. 50</td></tr><tr><td>44 70 84</td><td>Howe, M., D. Moden, N 31, Putb. Str. 50</td></tr><tr><td>70 97 17</td><td>Howe, W., Textil., <i>Ltra</i> Hilbertstr. 1</td></tr><tr><td>48 16 54</td><td>Howe, Walter, Fleischer, <i>Pko</i> Elmerstr. 21</td></tr><tr><td>17 19 63</td><td><b>HOWE &amp; BEHM</b>, Setzmaschinenbetrieb,<br/>Berlin SW 68, Lindenstr. 16/17</td></tr><tr><td>58 11 38</td><td>Howey, A., D. Bekleid., O 112, FrankA. 271</td></tr><tr><td>72 57 96</td><td>Howey, Dr. F., Reg.-Rat, <i>Stegl</i> Altmark-<br/>straße 6</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Fernsprecher:Sammel-Nr. 21211",
+        "entries": []
+      }
+    ]
+  }
+]

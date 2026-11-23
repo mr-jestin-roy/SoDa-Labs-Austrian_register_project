@@ -1,0 +1,906 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "320",
+            "text": "(Band II) Berlin: Jeni"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"235 10 999 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>79 65 18</td>\n<td>Jenichen, Martha, Bäck.,</td>\n<td>Stegl Birkb. Straße 10</td>\n</tr>\n<tr>\n<td>93 76 92</td>\n<td>Jenisch, Dr. E., Prof.,</td>\n<td>Chb 5 N. Kantstr. 13</td>\n</tr>\n<tr>\n<td>24 04 16</td>\n<td>Jenischewsky, Lonny, W 30,</td>\n<td>Mart.-Luther-Straße 93</td>\n</tr>\n<tr>\n<td>53 02 62</td>\n<td>Jenke, A., Fleisch.,</td>\n<td>NO 18, Oleanderstr. 2</td>\n</tr>\n<tr>\n<td>64 09 08</td>\n<td>Jenke, Arno, Kol.-W.,</td>\n<td>Köp Kietzer Str. 6</td>\n</tr>\n<tr>\n<td>59 41 10</td>\n<td>Jenke, A., Fleisch.,</td>\n<td>NO 18, Syringenpl. 10</td>\n</tr>\n<tr>\n<td>30 24 63</td>\n<td>Jenke, C., Fuhrm.,</td>\n<td>Chb 1 Halinger. Weg 3</td>\n</tr>\n<tr>\n<td>30 22 10</td>\n<td>Jenke, C., Zigarr.,</td>\n<td>Chb 1 Wagnerpl. 2</td>\n</tr>\n<tr>\n<td>91 64 81</td>\n<td>Jenke, Heinz, W 15,</td>\n<td>Joachimsth. Str. 9</td>\n</tr>\n<tr>\n<td>66 83 24</td>\n<td>Jenke, Herm., Angest.,</td>\n<td>Temp Bayernring 20</td>\n</tr>\n<tr>\n<td>26 19 46</td>\n<td>Jenke, Dr. Max,</td>\n<td>Steuerberater, W 30, Bamberger Str. 32</td>\n</tr>\n<tr>\n<td>88 60 09</td>\n<td>Jenke, Otto, Major,</td>\n<td>Frdn Retzdorffprom. 1</td>\n</tr>\n<tr>\n<td>35 70 89</td>\n<td>Jenke, Rich., Gastw.,</td>\n<td>NW 87, Waldstr. 2</td>\n</tr>\n<tr>\n<td>92 63 58</td>\n<td>Jenke, Wern., Kfm.,</td>\n<td>W 15, Darmst. Str. 7</td>\n</tr>\n<tr>\n<td>99 59 83</td>\n<td>Jenke, Willy, Maj.,</td>\n<td>Chb 9 Eschenall. 26</td>\n</tr>\n<tr>\n<td>48 06 61</td>\n<td>Jenkel, H., Zool.-Hdlg.,</td>\n<td>Pko Woll. Str. 14</td>\n</tr>\n<tr>\n<td>84 10 56</td>\n<td>Jenkner, Dr. H.,</td>\n<td>Schriftst., Zehl Jagdw. 40</td>\n</tr>\n<tr>\n<td>89 08 13</td>\n<td>Jenkner, K., Postinsp.,</td>\n<td>Smgd Kiss. Str. 11</td>\n</tr>\n<tr>\n<td>79 41 79</td>\n<td>Lenna E</td>\n<td>Volksver-Pat Jff Tietzonw 02</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 998 988\" data-label=\"Text\"><table><tbody><tr><td>66 74 56</td><td>Jenne, F.,</td><td>Vertr.,</td><td>SW 61,</td><td>Bücherstr. 12</td></tr><tr><td>51 15 42</td><td>Jenne, Dr. Heinrich,</td><td>Bücherrev.,</td><td>C 2,</td><td>Alexanderstr. 15</td></tr><tr><td>97 36 63</td><td>Ders.,</td><td>Wohn.,</td><td><i>Hal</i></td><td>Küstriner Str. 17</td></tr><tr><td>59 30 97</td><td>Jenner, Ad.,</td><td>Möbelfbr.,</td><td>O 17,</td><td>Krautstr. 18</td></tr><tr><td>61 32 19</td><td>Jenner, Edgar,</td><td>Büsten,</td><td>SW 68,</td><td>Prinzessin-<br/>nenstraße 28</td></tr><tr><td>67 17 91</td><td>Jenner, F.,</td><td>Töpfer,</td><td>SO 16,</td><td>Adalb.-Str. 61</td></tr><tr><td>92 05 69</td><td>Jenner, G.,</td><td>Bohner,</td><td>W 15,</td><td>Pariser Str. 6</td></tr><tr><td>63 78 33</td><td>Jenner, Otto,</td><td>Baumstr.,</td><td><i>Adl</i></td><td>Arndtstr. 17</td></tr><tr><td>22 12 77</td><td>Jenner, Rich.,</td><td>W 35,</td><td>Ludendorffstr.</td><td>23</td></tr><tr><td>66 63 56</td><td>Jennerich, Elis.,</td><td>SW 61,</td><td>B.-All.-Str.</td><td>70</td></tr><tr><td>68 52 97</td><td>Jennerich, F.,</td><td>Buchh.,</td><td>SO 36,</td><td>Isingstr. 9</td></tr><tr><td>19 24 29</td><td>Jennerich, W.,</td><td>Gastw.,</td><td>SW 11,</td><td>Tempelh.<br/>Ufer 29</td></tr><tr><td>34 54 26</td><td>Jennert, B.,</td><td>Fahrräder,</td><td><i>Chb</i></td><td>5 Mag.-Str. 13</td></tr><tr><td>19 36 45</td><td>Jennet, Arno,</td><td>Reg.-Rat,</td><td>SW 68,</td><td>Wilh.-<br/>Straße 115</td></tr><tr><td>37 92 05</td><td>Jennet, Catharina,</td><td><i>Spd</i></td><td>Lynarstr.</td><td>8</td></tr><tr><td>46 85 92</td><td>Jennet, Claus,</td><td>N 65,</td><td>Müllerstr.</td><td>96</td></tr><tr><td>42 64 52</td><td>Jenning, Johs.,</td><td>Mehl,</td><td>N 4,</td><td>Elsässer Str. 33</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "— — — — —\n    Straße 85",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "berg-Str. 29",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"221 0 990 987\" data-label=\"Text\">\n<table>\n<tbody>\n<tr>\n<td>39 16 10</td>\n<td>Jensen, Chr., NW 87, Riederfelder Str. 29</td>\n</tr>\n<tr>\n<td>46 35 66</td>\n<td>Jenssen, Dr. Christian, Arzt, N 65, Müllerstraße 181</td>\n</tr>\n<tr>\n<td>66 08 11</td>\n<td>Jensen, Chr., Kamer-Ass., SW 61, Waterloo 14</td>\n</tr>\n<tr>\n<td>68 50 87</td>\n<td>Jensen, Chr., Kfm., SO 36, Eisenstr. 62</td>\n</tr>\n<tr>\n<td>50 15 98</td>\n<td>Jensen, Chr., Insp., <i>Krish</i> Drosselstiege 37</td>\n</tr>\n<tr>\n<td>72 26 68</td>\n<td>Jensen, Dr. Ch., Prof., <i>Stegl</i> Lepi.-Str. 99</td>\n</tr>\n<tr>\n<td>93 40 72</td>\n<td>Jensen, Clara, <i>Chb</i> 9 Thüringer Allee 1</td>\n</tr>\n<tr>\n<td>21 18 60</td>\n<td>Jensen, Ellen, W 35, Kluckstr. 36</td>\n</tr>\n<tr>\n<td>25 50 73</td>\n<td>Jensen, Elise, W., 50, Regensb. Str. 7</td>\n</tr>\n<tr>\n<td>73 39 19</td>\n<td>Else u. Erdmut D. Jensen, <i>LtfW</i> Drakestraße 11</td>\n</tr>\n<tr>\n<td>87 63 77</td>\n<td>Jensen, Ferd., Bankrat, <i>Wilm</i> Hohenz.-Damm 182</td>\n</tr>\n<tr>\n<td>24 27 07</td>\n<td>Jensen, Georg, Silberschm., W 50, Budapest Str. 43</td>\n</tr>\n<tr>\n<td>73 14 81</td>\n<td>Jensen, Gust., Min.Rat, <i>Ltf</i> Brahmstr. 35</td>\n</tr>\n<tr>\n<td>24 40 11</td>\n<td>Jensen, Harry, W 50, Nürnberger Str. 23</td>\n</tr>\n<tr>\n<td>44 25 48</td>\n<td>Jensen, Hildeg., N 31, Gleimstr. 5</td>\n</tr>\n<tr>\n<td>71 37 78</td>\n<td>Jensen, J. E., Ing., <i>Schb</i> Voßb.Str. 5</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 0 990 966\" data-label=\"Text\"><table><tbody><tr><td>89 07 63</td><td>Jensen, Karl, Ing.,</td><td><i>Smgd</i> Doberaner Str. 6</td></tr><tr><td>46 70 86</td><td>Jensen, Kurt, Milch,</td><td>N 65, Otawistr. 31</td></tr><tr><td>26 47 04</td><td>Jensen, Lydia, Verk.,</td><td>W 30, Landsh.Str. 5</td></tr><tr><td>62 48 37</td><td>Jensen, M.,</td><td><i>Neik</i> Hobrechtstr. 18</td></tr><tr><td>24 04 74</td><td>Jensen, Marg.,</td><td>W 50, Spichernstr. 14</td></tr><tr><td>96 19 72</td><td>Jensen, Maria,</td><td><i>Hal</i> Kurfürstendamm 132</td></tr><tr><td>71 56 06</td><td>Jensen, M.,</td><td>Destill., <i>Schb</i> Reppichstr. 24</td></tr><tr><td>80 72 94</td><td>Jensen, Olaf, Kfm.,</td><td><i>Wan</i> Gr. Wannsee 59e</td></tr><tr><td>71 13 25</td><td>Jensen, Osk.,</td><td>Freg.Kpt., <i>Schb</i> Park 20</td></tr><tr><td>86 47 34</td><td>Jensen, Otto, Fleischer,</td><td><i>Wilm</i> Wexstr. 23</td></tr><tr><td>67 23 47</td><td>Jensen, O.,</td><td>Galvanik, C 2, N. Roßstr. 9</td></tr><tr><td>64 69 50</td><td>Ders., Wohn.,</td><td><i>Frhg</i> Waldesruh, Bredow-<br/>straße 23</td></tr><tr><td>92 10 89</td><td>Jensen, Paul,</td><td><i>Wilm</i> Wittelsb. Str. 10</td></tr><tr><td>24 14 55</td><td>Jensen, Reni,</td><td>Künstl., W 50, Regensb.<br/>Straße 13</td></tr><tr><td>96 17 39</td><td>Jensen, Ria,</td><td>Säng., <i>Hal</i> Cicerostr. 49a</td></tr><tr><td>37 93 56</td><td>Jensen, R., Ing.,</td><td><i>Spd</i> Elsgrabenweg 8</td></tr><tr><td>(37 95 29)</td><td>Dres. Ruth u. Klaus,</td><td>Jensen, Weinmeister-<br/>höhe, Höhenweg 14</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "then -- Jeske",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "25",
+            "text": "28"
+          },
+          {
+            "extension": "45",
+            "text": "35"
+          },
+          {
+            "extension": "44",
+            "text": "30"
+          },
+          {
+            "extension": "85",
+            "text": "14"
+          },
+          {
+            "extension": "42",
+            "text": "94"
+          },
+          {
+            "extension": "93",
+            "text": "73"
+          },
+          {
+            "extension": "55",
+            "text": "24"
+          },
+          {
+            "extension": "66",
+            "text": "65"
+          },
+          {
+            "extension": "47",
+            "text": "06"
+          },
+          {
+            "extension": "46",
+            "text": "50"
+          },
+          {
+            "extension": "60",
+            "text": "60"
+          },
+          {
+            "extension": "83",
+            "text": "41"
+          },
+          {
+            "extension": "86",
+            "text": "67"
+          },
+          {
+            "extension": "73",
+            "text": "74"
+          },
+          {
+            "extension": "88",
+            "text": "61"
+          },
+          {
+            "extension": "67",
+            "text": "48"
+          },
+          {
+            "extension": "73",
+            "text": "42"
+          },
+          {
+            "extension": "73",
+            "text": "53"
+          },
+          {
+            "extension": "84",
+            "text": "65"
+          },
+          {
+            "extension": "37",
+            "text": "97"
+          },
+          {
+            "extension": "44",
+            "text": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 986\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>85 01 44</td>\n<td>Jentkiewicz, Kurt A. St., Presse-Abt. Dt. Lufthansa, <i>Zehl</i> Dickicht 44</td>\n</tr>\n<tr>\n<td>73 22 02</td>\n<td>Jentsch, Alf., Töpfer, <i>Lt/</i> Hindenb.-D. 42</td>\n</tr>\n<tr>\n<td>46 32 45</td>\n<td>Jentsch, Ad., N 20, Osloer Str. 109</td>\n</tr>\n<tr>\n<td>53 44 81</td>\n<td>Jentsch, Aug., Ob.-Ger.-Vollz., NO 55, Hufelandstraße 48</td>\n</tr>\n<tr>\n<td>72 77 57</td>\n<td>Jentsch, Babette, Wäsche, <i>Stegl</i> Ahornstraße 26</td>\n</tr>\n<tr>\n<td>84 47 76</td>\n<td>Jentsch, B., Töpfer, <i>Zehl</i> Kleinaustr. 23</td>\n</tr>\n<tr>\n<td>88 24 15</td>\n<td>Jentsch, Cäcilie, <i>Frdn</i> Bornstr. 18</td>\n</tr>\n<tr>\n<td>71 48 15</td>\n<td>Jentsch, Charl., <i>Schb</i> Innsbr. Str. 28</td>\n</tr>\n<tr>\n<td>72 45 20</td>\n<td>Jentsch, Else, Wäsche, <i>Stegl</i> Albrechtstr. 37</td>\n</tr>\n<tr>\n<td>70 92 27</td>\n<td>Jentsch, Erich, Gärtnerei, Mahlow, Lichtenrader Str.</td>\n</tr>\n<tr>\n<td>71 18 50</td>\n<td>Jentsch, Er., Kfm., <i>Schb</i> Badensche Str. 6</td>\n</tr>\n<tr>\n<td>24 05 72</td>\n<td>Jentsch, Ernst, Dr., W 50, Augsb. Str. 44</td>\n</tr>\n<tr>\n<td>87 36 40</td>\n<td>Jentsch, Eugen, <i>Wilm</i> Jenaer Str. 1</td>\n</tr>\n<tr>\n<td>97 84 43</td>\n<td>Jentsch, Ew., Kfm., <i>Hal</i> Friedrichstr. 23</td>\n</tr>\n<tr>\n<td>66 06 72</td>\n<td>Jentsch, F., Schlächt., SW 29, Kottb.D. 35</td>\n</tr>\n<tr>\n<td>16 11 07</td>\n<td>F. Jentsch u. M. Schulz, Offset-Druck., C 2, Wallstr. 16</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 986\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>1 1 00 40</th>\n<th>Uchusch, Uchil, Uuchw</th>\n<th>Uuchw</th>\n<th>Uuchw</th>\n<th>Uuchw</th>\n<th>Uuchw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>26 42 18</td>\n<td>Jentsch, Gertrud,</td>\n<td>W 30,</td>\n<td>Münchener Str.</td>\n<td>8</td>\n<td></td>\n</tr>\n<tr>\n<td>72 77 60</td>\n<td>Jentsch, H., Beamte.,</td>\n<td>Stegl</td>\n<td>H.-Seldel-Str.</td>\n<td>17</td>\n<td></td>\n</tr>\n<tr>\n<td>68 56 37</td>\n<td>Jentsch, Hedwig,</td>\n<td>SO 36,</td>\n<td>Grün. Str.</td>\n<td>7</td>\n<td></td>\n</tr>\n<tr>\n<td>34 36 78</td>\n<td>Jentsch, Heinz,</td>\n<td>Krim.-Komm.,</td>\n<td>Chb</td>\n<td>5</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td colspan=\"5\">Fritschestraße 78</td>\n</tr>\n<tr>\n<td>97 02 93</td>\n<td>Jentsch, Herbert,</td>\n<td>W 15,</td>\n<td>Brandenb. Str.</td>\n<td>40</td>\n<td></td>\n</tr>\n<tr>\n<td>60 76 69</td>\n<td>Jentsch, Herm.,</td>\n<td>Britz,</td>\n<td>Miningstr.</td>\n<td>48</td>\n<td></td>\n</tr>\n<tr>\n<td>70 91 60</td>\n<td>Jentsch, Hermann,</td>\n<td>Fuhrgesch.,</td>\n<td>Ltra Berliner Str.</td>\n<td>112</td>\n<td></td>\n</tr>\n<tr>\n<td>99 43 42</td>\n<td>Jentsch, K., Ing.,</td>\n<td>Chb 9</td>\n<td>Westendall.</td>\n<td>92c</td>\n<td></td>\n</tr>\n<tr>\n<td>85 39 66</td>\n<td>Jentsch, Karl, Insp.,</td>\n<td>Zehl</td>\n<td>Riem. Str.</td>\n<td>160</td>\n<td></td>\n</tr>\n<tr>\n<td>48 24 45</td>\n<td>Jentsch, K., Dir.,</td>\n<td>Ndschhs</td>\n<td>Grabbeallee</td>\n<td>30</td>\n<td></td>\n</tr>\n<tr>\n<td>(19 13 24)</td>\n<td>Jentsch, Kurt,</td>\n<td>Zahnarzt,</td>\n<td>SW 68,</td>\n<td>Friedrichstraße</td>\n<td>226</td>\n</tr>\n<tr>\n<td>71 63 62</td>\n<td>Jentsch, Marg.,</td>\n<td>Dir.,</td>\n<td>Schb Hauptstr.</td>\n<td>34</td>\n<td></td>\n</tr>\n<tr>\n<td>84 83 91</td>\n<td>Jentsch, Margar.,</td>\n<td>Schlsee</td>\n<td>Krott. Str.</td>\n<td>4</td>\n<td></td>\n</tr>\n<tr>\n<td>84 52 57</td>\n<td>Jentsch, Max,</td>\n<td>Zehl</td>\n<td>Hochsitzweg</td>\n<td>101</td>\n<td></td>\n</tr>\n<tr>\n<td>68 88 05</td>\n<td>Jentsch, Max,</td>\n<td>Schlächter,</td>\n<td>SO 36,</td>\n<td>Muskauer Str.</td>\n<td>13</td>\n</tr>\n<tr>\n<td>44 45 47</td>\n<td>Jentsch, O.,</td>\n<td>Drog.,</td>\n<td>Pkv Prenzl. Prom.</td>\n<td>186</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "72",
+            "text": "12"
+          },
+          {
+            "extension": "71",
+            "text": "66"
+          },
+          {
+            "extension": "19",
+            "text": "13"
+          },
+          {
+            "extension": "87",
+            "text": "80"
+          },
+          {
+            "extension": "71",
+            "text": "50"
+          },
+          {
+            "extension": "75",
+            "text": "14"
+          },
+          {
+            "extension": "34",
+            "text": "77"
+          },
+          {
+            "extension": "99",
+            "text": "15"
+          },
+          {
+            "extension": "89",
+            "text": "13"
+          },
+          {
+            "extension": "42",
+            "text": "61"
+          },
+          {
+            "extension": "63",
+            "text": "81"
+          },
+          {
+            "extension": "92",
+            "text": "59"
+          },
+          {
+            "extension": "68",
+            "text": "68"
+          },
+          {
+            "extension": "60",
+            "text": "04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "48",
+            "text": "33"
+          },
+          {
+            "extension": "91",
+            "text": "63"
+          },
+          {
+            "extension": "31",
+            "text": "33"
+          },
+          {
+            "extension": "47",
+            "text": "14"
+          },
+          {
+            "extension": "66",
+            "text": "99"
+          },
+          {
+            "extension": "85",
+            "text": "29"
+          },
+          {
+            "extension": "79",
+            "text": "46"
+          },
+          {
+            "extension": "44",
+            "text": "96"
+          },
+          {
+            "extension": "49",
+            "text": "38"
+          },
+          {
+            "extension": "59",
+            "text": "35"
+          },
+          {
+            "extension": "89",
+            "text": "51"
+          },
+          {
+            "extension": "39",
+            "text": "16"
+          },
+          {
+            "extension": "58",
+            "text": "73"
+          },
+          {
+            "extension": "39",
+            "text": "20"
+          },
+          {
+            "extension": "58",
+            "text": "52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 970\" data-label=\"Table\"><table><tr><td>60 82 76</td><td>Jentzsch, Frida, Angest., Britz, Lining-<br/>straße 44</td></tr><tr><td>69 08 60</td><td>Jentzsch, F. A., Kfm., <i>Tmp</i> Hoeppe. Str. 53</td></tr><tr><td>86 60 06</td><td>Jentzsch, H., Frau, <i>Wilm</i> Uhlandstr. 61</td></tr><tr><td>72 84 43</td><td>Jentzsch, Hellm., <i>Stegl</i> Immenweg 5</td></tr><tr><td>89 25 65</td><td>Jentzsch, Ilse, <i>Wilm</i> Sodener Str. 26</td></tr><tr><td>27 33 00</td><td>Jentzsch, Ingeb., Drog., W 35, Culmer Str. 1</td></tr><tr><td>60 68 18</td><td>Jentzsch, Kurt, Vertr., Britz, Talb. Str. 60</td></tr><tr><td>46 89 51</td><td>Jentzsch, Max, Angest., N 65, Brüss. Str. 34</td></tr><tr><td>73 74 53</td><td>Jentzsch, Otto, <i>Lt/</i> Tietzenweg 106</td></tr><tr><td>66 82 04</td><td>Jentzsch, Paul, Dentist, SW 61, Belle-<br/>Alliance-Str. 54</td></tr><tr><td>39 77 86</td><td>Jentzsch, Paul, Kfm., NW 21, Essener<br/>Straße 7</td></tr><tr><td>44 55 28</td><td>Jentzsch, Walter, Architekt., N 20, Wollank-<br/>straße 68</td></tr><tr><td>59 17 52</td><td>Jentzsch, W., Möbel, NO 18, Palis. Str. 24</td></tr><tr><td>91 05 40</td><td>Jentzsch, Walther, J., Dr. jur., W 15,<br/>Fasanenstr. 58</td></tr><tr><td>71 48 12</td><td>Jentzsch, W., Garag., <i>Schö</i> Feurigstr. 13</td></tr></table></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Erläute",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"24 12 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>24 03 66</td>\n<td>Jenull, E., Dir., W 50, Ansb. Str. 23</td>\n</tr>\n<tr>\n<td>97 56 81</td>\n<td>Jenull, F., Dentist, Hal Eisenz. Str. 56</td>\n</tr>\n<tr>\n<td>91 21 91</td>\n<td>Jenull, H., Dr. jur., Chb 2 Bleibtreustr. 3</td>\n</tr>\n<tr>\n<td>87 04 38</td>\n<td>Jenz, Rudolf, Wilm Mannheimer Str. 1</td>\n</tr>\n<tr>\n<td>76 09 37</td>\n<td>Jenzen, Bürgermstr., Lt/ Prauestr. 36</td>\n</tr>\n<tr>\n<td>50 51 65</td>\n<td>Jenzen, A., Vertr., Hschö M.-Luise-Str. 1</td>\n</tr>\n<tr>\n<td>60 14 77</td>\n<td>Jenzen, P., Friseurm., Neuk Fuldastr. 3</td>\n</tr>\n<tr>\n<td>53 37 18</td>\n<td>Jenzewski, Erna, Seifen, NO 18, Romb. Straße 14</td>\n</tr>\n<tr>\n<td>66 04 12</td>\n<td>Jenzewski, Paul, Drogen, SW 29, Mittenwalder Str. 14</td>\n</tr>\n<tr>\n<td>51 07 92</td>\n<td>Jenzowaky, F., Friseur, C 2, Klosterstr. 4</td>\n</tr>\n<tr>\n<td>65 61 03</td>\n<td>Jepp, Arthur, Gril Buntzelstr. 86</td>\n</tr>\n<tr>\n<td>89 40 19</td>\n<td>Jepp, E., Wilm Schlangenb. Str. 79</td>\n</tr>\n<tr>\n<td>17 70 53</td>\n<td>Jepp, Lisb., Vertr., SW 68, Ritterstr. 5</td>\n</tr>\n<tr>\n<td>83 46 50</td>\n<td>Dies., Wohn., Johannisl. Str. 19</td>\n</tr>\n<tr>\n<td>55 46 42</td>\n<td>Jepp, Osk., Holz, Lbg Möllend. Str. 19</td>\n</tr>\n<tr>\n<td>89 06 24</td>\n<td>El. Jeppe &amp; Chr. Matthei, Lehrerin, Sngc Ruhlaer Str. 24</td>\n</tr>\n<tr>\n<td>44 71 67</td>\n<td>Jepsen, Hjalmar, Ing., Pko Berl. Str. 71</td>\n</tr>\n<tr>\n<td>71 54 16</td>\n<td>Jepsen, Jul., Kfm., Schb Meraner Str. 18</td>\n</tr>\n<tr>\n<td>17 02 25</td>\n<td>Tannn Dunot Inn Dunod Nafetr 95</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>32 06 87</td>\n<td>Jera, Betty, Frau, Chb 2 Herderstr. 11</td>\n</tr>\n<tr>\n<td>25 26 66</td>\n<td>Jeramischjawz, V., W 30, Hohenst.Str. 24</td>\n</tr>\n<tr>\n<td>62 53 84</td>\n<td>Jeran Jun., August, Klempnerei, Britz, Jahnstr. 1</td>\n</tr>\n<tr>\n<td>92 44 75</td>\n<td>Jeran, Elsbeth, W 15, Pariser Str. 38</td>\n</tr>\n<tr>\n<td>53 33 79</td>\n<td>Jeran, Martha, NO 55, Bötzwstr. 56</td>\n</tr>\n<tr>\n<td>56 39 21</td>\n<td>Jeran, P., Eier, Weiß Falkenb.Str. 31</td>\n</tr>\n<tr>\n<td>53 04 67</td>\n<td>Jeran, R., Fris., NO 55, Prenzl. Allee 45</td>\n</tr>\n<tr>\n<td>56 82 73</td>\n<td>Jerasch, Erich, Lebensm., Karow, Blankenburger Chaussee 74</td>\n</tr>\n<tr>\n<td>68 53 97</td>\n<td>Jeratsch, Ella,, Trept Am Park 59</td>\n</tr>\n<tr>\n<td>59 05 22</td>\n<td>Jeratsch, Erich, Morgenröcke, O 34, Til-siter Str. 23</td>\n</tr>\n<tr>\n<td>87 88 96</td>\n<td>Jeratsch, Hedwig, Gastwirt, Hal West-fälische Str. 6</td>\n</tr>\n<tr>\n<td>39 14 36</td>\n<td>Jeratsch, Rich., Papierh., NW 21, A. Moabit 107</td>\n</tr>\n<tr>\n<td>21 46 58</td>\n<td>Jerchel, H., Dr. phil., W 35, Woyrschstr.12</td>\n</tr>\n<tr>\n<td>92 74 31</td>\n<td>Jerckel, Marg., W 15, Düsseld. Str. 41</td>\n</tr>\n<tr>\n<td>48 10 26</td>\n<td>Jerchel, Dr. W., Arzt, Pko Breite Str. 2</td>\n</tr>\n<tr>\n<td>47 13 24</td>\n<td>Jerchow. F.. Zimmerei. Glic Nohlstr. 27</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 988\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>00 18 09</td>\n<td>Jerczek, W., Drogerie, <i>Irrepl</i> Ruetersstr. 22</td>\n</tr>\n<tr>\n<td>59 40 34</td>\n<td>Jerczek, Erich, Textilwr., NO 18, Friedenstraße 40</td>\n</tr>\n<tr>\n<td>56 39 67</td>\n<td>Jerczek, V., Dir. Weiß Straßb. Str. 57</td>\n</tr>\n<tr>\n<td>47 37 01</td>\n<td>Jeremek, A., Insp., <i>Hrnsd</i> Parkstr. 5</td>\n</tr>\n<tr>\n<td>17 75 87</td>\n<td>Jeremek, Ilona, Gürtelfabr., SW 68, Kommandantenstr. 15</td>\n</tr>\n<tr>\n<td>35 12 63</td>\n<td>Jeremi, Frida, Abt.-Leit., NW 21, Bremer Straße 52</td>\n</tr>\n<tr>\n<td>92 35 48</td>\n<td>Jeremias, Dr. Friedrich, Kons.-Rat, W 15, Fasanonenstr. 61</td>\n</tr>\n<tr>\n<td>26 17 81</td>\n<td>Jeremias, H., Kfm., W 30, Heilbr. Str. 16</td>\n</tr>\n<tr>\n<td>96 22 62</td>\n<td>Jeremias, Siegb., Schriftsteller, <i>Chb</i> 4<br/>Droysenstr. 10a</td>\n</tr>\n<tr>\n<td>50 04 43</td>\n<td>Jeremies, Alfr., Kfm., <i>Krlsh</i> Andern. Str. 10</td>\n</tr>\n<tr>\n<td>64 61 03</td>\n<td>Jergolla, Arthur, Futterm., <i>Frkg</i> Scharnweberstr. 112</td>\n</tr>\n<tr>\n<td>69 03 37</td>\n<td>Jericho, Johanna, Blusen, <i>Neuk</i> Wissm.-Straße 43</td>\n</tr>\n<tr>\n<td>86 48 85</td>\n<td>Jericho, J., Bäcker, <i>Wilm</i> Pfalzb. Str. 22</td>\n</tr>\n<tr>\n<td>55 16 31</td>\n<td>Jerichow, A., Kfm., <i>Frjde</i> Kraetkestr. 16</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "— — — — —, — — — — —, — — — — —, — — — — —\n    Straße 28",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 991\" data-label=\"Text\"><table><tbody><tr><td>69 04 06</td><td>Jeroch, Helm., Kim., <i>Imp</i> Badener K. 32</td></tr><tr><td>32 31 89</td><td>Jerochnik, Oskar Wilhelm, Kap.-Mstr., <i>Chb</i> 4<br/>Giesebrechtstr. 9</td></tr><tr><td>62 38 01</td><td>Jeromin, E., Pianist, <i>Neuk</i> Jonasstr. 22</td></tr><tr><td>61 38 59</td><td>Jeromin, Karl, Schneid., S 42, Prinzen-<br/>straße 87</td></tr><tr><td>47 29 41</td><td>Jeromin, Magdal., <i>Fro</i> Gutshofstr. 41</td></tr><tr><td>59 07 10</td><td>Jeron, Helmut, Klischees, O 34, Frank-<br/>furter Allee 365</td></tr><tr><td>32 12 78</td><td>Jeroschewski, Emil, Maler, <i>Chb</i> 4 Goethe-<br/>straße 57</td></tr><tr><td>91 10 96</td><td>Jerra, Elfr., Schausp., W 15, Sächs. Str. 2</td></tr><tr><td>45 11 47</td><td>Jerschke, Paul, Zig., N 58, Starg. Str. 4</td></tr><tr><td>68 30 07</td><td>Jerschkewitz, K., Ing., SO 36, Lohm. Str. 36</td></tr><tr><td>17 72 28</td><td>Jersey-Club, GmbH, D.-Mod., SW 68,<br/>Kommandantenstr. 3</td></tr><tr><td>25 72 64</td><td>Jersey-Club, Arno Pardun, Kleider, W 62<br/>Kleiststraße 26</td></tr><tr><td>16 72 38</td><td>Jersey-Export KG., Maschek &amp; Co., D.-<br/>Kleidung, W 8, Mohrenstr. 40</td></tr><tr><td>56 10 86</td><td>Jertz, Charlotte, Radio, <i>Weiβ</i> Berliner</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data=\"186 0 366 18\" data-label=\"Page-Header\">\n<p>— — — — —</p>\n</div>\n<div data=\"0 18 990 970\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>84 06 48</td>\n<td>Jerusalem, C. Rudolf, Kfm., <i>KIM</i> Wende-<br/>marken 67</td>\n</tr>\n<tr>\n<td>81 69 29</td>\n<td>Jerusalem, Dr. Paul, Zahnarzt, <i>Chb</i> 4<br/>Kantstr. 128</td>\n</tr>\n<tr>\n<td>68 08 13</td>\n<td>Jerusalem-Stift, SO 36, Zeughofstr. 12</td>\n</tr>\n<tr>\n<td>73 23 50</td>\n<td>Jerwitz, Charlotte, <i>Lkw</i> Barbarastr. 32</td>\n</tr>\n<tr>\n<td>26 43 72</td>\n<td>Jerxsen, H., R.-A., W 30, Bamb. Str. 22</td>\n</tr>\n<tr>\n<td>19 32 14</td>\n<td>Jery, W., Fahrr., SW 61, B.AlliancePl. 18</td>\n</tr>\n<tr>\n<td>55 21 86</td>\n<td>Jerzembek, Otto, Heilpraktiker, <i>Frjde</i> Fürst-<br/>Bismarck-Str. 5</td>\n</tr>\n<tr>\n<td>75 07 54</td>\n<td>Jesau, Alice, Milch, <i>Temp</i> Schönbr. Str. 3</td>\n</tr>\n<tr>\n<td>39 63 41</td>\n<td>Jesch, Charlotte, NW 87, Wikinger Ufer 1</td>\n</tr>\n<tr>\n<td>42 10 59</td>\n<td>Jesch, Eduard, H.-Bekl., NO 55, Straß-<br/>burger Str. 59</td>\n</tr>\n<tr>\n<td>44 23 71</td>\n<td>Jesch, Emma, Kol.W., N 4, StrelitzerStr. 71</td>\n</tr>\n<tr>\n<td>49 30 21</td>\n<td>Jesch, W., D.-Bekleid., <i>ReiO</i> Breitk.-Str. 130</td>\n</tr>\n<tr>\n<td>62 79 59</td>\n<td>Jeschal, A., Landmesser, <i>Neuk</i> Berl. Str. 100</td>\n</tr>\n<tr>\n<td>66 66 51</td>\n<td>Jeschal, Alfred, Stadtrat, SW 29, Fontane-<br/>promenade 4</td>\n</tr>\n<tr>\n<td>61 51 35</td>\n<td>Jeschal, Elise, Klemp., SW 68, Prinz.Str. 9</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image is a scan of a blank page from a 1942 German telephone directory. The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry or a page with no visible content.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "ung der Orts- und Vorortsabkürzungen und",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "63",
+            "text": "70 49 Jeschek, Emil, Pianist, SO 36, Adl Oppen- straße 55"
+          },
+          {
+            "extension": "44",
+            "text": "32 40 Jeschke, Alfr., NO 55, Metzer Str. 28"
+          },
+          {
+            "extension": "16",
+            "text": "83 60 Jeschke, A., Kohlen, C 2, Niederwallstr. 26"
+          },
+          {
+            "extension": "49",
+            "text": "11 68 Jeschke, B., Gastwirt, ReiO Provinzstr. 79"
+          },
+          {
+            "extension": "17",
+            "text": "13 51 Carl Jeschke & Co., Gummi- und Asbestwaren, Berlin SW 61. Gitschiner Straße 106a"
+          },
+          {
+            "extension": "49",
+            "text": "56 10 Jeschke, E., Kfm., ReiW Kienhorststr. 4"
+          },
+          {
+            "extension": "39",
+            "text": "84 54 Jeschke, Erich, Fahrräder, NW 21 Alt- Moabit 84"
+          },
+          {
+            "extension": "30",
+            "text": "42 40 Jeschke, Ernst, Zahlmstr., Chb 1 Rich.- Wagner-Str. 49"
+          },
+          {
+            "extension": "35",
+            "text": "24 48 Ernst Jeschke & Co., Kohlen, N 65, West- straße 4"
+          },
+          {
+            "extension": "86",
+            "text": "24 78 Jeschke, Erw., Säng., Wilm Sigm. Str. 19"
+          },
+          {
+            "extension": "97",
+            "text": "22 78 Jeschke, Ernst, Modellbau, Chb 4 Mommsen- straße 42"
+          },
+          {
+            "extension": "89",
+            "text": "65 50 Jeschke, E., Oberltn., Wilm Sod. Str. 26"
+          },
+          {
+            "extension": "35",
+            "text": "24 48 E. Jeschke & Co, Kohlen, N 65, West- hafenstr. 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 775 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>80 82 05</td>\n<td>Jeschke, F.,</td>\n<td><i>Grölle</i></td>\n<td>Karpfent. Parz. 12</td>\n</tr>\n<tr>\n<td>44 08 94</td>\n<td>Jeschke, F.,</td>\n<td>Kfm.,</td>\n<td>Pko Dolomitenstr. 66</td>\n</tr>\n<tr>\n<td>42 98 22</td>\n<td>F. Jeschke &amp; Co,</td>\n<td>Gewürze,</td>\n<td>NO 55, Straßburger Straße 54</td>\n</tr>\n<tr>\n<td>68 47 96</td>\n<td>Jeschke, G.,</td>\n<td>Bäck.,</td>\n<td>SO 36, Heckmannuf. 5</td>\n</tr>\n<tr>\n<td>26 36 56</td>\n<td>Jeschke, Dr. Gerh.,</td>\n<td>Schausp.,</td>\n<td>W 30, Berchtesgadener Str. 37</td>\n</tr>\n<tr>\n<td>86 07 45</td>\n<td>Jeschke, Gerh.,</td>\n<td>Ing.,</td>\n<td><i>Wilm</i> Wilh.Aue 133</td>\n</tr>\n<tr>\n<td>93 47 41</td>\n<td>Jeschke, Gotth.,</td>\n<td><i>Chb</i></td>\n<td>5 Knobelsd. Str. 43</td>\n</tr>\n<tr>\n<td>89 30 83</td>\n<td>Jeschke, Gust.,</td>\n<td>Amtsrat,</td>\n<td><i>Dahl</i> Milowstr. 8</td>\n</tr>\n<tr>\n<td>75 22 90</td>\n<td>Jeschke, G.,</td>\n<td>Baugesch.,</td>\n<td><i>Süd</i> Attilastr. 92</td>\n</tr>\n<tr>\n<td>34 82 61</td>\n<td>Jeschke, G.,</td>\n<td>Kohlen,</td>\n<td><i>Chb</i> 1 Kirchplatz 6</td>\n</tr>\n<tr>\n<td>24 38 31</td>\n<td>Jeschke, Hel.,</td>\n<td>Pächt.,</td>\n<td>W 62, Bayr. Str. 8</td>\n</tr>\n<tr>\n<td>30 26 78</td>\n<td>Jeschke, H.,</td>\n<td>Bäcker,</td>\n<td><i>Chb</i> 1 Charl.-Ufer 10</td>\n</tr>\n<tr>\n<td>83 23 26</td>\n<td>Jeschke, Hildeg.,</td>\n<td><i>Wilm</i></td>\n<td>Laubenh. Platz 9</td>\n</tr>\n<tr>\n<td>71 67 08</td>\n<td>Jeschke, Horst,</td>\n<td><i>Schb</i></td>\n<td>Vorbergstr. 10</td>\n</tr>\n<tr>\n<td>56 06 42</td>\n<td>Jeschke, Johannes,</td>\n<td>Dr.-Ing.,</td>\n<td><i>Weiβ</i> Straße 246, Nr. 23</td>\n</tr>\n<tr>\n<td>55 02 14</td>\n<td>Jeschke, K.,</td>\n<td>Gastw.,</td>\n<td><i>Lbg</i> Sophienstr. 11</td>\n</tr>\n<tr>\n<td>59 29 42</td>\n<td>Jeschke, J.,</td>\n<td>Schankw.,</td>\n<td>O 34, Tils. Str. 79</td>\n</tr>\n<tr>\n<td>84 48 22</td>\n<td>Jeschke, Dr. Konrad,</td>\n<td>Arzt.</td>\n<td><i>Zehl</i> Kron-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "privatnämme oza",
+        "entries": [
+          {
+            "extension": "71",
+            "text": "45 28 Jeschke, Kurt, Vertr., Schb Ebersstr. 66"
+          },
+          {
+            "extension": "32",
+            "text": "23 19 Ders., priv., Chb 4 Kantstr. 51"
+          },
+          {
+            "extension": "91",
+            "text": "05 73 Jeschke, Luci, Chb 4 Wielandstr. 30"
+          },
+          {
+            "extension": "71",
+            "text": "42 07 Jeschke, Lucie, Frdn Grazer D. 150"
+          },
+          {
+            "extension": "66",
+            "text": "24 14 Jeschke, Maria, Kfm., Tmp Immelmann- straße 19"
+          },
+          {
+            "extension": "68",
+            "text": "64 40 Jeschke, Marie, Hauswirt., Trept Defreg- gerstraße 3"
+          },
+          {
+            "extension": "60",
+            "text": "60 85 Jeschke, Mary, Kürschn., Britz Miningstr. 5"
+          },
+          {
+            "extension": "48",
+            "text": "35 29 Jeschke, Martha, Schneiderei, Pko Granitz- straße 39"
+          },
+          {
+            "extension": "79",
+            "text": "55 56 Jeschke, Martha, Stegl Elisenstr. 18"
+          },
+          {
+            "extension": "34",
+            "text": "66 94 Jeschke, Oskar, Chb 5 Danckelm.-Str. 52"
+          },
+          {
+            "extension": "93",
+            "text": "56 13 Jeschke, Oskar, Chb 9 Soorstr. 28"
+          },
+          {
+            "extension": "56",
+            "text": "13 31 Jeschke, O., Elektr., Weiß Seidenb. Str. 10"
+          },
+          {
+            "extension": "37",
+            "text": "13 17 Jeschke, O., Schneid., Spd Pichelsw. Str. 1"
+          },
+          {
+            "extension": "53",
+            "text": "31 52 Jeschke, Reinhold, Tabakwr., NO 55, Greifswalder Str. 167"
+          },
+          {
+            "extension": "39",
+            "text": "08 87 Jeschke, Walter, Fuhrgesch., NW 87, Eras- musstraße 8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "73",
+            "text": "84"
+          },
+          {
+            "extension": "58",
+            "text": "58"
+          },
+          {
+            "extension": "66",
+            "text": "30"
+          },
+          {
+            "extension": "47",
+            "text": "42"
+          },
+          {
+            "extension": "62",
+            "text": "22"
+          },
+          {
+            "extension": "59",
+            "text": "28"
+          },
+          {
+            "extension": "57",
+            "text": "06"
+          },
+          {
+            "extension": "93",
+            "text": "51"
+          },
+          {
+            "extension": "42",
+            "text": "12"
+          },
+          {
+            "extension": "72",
+            "text": "09"
+          },
+          {
+            "extension": "66",
+            "text": "91"
+          },
+          {
+            "extension": "30",
+            "text": "85"
+          },
+          {
+            "extension": "96",
+            "text": "25"
+          },
+          {
+            "extension": "39",
+            "text": "55"
+          },
+          {
+            "extension": "71",
+            "text": "70"
+          },
+          {
+            "extension": "31",
+            "text": "08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "RASAUTENBURG 12",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "49",
+            "text": "19"
+          },
+          {
+            "extension": "39",
+            "text": "25"
+          },
+          {
+            "extension": "62",
+            "text": "51"
+          },
+          {
+            "extension": "91",
+            "text": "06"
+          },
+          {
+            "extension": "55",
+            "text": "48"
+          },
+          {
+            "extension": "46",
+            "text": "38"
+          },
+          {
+            "extension": "70",
+            "text": "82"
+          },
+          {
+            "extension": "68",
+            "text": "87"
+          },
+          {
+            "extension": "41",
+            "text": "75"
+          },
+          {
+            "extension": "62",
+            "text": "56"
+          },
+          {
+            "extension": "45",
+            "text": "16"
+          },
+          {
+            "extension": "59",
+            "text": "65"
+          },
+          {
+            "extension": "62",
+            "text": "59"
+          },
+          {
+            "extension": "87",
+            "text": "87"
+          },
+          {
+            "extension": "70",
+            "text": "89"
+          },
+          {
+            "extension": "42",
+            "text": "98"
+          },
+          {
+            "extension": "66",
+            "text": "09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

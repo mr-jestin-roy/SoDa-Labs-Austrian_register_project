@@ -1,0 +1,529 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "902",
+            "text": "(Band V) Wien: Hotel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"241 10 998 995\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>A6 04 19</td>\n<td>Hotel Laimer, Sta BrünnerStr. 94</td>\n</tr>\n<tr>\n<td>R1 40 46</td>\n<td><b>Hotel Laxenburg</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Wien X/75, Laxenburger Straße 1–3</b></td>\n</tr>\n<tr>\n<td>U1 87 97</td>\n<td>Hotel Linke, I/1, Pestalozzig. 4</td>\n</tr>\n<tr>\n<td>R2 61 60 L</td>\n<td>Hotel Lugeck, I/1, Joh.Seb.Bach-G. 7</td>\n</tr>\n<tr>\n<td>B2 73 93 {</td>\n<td><b>Hotel Mariahilf</b></td>\n</tr>\n<tr>\n<td>B2 72 21 {</td>\n<td><b>Wien VI/56, Mariahilfer Str. 121 b</b></td>\n</tr>\n<tr>\n<td>B2 72 27</td>\n<td><b>Dasselbe, Restaurant</b></td>\n</tr>\n<tr>\n<td>R4 32 60</td>\n<td>Hotel Mattes, II/27, KleineStadtgutg. 14</td>\n</tr>\n<tr>\n<td>R3 14 00</td>\n<td>Hotel Meidlingerhof, XII/82, Hufelandg. 1</td>\n</tr>\n<tr>\n<td>R3 30 41</td>\n<td>Hotel Meidling-Südbahn, XII/82, Eichenstraße 46</td>\n</tr>\n<tr>\n<td>R2 85 40</td>\n<td><b>Hotel Meissl &amp; Schadn</b></td>\n</tr>\n<tr>\n<td></td>\n<td><b>Wien I/1, Neuer Markt 2</b></td>\n</tr>\n<tr>\n<td>A2 72 53</td>\n<td>Hotel Minerva, IX/71, Schlagergasse 8</td>\n</tr>\n<tr>\n<td>R2 72 55</td>\n<td>Hotel Modern, I/1, Krugerstr. 11</td>\n</tr>\n<tr>\n<td>B2 25 90</td>\n<td>Hotel Münchenerhof, VI/56, Mariahilfer Straße 81</td>\n</tr>\n<tr>\n<td>U1 10 33</td>\n<td>Hotel Nagler, III/40, Rennweg 59</td>\n</tr>\n<tr>\n<td>B3 72 21</td>\n<td>Hotel Neubau, VII/62, Neustiftg. 141</td>\n</tr>\n<tr>\n<td>R4 14 20</td>\n<td>Hotel Nordbahn II/97 Praterstr 72</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "K4 ZY 55 Duss., Wohnung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Hotel Orient",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 0 998 994\" data-label=\"Text\"><table><tbody><tr><td>R2 55 45</td><td>Hotel Österreichischer Hof, I/1, Fleischmarkt 10</td></tr><tr><td>A3 40 27</td><td>Hotel Palace, VI/56, Mariah.Str. 99</td></tr><tr><td>U4 10 16</td><td>Hotel Park-, IV/50, Wied.Gürtel 14</td></tr><tr><td>A5 05 25</td><td>Hotel Park-Hotel Schönbrunn, XIII/89, Hietz.Hauptstr. 12</td></tr><tr><td>A2 00 29</td><td rowspan=\"2\">{ Hotel-Pension „Atlanta“ Inhaber B. Flint,</td></tr><tr><td>A2 00 30</td><td>IX/71, Währinger Str. 33/35</td></tr><tr><td>U4 74 15</td><td>Hotel Pension Südost, IV/50, Prinz-Eugen-Str. 68</td></tr><tr><td>R2 85 20</td><td>Hotel Post, I/1, Fleischmarkt 24</td></tr><tr><td>R4 34 12</td><td>Hotel Praterstern, II/27, Mayerg. 6</td></tr><tr><td>A2 35 85</td><td>Hotel Regina, IX/71, H.Göring-Pl. 16</td></tr><tr><td>R4 20 67</td><td><b>Hotel Reichshof</b>, II/27, Mühlfeldgasse 13, gegenüber d. Abfahrtseite d. Nordbahnh.</td></tr><tr><td>R2 35 30</td><td>Hotel Ritz, I/1, Neuer Markt 5</td></tr><tr><td>B5 75 50</td><td>Hotel Roter Hahn, III/40, Landstr. Hauptstr.</td></tr><tr><td>R2 65 80</td><td>Hotel Roval. (Dern) I/1. Singerstr. 3</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Hotel Römischer Kaiser",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 15 996 968\" data-label=\"List-Group\"><p>B1 15 52 Hotel-Restaur. Römischer Kaiser,<br/>XIX/114, Neustift a. W. 2</p><p>U3 70 04 Hotel Rudolfshöhe, XV/101, Hüttel-<br/>dorferstr. 95</p><p>A4 62 61 Hotel Russie de, II/27, Große Sperlg. 7</p><p>U3 51 62 Hotel Rustler, XIV/89, LinzerStr. 43</p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Hotel Sacher",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Hotel Sächsischer Hof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"385 0 544 27\" data-label=\"Page-Header\">\n<p>Seite 107</p>\n</div>\n<div data-bbox=\"228 30 990 979\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>R4 64 93 Hotel Stadt Brünn, II/27, Rotenst.G. 7a</li>\n<li>A2 14 83 <b>Hotel Stadt Frankfurt</b><br/>Wien XVII/107, Hernaiser Gürtel 27</li>\n<li>U4 45 02 Hotel Stadt Oedenburg, IV/50, Wied.<br/>Hauptstr. 9</li>\n<li>B2 22 78 <b>Hotel Stadt Triest, Inh. Franz Schweiger,</b><br/>IV/50, Wiedner Hauptstraße 12</li>\n<li>A2 40 66 Hotel Stalehner, XVII/107, Jörgerstr. 22</li>\n<li>A2 28 86 Dass., XVII/107, Ranftlg. 7</li>\n<li>R4 12 53 <b>Hotel Stefanie</b> Wien II/27,<br/>Taborst. 12</li>\n<li>A2 22 91 Hotel Steinböck, XVIII/110, Schopen-<br/>hauerstr. 32</li>\n<li>R3 25 10 Hotel Stieoplbräu, XV/101, Mariahilfer<br/>Straße 156</li>\n<li>U4 74 89 <b>Hotel „Südbahn“</b><br/>Wien IV/50, Weyringer Gasse 25</li>\n<li>R2 35 80 <b>Hotel Tegetthof, P. Wolfbauer, Wien I/1,</b><br/>Johannessgasse 23</li>\n<li>B2 94 48 <b>Hotel Terminus, VI/56, Fillgraderg. 4</b></li>\n</ul>\n</div>",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 0 990 770\" data-label=\"List-Group\"><p><b>B1 30 68</b> Hotel „Zum Türken“, Hotel u. Restaurant,<br/>Inh. Maria Nenstl, Wien XIX/117, Peter-<br/>Jordan-Str. 76</p><p><b>R2 93 14</b> Hotel Tirolerhof, I/1, Grashofg. 4</p><p><b>B5 30 17</b> Hotel Urania, III/40, Ob.Weißg.Str. 7</p><p><b>A5 20 83</b> Hotel Viktoria, XIII/89, Emil-Wimmer-<br/>Gasse 9</p><p><b>A2 90 96</b> Hotel Währingerhof, XVIII/110, There-<br/>sieng. 2</p><p><b>B2 75 25</b> Hotel Walace-Kummer, VI/56, Mariah.<br/>Straße 71</p><p><b>A4 00 59</b> Hotel Wallenstein, Inh. Heinrich Stöckler,<br/>Wien XX/20, Wallensteinstr. 6</p><p><b>U1 20 15</b> Hotel Wallner<br/>Wien III/40, Rochusgasse 15</p><p><b>U2 52 06</b> Hotel Wandl, I/1, Peterspl. 9</p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "[REDACTED] [REDACTED]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Telefonnummern",
+        "entries": []
+      },
+      {
+        "region_name": "Einzelne Telefonnummern",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "R4 05 90 Hotel Zum Weinstock, II/27, Weintr.G. 10",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Hotel Weißes Kreuz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Hotel Westend",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 994\" data-label=\"Text\"><table><tbody><tr><td>B3</td><td>36</td><td>69</td><td>Hotschewar, Franz, Färb., VII/62, Zöller-<br/>gasse 9</td></tr><tr><td>U2</td><td>03</td><td>88</td><td>Hottek, Paula, Modistin, I/1, Trattnerh.1</td></tr><tr><td>B3</td><td>29</td><td>34</td><td>Dies., Wohn., VII/62, Lerchenf.Str. 9</td></tr><tr><td>B2</td><td>41</td><td>84</td><td>LHotter, Norbert, VI/56, L.Wienzeile 54</td></tr><tr><td>B2</td><td>76</td><td>18</td><td>Hotter, Dr. Philipp, Präs., VI/56, Linke<br/>Wienzeile 54</td></tr><tr><td>A3</td><td>77</td><td>41</td><td>Hottner, Kurt, Journalist, V/55, Ram-<br/>perstorferg. 56</td></tr><tr><td>R6</td><td>27</td><td>53</td><td>Hotvagner, Marianne, XVIII/110, Ha-<br/>senauerStr. 83</td></tr><tr><td>B2</td><td>28</td><td>71</td><td>Hotwagner, Johann, Maler, VI/56, Gum-<br/>pendorferStr. 79</td></tr><tr><td>B2</td><td>31</td><td>82</td><td>UHotwagner, J., Gastw., V/55, Kohlg. 19</td></tr><tr><td>B4</td><td>21</td><td>51</td><td>UHotwagner, Karl, Fuhrwerksbes.,<br/>XVIII/110, WähringerStr. 135</td></tr><tr><td>A1</td><td>98</td><td>06</td><td>Houben, Vlasta, IX/71, Währing.Str. 60</td></tr><tr><td>B2</td><td>99</td><td>36</td><td>Houdal, Hans, VI/56, Gumpend.Str. 63</td></tr><tr><td>A3</td><td>21</td><td>92</td><td>U侯dek, Maria, V/55, Schwarzhorng. 2</td></tr><tr><td>B1</td><td>59</td><td>54</td><td>Houdek, Wilh., XIX/117, P.Jordanstr.12</td></tr><tr><td>R4</td><td>A4</td><td>71</td><td>Hauf Adolhart Kunststeinfr</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "-----",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 994\" data-label=\"Text\"><table><tbody><tr><td>B4 98 32</td><td>Howorka, Fritz, Ing., IX/71, Senseng. 5</td></tr><tr><td>A1 11 08 L</td><td>Howorka, Hertha, IX/66, Porzellang. 45</td></tr><tr><td>U4 84 50</td><td>Howorka, Jos., Automobile, IV/50,<br/>Goldegg. 21</td></tr><tr><td>A3 67 54</td><td>Howorka, Jos., Zahnatelier, VI/56,<br/>Aegidig. 5</td></tr><tr><td>A2 30 22</td><td>Howorka, Paul, phototechn. Einricht.,<br/>IX/71, Lazarettg. 9</td></tr><tr><td>A2 11 26 L</td><td>Ders., Wohnung, XVIII/110, Währ.G. 63</td></tr><tr><td>B4 19 14</td><td>Hoyda, Leo, Friseur, IX/71, Alserstr. 50</td></tr><tr><td>B5 89 26</td><td>Hoyer, Dr. Alois, Stud.-R., III/40,<br/>Ldstr.Hauptstr. 67</td></tr><tr><td>A5 71 39</td><td>Hoyer, Anneliese, XIII/89, Weinrotherg. 9</td></tr><tr><td>A2 71 69 Z</td><td>Hoyer, Br. Otto, Dispon., VIII/65,<br/>Langegeg. 10</td></tr><tr><td>B1 26 61</td><td>Hoyer, Emilie, XIX/117, Sievering.<br/>Straße 49</td></tr><tr><td>B4 19 22</td><td>Hoyer, Frz., Friseur, VIII/65, Kochg. 17</td></tr><tr><td>U4 26 86</td><td>Hoyer, Dr. Frz., Pol.Komr., IV/50,<br/>Wied.Gürtel 60</td></tr><tr><td>A5 77 09</td><td>Hoyer. Lily. Dr., XIII/89. Rußweg 16</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 613\" data-label=\"Text\"><p>AN 10 10 21111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"943 756 993 906\" data-label=\"Page-Footer\"><p><b>B1</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 10 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>B1 32 54</td>\n<td>Hoyer, Dr. Vikt., V.-Präsid. d. Ob.-Ld.-Ger. XIX/117, Scheibeng. 15</td>\n</tr>\n<tr>\n<td>A3 27 07</td>\n<td>Hoynigg, Fritz, Dr., IV/50, Waagg. 10</td>\n</tr>\n<tr>\n<td>R2 27 89</td>\n<td>Hoyos, Graf Balthasar, Beamter, I/1, Zedlitzgasse 7</td>\n</tr>\n<tr>\n<td>R2 37 25</td>\n<td>Hoyos, Edgar, Graf, I/1, Stubenb. 2</td>\n</tr>\n<tr>\n<td>U4 32 66</td>\n<td>Hoyos, Joh. Georg, IV/50, Plößlg. 1</td>\n</tr>\n<tr>\n<td>U1 61 05</td>\n<td>v. Hoyos, Jos., Graf, III/40, Uhdeg. 6</td>\n</tr>\n<tr>\n<td>U4 33 33</td>\n<td>Hoyos, Karl, IV/50, Hoyosgasse 5</td>\n</tr>\n<tr>\n<td>U4 60 39</td>\n<td>Hoyos, Rud., IV/50, Hoyosgasse 5</td>\n</tr>\n<tr>\n<td>U4 04 71</td>\n<td>Hoyos-Seilern, Ilona, Gräfin, IV/50,</td>\n</tr>\n<tr>\n<td>U4 02 97</td>\n<td>Hoyos-Sprinzenstein, Ernst, IV/50, Hoyosgasse 5</td>\n</tr>\n<tr>\n<td>U4 95 65</td>\n<td>Hoyos-Sprinzenstein'sche Direktion, IV/50, Paulanergasse 4</td>\n</tr>\n<tr>\n<td>B2 61 35 Z</td>\n<td>Hozhevar, Johann, Gesandter, V/55, Stollbergg. 17</td>\n</tr>\n<tr>\n<td>R3 46 80</td>\n<td>Hozhevar, L., Insp., XV/101, Langauerg. 1</td>\n</tr>\n<tr>\n<td>A4 26 89</td>\n<td>Hrabac, Jos., Malermstr., II/27, Gr. Schiffg. 30</td>\n</tr>\n<tr>\n<td>B2 00 55</td>\n<td>Hrabak, Anna, Gesch.-Vermittlg., V/55, <br/>CohAnhr Qtr AA</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 984\" data-label=\"Table\">\n<table>\n<tr>\n<td>A2 44 07</td>\n<td>Hrabak, Hans A., Verwalt., VIII/65,<br/>Schönborng. 15</td>\n</tr>\n<tr>\n<td>B5 05 51</td>\n<td>Hrabak, Joh., Makler, III/40, Ldstr.<br/>Hauptstr. 17</td>\n</tr>\n<tr>\n<td>U2 88 58</td>\n<td>Hrabal, Frz., Schneid., I/1, Freyung 3</td>\n</tr>\n<tr>\n<td>U3 97 82</td>\n<td>Hrabal, Frz., Mechan., XVI/107, Ha-<br/>bicherg. 18</td>\n</tr>\n<tr>\n<td>A3 88 50</td>\n<td>Hrabala, Karl, Kunstgewerbl., VI/56,<br/>Mollardg. 23</td>\n</tr>\n<tr>\n<td>U4 97 09</td>\n<td>Hrabala, Ottó, Dir.-R., V/55, Wied.<br/>Hauptstr. 111</td>\n</tr>\n<tr>\n<td>R1 27 58</td>\n<td>Hrabalak, Dr. Jos., R.A., <i>Obl</i> (XXIII),<br/>Neugrabenstr. 6</td>\n</tr>\n<tr>\n<td>A3 68 78</td>\n<td>Hrabalek, Peter, Schloss., VI/56, Gum-<br/>pend.Straße 131</td>\n</tr>\n<tr>\n<td>U3 52 89</td>\n<td>Hrabanek, Hans, Konditor, XIV/89,<br/>Hütteld.Str. 135</td>\n</tr>\n<tr>\n<td>U5 02 93</td>\n<td>Hrabanek, Karl, Schlosserei, XVII/107,<br/>Stöberpl. 10</td>\n</tr>\n<tr>\n<td>U3 75 20</td>\n<td>Hrabanek, Otto, Konditorei, XIV/89,<br/>Hütteld. Str. 239</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "R1 52 94 Hrabé, Katharina, X/75, Bucheng. 47",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Holzbauwerk",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 17 993 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>B2 32 49</td>\n<td>Hrachowina, Jos., Stadtbaunstr., VI/56, Rahlg. 1</td>\n</tr>\n<tr>\n<td>B2 79 07</td>\n<td>Ders., Wohng., VI/56, Theobaldg. 16</td>\n</tr>\n<tr>\n<td>U5 01 68 Z</td>\n<td>Hrachowina sen., Josef, XVII/107, Dornb. Straße 31</td>\n</tr>\n<tr>\n<td>A3 60 52</td>\n<td>Hrachowina, Vikt., Messegestalter, VI/56, Mariahilf.Str. 93</td>\n</tr>\n<tr>\n<td>B4 02 55</td>\n<td>Hrad, Frz., Schneiderei, XVI/107, Grundsteing. 9</td>\n</tr>\n<tr>\n<td>A2 46 23</td>\n<td>Hradecky, Karl, Dr.Ing., IX/71, Kinderspitalg. 13</td>\n</tr>\n<tr>\n<td>B2 88 19</td>\n<td>Hradecky, Karoline, VI/56, Aegidig. 6</td>\n</tr>\n<tr>\n<td>B3 76 72</td>\n<td>Hradecky, Mathilde, Kaffeehaus, VII/62, Burgg. 81</td>\n</tr>\n<tr>\n<td>R4 51 23 U</td>\n<td>Hradecky, Paul, Beamter, II/27, Marinelli-gasse 3</td>\n</tr>\n<tr>\n<td>B5 23 88</td>\n<td>Hradecky, Rosa, Lebensm., III/40, Unt. Weißgerberstr. 52</td>\n</tr>\n<tr>\n<td>U1 78 52</td>\n<td>Hradečný, Anna, Lebenam., III/40, Ungarg. 44</td>\n</tr>\n<tr>\n<td>B5 44 49</td>\n<td>Hradečný, Rud., Metallmöbelfbr., XI/79, <br/>Tischlerstr. 2</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>B2 23 80</td>\n<td>Hradek, Frz., Schreibmasch., VI/56,<br/>Gumpend.Str. 63</td>\n</tr>\n<tr>\n<td>R5 25 09</td>\n<td>Hradek, Vikt., Dir., XIX/117, Vegag. 21</td>\n</tr>\n<tr>\n<td>U3 76 13</td>\n<td>Hradelovszky, Ludmilla, XVI/107, Ha-<br/>berlg. 49</td>\n</tr>\n<tr>\n<td>B5 08 36</td>\n<td>Hradetschny, Else, Ww., III/40, Heu-<br/>markt 23</td>\n</tr>\n<tr>\n<td>A1 23 41</td>\n<td>Hradetz, Joh., Bmstr., XVIII/110, Rigler-<br/>gasse 11</td>\n</tr>\n<tr>\n<td>U3 46 97</td>\n<td>Hradetzky, Elsa, Schokolad., XV/101,<br/>Märzstr. 59</td>\n</tr>\n<tr>\n<td>R6 01 77</td>\n<td>Hradetzky, Else, Beamtin, XVIII/110,<br/>Scheibenb.Str. 20</td>\n</tr>\n<tr>\n<td>B3 48 92</td>\n<td>Hradetzky, Fina, Kosmetikschule, VII/62,<br/>Westbahnstr. 31</td>\n</tr>\n<tr>\n<td>A2 26 03</td>\n<td>Dies., Wohng., XVIII/110, Währinger<br/>Gürtel 57</td>\n</tr>\n<tr>\n<td>U5 03 77U</td>\n<td>Hradetzky, Gg., Anstreich.-Mstr.,<br/>XVII/107, DornbacherStr. 4</td>\n</tr>\n<tr>\n<td>U3 64 98</td>\n<td>Hradetzky, Jos., Papier, XV/101, März-<br/>straße 1B</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Dr. phil. h. c. Hradetzky, Emil, Waburhaus, VII/44,",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Äußerung der Orts- u. Vorortsabkürzungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 770 995\" data-label=\"Text\"><table><tbody><tr><td>U3 86 00</td><td>Hradil, Käthe, H.-Wäschefbr., XV/101,<br/>Holocherg. 49</td></tr><tr><td>R3 87 59</td><td>Hradil, Marie, Wäsche, XII/82, Meidl.<br/>Hauptstr. 32</td></tr><tr><td>U3 43 59</td><td>Hradilek, Rob., Schuhfbr., XV/101,<br/>Tautenhayng. 2</td></tr><tr><td>R3 37 22</td><td>Hradsky, Frz., Tischlerei, XII/82, AB-<br/>mayerg. 60</td></tr><tr><td>R2 58 08</td><td>Hradsky, Herm., Priesterkleid., I/1,<br/>Singerstr. 22</td></tr><tr><td>R2 26 23</td><td>Hradsky, Hertha, I/1, Wollzeile 25</td></tr><tr><td>B5 22 05</td><td>Hradsky, Marie, Kohlen, III/40, Seidel-<br/>gasse 31</td></tr><tr><td>B5 54 54</td><td>Hranac, Franz, Beamter, III/40, Thong. 2</td></tr><tr><td>B4 60 85</td><td>Hranitzky, Franziska, Pension, VIII/65,<br/>Kochg. 9</td></tr><tr><td>R2 34 23</td><td>Hranitzky, Herb., I/1, Fr.-Joh.-Kai 17</td></tr><tr><td>R2 62 45</td><td>Hranitzky, Herb., H.-Bekldg., I/1, Adler-<br/>gasse 8</td></tr><tr><td>U4 71 43U</td><td>Hranitzky, Rud., I/1, Bösend.Str. 6</td></tr><tr><td>A1 98 78</td><td>Hrasovec, Felizitas, IX/66, Scheuchg. 3</td></tr><tr><td>TT1 21 50R</td><td>Hroznina Ha TT1/40 Am Hauptmarkt 2</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 767 993\" data-label=\"List-Group\"><p>B2 88 36 Hrastnik, Hub., Dipl.-Ing., V1/56,<br/>Schmalzhg. 22</p><p>A2 21 43U Hrazdil, Ant., Ob.-Insp., XVIII/110,<br/>Gersthof.Str. 105</p><p><b>U3 56 55 Franz Hrazdil Bau- und<br/>Möbeltischlerei</b><br/><b>Wien XIV/89, Karl-Bauer-Gasse 28</b></p><p>A1 71 44ZHrazdil, Leopoldine, IX/66, Platz d. Su-<br/>detend. 9</p><p>A3 41 42 Hrazdil, Peter, Schneid.-Mstr., V/55,<br/>Wehrg. 29</p><p>A3 46 37 Hrazdilek's Ww., Helene Hrazdilek,<br/>Schlosserei, V/55, R.Wienzone 73</p><p>R1 57 10 Hrazdira, Ant., Druck. u. Verlag, X/75,<br/>Pernerstorf.G. 22</p><p>A6 21 92 Hrazdira, Johanna, Schuhe, XXI/141,<br/>BrüunnerStr. 40</p><p>U1 99 37 Hrazdjira, Osk., Musiker, III/40, Aren-<br/>bergring 14</p><p>A5 52 63 Hrazky, Josef, Dr., XIV/89, Ameisg. 13</p><p>R4 84 81 Hrhacek Alois Schlosserei XVII/107.</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "derhofstr. 1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 764 952\" data-label=\"Text\"><table><tbody><tr><td>B5 15 33</td><td>Hreben, Frz., Obst, Gemüse, III/40,<br/>Schredtg. 34</td></tr><tr><td>R3 24 23</td><td>Hrebik, Eman., Sicherh.Schlöss., XV/101,<br/>Kohlenhofg. 6</td></tr><tr><td>A3 17 57</td><td>Hrebik, Therese, VI/56, Mollardg. 37</td></tr><tr><td>U3 28 35</td><td>Hrehorowicz, Jos., Lackierer, XVI/107,<br/>Wiesbergg. 8</td></tr><tr><td>R3 11 51</td><td>LJos. Hreschich &amp; Sohn, Seifensied.,<br/>XII/82, Mich.-Bernhard-G. 8</td></tr><tr><td>R5 12 48</td><td>Hribar, Frdr., Min.-R., XIX/107, Hei-<br/>ligenst.Str. 9</td></tr><tr><td>U1 89 03</td><td>Hribar, Herb., Ing., III/40, Marxerg. 33</td></tr><tr><td>A2 42 79</td><td>Hribernik, Fritz, Prok., XVII/107, Ottak.<br/>Straße 44</td></tr><tr><td>B1 69 22</td><td>Hriczinko, A., Lehrer, XIX/119, Hackh.<br/>Gasse 14</td></tr><tr><td>A1 56 99</td><td>Hrischny, Joh., Schneider, IX/66, Platz<br/>d. Sudet. 6</td></tr><tr><td>R6 09 16</td><td>Hriwa, Mary, H.-Mod., XVIII/110,<br/>Gersth.Str. 59</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,896 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Straßburg (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 194 363 300\" data-label=\"Text\"><p>294 66</p></div><div data-bbox=\"382 15 960 440\" data-label=\"Text\"><p><b>BYDON</b></p></div><div data-bbox=\"252 468 968 625\" data-label=\"Text\"><p><b>Chemische Produkte, Großhandlung</b></p></div><div data-bbox=\"250 625 968 895\" data-label=\"Text\"><p>Rohstoffe, Lacke, Farben, Leim, Schmirgel,<br/>Bürsten, Pinsel, Kompressoren, Spritzapparate,<br/>Polier- und Schleifmaschinen</p></div><div data-bbox=\"338 895 877 985\" data-label=\"Text\"><p><b>Straßburg (Elsaß). Nikolausring 11</b></p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Velten (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Waldenbuch (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"356 75 846 309\" data-label=\"Text\"><p><b>Karl Bernhard</b></p></div><div data-bbox=\"504 352 719 494\" data-label=\"Text\"><p><b>Marke „Pfeil“</b></p></div><div data-bbox=\"435 490 785 640\" data-label=\"Text\"><p><b>Chem. kosm. Präparate</b></p></div><div data-bbox=\"359 649 866 796\" data-label=\"Text\"><p><b>Wien XII/82, Murlingengasse 61</b></p></div><div data-bbox=\"477 800 758 947\" data-label=\"Text\"><p><b>Fernruf R 3 3 4 2 1</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"217 13 997 199\" data-label=\"Text\"><p>R2 25 18 <b>W. Bieslerfeld &amp; CO.</b> Salz-,<br/>Chemikalien-<br/>und Düngemittel-Großhandel, Salzlager<br/>am Ostbahnhof, Wien I/1, Krugerstr. 17</p></div><div data-bbox=\"211 199 997 340\" data-label=\"Text\"><p>B1 25 00 (Serie) { <b>EGGOCHEMIA</b>, Fabrik chem. u. pharma-<br/>zeut. Präparate, Dr. et Mr. E. Pinter,<br/>Wien XIX/119, Heiligenstädter-Str. 158</p></div><div data-bbox=\"211 340 997 482\" data-label=\"Text\"><p>R1 25 93 . <b>Ignaz Gleichenthell</b><br/>Fabrik chem. Produkte<br/>Wien XXV - Erlaa, Gleichenthellgasse 18</p></div><div data-bbox=\"222 482 997 673\" data-label=\"Text\"><p>B5 00 61 <b>Carl R. Hatzinger</b><br/>Chemische Produkte, pharmazeutische<br/>Präparate, Wien III/40, Löwengasse 7</p></div><div data-bbox=\"211 673 997 770\" data-label=\"Text\"><p>U1 12 34 { v. Horrak, Dipl.-Ing. Heinz, Chem. Pro-<br/>U1 13 76 { dukte, I/1, Kantgasse 3</p></div><div data-bbox=\"211 770 997 993\" data-label=\"Text\"><p>A4 32 12 <b>Alfred Klein</b> Chemische,<br/>kosmetische<br/>und pharmazeutische Artikel<br/>Filialbetrieb der Dresdner Pharm. Fabr.<br/>XX/20. Heinzelmannstr. 20 P Wien 11224A</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"214 102 355 386\"}, {\"label\": \"Text\", \"bbox\": \"380 0 967 859\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 111 372 804\" data-label=\"Image\"><img alt=\"Circular logo with the number 100 inside a wreath of leaves and flowers, indicating a 100th anniversary.\"/>A circular emblem featuring the number '100' in a bold, serif font. The number is surrounded by a wreath of leaves and small flowers, likely laurel or oak, symbolizing a centennial celebration.</div><div data-bbox=\"376 111 970 941\" data-label=\"Text\"><p><b>J. Medinger &amp; Söhne</b><br/>Chemische Fabrik in Neufeld a. L.<br/><b>Chem. Produkte für alle Industriezweige</b><br/><b>11/27, Blumauerstraße 6    Ruf R44007</b></p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"210 20 905 187\" data-label=\"Text\"><p>U 4 62 09 <b>Felix Obrecht</b> vorm. Dr. Fried-<br/>lander &amp; Co.,</p></div><div data-bbox=\"364 183 908 273\" data-label=\"Text\"><p>Wien V/55, Wiedner Hauptstr. 113</p></div><div data-bbox=\"210 273 990 532\" data-label=\"Text\"><p>U 4 24 81 <b>Reiner &amp; Co. Kom. Ges.</b>, Terpentinöl,<br/>mineralische u. chem. techn. Produkte,<br/>Büro: Wien IV/50, Wohllebengasse 9</p></div><div data-bbox=\"210 532 990 630\" data-label=\"Text\"><p>R 4 15 47 <b>Dies.</b>, Lager: Wien XX, Innstr., Nordbahnhof.</p></div><div data-bbox=\"210 617 816 736\" data-label=\"Text\"><p>A 3 90 28 { <b>Substantia</b></p></div><div data-bbox=\"210 736 970 955\" data-label=\"Text\"><p>B 2 64 24 { Gesellschaft für chemische Produkte m. b. H.<br/>A 3 40 52 { Wien VI/56, Marchettigasse 14</p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "„Vegetabile“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Wiener Neustadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberg (Lutherstadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Worms.",
+        "entries": []
+      },
+      {
+        "region_name": "Wunderthal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Zeitz (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Zwischenwässern (Oberkrain).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Tanninfabrik G.m.b.H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image shows a blank page from a 1942 German telephone directory. The page is completely empty, with no text, markings, or illustrations visible.</div>",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "934. Chemische Reinigung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Komotau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Lengenfeld (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "M. Gladbach.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"406 16 714 210\" data-label=\"Text\"><p>99-1111-11</p></div><div data-bbox=\"406 223 771 428\" data-label=\"Text\"><p>Inh. Franz Hruska</p></div><div data-bbox=\"259 453 924 671\" data-label=\"Text\"><p>Chem. Kunstputzerei u. -Färberei</p></div><div data-bbox=\"196 675 984 911\" data-label=\"Text\"><p>Wien III/40, Untere Weißgerberstr. 8</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"22 16 958 182\" data-label=\"Text\"><p><b>Alt-Erlaaer Färberei und Appretur A.-G.</b></p></div><div data-bbox=\"187 187 802 330\" data-label=\"Text\"><p><b>Wien XXV, Alt Erlaa</b></p></div><div data-bbox=\"187 335 804 455\" data-label=\"Text\"><p><b>Postfach: Atzgersdorf und Erlaa</b></p></div><div data-bbox=\"157 471 840 589\" data-label=\"Text\"><p><b>Färberei und chemische Reinigung</b></p></div><div data-bbox=\"87 589 906 707\" data-label=\"Text\"><p><b>Appretur-, Dekatur- und Imprägnieranstalt</b></p></div><div data-bbox=\"213 707 775 820\" data-label=\"Text\"><p><b>Fernsprecher: Wien R 3 00 55</b></p></div><div data-bbox=\"32 820 957 941\" data-label=\"Text\"><p><b>Wien R 3 35 70 (Klappe 707) u. R 3 95 70 (Klappe 707)</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "D. COUNDÉ",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"46 222 212 355\"}, {\"label\": \"Text\", \"bbox\": \"314 130 847 895\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 805 998 960\" data-label=\"Text\"><p><b>rodukte — 939. Chem.-pharma;</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Friedl Kastner",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"23 33 341 958\" data-label=\"Image\"><img alt=\"Logo of Die Wäscherei featuring a stylized hand holding a laundry basket inside a rainbow.\"/>The logo consists of a black silhouette of a hand holding a laundry basket, enclosed within a thick black rainbow arc. The hand is positioned as if lifting the basket, and the basket is filled with laundry. The rainbow arc is a simple, thick black line.</div><div data-bbox=\"357 16 800 906\" data-label=\"Text\"><p><b>Die Wäscherei</b></p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Image\", \"bbox\": \"0 0 340 944\"}, {\"label\": \"Text\", \"bbox\": \"358 0 997 944\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "ZENTRALE UND WERK HÜTTELDORF",
+        "entries": []
+      },
+      {
+        "region_name": "WERK BREITENSEE",
+        "entries": []
+      },
+      {
+        "region_name": "WERK SECHSHAUS",
+        "entries": []
+      },
+      {
+        "region_name": "ABTEILUNG LEIHWÄSCHE",
+        "entries": []
+      },
+      {
+        "region_name": "ABT. FÜR CHEM. PUTZEN U. FÄRBEN",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"141 196 864 886\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 102 998 283\" data-label=\"Text\"><p><b>R1 58 99 Wetty u. Willy Hammer, eigene Chemisch-</b><br/><b>putzerei, Schönfärberei, X/75, Gellertpl. 2</b></p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Wiener Reinigungs-Werke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 58 998 625\" data-label=\"Text\"><p><b>B2 34 23 Wiener Theaterputzerei und Färberel<br/>R. &amp; E. Goebel, Chemische Reinigung u.<br/>Färberel, Wien V/55, Rüdigergasse 20</b></p></div><div data-bbox=\"10 731 837 967\" data-label=\"Text\"><p><b>Wittenberg (Lutherstadt).</b></p></div>",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Arthur Lambert",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a faint vertical line on the right side, indicating the binding or gutter of the book.\"/></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 127 998 822\"}]",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 66 194 213\" data-label=\"Text\"><p><b>Prag.</b></p></div><div data-bbox=\"59 266 177 361\" data-label=\"Text\"><p>58339</p></div><div data-bbox=\"239 213 952 404\" data-label=\"Text\"><p><b>Johann Kellerstein &amp; Söhne</b></p></div><div data-bbox=\"429 423 754 520\" data-label=\"Text\"><p>Maschinenfabrik</p></div><div data-bbox=\"184 526 985 640\" data-label=\"Text\"><p>•Erzeugung von Wasch-, Plätt- u. chem.</p></div><div data-bbox=\"403 636 778 744\" data-label=\"Text\"><p>Reinigungsanlagen,</p></div><div data-bbox=\"231 740 950 852\" data-label=\"Text\"><p>Prag XII-Straschnitz, Längenstraße</p></div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "937. Chem.-kosmet. Erzeug-nisse",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 125 188 342\"}, {\"label\": \"Text\", \"bbox\": \"0 352 991 744\"}]",
+      "cells": [
+        "col3_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"86 135 901 813\"}]",
+      "cells": [
+        "col3_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Hasenthal (Thür. Wald).",
+        "entries": []
+      },
+      {
+        "region_name": "Mellenbach (Schwarztal).",
+        "entries": []
+      },
+      {
+        "region_name": "Meuselbach (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Steinach (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"103 0 992 222\" data-label=\"Text\"><p>282 Habermann &amp; Co. K.-U., Christbaum-<br/>schmuck u. chem.-pharm. Glaswarenfabrik</p></div><div data-bbox=\"0 264 992 654\" data-label=\"Text\"><p><b>Taubenbach b. Wallendorf (Thür. Wald).</b><br/>Wallendorf 92 Gebr. Müller-Joh., Glaswarenfabrik,<br/>Spez. Chem.-pharm. Glaswaren</p></div>",
+      "cells": [
+        "col3_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 753 232 895\" data-label=\"Text\"><p><b>. Präpar.</b></p></div><div data-bbox=\"395 753 744 895\" data-label=\"Text\"><p>(Branchenteil) 135</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Amberg (Oberpfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Homburg v. d. H.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Kissingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Neuenahr.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Bayreuth.",
+        "entries": []
+      },
+      {
+        "region_name": "Bensberg (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 0 740 990\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>42 76 95</td>\n<td><b>Deutsche Beatin-Fabrikation,</b><br/>Ludwig Heinen, N 4, Ackerstr. 165</td>\n</tr>\n<tr>\n<td>17 20 47</td>\n<td><b>Dultz, Max,</b> Pharmazeutische Präparate,<br/>Berlin SW 68, Friedrichstr. 19</td>\n</tr>\n<tr>\n<td>75 61 31</td>\n<td><b>Dr. Georg Henning,</b> chem. pharmaz. Werk<br/>G. m. b. H., Tmp Komturstraße 19/20</td>\n</tr>\n<tr>\n<td>17 71 66</td>\n<td><b>Hormo-Pharma K. G.,</b> Fabrik chem.-<br/>pharmaz. Präparate, SW 68, Kochstr. 18</td>\n</tr>\n<tr>\n<td>42 26 32</td>\n<td rowspan=\"2\"><b>IDOSAN</b> Chem.-pharm. Fabrik <b>Dr. H.</b></td>\n</tr>\n<tr>\n<td>42 32 66</td>\n<td><b>Mayen &amp; Co.,</b> N 4, Johannisstr. 18/19</td>\n</tr>\n<tr>\n<td>66 18 01</td>\n<td><b>Jacobi, Ch. Ludwig,</b> chem., kosmet. u.<br/>pharm. Präparate, SW 29, Hasenheide 75</td>\n</tr>\n<tr>\n<td>34 26 25</td>\n<td><b>Labopharma, Dr. Johannes Riesenberg</b><br/>&amp; Co., G. m. b. H., Chemische Fabrik,<br/>-Charlottenburg 5, Oranienstr. 11</td>\n</tr>\n<tr>\n<td>87 37 52</td>\n<td><b>Merz &amp; Co. G. m. b. H.,</b> Vertrieb v. chem.-<br/>pharmaz. Präparaten, Patentex-Lager,<br/>-Wilmersdorf, Hindenburgstr. 90a</td>\n</tr>\n<tr>\n<td>63 10 11</td>\n<td><b>Novopin-Fabrik Schöning &amp; Wulf,</b> phar-<br/>maz. Präparate, Berlin-Johannisthal, Se-<br/>gelfliegerdamm 27</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "„Dapharma“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  }
+]

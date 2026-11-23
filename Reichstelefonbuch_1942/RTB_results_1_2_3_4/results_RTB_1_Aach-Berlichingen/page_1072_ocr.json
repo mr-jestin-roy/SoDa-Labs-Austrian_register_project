@@ -1,0 +1,773 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"248 722 596 944\" data-label=\"Text\"><p>588 (Branchenteil)</p></div><div data-bbox=\"758 722 999 912\" data-label=\"Text\"><p><b>4789. Re</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"310 11 988 993\" data-label=\"Text\"><table><tbody><tr><td>5269</td><td>Hörst, Dr. Wilh., [St], Rheingoldstr. 1</td></tr><tr><td>4</td><td>Holzenthaler, Jos., Kaiserstr. 82</td></tr><tr><td>302</td><td>Huber I, Dr. Oskar, Jahnstr. 3</td></tr><tr><td>411</td><td>Huber II, Dr. Oskar, [St], Stephanienstr. 14</td></tr><tr><td>4166</td><td>Ingenohl, Dr. Hans, Kaiserstr. 94</td></tr><tr><td>3393</td><td>Kaltenbach, Dr. Fr., Kriegsstr. 35</td></tr><tr><td>411</td><td>Keßler, Dr. Herm., Stefanienstr. 14</td></tr><tr><td>290</td><td>Kirchenbauer, Dr. Karl, Kaiserstr. 199</td></tr><tr><td>2020</td><td>Klingentuß, Erw., Kaiserstr. 187</td></tr><tr><td>4166</td><td>Klumpp, Oskar, Kaiserstr. 94</td></tr><tr><td>7826</td><td>Knauß, Dr. Rud., [St], Kaiserstr. 158</td></tr><tr><td>2176</td><td>Knod, Gustav, Kriegsstr. 248</td></tr><tr><td>4336</td><td>Kratzer, Dr. Franz, Mathystr. 17</td></tr><tr><td>1151</td><td>Lang, Dr. Heinr., Kaiserstr. 168</td></tr><tr><td>551</td><td>Meler, Dr. Wilh., Kaiserstr. 150</td></tr><tr><td>6036</td><td>Müller, Dr. Edwin, Karlstr. 66</td></tr><tr><td>4048</td><td>Müller, Rudolf, Karlstr. 148</td></tr><tr><td>2732</td><td>Peter, Kari, Kaiserstr. 241a</td></tr><tr><td>6749</td><td>Pfeisch, Dr. Wilh., Kaiserstr. 174</td></tr><tr><td>4469</td><td>Rohde, Otto, Kaiserstr. 223</td></tr><tr><td>3913</td><td>Ruzek, Dr. Jos., Hirschstr. 156</td></tr><tr><td>020</td><td>Rohinlo Dr Ernst Kaiserstr 176</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Karlsruhe-Durlach (Baden).",
+        "entries": [
+          {
+            "extension": "358",
+            "text": "Baumberger, Dr. Otto, Karlsburgstr. 9"
+          },
+          {
+            "extension": "526",
+            "text": "Trautwein, Dr. Carl, Karlsburgstr. 4"
+          }
+        ]
+      },
+      {
+        "region_name": "Karlstadt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 10 992 982\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">74 Nebel, Dr. Ignaz<br/>Kassel.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>20818</td>\n<td><b>Appel, Dr. A.,</b> [N], Spohrstr. 1</td>\n</tr>\n<tr>\n<td>30159</td>\n<td><b>Auel, Georg,</b> Kaiserstr. 64</td>\n</tr>\n<tr>\n<td>36229</td>\n<td><b>Bachmann, Dr. Erich,</b> Ob. Königstr. 18</td>\n</tr>\n<tr>\n<td>23145</td>\n<td><b>Bartelt, Rob.,</b> [N], Kölnische Str. 6</td>\n</tr>\n<tr>\n<td>21518</td>\n<td><b>Baumbach, Wilh.,</b> U.Königsstr. 48</td>\n</tr>\n<tr>\n<td>20066</td>\n<td><b>Becker, Edith,</b> Kölnische Str. 12</td>\n</tr>\n<tr>\n<td>20066</td>\n<td><b>Edith Becker u. August Brencher,</b> Rechtsanwälte, Kölnische Straße 12</td>\n</tr>\n<tr>\n<td>36686</td>\n<td><b>Bippart, Ernst,</b> [N], Ständepf. 13</td>\n</tr>\n<tr>\n<td>22924</td>\n<td><b>Blosse, Dr. Paul,</b> Königspl. 40</td>\n</tr>\n<tr>\n<td>21741</td>\n<td><b>Borgmann, A.,</b> Obere Königstr. 47.</td>\n</tr>\n<tr>\n<td>20066</td>\n<td><b>Brencher, August,</b> Kölnische Str. 12</td>\n</tr>\n<tr>\n<td>30221</td>\n<td><b>Bromm, Dr. Karl,</b> Hohenzollernstr. 23</td>\n</tr>\n<tr>\n<td>31172</td>\n<td><b>Dietrich,</b> [N], Operustr. 11/13</td>\n</tr>\n<tr>\n<td>36600</td>\n<td><b>Dörge, Dr. Carl,</b> Ob. Königstr. 6</td>\n</tr>\n<tr>\n<td>32250</td>\n<td><b>Eckart, Dr. Ernst,</b> [St], Ob. Königstr. 22</td>\n</tr>\n<tr>\n<td>21660</td>\n<td><b>Fröhlich, Wilh.,</b> Friedr.Wilh.Pf. 2</td>\n</tr>\n<tr>\n<td>33367</td>\n<td><b>Früchte, Dr.,</b> [N], Ob. Königstr.",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"295 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>20195</td>\n<td>Hahn, Dr. G., J.-R., [N], Wolffschlucht 29</td>\n</tr>\n<tr>\n<td>21539</td>\n<td>Hartdegen, Fr., [N], Königspl. 57</td>\n</tr>\n<tr>\n<td>31551</td>\n<td>Heermann, Dr. K., Kaiserstr. 47</td>\n</tr>\n<tr>\n<td>20195</td>\n<td>Heidmann, Otto, [N], Wolffschlucht 29</td>\n</tr>\n<tr>\n<td>20019</td>\n<td>Hempel, Rud., [N], Königspl. 36½</td>\n</tr>\n<tr>\n<td>22110</td>\n<td>Heuser, Dr. Fr., [N], Ob. Königstr. 39</td>\n</tr>\n<tr>\n<td>20032</td>\n<td>Heussner, Dr., Justizrat, Rechtsanwalt,<br/>Obere Königstr. 47. P Frankfurt (M) 3873</td>\n</tr>\n<tr>\n<td>30075</td>\n<td>Derselbe, Wohnung, Hohenzollernstr. 174</td>\n</tr>\n<tr>\n<td>21733</td>\n<td>Isale, Walter, Kölnische Str. 3</td>\n</tr>\n<tr>\n<td>(36648)</td>\n<td>Itter, Helmut, Ob. Königstr. 21</td>\n</tr>\n<tr>\n<td>20433</td>\n<td>Kellner, Edm., [St], Kölnische Str. 5</td>\n</tr>\n<tr>\n<td>34249</td>\n<td>Knoll, Herm., Ob. Königstr. 25</td>\n</tr>\n<tr>\n<td>31505</td>\n<td>König, Alb., [St], Tannenkuppenstr. 17½</td>\n</tr>\n<tr>\n<td>31172</td>\n<td>Kraushaar, Rudolf, Opernstr. 11</td>\n</tr>\n<tr>\n<td>34249</td>\n<td>Kreitz, Karl, [N], Ob. Königstr. 25</td>\n</tr>\n<tr>\n<td>22848</td>\n<td>Kressner, Dr. W., [N], Unt. Königstr. 50</td>\n</tr>\n<tr>\n<td>36664</td>\n<td>Lochner, Dr. Joh., Wilh. Allee 55</td>\n</tr>\n<tr>\n<td>20287</td>\n<td>Mangold, Dr. Ernst, [N], Königspl. 55</td>\n</tr>\n<tr>\n<td>22848</td>\n<td>Müller, Dr. B., [N], Unt. Königstr. 50</td>\n</tr>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"303 0 998 980\" data-label=\"Text\"><table><tbody><tr><td>21741</td><td>Nieman, Dr. Heim., [N], Ob. Königstr. 47</td></tr><tr><td>22554</td><td>Ochs, Dr. Nik., [N], Ob. Königstr. 41</td></tr><tr><td>20339</td><td>Oeding, Heinz, Theaterstr. 4</td></tr><tr><td>33367</td><td>Paulmann, Dr. W., [N], Ob. Königstr. 7</td></tr><tr><td>22110</td><td>Pechmann, Dr., [N], Ob. Königstr. 39</td></tr><tr><td>20025</td><td>Platner, [N], Ob. Königstr. 30</td></tr><tr><td>31529</td><td>Raabe, Wilhelm, Wilhelmstr. 25</td></tr><tr><td>36648</td><td>Rocholl, Dr. E., [N], Ob. Königstr. 21</td></tr><tr><td>20836</td><td>Rocholl, Dr. Erich, [N], Kölnische Str. 3</td></tr><tr><td>22187</td><td>Rocholl, Dr. Frank, Königspl. 55</td></tr><tr><td>22187</td><td>Rocholl, Dr. Herm., [N], Königspl. 55</td></tr><tr><td>32294</td><td>Schäfer, L., [N], W Kunoldstr. 64</td></tr><tr><td>20818</td><td>Schott, Heinr., [N], Spohrstr. 1</td></tr><tr><td>36749</td><td>Schott, Dr. K. D., [St], Spohrstr. 1</td></tr><tr><td>36892</td><td>Schreiner, Ernst, Ob. Königstr. 2</td></tr><tr><td>32250</td><td>Schröder, Dr., Ob. Königstr. 22</td></tr><tr><td>20645</td><td>Schulin, Dr. K., [St/N], Kölnische Str. 13</td></tr><tr><td>20021</td><td>Selbert, Dr. Elisabeth, Königspl. 42</td></tr><tr><td>34442</td><td>Seyffert, Heinr., [St], Weinbergstr. 13</td></tr><tr><td>20645</td><td>Stahl, Dr. Otto, [N], Kölnische Str. 13</td></tr><tr><td>20312</td><td>Steinmeyer, Dr. Alb., Kölnische Str. 15</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 723 358 920\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Kattowitz.",
+        "entries": [
+          {
+            "extension": "33216",
+            "text": "Englisch, Dr. Kurt, [St/N], Friedrichstr. 3"
+          },
+          {
+            "extension": "31082",
+            "text": "Fafflock, Fritz, [N], Friedrichpl. 1"
+          },
+          {
+            "extension": "32397",
+            "text": "Haucke, Dr., [N], Friedrichpl. 12"
+          },
+          {
+            "extension": "33670",
+            "text": "Huschke, Dr. Curt, [N], Direktionsstr. 4"
+          },
+          {
+            "extension": "32080",
+            "text": "Kirsch, Hans, [N], Johannesstr. 11"
+          },
+          {
+            "extension": "36321",
+            "text": "Kowalski, Dr. H., [N], Mollwitzstr. 2"
+          },
+          {
+            "extension": "30202",
+            "text": "Rudzki, Dr., [N], Grundmannstr. 2"
+          },
+          {
+            "extension": "30796",
+            "text": "Schultzik, Paul, [N], Seydlitzstr. 19"
+          },
+          {
+            "extension": "30068",
+            "text": "Wichmann, Dr. Jos., [N], Grundm.Str. 13"
+          },
+          {
+            "extension": "33216",
+            "text": "Zolden, Dr. Eduard, [N][St], Friedrichstr. 3"
+          }
+        ]
+      },
+      {
+        "region_name": "Kaufbeuren (Bay.).",
+        "entries": [
+          {
+            "extension": "205",
+            "text": "Abt, Franz, Salzmarkt 14"
+          },
+          {
+            "extension": "296",
+            "text": "Dolles, Karl, Ganghoferstr. 12"
+          },
+          {
+            "extension": "49",
+            "text": "Zimmermann, Dr. Alb., J.-R., Ringw. 23"
+          }
+        ]
+      },
+      {
+        "region_name": "Kehl (Baden).",
+        "entries": [
+          {
+            "extension": "415",
+            "text": "Kautz, Chr., Adolf-Hitler-Str. 2"
+          },
+          {
+            "extension": "433",
+            "text": "Mayer, Karl, Nibelungenstr. 8"
+          },
+          {
+            "extension": "412",
+            "text": "Schleyer, Hans, Adolf-Hitler-Str. 6"
+          },
+          {
+            "extension": "204",
+            "text": "Schutter. Max. Horst-Wessel-Ring 26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Kellheim (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kellinghusen (Mittelholst.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kemberg (Kr. Wittenberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Kennath (Stadt) [Bay.].",
+        "entries": []
+      },
+      {
+        "region_name": "Kempen (Niederrhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Kempen (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Kempten (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Kenzingen (Baden).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Keitwig (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kevelaer (Rhpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"87 0 998 978\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>4800</td>\n<td>Gruse, Hans, Sophienblatt 21a</td>\n</tr>\n<tr>\n<td>8034</td>\n<td>Drath, Julius, [N], Möllingstr. 2</td>\n</tr>\n<tr>\n<td>2813</td>\n<td>Ehlers, Dr. Heinrich, [N] Führstr. 10</td>\n</tr>\n<tr>\n<td>2830</td>\n<td>Eichstädt, Hch., Herzog-Friedrich-Str. 21</td>\n</tr>\n<tr>\n<td>7970</td>\n<td>Emcke, Dr. Max, [N], Martensdamm 2</td>\n</tr>\n<tr>\n<td>7674</td>\n<td>Erk, Karl, Bismarckallee 25</td>\n</tr>\n<tr>\n<td>5731</td>\n<td>Eben, B., Sophienblatt 22/24</td>\n</tr>\n<tr>\n<td>1421</td>\n<td>Feddersen, Rob., [N], Sophienblatt 23</td>\n</tr>\n<tr>\n<td>4320</td>\n<td>Feldmann, Albert, [N], Sophienblatt 20</td>\n</tr>\n<tr>\n<td>3052</td>\n<td>Freydag, Dr. Alois, Exerzierplatz 21</td>\n</tr>\n<tr>\n<td>7888</td>\n<td>Gottschewsky, W., [N], Möllingstr. 2</td>\n</tr>\n<tr>\n<td>4393</td>\n<td>Haecker, Fr., [St], Holstenbrücke 16</td>\n</tr>\n<tr>\n<td>5910</td>\n<td>Haeseler, Frz., [N], Brunswiker Str. 33</td>\n</tr>\n<tr>\n<td>5383</td>\n<td>Hahne, Peter, [N], Holstenbr. 12</td>\n</tr>\n<tr>\n<td>199</td>\n<td>Hansen, Alexander, [N], Holstenstr. 68</td>\n</tr>\n<tr>\n<td>1421</td>\n<td>Hansohm, Carl, [N], Sophienblatt 23</td>\n</tr>\n<tr>\n<td>1421</td>\n<td>Hansohm &amp; Feddersen, Rechtsanwälte u. Notare, Sophienblatt 23</td>\n</tr>\n<tr>\n<td>4501</td>\n<td>Harder, Dr. Andreas, Holstenstr. 103</td>\n</tr>\n<tr>\n<td>4501</td>\n<td>Harder, Maria, Holstenstr. 103</td>\n</tr>\n<tr>\n<td>250</td>\n<td>Harries, Rolf, [N], Holstenstr. 103</td>\n</tr>\n",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"91 6 998 956\" data-label=\"Text\"><table><tbody><tr><td>4092</td><td><b>Heyen, Dr. Erich</b>, Dahlmannstr. 1</td></tr><tr><td>2858</td><td><b>Horn, Dr. Christ.</b>, [N], Moltkestr. 49</td></tr><tr><td>410</td><td><b>Jacobsen, Henri</b>, Holstenstr. 104</td></tr><tr><td>6471</td><td><b>Jensen, Dr. Jens</b>, [N], Holstenstr. 24</td></tr><tr><td>5532</td><td><b>Jeschke, Dr. Hans</b>, [N], Fleethörn 1</td></tr><tr><td>5150</td><td><b>Jeschke, Dr. Peter</b>, [St/N], Holstenstr. 66</td></tr><tr><td>2486</td><td><b>Kähler, Dr. Otto</b>, [N], Willestr. 9</td></tr><tr><td>1942</td><td><b>Kahlke, Dr. Johann</b>, Willestr. 2</td></tr><tr><td>5851</td><td><b>Kickstadt, Dr. W.</b>, Brunswikerstr. 11</td></tr><tr><td>8788</td><td><b>Klauß, Dr. H.</b>, [N], Falckstr. 9</td></tr><tr><td>1260</td><td><b>Kröger, H. B.</b>, [N], Holstenstr. 59</td></tr><tr><td>6838</td><td><b>Krützfeldt, Hans</b>, [N], Holstenstr. 48/50</td></tr><tr><td>5877</td><td><b>Lange, Dr. Friedr.</b>, [N], Holstenstr. 68</td></tr><tr><td>5973</td><td><b>Loeber, Alfred</b>, Holtenauer Str. 98</td></tr><tr><td>5150</td><td><b>Macht, H.</b>, [St/N], Holstenstr. 68</td></tr><tr><td>8181</td><td><b>Martens, Otto</b>, [N], Sophienblatt 21</td></tr><tr><td>7604</td><td><b>Martens II, Otto</b>, Lornsenstr. 44</td></tr><tr><td>8119</td><td><b>Maßmann, Dr. Wilhelm</b>, Eschenbrook 16</td></tr><tr><td>5733</td><td><b>Meißner, Dr. Bruno</b>, [St], Holstenstr. 42</td></tr><tr><td>4870</td><td><b>Mersmann, Dr. Heinr.</b>, [N], Dän.Str. 7</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"25 13 987 993\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>1743</td>\n<td>Meyer-Grießen, Gerh., Kehdenstr. 26</td>\n</tr>\n<tr>\n<td>2685</td>\n<td>Meyer-Truelsen, Helmut, Holstenstr. 19</td>\n</tr>\n<tr>\n<td>474</td>\n<td>Möller I, Carl, [N], Sophienblatt 34</td>\n</tr>\n<tr>\n<td>5902</td>\n<td>Möller II, Fr., Preußner Str. 2</td>\n</tr>\n<tr>\n<td>5757</td>\n<td>Möller, Georg, Holstenstr. 46</td>\n</tr>\n<tr>\n<td>6111</td>\n<td>Mühlenhoff, Edlef, Ad.-Hitler-Pl. 2</td>\n</tr>\n<tr>\n<td>8580</td>\n<td>Mylord, Dr. H. A., [N], Ad.-Hitler-Pl. 5</td>\n</tr>\n<tr>\n<td>1942</td>\n<td>Nielsen, Dr. Nicolai, Villestr. 2</td>\n</tr>\n<tr>\n<td>4989</td>\n<td>Nieschling, H., [N], Niemannsweg 123</td>\n</tr>\n<tr>\n<td>2719</td>\n<td>Ohff, Kurt, Schloßgarten 11</td>\n</tr>\n<tr>\n<td>5687</td>\n<td>Otto, Erich, [N], Falckstr. 8</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Paulsen, Paul, Lorentzendam 5</td>\n</tr>\n<tr>\n<td>534</td>\n<td>Peters, Herm., [N], Holstenstr. 43</td>\n</tr>\n<tr>\n<td>8330</td>\n<td>Poepplerling, Dr. H., [N], Seeblick 9</td>\n</tr>\n<tr>\n<td>8580</td>\n<td>Prles, Dr. W., [N], Ad.-Hitler-Pl. 5</td>\n</tr>\n<tr>\n<td>5853</td>\n<td>Rasmuß, Dr. E., [N], Holstenstr. 22</td>\n</tr>\n<tr>\n<td>5923</td>\n<td>Rathje, Herm., [N], Sophienblatt 13</td>\n</tr>\n<tr>\n<td>6181</td>\n<td>Rautenberg, Ernst, [N], Klinke 15</td>\n</tr>\n<tr>\n<td>1066</td>\n<td>Reese, Dr. J. A., [N], Holstenstr. 42/44</td>\n</tr>\n<tr>\n<td>1170</td>\n<td>Reese, Dr. Wolff, [N], Herz.-Friedr.-Str. 21</td>\n</tr>\n<tr>\n",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"82 0 991 984\" data-label=\"Text\"><table><tbody><tr><td>1555</td><td><b>Klis, Christ., [N], Holstenstr. 31</b></td></tr><tr><td>1314</td><td><b>Roß I, Dr. Kurt, Holstenstr. 31</b></td></tr><tr><td>419</td><td><b>Roß, Dr. Georg, Holstenstr. 64</b></td></tr><tr><td>594</td><td><b>Roth, P.-E., [N], Mettlachstr. 28</b></td></tr><tr><td>1252</td><td><b>Sattler, Dr. Ernst, Holstenstr. 21</b></td></tr><tr><td>1314</td><td><b>Schäfer, Dr. Hans, [N], Holstenstr. 31</b></td></tr><tr><td>2200</td><td><b>Schlüter, W., [N], Holstenstr. 100</b></td></tr><tr><td>5150</td><td><b>Scholtz, Dr. Ernst, [N], Holstenstr. 66</b></td></tr><tr><td>5687</td><td><b>Schütt I, Emil, [N], Falckstr. 8</b></td></tr><tr><td>4583</td><td><b>Schütt II, Dr. Otto, [N], Holstenstr. 82</b></td></tr><tr><td>6029</td><td><b>Schulz, K., Sophienblatt 23</b></td></tr><tr><td>5400</td><td><b>Stahmer, Dr. Otto [N], Sophienbl. 13</b></td></tr><tr><td>419</td><td><b>Stobbe, J.-R. [N], Holstenstr. 64</b></td></tr><tr><td>419</td><td><b>Stobbe, Justizrat, R.-A. u. Notar, Dr. Georg Roß, Rechtsanwalt, Holstenstraße 64</b></td></tr><tr><td>6111</td><td><b>Susemühl, Wilhelm, [N], Ad.-Hitler-Pl. 2</b></td></tr><tr><td>6137</td><td><b>Tams, Walter, Falckstr. 11</b></td></tr><tr><td>7058</td><td><b>Thode, Dr. H. H., Sophienblatt 13/17</b></td></tr><tr><td>6536</td><td><b>Voss, Herbert, Schönberger Str. 1</b></td></tr><tr><td>5217</td><td><b>Wacker, Dr. Hans, [St], Holstenbrücke 8</b></td></tr><tr><td>3483</td><td><b>Werlein, Dr. August, [N], Ringstr. 26</b></td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Kindberg (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchbach (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchberg (Hunsrück).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchberg (Pielach) [Niederdonau].",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchberg (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"108 0 838 25\" data-label=\"Page-Header\">\n<p>102 7 66017 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Kirchheimbolanden (Pfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchhundem (Kr. Olpe).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirchsschlag b. Hellmonsödt (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirm (Nahe).",
+        "entries": []
+      },
+      {
+        "region_name": "Kirschau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Kissingen s. Bad Kissingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Kitzbühel (Tirol).",
+        "entries": []
+      },
+      {
+        "region_name": "Kitzingen (Mainfr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": [
+          {
+            "extension": "(2175)",
+            "text": "Abuga, Dr. Max, Otto-Planetta-Pl. 2"
+          },
+          {
+            "extension": "1321",
+            "text": "Brugger, Dr. Hans, Bahnhofstr. 2"
+          },
+          {
+            "extension": "1361",
+            "text": "Brunner, Dr. Heinz, Bahnhofstr. 23"
+          },
+          {
+            "extension": "2677",
+            "text": "Daniel, Dr. Josef, Wiener Gasse 9"
+          },
+          {
+            "extension": "2576",
+            "text": "Dellisch, Dr. Fr., Fröhlichg. 26"
+          },
+          {
+            "extension": "2300",
+            "text": "Deutschbein, Dr. Georg, Wiener G. 8"
+          },
+          {
+            "extension": "2175",
+            "text": "Dörflinger, Dr. Fritz, O.-Planetta-Pl. 2"
+          },
+          {
+            "extension": "2691",
+            "text": "Dworschak, Dr. Franz, Ad.-Hitler-Pl. 13"
+          },
+          {
+            "extension": "1868",
+            "text": "Fiedler, Dr. Erich, Kramergasse 1"
+          },
+          {
+            "extension": "(1744)",
+            "text": "Fux, Dr. Roman, Ad.-Hitler-Pl. 13"
+          },
+          {
+            "extension": "1744",
+            "text": "Goll, Dr. Rud., Ad.-Hitler-Pl. 13"
+          },
+          {
+            "extension": "2797",
+            "text": "Grientschnig, Dr. Herm., Bahnhofstr. 4"
+          },
+          {
+            "extension": "1359",
+            "text": "Gstettner, Dr. Vinzenz, Alter Platz 1"
+          },
+          {
+            "extension": "2470",
+            "text": "Günner, Dr. Eduard, Mießtaler Str. 6"
+          },
+          {
+            "extension": "1482",
+            "text": "Günther, Dr. August, Wiener Gasse 10"
+          },
+          {
+            "extension": "1036",
+            "text": "Jobst, Dr. Paul, Ad.-Hitler-Platz 11"
+          },
+          {
+            "extension": "1868",
+            "text": "Kittinger, Dr. Friedrich, Kramerg. 1"
+          },
+          {
+            "extension": "2730",
+            "text": "Knapitsch, Dr. Kurt, Herrengasse 10"
+          },
+          {
+            "extension": "2730",
+            "text": "Knapitsch, Dr. Otto, Herrengasse 10"
+          },
+          {
+            "extension": "2730",
+            "text": "Dr. Otto und Dr. Kurt Knapitsch, Rechts-"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 13 771 956\" data-label=\"Text\"><p>2161 <b>Lausegger, Dr. Alois</b>, Alter Platz 31<br/>1448 <b>Matejcek, Dr. Rich.</b>, Kramerg. 7<br/>3396 <b>Mayer, Dr. Hans G.</b>, Koschatstr. 5<br/>1949 <b>Messiner, Dr. Otto</b>, Wiener Gasse 10<br/>2478 <b>Messiner, Dr. Paul</b>, Rechtsanwalt, Ad.-<br/>Hitler-Platz 7<br/>2353 <b>Mischitz, Dr. Josef</b>, Burggasse 15<br/>2963 <b>Napetschnigg, Dr. Wilh.</b>, Alter Platz 24<br/>1080 <b>Oberlaner, Dr. Leo</b>, Karfreitstr. 4<br/>1372 <b>Pausinger, Dr. Wolfgang</b>, Bhfstr. 6<br/>2691 <b>Pichs, Dr. Hans</b>, Ad.-Hitler-Platz 13<br/>1060 <b>Rechtsanwaltskammer</b>, A.-Hitler-Pl. 13<br/>3144 <b>Sadila, Dr. Alex</b>, Kramergasse 3<br/>1944 <b>Schragel, Dr. Hans</b>, Alter Platz 29<br/>2779 <b>Sedlmayer, Dr. Georg</b>, Rennpl. 4<br/>1392 <b>Streichert, Dr. Otmar</b>, Burgg. 4<br/>2984 <b>Streit, Dr. Max</b>, Alter Pl. 28<br/>2236 <b>Vogel, Dr. Hermann</b>, Ad.-Hitler-Pl. 10<br/>1941 <b>Walther, Dr. Emil</b>, Alter Platz 23<br/>1293 <b>Wohlfarth, Dr. Karl</b>, Alter Platz 23</p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Kleinen S. Bad Kleinen.",
+        "entries": []
+      },
+      {
+        "region_name": "Kleve (Bez. Düsseldorf).",
+        "entries": [
+          {
+            "extension": "2230",
+            "text": "Aries, Karl, Tiergartenstr. 39"
+          },
+          {
+            "extension": "2387",
+            "text": "Becker, Dr. Ferd., Hohenzollernstr. 12"
+          },
+          {
+            "extension": "2008",
+            "text": "Fleischhauer, A., J.-R., Nassauer Allee 12"
+          },
+          {
+            "extension": "(2008)",
+            "text": "Fleischhauer, J., Nassauer Allee 12"
+          },
+          {
+            "extension": "2239",
+            "text": "Froidevaux, JR, Poststr. 2"
+          },
+          {
+            "extension": "2038",
+            "text": "Hoffmans, Kapitelstr. 2"
+          },
+          {
+            "extension": "2239",
+            "text": "Nuefnagels, Heinr., [St], Poststr. 2"
+          },
+          {
+            "extension": "2090",
+            "text": "van de Loo, Nassauer Str. 19"
+          },
+          {
+            "extension": "2568",
+            "text": "Megerlin, Dr. Paul, Ad.-Hitler-Str. 85"
+          },
+          {
+            "extension": "2025",
+            "text": "Ostermann, Werner, Wasserstr. 1"
+          },
+          {
+            "extension": "2722",
+            "text": "Schloesser, Dr. Jos., Tiergartenstr. 28"
+          },
+          {
+            "extension": "2226",
+            "text": "Versteyl, Dr., Kurfürstenpl. 9"
+          },
+          {
+            "extension": "2007",
+            "text": "Weghmann, H., J.-R., Nassauer Str. 1"
+          },
+          {
+            "extension": "2007",
+            "text": "Weghmann, Heinr., Nassauer Str. 10"
+          }
+        ]
+      },
+      {
+        "region_name": "Klingenthal (Sachs.).",
+        "entries": [
+          {
+            "extension": "2376",
+            "text": "Schmidt, Wilhelm, [N]. Amtsstr. 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"48 0 707 29\" data-label=\"Page-Header\">\n<p>2310 23159, 23160, 23161, 23162, 23163, 23164, 23165, 23166, 23167, 23168, 23169, 23170, 23171, 23172, 23173, 23174, 23175, 23176, 23177, 23178, 23179, 23180, 23181, 23182, 23183, 23184, 23185, 23186, 23187, 23188, 23189, 23190, 23191, 23192, 23193, 23194, 23195, 23196, 23197, 23198, 23199, 23200, 23201, 23202, 23203, 23204, 23205, 23206, 23207, 23208, 23209, 23210, 23211, 23212, 23213, 23214, 23215, 23216, 23217, 23218, 23219, 23220, 23221, 23222, 23223, 23224, 23225, 23226, 23227, 23228, 23229, 23230, 23231, 23232, 23233, 23234, 23235, 23236, 23237, 23238, 23239, 23240, 23241, 23242, 23243, 23244, 23245, 23246, 23247, 23248, 23249, 23250, 23251, 23252, 23253, 23254, 23255, 23256, 23257, 23258, 23259, 23260, 23261, 23262, 23263, 23264, 23265, 23266, 23267, 23268",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"64 0 777 986\" data-label=\"Text\"><p>5603 <b>Fahr, Heinrich</b>, Goebenpl. 11<br/>5692 <b>Frank, Rudolf</b>, Kais.-Wilh.-Ring 27<br/>6927 <b>Gracff, Hanns</b>, Kais.-Wilh.-Ring 32<br/>5396 <b>Hackenbroich, Walter</b>, Gerichtsstr. 3<br/>4055 <b>Henrich, Franz</b>, Clemenspl. 7<br/>4927 <b>Herter, Gustav</b>, Clemensstr. 5<br/>5405 <b>Heuel, Dr. M.</b>, Viktoriastr. 29<br/>5151 <b>Hieromini, Dr. H.</b>, Schloßstr. 15<br/>4766 <b>Klein, Dr. Theodor</b>, [N], Hofstr. 271<br/>4093 <b>Loenartz, Georg</b>, Schloßstr. 3<br/>5287 <b>Mand, Alois</b>, Kais.-Wilh.-Ring 44<br/>4190 <b>Maur, Dr. Franz</b>, Mainzer Str. 3<br/>5692 <b>Maur II, Michael</b>, Kais.Wilh.Ring 27<br/>5415 <b>Meyers, Wilhelm</b>, An der Moselbrücke 4<br/>3036 <b>Mohr, Dr. Klaus</b>, Im Vogelsang 11<br/>4469 <b>Müller, Eugen, J.R.</b>, Poststr. 8<br/>5867 <b>Müller, Franz</b>, [N], Ehrenbreitstein, Hof-<br/>straße 277<br/>4469 <b>Müller, Hans</b>, Poststr. 8<br/>4311 <b>Neugebauer, Dr. Ernst Chr.</b>, Poststr. 6<br/>4027 <b>v. Neveroffsky, Dr. W.</b>, [N], Vallendar,</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"50 17 779 960\" data-label=\"List-Group\"><p>4093 Nöthen, Dr. Rudolf, Schloßstr. 3<br/>5603 Pickel, Dr. Gg. Wilh., Goebenplatz 11<br/>4666 Prenzel, Gerhard, Kais.Wilh.Ring 39<br/>5544 Rausch, Otto, Schloßstr. 14<br/>4395 Reusch, Dr. Aloys, [St], Schloßstr. 51<br/>5603 Scherer, Dr. Hubert, [St], Goebenpl. 11<br/>3764 Schlemmer, Felix, Viktoriastr. 31<br/>3036 Schneider, Dr. Fritz, Im Vogelsang 11<br/>5257 Spindler, Heinz, Clemensstr. 3<br/>5825 Sprung, Friedrich, Firmungstr. 21<br/>3121 Thalwitzer, Hans Christoph, Mainzer Str. 9<br/>7123 Thelen, Dr. Joseph, Schloßstr. 6<br/>6424 Thome, Jakob, Kais.-Friedrich-Str. 2<br/>5332 Weber I, C., Gerichtsstr. 1<br/>(5332) Derselbe, Wohn., Markenbildchenweg 17<br/>7123 Weber II, Dr. Karl, Schloßstr. 6<br/>5252 Weinand, Hanns, H.-Norkus-Str. 31<br/>5867 Weis, Martin, Ehrenbreitstein, Hofstr. 277<br/>6511 Wirtz, Dr. Alois, H.-Norkus-Str. 45<br/>6178 Wittmann, Franz, Goebenpl. 8</p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black speck in the upper left corner.\"/>This image is a scan of a blank white page. It contains a single, small, dark speck located in the upper left quadrant, approximately one-fifth of the way across the width and one-fifth of the way down the height. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Reichenau (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"303 85 901 335\"}, {\"label\": \"Text\", \"bbox\": \"420 395 783 542\"}, {\"label\": \"Text\", \"bbox\": \"360 606 842 761\"}, {\"label\": \"Text\", \"bbox\": \"461 766 714 925\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Reichenbach (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenberg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Rendsburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 26 411 148\" data-label=\"Text\"><p><b>H o t e l</b></p></div><div data-bbox=\"238 218 411 542\" data-label=\"Text\"><p><b>Zum</b></p></div><div data-bbox=\"238 592 411 977\" data-label=\"Text\"><p><b>Inhaber:<br/>Geschw.<br/>K r a u s</b></p></div><div data-bbox=\"434 42 532 968\" data-label=\"Text\"><p><b>h</b></p></div><div data-bbox=\"532 625 812 950\" data-label=\"Text\"><p><b>irschen</b></p></div><div data-bbox=\"565 26 959 167\" data-label=\"Text\"><p><b>Reutte/Tirol      Ruf 8</b></p></div><div data-bbox=\"565 187 961 592\" data-label=\"Text\"><p><b>Bestbürgerl. Haus mit jed.<br/>Komfort. 110 Betten, Gar.,<br/>Pens. Preis RM 4.50 b. 7.—</b></p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Rheine (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rheinsberg (Mark).",
+        "entries": []
+      },
+      {
+        "region_name": "Ried (Innkreis) [Oberdonau].",
+        "entries": []
+      },
+      {
+        "region_name": "Riezlern (Kleinwalsertal).",
+        "entries": []
+      },
+      {
+        "region_name": "Rohartville h. Saupradt (Rheinruhl)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "ROSTOCK (Seestadt).",
+        "entries": []
+      },
+      {
+        "region_name": "Rüdesheim (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Ruhpolding (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Rumburg (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"208 54 629 295\"}, {\"label\": \"Text\", \"bbox\": \"233 479 307 632\"}, {\"label\": \"Image\", \"bbox\": \"326 344 421 803\"}, {\"label\": \"Text\", \"bbox\": \"472 295 947 516\"}, {\"label\": \"Text\", \"bbox\": \"539 550 860 779\"}, {\"label\": \"Text\", \"bbox\": \"606 819 798 967\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "MAUXION-GASTSTÄTTE „DAS LOCH“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Saarburg (Lothringen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Hotel Abundance",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"93 125 908 386\"}, {\"label\": \"Text\", \"bbox\": \"315 429 647 516\"}, {\"label\": \"Text\", \"bbox\": \"129 550 808 649\"}, {\"label\": \"Text\", \"bbox\": \"111 675 879 776\"}, {\"label\": \"Text\", \"bbox\": \"329 799 663 899\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Saaz (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Säckingen (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"38 93 303 281\" data-label=\"Text\"><p><b>Hotel</b></p></div><div data-bbox=\"148 315 962 584\" data-label=\"Text\"><p><b>„Oesterreichischer Hof“</b></p></div><div data-bbox=\"151 606 960 736\" data-label=\"Text\"><p><b>Franz Irresberger's Erben</b></p></div><div data-bbox=\"35 802 541 925\" data-label=\"Text\"><p><b>Salzburg, Bismarckstr. 7.</b></p></div><div data-bbox=\"762 806 959 908\" data-label=\"Text\"><p><b>Ruf 6171</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 110 988 822\" data-label=\"Text\"><p>SmI.-Nr. { <b>Motel Pitter</b>, Inh. Dr. Franz Binder,<br/>6221 { Salzburg, Rainerstraße 6—8</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Hotel Stein — Salzburg",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"48 75 950 385\"}, {\"label\": \"Text\", \"bbox\": \"48 407 520 554\"}, {\"label\": \"Text\", \"bbox\": \"385 567 951 710\"}, {\"label\": \"Text\", \"bbox\": \"302 753 704 895\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Saßnitz (Rügen).",
+        "entries": []
+      },
+      {
+        "region_name": "Sattendorf (Ossiachersee) [Kärnten].",
+        "entries": []
+      },
+      {
+        "region_name": "Scharnikau (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"170 75 931 511\"}, {\"label\": \"Text\", \"bbox\": \"405 526 749 739\"}, {\"label\": \"Text\", \"bbox\": \"202 757 917 960\"}]",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 32 998 466\" data-label=\"Text\"><p><b>Schauninsland (üb. Freiburg [Brsg.]).</b><br/><b>Kirchzarten 265 Haldenhotel Schwarzwald, Schau-</b><br/><b>insland, Besitzer Adolf Wissler</b></p></div>",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"908 763 992 930\" data-label=\"Page-Footer\"><p>26</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Schieratz (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Hotel „Posener Hof“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Hotel Warschauer Hof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Schierke (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "Schillern (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schirgiswalde (Oberlausitz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Schlawe (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schliersee (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schlochau (Pomm.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "215 Hotel Deutsches Haus",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Hotel Preußenhof",
+        "entries": []
+      },
+      {
+        "region_name": "Schmallenberg (Sauerland).",
+        "entries": []
+      },
+      {
+        "region_name": "Schmiedeburg (Rsgb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schneidemühl.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Schönborn b. Rumburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Schönwald (Schwarzwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Schorndorf (Wrtth.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a vertical red margin line on the right side. The left edge shows the binding of the book.\"/></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Schwäbisch Hall.",
+        "entries": []
+      },
+      {
+        "region_name": "Schwandorf (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwanenstadt (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwenningen (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Schwerin (Mecklb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"64 0 758 144\" data-label=\"Text\"><p>2361 } Neu renoviert, im Zentrum gelegen,<br/>Garagen. Inhaber des am Osterfer See ge-<br/>legenen Gartenlokals „Marienhöhe“</p></div><div data-bbox=\"64 144 747 239\" data-label=\"Text\"><p>4026 <b>Hotel Luisenhof</b> Am Bahnhof-<br/>platz rechts</p></div><div data-bbox=\"9 233 712 326\" data-label=\"Text\"><p>Sammel-<br/>Nr. { <b>Hotel Niederländischer Hof</b></p></div><div data-bbox=\"38 329 693 382\" data-label=\"Text\"><p>2144 { H. Krasemann, Am Pfaffenteich</p></div><div data-bbox=\"67 376 755 476\" data-label=\"Text\"><p>3831 <b>Hotel Obotrit</b>, Bes.: W. Zeß, Schwerin<br/>(Mecklenburg), Adolf-Hitler-Straße 140</p></div><div data-bbox=\"64 485 733 577\" data-label=\"Text\"><p>4173 <b>Hotel Rieck's Hotel</b></p></div><div data-bbox=\"151 581 756 680\" data-label=\"Text\"><p>Eigentümer W. Rieck, Autogaragen,<br/>Adolf-Hitler-Str. 146. T Rieckshotel</p></div><div data-bbox=\"9 692 393 752\" data-label=\"Text\"><p><b>Seebad Bansin.</b></p></div><div data-bbox=\"9 757 758 904\" data-label=\"Text\"><p>Heringsdorf { <b>Kurhaus-Hotel Meeresstrand</b><br/>510<br/>342 { Bes. Gebr. Wiese, Seebad Bansin, Seestr.</p></div><div data-bbox=\"9 912 518 979\" data-label=\"Text\"><p><b>Seebad Heringsdorf.</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"30 61 194 503\"}, {\"label\": \"Section-Header\", \"bbox\": \"214 48 607 550\"}, {\"label\": \"Text\", \"bbox\": \"33 545 727 917\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"34 110 724 973\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Strandhotel Seespitze",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 46 757 441\" data-label=\"Text\"><p><b>Seewiesen (Steiermark).</b><br/><b>1 „Hotel Post“ Karl u. Maria Haas</b><br/>Seewiesen (Steiermark)</p></div><div data-bbox=\"0 467 757 774\" data-label=\"Text\"><p><b>Sellin (Rügen).</b><br/>205 Strandhotel, Bes.: Geschw. Richert, Wilhelmstraße, direkt am Meer</p></div><div data-bbox=\"0 822 675 953\" data-label=\"Text\"><p><b>Semmering (Niederdonaau).</b></p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"28 76 511 287\"}, {\"label\": \"Text\", \"bbox\": \"265 356 735 506\"}, {\"label\": \"Text\", \"bbox\": \"267 582 735 675\"}, {\"label\": \"Text\", \"bbox\": \"27 765 737 875\"}]",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"37 161 739 464\"}, {\"label\": \"Text\", \"bbox\": \"208 516 580 667\"}, {\"label\": \"Text\", \"bbox\": \"294 718 514 861\"}]",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Palace-Hotel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "<div data-bbox=\"499 83 521 231\" data-label=\"Image\"><img alt=\"A small black asterisk symbol (*).\"/></div>",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  }
+]

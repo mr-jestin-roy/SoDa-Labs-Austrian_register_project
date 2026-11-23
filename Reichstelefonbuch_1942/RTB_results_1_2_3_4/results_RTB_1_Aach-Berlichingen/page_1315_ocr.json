@@ -1,0 +1,734 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"374 779 998 947\"}]",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"243 292 360 687\"}, {\"label\": \"Text\", \"bbox\": \"387 125 986 845\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Liegnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Luxemburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Miesbach (Oberbay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Naila (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 779 998 951\" data-label=\"Text\"><p><b>sationen — 6765. Wirtschaftsp</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Nienburg (Weser).",
+        "entries": []
+      },
+      {
+        "region_name": "Norden (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Oberhausen (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Offenbach (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Plauen (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Saarbrücken.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "St. Michael (Obersteiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Siegen (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Solingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Staffelstein (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or a page with no content.\"/>This image is a completely blank white page. It contains no text, markings, or illustrations. It appears to be a separator page or a page with no content from a document.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Wiener u. Wirtschaftsprüfungsgel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "| Straßburg (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "ELHAG",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Swinemünde.",
+        "entries": []
+      },
+      {
+        "region_name": "Troppau (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Vellbert (Rhld.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"58 305 228 658\" data-label=\"Text\"><p>U 3 65 19<br/>U 3 05 34</p></div><div data-bbox=\"231 20 957 963\" data-label=\"Text\"><p><b>„Erwig“</b><br/><b>Erwerbs-, Wirtschafts- u. Lieferungs-</b><br/><b>genossenschaft der Bäcker in Wien</b><br/><b>und Niederdonau e. Gen. m. b. H.</b><br/><b>Wien XVI/107, Herbststr. 4</b></p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 3 998 1000\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>R2 42 08</td>\n<td><b>Fachgruppe Getreidemühlenindustrie,</b><br/><b>Zweigstelle Ostmark, I/1, Schwedenpl. 2/19</b></td>\n</tr>\n<tr>\n<td>U2 52 17</td>\n<td><b>Fachgruppe Makler</b> <b>Verwalter und</b><br/><b>Vertreter</b><br/><b>im Grundstücks- und Bausparwesen</b><br/><b>Bezirksgruppe Wien-Niederdonau,</b><br/><b>I/1, Brandstätte 1 (Ecke Stefansplatz)</b></td>\n</tr>\n<tr>\n<td>U1 95 90</td>\n<td><b>Industrieabteilung der</b><br/><b>Wirtschaftskammer Wien</b><br/><b>Wien III/40, Schwarzenbergplatz 4</b></td>\n</tr>\n<tr>\n<td>B2 50 45</td>\n<td rowspan=\"2\">{ <b>Kleidermacher A.-G., Lieferungsunter-</b></td>\n</tr>\n<tr>\n<td>B2 50 46</td>\n<td rowspan=\"2\">{ <b>nehmen der, Uniformschneiderei, Wien</b></td>\n</tr>\n<tr>\n<td></td>\n<td>{ <b>VI/76, Schmalzhoifgasse 28</b></td>\n</tr>\n<tr>\n<td>Sammel-</td>\n<td rowspan=\"2\">{ <b>O. A. F. E., Ostmärkische Arbeitsgemein-</b></td>\n</tr>\n<tr>\n<td>Nr.</td>\n<td rowspan=\"2\">{ <b>schaft zur Förderung der Elektrowirtschaft,</b></td>\n</tr>\n<tr>\n<td>U4 75 88</td>\n<td>{ <b>IV/50, Brahmsplatz 3</b></td>\n</tr>\n<tr>\n<td>U4 04 56</td>\n<td><b>Reichsverband Deutscher Fliesengeschäfte,</b><br/><b>Landesverbände Donauland-Südmark und</b><br/><b>Alpenland,</b><br/><b>Wien TV/50, Schwindgasse 7</b></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Wiener Neustadt (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Wiesbaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"50 135 739 899\"}]",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"24 282 758 710\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": [
+          {
+            "extension": "32767",
+            "text": "Nimax, Dr. G., Eupener Str. 129"
+          },
+          {
+            "extension": "35672",
+            "text": "Schleicher, Ludwig, Kaiserallee 15"
+          },
+          {
+            "extension": "30690",
+            "text": "Treuhand GmbH, Viktoriaallee 7"
+          }
+        ]
+      },
+      {
+        "region_name": "Apolda.",
+        "entries": [
+          {
+            "extension": "322",
+            "text": "Speck, Fritz, Straße der SA 77"
+          }
+        ]
+      },
+      {
+        "region_name": "Asch (Sudetenland).",
+        "entries": [
+          {
+            "extension": "3321",
+            "text": "Roßmann, Gust., Dipl.Kfm., Parkgasse"
+          }
+        ]
+      },
+      {
+        "region_name": "Aschaffenburg.",
+        "entries": [
+          {
+            "extension": "(1484)",
+            "text": "Müller, Dr. Ludw., Weißenburgerstr. 12"
+          }
+        ]
+      },
+      {
+        "region_name": "Aue (Sachs.).",
+        "entries": [
+          {
+            "extension": "3393",
+            "text": "Löffler, Erich, Dipl.Kfm., Bahnhofstr. 7"
+          }
+        ]
+      },
+      {
+        "region_name": "Augsburg.",
+        "entries": [
+          {
+            "extension": "7579",
+            "text": "Knoll, Alois, Karolinenstr. 21"
+          },
+          {
+            "extension": "8242",
+            "text": "Pfeifer, Dr. Hans, Phil.-Welser-Str. 4"
+          },
+          {
+            "extension": "6891",
+            "text": "Rosinger, Dr. K., Dipl.Kfm., Kanuz G. 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Flinsberg (Isargeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Homburg v. d. Höhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Kreuznach.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Lauterberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Soden (Taunus).",
+        "entries": []
+      },
+      {
+        "region_name": "Bamberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Bautzen.",
+        "entries": []
+      },
+      {
+        "region_name": "Bayreuth.",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 20 745 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>W</th>\n<th>W</th>\n<th>W</th>\n<th>Name</th>\n<th>Address</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>21</td>\n<td>23</td>\n<td>21</td>\n<td><b>Bechter, Dr. Erwin</b></td>\n<td>W 35, Kurf.-Str. 148</td>\n</tr>\n<tr>\n<td>12</td>\n<td>44</td>\n<td>27</td>\n<td><b>Beck, Dr. Gg.</b></td>\n<td>W 8, Kronenstr. 14</td>\n</tr>\n<tr>\n<td>21</td>\n<td>11</td>\n<td>60</td>\n<td><b>Beichert, Dr. Karl</b></td>\n<td>W 35, Bissingzelle 7</td>\n</tr>\n<tr>\n<td>25</td>\n<td>30</td>\n<td>12</td>\n<td><b>Berger, Dr. K.</b></td>\n<td><i>Wilm</i> Wittelsb. Str. 28</td>\n</tr>\n<tr>\n<td>52</td>\n<td>55</td>\n<td>51</td>\n<td><b>Berliner Revis.-A.-G.</b></td>\n<td>C 2, Neuer Markt 8</td>\n</tr>\n<tr>\n<td>91</td>\n<td>11</td>\n<td>66</td>\n<td><b>Bertenrath, Dr. E. W.</b></td>\n<td>W 50, Kurf.-D. 237</td>\n</tr>\n<tr>\n<td>91</td>\n<td>35</td>\n<td>83</td>\n<td><b>Betriebswirtschaftliche Prüfungs- und Treuhandgesellschaft G. m. b. H.</b></td>\n<td>W 15, Kurfürstendamm 187</td>\n</tr>\n<tr>\n<td>88</td>\n<td>22</td>\n<td>21</td>\n<td><b>Beuck, Dr. Willy</b></td>\n<td><i>Wilm</i> Kaiserallee 200</td>\n</tr>\n<tr>\n<td>24</td>\n<td>06</td>\n<td>68</td>\n<td><b>Binder, Dr. P.</b></td>\n<td>W 50, Taucntzienstr. 18</td>\n</tr>\n<tr>\n<td>73</td>\n<td>86</td>\n<td>07</td>\n<td><b>Birkenfeld, Dr. Josef</b></td>\n<td><i>Lt</i> Ringstr. 95a</td>\n</tr>\n<tr>\n<td>71</td>\n<td>68</td>\n<td>46</td>\n<td><b>Bodenstein, Dr. Kurt</b></td",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 741 988\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>22</td><td>42</td><td>66</td><td>Breitenfeld, Dr. Hud., W 35, Vikt.-Str. 33</td></tr>\n<tr>\n<td>11</td><td>68</td><td>81</td><td>Brönner, Dr. Herbert, W 8, Friedrichstr. 171</td></tr>\n<tr>\n<td>31</td><td>10</td><td>82</td><td>Budgereit, Joh., <i>Chb</i> Pestalozzistr. 76</td></tr>\n<tr>\n<td>88</td><td>43</td><td>14</td><td>Burkert, Erich, <i>Frdn</i> Baumeisterstr. 1</td></tr>\n<tr>\n<td>84</td><td>57</td><td>67</td><td>Burkhard, Dr. F., <i>Zehl</i> Schlettst. Str. 68</td></tr>\n<tr>\n<td>50</td><td>12</td><td>36</td><td>Busse, Ernst, <i>Krlsh</i> Waldowallee 17</td></tr>\n<tr>\n<td>87</td><td>67</td><td>52</td><td>Buwert, Dr. Hans, <i>Wilm</i> Pomm. Str. 15</td></tr>\n<tr>\n<td>76</td><td>09</td><td>73</td><td>Cantrup, Dr. Alb., <i>Dahl</i> Schweinf. Str. 94</td></tr>\n<tr>\n<td>12</td><td>51</td><td>05</td><td rowspan=\"2\">} Chemie Revisions- und Treuhand-Ges. m.</td></tr>\n<tr>\n<td>12</td><td>52</td><td>16</td><td rowspan=\"2\">} b. H., NW 7, Dorotheenstr. 30</td></tr>\n<tr>\n<td>26</td><td>50</td><td>37</td><td>Closterhalfen, Carl, W 30, Rosenh. Str. 35</td></tr>\n<tr>\n<td>11</td><td>55</td><td>51</td><td>Conrad, Dr. Rud., W 8, Jägerstr. 61</td></tr>\n<tr>\n<td>25</td><td>65</td><td>23</td><td>„Gura“ Revisions- u. Treuhand-G.m.b.H.,<br/>W 35, Von-der-Heydt-Str. 10. P 112883</td></tr>\n<tr>\n<td>99</td><td>21</td><td>18</td><td>Czapski, Dr. Hans, <i>Chb</i> Westendall. 100</td></tr>\n<tr>\n<td>72",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 739 632\" data-label=\"Text\"><p><b>Orts-<br/>verkehr</b><br/>11 70 11 { <b>Deutsche Revisions- und Treuhand-Aktien-<br/>gesellschaft</b>, Berlin W 8, Jägerstr. 10/11.<br/>T Treuarbeit Fernschreiber 01 15 59.<br/>Zweigniederlassungen: Danzig, Kattowitz,<br/>Saarbrücken, Wien. Geschäftsstellen:<br/>Krakau u. Reichenberg<br/>11 56 73. 11 56 74 <b>Dieselben</b>, nur für den Fernverkehr</p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  }
+]

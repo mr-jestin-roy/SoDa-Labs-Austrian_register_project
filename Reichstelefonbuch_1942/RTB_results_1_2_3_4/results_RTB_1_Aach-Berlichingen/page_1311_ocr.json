@@ -1,0 +1,974 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"223 125 361 326\"}, {\"label\": \"Text\", \"bbox\": \"454 59 913 925\"}, {\"label\": \"Image\", \"bbox\": \"933 188 979 886\"}]",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"262 59 399 253\"}, {\"label\": \"Text\", \"bbox\": \"510 33 705 263\"}, {\"label\": \"Text\", \"bbox\": \"452 313 758 526\"}, {\"label\": \"Text\", \"bbox\": \"369 526 856 740\"}, {\"label\": \"Text\", \"bbox\": \"324 736 901 951\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Würzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"427 236 792 287\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"224 75 899 250\"}, {\"label\": \"Text\", \"bbox\": \"304 335 360 460\"}, {\"label\": \"Text\", \"bbox\": \"453 261 920 489\"}, {\"label\": \"Text\", \"bbox\": \"448 541 925 817\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"331 240 881 287\"}]",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"222 106 375 352\" data-label=\"Text\"><p><b>Prag.</b></p></div><div data-bbox=\"269 375 362 532\" data-label=\"Text\"><p>42600</p></div><div data-bbox=\"455 335 916 792\" data-label=\"Text\"><p><b>Georg Čulík</b><br/><b>Prag-Smíchov, Jinonická 151</b></p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"252 236 957 787\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Augsburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"314 20 998 494\" data-label=\"Text\"><p>23 Hümmer, Franz, Zahnstangenwinden,<br/>gegr. 1866</p></div><div data-bbox=\"220 625 705 941\" data-label=\"Text\"><p><b>Graz (Steiermark).</b></p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"252 114 965 600\"}, {\"label\": \"Text\", \"bbox\": \"252 704 960 891\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Oberlahnstein.",
+        "entries": []
+      },
+      {
+        "region_name": "Ochsenfurt (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Windenfabrik Ochsenfurt",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      },
+      {
+        "region_name": "Büll &amp; Strunz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"288 227 920 292\"}]",
+      "cells": [
+        "col1_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col1_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col1_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"369 231 832 279\"}]",
+      "cells": [
+        "col1_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col1_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"212 145 417 412\"}, {\"label\": \"Text\", \"bbox\": \"270 451 811 679\"}]",
+      "cells": [
+        "col1_sec19.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col1_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"353 250 840 287\"}]",
+      "cells": [
+        "col1_sec20.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col1_sec21.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Meißen (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"911 723 991 859\" data-label=\"Page-Footer\"><p>67</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Apolda.",
+        "entries": []
+      },
+      {
+        "region_name": "Burgstädt (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"54 146 220 800\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b><br/><b>52291</b></p></div><div data-bbox=\"375 20 810 437\" data-label=\"Text\"><p><b>G. Hilscher</b></p></div><div data-bbox=\"235 490 951 947\" data-label=\"Text\"><p><b>Strumpfmaschinenfabrik, Dorfstr. 72b.</b><br/><b>T Gehilscher P Leipzig 98048</b></p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Hohenstein-Ernstthal (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"61 182 156 428\" data-label=\"Text\"><p>2552</p></div><div data-bbox=\"61 483 156 738\" data-label=\"Text\"><p>2553</p></div><div data-bbox=\"266 18 865 928\" data-label=\"Text\"><p><b>Helios-Wirkmaschinen-</b><br/><b>zubehör</b><br/><b>Zwingenberger &amp; Co.</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Limbach (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Ernst Saupe",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Schneider &amp; Reuthner",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Mühlhausen (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Tailfingen (Kr. Balingen) [Wrtb.]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"238 217 762 330\"}]",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Hartmannsdorf b. Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Limbach-Oberfrohna (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"231 196 770 283\"}]",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Altach (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Apolda.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"80 0 986 735\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>1412</td>\n<td><b>Förster &amp; Petzold</b><br/>Wirkwarenfabrik, Fischerstraße 12</td>\n</tr>\n<tr>\n<td>1146</td>\n<td><b>Fulsche, Hermann,</b> mechan. Wirkerei,<br/>Niederroßlaer Straße 89</td>\n</tr>\n<tr>\n<td>15</td>\n<td><b>GEBRÜDER HÄUSSER</b> Adolf-Hitler-<br/>Straße 63</td>\n</tr>\n<tr>\n<td>430</td>\n<td><b>Hochstein, Willy,</b> Herstellung von Wirk-<br/>u. Wollwaren aller Art, Karl-August-Str. 8</td>\n</tr>\n<tr>\n<td>1149</td>\n<td><b>Heinrich Holbein</b><br/>Wollwarenfabrik, Feodorastr. 8</td>\n</tr>\n<tr>\n<td>64</td>\n<td><b>Jacobi &amp; Jahn, Inh. Herbert Leistner,</b><br/>Strick- u. Wirkwaren, Karlsplatz 13</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"110 15 907 152\" data-label=\"Text\"><p>747 <b>Karl Jünge</b> Strick- und<br/>Wirkwaren-<br/>fabrik, Weimarische Str. 45</p></div><div data-bbox=\"114 150 938 242\" data-label=\"Text\"><p>701 <b>August Kell</b><br/>Wirkwarenfabrik, Goethestraße 20</p></div><div data-bbox=\"110 242 995 333\" data-label=\"Text\"><p>336 <b>Otto Koch</b><br/>Anfertig. v. Wollwaren, Scharnhorststr. 6</p></div><div data-bbox=\"110 331 995 424\" data-label=\"Text\"><p>639 <b>Ludwig, A. Paul</b>, Wirk- und Strickwaren-<br/>fabrik, Gneisenaustr. 19</p></div><div data-bbox=\"110 422 973 512\" data-label=\"Text\"><p>377 <b>Paul Micheel</b><br/>Strickwarenfabrikation, Wielandstr. 3</p></div><div data-bbox=\"92 512 995 603\" data-label=\"Text\"><p>1056 <b>Opel, O. Herbert</b>, Herstellung von Strick-<br/>und Wirkwaren, Adolf-Hitler-Str. 57</p></div><div data-bbox=\"92 603 995 694\" data-label=\"Text\"><p>1292 <b>Ernst Prüfer jun.</b>, Wirk- und Strick-<br/>warenfabrik, Dietrich-Eckart-Str. 17</p></div><div data-bbox=\"110 694 995 827\" data-label=\"Text\"><p>887 <b>Raebel, Willy</b>, Mechanische Fabrikation<br/>von Strick- und Wirkwaren, Wirkerei,<br/>Weimarische Str. 49</p></div><div data-bbox=\"92 827 995 920\" data-label=\"Text\"><p>1254 <b>Willy Raebel jun.</b><br/>Wirk- u. Strickwaren, Richthofenstr. 22</p></div><div data-bbox=\"110 918 995 993\" data-label=\"Text\"><p>548 <b>Rechenbach, Kurt</b>, Strick- und Wirk-<br/>warenfabrik, Annliahofstr. 10</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"187 19 826 265\"}, {\"label\": \"Text\", \"bbox\": \"314 265 691 473\"}, {\"label\": \"Text\", \"bbox\": \"296 485 735 723\"}, {\"label\": \"Text\", \"bbox\": \"92 723 318 927\"}, {\"label\": \"Text\", \"bbox\": \"656 723 913 947\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Asch (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Bad Sulza (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bergneustadt (Rhd.).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Böblingen (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Moriz Fuhrmann",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Buchholz (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Burgstädt (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"43 154 156 345\"}, {\"label\": \"Text\", \"bbox\": \"266 20 850 473\"}, {\"label\": \"Text\", \"bbox\": \"405 473 722 682\"}, {\"label\": \"Text\", \"bbox\": \"282 687 825 904\"}]",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"59 227 175 407\" data-label=\"Text\"><p>54603</p></div><div data-bbox=\"411 138 778 511\" data-label=\"Text\"><p><b>Hans Hillig</b></p></div><div data-bbox=\"354 526 836 930\" data-label=\"Text\"><p><b>Trikotagenfabrik<br/>Chemnitz, Adorfer Str. 2</b></p></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"58 10 983 109\" data-label=\"Text\"><p><b>33297 M. Marczak &amp; Co., Inh. Georg Reimann,</b><br/><b>Wirk- und Strickwaren, Zwickauer Str. 81</b></p></div>",
+      "cells": [
+        "col3_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"192 63 803 395\"}, {\"label\": \"Text\", \"bbox\": \"333 412 656 555\"}, {\"label\": \"Text\", \"bbox\": \"81 567 462 727\"}, {\"label\": \"Text\", \"bbox\": \"582 567 901 727\"}, {\"label\": \"Text\", \"bbox\": \"292 770 707 937\"}]",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"56 19 980 421\" data-label=\"Text\"><p>30939 <b>Schellhaas &amp; Co.</b> Trikotagen-<br/>fabrik<br/>Zwickauer Straße 55/57</p></div>",
+      "cells": [
+        "col3_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": {
+      "raw": "<div data-bbox=\"68 10 761 162\" data-label=\"Text\"><p>4010 <b>UUBI. OUALUWARI, VAIN UUU VUWUWUAT-</b></p></div><div data-bbox=\"149 196 602 496\" data-label=\"Text\"><p>handlung, Kronprinzenstr. 299</p></div><div data-bbox=\"10 593 312 937\" data-label=\"Text\"><p><b>Hof (Saale).</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"38 205 120 404\"}, {\"label\": \"Text\", \"bbox\": \"186 106 636 417\"}, {\"label\": \"Text\", \"bbox\": \"256 485 589 675\"}, {\"label\": \"Text\", \"bbox\": \"188 697 636 895\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Hohenems (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "Vorarlberger Trikotfabrik",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 50 540 270\" data-label=\"Text\"><p><b>S. Weill</b></p></div><div data-bbox=\"93 326 664 695\" data-label=\"Text\"><p><b>Kurz- und Wirkwaren-<br/>Großhandlung</b></p></div><div data-bbox=\"44 731 343 947\" data-label=\"Text\"><p><b>Kolmar (Els.)</b><br/><b>Dominikanerplatz 4</b></p></div><div data-bbox=\"499 717 623 937\" data-label=\"Text\"><p><b>Fernruf:</b><br/><b>3189</b></p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "60",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_60.png",
+    "data": [
+      {
+        "region_name": "Kosten (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Krainburg (Südkärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Leslau (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Limbach-Oberfrohna (Sachs.).",
+        "entries": []
+      }
+    ]
+  }
+]

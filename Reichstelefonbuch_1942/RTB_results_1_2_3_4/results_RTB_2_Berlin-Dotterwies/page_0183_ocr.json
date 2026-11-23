@@ -1,0 +1,886 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "postalische Bezeichnungen siehe auf Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"224 13 997 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>83 46 81</td>\n<td>Fomm, Dr. jur. Martin, Dipl.-Kfm., <i>Frdn</i><br/>Rembrandtstr. 17</td>\n</tr>\n<tr>\n<td>57 16 02</td>\n<td>Fonberg, Gg., Vertr., O 112, Scharnweber-<br/>straße 16</td>\n</tr>\n<tr>\n<td>87 11 60</td>\n<td>Fonck, A., Dr. jur., <i>Wilm</i> Helmst. Str. 21</td>\n</tr>\n<tr>\n<td>55 36 02</td>\n<td>Fonden, J., Obst, <i>Lbg</i> Weltlingstr. 32</td>\n</tr>\n<tr>\n<td>62 81 72</td>\n<td>Fonden, E., Bankb., <i>Neuk</i> Fontanestr. 15</td>\n</tr>\n<tr>\n<td>71 12 03</td>\n<td>Fontara, P., Ing., <i>Schb</i> M.-Luther-Str. 49</td>\n</tr>\n<tr>\n<td>87 49 59</td>\n<td>Fonfé, Annemarie, <i>Wilm</i> Landhausstr. 40</td>\n</tr>\n<tr>\n<td>87 68 22</td>\n<td>Fonfé, Meta, Frau, <i>Hal</i> Seesener Str. 67</td>\n</tr>\n<tr>\n<td>34 26 65</td>\n<td>Fonger, J., Vertr., <i>Chb</i> Kaiserdamm 111</td>\n</tr>\n<tr>\n<td>76 53 32</td>\n<td>Fonrobert, Ernst, Parfüm-Fabrikat., <i>Ltf</i><br/>Gélieustr. 11</td>\n</tr>\n<tr>\n<td>22 15 37</td>\n<td>Gehr. Fonrobert, Gummivr., W 35,<br/>Lützowstr. 91</td>\n</tr>\n<tr>\n<td>64 29 20</td>\n<td>Fonrobert, Gertrud, Lehr., <i>Köp</i> Kirdorf-<br/>straße 90</td>\n</tr>\n<tr>\n<td>76 53 32</td>\n<td>Fonrobert, Günter, <i>Ltf</i> Gélieustr. 11</td>\n</tr>\n<tr>\n<td>77 22 24</td>\n<td>Fonrobert, H., Kfm., <i>Schb</i> v.-Stein-Str. 11</td>\n</tr>\n<tr>\n<td>96 33 74</td>\n<td>Fonrobert, L., Kfm., <i>Chb</i> Gerv.-Str. 17</td>\n</tr>\n<tr>\n<td>97 30 69</td>\n<td>Fonstein-Schlichtig, <i>Hal</i> Paulsh.-Str. 1</td>\n</tr>\n<tr>\n<td>aa aa aa</td>\n<td>Fontaine, Eusebe aa aa Talmühlestr. 14</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 0 998 993\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>24 85 79</td>\n<td>Fontaine, Georg, W 50, Marburger Str. 7</td>\n</tr>\n<tr>\n<td>88 25 56</td>\n<td>Fontaine &amp; Co, Schmigel, <i>Wilm</i> Südwestkorso 25</td>\n</tr>\n<tr>\n<td>84 64 00</td>\n<td>Fontane, Franz-G., <i>Zehl</i> Radtckeistr. 31</td>\n</tr>\n<tr>\n<td>39 91 49</td>\n<td>Fontane, Otto, Oberstlttn. d. Schutzpol., NW 87, Levetzowstr. 17</td>\n</tr>\n<tr>\n<td>91 42 89</td>\n<td>Fontane-Apotheke, W 15, Uhlandstr. 28</td>\n</tr>\n<tr>\n<td>46 69 09</td>\n<td>Fontanelle, Hans, Dramat., N 65, Swakopmunder Str. 28</td>\n</tr>\n<tr>\n<td>71 78 92</td>\n<td>Fontaneschule, <i>Schb</i> Rubenstr. 87</td>\n</tr>\n<tr>\n<td>73 78 73</td>\n<td>Fooken, Karl, Beamte., <i>Lkw</i> Frobenstr. 10</td>\n</tr>\n<tr>\n<td>81 20 67</td>\n<td>Fopp, Dr. Chr., San.-Rat, <i>Chb</i> 4 Niebuhrstraße 72</td>\n</tr>\n<tr>\n<td>22 46 00</td>\n<td>Foppen, G., Kfm., W 35, Kluckstr. 28</td>\n</tr>\n<tr>\n<td>86 37 93</td>\n<td>Forbach, Moje, Schausp., <i>Wilm</i> Nassauische Str. 43</td>\n</tr>\n<tr>\n<td>83 20 27</td>\n<td>Forberg, Ernst, Kfm., <i>Frdn</i> Golzh. Str. 4</td>\n</tr>\n<tr>\n<td>64 31 96</td>\n<td>Forberg, Friedr., Redner, <i>Köp</i> Dornr. 33</td>\n</tr>\n<tr>\n<td>71 62 72</td>\n<td>Forberg, Gerh., Kantine, <i>Schb</i> Gen.-Papestraße, Tor 4</td>\n</tr>\n<tr>\n<td>30 12 46</td>\n<td>Forberger. <i>Chb</i> 1 Fabriciusstr. 7</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Straße 3",
+        "entries": [
+          {
+            "extension": "75",
+            "text": "26 93 Forbrich, Carl, Kfm., Temp Arnulfstr. 75"
+          },
+          {
+            "extension": "48",
+            "text": "04 35 Forbrich, Emil, Damenmäntel, N 65, Müller- straße 138c"
+          },
+          {
+            "extension": "58",
+            "text": "54 03 Forbrich, E., NO 18, Fuhrw., Büschingstr. 9"
+          },
+          {
+            "extension": "57",
+            "text": "37 37 Forbrich, G., Ofenbau, O 34, Graud. Str. 10"
+          },
+          {
+            "extension": "87",
+            "text": "59 66 Forbrich, Hans, Beamte., Wilm Mainzer Straße 17"
+          },
+          {
+            "extension": "86",
+            "text": "87 53 Forbrich, Hilde, Servier., Wilm Motzstr. 83"
+          },
+          {
+            "extension": "71",
+            "text": "57 23 Forbrich, Kraft, Insp., Frdn Riemens- schneiderweg 80"
+          },
+          {
+            "extension": "62",
+            "text": "18 39 Forbrig, Lucie, Britz, Lauterb. Str. 31"
+          },
+          {
+            "extension": "97",
+            "text": "81 47 v. Forcade de Biaix, Clemens, Hal Johann- Georg-Str. 23"
+          },
+          {
+            "extension": "88",
+            "text": "04 62 Forch, Arthur, Wilm Wetzlarer Str. 19"
+          },
+          {
+            "extension": "73",
+            "text": "58 02 Forch, Dr. C., Reg.-R., Lt Manteuffelstr. 5"
+          },
+          {
+            "extension": "55",
+            "text": "07 07 Forch, Hans, Kfm., Stral Alt-Stralau 18"
+          },
+          {
+            "extension": "47",
+            "text": "15 10 Forche, Elvira, Krankenschw., Glie Wil- helmstr. 30"
+          },
+          {
+            "extension": "49",
+            "text": "37 84 Forchert, Ernst, Blumen, ReiW Berliner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "SÜDWE 04",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 0 993 990\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>00 00 00</th>\n<th>10000, 0000, 1000, 10000, 10000, 10000</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>17 74 68</td>\n<td>Fordan, Reinhold,</td>\n<td>Schneider, SW 68, Markgrafenstr. 20</td>\n</tr>\n<tr>\n<td>71 67 70</td>\n<td>Fordon, Alfr.,</td>\n<td>Ger.-Rat, <i>Schb</i> Akaz.Str. 7</td>\n</tr>\n<tr>\n<td>86 01 83</td>\n<td>Forell, Birger,</td>\n<td><i>Wilm</i> Landhausstr. 27</td>\n</tr>\n<tr>\n<td>34 42 74</td>\n<td>Fordon, F.,</td>\n<td>Zuschn., <i>Chb</i> Gatschkestr. 10</td>\n</tr>\n<tr>\n<td>99 53 11</td>\n<td>Forell, Max,</td>\n<td>Apoth., <i>Chb</i> Reichsstr. 47</td>\n</tr>\n<tr>\n<td>93 43 07</td>\n<td>Forelle, Hans,</td>\n<td><i>Chb</i> 9 Fredericiastr. 1</td>\n</tr>\n<tr>\n<td>66 67 93</td>\n<td>Forelle, H.,</td>\n<td>Garage, SW 29, ZossenerStr. 41</td>\n</tr>\n<tr>\n<td>44 40 19</td>\n<td>Forelle, Luise,</td>\n<td>N 113, Dänenst. 16</td>\n</tr>\n<tr>\n<td>25 14 84</td>\n<td>Forelle, M.,</td>\n<td>Feink., W 35, Fr.-Wilh.-Str. 17</td>\n</tr>\n<tr>\n<td>25 43 16</td>\n<td>Forester-Neumeyer,</td>\n<td>H., W 62, Kleiststr. 29</td>\n</tr>\n<tr>\n<td>53 02 49</td>\n<td>Forgacs, P.,</td>\n<td>Kürsch., N 55, Jablonskistr. 20</td>\n</tr>\n<tr>\n<td>52 33 81</td>\n<td>Forgber, Bernh.,</td>\n<td>Vertr., C 2, Landsberger Straße 81</td>\n</tr>\n<tr>\n<td>50 81 11</td>\n<td>Forgber, Dr. G.,</td>\n<td>Arzt, <i>Msd</i> Hönower Straße 116</td>\n</tr>\n<tr>\n<td>46 32 18</td>\n<td>Forgber, Rich.,</td>\n<td>Kohlen, N 65, Boyenstr. 7</td>\n</tr>\n<tr>\n<td>11 57 18</td>\n<td>Forgber, R.,</td>\n<td>Schneid., W 8, Taubenstr. 33</td>\n</tr>\n<tr>\n<td>63 19 60</td>\n<td>Forgbert, Erh.,</td>\n<td>Versich., <i>Obw</i> Zepp.-Str. 2</td>\n</tr>\n<tr>\n<td>39 66 92</td>\n<td>Forino, Salvatore,</td>\n<td>NW 21, Alt-Moabit 82</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 0 993 973\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>STADT</th>\n<th>PLZ</th>\n<th>NUMMER</th>\n<th>NAME</th>\n<th>BERUF</th>\n<th>ORT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>31</td>\n<td>89 51</td>\n<td>Forkel, Else,</td>\n<td>Chb 5</td>\n<td>Windscheidstr. 32</td>\n</tr>\n<tr>\n<td></td>\n<td>79</td>\n<td>73 56</td>\n<td>Forkel, Hans,</td>\n<td>Ing., Stegl</td>\n<td>Eichgarten 4</td>\n</tr>\n<tr>\n<td></td>\n<td>71</td>\n<td>04 82</td>\n<td>Forkel, H.,</td>\n<td>Min.-Rat,</td>\n<td>Schb Innsbr. Str. 29</td>\n</tr>\n<tr>\n<td></td>\n<td>71</td>\n<td>96 59</td>\n<td>Forkel, Hildeg.,</td>\n<td>Schb</td>\n<td>Ap.-Paulus-Str. 19</td>\n</tr>\n<tr>\n<td></td>\n<td>21</td>\n<td>28 41</td>\n<td>Forkel, Ilse,</td>\n<td>Heilgymn.,</td>\n<td>W 9, Potsd. Str. 5</td>\n</tr>\n<tr>\n<td></td>\n<td>88</td>\n<td>08 05</td>\n<td>Dies., Wohn.,</td>\n<td>Wilm</td>\n<td>Homburger Str. 4</td>\n</tr>\n<tr>\n<td></td>\n<td>73</td>\n<td>57 64</td>\n<td>Forkel, Otto,</td>\n<td>Dr. Ing., Lt</td>\n<td>Luisenstr. 11</td>\n</tr>\n<tr>\n<td></td>\n<td>88</td>\n<td>42 40</td>\n<td>Forkel, Dr. Otto,</td>\n<td>Reg.-Rat,</td>\n<td>Frdn Rheinstr. 11</td>\n</tr>\n<tr>\n<td></td>\n<td>59</td>\n<td>51 32</td>\n<td>Forkert, Emil,</td>\n<td>O 17,</td>\n<td>Fruchtstr. 83</td>\n</tr>\n<tr>\n<td></td>\n<td>26</td>\n<td>53 53</td>\n<td>Forkert, E.,</td>\n<td>Lichtrekl.,</td>\n<td>W 30, München. St. 9</td>\n</tr>\n<tr>\n<td></td>\n<td>34</td>\n<td>63 55</td>\n<td>Forkert, Dr. H.,</td>\n<td>Chem.,</td>\n<td>Chb Steffeckstr. 14</td>\n</tr>\n<tr>\n<td></td>\n<td>56</td>\n<td>18 04</td>\n<td>Forkert, M.,</td>\n<td>Lebensm.,</td>\n<td>Weiß Oberst. W. 43</td>\n</tr>\n<tr>\n<td></td>\n<td>(58 56 20)</td>\n<td></td>\n<td>Forkert, Margar.,</td>\n<td>O 34,</td>\n<td>Petersb. Str. 10</td>\n</tr>\n<tr>\n<td></td>\n<td>93</td>\n<td>71 16</td>\n<td>Forkert, Max,</td>\n<td>Säng.,</td>\n<td>Chb Kollatzstr. 2</td>\n</tr>\n<tr>\n<td></td>\n<td>11</td>\n<td>12 45</td>\n<td>Forkert, O.,</td>\n<td>Haushaltwr.,</td>\n<td>Mauerstr. 2</td>\n</tr>\n<tr>\n<td></td>\n<td>37</td>\n<td>50 46</td>\n<td>Forkert, Wilhelm,</td>\n<td>Elektro-Mat.,</td>\n<td>Hash Burscheiderweg 48b</td>\n</tr>\n<tr>\n<td></td>\n<td>62</td>\n<td>61 56</td>\n<td>Forkert, Wilh.,</td>\n<td>Fleisch.,</td>\n<td>Neuk Weserstr. 50</td>\n</tr>\n<tr>\n<td></td>\n<td>49</td>\n<td>49 69</td>\n<td>Forkert, Willy,</td>\n<td>Ing.,</td>\n<td>Witt Schmitzweg 53</td>\n</tr>\n<tr>\n<td></td>\n<td>58</td>\n<td>50 21</td>\n<td>Form, Herb.,</td>\n<td>O 17,</td>\n<td>Caprivistr. 21</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "1",
+            "text": "und 5 7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "58",
+            "text": "42"
+          },
+          {
+            "extension": "62",
+            "text": "17"
+          },
+          {
+            "extension": "53",
+            "text": "39"
+          },
+          {
+            "extension": "55",
+            "text": "16"
+          },
+          {
+            "extension": "27",
+            "text": "32"
+          },
+          {
+            "extension": "25",
+            "text": "53"
+          },
+          {
+            "extension": "27",
+            "text": "52"
+          },
+          {
+            "extension": "75",
+            "text": "02"
+          },
+          {
+            "extension": "27",
+            "text": "39"
+          },
+          {
+            "extension": "88",
+            "text": "24"
+          },
+          {
+            "extension": "30",
+            "text": "19"
+          },
+          {
+            "extension": "63",
+            "text": "45"
+          },
+          {
+            "extension": "67",
+            "text": "49"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "sund. Str. 64",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>20 10 00</td>\n<td>Forstau, Dr. med., Bauern, Kurfürstenstr. 109</td>\n</tr>\n<tr>\n<td>49 52 47</td>\n<td>Fornfeist, Gertrud, <i>ReiO</i> Arosch A. 187</td>\n</tr>\n<tr>\n<td>46 12 90</td>\n<td>P. u. H. Fornfeist, Maler, N 20, Uferstr. 1</td>\n</tr>\n<tr>\n<td>31 46 49</td>\n<td>Fornoff, H., Ing., <i>Chb</i> 4 Krumme Str. 61</td>\n</tr>\n<tr>\n<td>22 16 37</td>\n<td>Fornol, Anna, Weißwr., W 35, Dennewitzstraße 3</td>\n</tr>\n<tr>\n<td>72 09 66</td>\n<td>Fornoni, Jos., Ing., <i>Stegl</i> Südendstr. 14</td>\n</tr>\n<tr>\n<td>99 49 02</td>\n<td>Foroud, H., Oberstlt., <i>Chb</i> Bundesallee 24</td>\n</tr>\n<tr>\n<td>70 84 61</td>\n<td>Forré, G., Friseur, <i>Ltra</i> Lessingstr. 22</td>\n</tr>\n<tr>\n<td>75 27 06</td>\n<td>Forrer, E., Kfm., <i>Tmp</i> Wittekindstr. 56</td>\n</tr>\n<tr>\n<td>97 30 18</td>\n<td>Forrer, Gerda, <i>Hal</i> Westfäl. Str. 24</td>\n</tr>\n<tr>\n<td>50 10 31</td>\n<td>Forsbach, Hans, Kfm., <i>Krish</i> Drachenfelsstr. 10</td>\n</tr>\n<tr>\n<td>50 97 27</td>\n<td>Forsbach, Johanna, <i>Klad</i> Doßstr. 7</td>\n</tr>\n<tr>\n<td>97 45 00</td>\n<td>Forsberg, Edg., Druckerei, <i>Hal</i> Kurfürstendamm 110</td>\n</tr>\n<tr>\n<td>62 92 48</td>\n<td>Forsberg, Wilhelm, <i>Neuk</i> Weichselstr. 37</td>\n</tr>\n<tr>\n<td>88 54 82</td>\n<td>Forsch, R., Regiss., <i>Wilm</i> Kreuzn. Str. 34</td>\n</tr>\n<tr>\n<td>77 23 51</td>\n<td>Forschbach, A., Verk., <i>Frdn</i> Kauschstr. 3</td>\n</tr>\n<tr>\n<td>47 06 93</td>\n<td>Forschner, Herb., Ing., <i>Fro</i> Forstweg 48</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td></td>\n<td>e. V., SW 68, Jerusalem Str. 59</td>\n</tr>\n<tr>\n<td>89 80 01</td>\n<td>Forschungsdienst Reichsarb.-Gem. der Landbauwissenschaft, <i>Dahl</i> Podb.All. 25</td>\n</tr>\n<tr>\n<td>12 15 31</td>\n<td>Forschungsgesellschaft für Straßenwesen e. V., W 8, Unter den Linden 40</td>\n</tr>\n<tr>\n<td>31 91 04</td>\n<td>Forschungsinstitut f. d. graphische Gewerbe, <i>Chb</i> 2 Kurfürstenallee 20</td>\n</tr>\n<tr>\n<td>31 00 11</td>\n<td>Forschungsinstitut für Maschinenwesen beim Baubetrieb, Prof. Dr. Garbotz, Techn. Hochschule, <i>Chb</i> 2, Hardenbergstr. 35</td>\n</tr>\n<tr>\n<td>30 18 74</td>\n<td>Daas., Versuchshalle. <i>Siem</i> Motardstr. 137</td>\n</tr>\n<tr>\n<td>76 37 49</td>\n<td>Forsch.-Inst. f. Physik, <i>Dahl</i> Hardenlebener Str. 23</td>\n</tr>\n<tr>\n<td>66 69 26</td>\n<td>Forschungsinstitut für Physik, SW 61, Planufer 37</td>\n</tr>\n<tr>\n<td>27 09 69</td>\n<td>Forschungsinstit. f. Sperrholz u. a. Holz-erzeugn. e. V., W 30, Karl-Schrader-Str. 5</td>\n</tr>\n<tr>\n<td>46 09 41</td>\n<td>Forsch.-Inst. f. Stärkefr., N 65, Seestr. 13</td>\n</tr>\n<tr>\n<td>39 37 23</td>\n<td>Forsch.-Inst. f. Straßenbau, NW 87, Franklinstr. 6</td>\n</tr>\n<tr>\n<td>21 95 41</td>\n<td>Forschungsgst. f. d. Handel. W 9. Linkatr. 18</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>84 86 95</td>\n<td>Forschungsstelle für industrielle Arbeit,<br/>-Zehendorf, Markgrafenstr. 1/2</td>\n</tr>\n<tr>\n<td>24 70 47</td>\n<td>Forschungsstelle für Kraftverkehrsanlag.,<br/>W 50, Würzburger Str. 1a</td>\n</tr>\n<tr>\n<td>79 54 26</td>\n<td>Forselius, Hans, Insp., <i>Stegl</i> Elisenstr. 2</td>\n</tr>\n<tr>\n<td>25 32 76</td>\n<td>Forshell, Anders, Attaché, W 62, Burg-<br/>grafenstr. 7</td>\n</tr>\n<tr>\n<td>46 15 96</td>\n<td>Forssel, Paul, Dreher., N 65, Gerichtstr. 45</td>\n</tr>\n<tr>\n<td>93 29 27</td>\n<td>Forsmann, Caroline, <i>Chb</i> 5 Lietzens.U. 8</td>\n</tr>\n<tr>\n<td>34 84 83</td>\n<td>Forssman, H., Ing., <i>Chb</i> Fritscheastr. 20</td>\n</tr>\n<tr>\n<td>39 20 42</td>\n<td>Forßmann, Dr. Werner, Arzt, NW 87,<br/>Holsteiner Ufer 20</td>\n</tr>\n<tr>\n<td>47 47 28</td>\n<td>Forst, <i>Hrnsd</i> Kaiserstr. 28</td>\n</tr>\n<tr>\n<td>97 07 56</td>\n<td>Forst-Apotheke, <i>Hal</i> Hobrechtstr. 1</td>\n</tr>\n<tr>\n<td>26 56 36</td>\n<td>A. &amp; M. Forst, Wäsche, W 30, Bayer. Pl. 12</td>\n</tr>\n<tr>\n<td>50 41 92</td>\n<td>Forst, Adolf, Ing., <i>Hhschö</i> Wriez. Str. 9b</td>\n</tr>\n<tr>\n<td>80 80 78</td>\n<td>Forst, Adolf, Kfm., <i>Klad</i> Utzer St. 1</td>\n</tr>\n<tr>\n<td>46 20 29</td>\n<td>Forst, E., Dipl.-Ing., N 65, Togostr. 38d</td>\n</tr>\n<tr>\n<td>22 14 91</td>\n<td>Forst, Ernst, Tapez., W 35, Ludend. Str. 40</td>\n</tr>\n<tr>\n<td>35 45 54</td>\n<td>v.d. Forst, Schneider, NW 40, Flemingstr. 6</td>\n</tr>\n<tr>\n<td>27 26 34</td>\n<td>Forst. Gerda. W 35. Steinmetzstr. 26</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 979\" data-label=\"Table\"><table><thead><tr><th>00 40 00</th><th colspan=\"3\">RUBIS, LUWCIU, LIZWI., PIAWI. All. 000</th></tr></thead><tbody><tr><td>34 09 56</td><td colspan=\"3\">Forst, R. J., Agent, <i>Chb</i> Kön.-Luise-Str. 8</td></tr><tr><td>97 28 10</td><td colspan=\"3\">Forst, Wilh., Maj., <i>Hal</i> Paulsb. Str. 1</td></tr><tr><td>35 01 67</td><td colspan=\"3\">Fürsterei (Staatl. Rev.-) <i>Plötz</i> Saat-<br/>winkler Damm 2</td></tr><tr><td>65 65 94</td><td colspan=\"3\">Fürsterei (Staatl. Rev.-) <i>Grü</i> Reg. Str. 27</td></tr><tr><td>52 18 76</td><td colspan=\"3\">Forstverw. (Städtische) Klosterstr. 65. 67</td></tr><tr><td>76 28 95</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Dachsborg</td></tr><tr><td>80 87 96</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Gatow-Kladow</td></tr><tr><td>93 50 37</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Eichkamp</td></tr><tr><td>84 21 68</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Saubucht</td></tr><tr><td>64 71 10</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Friedrichshagen-<br/>Dammforst</td></tr><tr><td>64 90 47</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Müggelsee</td></tr><tr><td>80 41 57</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Düppel</td></tr><tr><td>64 95 31</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Rahnsdorf</td></tr><tr><td>56 83 98</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Gorin</td></tr><tr><td>80 61 69</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Potsdam</td></tr><tr><td>80 53 58</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Wannsee</td></tr><tr><td>65 52 01</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Grünau</td></tr><tr><td>64 02 15</td><td colspan=\"3\">Fürsterei, Rev.- (städt.), Köpenick</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Berlin: F",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "64",
+            "text": "07"
+          },
+          {
+            "extension": "63",
+            "text": "34"
+          },
+          {
+            "extension": "37",
+            "text": "31"
+          },
+          {
+            "extension": "37",
+            "text": "16"
+          },
+          {
+            "extension": "30",
+            "text": "77"
+          },
+          {
+            "extension": "56",
+            "text": "83"
+          },
+          {
+            "extension": "80",
+            "text": "50"
+          },
+          {
+            "extension": "64",
+            "text": "76"
+          },
+          {
+            "extension": "89",
+            "text": "23"
+          },
+          {
+            "extension": "64",
+            "text": "33"
+          },
+          {
+            "extension": "30",
+            "text": "77"
+          },
+          {
+            "extension": "27",
+            "text": "35"
+          },
+          {
+            "extension": "87",
+            "text": "33"
+          },
+          {
+            "extension": "96",
+            "text": "37"
+          },
+          {
+            "extension": "34",
+            "text": "16"
+          },
+          {
+            "extension": "46",
+            "text": "57"
+          },
+          {
+            "extension": "72",
+            "text": "25"
+          },
+          {
+            "extension": "62",
+            "text": "79"
+          },
+          {
+            "extension": "42",
+            "text": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>47 40 16</td>\n<td>Forster, Jos., Dr., <i>Fro</i> Benediktstr. 16</td>\n</tr>\n<tr>\n<td>31 22 78</td>\n<td>Forster, Karl, <i>Chb</i> 2 Schlüterstr. 78</td>\n</tr>\n<tr>\n<td>(25 39 66)</td>\n<td>Forster, Maximilian, Major, W 30, Treuchtlinger Str. 6</td>\n</tr>\n<tr>\n<td>26 05 15</td>\n<td>Forster, Mila, W 30, Stübbenstr. 1</td>\n</tr>\n<tr>\n<td>75 33 56</td>\n<td>Forster, O., Kfm., <i>Süd</i> Brandenb. Str. 16</td>\n</tr>\n<tr>\n<td>71 81 40</td>\n<td>Forster, R., Apparateb., <i>Schb</i> Innsbr. Pl. 1</td>\n</tr>\n<tr>\n<td>97 27 68</td>\n<td>Forster, Walter, Schriftst., <i>Hal</i> Johann-Georg-Str. 26</td>\n</tr>\n<tr>\n<td>85 13 45</td>\n<td>Forster-Burggraf, Friedr., Schriftst., <i>Schlee</i> Hoensbroechstr. 35</td>\n</tr>\n<tr>\n<td>87 89 05</td>\n<td>Forster-Larrinaga, Astrid, <i>Wilm</i> Hohenzollerndamm 36</td>\n</tr>\n<tr>\n<td>84 20 46</td>\n<td>Forsthaus Paulsborn, Café, Grunewald</td>\n</tr>\n<tr>\n<td>31 69 28</td>\n<td>Forsting, Helene, Dr. phil., <i>Chb</i> Kantstr. 153</td>\n</tr>\n<tr>\n<td>63 13 54</td>\n<td>Forstmann, Albr., Dr. rer. pol, <i>Bachw</i> Hohenbirkerweg 2</td>\n</tr>\n<tr>\n<td>25 30 95</td>\n<td>Forstmann, Georg, Dipl.-Ing., W 62, Kalkreuthstr. 8</td>\n</tr>\n<tr>\n<td>30 15 51</td>\n<td>Forstmann, Dr. H., Arzt, <i>Chb</i> Bismarckstr. 45</td>\n</tr>\n<tr>\n<td>87 19 88</td>\n<td>Forstmann, Hugo, Dr., <i>Wilm</i> Detm. Str. 16</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "20",
+            "text": "20"
+          },
+          {
+            "extension": "66",
+            "text": "15"
+          },
+          {
+            "extension": "39",
+            "text": "84"
+          },
+          {
+            "extension": "92",
+            "text": "67"
+          },
+          {
+            "extension": "93",
+            "text": "78"
+          },
+          {
+            "extension": "30",
+            "text": "20"
+          },
+          {
+            "extension": "89",
+            "text": "10"
+          },
+          {
+            "extension": "67",
+            "text": "58"
+          },
+          {
+            "extension": "72",
+            "text": "22"
+          },
+          {
+            "extension": "24",
+            "text": "23"
+          },
+          {
+            "extension": "73",
+            "text": "26"
+          },
+          {
+            "extension": "57",
+            "text": "10"
+          },
+          {
+            "extension": "73",
+            "text": "73"
+          },
+          {
+            "extension": "89",
+            "text": "42"
+          },
+          {
+            "extension": "99",
+            "text": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Pariser Str. 59",
+        "entries": [
+          {
+            "extension": "87",
+            "text": "13 63 Fortagne, Walter, Konditormstr., Wilm Güntzelstr. 55"
+          },
+          {
+            "extension": "70",
+            "text": "09 96 Fortak, Emil, Kfm., Ltra Wünsd. Str. 117"
+          },
+          {
+            "extension": "37",
+            "text": "94 23 Fortak, Rob., Kfm., Ruhl Eisgrabenweg 18"
+          },
+          {
+            "extension": "64",
+            "text": "19 16 Fortange, Alex., Ref., Wendenschloß, Ostendorfst. 5"
+          },
+          {
+            "extension": "64",
+            "text": "32 51 Forte, Erich, Obering., Wendenschloß, Niebergallstr. 6"
+          },
+          {
+            "extension": "53",
+            "text": "32 13 Forte, Erich, Wirtschaftstreuhänder, NO 55, Gubitzzstr. 34a"
+          },
+          {
+            "extension": "97",
+            "text": "48 36 Forte, Ronald, Hal J.-Friedr.-Str. 29"
+          },
+          {
+            "extension": "88",
+            "text": "48 42 v. Fortenbach, Helena, Wilm Bonner Str. 5"
+          },
+          {
+            "extension": "83",
+            "text": "39 88 Forth, Erna, Frdn Kaiserallee 111"
+          },
+          {
+            "extension": "26",
+            "text": "51 72 Forth, Fritz, Ing., W 30, Freising. Str. 18"
+          },
+          {
+            "extension": "31",
+            "text": "22 84 Forthmann, Gerhard, Reg.-Amtm., Chb 5 Stuttgarter Pl. 22"
+          },
+          {
+            "extension": "73",
+            "text": "18 58 Forthmann, W., Dir., Lkw Mozartstr. 25"
+          },
+          {
+            "extension": "42",
+            "text": "04 96 Furthuber, Ww. Josefine, Eigent., N 54, Fehrbelliner Str. 96"
+          },
+          {
+            "extension": "20",
+            "text": "00 20 Fortie n m h u Ratnnetainshvllation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 980\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>17 22 01</td>\n<td>Fortuna-Masch.-Fbr. AG, SW 68, Markgrafenstr. 4</td>\n</tr>\n<tr>\n<td>25 20 22</td>\n<td>Fortunescu, Radu-C., W 62, Kurfürstenstraße 89</td>\n</tr>\n<tr>\n<td>17 38 03</td>\n<td>Forum-Film GmbH., SW 68, Friedrichstr. 19</td>\n</tr>\n<tr>\n<td>78 58 15</td>\n<td>Forwergck, Otto, Amtsrat, <i>Zehl</i> Buchsweiler Str. 1</td>\n</tr>\n<tr>\n<td>24 71 59</td>\n<td>Forwerk, H., Buchhdlg., W 50, Nürnberger Str. 64</td>\n</tr>\n<tr>\n<td>99 03 68</td>\n<td>Forwick, Ernst, Kfm., <i>Chb</i> 9 Ebereschenallee 58a</td>\n</tr>\n<tr>\n<td>80 69 59</td>\n<td>Forytta, Gerh., Kfm., <i>Nik</i> Alb. Weg 14</td>\n</tr>\n<tr>\n<td>51 12 78</td>\n<td>Foscolo, Armando, Vertr., C 2, Neue Friedrichstr. 78</td>\n</tr>\n<tr>\n<td>48 13 89</td>\n<td>Foshagen, Franz, Schneiderabfälle, N 65, Ostender Str. 29</td>\n</tr>\n<tr>\n<td>89 61 70</td>\n<td>Foß, Bernh., Dr., <i>Wilm</i> Sodener Str. 24</td>\n</tr>\n<tr>\n<td>72 13 58</td>\n<td>Foß, Charl., Stud.-Ass., <i>Stegl</i> Albr. Str. 33</td>\n</tr>\n<tr>\n<td>71 71 19</td>\n<td>Foß, Margar., <i>Schb</i> Helmstr. 5</td>\n</tr>\n<tr>\n<td>41 75 19</td>\n<td>Foß, Paula, Verw., C 2, Schönbr. Str. 11</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "0mm — Fraaß (Band II) 175",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 9 772 972\" data-label=\"Text\"><table><tbody><tr><td>91 77 59</td><td>Fosshag, René, Berichterst., W 15, Kur-<br/>fürstendamm 178</td></tr><tr><td>83 41 20</td><td>Fossum, Dir., <i>Frdn</i> Stubenr.-Str. 62</td></tr><tr><td>48 48 20</td><td>Foth, Adolf, Kfm., <i>Ndschhs</i> Treskowstr. 6</td></tr><tr><td>39 76 46</td><td>Foth, Anna, NW 87, T.-Wardenb.-Str. 12</td></tr><tr><td>39 49 24</td><td>Foth, Anni, NW 87, Claudiusstr. 4</td></tr><tr><td>81 13 27</td><td>Foth, Elise, Lehrerin, <i>Wilm</i> Walter-<br/>Fischer-Str. 18</td></tr><tr><td>87 20 36</td><td>Foth, Else, Frau, <i>Wilm</i> Badensche Str. 14</td></tr><tr><td>45 19 35</td><td>Foth, Ernst, Fleischer, N 54, Zionskirch-<br/>straße 14</td></tr><tr><td>88 07 43</td><td>Foth, Ernst, Major, <i>Frdn</i> Menzelstr. 28</td></tr><tr><td>64 19 29</td><td>Foth, Ernst, R.-A., <i>Köp</i> Pestalozzistr. 11</td></tr><tr><td>45 23 79</td><td>Foth, Fritz, Gastw., N 58, Gleimstr. 14</td></tr><tr><td>66 40 74</td><td>Foth, Fritz, Kohlen, SW 29, Riemannstr. 4</td></tr><tr><td>47 14 67</td><td>Foth, Gustav A., Kfm., <i>Waidm</i> Waid-<br/>mannsluster Damm 172</td></tr><tr><td>26 22 06</td><td>Foth, Hans, Gew.-Rat, W 30, Speyerer<br/>Straße 22</td></tr><tr><td>71 73 57</td><td>Foth, Heinz, <i>Schb</i> Belziger Str. 37</td></tr><tr><td>49 18 62</td><td>Foth, Helmuth, Vertr., <i>ReiO</i> Rütlistr. 18</td></tr></tbody></table></div><div data-bbox=\"12 972 754 993\" data-label=\"Page-Footer\"><p>14 14 07 13 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 ",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"830 0 938 136\" data-label=\"Page-Header\">G</div>\n<div data-bbox=\"0 0 764 993\" data-label=\"List-Group\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>42 69 32</td>\n<td>Foth, Marg., Blumen, C 2, Hack. Markt 4</td>\n</tr>\n<tr>\n<td>88 34 09</td>\n<td>Foth, Margarete, Wilm Wetzl. Str. 25</td>\n</tr>\n<tr>\n<td>62 10 60</td>\n<td>Foth, M., Klempn., Neuk Schierk. Str. 24</td>\n</tr>\n<tr>\n<td>44 95 76</td>\n<td>Foth, Paul, Baugesch., N 113, Gutwanger Straße 45</td>\n</tr>\n<tr>\n<td>42 33 40</td>\n<td>Foth, Toni, C 2, Rosentaler Str. 40</td>\n</tr>\n<tr>\n<td>55 07 11</td>\n<td>Foth, Wilh., Gartenbau, Lbg Straße 2</td>\n</tr>\n<tr>\n<td>48 23 02</td>\n<td>Foth &amp; Co., GmbH., opt. Anst., Bho Pankstraße 1—3</td>\n</tr>\n<tr>\n<td>88 22 20</td>\n<td>Fothe, Rud., Frdn Bornstr. 7</td>\n</tr>\n<tr>\n<td>89 71 00</td>\n<td>Fothe, Wilh., Beamter, Smgd Auguste-Viktoria-Str. 53</td>\n</tr>\n<tr>\n<td>66 88 50</td>\n<td>Fothelli, Erich, Artist, SW 29, Graefestr. 32</td>\n</tr>\n<tr>\n<td>62 17 21</td>\n<td>Fotion, Elise, Zigarettenfabr., Neuk Berliner Str. 22</td>\n</tr>\n<tr>\n<td>70 11 58</td>\n<td>Foto-Amateur-Dienst, Tmp Germaniastraße 96</td>\n</tr>\n<tr>\n<td>16 61 01</td>\n<td>Foto-Brucks, C 2, Leipziger Str. 65</td>\n</tr>\n<tr>\n<td>24 17 40</td>\n<td>Foto-Enkelmann, W 50, Passauer Str. 4</td>\n</tr>\n<tr>\n<td>91 47 93</td>\n<td>Fotografia, Pressebild., W 15, Uhlandstr. 173</td>\n</tr>\n<tr>\n<td>44 95 00</td>\n<td>Foto-Elise, N 90, Radetz 9</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 760 991\" data-label=\"Text\"><table><tbody><tr><td>22 42 89</td><td>Foto-Franke, W 9, Potsd. Str. 24</td></tr><tr><td>17 13 45</td><td>Foto-Grzybowski, SW 68, Friedrichstr. 44</td></tr><tr><td>11 07 88</td><td>Foto-Heitmann, W 8, Friedrichstr. 176</td></tr><tr><td>17 01 97</td><td>„Fotokarte“ Kartonfbr., SW 68, Alte Jakobstr. 23</td></tr><tr><td>25 96 46</td><td>Foto-Kino-Bedarf, W 30, Viktoria-Luise-Platz 6</td></tr><tr><td>12 55 56</td><td>Foto-Kino-Kundt, SW 68, Friedrichstr. 209</td></tr><tr><td>59 81 31</td><td>Fotokopist GmbH., NO 18, N. Königstr. 13</td></tr><tr><td>91 07 14</td><td>Foto-Kunst, Chb 2 Hardenbergstr. 29</td></tr><tr><td>21 18 31</td><td>Foto Reklame, W 35, Frobenstr. 3</td></tr><tr><td>71 96 48</td><td>Foto-Schöneberg, Schb Kolonnenstr. 2</td></tr><tr><td>27 23 33</td><td>Foto-Wasa, W 35, Pallasstr. 8</td></tr><tr><td>46 87 88</td><td>Foto-Wedding, N 65, Reinickend. Str. 13</td></tr><tr><td>16 77 85</td><td>Fotodruck, Hans Schröder u. Co., W 8, Charlottenstr. 63</td></tr><tr><td>91 47 93</td><td>Fotografia, Presseb. Agent., W 15, Uhlandstr. 173</td></tr><tr><td>16 01 52</td><td>Fotokinoheß, C 2, Spittelmarkt 8</td></tr><tr><td>57 22 88</td><td>Fototechnische Werkstätten, C 2, Molkenmarkt 11</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 756 991\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>02 10 04</td>\n<td>rou, Jan, Cz, Scharrerstr. 11</td>\n</tr>\n<tr>\n<td>64 09 98</td>\n<td>Ders., Wohn., Uhlenhorst, Birken 56</td>\n</tr>\n<tr>\n<td>96 37 90</td>\n<td>Foucar, Hans, <i>Hal</i> Albr. Achillesstr. 2</td>\n</tr>\n<tr>\n<td>96 01 15</td>\n<td>Fonqué, Frdr. de la Motte, Komponist,<br/><i>Chb</i> 4 Sybelstr. 14</td>\n</tr>\n<tr>\n<td>53 37 94</td>\n<td>Fouquet, Alb., Schneider, O 34, Peters-<br/>burger Pl. 2</td>\n</tr>\n<tr>\n<td>41 27 86</td>\n<td>Fouquet, E., Tabakwr., N 54, Grenadierstr. 16</td>\n</tr>\n<tr>\n<td>91 22 23</td>\n<td>Fouquet, Herta-J., W 15, Bleibtreustr. 32</td>\n</tr>\n<tr>\n<td>31 65 41</td>\n<td>Fouquet, Paul, Kfm., <i>Chb</i> Carmerstr. 2</td>\n</tr>\n<tr>\n<td>25 45 08</td>\n<td>Fouquet, W., Dr.-Ing., W 62, Keithstr. 8</td>\n</tr>\n<tr>\n<td>77 29 36</td>\n<td>Fourier, L., Dipl.-Ing., <i>Schb</i> Albertstr. 17</td>\n</tr>\n<tr>\n<td>77 29 36</td>\n<td>Fourier, Regina, <i>Schb</i> Albertstr. 17</td>\n</tr>\n<tr>\n<td>73 26 90</td>\n<td>Fournell, Joh., Arch., <i>Lkw</i> Dürkh.-Str. 16</td>\n</tr>\n<tr>\n<td>72 04 02</td>\n<td>Fournes, Weine, <i>Stegl</i> Schloßstr. 105</td>\n</tr>\n<tr>\n<td>89 03 91</td>\n<td>Fournes, Erna, <i>Grw</i> Aug.-Vikt.-Str. 91</td>\n</tr>\n<tr>\n<td>25 51 11</td>\n<td>Fournes, Gottfr., Weine, W 30, Martin-<br/>Luther-Str. 98</td>\n</tr>\n<tr>\n<td>25 51 12</td>\n<td>Fournes, Dr. O., Kfm., W 30, M.-Luth.-Str. 98</td>\n</tr>\n<tr>\n<td>41 38 55</td>\n<td>Fournes, Wilh., Vertr., N 54, Linienstr. 77</td>\n</tr>\n<tr>\n<td>97 65 70</td>\n<td>v. Fournier. Alice, W 15, Paderborner</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "24",
+            "text": "28 21 Fournier, Helene, W 50, Schaperstr. 3"
+          },
+          {
+            "extension": "97",
+            "text": "41 42 Fournier, Hubertus, Dipl.-Sportlehr., W 15,Brandenburgische Str. 36"
+          },
+          {
+            "extension": "45",
+            "text": "36 95 Fournier, Kurt, Kfm., N 113, GudvangerStraße 41"
+          },
+          {
+            "extension": "56",
+            "text": "14 46 Fournier, Margar., Eigent., Weiß Ber-liner Allee 250"
+          },
+          {
+            "extension": "65",
+            "text": "97 22 Fournier, Max, Kfm., Eichw Moltkestr. 3"
+          },
+          {
+            "extension": "30",
+            "text": "46 69 Fowitz, Else, Chb 5 Stuttgarter Pl. 20"
+          },
+          {
+            "extension": "88",
+            "text": "14 97 Fowitz, Erich, Wilm Laubacher Str. 54a"
+          },
+          {
+            "extension": "86",
+            "text": "43 04 Fowles, E. L. Douglas, Wilm Ermsl.W. 4"
+          },
+          {
+            "extension": "75",
+            "text": "44 76 Fox, Dr., Med.-Rat, Tmp Bosestr. 44"
+          },
+          {
+            "extension": "83",
+            "text": "32 61 Fox, Dr. Alf., Zahnarzt, Frdn Stierstr. 20"
+          },
+          {
+            "extension": "44",
+            "text": "60 73 Fox, B., Staker, Pko Wisbyer Str. 56"
+          },
+          {
+            "extension": "74",
+            "text": "10 72 Fox, Ernst, Kfm., Seehof, Litzmann-All. 83"
+          },
+          {
+            "extension": "37",
+            "text": "19 14 Fox, Dr. F. A., Assess., Spd Markgrafenstr. 27"
+          },
+          {
+            "extension": "72",
+            "text": "10 00 Fox, Dr. Leo, Arzt, Stegl Mariend.-Str. 2"
+          },
+          {
+            "extension": "92",
+            "text": "57 11 Ders., Klin., W 15, Kaiserallee 21"
+          },
+          {
+            "extension": "71",
+            "text": "78 77 Fox, Frank, Komponist, Schb InnsbruckerStraße 57"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "02",
+            "text": "14 01 RUA, HANGARTUS, 17000 BUCHHARDT. 20"
+          },
+          {
+            "extension": "47",
+            "text": "15 81 Fox, Rob., Buchb., Hmsd Klaush.-Weg 29"
+          },
+          {
+            "extension": "31",
+            "text": "12 10 Fox, Theod., Dent., Chb 4 Kantstr. 31"
+          },
+          {
+            "extension": "71",
+            "text": "81 77 Fox, Th., Eisenwr., Schb Reppichstr. 10"
+          },
+          {
+            "extension": "25",
+            "text": "04 06 Fox Schirme u. Handtaschen, W 30, Mart.-Luth.-Str. 5"
+          },
+          {
+            "extension": "12",
+            "text": "52 41 Fox Tönende Wochenschau AG, SW 68, Friedrichstr. 207"
+          },
+          {
+            "extension": "55",
+            "text": "18 38 Fox, Ursula, Lbg Wartenbergstr. 51"
+          },
+          {
+            "extension": "83",
+            "text": "51 70 Fox, Wilh., Insp., Frdn Cäcilieng. 30"
+          },
+          {
+            "extension": "83",
+            "text": "55 88 Fraas, Gertrud, Schreibbüro, Frdn Schmargendorfer Str. 1"
+          },
+          {
+            "extension": "24",
+            "text": "56 58 Fraas, Hans, Vertr., W 62, Kurf.-Str. 106"
+          },
+          {
+            "extension": "93",
+            "text": "11 25 Fraas, Schani, Musikleiter, Chb 5 Sophie- Charlotten-Str. 104"
+          },
+          {
+            "extension": "88",
+            "text": "15 85 Fraas, Hermann-Joh., Kfm., Frdn Schmarg- endorfer Str. 1"
+          },
+          {
+            "extension": "44",
+            "text": "70 23 Louis Fraas & Co., Schornsteinbau, N 58, Gleimstr. 40"
+          },
+          {
+            "extension": "80",
+            "text": "27 24 Fraß, Dr. Alfr., Chem., Chb Alt-Lietzow 34"
+          },
+          {
+            "extension": "27",
+            "text": "15 08 Fraß, Ann, W 30, Eisenacher Str. 109"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

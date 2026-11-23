@@ -1,0 +1,462 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 786 305 930\" data-label=\"Page-Header\"><p><b>VI</b></p></div><div data-bbox=\"469 780 998 950\" data-label=\"Page-Header\"><p><b>Inhaltsangabe des Bi</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Branche",
+        "entries": []
+      },
+      {
+        "region_name": "Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"450 0 668 21\" data-label=\"Page-Header\">\n<p>TELEFONVERZEICHNIS</p>\n</div>\n<div data-bbox=\"259 23 993 994\" data-label=\"Table-Of-Contents\">\n<table border=\"0\">\n<tr>\n<td>2234</td>\n<td>Graphische Maschinen . . . . .</td>\n<td>274</td>\n</tr>\n<tr>\n<td></td>\n<td>    s. a. Buch- u. Steindruckmaschinen</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>        Tiefdruckmaschinen</td>\n<td></td>\n</tr>\n<tr>\n<td>2235</td>\n<td>Graphit (Grafite) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2237</td>\n<td>Graphitprodukte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2239</td>\n<td>Graphitschmelztiiegel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2240</td>\n<td>Graphologen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2241</td>\n<td>Grasmatten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2242</td>\n<td>Grauguß . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2245</td>\n<td>Gravieranstalten (s. a. Walzengravier-<br/>    anstalten) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2246</td>\n<td>Graviermaschinen . . . . .</td>\n<td>275</td>\n</tr>\n<tr>\n<td>2247</td>\n<td>Greifer (s. a. Hebezeug) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2248</td>\n<td>Großbehälter, glasemaillierte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2249</td>\n<td>Großdestillationen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2251</td>\n<td>Großeinkauf . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2252</td>\n<td>Großflächenstrahler . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2253</td>\n<td>Großkochanlagen (s. a. Kochanlagen für<br/>    Massenverbrauch)</td>\n<td></td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"262 0 998 989\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2254</td>\n<td>Großküchen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2255</td>\n<td>Großkücheneinrichtungen (s. a. Hotel- u.<br/>Restaur.-Küchen-Einricht.) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2257</td>\n<td>Großküchengeräte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2258</td>\n<td>Großküchenmaschinen (s. a. Küchen-<br/>maschinen) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2259</td>\n<td>Großmärkte u. Großmarkthallen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2260</td>\n<td>Großraumheizungen . . . . .<br/>s. a. Heizungsanlagen<br/>Zentralheizungen</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2261</td>\n<td>Großschlächtereien (s. a. Fleischereien) ,,</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2263</td>\n<td>Großtankstellen (s. a. Tankstellen) . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2264</td>\n<td>Grubenausbau . . . . .</td>\n<td>276</td>\n</tr>\n<tr>\n<td>2265</td>\n<td>Grubenbedarf . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2266</td>\n<td>Grubenholz . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2267</td>\n<td>Grubenlampen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2269</td>\n<td>Grubenlokomotiven . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2270</td>\n<td>Grubenrettungswesen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2271</td>\n<td>Grudeherde . . . . .</td>\n<td>„</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"263 0 997 995\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2273</td>\n<td>Grundstücksgesellschaften (s. a. Terrain-<br/>gesellschaften) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2275</td>\n<td>Grundstücksmakler (s. a. Immobilien) ,</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2276</td>\n<td>Grundstücksverwaltungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2278</td>\n<td>Grundwasserabdichtung . . . . .</td>\n<td>277</td>\n</tr>\n<tr>\n<td>2279</td>\n<td>Grundwasserabsenkung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2281</td>\n<td>Grundwasserhaltung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>...</td>\n<td>Gummi, Roh-, siehe Rohgummi . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2283</td>\n<td>Gummiabsätze . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2284</td>\n<td>Gummi arabicum . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2285</td>\n<td>Gummibandwebereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2287</td>\n<td>Gummibedarfsartikel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2288</td>\n<td>Gummibürsten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2289</td>\n<td>Gummier- u. Lackieranstalten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2290</td>\n<td>Gummiierte Stoffe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2291</td>\n<td>Gummidruckwalzen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2293</td>\n<td>Gummifabrikeinrichtungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2294</td>\n<td>Gummifäden . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2295</td>\n<td>Gummi-Formartikel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>0006</td>\n<td>Gummiindustrie Formen für die</td>\n<td></td>\n</tr",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"262 0 994 986\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2297</td>\n<td>Gummiläufer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2299</td>\n<td>Gummilitzen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2301</td>\n<td>Gummi- u. Regenmäntel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2302</td>\n<td>Gummipressen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2303</td>\n<td>Gummi-Regenerierung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2305</td>\n<td>Gummireifen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Autobereifung</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Pneumatiks</td>\n<td></td>\n</tr>\n<tr>\n<td>2306</td>\n<td>Gummiriemen . . . . .</td>\n<td>278</td>\n</tr>\n<tr>\n<td>2307</td>\n<td>Gummiringe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2308</td>\n<td>Gummischläuche . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2309</td>\n<td>Gummischlüpfer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2311</td>\n<td>Gummischuhe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2312</td>\n<td>Gummisohlen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2313</td>\n<td>Gummistiefel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2314</td>\n<td>Gummistrickwaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2315</td>\n<td>Gummistrümpfe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2317</td>\n<td>Gummitransportbänder . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2318</td>\n<td>Gummi- u. Balatatreibriemen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2319</td>\n<td>Gummiwalzen . . . . .</td>\n<td>„</td>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"260 0 998 945\" data-label=\"Table-Of-Contents\">\n<table border=\"0\">\n<tr>\n<td>2323</td>\n<td>Gummiwaren, hygienische . . . . .</td>\n<td>279</td>\n</tr>\n<tr>\n<td>2324</td>\n<td>Gurkeneinlegereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2325</td>\n<td>Gurkenkonserven . . . . .</td>\n<td>280</td>\n</tr>\n<tr>\n<td>2326</td>\n<td>Gurte (s. a. Drahtgurte) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2327</td>\n<td>Gurtbänder . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2329</td>\n<td>Gürtelfabriken (s. a. Damengürtel) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2330</td>\n<td>Gußstahlfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2331</td>\n<td>Gußstahlwalzen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2332</td>\n<td>Güter u. Gutsverwaltungen (s. a. Land-<br/>u. Forstwirtschaftliche Betriebe)</td>\n<td></td>\n</tr>\n<tr>\n<td>2333</td>\n<td>Güter-An- u. -Verkauf . . . . .</td>\n<td>281</td>\n</tr>\n<tr>\n<td>2335</td>\n<td>Güterfernverkehr . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td></td>\n<td>s. a. Autoferntransporte</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Ferntransporte</td>\n<td></td>\n</tr>\n<tr>\n<td>2336</td>\n<td>Güternahverkehr . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2337</td>\n<td>Guttapercha- u. Balatawaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2338</td>\n<td>Gymnastiklehrinstitute . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with minor scanning artifacts.\"/></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 792 357 941\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"184 8 974 57\" data-label=\"Text\"><p>sortieranstalten) . . . . . ,</p></div><div data-bbox=\"0 56 974 103\" data-label=\"Text\"><p>2360 Hafenbetriebe . . . . . ,</p></div><div data-bbox=\"0 103 974 150\" data-label=\"Text\"><p>2361 Hafenkrane (s. a. Krane) . . . . . ,</p></div><div data-bbox=\"0 150 974 197\" data-label=\"Text\"><p>2362 Hafenspedition . . . . . ,</p></div><div data-bbox=\"0 197 974 244\" data-label=\"Text\"><p>2363 Haferflocken . . . . . ,</p></div><div data-bbox=\"0 244 675 291\" data-label=\"Text\"><p>... Hafnereien siehe Töpfereien</p></div><div data-bbox=\"0 291 974 338\" data-label=\"Text\"><p>2365 Häkelgalonmaschinen . . . . . ,</p></div><div data-bbox=\"0 338 974 385\" data-label=\"Text\"><p>2367 Halbwollwaren . . . . . ,</p></div><div data-bbox=\"0 385 974 432\" data-label=\"Text\"><p>2369 Halbzeug . . . . . ,</p></div><div data-bbox=\"173 432 640 480\" data-label=\"Text\"><p>s. a. Aluminiumhalbzeug</p></div><div data-bbox=\"257 480 503 526\" data-label=\"Text\"><p>Bleihalbzeug</p></div><div data-bbox=\"257 526 561 573\" data-label=\"Text\"><p>Bronzehalbzeug</p></div><div data-bbox=\"257 573 563 620\" data-label=\"Text\"><p>Kupferhalbzeug</p></div><div data-bbox=\"257 620 666 667\" data-label=\"Text\"><p>Leichtmetallhalbzeug</p></div><div data-bbox=\"257 667 576 714\" data-label=\"Text\"><p>Messinghalbzeug</p></div><div data-bbox=\"257 714 546 761\" data-label=\"Text\"><p>Metallhalbzeug</p></div><div data-bbox=\"257 761 515 808\" data-label=\"Text\"><p>Zinkhalbzeug</p></div><div data-bbox=\"0 808 974 855\" data-label=\"Text\"><p>2371 Hallenbauten . . . . . ,</p></div><div data-bbox=\"0 855 974 902\" data-label=\"Text\"><p>2372 Hallenöfen . . . . . ,</p></div><div data-bbox=\"0 902",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 984\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2370</td>\n<td>Bauherweide . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2377</td>\n<td>Handarbeiten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2378</td>\n<td>Handarbeitsartikel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2379</td>\n<td>Handarbeitsgarne . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2380</td>\n<td>Handelsgesellschaften . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>...</td>\n<td>Handelskammern siehe Industrie- u.<br/>Handelskammern</td>\n<td></td>\n</tr>\n<tr>\n<td>2381</td>\n<td>Handelsmakler . . . . .</td>\n<td>284</td>\n</tr>\n<tr>\n<td>2383</td>\n<td>Handelschulen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2384</td>\n<td>Handelsvertretungen (s. a. Vertretungen)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2385</td>\n<td>Handfeuerlöscher (s. a. Feuerlöschappa-<br/>rate) . . . . .</td>\n<td>285</td>\n</tr>\n<tr>\n<td>2386</td>\n<td>Handharmonikas . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2387</td>\n<td>Handleuchten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2389</td>\n<td>Handschuhfabriken u. -großhandlungen<br/>(s. a. Stoff- u. Strickhandschuhe) . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2390</td>\n<td>Handschuhbedarfsartikel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2391</td>\n<td>Handschuhleder . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2392</td>\n<td>Handtuchwebereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>...</td>\n<td>Handwagen siehe Wagen (Hand-)</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 14 994 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>2395</td>\n<td>Handwebereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2397</td>\n<td>Handwerkskammern . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2398</td>\n<td>Handwerksorganisationen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2399</td>\n<td>Hanf . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2401</td>\n<td>Hanfaufbereitung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2402</td>\n<td>Hanferzeugnisse . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2403</td>\n<td>Hanfgarne . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2404</td>\n<td>Hanfschläuche . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2405</td>\n<td>Hanfseile . . . . .</td>\n<td>287</td>\n</tr>\n<tr>\n<td>2407</td>\n<td>Hanfspinnereien u. Bindfadenfabriken .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2408</td>\n<td>Hängebahnen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2409</td>\n<td>Harmonikas . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2410</td>\n<td>Harmoniumfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2411</td>\n<td>Harmoniumhandlungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2413</td>\n<td>Hartbasalt . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2414</td>\n<td>Hartbeton-Bodenbeläge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2415</td>\n<td>Härtemittel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2416</td>\n<td>Härteöfen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2417</td>\n<td>Härteprüfer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2418</td>\n<td>Härtemaschinen (s",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 993 850\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2420</td>\n<td>Härtereien (s. a. Lohnhärtereien) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2421</td>\n<td>Härterei-Einrichtungen u. -Bedarf . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2422</td>\n<td>Hartfasern . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2423</td>\n<td>Hartgummivermahlung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2425</td>\n<td>Hartgummiwaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2426</td>\n<td>Hartguß . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2427</td>\n<td>Hartgußwalzen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2428</td>\n<td>Hartholzhandlungen . . . . .</td>\n<td>288</td>\n</tr>\n<tr>\n<td>2429</td>\n<td>Hartlötmittel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2431</td>\n<td>Hartmetall . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2432</td>\n<td>Hartpapier . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2433</td>\n<td>Hartpapiergefäße . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2434</td>\n<td>Hartpapier- u. Hartgewebeplatten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2435</td>\n<td>Hartpapierwaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2437</td>\n<td>Hartpappen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2438</td>\n<td>Hartsteinwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2439</td>\n<td>Hartverchrommung (s. a. Verchrommung) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2440</td>\n<td>Hartzerkleinerungsmaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2441</td>\n<td>Harze u. Harzprodukte . . . . .</td>\n",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"8 0 992 950\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2444</td>\n<td>Harzheim . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2445</td>\n<td>Häusermakler . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2446</td>\n<td>Haus- u. Küchengeräte. . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2447</td>\n<td>Haushaltartikel . . . . .</td>\n<td>290</td>\n</tr>\n<tr>\n<td>2449</td>\n<td>Haushaltfarben . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2450</td>\n<td>Haushaltungsgläser, Jenaer (Großhand-<br/>lungen) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2451</td>\n<td>Haushaltungsschulen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2452</td>\n<td>Hausschuhe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2453</td>\n<td>Hausschwammbekämpfungsmittel . . . . .</td>\n<td>291</td>\n</tr>\n<tr>\n<td>2455</td>\n<td>Hausverwaltungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2456</td>\n<td>Hauswirtschaftliche Maschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2457</td>\n<td>Hauswirtschaftliche Neuheiten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>...</td>\n<td>Häute siehe „Felle und Häute“ und<br/>„Rohhäute“</td>\n<td></td>\n</tr>\n<tr>\n<td>2458</td>\n<td>Häutebeizen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2459</td>\n<td>Hautleim . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>...</td>\n<td>Hautpergament siehe Pergament</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"433 628 452 646\" data-label=\"Text\"><p>—</p></div><div data-bbox=\"696 750 704 768\" data-label=\"Text\"><p>♦</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Branche",
+        "entries": []
+      },
+      {
+        "region_name": "Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 993 276\" data-label=\"Table-Of-Contents\">\n<table>\n<tr>\n<td>2512</td>\n<td>Herrenaussstattungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2513</td>\n<td>Herrenkleidung (s. a. Bekleidung) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2515</td>\n<td>Herrenoberhemdenfabriken . . . . .</td>\n<td>298</td>\n</tr>\n<tr>\n<td>2516</td>\n<td>Herrenschneider . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2517</td>\n<td>Herrenstoffe (s. a. Tuche) . . . . .</td>\n<td>299</td>\n</tr>\n<tr>\n<td>2518</td>\n<td>Herrenwäsche . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"11 318 993 650\" data-label=\"Table-Of-Contents\">\n<table>\n<tr>\n<td>2519</td>\n<td>Heu u. Stroh (s. a. Rauhfuttermittel) . . . . .</td>\n<td>300</td>\n</tr>\n<tr>\n<td>2521</td>\n<td>Heuauflüge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2522</td>\n<td>Hobelbänke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2523</td>\n<td>Hobelmesser . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2524</td>\n<td>Hobelwerke (s. a. Säge- u. Hobelwerke) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2525</td>\n<td>Hobler (s. a. Schnellhobler) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>....</td>\n<td>Hobusschrauben siehe Schrauben</td>\n<td></td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"11 697 993 984\" data-label=\"Table-Of-Contents\">\n<table>\n<tr>\n<td>2527</td>\n<td>Hoch- u. Tiefbau . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2528</td>\n<td>Hochbilder . . . . .</td>\n<td>305</td>\n</tr>\n<tr>\n<td>2529</td>\n<td>Hochdruckapparate . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2530</",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 990 995\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>2536</td>\n<td>Hochofenschlacke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2537</td>\n<td>Hochofenwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2539</td>\n<td>Hochschulen (s. a. Universitäten) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2540</td>\n<td>Hochspannungsapparate . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2542</td>\n<td>Hoheitszeichen (s. a. Abzeichen) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2543</td>\n<td><b>Hohlglas</b> . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2545</td>\n<td>Hohlmaße . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2546</td>\n<td>Hohlsteinwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2548</td>\n<td><b>Holz-Ein- und Ausfuhr</b> . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2549</td>\n<td>Holzgroßhandlungen . . . . .</td>\n<td>306</td>\n</tr>\n<tr>\n<td>2551</td>\n<td>Holzhandlungen . . . . .</td>\n<td>309</td>\n</tr>\n<tr>\n<td>2552</td>\n<td>Holzabsatzfabriken (s. a. Absatzfabriken) . . . . .</td>\n<td>311</td>\n</tr>\n<tr>\n<td>2553</td>\n<td>Holzabsatzmaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2554</td>\n<td>Holzbau . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2555</td>\n<td>Holzbearbeitungsfabriken . . . . .</td>\n<td>312</td>\n</tr>\n<tr>\n<td>2557</td>\n<td>Holzbearbeitungsmaschinen . . . . .</td>\n<td>313</td>\n</tr>\n<tr>\n<td>2558</td>\n<td>Holzbearbeitungswerkzeuge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2559</td>\n<td>Holzbeizen . . . . .</td>\n<td>314</td>\n</tr>\n<tr>\n<td>2",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 991 946\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>2563</td>\n<td>Holzbiegemaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2564</td>\n<td>Holzbildhauereien (s. a. Bildhauer) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2565</td>\n<td>Holzdächer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2566</td>\n<td>Holzfaserhartplatten (s. a. Faserplatten) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2567</td>\n<td>Holzfaserisolierplatten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2569</td>\n<td>Holzfräsereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2570</td>\n<td>Holzgaserzeugungsanlagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2571</td>\n<td>Holz- u. Sauggasmotoren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2572</td>\n<td>Holzhausbau . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2573</td>\n<td>Holzimprägnierung . . . . .</td>\n<td>315</td>\n</tr>\n<tr>\n<td>2575</td>\n<td>Holzindustrie, Bedarfsartikel für die . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2576</td>\n<td>Holzkarren aller Art (s. a. Karren) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2577</td>\n<td>Holzkästen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2578</td>\n<td>Holzkastenkippwagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2579</td>\n<td>Holzknöpfe (s. a. Knöpfe) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2581</td>\n<td>Holzkohlen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2582</td>\n<td>Holzkohle für Futterzwecke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2583</td>\n<td>Holzkonservierung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>258",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, with no text, markings, or illustrations visible. It appears to be a scan of a physical document.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a single small black dot in the bottom right corner.\"/>This image is a blank white page. It contains a single, small, solid black dot located in the bottom right corner. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Branche",
+        "entries": []
+      },
+      {
+        "region_name": "Seite",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 800 995\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>2612</th>\n<th>MAVISCHEN</th>\n<th>„</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2613</td>\n<td>Holzstiegen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2614</td>\n<td>Holzstifte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2615</td>\n<td>Holzstoffabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2617</td>\n<td>Holzstoffdosen . . . . .</td>\n<td>317</td>\n</tr>\n<tr>\n<td>2619</td>\n<td>Holzteer . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2620</td>\n<td>Holztransporte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2621</td>\n<td>Holztrockenanlagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2623</td>\n<td>Holzverbinder . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2624</td>\n<td>Holzveredlung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2625</td>\n<td>Holzverkohlungsprodukte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2626</td>\n<td>Holzverzuckerung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2627</td>\n<td>Holzvorhangsachsen (s. a. Vorhangsachsen) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2629</td>\n<td>Holzwaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2630</td>\n<td>Holzwerkzeuge . . . . .</td>\n<td>318</td>\n</tr>\n<tr>\n<td>2631</td>\n<td>Holzwolle . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2632</td>\n<td>Holzwolleflaschenhülsen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2633</td>\n<td>Holzwollemaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2635</td>\n<td>Holzwolleseile (s. a. „Seile“) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 70 803 637\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>2638</td>\n<td>Homogene Verbleiung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2639</td>\n<td>Homogenisiermaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2640</td>\n<td>Homöopathische Arzneimittel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2642</td>\n<td>Honig . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2643</td>\n<td>Honigkuchen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2644</td>\n<td>Honigschleudern . . . . .</td>\n<td>319</td>\n</tr>\n<tr>\n<td>2645</td>\n<td>Honmaschinen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2645a</td>\n<td>Honwerkzeuge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2646</td>\n<td>Hopfen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2647</td>\n<td>Hopfenaufbereitung . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2648</td>\n<td>Hörapparate . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2649</td>\n<td>Horden . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"0 698 787 888\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>2650</td>\n<td>Horn u. Hornwaren . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2651</td>\n<td>Horndünger . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2653</td>\n<td>Horn- u. Kunsthornknöpfe (s. a. Knöpfe)</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2654</td>\n<td>Hornmehl . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"0 957 338 992\" data-label=\"Text\">\n<p>9855 Hosenfabrikon</p>\n</div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 803 986\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>2656</td>\n<td>Hosenieder . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2657</td>\n<td>Hosenträgerfabriken (s. a. Trachten-<br/>träger) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2658</td>\n<td>Hosenträgergarnituren . . . . .</td>\n<td>320</td>\n</tr>\n<tr>\n<td>2659</td>\n<td>Hospize . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2660</td>\n<td><b>Hotels</b> . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2661</td>\n<td>Hotelleinrichtungen u. -bedarf . . . . .</td>\n<td>335</td>\n</tr>\n<tr>\n<td>2662</td>\n<td>Hotelküchen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2663</td>\n<td>Hotel- u. Restaur.-Küchen-Einrichtungen<br/>(s. a. Großkücheneinrichtungen) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2666</td>\n<td>Hotelporzellan . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2667</td>\n<td>Hotelprospekte . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2668</td>\n<td>Hotelsilber . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2669</td>\n<td>Hotelwäsche . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2671</td>\n<td>Hourdisfabriken . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2672</td>\n<td>Hubertusmäntel . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2673</td>\n<td>Hubtransportwagen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2674</td>\n<td>Hufbeschlagteile . . . . .</td>\n<td>„</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 800 940\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>2677</td>\n<td>Hufeisenstollen</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2679</td>\n<td>Hülsefabriken</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2680</td>\n<td>Hülsenfrüchte</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2681</td>\n<td>Huminal</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>336</td>\n</tr>\n<tr>\n<td>2684</td>\n<td>Hundebedarf</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2685</td>\n<td>Hundekuchen</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2686</td>\n<td>Hüte (Fabriken u. Großhdlg.)</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2687</td>\n<td>Hüte (Einzelhandel)</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2689</td>\n<td>Hutartikel</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td>.</td>\n<td",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 803 943\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>....</td>\n<td>Hüttenbedarf siehe Bergwerks- u. Hüt-</td>\n<td></td>\n</tr>\n<tr>\n<td>,</td>\n<td>tenbedarf</td>\n<td></td>\n</tr>\n<tr>\n<td>2701</td>\n<td>Hüttenwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2702</td>\n<td>Hüttenwerkseinrichtungen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2703</td>\n<td>Hüttenwerksmaschinen (s. a. Bergwerks-<br/>u. Hüttenmaschinen) . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2704</td>\n<td>Hütten- u. Walzwerkserzeugnisse . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2705</td>\n<td>Hydranten . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2707</td>\n<td>Hydraulik für Schienenfahrzeuge . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2708</td>\n<td>Hydraulische Anlagen aller Art . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2709</td>\n<td>Hydraulische Maschinen u. Apparate . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2710</td>\n<td>Hydraulische Pressen . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2711</td>\n<td>Hydrierwerke . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2713</td>\n<td>Hydronaliumgießereien . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2714</td>\n<td>Hygienische Gewebe . . . . .</td>\n<td>„</td>\n</tr>\n<tr>\n<td>2715</td>\n<td>Hygienische Institute . . . . .</td>\n<td>338</td>\n</tr>\n<tr>\n<td>2716</td>\n<td>Hypotheken u. Grundbesitz . . . . .</td>\n<td>„</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image is a scan of a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty entry for a specific town or region.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

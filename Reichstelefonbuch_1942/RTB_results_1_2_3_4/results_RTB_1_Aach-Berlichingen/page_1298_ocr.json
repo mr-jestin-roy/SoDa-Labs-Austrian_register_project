@@ -1,0 +1,848 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black vertical mark near the top right corner.\"/>This image is a blank white page. It contains a single, small, black vertical mark or speck located in the upper right quadrant, approximately one-third of the way from the top and near the right edge. The rest of the page is completely empty and white.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"838 978 854 988\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a small black artifact in the bottom right corner.\"/>This image is a scan of a blank white page. It contains no text or other graphical elements, except for a small, irregular black mark located in the bottom right corner, which appears to be a scanning artifact or a piece of debris.</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"938 18 982 48\" data-label=\"Page-Header\"><p>1</p></div>\n<div data-bbox=\"932 135 952 152\" data-label=\"Page-Header\"><p>2</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 761 453 944\" data-label=\"Text\"><p>14 (Branchenteil)</p></div><div data-bbox=\"679 757 998 925\" data-label=\"Text\"><p><b>6683. Wd</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Barth (Pomm.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bautzen.",
+        "entries": []
+      },
+      {
+        "region_name": "Bergstadt Platten (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "F. W. Borchardt",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"26 41 713 361\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 997\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>77 22 16</td>\n<td>Dukas, H., s. M. Klose Weinhandel GmbH.</td>\n</tr>\n<tr>\n<td>11 56 64</td>\n<td>Ewest, Julius, Weingroßhandlung, Wein-<br/>stuben, W 8, Behrenstraße 26a</td>\n</tr>\n<tr>\n<td>67 23 77</td>\n<td>Felgner, Paul, Weinkeller, Berlin SO 16,<br/>Melchiorstraße 30</td>\n</tr>\n<tr>\n<td>16 02 22</td>\n<td>Franke's Weinstuben G. m. b. H., Wein-<br/>großhandlung, SW 68, Krausenstr. 41</td>\n</tr>\n<tr>\n<td>24 33 94</td>\n<td>Graeber, Inh. K. Gräber, Weingroßver-<br/>trieb, Feinkost, Stadtküche, W 50, Nürn-<br/>berger Str. 53/56</td>\n</tr>\n<tr>\n<td>67 11 23</td>\n<td>Emil Gründling's Erben, Max Berman<br/>Nachf., Likörfabrik, Großdestillation<br/>SO 16, Brückenstr. 8</td>\n</tr>\n<tr>\n<td>12 59 21</td>\n<td><b>Gebr. Habel</b> ältestes Berliner<br/>Weinhaus<br/>gegr. 1779, W 8, Unter den Linden 21</td>\n</tr>\n<tr>\n<td>66 75 32</td>\n<td rowspan=\"2\">Paul Heinrich Nachf., Likörfabrik, Wein-<br/>großhandlung, SW 29, Urbanstr. 105</td>\n</tr>\n<tr>\n<td>66 76 22</td>\n</tr>\n<tr>\n<td>25 15 25</td>\n<td rowspan=\"3\">G. &amp; O. Horcher<br/>Weingroßhandlung<br/>Berlin W 50, / Ausgburger Str. 6</td>\n</tr>\n<tr>\n<td>25 34 01</td>\n</tr>\n<tr>\n<td>25 50 65</td>\n</tr>\n<tr>\n<td>00 34 70</td>\n<td>Muhar Kauer Wein en arno Berlin-Ober-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"180 0 825 41\" data-label=\"Page-Header\">\n<p>1070000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 11 998 154\" data-label=\"Text\"><p>44 12 55 <b>Robert Melchers A. G.</b>, Weingroßhand-<br/>lung, Likörfabrik, Lebensmittel, N 31,<br/>Wattstr. 11 u. 12</p></div><div data-bbox=\"0 154 998 252\" data-label=\"Text\"><p>35 29 58 <b>Robakowski &amp; Co.</b>, Likörfabrik, Wein-<br/>großverkauf, NW 40, Lehrter Str. 48b</p></div><div data-bbox=\"0 249 998 394\" data-label=\"Text\"><p>24 92 21 <b>Fritz Rollenhagen Nachf. G. m. b. H.</b>,<br/>Feinkost- und Weingroßhandlung, Berlin<br/>W 50, Tauentzienstr. 20</p></div><div data-bbox=\"0 394 998 540\" data-label=\"Text\"><p>Sammel-<br/>Nr. { <b>Harry A. Sobiech</b> Likörfabrik<br/>03 66 06 { Berlin-Charlottenburg 5, Kaiserdamm 96<br/>Weingroßverkauf</p></div><div data-bbox=\"0 539 998 654\" data-label=\"Text\"><p>35 62 61 <b>J. P. Trarbach Nachf.</b></p></div><div data-bbox=\"252 667 936 715\" data-label=\"Text\"><p><b>Weinbau — Großhandel seit 1846</b></p></div><div data-bbox=\"231 724 947 773\" data-label=\"Text\"><p><b>Berlin NW 40, Lehrter Str. 41—44</b></p></div><div data-bbox=\"0 770 998 867\" data-label=\"Text\"><p>51 43 40 <b>Weingroßhandlung Bernhard Brauer</b>, Ber-<br/>lin C 2, Burgstraße 8</p></div><div data-bbox=\"0 865 998 992\" data-label=\"Text\"><p>52 09 20 „<b>Wellifa</b>“, Likörfabrik und Weinhandlung,<br/><b>Erich Freiwald</b>, Berlin-Neukölln, Brau-<br/>nerer Straße 70</p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Bernkastel-Kues.",
+        "entries": []
+      },
+      {
+        "region_name": "Beuthem (Oberschles.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "ingroßhandlungen u. Weinkelle",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Ostwein",
+        "entries": []
+      },
+      {
+        "region_name": "Billigheim (üß. Landau).",
+        "entries": []
+      },
+      {
+        "region_name": "Ringem (Rhein).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Bismarckhütte (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bockau (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Böhmisch Leipa (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Bonn.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Borghorst (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Brandenburg (Havel).",
+        "entries": []
+      },
+      {
+        "region_name": "Braunschweig.",
+        "entries": []
+      },
+      {
+        "region_name": "Bregenz (Vorarlberg).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"69 359 182 477\"}, {\"label\": \"Text\", \"bbox\": \"69 494 182 614\"}, {\"label\": \"Section-Header\", \"bbox\": \"241 136 955 437\"}, {\"label\": \"Text\", \"bbox\": \"488 490 710 628\"}, {\"label\": \"Text\", \"bbox\": \"325 718 864 859\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 37 992 950\" data-label=\"Text\"><p>53969 Otto Mielck Handelsgesellschaft m. b. H.<br/>Wein- u. Spirituosen-Import, Schlachte 39<br/>Sml.-Nr. (Reidemeister &amp; Uirichs, Weine u. Spirituosen, Auf der Brake 11/12<br/>20947</p></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "A. Segnitz &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "„Mediterrra“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"68 3 987 225\" data-label=\"Text\"><p>52171 <b>Raiffeisen'sche Weinkellerei der Nieder-<br/>schlesischen landwirtschaftlichen Haupt-<br/>genossenschaft Raiffeisen e. G. m. b. H.,</b><br/>Bresl. 1, Dorotheengasse 2</p></div><div data-bbox=\"68 225 956 327\" data-label=\"Text\"><p>53844 <b>Ungarwein-Import G. m. b. H.</b></p></div><div data-bbox=\"194 329 984 494\" data-label=\"Text\"><p>Weingroßhandlung und Weinkellerei, Her-<br/>stellung von Vermutwein und Trink-<br/>branntwein, Breslau 1, Königaplatz 4.</p></div><div data-bbox=\"198 491 651 546\" data-label=\"Text\"><p><b>T Ungarimport Breslau</b></p></div><div data-bbox=\"62 544 984 710\" data-label=\"Text\"><p>57457 { <b>Veith, Feodor, Großhandlung, Weine,</b><br/>57458 { <b>Spirituosen, Fruchtsäfte, Kolonialwaren,</b><br/>Breslau, 1 Friedrich-Karl-Straße 13</p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 766 155 925\"}]",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Cuxhaven.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"68 266 188 451\"}, {\"label\": \"Text\", \"bbox\": \"68 496 188 682\"}, {\"label\": \"Text\", \"bbox\": \"361 136 825 511\"}, {\"label\": \"Text\", \"bbox\": \"317 598 868 837\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Deggendorf (Niederbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dessau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dirschau.",
+        "entries": []
+      },
+      {
+        "region_name": "Dortmund.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"83 102 923 447\"}, {\"label\": \"Text\", \"bbox\": \"54 485 953 680\"}, {\"label\": \"Text\", \"bbox\": \"220 710 787 895\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Duisburg u. D.-Ruhrort.",
+        "entries": []
+      },
+      {
+        "region_name": "Ebeleben (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Eberswalde (Mark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "<div data-bbox=\"271 45 902 136\" data-label=\"Text\"><p>.....<br/>Weinhandlung, Johannesstr. 154</p></div><div data-bbox=\"0 154 809 274\" data-label=\"Text\"><p><b>Esch-Alzig (Luxemburg).</b></p></div><div data-bbox=\"74 270 992 533\" data-label=\"Text\"><p>2353 <b>Alfons Wagner</b> Weine, Spirituosen,<br/>Zigarren<br/>Herm.-Göring-Str. 75. P Luxemb. 3094</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col5_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text, handwriting, or printed content on the page.</div>",
+      "cells": [
+        "col5_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col5_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Eschershausen (Kr. Holzminde).",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Flensburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Forst (Pfalz).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col5_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Fraustadt (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiberg (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col5_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frickenhäusen b. Ochsenfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Friedau (Südsteiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col5_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Stefan Brodar",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col5_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col5_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col5_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "<div data-bbox=\"65 0 797 170\" data-label=\"Text\"><p>3436 Leitner, Josef, Obstgroßhandel u. Eigenbau-Weinkellerei, Krefelder Str. 51</p></div><div data-bbox=\"65 154 797 339\" data-label=\"Text\"><p>5823 Rauter, Hubert, Weingroßhandlung, Graz, Kindermanngasse 8a</p></div><div data-bbox=\"65 335 797 500\" data-label=\"Text\"><p>6809 Weigl Gesellschaft m.b.H.</p></div><div data-bbox=\"303 500 652 591\" data-label=\"Text\"><p>Spirituosengroßvertrieb</p></div><div data-bbox=\"313 587 641 675\" data-label=\"Text\"><p>Graz, Unger gasse 16</p></div><div data-bbox=\"65 671 797 845\" data-label=\"Text\"><p>5602 Weslak, Franz, Weinhandlung en gros, Graz-Puntigam, Frachten gasse 2</p></div><div data-bbox=\"0 861 743 977\" data-label=\"Text\"><p><b>Grevenmacher (Luxemburg).</b></p></div>",
+      "cells": [
+        "col5_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col5_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"102 182 141 330\"}, {\"label\": \"Text\", \"bbox\": \"348 75 571 444\"}, {\"label\": \"Text\", \"bbox\": \"371 437 541 600\"}, {\"label\": \"Text\", \"bbox\": \"108 625 760 917\"}]",
+      "cells": [
+        "col5_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col5_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Großbockenheim (Pfalz).",
+        "entries": []
+      }
+    ]
+  }
+]

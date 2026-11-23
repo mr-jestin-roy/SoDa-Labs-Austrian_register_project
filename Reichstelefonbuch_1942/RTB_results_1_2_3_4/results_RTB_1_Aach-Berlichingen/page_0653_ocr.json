@@ -1,0 +1,760 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"299 904 306 931\" data-label=\"Page-Footer\"><p>1</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Gießen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"280 33 971 386\" data-label=\"Text\"><p><b>Martin Abermann</b> <span style=\"float: right;\">Kom.-<br/>Ges.</span></p></div><div data-bbox=\"369 395 882 579\" data-label=\"Text\"><p><b>Hoch-, Tief- und Eisenbetonbau —</b></p></div><div data-bbox=\"404 584 856 766\" data-label=\"Text\"><p><b>Sägewerk und Zimmereibetrieb</b></p></div><div data-bbox=\"329 766 925 957\" data-label=\"Text\"><p><b>Gießen, Löberstr. 8. Fernspr. 2570. 2571</b></p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Glauchau (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Gleiwitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Göttingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Gotenhafen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"302 0 999 744\" data-label=\"List-Group\"><p><b>2457</b> } <b>BAU-BAU-WUNDERMAICH</b><br/><b>2458</b> } Eisenbeton-, Industrie-, Hoch- und Tief-<br/>bau, Gartenstraße 23/27<br/><b>3566</b> <b>Kontz &amp; Pfeiffer</b>, Tief-, Beton- u. Eisen-<br/>bahnbau, Danzig, Baubüro: Gotenhafen,<br/>Adolf-Hitler-Str. 125 – 127</p></div><div data-bbox=\"244 787 719 973\" data-label=\"Text\"><p><b>Graz (Steiermark).</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Eduard Ast &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Grünberg (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"249 0 992 937\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td></td>\n<td>Altona 1, Palmalle 108</td>\n</tr>\n<tr>\n<td>57 80 37</td>\n<td><b>Hinr. Plambeck &amp; Söhne</b><br/>Bauausführungen, Hamburg-Garstedt,<br/>Ochsenzoller Straße 28</td>\n</tr>\n<tr>\n<td><b>Sammel-</b></td>\n<td><b>Peter Rieckmann</b></td>\n</tr>\n<tr>\n<td><b>Nr.</b></td>\n<td rowspan=\"2\">{ Eisenbetonbau, Hochbau, Tiefbau, Ham-</td>\n</tr>\n<tr>\n<td>38 88 51</td>\n<td>burg-Wilhelmsburg 1, Kanalstr. 119/126</td>\n</tr>\n<tr>\n<td>33 41 41</td>\n<td><b>Saar-Bauindustrie A.-G.</b>, Hoch-, Tief-, Be-</td>\n</tr>\n<tr>\n<td></td>\n<td>ton- u. Eisenbetonbau, 1, Schauenb. Str. 15</td>\n</tr>\n<tr>\n<td>42 83 34</td>\n<td><b>Schönborn &amp; Co.</b>, Hoch- und Tiefbauge-</td>\n</tr>\n<tr>\n<td></td>\n<td>schäft, Hamburg-Altona 1, Große Brun-</td>\n</tr>\n<tr>\n<td></td>\n<td>nenstraße 137—139</td>\n</tr>\n<tr>\n<td>39 12 28</td>\n<td><b>Sohst, Steffen</b>, Bauunternehmung, Bau-</td>\n</tr>\n<tr>\n<td></td>\n<td>stelle Hamburg-Finkenwälder, Wohnschiff</td>\n</tr>\n<tr>\n<td></td>\n<td>„Mutti“, Im Neßkanal</td>\n</tr>\n<tr>\n<td>32 79 44</td>\n<td><b>Spengler &amp; Co.</b>, Hoch-, Tief-, Beton- u.</td>\n</tr>\n<tr>\n<td></td>\n<td>Eisenbetonbau, Hbg. 1, Lilienstr. 7</td>\n</tr>\n<tr>\n<td>24 28 27</td>\n<td><b>Werner Suerbier K.-G.</b><br/><b>Bauunternehmung,</b><br/>Hamburg 1, Holzdam 28</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"239 948 611 992\" data-label=\"Text\">\n<p><b>Hamm (Walf)</b></p>\n</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Harsewinkel (b. Warendorf) [Westf.].",
+        "entries": []
+      },
+      {
+        "region_name": "Heidenheim [Brenz (Wrttb.)].",
+        "entries": []
+      },
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"800 928 808 942\" data-label=\"Page-Footer\"><p>-</p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Hindenburg (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hirschberg (Rsgb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hirschfelde (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hohensalza (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Hohenthurm (Saalkreis).",
+        "entries": []
+      },
+      {
+        "region_name": "Homburg (Saar).",
+        "entries": []
+      },
+      {
+        "region_name": "Husum (Schlesw.).",
+        "entries": []
+      },
+      {
+        "region_name": "Himena (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Dampfsäge- und Höbelwerk, Talstr. 12",
+        "entries": []
+      },
+      {
+        "region_name": "Innsbruck.",
+        "entries": []
+      },
+      {
+        "region_name": "Jena.",
+        "entries": []
+      },
+      {
+        "region_name": "Kaiserslautern.",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Kattowitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kiel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Königsberg (Pr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Königshütte (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kreuz (Ostbahn).",
+        "entries": []
+      },
+      {
+        "region_name": "Kutno (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Landenberg (Warthe).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"380 753 997 953\" data-label=\"Text\"><p><b>1255. DISEN (Dise)</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Paul Zürn, Bauunternehmung",
+        "entries": []
+      },
+      {
+        "region_name": "Leslau (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Liegnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Bauunternehmung Julius Hecht",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Bauunternehmung Trummer &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Franz Hofstetter",
+        "entries": []
+      },
+      {
+        "region_name": "Lenz &amp; Co.",
+        "entries": []
+      },
+      {
+        "region_name": "Lissa (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "C. Baresel G. m. b. H.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"63 130 178 231\" data-label=\"Text\">16956</div><div data-bbox=\"227 79 961 256\" data-label=\"Text\"><b>J. Deutsch &amp; R. Steffen</b></div><div data-bbox=\"271 287 911 513\" data-label=\"Text\">Hoch-, Tief- u. Eisenbetonbau,<br/>Litzmannstadt, Marburger Str. 4</div><div data-bbox=\"63 576 178 675\" data-label=\"Text\">14035</div><div data-bbox=\"303 507 891 740\" data-label=\"Text\"><b>Willy Keymer</b></div><div data-bbox=\"197 731 988 955\" data-label=\"Text\">Bauunternehmen, Hoch- u. Tiefbau,<br/>Eisenbeton- u. Straßenbau, Oststraße 65</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"305 37 697 292\"}, {\"label\": \"Text\", \"bbox\": \"188 348 806 485\"}, {\"label\": \"Text\", \"bbox\": \"122 519 871 736\"}, {\"label\": \"Text\", \"bbox\": \"297 753 695 915\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"34 75 967 279\" data-label=\"Text\"><p><b>Franz Thöß &amp; Co.</b></p></div><div data-bbox=\"103 333 900 520\" data-label=\"Text\"><p><b>Bauunternehmung</b></p></div><div data-bbox=\"107 535 900 707\" data-label=\"Text\"><p><b>Hoch-, Tief- und Eisenbetonbau</b></p></div><div data-bbox=\"127 727 882 824\" data-label=\"Text\"><p><b>Litzmannstadt, Adolf-Hitler-Str. 165/10</b></p></div><div data-bbox=\"302 839 702 938\" data-label=\"Text\"><p><b>Fernsprecher 146 14</b></p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Wadde &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Löbau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 750 261 977\" data-label=\"Text\"><p><b>Betonbau)</b></p></div><div data-bbox=\"431 750 787 953\" data-label=\"Text\"><p>(Branchenteil) 169</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      },
+      {
+        "region_name": "Lüdenscheid.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "| Luxemburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"47 57 746 407\"}, {\"label\": \"Text\", \"bbox\": \"74 476 723 601\"}, {\"label\": \"Text\", \"bbox\": \"254 641 532 713\"}, {\"label\": \"Text\", \"bbox\": \"88 752 693 839\"}, {\"label\": \"Text\", \"bbox\": \"262 864 522 937\"}]",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mainz.",
+        "entries": []
+      },
+      {
+        "region_name": "Mallersdorf (Niederbay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Mastholte (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Meiningen (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Memel.",
+        "entries": []
+      },
+      {
+        "region_name": "Metz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Mangin &amp; Söhne, Ing.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Metzingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Minden (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Mülhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"113 46 659 250\" data-label=\"Text\"><p><b>Ed. M. Nitsch</b></p></div><div data-bbox=\"260 299 516 437\" data-label=\"Text\"><p><b>G. m. b. H.</b></p></div><div data-bbox=\"195 463 583 545\" data-label=\"Text\"><p><b>Beton- und Eisenbetonbau</b></p></div><div data-bbox=\"153 588 616 753\" data-label=\"Text\"><p><b>Mülhausen (Elsaß)</b></p></div><div data-bbox=\"285 757 491 837\" data-label=\"Text\"><p><b>Adlerstraße 7</b></p></div><div data-bbox=\"260 869 516 964\" data-label=\"Text\"><p><b>Fernsprecher 661</b></p></div>",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"483 50 528 227\" data-label=\"Page-Header\">22</div>",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  }
+]

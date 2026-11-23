@@ -1,0 +1,450 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"256 735 608 945\" data-label=\"Text\"><p>572 (Branchenteil)</p></div><div data-bbox=\"770 727 998 915\" data-label=\"Text\"><p>4789. R</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 11 994 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>56 08 59</td>\n<td>Müller, Max, <i>Weiβ</i> Berliner Allee 233</td>\n</tr>\n<tr>\n<td>(12 43 43)</td>\n<td>Müller, Dr. S., W 8, U. d. Linden 23</td>\n</tr>\n<tr>\n<td>93 21 22</td>\n<td>Müller, Ulrich, [N], <i>Chb</i> Ad.-Hitler-Pl. 6</td>\n</tr>\n<tr>\n<td>62 47 90</td>\n<td>Müller, Wilhelm, [N], <i>Neuk</i> Bergstr. 113</td>\n</tr>\n<tr>\n<td>11 08 31</td>\n<td>Müller-Beckedorff, Dr. E., W 8, U.d.Ld.39</td>\n</tr>\n<tr>\n<td>31 98 95</td>\n<td>Müller-Engelhardt, Dr. Hans, [N], <i>Chb</i> 2,<br/>Uhlandstr. 7</td>\n</tr>\n<tr>\n<td>25 66 24</td>\n<td>Müller-Hoff, Werner, W 30, M.Lutherstr.21</td>\n</tr>\n<tr>\n<td>35 30 29</td>\n<td>Müller-Stromeyer, H., [N], NW 40, Alt-<br/>Moabit 123</td>\n</tr>\n<tr>\n<td>99 19 82</td>\n<td>Müllerburg, W., [St], <i>Chb</i> 9, Reichsstr. 30</td>\n</tr>\n<tr>\n<td>71 17 55</td>\n<td>Münch, Dr. H., [N], <i>Schl</i> Am Park 7</td>\n</tr>\n<tr>\n<td>37 64 33</td>\n<td>Münch, Dr. Richard, <i>Spd</i> Carl-Schurz-<br/>Straße 39</td>\n</tr>\n<tr>\n<td>16 16 57</td>\n<td>Münchmeyer, Dr.C.E., W 8, Leipz.Str.39</td>\n</tr>\n<tr>\n<td>19 20 54</td>\n<td>Münster, Dr.K., [N], W 9, KöthenerStr.38</td>\n</tr>\n<tr>\n<td>11 29 30</td>\n<td>Müntzel, Dr. Hans, [N], W 8, Kronenstr. 6</td>\n</tr>\n<tr>\n<td>19 15 62</td>\n<td>Mütze, Dr. Heinz, SW 11, Bernb.Str. 13</td>\n</tr>\n<tr>\n<td>91 41 18</td>\n<td>Mundhenke, Dr.Rud., W ",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"259 0 998 986\" data-label=\"Text\">\n<table>\n<tbody>\n<tr>\n<td>52 04 74</td>\n<td>Nast, Albert, [N], C 2, Alexanderstr. 3</td>\n</tr>\n<tr>\n<td>24 74 24</td>\n<td>Nath, Dr. Herb., W 62, Kurf.Str. 101</td>\n</tr>\n<tr>\n<td>24 74 24</td>\n<td>Nath-Schreiber, Dr.Agnes, W 62, Kurf.<br/>Straße 101</td>\n</tr>\n<tr>\n<td>11 58 72</td>\n<td>Naue, Dr. Erich, W 8, U. d. Linden 43</td>\n</tr>\n<tr>\n<td>41 06 24</td>\n<td>Naue, Dr.Friedr., [N], NW 7, Friedr.Str.108</td>\n</tr>\n<tr>\n<td>80 41 68</td>\n<td>Nebel, Dr. Wilh., <i>KlMn</i> Heidefeld 45</td>\n</tr>\n<tr>\n<td>93 32 55</td>\n<td>Nebelsieck, Dr. O., [N], <i>Chb</i> 9, Kaiserd. 74</td>\n</tr>\n<tr>\n<td>71 66 77</td>\n<td>Nehls, Dr. F., [N], <i>Schb</i> Berchtesgadener<br/>Straße 27</td>\n</tr>\n<tr>\n<td>49 50 80</td>\n<td>Nemitz, W., <i>Witt</i> Oranienb.Str. 205</td>\n</tr>\n<tr>\n<td>26 13 05</td>\n<td>Nernst, Viktor, W 30, Bamb.Str. 39</td>\n</tr>\n<tr>\n<td>91 63 66</td>\n<td>Netzker, Dr. R., [N], <i>Chb</i> Grolmanstr. 36</td>\n</tr>\n<tr>\n<td>11 39 25</td>\n<td>Neubert, Dr. Reinh., [St/N], NW 7, U. d.<br/>Linden 38</td>\n</tr>\n<tr>\n<td>93 12 87</td>\n<td>Neuendorf, Karl, <i>Grw</i> Falterweg 29</td>\n</tr>\n<tr>\n<td>11 59 00</td>\n<td>Neugebauer, Kurt, NW 7, U. d. Linden 34</td>\n</tr>\n<tr>\n<td>(99 12 31)</td>\n<td>Neuhaus, Georg, <i>Chb</i> 9, Kastan.-Allee 22</td>\n</tr>\n<tr>\n<td>34 84 75</td>\n<td>Neumann, Dr. Erich,",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 0 993 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>11 67 55</td>\n<td>Neumann, Dr. K., [N], W 8, Behrenstr. 14</td>\n</tr>\n<tr>\n<td>22 17 95</td>\n<td>Neumann, Dr. Rud., W 35, Potsd. Str. 119</td>\n</tr>\n<tr>\n<td>(24 67 59)</td>\n<td>Neumann, Ulrich, W 50, Nürnbg. Str. 3</td>\n</tr>\n<tr>\n<td>91 74 53</td>\n<td>Neumann, Wilh., W 50, Kurf.-Damm 16</td>\n</tr>\n<tr>\n<td>91 07 27</td>\n<td>Neye, Dr. Walther, W 50, Kurf.-Damm 229</td>\n</tr>\n<tr>\n<td>24 24 44</td>\n<td>Nichterlein, W., W 50, Spichernstr. 15</td>\n</tr>\n<tr>\n<td>12 18 82</td>\n<td>Nicolai, Heinz, W 8, Behrenstr. 24</td>\n</tr>\n<tr>\n<td>25 29 48</td>\n<td>Niemann, Dr. Walther, [N], W 15, Kaiser-<br/>allee 203</td>\n</tr>\n<tr>\n<td>71 90 80</td>\n<td>Niemetz, Dr. G., [N], <i>Schb</i> M. Lutherstr. 60</td>\n</tr>\n<tr>\n<td>92 69 68</td>\n<td>Nitschke, Dr. E., W 15, Bayer. Str. 31</td>\n</tr>\n<tr>\n<td>16 22 69</td>\n<td>Noack, Dr. Erw., [N], W 8, U.d. Linden 10</td>\n</tr>\n<tr>\n<td>52 25 60</td>\n<td>Nölke, K. H., C 2, Alexanderstr. 37</td>\n</tr>\n<tr>\n<td>25 71 64</td>\n<td>Noisten, Dr. F., [N], W 30, Bayer. Pl. 12</td>\n</tr>\n<tr>\n<td>99 37 77</td>\n<td>Nolte, Werner, <i>Chb</i> 9, An der Heerstr. 82</td>\n</tr>\n<tr>\n<td>21 09 72</td>\n<td>v. Nordenflycht, W., Frhr., [N], W 35, Vik-<br/>toriastr. 32</td>\n</tr>\n<tr>\n<td>26 36 68</td>\n<td>v. Nordenflycht, W., W 30, Stübbenstr. 1</td>\n</tr>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"264 0 996 987\" data-label=\"Text\"><table><tbody><tr><td>22 56 24</td><td><b>Nudell, Dr.Ferd.,</b> [N], W 35, Bülowstr.89</td></tr><tr><td>87 73 02</td><td><b>Nückell, Dr. W.,</b> <i>Wilm</i> Rudolst. Str. 11</td></tr><tr><td>21 16 04</td><td><b>Nünninghoff,Dr.R.,</b> [N], W 35,Potsd.Str.59</td></tr><tr><td>91 33 23</td><td><b>v.Oertzen, H.J.,</b> W 15, Hohenz.Damm 7</td></tr><tr><td>91 77 49</td><td><b>Oesterhelt, Dr.Curt,</b> W 15, Kurf.D. 199</td></tr><tr><td>16 05 36</td><td><b>Ohse, C. Herm.,</b> [N], NW 7, Frdr.Str.103</td></tr><tr><td>21 23 56</td><td><b>d'Oleire, Dr. H.,</b> [St/N], W 35, Potsd.Str.93</td></tr><tr><td>96 18 81</td><td><b>Opitz, Dr. Georg,</b> <i>Hal</i> Küstriner Str. 3</td></tr><tr><td>12 18 95</td><td><b>Oppermann, Hans,</b> [N], W 8, Charl.Str.56</td></tr><tr><td>37 30 73</td><td><b>Orschel, Otto,</b> <i>Spd</i> Seeburger Str. 94</td></tr><tr><td>84 25 49</td><td><b>Osterrieth, Dr. Arm.,</b> <i>Zehl</i> Andréezeile 65</td></tr><tr><td>22 77 01</td><td><b>Otte, Dr.Fritz,</b> [N], W 35, Potsd.Str. 76</td></tr><tr><td>92 38 39</td><td><b>Otto, Dr.E.,</b> [N], W 15, Kurf.Damm 38</td></tr><tr><td>12 66 16</td><td><b>Paatsch, Dr. R.,</b> [St], W 8, U. d. Linden 71</td></tr><tr><td>71 97 27</td><td><b>Pabst, Gerhard,</b> <i>Schb</i> Akazienstr. 31</td></tr><tr><td>53 24 37</td><td><b>Panzer, Georg,</b> NO 55, Prenzl. Allee 50</td></tr><tr><td>12 40 04</td",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"264 0 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>84 07 71</td>\n<td>v.Pechmann, Dr. Frhr. Fritz, <i>Zehl</i> Am Schlachtensee 4</td>\n</tr>\n<tr>\n<td>91 72 34</td>\n<td>Pelckmann, Horst, W 15, Kurf.Damm 26a</td>\n</tr>\n<tr>\n<td>86 51 52</td>\n<td>Peltzer, Dr. Alfred, <i>Wilm</i> Güntzelstr. 14</td>\n</tr>\n<tr>\n<td>21 18 76</td>\n<td>Pengel, Dr. G., W 35, Tiergartenstr. 2b</td>\n</tr>\n<tr>\n<td>41 30 66</td>\n<td>Perkuhn, Dr.Wendt, N 54, Rosenth.Str.14</td>\n</tr>\n<tr>\n<td>(19 49 19)</td>\n<td>Perlick, Wilh., SW 11, Hall.Ufer 10</td>\n</tr>\n<tr>\n<td>27 51 02</td>\n<td>Peschke, Dr.K., [N], W 30, Nollend.-Pl.7</td>\n</tr>\n<tr>\n<td>31 46 42</td>\n<td>Peter, Dr.Karl, [St], <i>Chb</i> Savignypl. 9</td>\n</tr>\n<tr>\n<td>25 03 41</td>\n<td>Peters, Dr. Fritz, W 62, Lutherstr. 40</td>\n</tr>\n<tr>\n<td>(91 01 95)</td>\n<td>Petersen, Dr. W., W 15, Kurf.Damm 22</td>\n</tr>\n<tr>\n<td>37 55 21</td>\n<td>Pett, Herm., [St], <i>Spd</i> Ruhlebener Str. 4</td>\n</tr>\n<tr>\n<td>72 57 27</td>\n<td>Petzold, Hugo, <i>Stegl</i> Althoffpl. 6</td>\n</tr>\n<tr>\n<td>(17 49 01)</td>\n<td>Petzoldt, Dr. Herm., SW 68, Kochstr. 22</td>\n</tr>\n<tr>\n<td>31 25 98</td>\n<td>Plankuch, Otto, [N], <i>Chb</i> Kneseb. Str. 18</td>\n</tr>\n<tr>\n<td>88 51 08</td>\n<td>Pfeffer, Dr. R., [St], <i>Frdn</i> Rubensstr. 68</td>\n</tr>\n<tr>\n<td>12 44 88</td>\n<td>Pfeiffer, Dr. Albert, W 8, Mauerstr. 68</td>\n</tr>\n<tr>\n",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"261 0 997 962\" data-label=\"Text\"><table><tbody><tr><td>26 03 32</td><td><b>Pfuhl, Georg, [N], W 30, Motzstr. 22</b></td></tr><tr><td>48 54 22</td><td><b>Pfuhlmann, Werner, Pko Breite Str. 39a</b></td></tr><tr><td>24 14 54</td><td><b>Philipowski, Dr. O., W 50, Prager Str. 15</b></td></tr><tr><td>27 31 15</td><td><b>Philipp, Walt., W-30, Nollend.-Str. 15</b></td></tr><tr><td>(31 88 66)</td><td><b>Plicht, Hermann, Chb 2, Bism.Str. 107</b></td></tr><tr><td>62 18 70</td><td><b>Pickert, Dr. K., Neuk Braun.Str. 3</b></td></tr><tr><td>24 09 01</td><td><b>Pierau, Wilh., [N], W 50, Tauentz.Str. 7</b></td></tr><tr><td>91 32 36</td><td><b>Pies, Carl D., [St/N], W 15, Kurf.D. 220</b></td></tr><tr><td>44 89 48</td><td><b>Piesker, Otto, Pko Berliner Str. 19a</b></td></tr><tr><td>99 52 52</td><td><b>Pietsch, Walter, [St], Chb 9, Reichsstr. 25</b></td></tr><tr><td>73 36 44</td><td><b>Pietsch, Walter, [St], Ltf Devrientweg 32</b></td></tr><tr><td>(45 30 31)</td><td><b>Piltz, Rudolf, N 4, Invalidenstr. 1</b></td></tr><tr><td>39 19 10</td><td><b>Pinski, Dr. Walter, NW 87, Tile-Warden-<br/>berg-Str. 13</b></td></tr><tr><td>25 03 04</td><td><b>Pinzger, Dr. Eberh., W 62, Burggr.Str. 19</b></td></tr><tr><td>19 11 18</td><td><b>Pinzger, Dr. G., SW 61, Tempelh. Ufer 3</b></td></tr><tr><td>12 23 34</td><td><b>Piontek, Hans Otto, W 8, Mohrenstr. 51</b></td></tr><tr><td>27 26 60</td><td><b>Piskorz, Erich, W 35, Winterfeldtstr. 2</b></td></tr><tr><td>24 19 56</td><td><b",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory (Reichstelefonbuch). It contains no text or other markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 726 388 921\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 13 993 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>96</td>\n<td>34</td>\n<td>08</td>\n<td>Plasch, Dr. Rich., Chb 4, Dahlmannstr. 34</td>\n</tr>\n<tr>\n<td>83</td>\n<td>42</td>\n<td>50</td>\n<td>Plate, Armin, [N], Frdn Südwestk. 67</td>\n</tr>\n<tr>\n<td>75</td>\n<td>30</td>\n<td>60</td>\n<td>Plenske, Rich., [N], Süd Attilastr. 83</td>\n</tr>\n<tr>\n<td>71</td>\n<td>24</td>\n<td>46</td>\n<td>Pleuss, Dr. Wilh., Schb Nymphenb. Str. 11</td>\n</tr>\n<tr>\n<td>(24</td>\n<td>42</td>\n<td>34)</td>\n<td>Plöger, Johs., W 50, Ansbacher Str. 19</td>\n</tr>\n<tr>\n<td>25</td>\n<td>01</td>\n<td>23</td>\n<td>Plugge, Dr. W., [N], W 50, Achenb. Str. 9</td>\n</tr>\n<tr>\n<td>32</td>\n<td>32</td>\n<td>21</td>\n<td>Plugge, Dr. W., [N], Chb 2, Sophienstr. 13</td>\n</tr>\n<tr>\n<td>71</td>\n<td>84</td>\n<td>01</td>\n<td>Pohl, Dr. E., [N], Schb Kolonnenstr. 48</td>\n</tr>\n<tr>\n<td>19</td>\n<td>72</td>\n<td>52</td>\n<td>Pohl, Dr. Hans, SW 68, Wilhelmstr. 16</td>\n</tr>\n<tr>\n<td>91</td>\n<td>74</td>\n<td>11</td>\n<td>Polzin, Eugen, W 15, Kurfürstend. 29</td>\n</tr>\n<tr>\n<td>19</td>\n<td>21</td>\n<td>18</td>\n<td>Ponderf, Dr. H.-J., SW 11, Bernb. Str. 34</td>\n</tr>\n<tr>\n<td>91</td>\n<td>86</td>\n<td>46</td>\n<td>Ponflick, Dr., Chb 2, Fasanenstr. 76</td>\n</tr>\n<tr>\n<td>16</td>\n<td>63</td>\n<td>01</td>\n<td>Pormann, Felix, NW 7, Friedrichstr. 103</td>\n</tr>\n<tr>\n<td>12</td>\n<td>18</td>\n<td>03</td>\n<td>Pott, Dr. Otto, [",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"18 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>30</td>\n<td>20</td>\n<td>48</td>\n<td>Primus, Dr. Herbert, <i>Chb</i> 5, Schloßstr. 47</td>\n</tr>\n<tr>\n<td>73</td>\n<td>02</td>\n<td>87</td>\n<td>Probst, P., [N], <i>Ltf</i> Baseler Str. 10</td>\n</tr>\n<tr>\n<td>42</td>\n<td>14</td>\n<td>77</td>\n<td>Pröll, Rud., [N], N 4, Inval.Str. 111</td>\n</tr>\n<tr>\n<td>64</td>\n<td>07</td>\n<td>30</td>\n<td>Prümers, Erwin, [N], <i>Köp</i> Puchaustr. 17</td>\n</tr>\n<tr>\n<td>11</td>\n<td>27</td>\n<td>42</td>\n<td>Pünder, Dr. W., [N], W8, Kronenstr. 3</td>\n</tr>\n<tr>\n<td>19</td>\n<td>33</td>\n<td>63</td>\n<td>Pürschel, Dr. J., [N], SW11, Hall.Uf. 36</td>\n</tr>\n<tr>\n<td>87</td>\n<td>67</td>\n<td>88</td>\n<td>Puhlmann, Alfred, [N], <i>Wilm</i> Kaiserpl. 7</td>\n</tr>\n<tr>\n<td>71</td>\n<td>81</td>\n<td>28</td>\n<td>Punge, Rob., [N], <i>Schb</i> Innsbr. Str. 56</td>\n</tr>\n<tr>\n<td>73</td>\n<td>20</td>\n<td>71</td>\n<td>Pungs, Dr. Otto, <i>Ltf</i> An der Schäferei 8</td>\n</tr>\n<tr>\n<td>35</td>\n<td>26</td>\n<td>60</td>\n<td>Puppe, Dr. Siegf., [N], NW 40, Rath.Str. 3</td>\n</tr>\n<tr>\n<td>71</td>\n<td>56</td>\n<td>27</td>\n<td>Purper, Dr. G., [N], <i>Schb</i> M.-Luth.-Str. 27</td>\n</tr>\n<tr>\n<td>46</td>\n<td>31</td>\n<td>55</td>\n<td>Puthz, Martin, [N], N 65, Müllerstr. 6</td>\n</tr>\n<tr>\n<td>39</td>\n<td>04</td>\n<td>86</td>\n<td>v. Quistorp, Dr. Alexander, NW 87, Händelallee 16</td>\n</tr>\n<tr>\n",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>25 34 83</td>\n<td>Ramlau, Dr. Max, W 62, Bayreuther Str. 43</td>\n</tr>\n<tr>\n<td>11 08 31</td>\n<td>Rank, S., W 8, U. d. Linden 39</td>\n</tr>\n<tr>\n<td>12 36 45</td>\n<td>Ranke, Hans, W 8, Taubenstr. 35</td>\n</tr>\n<tr>\n<td>Sammel-Nr.</td>\n<td rowspan=\"2\">{ Justizrat Werner Ranz, Rechtsanwalt und Notar, Fachanwalt für Steuerrecht, Berlin W 35, Admiral-von-Schröder-Str. 8. P Berlin 49164</td>\n</tr>\n<tr>\n<td>25 41 14</td>\n</tr>\n<tr>\n<td>92 41 11</td>\n<td>Rau, Dr. Ferd., W 15, Darmstädt. Str. 10</td>\n</tr>\n<tr>\n<td>89 19 12</td>\n<td>Rauch, Dr. Brigitte, <i>Gro</i> Kronb. Str. 15</td>\n</tr>\n<tr>\n<td>69 04 93</td>\n<td>Raudszus, Dr. H., <i>Tmp</i> Burgh. Str. 3</td>\n</tr>\n<tr>\n<td>56 18 40</td>\n<td>Rausch, Dr. G., <i>Weiß</i> Berl. Allee 242</td>\n</tr>\n<tr>\n<td>97 82 11</td>\n<td>v. Rauschenplat, H., <i>Hal</i> Halberst. Str. 2</td>\n</tr>\n<tr>\n<td>22 10 92</td>\n<td>Rautenberg, Dr. H., W 62, Einemstr. 18</td>\n</tr>\n<tr>\n<td>21 94 16</td>\n<td>Rautmann, H. Günther, W 9, Bellevuestr. 5</td>\n</tr>\n<tr>\n<td>72 35 95</td>\n<td>Rebitzki, Dr. H., [N], <i>Stegl</i> Schloßstr. 88</td>\n</tr>\n<tr>\n<td>91 71 84</td>\n<td>Reh, Hans J., W 15, Joachimst. Str. 15</td>\n</tr>\n<tr>\n<td>85 30 70</td>\n<td>v. Rehbinder, A., [N], NW 40, Paulstr. 19</td>\n</tr>\n<tr>\n<td>(24 02 45)</td>\n<td>Rehm, Dr. Alban, W 50, Rankestr. 24</td>\n</tr>\n<tr>\n<td>26 29 13</td>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 992 986\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>37 19 89</td>\n<td><b>Reiling, Dr. E.,</b> <i>Spd</i> Weinm. Höhenw. 3</td>\n</tr>\n<tr>\n<td>21 34 66</td>\n<td><b>Reimer, Dr. Eduard,</b> W 62, Einemstr. 20</td>\n</tr>\n<tr>\n<td>27 22 87</td>\n<td><b>Reincke, Dr.,</b> [N], W 35, Bülowstr. 23</td>\n</tr>\n<tr>\n<td>25 47 67</td>\n<td><b>Reinefeld, Heinr.,</b> W 62, Keithstr. 4</td>\n</tr>\n<tr>\n<td>87 23 65</td>\n<td><b>Reinhardt, Dr. E.,</b> W 15, Düsseld.Str. 73</td>\n</tr>\n<tr>\n<td>87 65 05</td>\n<td><b>Reinholz, Joh.,</b> [St], <i>Wilm</i> Berl. Str. 104</td>\n</tr>\n<tr>\n<td>22 15 05</td>\n<td><b>Reinicke, Dr. C.,</b> [N], W 62, Kurf.Str. 57</td>\n</tr>\n<tr>\n<td>91 86 46</td>\n<td><b>Reinsch, Dr. Hans,</b> <i>Chb</i> 2, Fasanenstr. 77</td>\n</tr>\n<tr>\n<td>25 67 66</td>\n<td><b>Reisch, Gerh.,</b> W 30, Motzstr. 25</td>\n</tr>\n<tr>\n<td>11 17 19</td>\n<td><b>Reiter, Martin,</b> W 8, Jägerstr. 61</td>\n</tr>\n<tr>\n<td>24 33 11</td>\n<td><b>Remmicke, Dr. M.,</b> W 50, Regensb.Str. 13</td>\n</tr>\n<tr>\n<td>92 17 02</td>\n<td><b>Renner, Dr. Rud.,</b> W 15, Olivaer Pl. 10</td>\n</tr>\n<tr>\n<td>19 47 71</td>\n<td><b>Reschke, Dr. Joach.,</b> SW 11, Saarlandstr. 32</td>\n</tr>\n<tr>\n<td>93 45 63</td>\n<td><b>Rettkowski, Curt,</b> <i>Chb</i> 9, Kaiserdamm 31</td>\n</tr>\n<tr>\n<td>91 67 02</td>\n<td><b>Reuß, Herm.,</b> W 5",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 19 992 968\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>58 08 92</td>\n<td>Richter, Carl, [N], O 34, Warsch.Str. 1</td>\n</tr>\n<tr>\n<td>89 42 74</td>\n<td>Richter, Gerh., Grw Orberstr. 27</td>\n</tr>\n<tr>\n<td>11 44 72</td>\n<td>Richter, Dr. Gerh., W 8, Kronenstr. 4/5</td>\n</tr>\n<tr>\n<td>97 18 88</td>\n<td>Richter, Hans, Hal Kurf.Damm 139</td>\n</tr>\n<tr>\n<td>66 64 24</td>\n<td>Richter, Dr. Hans, SW29, Gneis.Str. 92</td>\n</tr>\n<tr>\n<td>80 54 07</td>\n<td>Richter, Dr. H., [N], Wzn Hohenz.-Str. 9</td>\n</tr>\n<tr>\n<td>91 17 61</td>\n<td>Richter, Hch., [N], W15, Meinekestr. 5</td>\n</tr>\n<tr>\n<td>(24 33 03)</td>\n<td>Richter, K., W 50, Rankestr. 34</td>\n</tr>\n<tr>\n<td>89 16 03</td>\n<td>v. Richter, Werner, Dahlem, Spohrstr. 8</td>\n</tr>\n<tr>\n<td>44 06 55</td>\n<td>Riebke, Kurt, N 4, Brunnenstr. 153</td>\n</tr>\n<tr>\n<td>51 26 48</td>\n<td>Riebold, Carl, [N], C 2, Alexanderstr. 11</td>\n</tr>\n<tr>\n<td>59 30 16</td>\n<td>Riecke, Dr. H., [N], NO 18, Landsb.Pl. 2</td>\n</tr>\n<tr>\n<td>21 26 26</td>\n<td>Riecke, Dr. Karl-H., W 35, Kurf.Str. 27</td>\n</tr>\n<tr>\n<td>59 38 94</td>\n<td>Riegel, Arthur, C 2, Holzmarktstr. 59</td>\n</tr>\n<tr>\n<td>24 83 88</td>\n<td>Rieger, Dr. K., [N], W 50, Nürnbn.Str. 64</td>\n</tr>\n<tr>\n<td>24 02 14</td>\n<td>Riehl, Dr. Karl, [St/N], W 50, Marb.Str. 3</td>\n</tr>\n<tr>\n<td>25 95 61</td>\n<td>Rienhardt, Rolf, W 35, Graf-Spec-Str. 20</td>\n</tr>\n<tr>\n<td>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 965\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>26 19 93</td>\n<td>Rinke, Arwed, [St], W 50, Eislebener Str. 15</td>\n</tr>\n<tr>\n<td>(92 69 68)</td>\n<td>Ristow, Dr. Erich, W 15, Bayr. Str. 31</td>\n</tr>\n<tr>\n<td>(12 58 48)</td>\n<td>Ritter, Dr. Gerh., NW 7, Mittelstr. 55</td>\n</tr>\n<tr>\n<td>91 20 00</td>\n<td>Ritter, Dr. Wilh., W 15, Kurf. Damm 214</td>\n</tr>\n<tr>\n<td>24 01 28</td>\n<td>Rive, Dr. G., [N], W 50, Tauentz. Str. 13</td>\n</tr>\n<tr>\n<td>91 03 17</td>\n<td>Rockstroh, Dr. F., [N], W 15, Mein. Str. 24</td>\n</tr>\n<tr>\n<td>25 70 04</td>\n<td>Rode, Dr. Ernst, [St], W 62, Kleiststr. 27</td>\n</tr>\n<tr>\n<td>62 40 37</td>\n<td>Rodeck, Georg, <i>Neuk</i> Braunauer Str. 116</td>\n</tr>\n<tr>\n<td>(91 35 36)</td>\n<td>Roeder, Kurt, W 15, Meinekestr. 4</td>\n</tr>\n<tr>\n<td>89 47 49</td>\n<td>Römer, Karl, <i>Grü</i> Fontanestr. 21</td>\n</tr>\n<tr>\n<td>92 29 26</td>\n<td>Roemer, Dr. Otto, W 15, Kurf. Damm 169</td>\n</tr>\n<tr>\n<td>71 01 54</td>\n<td>Roemheld, Karl, <i>Schb</i> Badensche Str. 6</td>\n</tr>\n<tr>\n<td>99 52 95</td>\n<td>Roer, Dr. Max, <i>Chb</i> 9, Hessenallee 9</td>\n</tr>\n<tr>\n<td>24 33 66</td>\n<td>Rössler, Dr. Gg., W 30, Geisbergstr. 34</td>\n</tr>\n<tr>\n<td>32 32 21</td>\n<td>Roethe, Dr. Eberh., <i>Chb</i> 2, Sophienstr. 13</td>\n</tr>\n<tr>\n<td>75 75 55</td>\n<td>Rogge, Dr. Heinr., <i>Süd</i> Borstellstr. 1</td>\n</tr",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or the back of a document from a 1942 German telephone directory.\"/>This image is a blank white page. It appears to be a separator or the back of a document from a 1942 German telephone directory (Reichstelefonbuch). There are no visible markings, text, or images on the page.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 12 998 993\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>25</td><td>19</td><td>54</td><td>Ropertz, Dr. H., W 30, Motzstr. 25</td></tr>\n<tr>\n<td>99</td><td>29</td><td>60</td><td>v. Rose, Dr. Hans, <i>Chb</i> 9, Neuer Fürstenbrunner Weg 10</td></tr>\n<tr>\n<td>16</td><td>19</td><td>18</td><td>Rosener, Dr. G., NW 7, Friedrichstr. 93</td></tr>\n<tr>\n<td>34</td><td>46</td><td>66</td><td>Rosenthal, H. G., <i>Chb</i> 2, Berl. Str. 154</td></tr>\n<tr>\n<td>11</td><td>74</td><td>51</td><td>Rost, Dr. H., [N], W 8, Friedrichstr. 171</td></tr>\n<tr>\n<td>25</td><td>03</td><td>49</td><td>Roth, Dr. Alfons, W 30, Geisbergstr. 40</td></tr>\n<tr>\n<td>16</td><td>25</td><td>07</td><td>Roth, Dr. Hans, [N], C 2, Leipz.Str. 83</td></tr>\n<tr>\n<td>11</td><td>27</td><td>12</td><td>Rothe, Dr. Fried., [N], W 8, Mohrenstr. 10</td></tr>\n<tr>\n<td>76</td><td>45</td><td>92</td><td>Rothe, Dr. Gerhart, <i>Dahl</i> Altenst. Str. 58</td></tr>\n<tr>\n<td>(11</td><td>15</td><td>26)</td><td>Rothe, Dr. Reinh., W 8, U. d. Linden 71</td></tr>\n<tr>\n<td>(16</td><td>10</td><td>60)</td><td>Rückbeil, Dr. Wern., W 8, Krausenstr. 15</td></tr>\n<tr>\n<td>25</td><td>97</td><td>31</td><td>Rüdiger, Dr. Gg., W 50, Hardenb.Str. 29a</td></tr>\n<tr>\n<td>21</td><td>23</td><td>56</td><td>Rümelin, Alfred, [N], W 35, Potsd. Str. 93</td></tr>\n<tr>\n<td>99</td><td>52</td><td>98</td><td>v. Rützen-Kositzka, <i>Norb.</i>, <i>Chb</i> 9, Olympische Str. 12</td></tr>\n<tr>\n<td>87</td",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"19 0 998 990\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>25 72 49</td>\n<td><b>Runge, Dr. K.,</b> [St], W 62, Kleiststr. 22</td>\n</tr>\n<tr>\n<td>51 28 15</td>\n<td><b>Runge, Wilhelm,</b> C 2, Memhardstr. 20</td>\n</tr>\n<tr>\n<td>19 25 12</td>\n<td><b>Rusch, Otto,</b> SW 11, Saarlandstr. 103</td>\n</tr>\n<tr>\n<td>66 39 58</td>\n<td><b>Rusitzka, Dr. H.,</b> <i>Temp</i> Wintgensstr. 8</td>\n</tr>\n<tr>\n<td>35 50 16</td>\n<td><b>Rutkowski, Dr. H.,</b> [St], NW 40, Helgol.<br/>Ufer 7</td>\n</tr>\n<tr>\n<td>21 05 42</td>\n<td><b>Sacha, Dr. Ernst,</b> W 35, Potsd. Str. 63</td>\n</tr>\n<tr>\n<td>86 33 86</td>\n<td><b>Sachs, Ernst,</b> [N], <i>Wilm</i> Helmst. Str. 2</td>\n</tr>\n<tr>\n<td>11 02 06</td>\n<td><b>Sachse, Dr. Walter,</b> [St/N], SW 68, Friedrichstr. 206</td>\n</tr>\n<tr>\n<td>93 66 26</td>\n<td><b>Sack, Dr. Alf.,</b> [N], <i>Chb</i> 5, K. Fischerstr. 4</td>\n</tr>\n<tr>\n<td>87 63 73</td>\n<td><b>Saenger, Dr. Léon,</b> <i>Wilm</i> Prinzreg.-Str. 1</td>\n</tr>\n<tr>\n<td>91 70 27</td>\n<td><b>Salbach, Hch.,</b> [St], W 15, Uhlandstr. 28</td>\n</tr>\n<tr>\n<td>92 73 69</td>\n<td><b>v. Saldern, W. D.,</b> [St], W 15, Uhl.Str. 146</td>\n</tr>\n<tr>\n<td>93 40 63</td>\n<td><b>Salpeter, Dr. W.,</b> <i>Groß</i> Falterweg 36</td>\n</tr>\n<tr>\n<td>21 46 56</td>\n<td><b>Sanden, Dr. A.,</b> [N], W 35, Flottwellstr. 7</td>\n</tr>\n<tr>\n<td>(16 10 60)</td>\n<td><b>Sandstein, Achim",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 17 992 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>87</td>\n<td>22</td>\n<td>05</td>\n<td>Sauermann, Dr. Rud., Wilm Berl. Str. 6</td>\n</tr>\n<tr>\n<td>88</td>\n<td>27</td>\n<td>53</td>\n<td>v. Savigny, F. C., Wilm Südwestk. 20</td>\n</tr>\n<tr>\n<td>21</td>\n<td>11</td>\n<td>22</td>\n<td>Schade, Dr. W., [N], W 35, G.Spee-Str. 15</td>\n</tr>\n<tr>\n<td>84</td>\n<td>82</td>\n<td>38</td>\n<td>Schäfer, Dr. Ad., Schlse Schönererz. 17</td>\n</tr>\n<tr>\n<td>19</td>\n<td>12</td>\n<td>62</td>\n<td>Schäfer Dr. Ernst, SW 11, Hall.Str. 17</td>\n</tr>\n<tr>\n<td>31</td>\n<td>77</td>\n<td>04</td>\n<td>Schäfer, Dr. G., Chb 4, Bismarckstr. 91</td>\n</tr>\n<tr>\n<td>(91</td>\n<td>18</td>\n<td>33)</td>\n<td>Schäfer, Dr. H., W 15, Kurf.Damm 202</td>\n</tr>\n<tr>\n<td>97</td>\n<td>39</td>\n<td>41</td>\n<td>Schaefer, Jochen K., Chb 4, Sybelstr. 53</td>\n</tr>\n<tr>\n<td>73</td>\n<td>05</td>\n<td>04</td>\n<td>Schaper, Dr. C., [N], Lt/ Hind.D. 136</td>\n</tr>\n<tr>\n<td>(99</td>\n<td>62</td>\n<td>31)</td>\n<td>Schappach, Dr. Alb., Chb 9, Kaiserd. 49</td>\n</tr>\n<tr>\n<td>26</td>\n<td>54</td>\n<td>21</td>\n<td>Scharnhoop, G., [St], W 30, Barbar.Str. 52</td>\n</tr>\n<tr>\n<td>97</td>\n<td>48</td>\n<td>39</td>\n<td>Schattauer, Ernst, Hal Westf. Str. 38</td>\n</tr>\n<tr>\n<td>51</td>\n<td>13</td>\n<td>13</td>\n<td>Schattenberg, H., C 2, N.Königstr. 52</td>\n</tr>\n<tr>\n<td>64</td>\n<td>07</td>\n<td>28</td>\n<td>Schaub, Gerhard, Köp",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 990\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>84 31 37</td>\n<td><b>Scheffler, Dr. E.</b>, <i>Zehl</i> Kaunstr. 2</td>\n</tr>\n<tr>\n<td>73 32 67</td>\n<td><b>Scheller, Emil</b>, <i>Ltf</i> Carstennstr. 42a</td>\n</tr>\n<tr>\n<td>99 30 05</td>\n<td><b>Schenk, Dr. Herb.</b>, <i>Chb</i> 9 Westendall. 57</td>\n</tr>\n<tr>\n<td>87 14 08</td>\n<td><b>Schenke, Dr. Herb.</b>, <i>Wilm</i> Mansf. Str. 34</td>\n</tr>\n<tr>\n<td>49 34 49</td>\n<td><b>Scherbius, Dr. O.</b>, [N], <i>Rei</i> O Amendestr. 109</td>\n</tr>\n<tr>\n<td>41 30 43</td>\n<td><b>Scherk, Arn.</b>, [N], N 4, Chausseestr. 22</td>\n</tr>\n<tr>\n<td>91 31 78</td>\n<td><b>Schermann, Dr. Gg.</b>, W 15, Kurfürstend. 36</td>\n</tr>\n<tr>\n<td>89 39 97</td>\n<td><b>Scherner, Dr. Fritz</b>, <i>Smqd</i> Bork. Str. 13</td>\n</tr>\n<tr>\n<td>11 43 86</td>\n<td><b>Scheuermann, Dr. Fritz</b>, [N], SW 68, Friedr.-Str. 208</td>\n</tr>\n<tr>\n<td>73 78 52</td>\n<td><b>Scheuring, Dr. Hans</b>, <i>Ltf</i> Salz. Pfad 27</td>\n</tr>\n<tr>\n<td>71 33 24</td>\n<td><b>Schieferdecker, Dr. G.</b>, <i>Schb</i> Nymphenb.-Straße 9</td>\n</tr>\n<tr>\n<td>(12 12 56)</td>\n<td><b>Schiemann, H.</b>, NW 7, H. Göring-Str. 24</td>\n</tr>\n<tr>\n<td>35 26 01</td>\n<td><b>Schikorski, Dr. A.</b>, NW 21, Bredowstr. 2</td>\n</tr>\n<tr>\n<td>17 03 42</td>\n<td><b>Schild, Dr. Herm.</b>, SW 68, Charl. Str. 86</td>\n</tr>\n<tr>\n<td>99 39 37</td>\n<td><b>Schilling",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"200 0 380 25\" data-label=\"Page-Header\"><p>ANNO 1942</p></div>\n<div data-bbox=\"10 20 990 115\" data-label=\"Text\"><p>24 24 44 <b>Schindler, Dr. Kurt</b>, [St/N], W 50, Spich.-Str. 15</p></div>\n<div data-bbox=\"10 115 990 165\" data-label=\"Text\"><p>84 27 35 <b>Schirdewahn, Dr. G.</b>, <i>Zehl</i> Forststr. 16</p></div>\n<div data-bbox=\"10 165 990 215\" data-label=\"Text\"><p>91 03 15 <b>Schirmacher, Dr. Onno</b>, W 15, Mein.Str. 26</p></div>\n<div data-bbox=\"10 215 990 265\" data-label=\"Text\"><p>97 27 47 <b>Schirmer, Dr. Hans</b>, [St], <i>Hal</i> Paulsb.Str. 9</p></div>\n<div data-bbox=\"10 265 990 315\" data-label=\"Text\"><p>67 18 32 <b>Schirmer, Wolffg.</b>, SW 68, Stallschr.Str. 5</p></div>\n<div data-bbox=\"10 315 990 365\" data-label=\"Text\"><p>37 62 37 <b>Schiwek, Herbert</b>, <i>Spd</i> Carl-Schurz-Str. 38</p></div>\n<div data-bbox=\"10 365 990 415\" data-label=\"Text\"><p>34 46 58 <b>Schlagowski, Dr. K.</b>, [N], <i>Chb</i> 1, Berl.Str 74</p></div>\n<div data-bbox=\"10 415 990 495\" data-label=\"Text\"><p>93 27 17 <b>Schlegel, Dr. Erich</b>, [St], <i>Chb</i> 9, Stülpn-Straße 2</p></div>\n<div data-bbox=\"10 495 990 545\" data-label=\"Text\"><p>21 13 55 <b>Schlenkhoff, F. W.</b>, [St], W 35, Kluckstr. 5</p></div>\n<div data-bbox=\"10 545 990 595\" data-label=\"Text\"><p>71 16 71 <b>Schlesmann, Dr. H.</b>, <i>Schb</i> Kol.-Str. 63</p></div>\n<div data-bbox=\"10 595 990 645\" data-label=\"Text\"><p>21 46 31 <b>Schleusener, Franz</b>, W 62, Einemstr. 6</p></div",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 964\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>71 92 02</td>\n<td><b>Schmidberger, Dr. M.,</b> <i>Schö</i> Nymphenburg.<br/>Straße 1</td>\n</tr>\n<tr>\n<td>79 47 19</td>\n<td><b>Schmidt, Erich,</b> <i>Stegl</i> Heimstättenweg 16</td>\n</tr>\n<tr>\n<td>11 19 52</td>\n<td><b>Schmidt, Dr. Gerh.,</b> W8, U. d. Linden 55</td>\n</tr>\n<tr>\n<td>76 01 74</td>\n<td><b>Schmidt, Dr. H.,</b> <i>Dahl</i> Harnackstr. 22</td>\n</tr>\n<tr>\n<td>87 40 57</td>\n<td><b>Schmidt, Dr. H. U.,</b> <i>Wilm</i> Landh. Str. 40</td>\n</tr>\n<tr>\n<td>21 40 90</td>\n<td><b>Schmidt, Dr. Hellmut,</b> W 35, Tirp. Ufer 84</td>\n</tr>\n<tr>\n<td>21 30 98</td>\n<td><b>Schmidt, Dr. K.,</b> [N], W 35, Potsd. Str. 116</td>\n</tr>\n<tr>\n<td>99 35 93</td>\n<td><b>Schmidt, Dr. K.,</b> [N], <i>Chb</i> Ebereschenaall. 28</td>\n</tr>\n<tr>\n<td>24 73 22</td>\n<td><b>Schmidt, Dr. M.,</b> [St], W 15, Kaiser-A. 213</td>\n</tr>\n<tr>\n<td>76 06 90</td>\n<td><b>Schmidt, Dr. R.,</b> [N], <i>Lt/</i> Tulpenstr. 5</td>\n</tr>\n<tr>\n<td>51 40 00</td>\n<td><b>Schmidt, Dr. Rud. E.,</b> C 2, Berolinahaus</td>\n</tr>\n<tr>\n<td>21 92 66</td>\n<td><b>Schmidt, Dr. Walter,</b> [N], W 35, Lützowufer 18</td>\n</tr>\n<tr>\n<td>Sammel-Nr.</td>\n<td rowspan=\"2\">\n<b>Schmidt, Dr. Walter,</b> Rechtsanwalt u. Notar, <b>Schröder, Dr. Gerhard,</b> Rechtsanwalt,<br/>\nBerlin W 35, Lützowufer 18. <b>P 28000</b>\n</td>\n</tr>\n<tr>\n<td>21 92 66</td>\n</tr>\n<tr>\n<td>85 27",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory.\"/>This image is a scan of a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely corresponding to a specific town or region that is not visible in this particular view.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 10 818 993\" data-label=\"Text\"><table><tbody><tr><td>76 29 70</td><td><b>Schmidt-Kievenow, Dr. Kurt</b>, <i>Dahl</i> Thielallee 26</td></tr><tr><td>83 67 71</td><td><b>Schmidt-Sodingen, Dr. H.</b>, <i>Frdn</i> Hauptstraße 72</td></tr><tr><td>22 26 17</td><td><b>Schmiedel, M.</b>, [N], W 35, Lützowstr. 91a</td></tr><tr><td>27 22 87</td><td><b>Schmiele, Dr. G.</b>, [N], W 35, Bülowstr. 23</td></tr><tr><td>71 34 39</td><td><b>Schmitz, Bruno</b>, <i>Schb</i> Hauptstr. 162</td></tr><tr><td>80 53 37</td><td><b>Schmitz, Dr. Hans</b>, <i>Nik</i> Cimb.-Str. 10</td></tr><tr><td>22 86 86</td><td><b>Schmitz-Lenders, Dr. H.</b>, W 35, Derflingerstr. 7</td></tr><tr><td>91 82 46</td><td><b>Schneider, Dr. Ernst</b>, <i>Chb</i> Kantstr. 164</td></tr><tr><td>37 10 17</td><td><b>Schneider, E.</b>, [N], <i>Spd</i> Breite Str. 56</td></tr><tr><td>39 12 87</td><td><b>Schneider, Hugo</b>, [N], NW 21, Stromstr. 64</td></tr><tr><td>21 22 67</td><td><b>Schneider, Dr. Kurt</b>, W 35, Potsd.Str. 41</td></tr><tr><td>50 09 38</td><td><b>Schneider, P.</b>, [N], <i>Krlsh</i> Tresk.-All. 97</td></tr><tr><td>91 75 10</td><td><b>Schneider, Rud.</b>, W 15, Uhlandstr. 171</td></tr><tr><td>91 81 11</td><td><b>Schneider, Dr. Wilhelm</b>, [N], W 15, Kneseb. Straße 63</td></tr><tr><td>92 26 13</td><td><b>Schnürpel, A.</b>, [N], W 15, Lietzenb.Str. 29</td></tr><tr><td>11 57 64</td><td><b>Schnurre, A.</b>, [N], NW 7, U. d. Linden 38</td></tr><tr><td>92 ",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 0 819 986\" data-label=\"Text\"><table><tbody><tr><td>85 16 31</td><td><b>Schoen, Gunth.</b>, <i>Zehl</i> Andreezeile 85</td></tr><tr><td>92 20 46</td><td><b>Schön, Dr. Wilh.</b>, [N], W 15, Hohenz.D. 207</td></tr><tr><td>99 24 50</td><td><b>Schönbrod, Leonh.</b>, <i>Chb</i> 9 Kaiserd. 44</td></tr><tr><td>52 46 00</td><td><b>Schönfeld, Dr. Heinz</b>, [St], C 2, Gontard-<br/>straße 2</td></tr><tr><td>39 21 92</td><td><b>Schöning, Dr. G.</b>, [N], NW 21, Alt-Moabit 90</td></tr><tr><td>12 42 38</td><td><b>Schönner, Kurt</b>, NW 7, U. d. Linden 38</td></tr><tr><td>58 34 09</td><td><b>Schönrock, E.</b>, [N], O 112, Frankf. All. 269</td></tr><tr><td>86 38 77</td><td><b>Schoettke, Joh.</b>, <i>Wilm</i> Sigm.-Str. 29</td></tr><tr><td>22 22 35</td><td><b>Scholle, Dr. Annemarie</b>, W 35, Derfl. Str. 5</td></tr><tr><td>22 22 35</td><td><b>Scholle, Clemens</b>, W 35, Derflingerstr. 5</td></tr><tr><td>21 11 22</td><td><b>Scholz, Dr. Eberh.</b>, W 35, G. Spee-Str. 15</td></tr><tr><td>91 82 46</td><td><b>Scholz Dr. F. Eberh.</b>, [St], <i>Chb</i> 2, Kantstr. 12</td></tr><tr><td>31 89 98</td><td><b>Scholz, Dr. Paul</b>, [St], <i>Chb</i> 2, Kneseb. Str. 12</td></tr><tr><td>58 18 60</td><td><b>Scholz, Dr. W.</b>, O 112, Boxh. Str. 60</td></tr><tr><td>89 41 13</td><td><b>Scholz, Dr. Werner</b>, <i>Gro</i> Hohenz.D. 123</td></tr><tr><td>21 27 50</td><td><b>Scholz, Wilh.</b>, [N], W 15, Woy",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"165 19 347 64\" data-label=\"Text\"><p>Stüilerstr. 7</p></div><div data-bbox=\"15 64 818 993\" data-label=\"List-Group\"><p>44 06 77 <b>Schröder, Albert</b>, N 20, Badstr. 57<br/>25 89 48 <b>Schröder, Dr. Fritz</b>, W 30, Motzstr. 58<br/>21 92 66 <b>Schröder, Dr. Gerhard</b>, W 35, Lützowuf. 18<br/>41 20 16 <b>Schröder, Dr. Max</b>, N 54, Rosent.Str. 57<br/>50 45 30 <b>Schubert, Dr. G.</b>, <i>Hhschö</i> Treskowstr. 1<br/>12 54 44 <b>Schubert, Dr. W.</b>, [St], W 8, Friedrichstr. 78<br/>34 45 54 <b>Schucht, Friedr.</b>, <i>Chb</i> 5, Pestal.Str. 57<br/>77 26 18 <b>Schülin, Erwin</b>, <i>Schö</i> Hauptstr. 5<br/>83 27 91 <b>Schürhoff, Dr. E.</b>, [N], <i>Wilm</i> Rüd. Pl. 4<br/>49 58 57 <b>Schürmann, Friedr.</b>, <i>Rei-O</i>, Marktstr. 3<br/>71 58 38 <b>Schütz, Dr. G.</b>, <i>Schö</i> SteinacherStr. 2<br/>84 27 19 <b>Schütz, Wilh.</b>, <i>Schlee</i> Ahrensh. Z. 48a<br/>31 77 77 <b>Schütze, Wolfr.</b>, <i>Chb</i> 4, K.Friedr.Str. 61<br/>48 45 15 <b>Schütze-Buzello, H.</b>, <i>Pko</i> Breite Str. 23<br/>34 01 82 <b>Schuhmann, Karl</b>, [N], <i>Chb</i> Berl. Str. 124<br/>91 39 42 <b>von der Schulenburg, Graf H.</b>, W 15,<br/>Knesebeckstr. 52<br/>67 32 20 <b>Schultz, Dr. W.</b>, J.-R., [N], SO 36, Köpe-<br/>nicker Str. 76.<br/>50 17 04 <b>Schultze, Kurt</b> <i>Kloch</i> Königs All 44</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 817 986\" data-label=\"Text\"><table><tbody><tr><td>91 72 40</td><td><b>Schultze, Dr. W.</b>, [St], <i>Chb</i> Mommsenstr. 2</td></tr><tr><td>24 05 92</td><td><b>Schulz, Erich</b>, [N], W 50, Budap.Str. 43</td></tr><tr><td>24 51 16</td><td><b>Schulz, Fritz</b>, [N], W 50, Tauentz.Str. 10</td></tr><tr><td>32 32 21</td><td><b>Schulz, Hans-Heinrich</b>, <i>Chb</i> 2, Sophien-<br/>straße 13</td></tr><tr><td>42 16 88</td><td><b>Schulz, Joach.</b>, C 2, Rosentaler Str. 42</td></tr><tr><td>21 26 50</td><td><b>Schulze, Herbert</b>, W 62, Einemstr. 16</td></tr><tr><td>71 13 00</td><td><b>Schulze, Karl E.</b>, <i>Schb</i> Reppichstr. 22</td></tr><tr><td>(16 10 41)</td><td><b>Schulze, Kurt</b>, [St], W 8, Friedrichstr. 59</td></tr><tr><td>24 83 05</td><td><b>Schulze, Dr. Walter</b>, [St], W 50, Spichern-<br/>straße 15</td></tr><tr><td>24 52 46</td><td><b>Schulze-Brachmann, A.</b>, [St], W 50, Pass.<br/>Straße 26</td></tr><tr><td>31 03 57</td><td><b>Schumacher, Franz</b>, <i>Chb</i> 2 Kantstr. 72</td></tr><tr><td>22 28 07</td><td><b>Schumacher, Dr. Kurt</b>, [St], W 9, Link-<br/>straße 10</td></tr><tr><td>22 35 96</td><td><b>Schumacher, Rud.</b>, [N], W 35, Potsd.Str. 41</td></tr><tr><td>58 34 68</td><td><b>Schumann, F.</b>, [N], O 112, Wühl.Str. 58</td></tr><tr><td>24 33 20</td><td><b>Schumann, G. W.</b>, W 50, Tauentz.Str. 11</td></tr><tr><td>99 31 31</td><td><b>Schuster, Dr. Wilh.</b>, <i>Chb</i> 9, Kaiserdamm ",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"162 0 444 21\" data-label=\"Page-Header\">\n<p>Wien - 10. Bezirk</p>\n</div>\n<div data-bbox=\"10 18 817 964\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>73 61 73 <b>Schwabe, Dr. Eberh., Lt</b> Karw.Str. 25</li>\n<li>25 03 04 <b>Schwartz, Dr. Gust., W 62, Burggr.Str. 19</b></li>\n<li>89 15 26 <b>v. Schwartzkoppen, Dr. Eduard, Grw</b> Hohenzollerndamm 122</li>\n<li>92 29 26 <b>Schwarz, Dr. G., W 15, Kurfürstend. 169</b></li>\n<li>(91 18 33) <b>Schwarz, Dr. Leonh Chr., [N], W 15, Kurfürstendamm 202</b></li>\n<li>16 74 96 <b>Schwarz, Dr. Walter, [St/N], NW 7, Friedrichstr. 103</b></li>\n<li>99 04 67 <b>Schwarzlose, Dr. Richard, [N], Chb 9, Ad.-Hitler-Platz 4</b></li>\n<li>22 35 69 <b>Schwede, Dr. A., [St/N], W 35, Vikt.-Str. 2</b></li>\n<li>66 23 01 <b>Schwedhelm, Erich, SW 29, Bergm.Str. 69</b></li>\n<li>77 22 73 <b>Schwegmann, Dr. B., Schb M.Luth.Str. 68</b></li>\n<li>11 52 26 <b>Schwerin, Dr. Herm., W 8, Leipz. Str. 113</b></li>\n<li>11 15 95 <b>Schwickerath, Dr. J., [N], Mohrenstr. 48</b></li>\n<li>89 73 73 <b>Schwiegk, Fritz, Grw Königsallee 37a</b></li>\n<li>(87 52 05) <b>v. Seefeld, Dr. Alfred, Wilm Prager Pl. 5.</b></li>\n<li>55 05 35 <b>Seelig, Dr. E., [N], Frfde Alt-Friedrichsf. 1</b></li>\n<li>12 12 56 <b>Seelmann-Eggebert, Dr.W., J.-R., [St/N],</b></li>\n</ul>\n</div>\n<div data-bbox=\"162 964 607 992\" data-label=\"Page-Footer\">\n<p>Wien - 11. Bezirk - Mariastr. 9A</p>\n</div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 818 960\" data-label=\"Text\"><table><tbody><tr><td>25 21 85</td><td><b>Seemann, Dr. R.</b>, W50, Nürnbg.Str. 33/34</td></tr><tr><td>91 76 77</td><td><b>Seemann, Dr. W.</b>, W15, Joach.Str. 33</td></tr><tr><td>83 15 56</td><td><b>Sefrin, Dr. Anton</b>, <i>Frda</i> Stierstr. 4</td></tr><tr><td>91 68 40</td><td><b>Seiffert, Dr. Carl W.</b>, W15, Hohenz.D. 5</td></tr><tr><td>52 27 41</td><td><b>Seinsche, Fritz</b>, C 2, N. Königstr. 39</td></tr><tr><td>42 71 05</td><td><b>Seligor, Karl</b>, N 4, Chausseestr. 5</td></tr><tr><td>97 61 05</td><td><b>Sello, Hans</b>, <i>Hal</i> Nestorstr. 11</td></tr><tr><td>12 23 84</td><td><b>v. Senden, E.</b>, Frhr., NW7, U. d. Lind. 51</td></tr><tr><td>21 20 00</td><td><b>Serini, Dr. H.</b>, [N], W35, Kluckstr. 16</td></tr><tr><td>(16 25 07)</td><td><b>Seydel, Günther</b>, C 2, Leipz.Str. 83</td></tr><tr><td>16 25 07</td><td><b>Seydel, Dr. Helmut</b>, C 2, Leipz.Str. 83</td></tr><tr><td>11 15 95</td><td><b>Siber, Erwin</b>, [St/N], W8, Mohrenstr. 48</td></tr><tr><td>24 95 56</td><td><b>Siebert, Karl</b>, [N], W62, Lützowufer 33</td></tr><tr><td>56 06 75</td><td><b>Slegesmund, Dr. L.</b>, <i>Weiβ</i> Berl. Allee 17</td></tr><tr><td>27 02 20</td><td><b>Siegfried, Dr. W.</b>, W35, Winterf.Str. 4</td></tr><tr><td>25 35 45</td><td><b>Siemers, Dr. Leonie</b>, W30, Stübbenstr. 7</td></tr><tr><td>84 64 51</td><td><b>Silcher, Friedr.</b>, <i>Zehl</i> Herm.Str. 2</td></tr><tr><td>93 76",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or empty page from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or empty page from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

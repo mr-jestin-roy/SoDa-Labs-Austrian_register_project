@@ -1,0 +1,874 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"238 761 598 947\" data-label=\"Text\"><p>700 (Branchenteil)</p></div><div data-bbox=\"765 753 998 951\" data-label=\"Text\"><p><b>5677. Sp</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Lienz (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"474 58 773 515\"}, {\"label\": \"Text\", \"bbox\": \"339 563 921 731\"}, {\"label\": \"Text\", \"bbox\": \"464 750 775 937\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Sportartikel",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "Ludwigslust (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Lübben (Spreewald).",
+        "entries": []
+      },
+      {
+        "region_name": "Luxemburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Mähr. Ostrau (Protectorat).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"408 97 829 279\"}, {\"label\": \"Text\", \"bbox\": \"445 317 791 520\"}, {\"label\": \"Text\", \"bbox\": \"514 561 712 661\"}, {\"label\": \"Text\", \"bbox\": \"514 671 714 781\"}, {\"label\": \"Text\", \"bbox\": \"477 804 750 923\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Mainz.",
+        "entries": []
+      },
+      {
+        "region_name": "Metz.",
+        "entries": []
+      },
+      {
+        "region_name": "Mißlitz (Niederdonaau).",
+        "entries": []
+      },
+      {
+        "region_name": "Mülheim (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Münster (Kr. Dieburg) [Hessen].",
+        "entries": []
+      },
+      {
+        "region_name": "Neurode (Eulengeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neusalz (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"266 15 445 966\" data-label=\"Image\"><img alt=\"Logo of Wilhelm Ulrich featuring a stylized 'U' shape containing a floral or star-like pattern, topped with a triangle.\"/>The logo is a stylized, bold letter 'U'. Inside the 'U', there is a decorative pattern of small circles and dots arranged in a floral or star-like shape. Above the 'U', there is a triangle pointing downwards, which also contains a small dot. The entire logo is enclosed within a thick black vertical bar on the left and a thick black vertical bar on the right.</div><div data-bbox=\"468 89 956 337\" data-label=\"Text\"><p><b>Wilhelm Ulrich</b></p></div><div data-bbox=\"511 399 909 726\" data-label=\"Text\"><p><b>Likörfabrik, Weinkellerel</b><br/><b>Nürnberg W., Solgerstr. 17</b></p></div><div data-bbox=\"569 779 875 927\" data-label=\"Text\"><p><b>Fernsprecher 61970</b></p></div>",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "Oberlahnstein.",
+        "entries": []
+      },
+      {
+        "region_name": "Obermoschel (Rheinpfalz).",
+        "entries": []
+      },
+      {
+        "region_name": "Oppach (Oberlausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Oranienburg b. Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 756 825 950\" data-label=\"Text\"><p><b>rituosen — 5683. Spitzen</b></p></div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Pabianice (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Petrowitz (Kr. Kattowitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Plitz an der Mettau (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"209 70 788 361\"}, {\"label\": \"Text\", \"bbox\": \"215 352 789 494\"}, {\"label\": \"Text\", \"bbox\": \"311 494 680 632\"}, {\"label\": \"Text\", \"bbox\": \"282 632 713 766\"}, {\"label\": \"Text\", \"bbox\": \"400 800 612 937\"}]",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Posen.",
+        "entries": []
+      },
+      {
+        "region_name": "Potsdam.",
+        "entries": []
+      },
+      {
+        "region_name": "Quedlinburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Rheinbischofsheim (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Rudolstadt.",
+        "entries": []
+      },
+      {
+        "region_name": "Ruhmk (Oberschlesien).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Salzburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Salzwedel (Prov. Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Samter (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Schweidnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Sohrau (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stafffurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Steinhagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Teplitz-Schönau (Sudetenland)",
+        "entries": []
+      },
+      {
+        "region_name": "Teschem (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Tilsit.",
+        "entries": []
+      },
+      {
+        "region_name": "Trautemau (Sudetenland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"108 0 977 126\" data-label=\"Text\"><p>420 <b>Vinzenz Erben Nachflg.</b></p></div><div data-bbox=\"408 131 784 207\" data-label=\"Text\"><p><b>Alois Erben</b></p></div><div data-bbox=\"199 223 957 363\" data-label=\"Text\"><p>Erzeugung von<br/>Likören, Fruchtsäften u. Sodawasser,<br/>Uniongasse 36</p></div><div data-bbox=\"108 363 932 544\" data-label=\"Text\"><p>132 <b>Produktiv-Genossenschaft<br/>der Gast- und Schankwirte</b></p></div><div data-bbox=\"262 550 933 695\" data-label=\"Text\"><p>reg. Gen. m. b. H. Trautenau<br/>Bier-, Wein-, Liköre-, Fruchtsäfte<br/>u. Mineralwassergroßhandlung</p></div><div data-bbox=\"0 706 782 771\" data-label=\"Text\"><p><b>Troppau (Sudetenland).</b></p></div><div data-bbox=\"125 770 989 862\" data-label=\"Text\"><p>26 Lakota, Kurt, Essig- und Likörfabrik,<br/>Jaktarer-Tor-Gasse 8</p></div><div data-bbox=\"0 874 669 943\" data-label=\"Text\"><p><b>Trossingen (Wrttb.).</b></p></div><div data-bbox=\"104 943 893 990\" data-label=\"Text\"><p>475 Hohner-Lau, Wilh., Weinhandlung.</p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with a few small black specks.\"/>This image is a scan of a blank white page. It contains no text or other meaningful content. There are a few very small, isolated black pixels or specks scattered across the page, which appear to be scanning artifacts or dust particles.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Varel (Oldb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wasserburg (Inn) [Bay.].",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"12 102 183 244\"}, {\"label\": \"Section-Header\", \"bbox\": \"271 67 933 352\"}, {\"label\": \"Text\", \"bbox\": \"337 417 868 555\"}, {\"label\": \"Text\", \"bbox\": \"359 572 844 710\"}, {\"label\": \"Text\", \"bbox\": \"310 783 879 946\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 29 994 378\" data-label=\"Text\"><p>U1 88 54 <b>Heinz, Marie</b>, Likörausschank, Flaschen-<br/>verkauf, Wien III/40, Landstraßer Haupt-<br/>straße 123</p></div><div data-bbox=\"12 382 994 625\" data-label=\"Text\"><p>B3 04 60 <b>Hutter, Lorenz</b>, Vertretung f. Liköre, Sekt<br/>u. Weine, VII/62, Zieglerg. 27/27a</p></div><div data-bbox=\"12 625 994 977\" data-label=\"Text\"><p>A3 30 93 <b>Johann Korbel</b> Herstellung<br/>von Likören,<br/>Wien V/55, Nikolsdorfer Gasse 22</p></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Kühner &amp; Kummer",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 19 992 169\" data-label=\"Text\"><p><b>A1 53 75 Löwen-Franzbranntwein-Werke, Alexander</b><br/><b>Welmann, Fabrikation von Spiritu-</b><br/><b>osen, IX/66, Roßauerlände 45</b></p></div><div data-bbox=\"10 164 992 268\" data-label=\"Text\"><p><b>U1 72 60 (P. M. Mounier &amp; Co., Sektkellerei, Spiri-</b><br/><b>tuosen, III/40, Ungargasse 20</b></p></div><div data-bbox=\"10 264 992 412\" data-label=\"Text\"><p><b>A4 45 66 Pormann, Stenzel &amp; Co., Sodawasser-,</b><br/><b>Limonaden- u. Likörerzeugung, Wien</b><br/><b>XX/20, Engerthstraße 124</b></p></div><div data-bbox=\"10 408 992 560\" data-label=\"Text\"><p><b>A2 84 83 Alfred Westermayer</b><br/><b>Wien VIII/65, Lerchenfeldergürtel 70</b></p></div><div data-bbox=\"10 558 992 707\" data-label=\"Text\"><p><b>B3 75 16 (Adolf Wunderlich, Destillation, Likörfabrikation,</b><br/><b>B3 52 26 Wien VII/62, Kaiserstraße 63</b></p></div><div data-bbox=\"10 735 823 795\" data-label=\"Text\"><p><b>Wiener Neustadt (Niedernonau).</b></p></div><div data-bbox=\"105 799 992 901\" data-label=\"Text\"><p><b>121 Bauer, J., Essig- und Likörfabrik, Obst-</b><br/><b>u. Weinbrennerei, Lange Gasse 24</b></p></div><div data-bbox=\"10 928 832 990\" data-label=\"Text\"><p><b>Wildenschawert (Böhmen).</b></p></div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"89 146 112 368\"}, {\"label\": \"Text\", \"bbox\": \"274 31 793 861\"}]",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Wilhelmshaven.",
+        "entries": []
+      },
+      {
+        "region_name": "Wismar (Mecklb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Witten (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberge (Bez. Potsdam).",
+        "entries": []
+      },
+      {
+        "region_name": "Zwickau (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"276 196 718 740\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Brüx (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Elbing.",
+        "entries": []
+      },
+      {
+        "region_name": "Haugsdorf (Post Groß-Krosse) [Sudetenland].",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Pernegg (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"440 848 450 868\" data-label=\"Text\"><p>-</p></div><div data-bbox=\"463 614 468 634\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Spillern (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Tiefenbach (Isergeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Spiritus- u. chemischeFabrik Pernhofen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "5680. Spiritus-Gaskocher",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 135 153 389\" data-label=\"Text\"><p><b>Wien.</b></p></div><div data-bbox=\"0 417 777 861\" data-label=\"Text\"><p>U 3 75 89 <b>Vogtmann &amp; Wabak</b>, <b>Fabrik - Marke</b><br/>„Adler“, Wien XV/101, Flachgasse 27</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"20 114 750 787\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Lissa (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "5683. Spitzen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "'Auerbach (Vogl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bärringen (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Falkenstein (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Graslitz (Sudetenland)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"102 0 781 575\" data-label=\"Text\"><p><b>62 Waitner Brautigam K.G. (vormals Karl Tippmann &amp; Co.), Werkgardinen, Wäsche, Spitzen u. Kragen, Dotzauer Str. 468</b></p></div><div data-bbox=\"10 687 582 955\" data-label=\"Text\"><p><b>Kalisch (Wartheland).</b></p></div>",
+      "cells": [
+        "col4_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"164 10 625 966\" data-label=\"Text\"><p><b>Kalischer Spitzenfabriken</b><br/><b>„Konkordia“</b><br/><b>Komm. Verw. Emil Guttmann</b><br/><b>Kalisch, Bismarckstraße 31</b><br/><b>Fernsprecher 521</b></p></div>",
+      "cells": [
+        "col4_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  }
+]

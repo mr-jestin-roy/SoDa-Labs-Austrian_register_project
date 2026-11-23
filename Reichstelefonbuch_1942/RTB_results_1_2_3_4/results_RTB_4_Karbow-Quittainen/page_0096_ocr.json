@@ -1,0 +1,899 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "88",
+            "text": "(Band IV) Kiel: Sellme"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"255 11 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>27 61</td>\n<td>Sellmer, Ernst, Bäcker, Weißenburgstr. 33</td>\n</tr>\n<tr>\n<td>25 71</td>\n<td>Sellmer, Joh., Stellmacher, Schönbr. Str. 14</td>\n</tr>\n<tr>\n<td>42 59</td>\n<td>Sellmer, Paul, Wagenfbr., <i>Krh</i> Eckernfelder Chaussee 96</td>\n</tr>\n<tr>\n<td>35 62</td>\n<td>Sellmer, Walter, Bäckerei, Hamb.Ch. 127</td>\n</tr>\n<tr>\n<td>42 58</td>\n<td>Sellmer, Willi, Gartenbau, <i>Krh</i> Hindenburgstraße 6</td>\n</tr>\n<tr>\n<td>34 01</td>\n<td>Selmer, Friedr., Kol.-W., Waisenhofstr. 43</td>\n</tr>\n<tr>\n<td>92 35</td>\n<td>Selmer, Hugo, Wilhelmstr. 21</td>\n</tr>\n<tr>\n<td>43 68</td>\n<td>Sendler, Magdalene, HoltenauerStr. 110</td>\n</tr>\n<tr>\n<td>70 25</td>\n<td>Senf, Otto, Oberpostrat a.D., Adolfpl. 3</td>\n</tr>\n<tr>\n<td>40 17</td>\n<td>Senff, Ed., Ing., A.Lüb.Chaussee 43</td>\n</tr>\n<tr>\n<td>102 77</td>\n<td>Sengewitz, Lothar, Ing., Stadtrade 10</td>\n</tr>\n<tr>\n<td>49 52</td>\n<td>Senner, Hermann, Kfm., Jahnstr. 4</td>\n</tr>\n<tr>\n<td>33 00</td>\n<td>Sensen, Carl, Spediteur, Ernst-Friedr.Str. 8</td>\n</tr>\n<tr>\n<td>9 26</td>\n<td>Serno, Hanni, Frau, <i>Schu</i> Kl.Eiderkamp 4</td>\n</tr>\n<tr>\n<td>93 05</td>\n<td>Sesemann, Fritz, Präsid., Tirpitzstr. 102</td>\n</tr>\n<tr>\n<td>66 29</td>\n<td>Settegast, Bernh., Obering., Forstweg 87</td>\n</tr>\n<tr>\n<td>90 80</td>\n<td>van Severen, Willy, Uhrm., Lutherstr. 6</td>\n</tr>\n<tr>\n<td>51 68</td>\n<td>Severin, Rudolf, Bäcker, Hamb.Chaussee 57</td>\n</tr>\n<tr>\n<td>45 56</td>\n<td>Sewerin, Ing., Reventlouallee 16</td>\n</tr>\n<tr>\n<td>84 24</td>\n<td>.. <i>Davidits</i> Karl Techn. Diere <i>Collartstr</i> 99</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 0 998 991\" data-label=\"Text\">\n<table>\n<tbody>\n<tr>\n<td>31 06</td>\n<td>Seyfarth, Hellmut, Dr., Tirpitzstr. 134</td>\n</tr>\n<tr>\n<td>8 62</td>\n<td>Seyfert, Anna, Lebensm., Heikendorf</td>\n</tr>\n<tr>\n<td>90 90</td>\n<td>Siber, Ernst, Branddir., Wrangelstr. 54</td>\n</tr>\n<tr>\n<td>4 43</td>\n<td>v. Sichart, Werner, Oberst (E), Forstweg 45</td>\n</tr>\n<tr>\n<td>85 83</td>\n<td>Sicherheitsdienst 44, Karolinenweg 23</td>\n</tr>\n<tr>\n<td>24 49</td>\n<td>Sick, Peter, Schlachtereie, Jeßstr. 3</td>\n</tr>\n<tr>\n<td>47 22</td>\n<td>Siebel, Dr. Hans, Dir., Pr.Heinr.Str. 28</td>\n</tr>\n<tr>\n<td>107 34</td>\n<td>Siebert, Otto, Baurat, Beselerallee 34a</td>\n</tr>\n<tr>\n<td>133 37</td>\n<td>Siebert, Rich., Obering., Hansastr. 109</td>\n</tr>\n<tr>\n<td>73 02</td>\n<td>Siebert, Rud., Pr.Heinrich-Str. 97</td>\n</tr>\n<tr>\n<td>106 87</td>\n<td>Siebke, Buchf., DanzigerStr. 16</td>\n</tr>\n<tr>\n<td>130 55</td>\n<td>Siebke, L., Hebamme, <i>Krh</i> Kopperpahl 114</td>\n</tr>\n<tr>\n<td>83 13</td>\n<td>Sieck, Lorenz, Optiker, Altenteichstr. 11</td>\n</tr>\n<tr>\n<td>101 40</td>\n<td>Siedlungsbauges. Herm. u. Paul Frank, <i>Elm</i><br/>Preetzer Chaussee</td>\n</tr>\n<tr>\n<td>103 92</td>\n<td>Dies., Arbeitslager, <i>Elm</i>-Nord</td>\n</tr>\n<tr>\n<td>97 93</td>\n<td>Sieg, Wilh., Glasrein., Jungm.Str. 71</td>\n</tr>\n<tr>\n<td>40 49</td>\n<td>Siegmon, Friedr., Ing. a. D., Holten.Str. 149</td>\n</tr>\n<tr>\n<td>43 59</td>\n<td>Siegmond, G., Major a. D., Esmarchrtr. 51</td>\n</tr>\n<tr>\n<td>20 72</td>\n<td>Siegmond, Prof., H., Dir., Caprivistr. 8</td>\n</tr>\n<tr>\n<td>97 89</td>\n<td>Siegmonds Schuhwr., Augustenstr. 36</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 0 998 975\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>10 00</td>\n<td>Vienna, Vienna, Ringstrasse 11</td>\n</tr>\n<tr>\n<td>94 04</td>\n<td>Sieh, Martha, Lebensm., Pestalozzistr. 30</td>\n</tr>\n<tr>\n<td>85 42</td>\n<td>Sieh, W., Stellv. Gauleit., Düsternbr. Weg 54</td>\n</tr>\n<tr>\n<td>102 49</td>\n<td>Sielaff, Günther, Ltn., Tirpitzstr. 140</td>\n</tr>\n<tr>\n<td>13 08</td>\n<td>Siemen, H.-H., Organist, Sternstr. 2a</td>\n</tr>\n<tr>\n<td>78 18</td>\n<td>Siemen, Dr. phil., Luise, Seelsorgerin, Saarbrückenstr. 18</td>\n</tr>\n<tr>\n<td>56 78</td>\n<td>Siemens Apparate u. Maschinen GmbH, Baubüro Dt. Werke, Gebäude 107</td>\n</tr>\n<tr>\n<td>101 50</td>\n<td>Dies., Germaniawerft</td>\n</tr>\n<tr>\n<td>7 22</td>\n<td>Siemens-Bauunion GmbH, KG, Techn. Büro</td>\n</tr>\n<tr>\n<td>93 72</td>\n<td>Siemens-Bauunion GmbH, Hochbau, Kriegsmarinewerft</td>\n</tr>\n<tr>\n<td>104 60</td>\n<td>Dies., Tiefbau, Kriegsmarinewerft</td>\n</tr>\n<tr>\n<td>34 30</td>\n<td>Siemens-Reiniger-Werke AG, Jungm. Str. 43</td>\n</tr>\n<tr>\n<td>7 22</td>\n<td>Siemens-Schuckertwerke AG, Holstenbr. 26</td>\n</tr>\n<tr>\n<td>107 89</td>\n<td>Dies., Baubüro, Kriegsmarinewerft</td>\n</tr>\n<tr>\n<td>102 28</td>\n<td>Siemens, Hans, Tirpitzstr. 94</td>\n</tr>\n<tr>\n<td>8 ml.-Nr. 7 22</td>\n<td>Siemens &amp; Halske A.-G., Ingenieur-Büro Kiel, Holstenbrücke 26</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"250 0 998 993\" data-label=\"Text\"><table><tbody><tr><td>93 32</td><td>Siemers, Kurt, Töpferm., Stadtfeldk. 24</td></tr><tr><td>66 59</td><td>Siemers, O., Reg.-Insp., Gerhardstr. 30</td></tr><tr><td>105 14</td><td>Siemke &amp; Brix, Fuhrw., Jungmannstr. 47</td></tr><tr><td>53 25</td><td>Siemonson, B., Lebensm., Mettlachstr. 3</td></tr><tr><td>95 06</td><td>Siemonson, H., Uhren, Brunsw.Str. 28</td></tr><tr><td>101 53</td><td>Siemonson, H., Milch, Olsh.Str. 22</td></tr><tr><td>72 39</td><td>Siemonson, Herm., Vertr., Düppelstr. 62</td></tr><tr><td>35 17</td><td>Siems, Helm., Versich., Knivsberg 8</td></tr><tr><td>Holt. 105</td><td>Siems, P., Eisenwr., FriedrichsorterStr. 6</td></tr><tr><td>55 98</td><td>Siemsen, Jürgen, Butter, Lutherstr. 28</td></tr><tr><td>24 73</td><td>Siemsen, Marie, Meiereiprod., KnooperW.153</td></tr><tr><td>69 83</td><td>Siemßen, Bruno, Prok., Klopstockstr. 3</td></tr><tr><td>27 94</td><td>Siemund, Geschäftsf., Schleusenstr. 15</td></tr><tr><td>Holt. 241</td><td>Siepmann, Herm., Gartenbau, Kanalstr.</td></tr><tr><td>Holt. 204</td><td>Sierts, Dr. F., Zahnarzt, Schlange 29</td></tr><tr><td>14 29</td><td>Siese, Fritz, Mäntel, DänischeStr. 41</td></tr><tr><td>Holt. 154</td><td>Sieß, J., Brennmat., Joh.Sump-Str. 2</td></tr><tr><td>57 97</td><td>Sieveking, Emilie, Reventlouallee 20</td></tr><tr><td>(35 50)</td><td>Sievers, Auguste, Hebamme, Düppelstr. 81</td></tr><tr><td>38 28</td><td>Sievers, Carl, Zimmermstr., Russee, Rends-<br/>burgerLandstr. 84</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"247 0 998 982\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>04 37</td>\n<td>Sievers, Eilieu, Mechaniker, Leuchensstr. 10</td>\n</tr>\n<tr>\n<td>22 81</td>\n<td>Sievers, Ernst, Schlächterm., Boninstr. 35</td>\n</tr>\n<tr>\n<td>96 22</td>\n<td>Sievers, Hans, Lantziusstr. 14</td>\n</tr>\n<tr>\n<td>101 15</td>\n<td>Sievers, Hans, Bauing., Helgolandstr. 25</td>\n</tr>\n<tr>\n<td>84 53</td>\n<td>Sievers, Hans, Milch, Saldernstr. 11</td>\n</tr>\n<tr>\n<td>(14 47)</td>\n<td>Sievers, Heinr., Sportbed., Königsweg 17</td>\n</tr>\n<tr>\n<td>98 82</td>\n<td>Sievers, Heinr., <i>Schu</i> Haus a. See</td>\n</tr>\n<tr>\n<td>35 50</td>\n<td>Sievers, H. J., Drogerie, Holten.Str. 113</td>\n</tr>\n<tr>\n<td>22 83</td>\n<td>Sievers, Johs., Fettwr., Harnsstr. 76</td>\n</tr>\n<tr>\n<td>35 37</td>\n<td>Sievers, Johs., Buchdr., Sophienblatt 42</td>\n</tr>\n<tr>\n<td>96 55</td>\n<td>Sievers, Marieluise, Goldschmiede, Holten. Straße 79</td>\n</tr>\n<tr>\n<td>55 75</td>\n<td>Sievers, Peter, Amtmann, <i>Krh</i> Am Gartenheim 3</td>\n</tr>\n<tr>\n<td>14 47</td>\n<td>Sievers, Peter, Töpfer, Königsweg 17</td>\n</tr>\n<tr>\n<td>11 07</td>\n<td rowspan=\"2\">{ Sievers &amp; Brandt K.-G., Seifenfabrik, Stadt-</td>\n</tr>\n<tr>\n<td>104 31</td>\n<td>rade 16</td>\n</tr>\n<tr>\n<td>52 11</td>\n<td>Siever, Carl, Gastw., <i>Elm</i> Dorfstr. 2</td>\n</tr>\n<tr>\n<td>28 38</td>\n<td>Siever, Heinr., Install., Tirpitzstr. 39</td>\n</tr>\n<tr>\n<td>62 26</td>\n<td>Siever, Wilh., Wagenfabr., Prüne 20</td>\n</tr>\n<tr>\n<td>73 05</td>\n<td>Siever, Wilh., Goldwr., Brunsw.Str. 3</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 992 962\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>24 91</td>\n<td>Sigmund, Germania, Wilhelminenstr. 16</td>\n</tr>\n<tr>\n<td>97 46</td>\n<td>Silber, Herb., Ing., Prinz-Heinr.Str. 18</td>\n</tr>\n<tr>\n<td>132 57</td>\n<td>Simmendinger, Bernhard, Flugzeugführer,<br/>Krh KielerStr. 5</td>\n</tr>\n<tr>\n<td>19 72</td>\n<td>Simonis, Vizepräś. i. R., Niemannsweg 107</td>\n</tr>\n<tr>\n<td>35 86</td>\n<td>Simons, H., Blocksberg 16</td>\n</tr>\n<tr>\n<td>132 18</td>\n<td>Simonsen, G., Dipl.-Hdl., Arndtpl. 6</td>\n</tr>\n<tr>\n<td>15 06</td>\n<td>Singelmann, Jul., Vertr., Muhliusstr. 40</td>\n</tr>\n<tr>\n<td>8 18</td>\n<td>Singer Nähmasch.-AG, Holstenstr. 20</td>\n</tr>\n<tr>\n<td>98 49</td>\n<td>Sinjen, Anna, KrusenrotterWeg 67</td>\n</tr>\n<tr>\n<td>20 47</td>\n<td>Sinjen, Claus, Kronshagen</td>\n</tr>\n<tr>\n<td>66 97</td>\n<td>Sinn, Christ., Baugesch., Papenkamp 32</td>\n</tr>\n<tr>\n<td>51 24</td>\n<td>Sinnemann, Käthe, Drogen, Hasseld.Weg 5</td>\n</tr>\n<tr>\n<td>24 70</td>\n<td>Sinnknecht, Johs., Baug., Rendsb.Ldstr. 91</td>\n</tr>\n<tr>\n<td>133 46</td>\n<td>Sirota, Walter, Ang., Kronsh.Weg 73</td>\n</tr>\n<tr>\n<td>50 06</td>\n<td>Skagerrakklub, Waitzstr. 10</td>\n</tr>\n<tr>\n<td>20 08</td>\n<td>Skala-Varieté, Tanzdiele, Schloßstr. 1</td>\n</tr>\n<tr>\n<td>52 21</td>\n<td>Skau, Rud., Fettwr., Lutherstr. 3</td>\n</tr>\n<tr>\n<td>Holt. 136</td>\n<td>Skjöth, W., Kfm., Friedrichsort.Str. 48</td>\n</tr>\n<tr>\n<td>44 33</td>\n<td>Slabig, G. A., Gaststätten, Goethestr. 29</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "r -- Stölting",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 12 998 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>10 46</td>\n<td>Smidt, Adolf, Wäsche-Verl., Preußberstr. 17</td>\n</tr>\n<tr>\n<td>6 43</td>\n<td>Smidt, P. H., Kol.-W., Tirpitzstr. 39</td>\n</tr>\n<tr>\n<td>19 39</td>\n<td><b>Smink, Jan, Netzfabr., Suchsdorf</b></td>\n</tr>\n<tr>\n<td>84 74</td>\n<td>v.d. Smissen, Dr. W., Ldw.-Rat, <i>Krh</i> Friedenskamp 6</td>\n</tr>\n<tr>\n<td>85 76</td>\n<td>Smolla, Baurat, Düsternbr. Weg 71</td>\n</tr>\n<tr>\n<td>65 51</td>\n<td>v. Sobbe, Rosa, Dipl.-Ing., Sternstr. 3</td>\n</tr>\n<tr>\n<td>16 83</td>\n<td>Sobolowsky, M., elektr. Art., Sophienblatt 18</td>\n</tr>\n<tr>\n<td>10 47</td>\n<td>Söderbergs, Max, Prok., Hohenz. Ring 52</td>\n</tr>\n<tr>\n<td>7 40</td>\n<td>Söht, Ernst, Düsternbrooker Weg 50</td>\n</tr>\n<tr>\n<td>17 73</td>\n<td>Sönnichsen, Joh., Lebensm., Tirpitzstr. 141</td>\n</tr>\n<tr>\n<td>40 33</td>\n<td>Sönnichsen, Peter, Milch, Baumweg 9</td>\n</tr>\n<tr>\n<td>Holt. 219</td>\n<td>Sönnichsen, P. S., Baugesch., Kanalstr. 12</td>\n</tr>\n<tr>\n<td>14 82</td>\n<td>Sörensen, Conrad, Kapt., Tirpitzstr. 61</td>\n</tr>\n<tr>\n<td>82 35</td>\n<td>Sörensen, Dr. Ernst, Stud.-Rat, Fleethörn 64</td>\n</tr>\n<tr>\n<td>61 70</td>\n<td>Sörensen, Heinr., Goldwr., Bergstr. 25</td>\n</tr>\n<tr>\n<td>42 53</td>\n<td>Sörensen, Martha, Schillerstr. 20</td>\n</tr>\n<tr>\n<td>4 01</td>\n<td><b>Sörgel, Otto, Hamburg, Eisenwaren, Zweig-</b><br/><b>niederlassung Kiel, Herzog-Friedrich-Str. 33</b></td>\n</tr>\n<tr>\n<td>102 83</td>\n<td>Sörnsen, Robert, Friseur, Bahnhofstr. 32</td>\n</tr>\n<tr>\n<td>45 25</td>\n<td>Sohmann, Gretel, Schauspielerin, Wilhel-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "60",
+            "text": "93 Sohnrey, Heinr., Landw.-Rat, Krh Am Gartenheim 1"
+          },
+          {
+            "extension": "95",
+            "text": "70—95 72 Steffen Sohst Baugeschäft, Heiken- dorfer Weg 31"
+          },
+          {
+            "extension": "136",
+            "text": "32 Ders., Baust., Tirpitzhafen"
+          },
+          {
+            "extension": "57",
+            "text": "80 Solidschuhwerk Tuttlingen, Holten.Str. 44"
+          },
+          {
+            "extension": "22",
+            "text": "41 Soll, Gustav, Milch, Elm PreetzerChauss. 33"
+          },
+          {
+            "extension": "70",
+            "text": "43 Soll, Heinr., Fuhrgesch., Hamb.Chauss. 187a (22 41) Soll, Heinr., Schnellastverkehr, Preetzer Chaussee 49"
+          },
+          {
+            "extension": "47",
+            "text": "74 Soll, Karl F., Zigarren, Sophienblatt 61a"
+          },
+          {
+            "extension": "56",
+            "text": "86 Soltsien, Dr. Günther, Arzt, Kleiststr. 24"
+          },
+          {
+            "extension": "3",
+            "text": "86 Sommer, Anna, Lichtpaus., Exerzierpl. 19"
+          },
+          {
+            "extension": "39",
+            "text": "89 Sommer, Arno, Schiffsausrüst., Karlstr. 14"
+          },
+          {
+            "extension": "77",
+            "text": "32 Sommer, Carl, Kfm., Tirpitzstr. 114"
+          },
+          {
+            "extension": "42",
+            "text": "80 { Sommer & Co. Chemische Fabrik, Kiel,"
+          },
+          {
+            "extension": "42",
+            "text": "86 { Alte Lübecker Chaussee 86. T Somco"
+          },
+          {
+            "extension": "25",
+            "text": "38 Dies., Bakteriolog. Abt., Karlstr. 9"
+          },
+          {
+            "extension": "42",
+            "text": "19 Dies., Fabrik, Fockstr. 13 Holt. 281 Sommerwerck jr., Dr. Wilh., Arzt, Fritz-"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 17 993 964\" data-label=\"Table\">\n<table>\n<tbody>\n<tr>\n<td>70 91</td>\n<td>Sonderburg, Emmy, Hohenbergstr. 7</td>\n</tr>\n<tr>\n<td>35 42</td>\n<td>Sonnenberg, A., Schneiderei, Dänische Str. 12</td>\n</tr>\n<tr>\n<td>36 15</td>\n<td>Derselbe, Wohnung, Schillerstr. 24</td>\n</tr>\n<tr>\n<td>133 18</td>\n<td>Sonnenschein, W., Amtmann, Reventl. A. 16</td>\n</tr>\n<tr>\n<td>35 87</td>\n<td>Sonnewald, Carl, Schornsteinf., Wilhelminenstr. 24</td>\n</tr>\n<tr>\n<td>31 88</td>\n<td>Sonntag, Dr., Zahnarzt, Dahlmannstr. 6</td>\n</tr>\n<tr>\n<td>81 90</td>\n<td>Sorg, Karl, Direktor, Forstweg 56</td>\n</tr>\n<tr>\n<td>59 43</td>\n<td>Sorg, Rud., Rundfunk, Holstenstr. 56</td>\n</tr>\n<tr>\n<td>78 90</td>\n<td>Sothmann, Elisabeth, Hebamme, Kirchenweg 40</td>\n</tr>\n<tr>\n<td>65 67</td>\n<td>Spaeter, Max, Buchdr., Bergstr. 28</td>\n</tr>\n<tr>\n<td>52 53</td>\n<td>Spahr, Heinr., Maschinenbau, <i>Elm</i> Preetzer Chaussee 140</td>\n</tr>\n<tr>\n<td>19 78</td>\n<td>Spamer, Else, Holtenauer Str. 116</td>\n</tr>\n<tr>\n<td>44 66</td>\n<td>Spangenberg, Fritz, Ang., Dahlm. Str. 2</td>\n</tr>\n<tr>\n<td>72 69</td>\n<td>Spanuth, Hans J., Düvelsb. Weg 26</td>\n</tr>\n<tr>\n<td>98 31</td>\n<td>Spanuth, Lieschen, Lessingplatz 12</td>\n</tr>\n<tr>\n<td>34 77</td>\n<td>Sparing, Hans, Gruppenl., Mönkeberg, Kalkberg 11</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"15 963 211 991\" data-label=\"Page-Footer\">\n<p><b>Samml.</b> 1</p>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 0 998 970\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>Nr.<br/>99 00</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\">A. G., Zahlstelle Kiel, Fährstraße 22</td>\n</tr>\n<tr>\n<td>Sml.-<br/>Nr.<br/>66 50</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Sparkassen- und Giroverband<br/>für Schleswig-Holstein,<br/>Kiel, Klinke 24</td>\n</tr>\n<tr>\n<td>Holt. 111</td>\n<td></td>\n<td>Spar- u. Darlehnskasse eGmbH, Pries</td>\n</tr>\n<tr>\n<td>(3 61)</td>\n<td></td>\n<td>Spar- u. Darlehnskasse eGmbH, Meimersdorf</td>\n</tr>\n<tr>\n<td>(66 14)</td>\n<td></td>\n<td>Spar- u. Darlehnskasse eGmbH, Ottendorf</td>\n</tr>\n<tr>\n<td>67 59</td>\n<td></td>\n<td>Spar- u. Darlehnskasse GmbH, Russee 46</td>\n</tr>\n<tr>\n<td>5 30</td>\n<td></td>\n<td>Spar- und Leihkasse, Sophienblatt 48a</td>\n</tr>\n<tr>\n<td>59 84</td>\n<td></td>\n<td>Specht, Waldemar, Klempner, Mittelstr. 15</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Heinrich Speck & Sohn",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 998 977\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>(17 21)</td>\n<td>Speck, Theodor, Öfen, Harnsstr. 20</td>\n</tr>\n<tr>\n<td>17 21</td>\n<td>Speck, Walt., Autofahrersch., H.Frdr.Str. 71</td>\n</tr>\n<tr>\n<td>100 74</td>\n<td>Speetzen, Gust., Lohndrescherei, <i>Elm</i><br/>Preetzer Chaussee 205</td>\n</tr>\n<tr>\n<td>59 50</td>\n<td>Speetzen, Jul., Bäckermstr., Augustenstr. 48</td>\n</tr>\n<tr>\n<td>43 10</td>\n<td>Speisehaus Am Dreieckplatz, Wilhelm.Str. 5</td>\n</tr>\n<tr>\n<td>71 54</td>\n<td>Speisehaus Exer, Exerzierpl. 13</td>\n</tr>\n<tr>\n<td>132 94</td>\n<td>Speisehaus Hamb. Keller, Flämische Str. 14</td>\n</tr>\n<tr>\n<td>64 53</td>\n<td>Spengler, Heinrich, Schillerstr. 2</td>\n</tr>\n<tr>\n<td>97 14</td>\n<td>Sperling, Verw.-Amtm., Hardenbergstr. 14</td>\n</tr>\n<tr>\n<td>11 15</td>\n<td>Sperling, Frdr., Porzellan, Dänische Str. 36</td>\n</tr>\n<tr>\n<td>94 44</td>\n<td>Ders., Wohn., Rarsrott 32</td>\n</tr>\n<tr>\n<td>41 89</td>\n<td>Speth, Heinr., Kartoffeln, <i>Elm</i> Ellerbecker<br/>Weg 101</td>\n</tr>\n<tr>\n<td>71 94</td>\n<td>Speth, Herb., Lebensm., Gutenbergstr. 40</td>\n</tr>\n<tr>\n<td>69 24</td>\n<td>Speth, Paul, Lebensm., Petersb.Weg 58</td>\n</tr>\n<tr>\n<td>40 63</td>\n<td>Speth, Werner, Lebensm., <i>Elm</i> Dorfstr. 4</td>\n</tr>\n<tr>\n<td>24 38</td>\n<td>Spethmann, Wilhelm, Holzhandel, Sperrholz-<br/>platten, Furniere, Muhliusstr. 72</td>\n</tr>\n<tr>\n<td>8 14</td>\n<td>Spiering Nr., John, Hypoth., Holstenstr. 33</td>\n</tr>\n<tr>\n<td>78 75</td>\n<td>Derselbe, Wohn., Bismarckallee 17</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"54 977 131 993\" data-label=\"Page-Footer\">\n<p>2 52</p>\n</div>\n<div data-bbox=\"158 977 334 993\" data-label=\"Page-Footer\">\n<p>2 52</p>\n</div>\n<div data-bbox=\"412 977 570 993\" data-label=\"Page-Footer\">\n<p>2 52</p>\n</div>\n<div data-bbox=\"606 977 764 993\" data-label=\"Page-Footer\">\n<p>2 52</p>\n</div>\n<div data-bbox=\"800 977 944 993\" data-label=\"Page-Footer\">\n<p>2 52</p>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>135 57</td>\n<td>Spitzbarth, Friedr.,</td>\n<td>Eichhofstr. 7</td>\n</tr>\n<tr>\n<td>56 96</td>\n<td>Spletstößer, Paul,</td>\n<td>Bäckerei, Gerhardstr. 41</td>\n</tr>\n<tr>\n<td>103 67</td>\n<td>Spörel, Korf.-Kapt.,</td>\n<td>Adalbertstr. 11</td>\n</tr>\n<tr>\n<td>135 10</td>\n<td>Spohd, Kapitän,</td>\n<td>Adolfplatz 3</td>\n</tr>\n<tr>\n<td>54 77</td>\n<td>Spohn, W. Aug.,</td>\n<td>Baugesch., Stadtrade 34</td>\n</tr>\n<tr>\n<td>34 81</td>\n<td>Spohr, Dr. W.,</td>\n<td>Schriftsteller, Sophienbl. 64</td>\n</tr>\n<tr>\n<td>58 92</td>\n<td>Sport- u. Spielplatz,</td>\n<td>Städt., Str.d.SA. 140</td>\n</tr>\n<tr>\n<td>23 86</td>\n<td>Sporthaus Nis</td>\n<td>Knudsen, Holstenstr. 104</td>\n</tr>\n<tr>\n<td>20 81</td>\n<td>Springborn, A.,</td>\n<td>Hebamme, Marthastr. 6</td>\n</tr>\n<tr>\n<td>75 66</td>\n<td>Springe, Frdr.,</td>\n<td>Lebensm., Jungfernstieg 40</td>\n</tr>\n<tr>\n<td>23 25</td>\n<td><b>Ad. Springer</b></td>\n<td><b>Schlesw.-Holst. Isolierwerk</b></td>\n</tr>\n<tr>\n<td>104 41</td>\n<td><b>für Wärme u. Kälteschutz,</b></td>\n<td><b>Sophienblatt 52a</b></td>\n</tr>\n<tr>\n<td>104 41</td>\n<td>Springer, Herbert,</td>\n<td>Ing., Sophienblatt 52a</td>\n</tr>\n<tr>\n<td>83 35</td>\n<td>Sprockhoff, Willy,</td>\n<td>Dir., Reventlouallee 7</td>\n</tr>\n<tr>\n<td>69 06</td>\n<td>44-Abschnitt XX,</td>\n<td>Niemannsweg 81 b</td>\n</tr>\n<tr>\n<td>55 34</td>\n<td>44-Mannschaftshaus,</td>\n<td>Kirchenstr. 3</td>\n</tr>\n<tr>\n<td>73 68</td>\n<td>Staack, Fritz,</td>\n<td>Schneidernstr., Sophienbl. 78</td>\n</tr>\n<tr>\n<td>Holt. 344</td>\n<td>Staack, Herm.,</td>\n<td>Kraftf., Richthofenstr. 8</td>\n</tr>\n<tr>\n<td>46 45</td>\n<td>Staack, Johs.,</td>\n<td>Oberrevisor, Sophienbl. 32</td>\n</tr>\n<tr>\n<td>97 53</td>\n<td>Staack, Maria,</td>\n<td>Papierwr., Gerhardstr. 13</td>\n</tr>\n<tr>\n<td>92 29</td>\n<td>Staack, Maria</td>\n<td>Mann, Gutenbergstr. 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "62",
+            "text": "46 Staatl. Ingenieurschule, Fährstr. 35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "7",
+            "text": "Bauhof, städt., Gutenbergstr."
+          },
+          {
+            "extension": "74",
+            "text": "Dasselbe, Ost, Schulstr. 32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>60 50</td>\n<td>Krankenanstalt, Städt., MetzerStr. 55</td>\n</tr>\n<tr>\n<td>101 22</td>\n<td>Hilfskrankenhaus II, Kopperp.Allee 59</td>\n</tr>\n<tr>\n<td>45 15</td>\n<td>Hilfskrankenhaus III, P.Flemming-Str. 3</td>\n</tr>\n<tr>\n<td>49 90</td>\n<td>Nahrungsm.-Unters.Amt, Städt., Wilhelm.-<br/>Straße 14</td>\n</tr>\n<tr>\n<td>44 05</td>\n<td>Nordostseehalle, Gutenbergstr. 61</td>\n</tr>\n<tr>\n<td>93 80</td>\n<td>Schlachthof</td>\n</tr>\n<tr>\n<td>16 41</td>\n<td>Oberschule f. Jungen, KnooperWeg 63</td>\n</tr>\n<tr>\n<td>50 71</td>\n<td>Hebbelschule, Waitzstr. 36</td>\n</tr>\n<tr>\n<td>22 36</td>\n<td>Hindenburgschule, P.Flemming-Str.</td>\n</tr>\n<tr>\n<td>16 43</td>\n<td>Oberschule f. Jungen, Am Königsweg</td>\n</tr>\n<tr>\n<td>Holt. 189</td>\n<td>Mittelschule Pries-Friedrichsort</td>\n</tr>\n<tr>\n<td>83 81</td>\n<td>Mittelschule Wellingdorf, Rohdehoffplatz</td>\n</tr>\n<tr>\n<td>105 27</td>\n<td>Knaben-Mittelschule, Muhliusstr. 31</td>\n</tr>\n<tr>\n<td>107 62</td>\n<td>Knaben- u. 2. Mädchen-Mittelschule, Ger-<br/>hardstr. 104</td>\n</tr>\n<tr>\n<td>133 00</td>\n<td>Knaben- u. 4. Mädchen-Mittelschule, Iltis-<br/>straße 82</td>\n</tr>\n<tr>\n<td>90 44</td>\n<td>Städt. Mädchenschule, Fährstr.</td>\n</tr>\n<tr>\n<td>61 73</td>\n<td>Handwerker Berufsschule, Wilhelm.Str. 32</td>\n</tr>\n<tr>\n<td>21 42</td>\n<td>Industrie-Berufsschule Wahlstr 9A</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "60 40 Stadtwerke Kiel",
+        "entries": [
+          {
+            "extension": "44",
+            "text": "61 Dies., Elektriz.- u. Gaswerk, Wik Holt. 135 Dies., desgl. Holtenau Holt. 37 Wasserwerk Kiel-Pries"
+          },
+          {
+            "extension": "60",
+            "text": "61 Theodor-Kutzer-Neumühle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "45",
+            "text": "68 Wasserwerk Ravensberg"
+          },
+          {
+            "extension": "10",
+            "text": "22 Wasserwerk Schulensee"
+          },
+          {
+            "extension": "9",
+            "text": "27 Wasserwerk Schwentinetal"
+          },
+          {
+            "extension": "75",
+            "text": "20 Straßenreinigungsanstalt, Str.d.SA. 84"
+          },
+          {
+            "extension": "6",
+            "text": "14 Theater, Opernhaus"
+          },
+          {
+            "extension": "5",
+            "text": "51 Dass., Schauspielhaus"
+          },
+          {
+            "extension": "12",
+            "text": "23 Verwaltungsstellen, Elm Jettkorn 3 Holt. 64 Dies., Holtenau, Kanalstr. 37"
+          },
+          {
+            "extension": "10",
+            "text": "63 Dies., -Neumühlen-Dietrichsdorf, Ivensring Holt. 55 Dies., -Pries, Fr.Reuter-Str. 87"
+          },
+          {
+            "extension": "26",
+            "text": "11 Walderholungsstätte Vieburg"
+          },
+          {
+            "extension": "88",
+            "text": "66 Wohnungsinspektion, Eisenbahndamm 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "8",
+            "text": "13"
+          },
+          {
+            "extension": "56",
+            "text": "11"
+          },
+          {
+            "extension": "62",
+            "text": "33"
+          },
+          {
+            "extension": "14",
+            "text": "10"
+          },
+          {
+            "extension": "51",
+            "text": "17"
+          },
+          {
+            "extension": "20",
+            "text": "12"
+          },
+          {
+            "extension": "19",
+            "text": "43"
+          },
+          {
+            "extension": "24",
+            "text": "83"
+          },
+          {
+            "extension": "65",
+            "text": "42"
+          },
+          {
+            "extension": "90",
+            "text": "58"
+          },
+          {
+            "extension": "22",
+            "text": "42"
+          },
+          {
+            "extension": "34",
+            "text": "79"
+          },
+          {
+            "extension": "87",
+            "text": "59"
+          },
+          {
+            "extension": "103",
+            "text": "03"
+          },
+          {
+            "extension": "2",
+            "text": "71"
+          },
+          {
+            "extension": "19",
+            "text": "84"
+          },
+          {
+            "extension": "33",
+            "text": "55"
+          },
+          {
+            "extension": "102",
+            "text": "76"
+          },
+          {
+            "extension": "30",
+            "text": "44"
+          },
+          {
+            "extension": "57",
+            "text": "56"
+          },
+          {
+            "extension": "55",
+            "text": "79"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "47",
+            "text": "20"
+          },
+          {
+            "extension": "44",
+            "text": "40"
+          },
+          {
+            "extension": "41",
+            "text": "93"
+          },
+          {
+            "extension": "58",
+            "text": "17"
+          },
+          {
+            "extension": "83",
+            "text": "09"
+          },
+          {
+            "extension": "51",
+            "text": "74"
+          },
+          {
+            "extension": "77",
+            "text": "33"
+          },
+          {
+            "extension": "63",
+            "text": "60"
+          },
+          {
+            "extension": "38",
+            "text": "54"
+          },
+          {
+            "extension": "54",
+            "text": "00"
+          },
+          {
+            "extension": "15",
+            "text": "40"
+          },
+          {
+            "extension": "31",
+            "text": "90"
+          },
+          {
+            "extension": "34",
+            "text": "96"
+          },
+          {
+            "extension": "55",
+            "text": "53"
+          },
+          {
+            "extension": "66",
+            "text": "65"
+          },
+          {
+            "extension": "105",
+            "text": "04"
+          },
+          {
+            "extension": "24",
+            "text": "81"
+          },
+          {
+            "extension": "85",
+            "text": "10"
+          },
+          {
+            "extension": "52",
+            "text": "60"
+          },
+          {
+            "extension": "21",
+            "text": "30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 558\" data-label=\"Text\"><table><tbody><tr><td>21 65</td><td>Stange, Hans, Großvertrieb in Kurz- und Süßwaren, Lerchenstr. 22</td></tr><tr><td>131 30</td><td>Stapelfeldt, Irma, Händl., Nordd.Str. 34</td></tr><tr><td>11 01</td><td>Stapf. Leo, Architekt, Forstweg 66</td></tr><tr><td>61 02</td><td>v. Starck, L., Ww., Karolinenweg 9</td></tr><tr><td>33 29</td><td>Stargardt, Walter, Tischlerei, Fleethörn 59</td></tr></tbody></table></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 799 995\" data-label=\"Text\"><table><tbody><tr><td>104 48</td><td>Stark, O.-Buchf., Schauenb.Str. 40</td></tr><tr><td>Holt. 291</td><td>Stark, Chr., Schiffsmotoren, AmKai 10</td></tr><tr><td>27 13</td><td>Stark, Hans, Vertreter, Harmsstr. 40</td></tr><tr><td>35 25</td><td>Starke, Arn., Drogist, KrusenrotterWeg 56</td></tr><tr><td>106 92</td><td>Starke, Robert, Esmarchstr. 17</td></tr><tr><td>38 27</td><td>Starke, Walt., Druckerei, Brunsw.Str. 9</td></tr><tr><td>21 28</td><td>Starken, Karl, Milch, Blocksberg 1</td></tr><tr><td>44 48</td><td>Starken, Rud., Meiercibes., Gneis.Str. 2</td></tr><tr><td>46 62</td><td>Starken, Wilh., Meiercri, KnooperWeg 136a</td></tr><tr><td>94 96</td><td>Statzner, Otto, Zahnlabor., Rosenstr. 9</td></tr><tr><td>8 53</td><td>Stauffer, W., Autocrp., H.Friedrich-Str. 35</td></tr><tr><td>11 05</td><td>Stav, Catharina, Vertr., Lornsenstr. 17</td></tr><tr><td>32 94</td><td>Stav, Karl, Glaserei, Prüne 37</td></tr><tr><td>13 71</td><td>Stav, Paul, Malermstr., Prüne 37</td></tr><tr><td>37 15</td><td>Stave, Wilh., Kol.-W., PreetzerChaussee 11</td></tr><tr><td>94 88</td><td>Steboy, Marta, Heißmangel, H.Frdr.Str. 45</td></tr><tr><td>40 15</td><td>Steck, Käte, Masseurin, Graf-Spee-Str. 3</td></tr><tr><td>44 90</td><td>Steen, Fritz, Kfm., Tirpitzstr. 126</td></tr><tr><td>33 03</td><td>Steen, Hans, Landwirt, Kieler Hof</td></tr><tr><td>31 73</td><td>Steen, Julius, Inh.: Ernst Bührsche, Fischgroßhandlung, Wall 65</td></tr><tr><td>20 21</td><td>Steen Otto Vormas Kronshurg Raosen-</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "40",
+            "text": "98 Steen, Paula, BrunswikerStr. 22"
+          },
+          {
+            "extension": "50",
+            "text": "10 Steenbock, W., Fensterreinig., Vinetapl. 1"
+          },
+          {
+            "extension": "135",
+            "text": "58 Steensen, Joh., Bauing., Adalbertstr. 5"
+          },
+          {
+            "extension": "132",
+            "text": "73 Steffen, Dipl.-Ing., BremerStr. 5"
+          },
+          {
+            "extension": "28",
+            "text": "36 Steffen, Hans, Heikendorf, Wildgarten"
+          },
+          {
+            "extension": "39",
+            "text": "29 Steffen, H., Gasbrennerrein., Adalbertstr. 27"
+          },
+          {
+            "extension": "32",
+            "text": "03 Steffen, Hch., Tischler, Neumühl. Str. 55"
+          },
+          {
+            "extension": "134",
+            "text": "34 Steffen, Joh., Milch, Jeßstr. 17"
+          },
+          {
+            "extension": "100",
+            "text": "69 Steffen, Karl, Metzstr. 39a"
+          },
+          {
+            "extension": "27",
+            "text": "85 Steffen, Dr. Otto, Arzt, Lornsenstr. 52"
+          },
+          {
+            "extension": "36",
+            "text": "39 Steffen, Wilh., Betriebsl., Annenstr. 58"
+          },
+          {
+            "extension": "22",
+            "text": "68 Steffen, W., Lebensm., Schwentinestr. 26"
+          },
+          {
+            "extension": "51",
+            "text": "93 Steffen, Wilhelm, Fuhrbetr., Knorrstr. 8"
+          },
+          {
+            "extension": "101",
+            "text": "21 Steffens, Hch., Drechsl., Holt. Str. 124"
+          },
+          {
+            "extension": "363",
+            "text": "} Joh. Steffens Brot- und Gebäckfabrik"
+          },
+          {
+            "extension": "364",
+            "text": "} Holstenstraße 63. P Hamburg 4194"
+          },
+          {
+            "extension": "80",
+            "text": "13 Derselbe, Zweiggesch., Dänische Str. 20"
+          },
+          {
+            "extension": "63",
+            "text": "71 Steffens, Dr. Wilh., Apoth., Holten. Str. 8"
+          },
+          {
+            "extension": "59",
+            "text": "63 Stegelmann, Joh., Baugesch., Scharnh. Str. 15"
+          },
+          {
+            "extension": "70",
+            "text": "07 ..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "40 27 Martha Stegmann",
+        "entries": [
+          {
+            "extension": "80",
+            "text": "09 Dieselbe, Privat, Quinckestr. 12"
+          },
+          {
+            "extension": "24",
+            "text": "01 Stehle, Alfr., Kaptltn., KnooperWeg 44"
+          },
+          {
+            "extension": "2",
+            "text": "78 Stehmann, Heesch & Co, Lackfbr., Sophien- blatt 48"
+          },
+          {
+            "extension": "26",
+            "text": "05 Stehn, Heinr., Kfm.-Schule, Holstenstr. 99"
+          },
+          {
+            "extension": "95",
+            "text": "15 Stehn, Otto, Buchh.-Organ., LangeReihe 18"
+          },
+          {
+            "extension": "30",
+            "text": "93 Stehning, Arthur, Kaiserstr. 70a"
+          },
+          {
+            "extension": "60",
+            "text": "62 Stehr, Frdr. W., Heißmangel, Karlstr. 9"
+          },
+          {
+            "extension": "84",
+            "text": "78 Stein, Ad., Ing., Moltkestr. 37a"
+          },
+          {
+            "extension": "52",
+            "text": "26 Stein, F., Kfm., Lantziusstr. 54 Holt. 232 Steinacker, K., Lagermstr., Müll.-Weg 3"
+          },
+          {
+            "extension": "01",
+            "text": "70 Steinh..."
+          },
+          {
+            "extension": "01",
+            "text": "70 Steinh..."
+          },
+          {
+            "extension": "01",
+            "text": "70 Steinh..."
+          },
+          {
+            "extension": "01",
+            "text": "70 Steinh..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 800 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>3 57</td>\n<td>Steinert, Anni, Konfit., Ringstr. 30</td>\n</tr>\n<tr>\n<td>99 67</td>\n<td>Steinert, Aug., Gastw., Brunsw.Str. 14</td>\n</tr>\n<tr>\n<td>79 43</td>\n<td>Steinert, Martha, Prof., v.d.Goltz-Allee 73</td>\n</tr>\n<tr>\n<td>61 36</td>\n<td>Steinfurth, Franz, Maler, Jungmannstr. 14</td>\n</tr>\n<tr>\n<td>70 65</td>\n<td>Steinfurth, Johs., Tischl., Koldingstr. 6</td>\n</tr>\n<tr>\n<td>35 41</td>\n<td>Steinhilber, Ad., Tapez., Jungmannstr. 58</td>\n</tr>\n<tr>\n<td>9 08</td>\n<td>Steinicke, Chr. G., Kol.-W., Ringstr. 64</td>\n</tr>\n<tr>\n<td>38 41</td>\n<td>Steinke, Erich, Ang., Olshausenstr. 17</td>\n</tr>\n<tr>\n<td><b>61 44</b></td>\n<td><b>Steinkopf, Berthold, Marinewerft, Kiel, Dammstraße 44</b></td>\n</tr>\n<tr>\n<td>Holt. 5</td>\n<td>Steiskal, Hans, Mühle, Pries, Dorf 13</td>\n</tr>\n<tr>\n<td>7 38</td>\n<td>Steller, Paul, Heilprakt., Hardenb.Str. 20</td>\n</tr>\n<tr>\n<td>54 78</td>\n<td>Stelljes, Mathilde, Forstweg 87</td>\n</tr>\n<tr>\n<td>7 84</td>\n<td>Stelting, Andreas, Eisenwr., TiefcAllee 43</td>\n</tr>\n<tr>\n<td>62 16</td>\n<td>Stelting, J., Kol.-Wr., Heikendorf 1</td>\n</tr>\n<tr>\n<td>20 60</td>\n<td>Stelting, W., Drogerie, Schönkirch.Str. 19</td>\n</tr>\n<tr>\n<td>72 98</td>\n<td>Steltzner, Otto, Tischlerei, Lornsenstr. 54</td>\n</tr>\n<tr>\n<td>27 05</td>\n<td>Stempelfbr. Heinrich Potz, Willestr. 3</td>\n</tr>\n<tr>\n<td>69 68</td>\n<td>Stender, Emma, Hebamme, Gneisenaustr. 2</td>\n</tr>\n<tr>\n<td>106 38</td>\n<td>Stender, Hellm., Milch, Schülperbaum 14</td>\n</tr>\n<tr>\n<td>105 38</td>\n<td>Stender. Liesbeth. Klonstockstr. 7</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": [
+          {
+            "extension": "34",
+            "text": "Sternwarte, Niemannsweg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 796 960\" data-label=\"Text\"><table><tbody><tr><td>35 79</td><td>Derselbe, Wohn., Roonstr. 11</td></tr><tr><td>4 19</td><td>Stobbe, Justizrat, Rechtsanwalt u. Notar,<br/>Dr. Georg Roß, Rechtsanwalt, Holstenstr. 64</td></tr><tr><td>47 57</td><td>Stock, Jürgen, Kartoffeln, Hofstr. 10</td></tr><tr><td>(48 13)</td><td>Stockhusen, C., Obering., Moorblöcken 10</td></tr><tr><td>16 58</td><td>Stockmann, Luise, Esmarchstr. 5</td></tr><tr><td>102 11</td><td>Stockner, A., Schlachter, KielerStr. 36</td></tr><tr><td>16 23</td><td>Stocks, Heinrich, Tischler, Stadtfeldkamp 45</td></tr><tr><td>65 69</td><td>Stocks, Marta, Lebensm., HoltenauerStr. 38</td></tr><tr><td>64 19</td><td>Stöbbe, Fritz, Lebensm., Werftstr. 4</td></tr><tr><td>34 02</td><td>Stöcker, Carl, H.-Konf., HoltenauerStr. 23</td></tr><tr><td>33 46</td><td>Stöcks, Johs., Lebensm., Kastanienstr. 7</td></tr><tr><td>61 88</td><td>Stödter, Hedwig, Damenhüte, Dän.Str. 18</td></tr><tr><td>2 67</td><td>Stöhr, Martin, Obering., Lantziusstr. 50</td></tr><tr><td>9 97</td><td>Stölting, Dorothea, Hanssenstr. 13</td></tr><tr><td>85 33</td><td>Stölting, Emil, Kfm., Harnsstr. 16</td></tr><tr><td>59 36</td><td>Stölting, Hans, Lebensm., Helgolandstr. 6</td></tr><tr><td>27 76</td><td>Stölting, Herm., Fuhrgesch., Gabelsb.Str. 4</td></tr><tr><td>79 06</td><td>Stölting, Th., Install., Kronsh.Weg 39</td></tr><tr><td>75 53</td><td>Stölting, Willh., Lebensm., Aug.Str. 81</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, markings, or illustrations.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

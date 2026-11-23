@@ -1,0 +1,462 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": [
+      {
+        "region_name": "siehe am Kopf von Wien (S. 792).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"231 10 998 995\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>B4 42 39</td>\n<td>Kaffee Monopol, VIII/65, Landesgerichtsstraße 9</td>\n</tr>\n<tr>\n<td>U4 81 49</td>\n<td>Kaffee Morvay, XX/20, Hellwagstr. 2</td>\n</tr>\n<tr>\n<td>U2 93 84</td>\n<td>Kaffee Morzin, I/1, Salzgies 2</td>\n</tr>\n<tr>\n<td>R2 33 15</td>\n<td rowspan=\"2\">{ Kaffee „Mozart“, Inh.: Fritz Gindeihuber,<br/>Wien I/1, Albertinaplatz 2</td>\n</tr>\n<tr>\n<td>R2 34 13</td>\n</tr>\n<tr>\n<td>R4 70 50</td>\n<td>Kaffee Mozart, II/27, Komödieng. 8</td>\n</tr>\n<tr>\n<td>U1 62 78</td>\n<td>Kaffee Mozart, III/40, Reisserstr. 7</td>\n</tr>\n<tr>\n<td>B4 40 80</td>\n<td>Kaffee Mozart, VIII/65, Lerchenf. Str. 38</td>\n</tr>\n<tr>\n<td>U3 45 76</td>\n<td>Kaffee Mozarthof, XIV/89, Tiefendorfgr. 1</td>\n</tr>\n<tr>\n<td>R5 71 71</td>\n<td>Kaffee Müller, IX/66, Alserb. Str. 28</td>\n</tr>\n<tr>\n<td>A1 72 46</td>\n<td>Kaffee Müller, IX/66, Bergg. 15</td>\n</tr>\n<tr>\n<td>R4 32 40</td>\n<td><b>Kaffee „München“</b> Sebastian Pickl<br/>Konditorei, II/27, Zirkusgasse 25</td>\n</tr>\n<tr>\n<td>U1 13 30</td>\n<td><b>Kaffee Münzamt, Hans Pfeiffer, Wien III/40, Am Heumarkt 3</b></td>\n</tr>\n<tr>\n<td>B4 54 02</td>\n<td>Kaffee Munzar, XVI/107, Ottakr. Str. 98</td>\n</tr>\n<tr>\n<td>B2 35 40</td>\n<td>Kaffee Museum, I/1, Friedr. Str. 6</td>\n</tr>\n<tr>\n<td>U4 40 11</td>\n<td>Kaffee Nadler, IV/50, Wied. Hptstr. 47</td>\n</tr>\n<tr>\n<td>A1 55 26</td>\n<td>Kaffee Nägerl, IX/66, Bergg. 12</td>\n</tr>\n<tr>\n<td>B4 40 42</td>\n<td>Kaffee Nadler, XVI/107, Ottakr. Str. 15</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 992 990\" data-label=\"Table\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>R4 84 12</td>\n<td>Kaffee Nestroy, 11/27, Czerning. 1</td>\n</tr>\n<tr>\n<td>B3 63 02</td>\n<td>Kaffee Neubau, VII/62, Westbahnstr. 60</td>\n</tr>\n<tr>\n<td>B3 90 38</td>\n<td>Kaffee Neubauer, Bürger-, VI/56, Burggasse 68</td>\n</tr>\n<tr>\n<td>U1 33 64</td>\n<td>Kaffee Neuling, III/40, Ungarg. 52</td>\n</tr>\n<tr>\n<td>A4 90 10</td>\n<td>Kaffee Niebauer, II/27, Taborstr. 37</td>\n</tr>\n<tr>\n<td>R3 10 41</td>\n<td>Kaffee Niederhof, XII/82, Rosalig. 1</td>\n</tr>\n<tr>\n<td>R5 70 32</td>\n<td>Kaffee Nösner, XIX/117, Döbl.Hptstr. 22</td>\n</tr>\n<tr>\n<td>R4 62 70</td>\n<td>Kaffee Nordbahn, II/27, Nordb.Str. 46</td>\n</tr>\n<tr>\n<td>U1 83 27</td>\n<td><b>Kaffee Nordkap, Anton Baccolich &amp; Co., Wien III/40, Landstr. Hauptstr. 8</b></td>\n</tr>\n<tr>\n<td>U1 80 23</td>\n<td>Kaffee Norma, III/40, Rennweg 5</td>\n</tr>\n<tr>\n<td>R4 70 84</td>\n<td>Kaffee Nowak, XXI/146, Wagr.Str. 132</td>\n</tr>\n<tr>\n<td>B1 10 19</td>\n<td>Kaffee Nußdorf, XIX/119, Nußd.Pl. 1</td>\n</tr>\n<tr>\n<td>B5 70 61</td>\n<td>Kaffee Obenaus, III/40, Rasum.G. 2</td>\n</tr>\n<tr>\n<td>U1 50 09</td>\n<td>Kaffee Oberhummer, III/40, Sechskrügelgasse 2</td>\n</tr>\n<tr>\n<td>U1 40 61</td>\n<td>Kaffee Olymp, III/40, Hauptstr. 116</td>\n</tr>\n<tr>\n<td>A1 00 23</td>\n<td>Kaffee Olympia, IX/66, Hörlg. 6</td>\n</tr>\n<tr>\n<td>R2 05 40</td>\n<td>Kaffee Opern-, I/1, Opernr. 4</td>\n</tr>\n<tr>\n<td>R2 44 51</td>\n<td>Dass., Opernkl. u. Büro</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 0 991 994\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>IV</th>\n<th>VI</th>\n<th>VI</th>\n<th>Wien</th>\n<th>Uppauer, Laxdorf, Döbriach, etc.</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>R4</td>\n<td>04</td>\n<td>50</td>\n<td>Kaffee Orient</td>\n<td>II/27, Praterstr. 66</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>63</td>\n<td>33</td>\n<td>Kaffee Orpheus</td>\n<td>XVI/107, Lerchenf. G. 41</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>15</td>\n<td>22</td>\n<td>Kaffee Ostend</td>\n<td>IV/50, Wied.G. 10</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>69</td>\n<td>01</td>\n<td>Kaffee Osterieder</td>\n<td>XV/101, Gerstnerg. 3</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>70</td>\n<td>16</td>\n<td rowspan=\"2\">Kaffee „Ostmark“ (Haag &amp; Co.), Wien</td>\n<td rowspan=\"2\">I/1, Rotenturmstraße 8</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>42</td>\n<td>55</td>\n</tr>\n<tr>\n<td>R1</td>\n<td>34</td>\n<td>48</td>\n<td>Kaffee Ostmark</td>\n<td>X/75, Favor.Str. 124</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>05</td>\n<td>92</td>\n<td>Kaffee Ostmark</td>\n<td>XX/20, K.Meißstr. 2</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>03</td>\n<td>63</td>\n<td>U Kaffee Ostmark</td>\n<td>XVII/107, Kalvar.G. 22</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>10</td>\n<td>01</td>\n<td>Kaffee Ostmark</td>\n<td>IX/71, Währ.Str. 67</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>72</td>\n<td>87</td>\n<td>Kaffee Ostmark</td>\n<td>XI/79, Simm.Hauststraße 121</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>60</td>\n<td>15</td>\n<td><b>Kaffee Palace Hotel</b></td>\n<td>Inh. Elia Bertolli<br/>Wien VI/56, Mariahilfer Straße 99</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>60</td>\n<td>39</td>\n<td><b>Kaffee Palast</b></td>\n<td>Inh. Josef Ebermann<br/><b>Kaffeehaus, Wien III/40, Rennweg 21</b></td>\n</tr>\n<tr>\n<td>A1</td>\n<td>70</td>\n<td>34</td>\n<td>Kaffee Palast</td>\n<td>IX/66, Nußd.Str. 80</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>15</td>\n<td>04</td>\n<td>Kaffee Palmhof</td>\n<td>XV/101, Mariah.Str. 135</td>\n</tr>\n<tr>\n<td colspan=\"5\">The rest of the page is illegible due to extreme blurring.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"227 0 997 992\" data-label=\"Text\"><table><tbody><tr><td>B2 74 07</td><td>Kaffee Papageno u. Diele, IV/50, Operngassè 24</td></tr><tr><td>R6 09 30</td><td>Kaffee Paradies, XIX/114, Ham.Str. 10</td></tr><tr><td>B5 15 77</td><td>Kaffee Park-, III/40, Fasang. 55</td></tr><tr><td>R3 20 83</td><td>Kaffee, Park-, (Weber), XV/101, Mariah. Straße 131</td></tr><tr><td>U5 25 37</td><td>Kaffee, Park-, XVII/107, Dornb.Str. 3</td></tr><tr><td>A4 62 62</td><td>Kaffee, Park-, XX/20, Allerh.Pl. 3</td></tr><tr><td>A5 10 70</td><td>Kaffee Park-Hotel Schönbrunn, XIII/89, Hletz.Hauptstr. 12</td></tr><tr><td>R2 53 77</td><td>Kaffee Parkring, I/1, Schell.G. 1</td></tr><tr><td>R2 55 95</td><td>Kaffee Parsifal, I/1, Walf.G. 13</td></tr><tr><td>B2 40 34</td><td>Kaffee Partinger, VI/56, Gumpend.Str. 3</td></tr><tr><td>B3 90 69</td><td>Kaffee Partinger, VII/62, Westb.Str. 21</td></tr><tr><td>U2 14 64</td><td>Kaffee Passauerhof, I/1, PassauerPl. 2</td></tr><tr><td>B3 62 66</td><td>Kaffee Passoni, VII/62, Kaiserstr. 18</td></tr><tr><td>B3 92 88</td><td>Kaffee Paul, VII/62, Schottenf.G. 48a</td></tr><tr><td>B2 92 54</td><td>Kaffee Paulanerhof, IV/50, Schleifm.G. 2</td></tr><tr><td>B5 78 20</td><td>Kaffee Pauly, III/40, Erdbergstr. 53</td></tr><tr><td>U2 91 25</td><td>Kaffee Pax, I/1, Bauernmarkt 10</td></tr><tr><td>B2 04 09</td><td>Kaffee Payr. VI/56. Getreidemarkt 7</td></tr></tbody></table></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"228 0 997 975\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"4\">U 1 70 60</th>\n<th colspan=\"4\">Kaffee</th>\n<th colspan=\"4\">Donaustauf, III/70, Mariastr. 8</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A5</td>\n<td>65</td>\n<td>03</td>\n<td>Kaffee</td>\n<td>Penzingerhof,</td>\n<td>XIV/89,</td>\n<td>Penz.</td>\n<td>Str. 39</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>U1</td>\n<td>44</td>\n<td>34</td>\n<td>Kaffee</td>\n<td>Perwein,</td>\n<td>III/40,</td>\n<td>Ungarg.</td>\n<td>21</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R3</td>\n<td>00</td>\n<td>36</td>\n<td>Kaffee</td>\n<td>Peschke,</td>\n<td>XII/82,</td>\n<td>Giersterg.</td>\n<td>14</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>U3</td>\n<td>28</td>\n<td>34</td>\n<td>Kaffee</td>\n<td>Petrousek,</td>\n<td>XVI/106,</td>\n<td>Lerchenf.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Gürtel</td>\n<td>3</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R2</td>\n<td>20</td>\n<td>02</td>\n<td>Kaffee</td>\n<td>Petuzzi,</td>\n<td>I/1,</td>\n<td>Himmelpf.G.</td>\n<td>24</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R3</td>\n<td>14</td>\n<td>93</td>\n<td>Kaffee</td>\n<td>Philadelphia,</td>\n<td>XII/82,</td>\n<td>Wilh.Str.</td>\n<td>68</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R2</td>\n<td>41</td>\n<td>53</td>\n<td>Kaffee</td>\n<td>Philipphof,</td>\n<td>I/1,</td>\n<td>Führ.G.</td>\n<td>5</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A3</td>\n<td>30</td>\n<td>35</td>\n<td>Kaffee</td>\n<td>Phönix,</td>\n<td>VI/56,</td>\n<td>Webg.</td>\n<td>6</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B3</td>\n<td>32</td>\n<td>40</td>\n<td>Kaffee</td>\n<td>Phönixhof,</td>\n<td>VII/62,</td>\n<td>Neust.G.</td>\n<td>55</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A3</td>\n<td>40</td>\n<td>09</td>\n<td>Kaffee</td>\n<td>Phorusplatz,</td>\n<td>V/55,</td>\n<td>Leebpl.</td>\n<td>4</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A4</td>\n<td>30</td>\n<td>11</td>\n<td>Kaffee</td>\n<td>Piccolo,</td>\n<td>II/27,</td>\n<td>Gredlerstr.</td>\n<td>10</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B2</td>\n<td>52</td>\n<td>16</td>\n<td>Kaffee</td>\n<td>Piccolo,</td>\n<td>V/55,</td>\n<td>Schönbr.Str.</td>\n<td>29</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>U1</td>\n<td>44</td>\n<td>84</td>\n<td>Kaffee</td>\n<td>Eduard Plesar,</td>\n<td>III/40,</td>\n<td>Fasang.</td>\n<td>40</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A6</td>\n<td>12</td>\n<td>42</td>\n<td>Kaffee</td>\n<td>Ludwig Plotzer,</td>\n<td>XXI/141,</td>\n<td>Bismarckpl.</td>\n<td>11</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>B2</td>\n<td>75</td>\n<td>90</td>\n<td>Kaffee</td>\n<td>Pöchhacker,</td>\n<td>I/1,</td>\n<td>KärntnerStr.</td>\n<td>46</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A4</td>\n<td>61</td>\n<td>62B</td>\n<td>Kaffee</td>\n<td>Pöchlarnhof,</td>\n<td>XX/20,</td>\n<td>Pöchl.Str.</td>\n<td>8</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A3</td>\n<td>51</td>\n<td>87</td>\n<td>Kaffee</td>\n<td>Post,</td>\n<td>V/55,</td>\n<td>Schönbr.Str.</td>\n<td>102</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>A2</td>\n<td>02</td>\n<td>71</td>\n<td>Kaffee</td>\n<td>Post,</td>\n<td>IX/71,</td>\n<td>Lazar.G.</td>\n<td>10</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"230 0 998 961\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>A5</td>\n<td>60</td>\n<td>35</td>\n<td>Kaffee Post,</td>\n<td>XIV/89, Penz.Str. 57</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>92</td>\n<td>41</td>\n<td>Kaffee Postsparkasse,</td>\n<td>I/1, Biberstr. 10</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>88</td>\n<td>42</td>\n<td>Kaffee Prantner,</td>\n<td>XV/101, Märzstr. 105</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>73</td>\n<td>50</td>\n<td>Kaffee Praterstern</td>\n<td>II/27, Nordbahnstr. 56</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>75</td>\n<td>28</td>\n<td>Kaffee Proksch,</td>\n<td>VII/62, Burgg. 100a</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>35</td>\n<td>50</td>\n<td>Kaffee Prückel,</td>\n<td>I/1, Stubenring 24</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>00</td>\n<td>48</td>\n<td>Kaffee Pundy,</td>\n<td>V/55, Wied.Hptstr. 101</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>42</td>\n<td>08</td>\n<td>Kaffee Pusch,</td>\n<td>VIII/65, Alserstr. 71</td>\n</tr>\n<tr>\n<td>U2</td>\n<td>12</td>\n<td>15</td>\n<td>Kaffee Rabel,</td>\n<td>I/1, Wallnerstr. 2</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>50</td>\n<td>49</td>\n<td>Kaffee Rabenhof,</td>\n<td>III/40, Rabeng. 12</td>\n</tr>\n<tr>\n<td>U2</td>\n<td>42</td>\n<td>82</td>\n<td>Kaffee Rabensteig,</td>\n<td>I/1, Rabensteig 4</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>50</td>\n<td>82</td>\n<td>Kaffee Radetzkyplatz,</td>\n<td>III/40, Rad.Pl. 5</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>60</td>\n<td>30</td>\n<td>Kaffee Radio,</td>\n<td>VIII/65, Langeg. 30</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>14</td>\n<td>71</td>\n<td>Kaffee Raimund,</td>\n<td>I/1, Museumstr. 10</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>82</td>\n<td>34</td>\n<td>Kaffee Raimundhof,</td>\n<td>VI/56, Strohm.G. 15</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>63</td>\n<td>92</td>\n<td>Kaffee Rainer,</td>\n<td>II/27, Leopoldsg. 22</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>93</td>\n<td>59</td>\n<td>Kaffee Rainerhof,</td>\n<td>IV/50, Rainerg. 4a</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>10</td>\n<td>22</td>\n<td>Kaffee Rasumofsky,</td>\n<td>III/40, Rasum.G. 10</td>\n</tr>\n<tr>\n<td>U2</td>\n<td>20</td>\n<td>64</td>\n<td>Kaffee Rath (Alois Rath),</td>\n<td>Wien I/1, Bankgasse 2</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory (Reichstelefonbuch). It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>B4</td>\n<td>24</td>\n<td>54</td>\n<td>Kaffee Rathaus, VIII/65, Landesger.Str. 5</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>84</td>\n<td>05</td>\n<td>Kaffee Rathaus, XVII/107, Kalv.G. 35</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>73</td>\n<td>04</td>\n<td>Kaffee Rauhenstein, I/1, Rauhenst.G. 7</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>45</td>\n<td>50</td>\n<td>Kaffee Rebhuhn, I/1, Goldschm.G. 8</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>12</td>\n<td>09</td>\n<td>Kaffee Regina, IX/66, Nußd.Str. 24</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>02</td>\n<td>30</td>\n<td>Kaffee Reichsbrücke, II/27, Reichsbr.-<br/>Straße 21</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>30</td>\n<td>53</td>\n<td>Kaffee-Restaurant Reichsrat mit Diele,<br/>Wien I/1, Adolf-Hitler-Platz 7/8</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>20</td>\n<td>33</td>\n<td>Kaffee Reichssender, IV/50, Favoriten-<br/>straße 13</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>88</td>\n<td>39</td>\n<td>Kaffee Reindorf, XV/101, Reind.G. 22</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>94</td>\n<td>86</td>\n<td>Kaffee Reiner, IV/50, Kettenbr.G. 4</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>50</td>\n<td>61</td>\n<td>Kaffee Reisebauer, V/55, Wied.Hptstr. 94</td>\n</tr>\n<tr>\n<td>U2</td>\n<td>12</td>\n<td>01</td>\n<td>Kaffee Reisenleitner, I/1, Josefskai 59</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>33</td>\n<td>04</td>\n<td>Kaffee Reiter, III/40, Ob.Weißg.Str. 18</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>82</td>\n<td>24</td>\n<td>Kaffee Reitschule, XII/82, Grünb.Str. 5</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>10</td>\n<td>13</td>\n<td>Kaffee Residenz, XVIII/110, Währ.G. 107</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>70</td>\n<td>15</td>\n<td>Kaffee Resselpark, IV/50, Resselpark</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>40</td>\n<td>15</td>\n<td>Kaffee Reumann, III/40, Boerhaveg. 21</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>03</td>\n<td>57</td>\n<td>Kaffee Reumannhof, V/55, Marg.G. 100</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>21</td>\n<td>021</td>\n<td>Kaffee Dialw VII/20 Ammonstr. 02</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 991\" data-label=\"Text\"><table><tbody><tr><td>A3</td><td>75</td><td>68</td><td>Kaffee</td><td>Ricky, XII/82, Flurschützstr. 21</td></tr><tr><td>R4</td><td>51</td><td>02L</td><td>Kaffee</td><td>Riedl, II/27, Franzensbr.Str. 3</td></tr><tr><td>R3</td><td>15</td><td>20</td><td>Kaffee</td><td>Riedmüller, XV/101, Sechsh.Str. 4</td></tr><tr><td>B2</td><td>90</td><td>32</td><td>Kaffee</td><td>Rigoletto, IV/50, Operng. 25</td></tr><tr><td>U5</td><td>00</td><td>44</td><td>Kaffee</td><td>Ritter, XVI/107, Ottakr.Str. 117</td></tr><tr><td>B2</td><td>25</td><td>75</td><td>Kaffee</td><td>Ritter, VI/56, Mariah.Str. 73</td></tr><tr><td>A4</td><td>42</td><td>20</td><td>Kaffee</td><td>Riviéra, II/27, Ob.Donaustr. 33</td></tr><tr><td>U1</td><td>14</td><td>82</td><td>Kaffee</td><td>Roehus, III/40, Salmg. 23</td></tr><tr><td>U2</td><td>24</td><td>16</td><td>Kaffee</td><td>Römerhof, I/1, Rothg. 5</td></tr><tr><td>A4</td><td>82</td><td>76</td><td>Kaffee</td><td>Romania, II/27, Lilienbr.G. 21</td></tr><tr><td>R3</td><td>75</td><td>53</td><td>Kaffee</td><td>Rote Laterne, XV/101, Herklotzgasse 18</td></tr><tr><td>R4</td><td>53</td><td>65</td><td>Kaffee</td><td>Rotunde, II/27, Ausstellg.Str. 23</td></tr><tr><td>B3</td><td>20</td><td>25</td><td>Kaffee</td><td>Rudolfshof, VII/62, Mariah.Str. 94</td></tr><tr><td>B1</td><td>15</td><td>49</td><td>Kaffee</td><td>Rudolfshof, XIX/117, Cobenzlg. 8</td></tr><tr><td>R1</td><td>33</td><td>41</td><td>Kaffee</td><td>Rudolfshügel, X/75, Laxenb. Straße 107</td></tr><tr><td>B2</td><td>60</td><td>27</td><td>Kaffee</td><td>Rüdigerhof, V/55, Hamb.Str. 20</td></tr><tr><td>R5</td><td>00</td><td>69</td><td>Kaffee</td><td>Rundfunk, IX/66, Alserbachstr. 37</td></tr><tr><td>R2</td><td>35</td><td>14</td><td>Kaffee</td><td>Sacher, I/1, Augus.Str. 4</td></tr><tr><td>A4</td><td>31</td><td>49</td><td>Kaffee</td><td>Sachsenhof, XX/20, Wallenst.-</td></tr></tbody></table></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 990 969\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">- - - - -</th>\n<th>Wien</th>\n<th>Wien</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>R4</td>\n<td>14 09</td>\n<td>Kaffee</td>\n<td>Sächsicher Hof, II/27, Taborstraße 46a</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>75 67</td>\n<td>Kaffee</td>\n<td>Salomon, XVI/107, Payerg. 14</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>00 62</td>\n<td>Kaffee</td>\n<td>Samstag, V/55, Schönbr. Str. 14</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>70 13</td>\n<td>Kaffee</td>\n<td>Sanettyhof, VIII/65, Sanettystr. 1</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>00 85</td>\n<td>Kaffee</td>\n<td>Sauer, Anna XV/101, Vogelweidplatz 12</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>20 01</td>\n<td>Kaffee</td>\n<td>Savoy, I/1, Himmelpfortg. 27</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>66 00</td>\n<td>Kaffee</td>\n<td>Savoy, XV/101, Neub.G. 35</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>96 57</td>\n<td>Kaffee</td>\n<td>Scala, IV/50, Neum.G. 4</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>02 68</td>\n<td>Kaffee</td>\n<td>Schemmel, VI/56, Stumperg. 61</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>19 33</td>\n<td>Kaffee</td>\n<td>Schenk, VIII/65, Blindeng. 28</td>\n</tr>\n<tr>\n<td>U2</td>\n<td>48 81</td>\n<td>Kaffee</td>\n<td>Schießer, I/1, Schulterg. 4</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>30 31</td>\n<td>Kaffee</td>\n<td>Schießler, XV/101, Sechshauserstraße 23</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>80 26</td>\n<td>Kaffee</td>\n<td>Schindler, III/40, Gärtnerg. 5</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>33 03</td>\n<td>Kaffee</td>\n<td>Schleger, IV/50, Gr.Neug. 5</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>94 15</td>\n<td>Kaffee</td>\n<td>Schmalvogl, VII/62, Neust.G. 127</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>21 50L</td>\n<td>Kaffee</td>\n<td>Schmahbauer, V/55, Margaretenstraße 74</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"17 968 977 993\" data-label=\"Page-Footer\">\n<p>A 1 1 n 0 n    W - 2 6 - -    0 1 - - - - 1 - - -    V V 1 0 n    1 7 1 2 - 4 - - - - - 1</p>\n</div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Straße 18",
+        "entries": []
+      },
+      {
+        "region_name": "Straße 278",
+        "entries": []
+      },
+      {
+        "region_name": "gasse 1",
+        "entries": []
+      },
+      {
+        "region_name": "Gasse 37",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 998 979\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>A1</td>\n<td>11</td>\n<td>4021</td>\n<td>Kaffee</td>\n<td>Buchbrunnen, Alserbachstr. 7, 25</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>92</td>\n<td>47</td>\n<td>Kaffee</td>\n<td>Schubertbrunnen, Zum, IX/66, Alserbachstr. 7</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>39</td>\n<td>91</td>\n<td>Kaffee</td>\n<td>Schubertpark, XVIII/110, Schulgasse 61</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>72</td>\n<td>46</td>\n<td>Kaffee</td>\n<td>Schüttelhof, II/27, Schüttelstr. 67</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>89</td>\n<td>31</td>\n<td>Kaffee</td>\n<td>Schulhof, XVIII/110, Schulg. 7</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>43</td>\n<td>43</td>\n<td>Kaffee</td>\n<td>Schwarz, III/40, Invalidenstr. 13</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>55</td>\n<td>28</td>\n<td>Kaffee</td>\n<td>Schwarzspanier, IX/71, Schwarzsp. Straße 15</td>\n</tr>\n<tr>\n<td>M6</td>\n<td>51</td>\n<td>46</td>\n<td>Kaffee</td>\n<td>Schwechat, <i>Schwe</i> WienerStr. 20</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>35</td>\n<td>88</td>\n<td>Kaffee</td>\n<td>Schweden, I/1, Schwedenpl. 1</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>84</td>\n<td>02</td>\n<td>Kaffee</td>\n<td>Schweigler, IX/66, Grünetorg. 19b</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>10</td>\n<td>63</td>\n<td>Kaffee</td>\n<td>Schweigler, XV/101, Märzstr. 32</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>15</td>\n<td>80</td>\n<td>Kaffee</td>\n<td>Schwenderhof, XV/101, Mariah. Straße 189</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>49</td>\n<td>23</td>\n<td>Kaffee</td>\n<td>Schwendermarkt, XV/101, Schwenderg. 19</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>65</td>\n<td>19</td>\n<td>Kaffee</td>\n<td>Seichter, XII/82, Schönbr. Str. 184</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>10</td>\n<td>46</td>\n<td>Kaffee</td>\n<td>Severin, IX/71, Severing. 19</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Wien: Kall",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 999\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>R2</td>\n<td>42</td>\n<td>40</td>\n<td>Kaffee Sport, I/1, Schönlg. 2</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>14</td>\n<td>75</td>\n<td>Kaffee Sport, II/27, Nordb.Str. 38</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>41</td>\n<td>65</td>\n<td>Kaffee Sport, IX/66, Währ.G. Stadtb.-<br/>Bogen 171</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>80</td>\n<td>12</td>\n<td>Kaffee A. Stadelmann, V/55, Schönbr.<br/>Straße 32</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>87</td>\n<td>16</td>\n<td>Kaffee Stadion, II/27, Mayerg. 5</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>87</td>\n<td>22</td>\n<td>Kaffee Stadion, III/40, Erdb.Str. 35</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>11</td>\n<td>23L</td>\n<td>Kaffee Stadler, II/27, Schönererstr. 23</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>20</td>\n<td>52</td>\n<td>Kaffee Stadlmann, IV/50, Favor.Str. 1</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>35</td>\n<td>95</td>\n<td>Kaffee Stadlmann, IX/66, Währ.Str. 26</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>23</td>\n<td>31</td>\n<td>Kaffee Stadt Nürnberg, VI/56, Mariah.<br/>Straße 89a</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>14</td>\n<td>89</td>\n<td>Kaffee Stadtbahn, XV/101, Clement.G. 4</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>87</td>\n<td>93</td>\n<td>Kaffee Stadtbahn, XV/101, Neub.G. 41</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>05</td>\n<td>81</td>\n<td>Kaffee Stadtmuseum, Hans Memmer,<br/>Konditorei, XV/101, Vogelweldplatz 6</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>55</td>\n<td>18</td>\n<td>Kaffee Stadtpark I/1, Parkring 2</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>42</td>\n<td>03</td>\n<td>Kaffee Stadttheater, VIII/65, Albertg. 39</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>71</td>\n<td>82</td>\n<td>Kaffee Stallburg, I/1, Habsburgg. 9</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>87</td>\n<td>47</td>\n<td>Kaffee Stark, III/40, Ungarg. 65</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>04</td>\n<td>24</td>\n<td>Kaffee Stark IV/50 Dominitonats 97a</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 991 991\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>U1</td>\n<td>30</td>\n<td>42</td>\n<td>Kaffee</td>\n<td>Staudigl, III/40, Rad.Str. 3</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>47</td>\n<td>08</td>\n<td>Kaffee</td>\n<td>Staudinger, XVIII/110, Gymn.-<br/>Straße 18</td>\n</tr>\n<tr>\n<td>R2</td>\n<td>81</td>\n<td>79</td>\n<td>Kaffee</td>\n<td>Steigel, I/1, Seilerstr. 14</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>12</td>\n<td>73</td>\n<td>Kaffee</td>\n<td>Steiner, XII/82, Schönbr.Str. 209</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>33</td>\n<td>30</td>\n<td>Kaffee</td>\n<td>Steinhauer, XV/101, Mariah.G. 29</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>80</td>\n<td>71</td>\n<td>Kaffee</td>\n<td>Steirerhof, III/40, Mohsg. 16</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>33</td>\n<td>49</td>\n<td>Kaffee</td>\n<td>Stephanie, V/55, Marg.Pl. 9</td>\n</tr>\n<tr>\n<td>B2</td>\n<td>82</td>\n<td>15</td>\n<td>Kaffee</td>\n<td>Steyrermühl, VI/56, Gumpend.<br/>Straße 50</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>22</td>\n<td>52</td>\n<td>Kaffee</td>\n<td>Stockholm, XVII/107, Hern.G. 31</td>\n</tr>\n<tr>\n<td>U5</td>\n<td>31</td>\n<td>16B</td>\n<td>Kaffee</td>\n<td>Straßenbahn, XVIII/110, Kreuz-<br/>gasse 67</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>68</td>\n<td>89</td>\n<td>Kaffee</td>\n<td>Straßer, VI/56, Windm.G. 20</td>\n</tr>\n<tr>\n<td>R1</td>\n<td>30</td>\n<td>45</td>\n<td>Kaffee</td>\n<td>Straub, X/75, Favoritenstr. 59</td>\n</tr>\n<tr>\n<td>R5</td>\n<td>10</td>\n<td>10</td>\n<td>Kaffee</td>\n<td>Strauch, IX/66, Althanstr. 7</td>\n</tr>\n<tr>\n<td>U2</td>\n<td>13</td>\n<td>04</td>\n<td>Kaffee</td>\n<td>Strauß, I/1, Franz-Jos.-Kai 31</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>32</td>\n<td>00</td>\n<td>Kaffee</td>\n<td>Strauß, IX/71, Alserstr. 16</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>74</td>\n<td>27</td>\n<td>Kaffee</td>\n<td>Strobl, II/27, Heinestr. 36</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>71</td>\n<td>39</td>\n<td>Kaffee</td>\n<td>Strobl, XIV/89, Hütteld.Str. 233</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>10</td>\n<td>17</td>\n<td>Kaffee</td>\n<td>Stumberger, IV/50, Argent.Str. 71</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 995\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>B2 64 76</td>\n<td>Kaffee Sudetenland, IV/50, Schönbr. Str. 4</td>\n</tr>\n<tr>\n<td>U4 30 99</td>\n<td>Kaffee Südbahn, IV/50, Wied.G. 64</td>\n</tr>\n<tr>\n<td>U4 31 01</td>\n<td><b>Kaffee Südbahnhof Adalbert Tryzubsky</b><br/>Wien IV/50, Wiedner Gürtel 16</td>\n</tr>\n<tr>\n<td>A3 04 27</td>\n<td>Kaffee Süd-West, V/55, Schönbr. Str. 137</td>\n</tr>\n<tr>\n<td>B3 04 53</td>\n<td>Kaffee Sumser, VII/62, Kircheng. 21</td>\n</tr>\n<tr>\n<td>R3 55 42</td>\n<td>Kaffee Technisches Museum, XV/101,<br/>Mariah. Str. 223</td>\n</tr>\n<tr>\n<td>A3 00 30</td>\n<td>Kaffee Terrassen, V/55, Margaretenpl. 4</td>\n</tr>\n<tr>\n<td>B1 15 09</td>\n<td><b>Kaffee „Terrassenkaffee Grinzing“ Rudolf Schwarz</b><br/>Wien XIX/117, Cobenzlgasse 11</td>\n</tr>\n<tr>\n<td>B4 40 99</td>\n<td>Kaffee „Thalia“, XVI/107, Thaliastr. 22</td>\n</tr>\n<tr>\n<td>A2 84 78</td>\n<td>Kaffee Theater, VIII/65, Laudong. 36</td>\n</tr>\n<tr>\n<td>A1 72 29</td>\n<td>Kaffee Theater-Kaffee Karl Bradl, IX/66,<br/>Lustkandlg. 4</td>\n</tr>\n<tr>\n<td>R3 12 80</td>\n<td>Kaffee Theresienbad, XII/82, Schönbr.<br/>Straße 271</td>\n</tr>\n<tr>\n<td>A2 01 85L</td>\n<td>Kaffee Theresienhof, XVIII/110, Schul-</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 1000\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>R5 30 51</td>\n<td>Kaffee Thury, IX/66, Alserb.Str. 11</td>\n</tr>\n<tr>\n<td>A5 24 64</td>\n<td>Kaffee Tiergarten, XIII/89, Stock im Weg<br/>Hubertusbaracke</td>\n</tr>\n<tr>\n<td>R3 21 60</td>\n<td>Kaffee Tirol, XV/101, Kellingg. 8</td>\n</tr>\n<tr>\n<td>R3 45 76</td>\n<td>Kaffee Tögel Richard, XV/101, Maria-<br/>hilferStr. 196</td>\n</tr>\n<tr>\n<td>B4 97 37</td>\n<td>Kaffee Trepka, VIII/65, Josefstr.Str. 62</td>\n</tr>\n<tr>\n<td>B3 94 22</td>\n<td>Kaffee Trocadero, VII/62, Neubaug. 42</td>\n</tr>\n<tr>\n<td>A4 35 18</td>\n<td>Kaffee Troppau, XX/20, Gaußpl. 11</td>\n</tr>\n<tr>\n<td>A3 40 72</td>\n<td>Kaffee Tschoke, VI/56, Girardig. 10</td>\n</tr>\n<tr>\n<td>A3 55 06</td>\n<td>Kaffee Ubl, V/55, Ramperst.G. 47</td>\n</tr>\n<tr>\n<td>B5 70 64</td>\n<td>Kaffee Uchatius, III/40, Landstr.G. 35</td>\n</tr>\n<tr>\n<td>R3 80 37</td>\n<td><b>Kaffee Ullmannhof</b><br/><b>(Hans Erber), Konditorei und Kaffee</b><br/><b>Wien XV/101, Ullmannstraße 43</b></td>\n</tr>\n<tr>\n<td>A3 52 62</td>\n<td>Kaffee Umscheid, V/55, Stollb.G. 9</td>\n</tr>\n<tr>\n<td>B5 30 54</td>\n<td>Kaffee Ungarhof, III/40 Ungarg. 2</td>\n</tr>\n<tr>\n<td>A1 14 42</td>\n<td>Kaffee Union, IX/66, Nußd.Str. 25</td>\n</tr>\n<tr>\n<td>B5 90 30</td>\n<td><b>Kaffee „Union“, Marie Habel, Wien XI/79,</b><br/><b>8imm. Hauptstraße 84</b></td>\n</tr>\n<tr>\n<td>U2 85 02</td>\n<td>Kaffee Universum. XV/101. Kriemh.Pl. 6</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 992 975\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>U1 82 11</td>\n<td>Kaffee</td>\n<td>Urania, III/40, Nauendorfstr. 24</td>\n</tr>\n<tr>\n<td>A4 45 13</td>\n<td>Kaffee</td>\n<td>Vanek, XX/20, Jägerstr. 28</td>\n</tr>\n<tr>\n<td>A2 64 25</td>\n<td>Kaffee</td>\n<td>Vaterland, XVII/107, Hern. Hauptstr. 57</td>\n</tr>\n<tr>\n<td>A2 71 08</td>\n<td>UKaffee</td>\n<td>Veronika, XVII/107, Veronikag. 46</td>\n</tr>\n<tr>\n<td>B2 74 93</td>\n<td>Kaffee</td>\n<td>Viktoria, V/55, Wied.Hptstr. 130</td>\n</tr>\n<tr>\n<td>B3 13 80</td>\n<td>Kaffee</td>\n<td>Viktoria, VII/62, Stiftg. 4</td>\n</tr>\n<tr>\n<td>A1 62 89</td>\n<td rowspan=\"2\">Kaffee</td>\n<td rowspan=\"2\">Victoria am Schottentor, Klimpfinger &amp; Co., Wien I/1, Schottengasse 10</td>\n</tr>\n<tr>\n<td>R5 10 16</td>\n</tr>\n<tr>\n<td>A5 15 55</td>\n<td>Kaffee</td>\n<td>Villen, XIII/89, Hietz.Hptstr. 73</td>\n</tr>\n<tr>\n<td>U1 35 70</td>\n<td>Kaffee-Restaurant</td>\n<td>„Vindobona“, III/40, Schwarzenbergpl. 6</td>\n</tr>\n<tr>\n<td>A2 00 40</td>\n<td>Kaffee</td>\n<td>Vogelsang, IX/71, Stadtbahnh. Alserstr.</td>\n</tr>\n<tr>\n<td>A1 94 82</td>\n<td>Kaffee</td>\n<td>Volksoper, IX/66, Fuchsth.G. 16</td>\n</tr>\n<tr>\n<td>B3 93 20</td>\n<td>Kaffee</td>\n<td>Volkstheater, VII/62, Neust.G. 4</td>\n</tr>\n<tr>\n<td>R5 25 13</td>\n<td>Kaffee</td>\n<td>Votivpark, IX/66, Koling. 5</td>\n</tr>\n<tr>\n<td>U2 52 15</td>\n<td>Kaffee</td>\n<td>Wachau, I/1, Kramerg. 4</td>\n</tr>\n<tr>\n<td>A1 61 86</td>\n<td>UKaffee</td>\n<td>Wachau, IX/66, Nordb.Str. 8</td>\n</tr>\n<tr>\n<td>R5 10 89</td>\n<td>Kaffee</td>\n<td>Währingerhof, XVIII/110, Währ. Straße 162</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 9 998 956\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>A4</td>\n<td>32</td>\n<td>40</td>\n<td>Kaffee</td>\n<td>Wallenstein, XX/20, Wallenst.-<br/>Straße 54</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>39</td>\n<td>26</td>\n<td>Kaffee</td>\n<td>Wallisch, XV/101, Märzstr. 65</td>\n</tr>\n<tr>\n<td>U5</td>\n<td>12</td>\n<td>19</td>\n<td>Kaffee</td>\n<td>Watt, XVI/107, Wattg. 57</td>\n</tr>\n<tr>\n<td>U1</td>\n<td>90</td>\n<td>20</td>\n<td>Kaffee</td>\n<td>Weber, XI/79, Simm.Hptstr. 54</td>\n</tr>\n<tr>\n<td>R1</td>\n<td>65</td>\n<td>80</td>\n<td>Kaffee</td>\n<td>Weberhof, X/75, Quellenstr. 160</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>10</td>\n<td>38</td>\n<td>Kaffee</td>\n<td>Weghuber, VII/62, Mus.Str. 5</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>40</td>\n<td>63</td>\n<td>Kaffee</td>\n<td>Weidinger, XVI/107, Lerchenf.<br/>Gasse 1</td>\n</tr>\n<tr>\n<td>U4</td>\n<td>50</td>\n<td>27</td>\n<td>Kaffee</td>\n<td>Weigel, IV/50, Wied.G. 6</td>\n</tr>\n<tr>\n<td>A1</td>\n<td>72</td>\n<td>05</td>\n<td>Kaffee</td>\n<td>Weimar, IX/71, Währ.Str. 68</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>10</td>\n<td>09</td>\n<td>Kaffee</td>\n<td>Weimarer Hof, XVIII/110, Wei-<br/>marstr. 6</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>23</td>\n<td>58</td>\n<td>Kaffee</td>\n<td>Weinwuren, VIII/65, Hamerpl. 2</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>04</td>\n<td>97</td>\n<td>Kaffee</td>\n<td>Wellnhofen, VII/62, Neub. G. 7</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>49</td>\n<td>91</td>\n<td>Kaffee</td>\n<td>Weiser, VII/62, Neub.G. 81</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>00</td>\n<td>22</td>\n<td>Kaffee</td>\n<td>Westbahn, XV/101, Felberstr. 10</td>\n</tr>\n<tr>\n<td>R3</td>\n<td>35</td>\n<td>15</td>\n<td>Kaffee</td>\n<td>Westbahnhof, XV/101, Maria-<br/>hilferstr. 127a</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>25</td>\n<td>70</td>\n<td>Kaffee</td>\n<td>Westend, VII/62, Mariah.Str. 128</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "fee — Kahler (Band V) 915",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 753 982\" data-label=\"Text\"><table><tbody><tr><td>U3 10 68</td><td>Kaffee Wicha, XV/101, Löhrg. 13</td></tr><tr><td>U4 22 85</td><td>Kaffee Wieden, IV/50, Schönbr. Str. 28</td></tr><tr><td>U3 72 21</td><td>Kaffee Wien, XV/101, Felberstr. 104</td></tr><tr><td>B2 44 54</td><td>Kaffee Wienzeile, VI/56, L.Wienz. 36</td></tr><tr><td>B2 04 40</td><td>Kaffee Wiesent, V/55, Schönbr. Str. 98</td></tr><tr><td>A2 72 93</td><td>Kaffee Wilder Mann, XVIII/110, Währ.<br/>Straße 85</td></tr><tr><td>A1 23 09</td><td>Ders., Wohn., XVIII/110, Währ. Str. 94</td></tr><tr><td>R3 12 46</td><td>Kaffee Wilhelmshof, XII/82, Dörfelstr. 1a</td></tr><tr><td>B4 70 08</td><td>Kaffee Wimmer, XVII/107, Ottakr. Str. 76</td></tr><tr><td>R2 14 23</td><td>Kaffee Windhag, I/1, Postg. 2</td></tr><tr><td>A3 75 03</td><td>Kaffee Windmühle, VI/56, Windm. G. 32</td></tr><tr><td>R2 80 64</td><td><b>Kaffee Wintergarten (Café de Paris),<br/>Josef Borowitz &amp; Co., Varieté und Tanz,<br/>Wien I/1, Johannesgasse 3</b></td></tr><tr><td>B2 92 06</td><td>Kaffee Wittmann, VI/56, Capistrang. 8</td></tr><tr><td>R4 20 87</td><td>Kaffee Wolf, II/27, Schmälzlg. 10</td></tr><tr><td>B3 43 92</td><td>Kaffee Wondrak, VII/62, Kircheng. 3</td></tr><tr><td>U4 21 80</td><td>Kaffee Wortner, IV/50, Wied. Hptstr. 55</td></tr><tr><td>A5 45 56</td><td>Kaffee Wunderer, XIV/89, Hadikg. 62</td></tr><tr><td>B1 40 99</td><td>Kaffee Zahnradhof, XIX/117, Nußdorfer</td></tr></tbody></table></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 753 992\" data-label=\"Text\">\n<table border=\"0\">\n<tbody>\n<tr>\n<td>U1</td>\n<td>11</td>\n<td>04</td>\n<td>Kaffee</td>\n<td>Zartl, III/40, Rasum.G. 7</td>\n</tr>\n<tr>\n<td>R1</td>\n<td>31</td>\n<td>40</td>\n<td>Kaffee</td>\n<td>Zauninger, X/75, Favor.Str. 100</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>70</td>\n<td>73</td>\n<td>Kaffee</td>\n<td>Zeilerhof, VII/62, Zieglerg. 83</td>\n</tr>\n<tr>\n<td>B4</td>\n<td>94</td>\n<td>09</td>\n<td>Kaffee</td>\n<td>Zellerhof, XVIII/110, Staudg. 60</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>74</td>\n<td>65</td>\n<td><b>Kaffee</b></td>\n<td><b>Zenker, Inh.: Wilhelmine Zenker,</b></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td><b>Kaffee</b></td>\n<td><b>— Meierei, II/27, Prater 88</b></td>\n</tr>\n<tr>\n<td>R3</td>\n<td>52</td>\n<td>27</td>\n<td>Kaffee</td>\n<td>Zentral, XV/101, Mariah.Str. 152</td>\n</tr>\n<tr>\n<td>A3</td>\n<td>65</td>\n<td>08</td>\n<td>Kaffee</td>\n<td>Zentral-Palast, VI/56, Mariah.</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Straße 57</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>25</td>\n<td>32</td>\n<td>Kaffee</td>\n<td>Ziegler, XIV/89, Schanzstr. 4</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>50</td>\n<td>35</td>\n<td>Kaffee</td>\n<td>Zieglerhof, VII/62, Zieglerg. 29</td>\n</tr>\n<tr>\n<td>B5</td>\n<td>85</td>\n<td>08</td>\n<td>Kaffee</td>\n<td>Ziehrer, III/40, Hintzerstr. 1</td>\n</tr>\n<tr>\n<td>A5</td>\n<td>45</td>\n<td>72</td>\n<td>Kaffee</td>\n<td>Zinsler, XIII/89, Hietz.Hptstr.172</td>\n</tr>\n<tr>\n<td>R4</td>\n<td>64</td>\n<td>79</td>\n<td><b>Kaffee</b></td>\n<td><b>Zirkus Renz, Martha Ehmki,</b></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td><b>Konzert-Kaffee,</b></td>\n<td><b>II/27, Zirkusgasse 50</b></td>\n</tr>\n<tr>\n<td>B1</td>\n<td>60</td>\n<td>00</td>\n<td>Kaffee</td>\n<td>Zögernitz, XIX/117, Döbl. Haupt-</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>straße 76</td>\n</tr>\n<tr>\n<td>B3</td>\n<td>14</td>\n<td>44</td>\n<td>Kaffee</td>\n<td>Zöhrer, VII/62, Str.d.Julik. 43</td>\n</tr>\n<tr>\n<td>U3</td>\n<td>30</td>\n<td>12</td>\n<td>Kaffee</td>\n<td>Zoglmann, XIV/89, Hütteld.Str.86</td>\n</tr>\n<tr>\n<td>A4</td>\n<td>55</td>\n<td>30</td>\n<td>Kaffee</td>\n<td>„Zum alten Schanzl“, II/27, Unt.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "U 5 20 31 Kaffee „Zum Fürst“, Inh.: Joh. und Maria Jablonsky, XVII/107, Mariengasse 1",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "U1 98 53 Kafka, Frz., Dir., III/40, Reger-G. 12",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 757 27\" data-label=\"Page-Header\">101 27 20 Kainach, Lachner, X/10, H. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V. V",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 762 946\" data-label=\"List-Group\"><p>A2 01 23U Kahl, Anton, Insp., VIII/65, Tigerg. 11<br/>A2 24 93 Kahl, H., Dipl.-Ing., XVIII/114, Geyer-<br/>gasse 5<br/>R3 11 03B Kahl, Jos., Tischl., XV/101, Sperrg. 2<br/>A4 58 71 Kahl, Dr. M., Beamte., XX/20, Treustr. 33<br/>U4 01 46Z Kahl, Marie, Feinkost, IV/50, Weyr.G. 7<br/>U4 01 73L Kahl, Paula, Blumen, IV/50, Belvederg. 27<br/>U4 37 06 Kahl, Reinh., Dipl.-Kfm., IV/50, Weyr.G. 7<br/>R3 88 18 Kahle, Elly, Schauspielerin, XII/82,<br/>Eichenstr. 20<br/>A2 01 37Z Kahlenbacher, Wilh., Dentist, XVI/107,<br/>Lerchenfeldergürtel 55<br/>U1 79 38 Kahlenberg, Albert, Ing., III/40, Landstr.<br/>Hauptstr. 40<br/>A2 72 72 Kahlenberg AG, I/1, Grillparzerstr. 11<br/>B1 00 92 Kahlenbergs Kaffee- u. Restaurant, XIX/<br/>117, Josefsdorf 1<br/>U2 29 50 Kahler, Adolf, Textilwr., I/1, Göllsdorfg. 4<br/>B4 24 14 Kahler, Hans, Klempner, XVIII/110,<br/>GersthofenStr. 97</p></div><div data-bbox=\"500 964 521 989\" data-label=\"Page-Footer\">★</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page, likely a separator or endpaper from a 1942 German telephone directory.\"/>This image is a blank white page, likely a separator or endpaper from a 1942 German telephone directory. It contains no text, figures, or other markings.</div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  }
+]

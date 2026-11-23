@@ -1,0 +1,1046 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This is a blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "[{\"id\": 1, \"text\": \"A8 75 01\", \"x\": 800, \"y\": 60}, {\"id\": 2, \"text\": \"B2 15 72\", \"x\": 800, \"y\": 240}, {\"id\": 3, \"text\": \"U2 66 19\", \"x\": 800, \"y\": 460}, {\"id\": 4, \"text\": \"B2 28 31\", \"x\": 800, \"y\": 720}]]",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"905 309 984 511\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"618 31 982 144\" data-label=\"Text\"><p><b>R2 00 23</b></p></div><div data-bbox=\"604 326 973 441\" data-label=\"Text\"><p><b>R1 22 02</b></p></div><div data-bbox=\"601 708 957 824\" data-label=\"Text\"><p><b>B8 42 83</b></p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"626 20 987 236\"}, {\"label\": \"Text\", \"bbox\": \"727 296 967 528\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"700 244 947 708\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"605 20 985 155\"}, {\"label\": \"Text\", \"bbox\": \"721 226 961 471\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"905 182 985 525\" data-label=\"Page-Footer\">11</div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"601 61 990 265\"}, {\"label\": \"Text\", \"bbox\": \"770 408 965 492\"}, {\"label\": \"Text\", \"bbox\": \"759 731 956 814\"}, {\"label\": \"Text\", \"bbox\": \"596 941 965 983\"}]",
+      "cells": [
+        "col1_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"719 13 988 55\" data-label=\"Page-Header\">\n<p>— · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · — · —",
+      "cells": [
+        "col1_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"617 13 950 55\" data-label=\"Text\"><p>18 23 37</p></div><div data-bbox=\"625 127 959 167\" data-label=\"Text\"><p>16 12 34</p></div><div data-bbox=\"625 172 953 212\" data-label=\"Text\"><p>16 17 31</p></div><div data-bbox=\"617 240 950 280\" data-label=\"Text\"><p>16 35 67</p></div><div data-bbox=\"617 285 950 325\" data-label=\"Text\"><p>16 38 59</p></div><div data-bbox=\"617 330 947 371\" data-label=\"Text\"><p>16 14 11</p></div><div data-bbox=\"617 421 950 463\" data-label=\"Text\"><p>91 75 08</p></div><div data-bbox=\"595 624 943 709\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b></p></div><div data-bbox=\"604 715 928 756\" data-label=\"Text\"><p><b>52 52 21</b></p></div><div data-bbox=\"611 784 940 825\" data-label=\"Text\"><p><b>18 32 43</b></p></div>",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"585 195 937 295\" data-label=\"Text\"><p><b>18 80 67</b><br/><b>18 09 94</b></p></div>",
+      "cells": [
+        "col1_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"614 48 945 93\" data-label=\"Text\"><p>18 71 45</p></div><div data-bbox=\"606 190 983 235\" data-label=\"Text\"><p>91 59 56{</p></div><div data-bbox=\"606 237 983 289\" data-label=\"Text\"><p>91 28 92{</p></div><div data-bbox=\"610 308 945 353\" data-label=\"Text\"><p>52 50 36</p></div><div data-bbox=\"601 452 983 496\" data-label=\"Text\"><p>16 33 11{</p></div><div data-bbox=\"601 498 983 542\" data-label=\"Text\"><p>16 58 66{</p></div><div data-bbox=\"618 568 945 613\" data-label=\"Text\"><p>16 66 21</p></div><div data-bbox=\"606 712 938 756\" data-label=\"Text\"><p>16 17 04</p></div><div data-bbox=\"593 806 928 850\" data-label=\"Text\"><p>24 24 04</p></div><div data-bbox=\"606 900 941 944\" data-label=\"Text\"><p>16 75 09</p></div>",
+      "cells": [
+        "col1_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"600 40 941 150\"}, {\"label\": \"Text\", \"bbox\": \"611 354 951 443\"}, {\"label\": \"Text\", \"bbox\": \"604 549 943 642\"}]",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 20 997 375\" data-label=\"Text\"><p><b>Ladstätter, St., Damenhüte, Wien VI/56</b><br/><b>Mariahilfer Str. 25. P 02901</b><br/><b>Oberwalder &amp; Co., Hutfabrik, Wien VI/56</b><br/><b>Mariahilfer Str. 61</b></p></div><div data-bbox=\"138 375 869 558\" data-label=\"Text\"><p><b>Anny Peciwal</b></p></div><div data-bbox=\"0 545 997 645\" data-label=\"Text\"><p><b>Modellhüte, Wien I/1, Jasomirgottstraße 6</b></p></div><div data-bbox=\"82 635 927 820\" data-label=\"Text\"><p><b>Betti Prinzing</b></p></div><div data-bbox=\"52 811 947 986\" data-label=\"Text\"><p><b>Damen-Filz- u. Strohhuterzeuger,</b><br/><b>Wien VI/56, Gumpendorfer Str. 153</b></p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Wald Steinfeld",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 46 839 950\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 13 998 187\" data-label=\"Text\"><p><b>„Suzanne Modes“, Modistin, Wien I/1</b><br/><b>Walfischgasse 4</b></p></div><div data-bbox=\"0 206 998 460\" data-label=\"Text\"><p><b>Wanke, Ludwig, Herren- und Damen-</b><br/><b>huterzeugung aus Stroh u. Filz, Wien X/75</b><br/><b>Davidgasse 33</b></p></div><div data-bbox=\"0 457 998 633\" data-label=\"Text\"><p><b>Winter, Christian, Damenhutfabrik, Wien</b><br/><b>VII/62, Zieglergasse 7</b></p></div><div data-bbox=\"0 655 225 753\" data-label=\"Text\"><p><b>aden.</b></p></div><div data-bbox=\"0 765 998 944\" data-label=\"Text\"><p><b>Berthold Köhr &amp; Co. G.m.b.H., Hutfabr.,</b><br/><b>Färberei u. Bleicherei, Mainzer Str. 103</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 227 945 800\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 125 998 852\" data-label=\"Text\"><p><b>ach (Main).</b><br/><b>Glunk, Hans, Damenhutposamentenfab-</b><br/><b>rik, Ludwigstraße 28</b></p></div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "00. Damenkleidung",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 36 148 87\" data-label=\"Text\"><p><b>Urg.</b></p></div><div data-bbox=\"0 86 998 175\" data-label=\"Text\"><p><b>Augsburger Bekleidungs-Geschäft, Karo-<br/>inenstraße</b></p></div><div data-bbox=\"143 182 866 270\" data-label=\"Text\"><p><b>Wally Berger</b></p></div><div data-bbox=\"159 270 832 317\" data-label=\"Text\"><p><b>Damenmoden-Fachgeschäft</b></p></div><div data-bbox=\"231 316 755 362\" data-label=\"Text\"><p><b>Augsburg, Karlstr. 2</b></p></div><div data-bbox=\"0 358 998 454\" data-label=\"Text\"><p><b>Reindl &amp; Co., Stoffe, Wäsche, Damen-<br/>fertigkleidung, Bahnhofstraße 2</b></p></div><div data-bbox=\"0 464 327 520\" data-label=\"Text\"><p><b>-Baden.</b></p></div><div data-bbox=\"0 524 998 621\" data-label=\"Text\"><p><b>Möller, Hartwig, Elegante Damenmoden,<br/>Baden-Baden, Lichtentaler Allee 6</b></p></div><div data-bbox=\"0 665 28 685\" data-label=\"Text\"><p><b>•</b></p></div><div data-bbox=\"0 691 998 786\" data-label=\"Text\"><p><b>Auer &amp; Co., jugendliche Frauenkleider,<br/>Berlin W 8, Kronenstr. 28</b></p></div><div data-bbox=\"0 782 998 918\" data-label=\"Text\"><p><b>Bernels &amp; Co. K.G., Fabrikation von<br/>jugendlich-modischen Kleidern, Berlin C2,<br/>Jerusalemer Str. 17</b></p></div><div data-bbox=\"0 918 998 994\" data-label=\"Text\"><p><b>Edler &amp; Bellke, Damenkleiderfabrik und<br/>Großhandlung W 8 Kronenstr. 17</b></p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "H. Esders &amp; Dyckhoff",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 996 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory, showing a vertical line on the left and a small black redaction box on the right.\"/>This image shows a blank page from a 1942 German telephone directory. A vertical line is visible on the left side, and a small black redaction box is located on the right side. The rest of the page is empty.</div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"246 0 670 390\" data-label=\"Text\"><p>KLEIDER</p></div><div data-bbox=\"104 325 886 826\" data-label=\"Text\"><p>Das Spezialhaus<br/>für graue Weiber</p></div><div data-bbox=\"100 836 822 939\" data-label=\"Text\"><p>FREIWALD &amp; FUCHS<br/>BERLIN W8 ; KRONENSTR. 49</p></div>",
+      "cells": [
+        "col2_sec13.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 232\" data-label=\"Text\"><p><b>Ganz Modelle K.G.</b><br/><b>Damenoberbekleidung</b><br/>Berlin SW 68, Krausenstr. 33<br/><b>Boletz &amp; Dudat, Damenmoden, W 15,</b><br/>Kurfürstendamm 23</p></div><div data-bbox=\"0 228 998 370\" data-label=\"Text\"><p><b>Hans Graetz</b> Damen-<br/>Kleidung<br/>Berlin C 2, Königstraße 22—28</p></div><div data-bbox=\"0 366 998 506\" data-label=\"Text\"><p><b>Irlich Grahl Akt.-Ges.</b> (vorm. Louis<br/>Loenthal &amp; Co. A.-G.), Fabr. von Blusen<br/>u. Kleidern, C 2, Hausvogteiplatz 12</p></div><div data-bbox=\"0 502 998 637\" data-label=\"Text\"><p><b>Hensel &amp; Mortensen, Mäntel- und Kostüm-</b><br/><b>großhandlung, Berlin W 8, Kronen-</b><br/><b>straße 24</b></p></div><div data-bbox=\"0 637 998 732\" data-label=\"Text\"><p><b>Hart, Kurt, Kleiderfabrikation, Berlin</b><br/>C 2, Jerusalemer Straße 15</p></div><div data-bbox=\"0 728 998 823\" data-label=\"Text\"><p><b>Kleindieck &amp; Ritter</b><br/>Damenmoden, W 50, Nürnberger Str. 64</p></div><div data-bbox=\"0 818 998 995\" data-label=\"Text\"><p><b>E. Kleinpaul &amp; Co.</b><br/>Damenkleiderfabrikation,<br/>C 2, Jerusalemer Str. 31. Engros-Export<br/><b>Wilhelm Kraft &amp; Co. K.-G. Handlung in</b></p></div>",
+      "cells": [
+        "col2_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 991 691\" data-label=\"Text\"><p>Leiern, Biusen und Kinderkleidern,<br/>12, Hausvogtelpatz 3/4<br/>Kremer, Bernhard, Damenmoden, W 15,<br/>Kurfürstendamm 38/39<br/>L. Lindhorst &amp; Co. K.-G., Berlin W 8,<br/>Leipziger Str. 114. P 160087</p></div>",
+      "cells": [
+        "col2_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Blank-Page\"></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"38 61 194 223\" data-label=\"Text\"><p>16 58 11</p></div><div data-bbox=\"358 61 850 227\" data-label=\"Text\"><p><b>R. M. Maassen G. m. b. H.</b></p></div><div data-bbox=\"242 236 998 602\" data-label=\"Text\"><p>Damenbekleidung, Damenmäntelfabrik,<br/>Berlin W 8, Leipziger Straße 42</p></div><div data-bbox=\"38 593 998 966\" data-label=\"Text\"><p>16 72 84 <b>Marten &amp; Kutzer, Fabrikation von Kleidern,</b><br/>W 8, Kronenstr. 33</p></div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"26 0 998 987\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>16 07 25</td>\n<td>Mertsch &amp; Co., Damenoberbekleidungs-Betriebs-Werkstatt, W 8, Kronenstr. 29</td>\n</tr>\n<tr>\n<td>16 79 45</td>\n<td>Michells, Arthur, Damenmäntel und -Kostüme, W 8, Kronenstr. 42/43</td>\n</tr>\n<tr>\n<td>17 24 23</td>\n<td>Ders., Werkst., SW 68, Oranienstr. 127</td>\n</tr>\n<tr>\n<td>16 75 05</td>\n<td>Modellhaus Schwabe K. G., Damenoberbekleidung, Berlin C 2, Wallstr. 13</td>\n</tr>\n<tr>\n<td>16 80 29</td>\n<td rowspan=\"2\">{ Mückl, Lulse, Damenkleiderfabrik, Berlin C 2, Hausvogteiplatz 6/7</td>\n</tr>\n<tr>\n<td>16 03 78</td>\n</tr>\n<tr>\n<td>16 80 66</td>\n<td>Neumann &amp; Raddant, Großhandlung in Kleidern, Blusen und Röcken, Berlin C 2, Jerusalemstr. 16</td>\n</tr>\n<tr>\n<td>16 14 26</td>\n<td>Radtke, Erich, Sport- u. Kostümröcke-Herstellung, W 8, Kronenstraße 30</td>\n</tr>\n<tr>\n<td>16 36 60</td>\n<td>Rollfinke, Willy, Damenbekleidung, SW 19, Jerusalemstr. 19 u. 20</td>\n</tr>\n<tr>\n<td>91 18 48</td>\n<td>Romatzki, Hilda, Kleider, Mäntel, Pelze, W 15, Kurfürstendamm 28</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"137 31 385 408\"}, {\"label\": \"Text\", \"bbox\": \"454 31 822 236\"}, {\"label\": \"Text\", \"bbox\": \"404 270 870 500\"}, {\"label\": \"Text\", \"bbox\": \"46 496 288 723\"}, {\"label\": \"Text\", \"bbox\": \"46 710 516 927\"}, {\"label\": \"Text\", \"bbox\": \"605 496 894 723\"}, {\"label\": \"Text\", \"bbox\": \"662 710 856 912\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "<div data-bbox=\"20 0 998 912\" data-label=\"Table\">\n<table border=\"0\">\n<thead>\n<tr>\n<th colspan=\"3\"></th>\n<th style=\"text-align: center;\"><b>Erich Schäfer</b></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>16 36 70</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\">Damenmäntel- und Kostümfabrikation,<br/>Berlin C 2, Leipziger Straße 75</td>\n<td rowspan=\"2\"></td>\n</tr>\n<tr>\n<td>16 21 40</td>\n</tr>\n<tr>\n<td>51 40 32</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\">Gebr. Sievers, Damenbekleidung u. Pelze,<br/>C 2, Grünstr. 5/6 u. W 8, Leipziger Str. 40</td>\n<td rowspan=\"2\"></td>\n</tr>\n<tr>\n<td>16 01 48</td>\n</tr>\n<tr>\n<td>16 76 03</td>\n<td></td>\n<td>Stoffer, Bruno, Kleider, Berlin C 2, Hausvogteiplatz 9</td>\n<td></td>\n</tr>\n<tr>\n<td>16 16 26</td>\n<td></td>\n<td>Vellisch &amp; Hochgesang, Damen-, Sport- u.<br/>Regenbekleidung, W 8, Krausenstr. 54/55</td>\n<td></td>\n</tr>\n<tr>\n<td>16 89 06</td>\n<td rowspan=\"2\">{</td>\n<td rowspan=\"2\">Vollmoeller Mode G. m. b. H.,<br/>C 2, Leipziger Straße 82. P 170984</td>\n<td rowspan=\"2\"></td>\n</tr>\n<tr>\n<td>16 83 07</td>\n</tr>\n<tr>\n<td>24 07 42</td>\n<td></td>\n<td>Walther, Inh. August Lewecke, Damenkonfektion, Berlin W 50, Tauentzienstr. 12</td>\n<td></td>\n</tr>\n<tr>\n<td>16 11 91</td>\n<td></td>\n<td>J. Wedel &amp; Co., Kostümrockfabrik, Berlin W 8, Kronenstr. 42</td>\n<td></td>\n</tr>\n<tr>\n<td>16 17 65</td>\n<td></td>\n<td>Wittmann, Katharina, Fabrikation von Kleidern und Blusen, Berlin W 8, Markgrafenstraße 52</td>\n<td></td>\n</tr>\n<tr>\n<td>34 75 98</td>\n<td></td>\n<td>Zickel, Theodor, Damenkonfektion, Berlin-Charlottenburg 1, Spreestr. 23</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div data-bbox=\"18 937 734 992\" data-label=\"",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Bingen (Rhein).",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Breal. 1, Nikolaistr. 8/9. T Reellität",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Erfurt.",
+        "entries": []
+      },
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "<div data-bbox=\"203 10 552 128\" data-label=\"Text\"><p>(Main), ZGII 74/75</p></div><div data-bbox=\"65 114 983 614\" data-label=\"List-Group\"><p>23654 { Hensel &amp; Ole., Spezialhaus für Damen-<br/>23655 { und Mädchen-Moden, Liebfrauenstr. 6.<br/>P 44775</p></div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 799 998 944\" data-label=\"Text\"><p><b>98. Damenhüte — 1000. Dame</b></p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Hagen (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hainburg (Donau) [Niederdonau].",
+        "entries": []
+      },
+      {
+        "region_name": "Halle (Saale).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "HAMBURG.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Heidenheim (Brenz) [Wrttb.].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Landeck (Tirol).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "Leinzell (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "Bekleidungsfabrik „Wartheland“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "Lundenburg (Niederdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col5_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 816 240 977\" data-label=\"Text\"><p><b>Kleidung</b></p></div><div data-bbox=\"408 811 768 970\" data-label=\"Text\"><p><b>(Branchenteil) 141</b></p></div>",
+      "cells": [
+        "col5_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col5_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Mähr. Ostrau.",
+        "entries": []
+      },
+      {
+        "region_name": "M. Klameth",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mainz.",
+        "entries": []
+      },
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col5_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Meerane (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Merseburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mühlhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col5_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "TextilhausHenneka",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col5_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Nordhausen",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col5_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Pforzheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Pilsen (Protectorat).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col5_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"97 80 666 352\"}, {\"label\": \"Text\", \"bbox\": \"328 417 432 537\"}, {\"label\": \"Text\", \"bbox\": \"211 597 551 710\"}, {\"label\": \"Text\", \"bbox\": \"252 776 504 889\"}]",
+      "cells": [
+        "col5_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col5_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": [
+      {
+        "region_name": "Plauen (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Prag.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col5_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": {
+      "raw": "<div data-bbox=\"114 59 668 960\" data-label=\"Text\"><p><b>J. Sůček &amp; Comp.</b><br/><b>Rothbergers Nachf.</b><br/><b>Herren- und Damenarbeit nach Maß</b><br/><b>Prag II.</b><br/><b>Wenzelsplatz 23, Politika Passage</b><br/><b>Fernsprecher: 262 05</b></p></div>",
+      "cells": [
+        "col5_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "60",
+    "cells": [
+      "col5_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_60.png",
+    "data": {
+      "raw": "<div data-bbox=\"44 31 137 81\" data-label=\"Text\"><p>22834</p></div><div data-bbox=\"220 7 510 93\" data-label=\"Text\"><p><b>Karl Wenzel</b></p></div><div data-bbox=\"530 4 705 108\" data-label=\"Text\"><p>Damen-<br/>bekleidung,</p></div><div data-bbox=\"150 105 763 160\" data-label=\"Text\"><p>Kostüme u. Mäntel, Prag I, Rittergasse 24</p></div><div data-bbox=\"0 172 537 242\" data-label=\"Text\"><p><b>Ravensburg (Wrtth.).</b></p></div><div data-bbox=\"60 241 763 344\" data-label=\"Text\"><p>2980 Schraermeyer, Hermann, J., Damen-Fertig-<br/>kleidung, Stoffe, Adolf-Hitler-Platz 55</p></div><div data-bbox=\"63 342 761 447\" data-label=\"Text\"><p>.... Derselbe, Friedrichshafen, Friedrichstr. 55.<br/>Fernspr. 608</p></div><div data-bbox=\"0 461 320 530\" data-label=\"Text\"><p><b>Regensburg.</b></p></div><div data-bbox=\"60 528 739 684\" data-label=\"Text\"><p>3968 <b>Geschw. Pletzer</b> Wolle<br/>und Garne<br/>feine Moden, Maximilianstraße 16</p></div><div data-bbox=\"0 694 694 766\" data-label=\"Text\"><p><b>Reichenberg (Sudetenland).</b></p></div><div data-bbox=\"60 764 761 871\" data-label=\"Text\"><p>3709 Gärtner, Konrad, Das Haus das Jeden<br/>anzieht, Bismarckplatz 13</p></div>",
+      "cells": [
+        "col5_sec10.png"
+      ]
+    }
+  }
+]

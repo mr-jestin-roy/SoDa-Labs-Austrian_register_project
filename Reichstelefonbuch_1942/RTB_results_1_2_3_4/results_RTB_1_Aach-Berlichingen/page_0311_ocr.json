@@ -1,0 +1,669 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"255 9 998 995\" data-label=\"Text\"><p>05 Bäuerl. Bez.- u. Absatz-Genoss., eGmbH, Etteln<br/>39 Bode, Wilh., Tischlerei, Etteln 203<br/>31 Bornefeld, K., Landmasch., Helmern, Dorfstr.<br/>43 Braun, Dr., Holzwarenfabrik<br/>36 Claes, Lorenz, Fuhrgeschäft, Etteln 65<br/>38 Dahl, Xaver, Gastw., Helmern, Attelner Str. 143<br/>22 Ett. Spar- u. Darlehnsk.-Verein eGmbH, Etteln<br/>37 Forstamt, Preuß., Dalheim<br/>15 Försterei (Revier-), Preuß., Henglarn<br/>58 Försterei (Revier-), Preuß., Husen<br/>35 Frintrop, Joh., Pächter, Domäne Dalheim.<br/>06 Gemeindeverwaltung Helmern<br/>51 Gemeindeverwaltung Henglarn<br/>52 Gemeindeverwaltung Husen<br/>29 Gendarmerieposten Atteln<br/>26 Gendarmerieposten Husen<br/>56 Graskemper, Bernh., Gastw., Husen 51<br/>18 Kaup, Ant., Autoverm., Helmern 10<br/>27 Kläsener, Klemens, Viehdl., Atteln 58<br/>30 Knaup, Ferd., Getreide, Etteln 10<br/>23 Koch, Franz, Gärtnerei, Henglarner Str. 138<br/>aa Wirtshaus- u. Gasthof Dalheim Atteln</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"254 0 998 978\" data-label=\"List-Group\"><ul><li>12 Lanfermann, Pfarrer, Atteln</li><li>53 Lohmann, Joh., Dentist</li><li>21 Lüne, Franz, Kaufm., Husen 126, Post Atteln.</li><li>55 Lukei, Jos., Viehhdlg., Helmern 131</li><li>25 Molkerei-Genoss. Altenautal eGmbH, Henglarn</li><li>14 Parensen. Gut Meyerhof, Etteln.</li><li>20 Reichspost</li><li>57 Sander, Bernh., Fuhrgesch., Atteln 115</li><li>08 Sander, Ewald, Eier, Etteln 37</li><li>10 Schäfers, Friedrich, Mühlenbes., Etteln 129.</li><li>24 Schmelter, F., Bäckerei, Helmern, Uckernstr. 79</li><li>34 Spenner, Josef, Holzwrfr., Atteln</li><li>32 Stieren, Wilhelm, Landwirt, Helmern 27</li><li>13 Wächter, Jos., Metzgermstr., Atteln Nr. 5.</li><li>28 Wasmuth, Wilh., Lohndrescherei, Etteln</li><li>40 Wübbeke, Ww. Jos., Bauer, Etteln</li></ul></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Attendorn (westf.)",
+        "entries": [
+          {
+            "extension": "348",
+            "text": "Allgeme. Ortskrankenk., Schülernhof 147"
+          },
+          {
+            "extension": "366",
+            "text": "Amt Attendorn, Kölner Tor 4"
+          },
+          {
+            "extension": "267",
+            "text": "Amtsgericht"
+          },
+          {
+            "extension": "371",
+            "text": "Anker, O., Buchdrucker"
+          },
+          {
+            "extension": "317",
+            "text": "Anno-Haus, Kathol. Vereinshaus"
+          },
+          {
+            "extension": "284",
+            "text": "Ante, Jos., elektr. Anl."
+          },
+          {
+            "extension": "448",
+            "text": "Arens, Anton, Schlosserei, Helden"
+          },
+          {
+            "extension": "322",
+            "text": "Attend. Masch.- u. Werkz.-Fbr. Kaufmann"
+          },
+          {
+            "extension": "224",
+            "text": "Attend. Spar- u. Darlehnskassenverein eGmbH"
+          },
+          {
+            "extension": "400",
+            "text": "Attendorfer Tropfsteinhöhle"
+          },
+          {
+            "extension": "558",
+            "text": "Auler, Heinr., Ing., Bhf.Str. 7"
+          },
+          {
+            "extension": "224",
+            "text": "Bäuerl. Bezugs- u. Absatz-Gen. eGmbH."
+          },
+          {
+            "extension": "221",
+            "text": "Bäuerl. Bezugs- u. Absatz-Gen., Helden"
+          },
+          {
+            "extension": "327",
+            "text": "Behrend Nf., Rich., Schmied"
+          },
+          {
+            "extension": "292",
+            "text": "Belke, Franz, Gasthof, Helden"
+          },
+          {
+            "extension": "613",
+            "text": "H. J. Belke &amp; Söhne, Kfzte., Helden"
+          },
+          {
+            "extension": "226",
+            "text": "Belke, Wilh., Landw., Milstenau"
+          },
+          {
+            "extension": "212",
+            "text": "Berghaus, Max, Haudelei"
+          },
+          {
+            "extension": "268",
+            "text": "Berghaus, Paul, Autos, Finnentroper Str. 6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"249 14 983 993\" data-label=\"List-Group\">\n<p>\n    462 Bettig, A., Baubeschlagfabr.<br/>\n    474 Bettig, Ferd., Autoreparaturen<br/>\n    435 Bettig, Paul, Autoreparatur<br/>\n    461 Bettig, Muhr &amp; Co<br/>\n    519 Beul, Aug., Messinggußwbr.,<br/>\n    464 Beul, Jos., Dentist, Kölner Str.<br/>\n    551 Beul, Lorenz, Auktionator<br/>\n    314 Biecker, Jos., Kurzw., Breite Techt 191<br/>\n    350 Biergans, Franz, Konditor, Schüllernhof 139<br/>\n    425 Biergans &amp; Co., Textilwr.<br/>\n    486 Bilsing, Jos., Werkzeugfabr.<br/>\n    334 Bischoff, Otto, Installat.<br/>\n    437 Blöink, Wilhelm, Färb.<br/>\n    325 Bock, Ww., Weusterhammer<br/>\n    527 Böhne, Karl, Bauer, Weschede<br/>\n    379 Böttenberg, Frz., Baubeschlagfabr., Grafweg<br/>\n    287 Brake, Stephan, Leinenweberei<br/>\n    298 Brandenburg, Dr. Alfr., Arzt, Kölner Str. 104<br/>\n    218 Breidebach, Alex, Gastwirt, Klinke<br/>\n    241 Breidenstein, Hans, Hausgeräte<br/>\n    942 Broitenbach Josef Breite Techt 97\n  </p>\n</div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"248 0 967 987\" data-label=\"List-Group\"><ul><li>406 Bruse, Ferd. Wilh., FORK., TRANK</li><li>384 Gebr. Bruse, Messingwr.</li><li>356 Bruse, Wilh., Haus Waldenbg.</li><li>412 Collegium Bernardinum, Gymnasialkonvikt.</li><li>537 Contzen, Amtsbürgermstr., Kölner Tor 4</li><li>364 Dahlhausen, Gut</li><li>303 Damm, Ant., Drechserei, Schützenstr. 2</li><li>239 Damm, Jos., Geschäftsf., Kehlberg 16</li><li>282 Damm, Paula, Hebamme</li><li>223 Delchmann, Herm., Schlosserei</li><li>301 Dtsch. Frauenwerk, Breite Str. 73</li><li>509 Dikten, Elisabeth, Damenkleider</li><li>376 Dingerkus, Gottfried, R.-A.[N]</li><li>206 Dingerkus, Franz, Restaur.</li><li>381 Gebr. Dingerkus, Bijouteriewrfbr.</li><li>225 Dörpfeld, Ewald, Süßwarengroßhandlung</li><li>590 Drixelius, Dr. R., Arzt</li><li>456 Epe, Eug., Ing.</li><li>550 Epe, Herm., Wollwaren</li><li>394 Epe, Jos., Kohlen</li><li>420 Eßfeld, Egon, Metzger, Wasserstr. 14</li></ul></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 0 660 18\" data-label=\"Page-Header\">\n<p>404 Ewig, Staatl. Domäne</p>\n</div>\n<div data-bbox=\"252 20 993 993\" data-label=\"List-Group\">\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li>404 Ewig, Staatl. Domäne</li>\n<li>319 Filmer, Amtsinspektor</li>\n<li>405 Forstamt (Preuß.-), Attendorf</li>\n<li>576 Försterei Waldenburg</li>\n<li>496 Franziskanerkloster</li>\n<li>543 Frey, Th., Möbelschreinerei</li>\n<li>530 Frey, Th., Buchdruckerei</li>\n<li>480 Friederich, Bernh., Elektrotechn., Nordwall 12</li>\n<li>541 Friedling, Alwin, Landwirt, Beukenbeul</li>\n<li>395 Fröhling, Carl, Bildhauerei</li>\n<li>574 Fuhrmann, Heinr., Metallwrfbr.</li>\n<li>358 Gaertner, Jul., Elektr. Anlagen</li>\n<li>373 Gasthaus z. Listertalsperre b. Listernohl</li>\n<li>457 Gasthof Ratskeller</li>\n<li>249 Gasthof Ritter, Hub. Vogt</li>\n<li>330 Gastreich, A., Zentralheizungen</li>\n<li>222 Gemeinde Helden, Bürgermeister, Repe</li>\n<li>561 Gerlinger Walzwerk, Werk Attendorf</li>\n<li>431 Gommers, J., Heilprakt., A.-Hitler-Wall 2</li>\n<li>329 Greitemann, B., Baugesch., Kraghammer</li>\n<li>470 Gschwendner, Joh. Dauschach Tisternohl</li>\n</ul>\n</div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"255 0 998 417\" data-label=\"List-Group\"><ul><li>283 Groß. Clemens, Maschinenhandlung</li><li>835 Gudelius, Franz, Schreinermstr., Kampstr. 11</li><li>523 Gutsverwaltung Nierhof</li></ul></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"717 787 998 925\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 9 998 994\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>529</td>\n<td>Malberstadt, Joh., Bahnhofsirtsch.</td>\n</tr>\n<tr>\n<td>531</td>\n<td>Hammer, Karl, Polsternmöbel</td>\n</tr>\n<tr>\n<td>370</td>\n<td>Harnischmacher, Konditorei, Ennesterstr.</td>\n</tr>\n<tr>\n<td>360</td>\n<td>Heiderhoff, Ewald, Baubeschlagfabr.</td>\n</tr>\n<tr>\n<td>570</td>\n<td>Heldener Spar &amp; Darlehnskassen-V., Helden</td>\n</tr>\n<tr>\n<td>552</td>\n<td>Hengstebeck, Tonis, Viehhdlg., Hambeul 10</td>\n</tr>\n<tr>\n<td>439</td>\n<td>Hennemann, Aug., Archit., Kölner Landstr. 16</td>\n</tr>\n<tr>\n<td>479</td>\n<td>Hesener, Rob., Kfm., Listernohl</td>\n</tr>\n<tr>\n<td>227</td>\n<td>Hesse, Karl, Kleineisenwaren.</td>\n</tr>\n<tr>\n<td>272</td>\n<td>Hesse, Joh., Landw., Tecklinghausen</td>\n</tr>\n<tr>\n<td>269</td>\n<td>Heuel, Hub., Gutsbes., Bremge</td>\n</tr>\n<tr>\n<td>200</td>\n<td>Heuel, Jos., Metallwrfabr.</td>\n</tr>\n<tr>\n<td>548</td>\n<td>Heupel, W., Gasthaus</td>\n</tr>\n<tr>\n<td>281</td>\n<td>Hoberg, Alois, Möbel, Grafwg. 31</td>\n</tr>\n<tr>\n<td>386</td>\n<td>Hoberg, Leo, Eisenwrhdlg.</td>\n</tr>\n<tr>\n<td>382</td>\n<td>Hoberg, Peter, Holzhdlg.</td>\n</tr>\n<tr>\n<td>210</td>\n<td>Hoberg, Rudolf, Schuhwaren</td>\n</tr>\n<tr>\n<td>235</td>\n<td>Hoberg, Wilhelm, Schreinerei</td>\n</tr>\n<tr>\n<td>277</td>\n<td>Hoffmann, Aug., Dachdeckermstr.</td>\n</tr>\n<tr>\n<td>203</td>\n<td>Hoffmann, Karl, Dachdeckermstr., Kirchpl. 175</td>\n</tr>\n<tr>\n<td>286</td>\n<td>Hoffmann, Leo, Schreinermeister</td>\n</tr>\n<tr>\n<td>942</td>\n<td>Holstein Rudolf Robert Rinnolhartstr 11</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 0 994 991\" data-label=\"Text\"><p>593 Hormes, Adolf, Kohlenhdlg.<br/>219 Hotel Haus Listertal, Listernohl<br/>401 Hotel Himmelreich<br/>468 Hotel Kaiserhof, Bahnhofstr. 7<br/>306 Hotel Pfelfer, Bes. H. Vaut<br/>465 Hotel z. Post, Niederstestr.<br/>266 Hotel Rauch<br/>(497) Hotel u. Pension z. Post, Kraghammer<br/>231 Hüppe, Felix, Leder, Niederstestr.<br/>483 Hüttemann, Ferd., Bürgermstr., Windhausen<br/>568 Hüttemann, Franz, Metallwarenfabrik<br/>393 Hüttemann, Jos., Sparkassendirektor<br/>208 Hüttenwerke Siegerland A.G.<br/>258 Huhn, F. W., Adolf-Hitler-Wall 8<br/>476 Humberg, Max, Konditorei<br/>421 Hundt, Jos., Café, Wasserstr. 19<br/>455 Imbert-Generatoren-Ges. mbH, Zweigwerk<br/>512 Isphording, Carl Jos., Polsterwr.<br/>312 Isphording, Engelbert, Armaturenfabrik<br/>515 Jugendherberge Attendorn<br/>500 Junge, Robert, Kaufmann</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 936 986\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th>U</th>\n<th",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>440</td>\n<td>Kölsche, Friedr., Hammerwerk, Kraghammer</td>\n</tr>\n<tr>\n<td>369</td>\n<td>König, Fritz, Metzger, Schemperstr. 184</td>\n</tr>\n<tr>\n<td>349</td>\n<td>König, Hub., Polstermöbel</td>\n</tr>\n<tr>\n<td>547</td>\n<td>Köper, Theo, Molkereierzeugnisse</td>\n</tr>\n<tr>\n<td>232</td>\n<td>Köster, Heinr., Holzhdlg., Helden</td>\n</tr>\n<tr>\n<td>201</td>\n<td>Kopsan, Robert, Wassermeister</td>\n</tr>\n<tr>\n<td>207</td>\n<td>Kost, Emil, Baustoffe</td>\n</tr>\n<tr>\n<td>390</td>\n<td>Kost, Herbert, Autoreparaturwerkstatt</td>\n</tr>\n<tr>\n<td>339</td>\n<td>Kost, Hermann, Bäckerei u. Café</td>\n</tr>\n<tr>\n<td>354</td>\n<td>Kraftwerk Ahausen</td>\n</tr>\n<tr>\n<td>228</td>\n<td>Krankenhaus, Städt., St. Barbara-Hospital</td>\n</tr>\n<tr>\n<td>413</td>\n<td>Kriegsgefangenen-Kreiskomm. d. Kr. Olpe</td>\n</tr>\n<tr>\n<td>632</td>\n<td>Kriegsgefangenenlager</td>\n</tr>\n<tr>\n<td>524</td>\n<td>Kröger, Theodor, Eisenwrfbr., Kraghammer</td>\n</tr>\n<tr>\n<td>300</td>\n<td>Kutsch, M., Stanz- u. Ziehartikel, Militäreffekten: Uniformknöpfe u. Abzeichen, Schülfernhof</td>\n</tr>\n<tr>\n<td>596</td>\n<td>Lahme, Otto, Aluminiumwerk, Kraghammer<br/>über Attendorn</td>\n</tr>\n<tr>\n<td>336</td>\n<td>Landesversich.-Anstalt, Kontrollstelle</td>\n</tr>\n<tr>\n<td>581</td>\n<td>Landjahrheim, Burg Schnellenberg</td>\n</tr>\n<tr>\n<td>---</td>\n<td>---</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 944 993\" data-label=\"Text\"><p>557 Leber, Lorenz, Viehhandlung<br/>436 Lehrwerkstatt GmbH, Attendorf<br/>363 Leitges, Willi, Bäckerei, Niederste Str. 277<br/>447 Linne, Viktor, Schmiede, Huhlenmarkt 322<br/>526 Listerkraftwerk, Kraftwerk Listertalsperre<br/>588 Lütticke, Heinr., Kaffee, Listernohl<br/>214 Mackenberg, R.-A. [N], Klosterplatz<br/>534 Maiworm, Hubert, Metzgerei<br/>469 Marcus, Heinr., Gutspächter, Langenohl<br/>244 Marke, Dr. Franz, Zahnarzt<br/>315 Markthalle<br/>562 Marsch jr., Ewald, Tiefbau<br/>444 Menke, A., Felle, Hindenb. Wall 101<br/>343 Menke, E., Pflegerin, Bahnhofstr. 3<br/>221 Menke, Jos., Landw., Mecklinghausen<br/>419 Mertens, Heinrich, Bierverlag<br/>381 Metten, H., Gasthaus, Helden<br/>270 Metten, Jos., Landwirt, Listerscheid<br/>307 Müller, Alex, Kaufhaus Listernohl<br/>463 Müller, Herm., Gärtnerei, Niederstestr.<br/>482 Müller, Jos., Maßschneider. Markt 4</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 978\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>200</td>\n<td>Munici, Rau, Ristux, Ruvici Dui. Jva</td>\n</tr>\n<tr>\n<td>294</td>\n<td>Müller, Wilh., Malermstr.</td>\n</tr>\n<tr>\n<td>461</td>\n<td>Muhr &amp; Bender Federnfbr.</td>\n</tr>\n<tr>\n<td>365</td>\n<td>Muhr &amp; Söhne, Kaltwalzwerk, Listernohl</td>\n</tr>\n<tr>\n<td>567</td>\n<td>Nicodemus, Kol.-W., Papiermühle</td>\n</tr>\n<tr>\n<td>493</td>\n<td>Nolte, Jos., Malergesch.</td>\n</tr>\n<tr>\n<td>372</td>\n<td>NSDAP., Ortsgruppe</td>\n</tr>\n<tr>\n<td>251</td>\n<td>Dies., NS.-Frauenschaft, Hindenburgwall 63</td>\n</tr>\n<tr>\n<td>245</td>\n<td>Dies., NSV., Kölner Straße</td>\n</tr>\n<tr>\n<td>254</td>\n<td>Dies., NSV., Helden</td>\n</tr>\n<tr>\n<td>374</td>\n<td>Oberschule f. Jungen, Städt.</td>\n</tr>\n<tr>\n<td>310</td>\n<td>Objektschutzwache Listertalsperre</td>\n</tr>\n<tr>\n<td>286</td>\n<td>Ortmann, Clemens, Malermstr.</td>\n</tr>\n<tr>\n<td>426</td>\n<td>Otto, Dr. Alfons, Tierarzt</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Pass &amp; Co, Blechwrifr.</td>\n</tr>\n<tr>\n<td>302</td>\n<td>Peiffer, Emil, Apotheker</td>\n</tr>\n<tr>\n<td>577</td>\n<td>Peters, Bruno, Gartenbau</td>\n</tr>\n<tr>\n<td>321</td>\n<td>Gebr. Pielhau, Tiefbau, Kraghammer</td>\n</tr>\n<tr>\n<td>458</td>\n<td>Paul Pielhau &amp; Co., Bauuntern., Kraghammer</td>\n</tr>\n<tr>\n<td>378</td>\n<td>Pielhau, Emil, Kaufm., Kraghammer</td>\n</tr>\n<tr>\n<td>273</td>\n<td>Pielhau, Wilh., Kaufmann</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch).\"/>This image shows a blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is entirely white and devoid of any text, markings, or illustrations. It represents an empty section of the directory, likely corresponding to a specific town or region that is not visible in this particular view.</div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 779 999 951\" data-label=\"Text\"><p><b>Äußerliche — Attnang-Puchheim:</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 11 966 993\" data-label=\"Table\">\n<table border=\"1\">\n<tr>\n<td>583</td>\n<td>Pieper, Josef, Mühlenbes.</td>\n<td>.</td>\n</tr>\n<tr>\n<td>584</td>\n<td>Gebr. Platte, Zigarrenfabr., Helden</td>\n<td></td>\n</tr>\n<tr>\n<td>501</td>\n<td>Plugge, Joh., Sägewerk</td>\n<td></td>\n</tr>\n<tr>\n<td>240</td>\n<td>Plugge, Jos., Wagenbau</td>\n<td></td>\n</tr>\n<tr>\n<td>471</td>\n<td>Polizeistelle Heggen</td>\n<td></td>\n</tr>\n<tr>\n<td>248</td>\n<td>Polizeistelle Papiermühle</td>\n<td></td>\n</tr>\n<tr>\n<td>422</td>\n<td>Pulte, Jos., Gutsbes., Helden</td>\n<td></td>\n</tr>\n<tr>\n<td>472</td>\n<td>Rauterkus, Ferd., Heißmangel</td>\n<td></td>\n</tr>\n<tr>\n<td>582</td>\n<td>Reichabahn, Güterabfertigung Attendorn</td>\n<td></td>\n</tr>\n<tr>\n<td>408</td>\n<td>Dieselbe Güterabfert., Kraghammer</td>\n<td></td>\n</tr>\n<tr>\n<td>318</td>\n<td>Dieselbe, Güterabfert., Listernohl</td>\n<td></td>\n</tr>\n<tr>\n<td>532</td>\n<td>Reichapost, Vorsteher u. Amtszimmer</td>\n<td></td>\n</tr>\n<tr>\n<td>528</td>\n<td>Reuber, E., Zimmermstr., Plaßmannshf.</td>\n<td></td>\n</tr>\n<tr>\n<td>385</td>\n<td>Reuber, Josef, Metzger, Kölner Str. 107</td>\n<td></td>\n</tr>\n<tr>\n<td>520</td>\n<td>Reuber, Josef, Radio-Fachgeschäft</td>\n<td></td>\n</tr>\n<tr>\n<td>275</td>\n<td>Richard, Franz, Ingenieur</td>\n<td></td>\n</tr>\n<tr>\n<td>429</td>\n<td>Richard, Theod., Bauer, Milstenau</td>\n<td></td>\n</tr>\n<tr>\n<td>432</td>\n<td>Richard, Maria, Weißwr.,</td>\n<td></td>\n</tr>\n<tr>\n<td>522</td>\n<td>Rickert, Herm., Gastwirt</td>\n<td></td>\n</tr>\n<tr>\n<td>263</td>\n<td>Rinschede, Otto, Schlosserei</td>\n<td></td>\n</tr>\n<tr>\n<td>556</td>\n<td>Rinscheid, Hub., Holz</td>\n<td></td>\n</tr>\n<tr>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 992 991\" data-label=\"Text\"><p>445 Röchner, Franz, Bauing., Wasserstr.<br/>572 Rottmann, Ludwig, Photohdlg., Bahnhofstr.<br/>434 Rüenauwer, Wilh., Bäckerei, Helden<br/>438 Ruhrtalsperrenverein, Baubüro, Kehlberg 2<br/>428 Rustemeyer, Dr. Alfred, Arzt<br/>466 Sangermann, Aug., Bäckerei, Oberveischede<br/>573 Sangermann, Joh., Bäcker, Kaffeehaus<br/>230 Sauer, Ww., Sommerfrische Jäckelchen<br/>575 Schaeffer, Karl, Büchertevisor<br/>415 Schemm, Theodor, Metallwrfbr., Kraghammer<br/>410 Scherer, Ernst, Elektro-Anlagen<br/>338 Scherer, Otto, Zahnpraxis, Niederstes Tor 257<br/>418 Scherer, Rob., Werkzeugfbr., An der Tränke<br/>359 Schlösser, Leo, Autotransporte<br/>380 Schlüter, Hch., Manuf.-W.<br/>383 Schmelzer, Bernhard, Ennest<br/>514 Schmelzer, Rob., Metzger, Listernohl<br/>291 Schmidt, Casp., Lederhandlung<br/>417 Schmitz, Elisabeth, Hebamme<br/>375 Schmitz, Peter, Schneidermstr., Beukenbeu<br/>484 Gebr. Schnepper, Gerberei, Mecklinghausen</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 975\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>EXT</th>\n<th>NAMEN, BEREICH, BERUFLICHES, ORT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>494</td>\n<td>Schnütgen, Hub., Bauer, Weuste, Listertalsp.</td>\n</tr>\n<tr>\n<td>309</td>\n<td>Scholl &amp; Co, Kfm., Wasserstraße</td>\n</tr>\n<tr>\n<td>430</td>\n<td>Schröder, Carl, Metzger</td>\n</tr>\n<tr>\n<td>560</td>\n<td>Schürmann, Franz, Bierverlag</td>\n</tr>\n<tr>\n<td>229</td>\n<td>Schütz, Wilh., Feinkost</td>\n</tr>\n<tr>\n<td>510</td>\n<td>Schulte, Alfred, Lebensmittel</td>\n</tr>\n<tr>\n<td>205</td>\n<td>Schulte, Aug., Anstreicherinstr.</td>\n</tr>\n<tr>\n<td>477</td>\n<td>Schulte, Ant., Pächter, Klöwer</td>\n</tr>\n<tr>\n<td>525</td>\n<td>Schulte, Franz, Kolonialwaren, Ennest</td>\n</tr>\n<tr>\n<td>220</td>\n<td>Schulte, Hubert, Uhren</td>\n</tr>\n<tr>\n<td>352</td>\n<td>Schulte, Hugo, Baugesch., Bremgerweg 8</td>\n</tr>\n<tr>\n<td>587</td>\n<td>Schulte, Jos., Landwirt, Sange.</td>\n</tr>\n<tr>\n<td>337</td>\n<td>Schulte, Jos., Möbel, Bremgerweg</td>\n</tr>\n<tr>\n<td>536</td>\n<td>Schulte, Wilh., Schreinerel, Listernohl</td>\n</tr>\n<tr>\n<td>295</td>\n<td>Siepe, Jos., Landwirtschaft, Ennest</td>\n</tr>\n<tr>\n<td>564</td>\n<td>Siepe, Walther, Prokurist</td>\n</tr>\n<tr>\n<td>540</td>\n<td>Siewer, A., Zahnarzt</td>\n</tr>\n<tr>\n<td>377</td>\n<td>Siewer, Franz, Baugesch., Listernohl</td>\n</tr>\n<tr>\n<td>585</td>\n<td>Sparkasse d. Amtes Attendorn</td>\n</tr>\n<tr>\n<td>215</td>\n<td>Sparkasse, Städt.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 995\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>204</td>\n<td>v. Spee, Graf, Stephan, Schloß Ahausen</td>\n</tr>\n<tr>\n<td>255</td>\n<td>v. Spee'sche, Gräfl. Renteilverwaltung, Ahausen</td>\n</tr>\n<tr>\n<td>594</td>\n<td>Springob, W., Steinbruchbes., Wangen</td>\n</tr>\n<tr>\n<td>257</td>\n<td>Springmann, Wilh., Baugesch., Oberveischede</td>\n</tr>\n<tr>\n<td>402</td>\n<td>Stadtverwaltung</td>\n</tr>\n<tr>\n<td>423</td>\n<td>Stinn, Alb., Möbelfabrik</td>\n</tr>\n<tr>\n<td>503</td>\n<td>Stipp, Franz, Bauer, Sange</td>\n</tr>\n<tr>\n<td>392</td>\n<td>Stipp, Wilh., Manufakturw. \"</td>\n</tr>\n<tr>\n<td>571</td>\n<td>Stritter, Aug., Architekt</td>\n</tr>\n<tr>\n<td>333</td>\n<td>Strotkemper, Ant., Gartenbau, Kölner Tor</td>\n</tr>\n<tr>\n<td>216</td>\n<td>Stumpf jr., Josef, Holzhdlg., Biekhofen</td>\n</tr>\n<tr>\n<td>453</td>\n<td>Stutte, Ant., Holz, Listertalsperre</td>\n</tr>\n<tr>\n<td>361</td>\n<td>Teipel, E., Holzhdlg., Kraghammer</td>\n</tr>\n<tr>\n<td>586</td>\n<td>Teipel, Herm., Bauer, Ebbelinghagen</td>\n</tr>\n<tr>\n<td>534</td>\n<td>Teipel, Rich., Kfm., Schützenpark</td>\n</tr>\n<tr>\n<td>544</td>\n<td>Tielke, Anton</td>\n</tr>\n<tr>\n<td>507</td>\n<td rowspan=\"3\">\n<b>Tielke &amp; Hommerich, Blechwarenfabrik und</b><br/>\n<b>Verzinkerei, Spezialität Transportkannen und</b><br/>\n<b>Hobboks</b>\n</td>\n</tr>\n<tr>\n<td>508</td>\n</tr>\n<tr>\n<td>355</td>\n<td>Tump, Katharina, Hebamme</td>\n</tr>\n<tr>\n<td>432</td>\n<td>Uranlinien-Kloster. Pensionat</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<td>210</td>\n<td>Voice, Neuer, Muirhead</td>\n</tr>\n<tr>\n<td>288</td>\n<td>Verbraucher-genossenschaft eGmbH</td>\n</tr>\n<tr>\n<td>414</td>\n<td>Verbraucher-Gen. Attendorn, Stelle Ennest</td>\n</tr>\n<tr>\n<td>424</td>\n<td>Verbraucher-Gen. Attendorn, St. Listernohl</td>\n</tr>\n<tr>\n<td>538</td>\n<td>Vereinshaus Ihnetal, Listerscheid</td>\n</tr>\n<tr>\n<td>502</td>\n<td>Viegener, Anton, Küchengerate</td>\n</tr>\n<tr>\n<td>278</td>\n<td rowspan=\"2\">\n          Franz Viegener II K. G., Armaturenfabrik und<br/>\n          Metallgießerei, Windhauser Str. 10. T Armatur<br/>\n          P Köln 13477\n        </td>\n</tr>\n<tr>\n<td>279</td>\n</tr>\n<tr>\n<td>308</td>\n<td>Viegener Ww. Franz, Spedition, Schüllernhof</td>\n</tr>\n<tr>\n<td>280</td>\n<td>Viegener Ww. Franz, Fabrikant, Ostwall 88</td>\n</tr>\n<tr>\n<td>506</td>\n<td>Viegener, Heinr., Bierverl.</td>\n</tr>\n<tr>\n<td>362</td>\n<td>Viegener, Jos., Spediteur, Nordwall 36</td>\n</tr>\n<tr>\n<td>391</td>\n<td>Viegener, Jos., Zimmergesch.</td>\n</tr>\n<tr>\n<td>396</td>\n<td>Viegener, Wwe. Paul, Fabrikant, Ostwall 88</td>\n</tr>\n<tr>\n<td>357</td>\n<td>Viegener &amp; Müller, Autolasttransporte</td>\n</tr>\n<tr>\n<td>202</td>\n<td>Vogt, Wwe., Landw., Ennest</td>\n</tr>\n<tr>\n<td>285</td>\n<td>Vogt, Hubert, Manufakturwr.</td>\n</tr>\n<tr>\n<td>389</td>\n<td>Vogt, Jos., Bäckerel, Ennest</td>\n</tr>\n<tr>\n<td>345</td>\n<td>Voigt, Richard, Molkerel</td>\n</tr>\n<tr>\n<td>427</td>\n<td>Voß, Heinr., Gutsbes., Mecklinghausen</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 963\" data-label=\"Table\"><table><tr><td>234</td><td>Weber, Karl, Landwirt, Ulhof</td></tr><tr><td>217</td><td>Wienböker, Rud., Gastwirtschaft</td></tr><tr><td>238</td><td>Wilmes, Martin, Bauer, Sange</td></tr><tr><td>470</td><td>Worringen, Stadtsinspektor, Ennester Weg 8</td></tr><tr><td>504</td><td>Wurm, Franz, Gastw., Repe</td></tr><tr><td>489</td><td>Wurm, K., Landw., Listernohl</td></tr><tr><td>516</td><td>Zeppenfeld, Aloys, Apparatebau, Oberveischede</td></tr><tr><td>332</td><td>Zeppenfeld, Friedr., Viehhdlg., Helden</td></tr></table></div>",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": [
+      {
+        "region_name": "Attenkirchen (Bay.)",
+        "entries": [
+          {
+            "extension": "24",
+            "text": "Bauer sen., Georg, Baugeschäft"
+          },
+          {
+            "extension": "13",
+            "text": "Bauer, Johann, Gemischtwr., Oberappersdorf"
+          },
+          {
+            "extension": "18",
+            "text": "Eisenberger, Josef, Bäckerm., Wolfersdorf"
+          },
+          {
+            "extension": "11",
+            "text": "Gendarmerieposten Attenkirchen"
+          },
+          {
+            "extension": "25",
+            "text": "Kath. Pfarramt Attenkirchen"
+          },
+          {
+            "extension": "9",
+            "text": "Kettner, Martin, Gastwirt."
+          },
+          {
+            "extension": "4",
+            "text": "Kleidorfer, Martin, Maschinen, Wolfersdorf"
+          },
+          {
+            "extension": "17",
+            "text": "Leitenberger, Seb., Gastw., Wolfersdorf"
+          },
+          {
+            "extension": "2",
+            "text": "Oberhäuser, Michael, Maurermstr."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 29 714 920\" data-label=\"List-Group\"><ul><li>22 Quaderer, Josef, Bahnagent</li><li>19 Reichspost, Zweigpostamt</li><li>16 Schindele, Fritz, Bäckerei</li><li>15 Schmidhuber, Paul, Elektrogeschäft</li><li>5 Thalhamer, Alois, Bauer, Thalham</li><li>6 Weichmann, Albert, Zementwarenfabrik</li><li>8 Wenger, Franz, Bäckerei, Oberappersdorf.</li><li>10 Wurzer, Joh., Maschinen.</li></ul></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Attenweiler b. Biberschach (RIB)[Wrttb.]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 10 728 890\" data-label=\"List-Group\"><p><b>20 Rungis, Ann, Daut, Rutschberg.</b><br/><b>26 Schönborn, Zdenko, Graf, Oberstadion</b><br/><b>19 Sprüler, Alb., Gasthof, Oberstadion</b><br/><b>13 Ströbele, Alb., Bürgerm.Amt, Oggelsbeuren</b><br/><b>27 Ströbele, Karl, Bauer, Hausen</b><br/><b>22 Zinnecker, Otto, Brennerel, Mösmühle</b></p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Attersee (Oberdonau)",
+        "entries": [
+          {
+            "extension": "5",
+            "text": "Aigner, Matthias, Baugeschäft"
+          },
+          {
+            "extension": "23",
+            "text": "Babinger, Matthias, Autobetrieb, Mühlbach 7"
+          },
+          {
+            "extension": "6",
+            "text": "Bahnhof Attersee"
+          },
+          {
+            "extension": "27",
+            "text": "Berndt, Maria, Pension, Aufham Nr. 11"
+          },
+          {
+            "extension": "35",
+            "text": "Deutsche Tiefbauges. mbH (Reichsautobahnen)"
+          },
+          {
+            "extension": "3",
+            "text": "Faber, Dr. Richard, Villenbesitzer"
+          },
+          {
+            "extension": "28",
+            "text": "Fischer, Ludwig, Kfm., Villa Hubertus"
+          },
+          {
+            "extension": "20",
+            "text": "Frisch, Dr. Alfred, Dozent"
+          },
+          {
+            "extension": "8",
+            "text": "Gemeindeamt"
+          },
+          {
+            "extension": "16",
+            "text": "Gendarmerie"
+          },
+          {
+            "extension": "9",
+            "text": "Häupl, Franz, Sägewerk"
+          },
+          {
+            "extension": "13",
+            "text": "Harrer, Karl, Fleischhauer"
+          },
+          {
+            "extension": "12",
+            "text": "Heitzinger, Johann, Bootbauer, Aufham 13"
+          },
+          {
+            "extension": "10",
+            "text": "E. u. K. Hintermeyer, Mechaniker"
+          },
+          {
+            "extension": "7",
+            "text": "Hotel Attersee, Gerda Irresberger"
+          },
+          {
+            "extension": "24",
+            "text": "Kottulinsky'sches Forsthaus"
+          },
+          {
+            "extension": "14",
+            "text": "Krischer, Matthäus, Klempner"
+          },
+          {
+            "extension": "17",
+            "text": "Miglbauer, Franz, Kaufmann"
+          },
+          {
+            "extension": "4",
+            "text": "Oberndorfer. Marie. Gasthof"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 733 937\" data-label=\"Text\"><p><b>10 VUN VIKAUSS-DIAUGAUUS, GELU, GILU</b><br/><b>49 Reichspost</b><br/>2 Reinthaller, Anton, U.-Staatssekr., Waldhof<br/>19 Rieger, Friedrich, Forstdirektor<br/>26 Röder, Hans, Kaufmann<br/>(28) Siedek, Rich., Dipl.-Ing., Villa Hubertus<br/>22 Union Yachtklub<br/>33 Vatter, Ernst, Dipl.-Ing.<br/>1 Wildbachverbauung, Bauleitung<br/>11 Zipfer, Bierdepot<br/>15 Zopf, Josef, Kaufmann</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Attnang-Puchheim (oberdonau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"30 0 754 985\" data-label=\"Text\"><p><b>Attnang-Puchheim.</b> Schöner Sommerfrischenort im Hausruckkreise. 418 m ü. d. M. 5222 Einw. Eisenbahnknotenpunkt am Eingang in das herrliche Salzkammergut. Der nahe Wald ladet zu schönen Spaziergängen ein. Viele Ruhebänke. Die Gegend ist reich an schönen Ausflugszielen. Gelegenheit zu Bergtouren mit herrlicher Fernsicht. Von der alten Kirche in Attnang gute Aussicht auf die Alpenkette vom Schafberg bis zum großen Priel. Im Norden der Hausruck. Sehenswerte Wallfahrtskirche und altes Schloß. Badegelegenheit. <b>Auskunft:</b> Bürgermeister. <b>Fernspr.:</b> 2</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 21 782 981\" data-label=\"List-Group\"><ul><li>42 <b>A.E.G.-Union E. G., Baubüro</b></li><li>29 <b>Anna-Apotheke, Mr. Karl Ecker</b></li><li>51 <b>Attnanger Leinenweberei Schiene u. Loidl</b></li><li>6 <b>Bahnhof, Fahrdienstleitung</b></li><li>4 <b>Bahnhof, Güterstelle</b></li><li>1 <b>Bahnhofsgastwirtschaft Anton Teissl</b></li><li>34 <b>Bauer, Sepp, Elektrogeschäft</b></li><li>28 <b>Bernhart, Josef, Gasthof</b></li><li>3 <b>Bierniederlage der Österr. Brau-AG, Zweignied.</b></li><li>27 <b>Eichinger, Anton, Bäckerm., Bäckerstr. 40</b></li><li>52 <b>Ennsberger, Josef, Autovermietung (Gasthof zur Stadt Gmunden)</b></li><li>35 <b>Feuerwehr, Attnang</b></li><li>40 <b>Dieselbe, Puchheim</b></li><li>24 <b>Fischleder, Ferdinand, Bierabfüllerei</b></li><li>52 <b>Fischleder, Rudolf, Gasthof Stadt Gmunden</b></li><li>19 <b>Gasthof zur Sonne</b></li><li>2 <b>Gemeindeamt</b></li><li>8 <b>Gendarmerie</b></li><li>16 <b>Göschl, August, Zimmerei</b></li><li>9 <b>Grandy, Louise, Gasthofbesitzerin</b></li></ul></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 783 794\" data-label=\"List-Group\"><p>37 Haidinger, Hedwig, Spezerei<br/>50 Hauptschule<br/>40 Hötzinger, Max, Fleischhauer<br/>10 Janusch, Oberbaurat, Mitterweg 5<br/>5 Königstorfer, Josef, Gasthof<br/>18 Kreditanstalt für Handel, Gewerbe u. Landwirtschaft rGmbH<br/><b>57 Franz Kröpfel Landmaschinen</b><br/>Lager von Landmaschinen u. Ersatzteilen<br/>44 Löberbauer, Hans, Kraftfahrzeuge<br/>48 Markus, Josef, Bäckerei<br/>56 Maschinen-Berger, Puchheimer Str. 5<br/>32 Moser, Ferdinand, Kaufhaus, Linzer Reichsstr. 2<br/>7 Neudorfer, Franz, Kinogasthof<br/>22 Niederdorfer, Josef, Bäckerei, Bahnhofstr. 30</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  }
+]

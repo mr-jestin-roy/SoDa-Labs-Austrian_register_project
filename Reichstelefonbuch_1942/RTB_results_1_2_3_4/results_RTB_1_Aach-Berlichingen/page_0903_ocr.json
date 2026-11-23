@@ -1,0 +1,929 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which are likely scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Schwäbisch Hall.",
+        "entries": []
+      },
+      {
+        "region_name": "Traunstein (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": [
+      {
+        "region_name": "Heilanstalt „Helia“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 20 981 222\" data-label=\"Text\"><p>B2 02 13 <b>Margarethenbad</b> Kur- und<br/>Badeanstalt<br/>Wien V/55, Strobachgasse 7-9</p></div><div data-bbox=\"252 236 963 530\" data-label=\"Text\"><p><b>Wien-Perchtoldsdorf.</b><br/>55 Kiefernadel-Kur- und Badeanstalt<br/>Perchtoldsdorf<br/>Anton Hofmann, Wiener Gasse 31</p></div><div data-bbox=\"252 544 995 917\" data-label=\"Text\"><p><b>Witzenhausen (Hess.-Nass.)</b><br/>230 Städtisches Kurheim, Naturheilverfahren,<br/>vorzugsweise Heilfasten- u. Diätkuren,<br/>homöopathische-klinische Behandlung.<br/>Leitd. Arzt: Dr. med. Werner Eisenberg</p></div>",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"419 208 821 283\"}]",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"251 23 997 134\" data-label=\"Text\"><p><b>Allerheiligen i. Renchtal Baden</b><br/>Oppenau 403 Kurhaus Allerheiligen, Posthilfsstelle</p></div><div data-bbox=\"251 144 858 210\" data-label=\"Text\"><p><b>Bad Aibling (Oberbay.).</b></p></div><div data-bbox=\"326 207 709 250\" data-label=\"Text\"><p>341 Kurhotel Wittelsbach</p></div><div data-bbox=\"251 266 976 327\" data-label=\"Text\"><p><b>Bad Bertrich (Bez. Koblenz).</b></p></div><div data-bbox=\"326 327 970 374\" data-label=\"Text\"><p>114 Kurdirektion Bad Bertrich, Kirchstr. 9</p></div><div data-bbox=\"251 388 874 442\" data-label=\"Text\"><p><b>Bad Brückenau (Mainfranken).</b></p></div><div data-bbox=\"326 447 997 535\" data-label=\"Text\"><p>241 Staatl. Mineralbad Bad Brückenau mit<br/>Kurhotel</p></div><div data-bbox=\"251 552 548 613\" data-label=\"Text\"><p><b>Badgastein.</b></p></div><div data-bbox=\"342 616 383 656\" data-label=\"Text\"><p>62</p></div><div data-bbox=\"614 614 770 661\" data-label=\"Text\"><p><b>Alpenblick</b></p></div><div data-bbox=\"397 660 864 706\" data-label=\"Text\"><p>Kurhaus Badgastein (Salzburg)</p></div><div data-bbox=\"329 729 386 769\" data-label=\"Text\"><p>448</p></div><div data-bbox=\"397 705 943 796\" data-label=\"Text\"><p><b>Haus Goldeck</b> Dr. F. Straubinger<br/>Kaiserpromenade</p></div><div data-bbox=\"329 796 386 838\" data-label=\"Text\"><p>377</p></div><div data-bbox=\"397 794 997 887\" data-label=\"Text\"><p>Hotel und Kurhaus <i>Miramonte</i> Besitzer<br/>Heinrich Wagner</p></div><div data-bbox=\"329 908 386 950\" data-label=\"Text\"><p>130</p></div><div data-bbox=\"488 889 915 961\" data-label=\"Text\"><p><b>Kurhaus Behrens</b></p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Bad Heilbrunn (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Hofgastein (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Kissingen.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Lauterberg (Hann.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Meinberg (Lippe).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "Bad Mergentheim (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Nauheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Oeynhausen.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Polzin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Pyrmont.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Reichenhall.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "<div data-bbox=\"309 0 982 75\" data-label=\"Text\"><p>0002 Bad Reichenhall, Adolf-Hitler-Str. 2</p></div><div data-bbox=\"392 80 939 227\" data-label=\"Text\"><p>Bad Reichenhall, Adolf-Hitler-Str. 2</p></div><div data-bbox=\"250 270 933 434\" data-label=\"Text\"><p><b>Bad Rothenfelde (Tautoburgerwald).</b></p></div><div data-bbox=\"326 450 767 580\" data-label=\"Text\"><p>403 Kurhaus Bad Rothenfelde</p></div><div data-bbox=\"326 589 902 731\" data-label=\"Text\"><p>578 Dasselbe, nur für den Fernverkehr</p></div><div data-bbox=\"249 776 836 971\" data-label=\"Text\"><p><b>Bad Salzungen (Thür.).</b></p></div>",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Bad Schandau.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Schwarzbach (Isergeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Steben (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Tölz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "3471. Kuranstalten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Bad Wiessee b. Tegernsee.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Wimpfen (Hessen).",
+        "entries": []
+      },
+      {
+        "region_name": "Baden b. Wien (Niederdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Baden-Baden.",
+        "entries": []
+      },
+      {
+        "region_name": "Benneckenstein (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "Berggießblübel (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Berggießhübel, Sanatorium",
+        "entries": []
+      },
+      {
+        "region_name": "Bissingen b. Donauwörth.",
+        "entries": []
+      },
+      {
+        "region_name": "Bühlerhöhe b. Sand (Amt Bühl Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Düben (Mulde).",
+        "entries": []
+      },
+      {
+        "region_name": "Faulenbach b. Füssen (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Jagdhaus Rominten (Ostpr.).",
+        "entries": []
+      },
+      {
+        "region_name": "Johannistbad (Riesengeb.) [Sudetenland].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Kurhäuser und Kurhotel Johannishof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Karlsbad (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Kornau b. Oberstdorf (Allgäu).",
+        "entries": []
+      },
+      {
+        "region_name": "Lübeck-Travemünde.",
+        "entries": []
+      },
+      {
+        "region_name": "Ostsee-Kurhof",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"124 114 990 602\" data-label=\"Text\"><p><b>10 Hotel Surböck, „Drei Hasen“, Mariazell<br/>(Steiermark,) Wiener Str.</b></p></div><div data-bbox=\"0 675 653 951\" data-label=\"Text\"><p><b>Münstereifel (Rhpr.).</b></p></div>",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"92 15 939 895\"}]",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Nieder-Lindewiese (Ostautenland).",
+        "entries": [
+          {
+            "extension": "4",
+            "text": "Mader, Dr. med., Kurhaus und Pension, Schrothkuren"
+          }
+        ]
+      },
+      {
+        "region_name": "Putzig (Westpr.).",
+        "entries": [
+          {
+            "extension": "37",
+            "text": "Kurhaus, Inh. Bernard Konart"
+          }
+        ]
+      },
+      {
+        "region_name": "Rauschen (Samland).",
+        "entries": [
+          {
+            "extension": "201",
+            "text": "Kurhaus Rauschen, Bes. Frau Kaempf, Rauschen, Samland"
+          }
+        ]
+      },
+      {
+        "region_name": "Rekawinkel (Niederdonau).",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "Sanatorium Rekawinkel, für innere und nervöse Erkrankungen"
+          }
+        ]
+      },
+      {
+        "region_name": "Ruhpolding (Oberbay.).",
+        "entries": [
+          {
+            "extension": "9",
+            "text": "Kurhaus Ruhpolding, Pächter: Martin Helle, Ruhpolding"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Sand (Schwarzwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Schärding (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Schönberg (Kr. Calw [Wrttb.]).",
+        "entries": []
+      },
+      {
+        "region_name": "Sarnau (Niederdonau)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is white with a vertical red margin line on the left side. There is no text or other content visible on the page.\"/></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"42 81 672 300\"}, {\"label\": \"Text\", \"bbox\": \"352 386 961 535\"}, {\"label\": \"Text\", \"bbox\": \"352 614 961 712\"}, {\"label\": \"Text\", \"bbox\": \"37 806 964 920\"}]",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      },
+      {
+        "region_name": "Tegernsee (Bay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Waldesruh b. Montabaur (Hess.-Nass.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wörschach (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Zinten (Ostpr.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "3473. Kurheime",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Bad Aibling (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Badgastein.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Hall (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Hofgastein (Salzburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Kissingen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Bad Mergenthalheim (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Tatzmannsdorf",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Tölz.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Wiessee b. Tegernsee.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Bad Wörishofen.",
+        "entries": []
+      },
+      {
+        "region_name": "Benneckkernstein (Härz).",
+        "entries": []
+      },
+      {
+        "region_name": "Berchtesgaden.",
+        "entries": []
+      },
+      {
+        "region_name": "Bonnedorf (Schwarzwald).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"53 50 960 912\" data-label=\"Text\"><p><b>159 Kinder-Kurheim Haus Waldfriede</b><br/>Modernes Heim, Direkt am Hochwald. Auf-<br/>nahme von 4—16 Jahren</p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Gammertingen (Hohenzollern)",
+        "entries": []
+      },
+      {
+        "region_name": "Kronberg (Taunus).",
+        "entries": []
+      },
+      {
+        "region_name": "Wernigerode (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien-Maria Enzersdorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"108 231 684 313\"}]",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Bad Ischl (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Mergentheim (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Reichenhall.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 109 765 861\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Alexisbad (Harz).",
+        "entries": []
+      },
+      {
+        "region_name": "Altenau (Oberharz).",
+        "entries": []
+      },
+      {
+        "region_name": "Baabe (Rügen).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Aibling (Oberbay.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Aussee (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Brückenan (Mainfranken)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Bad Dürreheim (Schwarzwald).",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Ems.",
+        "entries": []
+      },
+      {
+        "region_name": "Bad Frankenhause (Kyffh.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "<div data-bbox=\"32 10 723 960\" data-label=\"Text\"><p><b>71 Pfännerschaft</b><br/><b>Bad Frankenhausen (Kyfh.)</b><br/>Saline — Solbad — Schwimmbad,<br/>Verkehrsamt — Holzbearbeitungswerkstätten.</p></div>",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Badgastein.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": {
+      "raw": "<div data-bbox=\"31 37 739 950\" data-label=\"Text\"><p><b>Bad Gastein</b>, 1083 m ü. d. M. Weltbekanntes Heilbad gegen Rheumatismus, Alters- und Nervenkrankheiten. 18 heiße radioaktive Quellen, besondere luftelektrische Verhältnisse, Höhenklima, Winter- und Sommerkuren, Wintersport, Pauschalkuren. Auskünfte Kurverwaltung Fernsprecher 108.</p></div>",
+      "cells": [
+        "col4_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Kuranstalten Bad Hall",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Bad Harzburg.",
+        "entries": []
+      }
+    ]
+  }
+]

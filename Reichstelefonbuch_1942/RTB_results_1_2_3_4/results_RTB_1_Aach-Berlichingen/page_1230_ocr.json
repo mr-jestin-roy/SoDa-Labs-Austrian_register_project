@@ -1,0 +1,934 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"256 714 608 937\" data-label=\"Text\"><p>746 (Branchenteil)</p></div><div data-bbox=\"770 701 998 901\" data-label=\"Text\"><p><b>6104. Te</b></p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"311 0 385 146\" data-label=\"Text\"><p>4000</p></div><div data-bbox=\"385 0 396 453\" data-label=\"Text\"><p>{</p></div><div data-bbox=\"602 187 769 419\" data-label=\"Text\"><p>Bleichstr. 4</p></div><div data-bbox=\"262 546 401 854\" data-label=\"Text\"><p><b>Wien.</b></p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"288 102 422 311\"}, {\"label\": \"Text\", \"bbox\": \"477 16 947 412\"}, {\"label\": \"Text\", \"bbox\": \"659 395 795 550\"}, {\"label\": \"Text\", \"bbox\": \"496 572 955 750\"}, {\"label\": \"Text\", \"bbox\": \"507 787 943 966\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"255 29 998 411\" data-label=\"Text\"><p><b>R1 45 10 Dr. Rudolf Trauttmannsdorff &amp; Co., Kunst-</b><br/><b>stein-, Steinholz- und Terrazzoindustrie,</b><br/><b>Baustoffe, Wien X/75, Neulreichgasse 35</b></p></div><div data-bbox=\"255 441 903 606\" data-label=\"Text\"><p><b>Wittislingen (üb. Dillingen [Donau]).</b></p></div><div data-bbox=\"346 596 998 855\" data-label=\"Text\"><p><b>11 Risse, Hubert, Terrazzo- u. Steinwerke,</b><br/><b>Wittislingen (Schwaben)</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"272 240 982 326\"}]",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"388 230 842 311\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Coesfeld (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Cottbus.",
+        "entries": []
+      },
+      {
+        "region_name": "Forst (Lausitz).",
+        "entries": []
+      },
+      {
+        "region_name": "Guibem.",
+        "entries": []
+      },
+      {
+        "region_name": "Hohenstein-Ernstthal (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      },
+      {
+        "region_name": "Alois Arbeiter",
+        "entries": []
+      },
+      {
+        "region_name": "Radebeul-Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Reichenberg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"321 93 901 311\"}, {\"label\": \"Text\", \"bbox\": \"456 339 832 477\"}, {\"label\": \"Text\", \"bbox\": \"528 485 792 614\"}, {\"label\": \"Text\", \"bbox\": \"524 625 757 753\"}, {\"label\": \"Text\", \"bbox\": \"524 766 746 917\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Auerbach (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bocholt (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 705 998 912\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": {
+      "raw": "<div data-bbox=\"66 41 964 947\" data-label=\"Text\"><table><tr><td><b>Sammel-</b></td><td rowspan=\"3\"><b>{</b></td><td rowspan=\"3\"><b>Louis Hirsch</b></td><td><b>G. m. b. H.,</b></td></tr><tr><td><b>Nr.</b></td><td><b>Färberei,</b></td></tr><tr><td><b>1596</b></td><td><b>Appretur, Druckerei, Reichsstr. 11</b></td></tr></table></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Heidenheim (Brenz) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Hohenems (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Hohenlimburg (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Königinhof (Elbe) [Böhmen].",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"105 106 900 270\" data-label=\"Text\"><p><b>Carl Breuer &amp; Söhne</b></p></div><div data-bbox=\"352 351 654 467\" data-label=\"Text\"><p><b>Stoffdruckerei</b></p></div><div data-bbox=\"284 555 722 721\" data-label=\"Text\"><p><b>Königinhof a. E.</b></p></div><div data-bbox=\"311 757 703 891\" data-label=\"Text\"><p><b>Fernsprecher: 338</b></p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"214 71 793 261\" data-label=\"Text\"><p><b>M. B. Neumann's Söhne</b></p></div><div data-bbox=\"294 304 712 490\" data-label=\"Text\"><p><b>„UNION“</b></p></div><div data-bbox=\"68 506 940 695\" data-label=\"Text\"><p><b>Textilindustrie- u. Druckfabriks-A. G.</b></p></div><div data-bbox=\"337 713 668 822\" data-label=\"Text\"><p><b>Königshof (Elbe)</b></p></div><div data-bbox=\"296 835 701 941\" data-label=\"Text\"><p><b>Fernsprecher: 7 u. 73</b></p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Lörrach (Baden).",
+        "entries": []
+      },
+      {
+        "region_name": "Lustenau (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Plauen (Vogtl.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 196 66\" data-label=\"Text\"><p><b>Prag.</b></p></div><div data-bbox=\"49 66 989 157\" data-label=\"Text\"><p><b>502 85 Vereinigte Färbereien A.G.</b></p></div><div data-bbox=\"377 159 802 300\" data-label=\"Text\"><p>General-Repräsentanz<br/>für das Protektorat<br/>Böhmen und Mähren</p></div><div data-bbox=\"280 300 900 350\" data-label=\"Text\"><p>Prag XII.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Druckfabrik Wilhelm Wagner",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 15 981 147\" data-label=\"Text\"><p>A5 46 67 <b>Engelbrech, Ferdinand</b>, Textildruckerei,<br/>Wien XIII/89, Hietz Kai 101</p></div><div data-bbox=\"0 147 957 265\" data-label=\"Text\"><p>U2 35 04 <b>Franz M. Rhomberg</b></p></div><div data-bbox=\"181 265 937 394\" data-label=\"Text\"><p>Niederlage der Baumwollweberei und<br/>Druckerei, Wien I/1, Gonzagagasse 17</p></div><div data-bbox=\"0 394 976 510\" data-label=\"Text\"><p>A1 95 40 <b>Vereinigte Färbereien A.G.</b></p></div><div data-bbox=\"307 513 848 640\" data-label=\"Text\"><p>Zentralbüro<br/>Wien I/1, Rudolfsplatz 13a</p></div>",
+      "cells": [
+        "col2_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Milgroßhandlungen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Wuppertal.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"34 214 978 311\"}]",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Luppa (üß. Bautzen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"12 145 998 569\"}, {\"label\": \"Text\", \"bbox\": \"295 569 721 817\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"54 156 178 354\"}, {\"label\": \"Section-Header\", \"bbox\": \"205 20 959 437\"}, {\"label\": \"Text\", \"bbox\": \"205 494 961 951\"}]",
+      "cells": [
+        "col3_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"14 41 200 210\"}, {\"label\": \"Text\", \"bbox\": \"14 231 998 804\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"10 125 998 822\"}]",
+      "cells": [
+        "col3_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 109 540 375\" data-label=\"Text\"><p><b>Rheydt (Rhrpr.).</b></p></div><div data-bbox=\"67 369 995 750\" data-label=\"Text\"><p>42885 Joeres &amp; Pferdmeniges, Chemische Textil-<br/>faserbefeuchtung, Schloßstr. 119</p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"38 158 961 826\"}]",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Apolda.",
+        "entries": []
+      },
+      {
+        "region_name": "Aussig (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Breslau.",
+        "entries": []
+      },
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"186 93 805 261\"}, {\"label\": \"Text\", \"bbox\": \"306 304 676 415\"}, {\"label\": \"Text\", \"bbox\": \"415 438 569 625\"}, {\"label\": \"Text\", \"bbox\": \"402 648 581 744\"}, {\"label\": \"Text\", \"bbox\": \"270 779 719 915\"}]",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Coburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Danzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"206 54 774 395\"}, {\"label\": \"Text\", \"bbox\": \"211 386 767 555\"}, {\"label\": \"Text\", \"bbox\": \"175 555 805 731\"}, {\"label\": \"Text\", \"bbox\": \"288 731 686 899\"}]",
+      "cells": [
+        "col3_sec16.png"
+      ]
+    }
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"159 84 815 263\"}, {\"label\": \"Text\", \"bbox\": \"312 316 655 419\"}, {\"label\": \"Text\", \"bbox\": \"448 440 521 526\"}, {\"label\": \"Text\", \"bbox\": \"378 555 592 651\"}, {\"label\": \"Text\", \"bbox\": \"228 696 741 802\"}, {\"label\": \"Text\", \"bbox\": \"276 821 684 940\"}]",
+      "cells": [
+        "col3_sec17.png"
+      ]
+    }
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Eißen (Böhmen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"86 651 96 671\" data-label=\"Text\"><p>-</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Graslitz (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Franz Arnold",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Heidenheim (Brenz) [Wrttb.].",
+        "entries": []
+      },
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsbad (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Limburg (Lahn).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"55 45 745 441\"}, {\"label\": \"Text\", \"bbox\": \"226 524 573 656\"}, {\"label\": \"Text\", \"bbox\": \"234 705 577 779\"}, {\"label\": \"Text\", \"bbox\": \"242 832 563 917\"}]",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"102 98 702 326\"}, {\"label\": \"Text\", \"bbox\": \"204 342 601 445\"}, {\"label\": \"Text\", \"bbox\": \"159 529 642 636\"}, {\"label\": \"Text\", \"bbox\": \"224 687 587 761\"}, {\"label\": \"Text\", \"bbox\": \"234 813 562 899\"}]",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"44 102 803 700\" data-label=\"List-Group\"><p>20014 { <b>R. Zimmermann &amp; Co.</b>, Großverkauf von<br/>20016 { Textilwaren, Adolf-Hitler-Straße 45<br/>26760 <b>Dieselben</b>, Wohnung <b>Robert Zimmermann</b>,<br/>Schlageterstraße 118</p></div><div data-bbox=\"0 783 323 970\" data-label=\"Text\"><p><b>Luxemburg.</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"252 10 564 117\"}, {\"label\": \"Section-Header\", \"bbox\": \"23 117 784 292\"}, {\"label\": \"Text\", \"bbox\": \"179 321 639 427\"}, {\"label\": \"Text\", \"bbox\": \"259 421 555 531\"}, {\"label\": \"Text\", \"bbox\": \"168 529 644 632\"}, {\"label\": \"Text\", \"bbox\": \"228 632 587 736\"}, {\"label\": \"Text\", \"bbox\": \"128 736 683 830\"}, {\"label\": \"Text\", \"bbox\": \"179 830 631 932\"}]",
+      "cells": [
+        "col4_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "EDUARD SCHMIT &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Mähr. - Ostrau (Protectorat).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"26 187 102 380\"}, {\"label\": \"Text\", \"bbox\": \"187 89 603 450\"}, {\"label\": \"Text\", \"bbox\": \"274 533 506 750\"}, {\"label\": \"Text\", \"bbox\": \"202 753 598 960\"}]",
+      "cells": [
+        "col4_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Mährisch-Schönberg (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Mährisch-Trübau (Ostsudetenland).",
+        "entries": []
+      }
+    ]
+  }
+]

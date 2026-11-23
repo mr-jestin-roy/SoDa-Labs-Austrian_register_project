@@ -1,0 +1,855 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text, handwriting, or printed content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"258 9 998 993\" data-label=\"List-Group\"><p>314 Greve, Emil, Kupferschmied, Obernstr. 103.<br/>376 Maake-Beck Brauerei AG, Brückenstr. 513<br/>260 Hagedorn, Carl, Rohtabakvertr., Baden 400<br/>410 Hauschild, Direkt. i. R., Obernstr. 491<br/>258 Heilmann, E., Schlachtermstr., Obernstr. 397<br/>437 Henke, Diedr., Feuerwehrm., Bierden 79<br/>448 Holland, Chr., Tischl., Mühlenfeldstr. 315<br/>385 Holzmann, Joh., Drogerie, Obernstr. 369<br/>300 Hoppe, Photograph, Obernstr. 370<br/>400 Hoppe, Heinr., Fuhrgesch., Feldstr. 511<br/>368 v. Horn, Georg, Tischlerei, Pavillonstr. 419<br/>205 Hotel Franke, W. Müller, Obernstr. 164<br/>386 Hotel Gieschen, Inh. Aug. Kohlmann<br/>256 Hotel Stadt Bremen, Obernstr. 62<br/>252 Jäger, Johann, Schlächterei, Baden 202<br/>237 Otto u. Hans Jäger, Bäckerei, Obernstr. 584<br/>402 Kampmeier, G., Bierverlag, Verdener Str. 160<br/>436 Kannegießer, Fritz, Baden 111<br/>451 W. Kellner &amp; Co, Baugesch., Baustelle<br/>373 Kinderheim „Haus Weserberg“, Baden<br/>213 Klenke, Hinr., Zigarrenfabr., Mühlenstr. 179<br/>498 Knief Joh Mühle Rittelstr 400</p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"255 0 998 993\" data-label=\"Text\"><p>303 Knoche, W., Bergstr. 585<br/>442 Koch, Baumstr., Feldstr. 605<br/>346 Krüger, Chr., Fleischerei, Obernstr. 213.<br/>369 Kruse, Aug., Kolonialwr., BremerStr. 78<br/>415 Kruse, H., Betriebswärter, Bierden<br/>309 Kuckuck, Alfred, Viehhdlg., Uphusen 35.<br/>382 Kuckuck, Wilh., Viehhändler, Obernstr. 106.<br/>340 Kück, A., Manuf.-W., Verdener Str. 461<br/>259 Kühn, Rich., Dentist, Verdener Str. 673<br/>274 Landwehr, Wilh., Sägewerk, Uesen 111<br/>360 Leefers, Heinr., Kfm., VerdenerStr. 492<br/>251 Lehrbaustelle Niedersachsen, Bierden 17<br/>280 Lindhorst, Friedr., Viehhdrl., Obernstr. 374<br/>281 Lindhorst, J., Brunnenbau, EmbserLandstr. 650<br/>337 Lübben, H., Bauer, Embsen<br/>228 Lüllmann, Joh., Gasth., Baden 99<br/>404 Marschhausen, Nf. H., Kaufh., Obernstr. 98<br/>387 Marschhausen, Johann, Obernstr. 67.<br/>254 Martens, Heinrich, Vertr., Bremer Str. 73<br/>377 Martin, Wilhelm H., Ingenieurbüro, Maschinen-<br/>u. Apparatabau. Bremer Straße 128</p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "<div data-bbox=\"252 0 997 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>Ext</th>\n<th>Name, Business, Location</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>212</td>\n<td>Meislahn, H., Bauunternehmung, Langenstr. 53</td>\n</tr>\n<tr>\n<td>305</td>\n<td>Meisner, Karl, Fahrräder, Verdener Str. 180</td>\n</tr>\n<tr>\n<td>216</td>\n<td>Meyer, Bürgermstr., Baden</td>\n</tr>\n<tr>\n<td>294</td>\n<td>Meyer, Dietr., Schiffer, Baden 351</td>\n</tr>\n<tr>\n<td>283</td>\n<td>Meyer, Herm., Bürgermstr., Embsen 12</td>\n</tr>\n<tr>\n<td>388</td>\n<td>Meyer, Hinr., Bürgermstr., Uphusen 47</td>\n</tr>\n<tr>\n<td>422</td>\n<td>Meyer, Johann, Windmühle, Mühlenstr. 68</td>\n</tr>\n<tr>\n<td>244</td>\n<td>Mindermann, Georg, Bauer, Uesen 3</td>\n</tr>\n<tr>\n<td>275</td>\n<td>Mindermann &amp; Sohn, Schuhw., Obernstr. 102</td>\n</tr>\n<tr>\n<td>230</td>\n<td>Mitschke, H., Hebamme, Borst. Ldstr. 629</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Molkereigen. eGmbH, Paulsbergstr. 754</td>\n</tr>\n<tr>\n<td>328</td>\n<td>Mußmann &amp; Röber, Manuf.-W., Obernstr. 289</td>\n</tr>\n<tr>\n<td>316</td>\n<td>Nagel, Heinrich, Zimmerer, Baden 192</td>\n</tr>\n<tr>\n<td>420</td>\n<td>Naumann, Max, Honig, Pavillonstr. 192</td>\n</tr>\n<tr>\n<td>421</td>\n<td>Ders., Wohn., Obernstr. 679</td>\n</tr>\n<tr>\n<td>223</td>\n<td>Neumann, Georg, Fischhdlg., Obernstr. 116</td>\n</tr>\n<tr>\n<td>290</td>\n<td>Nocke, Friedr., Hotel, Baden 158</td>\n</tr>\n<tr>\n<td>325</td>\n<td>NSDAP., SA.-Reitersturm 3/62, Langenstr. 53</td>\n</tr>\n<tr>\n<td>265</td>\n<td>Dies., Amt f. Volkswohlfahrt, Schulstr. 5</td>\n</tr>\n<tr>\n<td>450</td>\n<td>Dies., Kindertagesst. d. NSV",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"248 0 998 994\" data-label=\"Text\"><p>313 Oetting, Heinr., Schlachterei, Bhfstr. 326<br/>396 Osmers, Joh., Sattlerei, Pfarrstr. 152.<br/>440 Osmers, Herm., Landw., Borstel 3<br/>429 Osmers, Joh., Lohndrescherei, Achim-Emsholz<br/>338 Osmers-Cohrs, Georg, Bauer, Unterstr. 19<br/>253 Overbeck, W., Prozeßagent, Bergstr. 434.<br/>428 Panhorst, Gustav, Baden 334<br/>397 Pape, Heinrich, Gasth. zum Badener Berg 116<br/>276 Paradies, Walter, Kfm., Baden, Bahnhofstr.<br/>333 Perrey, M., Schneider, Obernstr. 102<br/>390 Pfarre Achim, Pastor Bremer, Pfarrstr. 3.<br/>210 Prieser, Wilh., Kfm., Baden 356<br/>857 Purnhagen, D., Baugesch., Uphusen 54<br/>378 Purrinann, B., Landwirtschaft., Bollen 26<br/>268 Puvogel, Georg, Bauer, Langenstr. 18<br/>852 Rathjen, Herm., Gastwirtsch., Uegen 46<br/>389 Rathjen, Heim., Bauer, Baden 18<br/>301 Rathjen, Joh., Gastw., Verdener Str. 271<br/>308 Reichelt, W., R.-A.[N], Obernstr. 263<br/>221 Reichsbahn, Güterabfertigung.<br/>288 Dies. Bahnhof Baden</p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"244 0 989 985\" data-label=\"List-Group\"><p>437 Reichsb. u. Kinderreichen, Uesen, Achim<br/>211 Reichspost, Postamt<br/>424 Dies., Poststelle (Stadt), Mühlenstr.<br/>449 Reiners, Aug., Baugesch., Baust. Baden<br/>393 Rieckenberg, Dr. W., Sanitätsrat<br/>229 Rieke, Albert, Kfm., Feldstr. 769<br/>242 Riekes Honigkuchenfabr., KG, Gaswerkstr.<br/>255 Rieke's Konditorei, Obernstr. 263<br/>831 Rodewald &amp; Schütte, Zigarrenfabr., Paulsb. Str.<br/>417 A. G. Röhrs &amp; Co., Bremen, Kiesgrube Uesen<br/>218 Rühe, Conrad, Bäckerstr., Obernstr. 92<br/>384 Schaefer, Joh., Gastwirt, Uesen.<br/>351 Scherf Nachf., E., Kohlen, Obernstr. 410.<br/>320 Schmidt, Bauinspektor, Embserlandstr.<br/>427 Schnaars-Gasthof, O. Stockmann, Obernstr. 2<br/>327 Schnabel, W., Dampfbäckerei, Mühlenstr. 571<br/>349 Schröder, Alb., Maler, Cordstr. 731<br/>284 Schröder, H., Schloss., Baden 68<br/>273 Schützenhof, Achim, Feldstr. 318<br/>262 Schulze, Adolf, Bahnhof<br/>225 Schumacher, H., Kfm., Uphusen 176</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"237 12 987 963\" data-label=\"List-Group\"><p>329 Seekamp, Herm., Baugesch., Uphusen<br/>438 Segelken, J., Bauer, Embser Vieh 50<br/>371 Sieber, Alfr., Klempnerel, Kirchenstr. 149<br/>344 Simonsbrot-Fbr., Fr. Lieken<br/>271 Sonneborn, Dr., Arzt, Bahnhofstr. 441<br/>328 G. Stabernack GmbH, Kartonagenfabrik,<br/>Achim, Paulsbergstr. 187<br/>375 Stadtländer, Joh., Bäckermstr., Bremer Str. 75<br/>395 Stolte, H., Eisenwr., Fahrräder<br/>209 Thams &amp; Garfs, Niederlage, Obernstr. 61a<br/>312 Thies, Diedr., Kfm., Obernstr. 338.<br/>248 Thies, Wilh., Hebamme, Sandhofstr. 425<br/>307 Tietze, Wilh., Fleischermstr., Obernstr. 470<br/>406 Usener Hartsteinwerke, Usen.<br/>330 Verbrauchergenossenschaft eGmbH.<br/>308 Veiheyen, H. J., Kfm., Baden 171<br/>356 Volge, H., Gasthof drei Kronen, Obernstr. 56<br/>243 Voß, Viehhändler, Feldstr. 741<br/>342 Waje, B., Manuf.-W., Obernstr. 11.<br/>383 Waje, Chr., Glaswr., Bhstr. 388</p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"468 104 474 146\" data-label=\"Text\"><p>.</p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"693 786 998 930\"}]",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": {
+      "raw": "<div data-bbox=\"17 20 997 979\" data-label=\"List-Group\"><p>817 Warnken, Diedrich, Bauer, Bollen 9<br/>206 Warnken, H., Baugesch., Verdener Str. 554<br/>203 Wasserwerk u. Brunnenbau-Ges.m.b.H.<br/>215 Wassmann, Landwohn., Hünenburg, Baden.<br/>405 Wegmeyer, Hermann, Baden<br/>285 Weidenhöfer, G., Verbandsvorsteher, Mühlen-<br/>straße 68<br/>233 Wellborg, Fritz, Möbel, Obernstr. 296<br/>234 Wendt, Carl, Bahnhofrestaurant, Baden 190.<br/>247 Wendt, Heinr., Piano-Hdlg., Obernstr. 366<br/>283 Wendt, Hinrich, Bauer, Baden 14<br/>236 Wendt, Martha, Landw., Blerden 32<br/>278 Wilkens, D., Bürgermeister, Blerden 6<br/>227 Wilkens, Joh., Müller, Baden, Bhfstr. 221<br/>202 Wolters, Hermann, Baugesch., Baden 216<br/>413 Wulf, H., Gärtnerei, Buesstr. 379<br/>286 Zollamt, Achim, Verdener Str. 687</p></div>",
+      "cells": [
+        "col2_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Achterwehr (Hoisteln)",
+        "entries": [
+          {
+            "extension": "177",
+            "text": "Andrews, Karl, Maurermeister, Melsdorf"
+          },
+          {
+            "extension": "191",
+            "text": "Andrews, Paul, Maurermstr., Mehlsdorf"
+          },
+          {
+            "extension": "155",
+            "text": "Baasch jr., Hans, Gasth., Felder-Seegarten"
+          },
+          {
+            "extension": "201",
+            "text": "Bauabt. Flemhude, Gr.-Nordsee"
+          },
+          {
+            "extension": "179",
+            "text": "Dieselbe, Jägerlust, Achterwehr"
+          },
+          {
+            "extension": "151",
+            "text": "Beckmann, Ernst, Gastwirt"
+          },
+          {
+            "extension": "152",
+            "text": "Beckmann, J., Schlachtermeister"
+          },
+          {
+            "extension": "195",
+            "text": "Bliemeister, Karl, Fleischbesch., Flemhude"
+          },
+          {
+            "extension": "125",
+            "text": "Bock, Johs., Schlachter, Felde"
+          },
+          {
+            "extension": "175",
+            "text": "Brandt, Carl, Baustelle, Flemhude"
+          },
+          {
+            "extension": "183",
+            "text": "Damlos, Herm., Bauer, Melsdorf"
+          },
+          {
+            "extension": "124",
+            "text": "Dehning, Henry, Baubüro, Am Flemhuder See"
+          },
+          {
+            "extension": "134",
+            "text": "Depke, Otto, Landkrug, Brandsbek"
+          },
+          {
+            "extension": "126",
+            "text": "Ehlers, Klaus, Bauer, Felde"
+          },
+          {
+            "extension": "147",
+            "text": "Fritze, Arnold, Landw., Klein-Nordsee"
+          },
+          {
+            "extension": "172",
+            "text": "Funke &amp; Co, Tiefbauges., Flemhuder See"
+          },
+          {
+            "extension": "119",
+            "text": "Gasthaus Flemhude, Martha Vogt, Flemhude"
+          },
+          {
+            "extension": "122",
+            "text": "Gendarmerie-Einzelposten Brandsbeck"
+          },
+          {
+            "extension": "157",
+            "text": "Grage, Wilh., Lebensmittel, Flemhude"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 993 993\" data-label=\"Text\"><p>164 Harder, Friedr., Lagerverw., Melsdorf<br/>161 Hertlein, A., Wurstmacherei, Felde<br/>(103) Hilfskrankenh. d. Stadt Kiel, Mütterheim<br/>149 Kessler, H., Gastw., Schwartenbock<br/>178 Klainn, Christian, Malerei, Felde<br/>121 Körner, Johs., Zimmerei, Brandsbek<br/>188 Leinau'sche Gutsverw., Kl.-Nordsee<br/>173 Lenz &amp; Co, Baugesellsch., Flemhuder See<br/>183 Dies., Wohn. des Bauleiters, Brandsbek<br/>137 Lubinus, Walther, Landw., Wulfsfelde<br/>117 Matz, Ernst, Landw., Quarnbek<br/>127 Matz, Johs., Landw., Dorotheenthal<br/>180 Michaelis, Hellmuth, Dr., Arzt<br/>193 Milberg, Th., Landwirt<br/>141 Möller, Ludwig, Maurermstr., Felde<br/>138 Möller, Max, Bauer<br/>118 Nehlsen, Adolf, Müllerei, Brandsbek<br/>174 Neue Bauges. Wayss &amp; Freytag AG, Baustelle<br/>Flemhude<br/>108 Neumann, F. A., Baustelle, Flemhuder See<br/>105 Nohr, Holm, Bauer, Polanendorf</p></div>",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 956 991\" data-label=\"Text\"><p>143 Osbahr, Jürgen, Landw., Rajensdorf<br/>169 Passig, Hans, Bäckerei, Felde<br/>159 Pastorat Flemhude<br/>142 Pehle, Marie, Hebamme, Flemhude<br/>189 v. Plessen-Cronstern, L., Graf, Marutendorf<br/>182 Derselbe, Hohenschulen, Gutsverw.<br/>181 Prinz, Dora<br/>146 Joh. &amp; Fr. Prinz, Maschinen, Brandsbek<br/>130 Prinz Nf., Kolonialwaren<br/>140 Raabe, Hans, Bauer, Felde<br/>158 Raabe, O., Dreschmasch.-Bes., Brandsbek<br/>131 Rathjen, A., Gastwirt, Melsdorf<br/>145 Reese, Herm., Bauer, Stampe<br/>114 Reichsbahn, Bahnhof, Brandsbek<br/>113 Dieselbe, Bahnhof Flemhude<br/>129 Dieselbe, Bahnhof Melsdorf<br/>120 Reichspost, Poststelle<br/>162 Rix, Gastw., Hohenhude<br/>194 Rohwer, Max, Baust., Brandsbek-Flemhude<br/>109 Schlichting, Frau A., Bäuerin, Rothenhof<br/>139 Schmahl, Wilhelm, Bauer, Felde</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 992\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th>110</th>\n<th>Umschau, Umschau, Umschau, Umschau</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>199</td>\n<td>Schwarten, Herm., Fuhrwesen</td>\n</tr>\n<tr>\n<td>196</td>\n<td>Sierks, Claudius, Lagerverw., Melsdorf</td>\n</tr>\n<tr>\n<td>171</td>\n<td>Sinjen, Theod., Bauer, Melsdorf</td>\n</tr>\n<tr>\n<td>132</td>\n<td>Soll, Henning, Autorep., Schönwohld</td>\n</tr>\n<tr>\n<td>115</td>\n<td>Spar- u. Darlehnskasse Felde</td>\n</tr>\n<tr>\n<td>123</td>\n<td>Spar- u. Darlehnskasse eGmbH, Melsdorf</td>\n</tr>\n<tr>\n<td>148</td>\n<td>Striepke, Felix, Wagenbau, Schönwohld</td>\n</tr>\n<tr>\n<td>144</td>\n<td>Süberkrüb, Hans, Lehrer, Felde</td>\n</tr>\n<tr>\n<td>119</td>\n<td>Suhr, Wilh., Landw., Melsdorf</td>\n</tr>\n<tr>\n<td>154</td>\n<td>Theophile, Oskar, Landw., Gr.-Nordsee</td>\n</tr>\n<tr>\n<td>136</td>\n<td>Thode, Hermann, Gärtnerei, Melsdorf</td>\n</tr>\n<tr>\n<td>128</td>\n<td>Vagt, August, Amtsvorsteh, Quarnbek</td>\n</tr>\n<tr>\n<td>192</td>\n<td>Vereinigter Rohrleitungsbau (Phoenix-Märkische) GmbH, Baustelle Flemhuder See</td>\n</tr>\n<tr>\n<td>135</td>\n<td>Vogt, Heinr., Elektr. Anlagen</td>\n</tr>\n<tr>\n<td>150</td>\n<td>Voß, Paul, zum Landkrug, Stampe</td>\n</tr>\n<tr>\n<td>158</td>\n<td>Weimar, Elisabeth, Bäuerin</td>\n</tr>\n<tr>\n<td>158</td>\n<td>Weimar, Friedrich, Amtsvorsteh</td>\n</tr>\n<tr>\n<td>133</td>\n<td>Will, Max, Baugesch., Melsdorf</td>\n</tr>\n<tr>\n<td>170</td>\n<td>Wittenburg, Dan., Gastw., Melsdorf</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Adelberg-Kloster (Wirtb.)",
+        "entries": [
+          {
+            "extension": "2",
+            "text": "Forstamt."
+          },
+          {
+            "extension": "4",
+            "text": "Gemeindeverwaltung"
+          },
+          {
+            "extension": "5",
+            "text": "Herb, Herm., Fbr. zahnärztl. Instr., Rankstr. 4"
+          },
+          {
+            "extension": "1",
+            "text": "Stöckle, Karl, Autovermietung Wahl, Kaspar, Gasthaus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Adelebsen (Hann.)",
+        "entries": [
+          {
+            "extension": "182",
+            "text": "v. Adelebsen, Georg, Freiherr, Schloß"
+          },
+          {
+            "extension": "183",
+            "text": "Derselbe, Rentamt"
+          },
+          {
+            "extension": "181",
+            "text": "Derselbe, Rittergut Adelebsen"
+          },
+          {
+            "extension": "157",
+            "text": "Ahrens, Friedrich, Baugeschäft, Lödingsen"
+          },
+          {
+            "extension": "169",
+            "text": "Alma-Luisenstift, Adelebsen"
+          },
+          {
+            "extension": "204",
+            "text": "Bank, Friedrich A., Öle, Bahnhofstr. 194"
+          },
+          {
+            "extension": "138",
+            "text": "Bartram, K., Bauer, Wibbecke"
+          },
+          {
+            "extension": "216",
+            "text": "Basaltwerk Niedersachsen, GmbH"
+          },
+          {
+            "extension": "161",
+            "text": "Becker, Wilhelm, Öle u. Fette"
+          },
+          {
+            "extension": "229",
+            "text": "Berlin, Ernst, Erbhof, Rittergut, Erbsen"
+          },
+          {
+            "extension": "162",
+            "text": "Bertram, Wilh., Gärtnerei, Mühlenanger"
+          },
+          {
+            "extension": "146",
+            "text": "Blanke, Friedr., Buchhandlung."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 782 999 955\" data-label=\"Text\"><p>Reve — Adeladorf (Oberfr.): Gen</p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": {
+      "raw": "<div data-bbox=\"15 11 998 993\" data-label=\"Table\">\n<table>\n<tr>\n<td>187</td>\n<td>Bode, Otto, Schuhwaren</td>\n</tr>\n<tr>\n<td>179</td>\n<td>Borchers, Wilhelm, Gastwirt, Wellbrücke</td>\n</tr>\n<tr>\n<td>153</td>\n<td>Borchert, Fritz, Maurermstr., Steinbruch</td>\n</tr>\n<tr>\n<td>195</td>\n<td>Bornemann, W., Schmiedemstr., Lange Str. 54</td>\n</tr>\n<tr>\n<td>115</td>\n<td>Bremer, C., Apotheke.</td>\n</tr>\n<tr>\n<td>133</td>\n<td>Brennecke, Heuny, Gastwirt, Wibbecke</td>\n</tr>\n<tr>\n<td>202</td>\n<td>Bürgermeister Adelebsen</td>\n</tr>\n<tr>\n<td>165</td>\n<td>Bürgermeister, Eberhausen</td>\n</tr>\n<tr>\n<td>184</td>\n<td>Bürgermeister, Erbsen</td>\n</tr>\n<tr>\n<td>151</td>\n<td>Bürgermeister, Lödingsen</td>\n</tr>\n<tr>\n<td>166</td>\n<td>Bürgermeister, Offensen</td>\n</tr>\n<tr>\n<td>154</td>\n<td>Buhre, Fritz, Bauer, Lödingsen</td>\n</tr>\n<tr>\n<td>170</td>\n<td>Burghardt, Friedr., Tischlerei, Erbsen</td>\n</tr>\n<tr>\n<td>143</td>\n<td>Busch, Wilhelm, Gastwirt</td>\n</tr>\n<tr>\n<td>214</td>\n<td>Dörger, Wilhelm, Fleischwarenfabrik</td>\n</tr>\n<tr>\n<td>209</td>\n<td>Eggers, Friedrich, Schlacht. u. Wurstfabrik</td>\n</tr>\n<tr>\n<td>206</td>\n<td>Ehlert, Carl, Kapitän a. D., Bahnhofstr. 190</td>\n</tr>\n<tr>\n<td>142</td>\n<td>Engelhard, Adolf, Baugesch.</td>\n</tr>\n<tr>\n<td>130</td>\n<td>Engelhardt, Adolf, Käserei</td>\n</tr>\n<tr>\n<td>189</td>\n<td>Figulla, Dr. R., Zahnarzt, Lange Str. 106</td>\n</tr>\n<tr>\n<td>147</td>\n<td>Finke, Wilh., Major a. D., Offensen</td>\n</tr>\n<tr>\n<td>171</td>\n<td>Fürstener, Pruner - Ober-</td>\n</tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"11 0 998 990\" data-label=\"Text\"><p>139 Franke, Alb., Klemperer, Lange Str. 107<br/>212 Franke, C., Eisenhandlung, Langestr. 41.<br/>117 Franke, Florenz, Bierhdlg.<br/>190 Fricke, Fritz, Autorepar.<br/>217 Fritsche, Ernst<br/>135 Gendarmerieamt, Adelebsen<br/>173 Gendarmerieposten<br/>134 Glahe, Hermann, Bäckerei, Lange Str. 53<br/>223 Grimme, G., Manufakturwr., Lange Str. 50<br/>175 Grobecker, Bernw., Dentist, Bahnhofstr. 224<br/>220 Hannov. Basaltwerke, m. b. H., Grefenburg.<br/>118 Dieselbe, Verladestelle<br/>159 Hartje, Aug., Dachdeckermstr., Lödingsen<br/>202 Heise, Oscar, Bürgermeister<br/>172 Herwig, August, Bauer, Erbsen<br/>158 Herwig, Wilh., Bauer, Emmenhausen<br/>192 Hillebrecht, August, Webwr., Lange Str. 108<br/>167 Hinterthür, Carl, Bauer, Lödingsen<br/>137 Ische, Arnold, Schlosserei, Installation<br/>174 Jagdhaus Alte Kirche<br/>180 Jagdhaus Eberhausen, Ernst Heldelberg</p></div>",
+      "cells": [
+        "col3_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 943 993\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th colspan=\"2\">LÖDINGSEN, LÖDINGEN, LÖDINGEN, LÖDINGEN</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>176</td>\n<td>Klinge, F., Schneidermstr., Erbsen</td>\n</tr>\n<tr>\n<td>127</td>\n<td>Klinge, Karl, Fuhrwesen, Lödingsen</td>\n</tr>\n<tr>\n<td>136</td>\n<td>Koch, Walter, Bäckermstr., Lange Str. 108</td>\n</tr>\n<tr>\n<td>185</td>\n<td>Köneke, Aug., Dachdeckerel, Lödingsen</td>\n</tr>\n<tr>\n<td>160</td>\n<td>Kreissparkasse Northeim, Zwelgst.</td>\n</tr>\n<tr>\n<td>113</td>\n<td>Kremer, Paul, Rittergut Eberhausen</td>\n</tr>\n<tr>\n<td>149</td>\n<td>Lehmann, Wilh., Stegemühle</td>\n</tr>\n<tr>\n<td>119</td>\n<td>Lullemann, Carl, Lastfuhrbetrieb</td>\n</tr>\n<tr>\n<td>196</td>\n<td>Möhle, Karl, Ortsbauernführer, Erbsen</td>\n</tr>\n<tr>\n<td>140</td>\n<td>Molkerel, Lödingsen.</td>\n</tr>\n<tr>\n<td>197</td>\n<td>Nalezinski, Revierförster, Burg 9</td>\n</tr>\n<tr>\n<td>155</td>\n<td>Niemeyer, Friedrich, Mühlenbes., Lödingsen</td>\n</tr>\n<tr>\n<td>188</td>\n<td>Nörtermann, Ludwig, Dreschmaschinenbes.</td>\n</tr>\n<tr>\n<td>224</td>\n<td>Norddeutsche Basalt-Industrie G. m. b. H.</td>\n</tr>\n<tr>\n<td>177</td>\n<td>NSDAP., Ortsgruppe</td>\n</tr>\n<tr>\n<td>163</td>\n<td>Pfarrant, Ev.-luth.</td>\n</tr>\n<tr>\n<td>129</td>\n<td>Pfarrant, Ev.-luth., Erbsen</td>\n</tr>\n<tr>\n<td>145</td>\n<td>Philipp, Otto, Kendant, Lödingsen</td>\n</tr>\n<tr>\n<td>152</td>\n<td>Quentin, Melchior, Baugeschäft</td>\n</tr>\n<tr>\n<td>221</td>\n<td>Reichsbahn Adelebsen</td>\n</tr>\n<tr>\n<td>660</td>\n<td>Telefon Lödingsen</td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 992 993\" data-label=\"Table\">\n<table>\n<tr><td>225</td><td>Reichsbahn Offensen</td></tr>\n<tr><td>120</td><td>Reichspost, Postamt</td></tr>\n<tr><td>150</td><td>Schäfer, Friedrich, Mühle, Eberhausen</td></tr>\n<tr><td>186</td><td>Schäfer, Karl, Maurermstr., Eberhausen</td></tr>\n<tr><td>164</td><td>Gebr. Schrader, Zwieback-Bäckerei</td></tr>\n<tr><td>205</td><td>Schröder, Adalbert, Dr., Arzt, Lange Str. 87</td></tr>\n<tr><td>222</td><td>Schuppe, Carl, Dr., Arzt, Bahnhofstr.</td></tr>\n<tr><td>148</td><td>Siedentopp, Otto, Bauer, Emmenhausen</td></tr>\n<tr><td>168</td><td>Siemens, Alexander, Dr., Lödingsen</td></tr>\n<tr><td>193</td><td>Sonnenberg, L., Ortsbauernf., Untere Str. 8</td></tr>\n<tr><td>128</td><td>Spar- u. Darlehnskasse</td></tr>\n<tr><td>132</td><td>Spar- u. Darlehnskasse Erbsen</td></tr>\n<tr><td>194</td><td>Spörhase, Stellmachermeister</td></tr>\n<tr><td>226</td><td>Sporleder, Erich, Mühlenerzeugnisse</td></tr>\n<tr><td>201</td><td>Storm, Harry, Manuf.-W., Lange Str. 55</td></tr>\n<tr><td>144</td><td>Gebr. Storm, Landw., Eberhausen</td></tr>\n<tr><td>191</td><td>Stumpf, C., Gastwirtschaft, Untere Str. 11.</td></tr>\n<tr><td>156</td><td>Verbraucher-genossensch. Lödingsen eGmbH.</td></tr>\n<tr><td>110</td><td>Wegener, H., Stejnbruchbetr., unt. Bramburg.</td></tr>\n<tr><td>208</td><td>Derselbe, Bahnhof, Rampe</td></tr>\n<tr><td>111</td><td>Derselbe. Betriebsleiter Gerhard Docken</td></tr>\n</table>\n</div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 0 836 352\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Adelmannsfelden (üb. Ellwangen [Jagst])[Wrtb.]",
+        "entries": [
+          {
+            "extension": "63",
+            "text": "Adelman von u. zu Adelmannsfelden, Rüd."
+          },
+          {
+            "extension": "95",
+            "text": "Beißwenger, K., Viehverteiler, Straßdorf"
+          },
+          {
+            "extension": "78",
+            "text": "Evang. Pfarramt"
+          },
+          {
+            "extension": "97",
+            "text": "Fischer, Jos., Holz, Gaishardt"
+          },
+          {
+            "extension": "75",
+            "text": "Förstner, Georg, Bauer, Zimmerberg"
+          },
+          {
+            "extension": "93",
+            "text": "Funk, Kari, Autovermietung"
+          },
+          {
+            "extension": "67",
+            "text": "Gemeindeverwaltung Adelmannsfelden"
+          },
+          {
+            "extension": "66",
+            "text": "Gemeindeverwaltung Pommertsweiler"
+          },
+          {
+            "extension": "81",
+            "text": "Mahn, Fr., Bauer, Metzelgehr. u. Wendenhof"
+          },
+          {
+            "extension": "73",
+            "text": "Hoechstetter, Dr. C. A., Arzt"
+          },
+          {
+            "extension": "82",
+            "text": "Hofnaun, Karl, Gasth. z. Lamm"
+          },
+          {
+            "extension": "69",
+            "text": "Hug, Eugen, Sägewerk, Hammerschmiede."
+          },
+          {
+            "extension": "71",
+            "text": "Köder, Ant., Schankw., Hütten"
+          },
+          {
+            "extension": "74",
+            "text": "Kruger, Joh., Autovermiet., Pommertsweiler"
+          },
+          {
+            "extension": "85",
+            "text": "Majer, Gottlob, Gastwirtschaft"
+          },
+          {
+            "extension": "76",
+            "text": "Mayer, Joh., Bauer, Haldenhof"
+          },
+          {
+            "extension": "84",
+            "text": "Revierförsterstelle Bühler, Jenninger"
+          },
+          {
+            "extension": "70",
+            "text": "Rieck, Hermann, Autoverm., Pommertsweiler"
+          },
+          {
+            "extension": "92",
+            "text": "Schmid, Aug., Gastwirtschaft"
+          },
+          {
+            "extension": "74",
+            "text": "Schmalz, Jakob, Gastwirtschaft"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 41 838 885\" data-label=\"List-Group\"><p>96 Spar- u. Darlehenskasse<br/>77 Süpple, Oskar, Kfm., Pommertsweiler<br/>38 Teilort Hinterwald, Gemeinde Bühlerzell</p></div>",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Adelnau (Kr. Ostrowo)[Wartheland]",
+        "entries": [
+          {
+            "extension": "6",
+            "text": "Amtsgericht, Wilhelmplatz 8"
+          },
+          {
+            "extension": "10",
+            "text": "Botor, Aug., Bürgermstr., Bartschweide"
+          },
+          {
+            "extension": "8",
+            "text": "Dampfmühle u. Sägewerk, Krotoschiner Str. 28"
+          },
+          {
+            "extension": "1",
+            "text": "Ein- u. Verkaufsgenoss. mbH, Kalischer Str. 17"
+          },
+          {
+            "extension": "4",
+            "text": "Forstamt Lichtenfeld"
+          },
+          {
+            "extension": "2",
+            "text": "Gaststätte Wartheland, Wilhelmsplatz"
+          },
+          {
+            "extension": "20",
+            "text": "Gendarmerie-Abteilung, Krotoschiner Str. 120"
+          },
+          {
+            "extension": "5",
+            "text": "Gutsverwaltung Friedenau"
+          },
+          {
+            "extension": "8",
+            "text": "Gutsverwaltung Schönfeld"
+          },
+          {
+            "extension": "3",
+            "text": "Koth, Rud., Oberfeldmstr., Am Ring 5"
+          },
+          {
+            "extension": "7",
+            "text": "Kreissparkasse Ostrowo, Ring 19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"0 792 367 937\"}, {\"label\": \"Text\", \"bbox\": \"548 792 786 955\"}]",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": {
+      "raw": "<div data-bbox=\"12 14 787 978\" data-label=\"Text\"><p>26 Mania, Gust., Lederhdlg., Krotoschiner Str. 7<br/>25 Mink, Albert, Dentist, Lindenstr. 5<br/>13 Molkereigenossenschaft e. Gen. m. b. H.,<br/>Krotoschiner Straße 17<br/>14 Neumann, A., Gutsverw. Erzhausen<br/>11 Ostwald-Apotheke, Mag. pharm. Elsa Reimann,<br/>Kalischer Str. 10<br/>24 RAD., Abt. I, Krotoschiner Str.<br/>21 Ders., Gruppe 33a, Krotoschiner Str. 121<br/>37 RAD., weibl., Lag. 6/264, Raschkower Str. 26<br/>2 Reichsbahn, Bahnhof, Bahnhofstr.<br/>18 Dieselbe, Bahnhof Garki<br/>4 Stadtverwaltung, Rathaus<br/>5 Städt. Elektrizitätswerk<br/>9 Strasburger, Jos., Abdeck., Ostrowoer Str. 38<br/>19 Ziegelei, Adelnau</p></div>",
+      "cells": [
+        "col4_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Adelsdorf (üb. Haynau)[Niederschlesien]",
+        "entries": [
+          {
+            "extension": "267",
+            "text": "v. Albedyhl, Frhrr. Gust., Bauer"
+          },
+          {
+            "extension": "284",
+            "text": "Amtsvorstand Adelsdorf in Leisersdorf"
+          },
+          {
+            "extension": "208",
+            "text": "Amtsvorstand Alzenau"
+          },
+          {
+            "extension": "214",
+            "text": "Apotheke, Inh. Georg Beutnagel"
+          },
+          {
+            "extension": "229",
+            "text": "Bank, Franz, Landwirt"
+          },
+          {
+            "extension": "212",
+            "text": "Joh. Bank'sche Gutsverwaltung Adelsdorf"
+          },
+          {
+            "extension": "295",
+            "text": "Berndt, Gust., Schmiedemstr., Modelsdorf"
+          },
+          {
+            "extension": "228",
+            "text": "Bleul, Willi, Bauer, Modelsdorf"
+          },
+          {
+            "extension": "278",
+            "text": "Deutsches Rotes Kreuz, Altersheim"
+          },
+          {
+            "extension": "224",
+            "text": "Dietze, Erich, Bauer, Modelsdorf 24"
+          },
+          {
+            "extension": "273",
+            "text": "Dietze, Ernst, Rentner"
+          },
+          {
+            "extension": "242",
+            "text": "Dörfer, H., Amtsmühle, Leisersdorf"
+          },
+          {
+            "extension": "216",
+            "text": "Dom. Mittel-Leisersdorf, Insp. A. Thomas"
+          },
+          {
+            "extension": "238",
+            "text": "Eggert, Kurt, Rendant"
+          },
+          {
+            "extension": "302",
+            "text": "Evangel. Pfarramt Alzenau"
+          },
+          {
+            "extension": "266",
+            "text": "Fiebig, Paul, Ofenbaumstr."
+          },
+          {
+            "extension": "252",
+            "text": "Fischer, Wilhelm, Bauer, Adelsdorf 117"
+          },
+          {
+            "extension": "202",
+            "text": "Fischzucht Modelsdorf, Inh. F. W. Goehrke"
+          },
+          {
+            "extension": "231",
+            "text": "Förster, Rich., Bauer, Modelsdorf 53"
+          },
+          {
+            "extension": "200",
+            "text": "..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 774 994\" data-label=\"Text\"><p>274 Gemeindebüro Adelsdorf<br/>269 Gendarmerie-Postenbereich Adelsdorf<br/>281 Gerichtskretschain Alzenau, P. Grunwald.<br/>218 Gierschner, Kurt, Bauer, Modelsdorf<br/>205 Giesecke, Herb., Rittergut Ndr. Alzenau<br/>233 Gräns, Gasthaus, Modelsdorf<br/>253 Grun, Jos., Gastwirt, Leisersdorf<br/>293 Hainke, Artur, Bäckermstr., Ob. Adelsdorf.<br/>217 Hanke, Paul, Bauer, Modelsdorf<br/>287 Heiber, Konr., Bauer, Adelsdorf<br/>226 Herold, Rentner, Modelsdorf 29<br/>265 Hiller, Fritz, Bauer, Modelsdorf 19<br/>225 Hoffmann, Rich., Radiohdig., Leisersdorf<br/>244 Jäkel, Willy, Gasthof, Neuschweinitz.<br/>264 Junge, Ernst, Bauer, Leisersdorf<br/>296 Kaul, Reinh., Dachdeckermstr., Adelsdorf<br/>215 Klemm, Bauer, Leisersdorf<br/>286 Knillmann &amp; Mätschke. Baugesch., Leisersdorf<br/>245 Kraul, Walter, Saatgutwirtschaft, Adelsdorf<br/>259 Krause, Georg, Fleischermstr.<br/>240 Krause. Rich.. Gasth.. Adelsdorf 91</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 776 977\" data-label=\"Text\"><p><b>200 Krause, Ivar, Bauer, Moutiswil 50</b><br/><b>239 Kretschmer, Bruno, Bauer, Leisersdorf, Dorf-</b><br/><b>straße 23</b><br/><b>280 Kretschmer, Martin, Bauer, Adelsdorf</b><br/><b>260 Kretschmer, Oscar, Adelsd. 89</b><br/><b>223 Kühn, Bruno, Bauer, Modelsdorf</b><br/><b>282 Lissel, Kurt, Kfm. Leisersdorf 45</b><br/><b>290 Mätschke, Alfr., Baugeschäft</b><br/><b>320 Meder, Otto, Bauer, Modelsdorf 82.</b><br/><b>221 Molkerel Adelsdorf., e. G. m. u. H.</b><br/><b>292 Müller, Adolf, Konditorei-Cafe</b><br/><b>248 Müller, Rudolf, Fleischermstr., Gastwirt</b><br/><b>271 Münch, Max, Bauer, Modelsdorf 5</b><br/><b>227 Münzberg, Willi, Landdienstinspektor</b><br/><b>288 Opitz, Rudolf, Fleischerei, Gasthof</b><br/><b>207 Peterssen-Borstel, Aribert, Arzt</b><br/><b>298 Pfarramt Modelsdorf-Märzdorf</b><br/><b>204 v. Pfeil, Gräfin, Ritt. Adelsdorf, Schloß</b><br/><b>247 Pinkawa, Joh., Kraftfahrzeuge, Landmasch.</b><br/><b>232 Plaetschke, Landwirt, Modelsdorf 28</b><br/><b>201 Quegwer, Richard, Bauer, Modelsdorf</b><br/><b>200</b></p></div>",
+      "cells": [
+        "col4_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 702 994\" data-label=\"Text\"><p>258 Riedel, Hugo, Bauer, Modelsdorf<br/>219 Roericht, Hugo, Bauer, Modelsdorf<br/>211 Röthig, Fritz, Bäckerei, Leisersdorf<br/>234 Rosemann, Alfr., Bauer, Modelsdorf 39<br/>270 Schägner, Fil. d. Kreisspark. Goldberg<br/>235 H. Schmidt'sche Gutsverw., Adelsdorf.<br/>275 Scholz, Herm., Mühlenbes., Adelsdorf.<br/>289 Schröder, Karl, Molkerei<br/>241 Schubert, Dr., Dom., Leisersdorf<br/>300 Seewald, E., Fuhrgeschäft, Leisersdorf<br/>300 Seewald, L., Bauer, Leisersdorf<br/>203 Seidel, Günter, Landw., Modelsdorf<br/>248 Sievers, Friedrich, Auto-Reparatur<br/>283 Spar- u. Darlehnskasse eGmbH<br/>251 Spar- u. Darlehnskasse eGmbH, Alzenau<br/>255 Speker, Wilhelm, Bauer, Alzenau<br/>249 Stelchen, H., Bauer, Adelsdorf 8<br/>278 Stöber, Otto, Bauer, Adelsdorf<br/>206 Tietze, Artur, Gutspächter, Modelsdorf 21<br/>230 Traeder, Walter, Landwirt, Alzenau<br/>277 Walter. Alfr.. Bauer. Adelsdorf</p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 729 970\" data-label=\"Text\"><p><b>251 Wauter, Otto, Musikmeister, Modelsdorf</b><br/><b>301 Wanderscheck, Irma, Dorfstr. 155</b><br/><b>272 Warmer, Alfred, Gasthof, Adelsdorf 39</b><br/><b>254 Weidmann, Herbert, Mühle, Modelsdorf 67</b><br/><b>285 Weidner, Gotth., Bauer, 93</b><br/><b>294 Weißbrodt, Oskar, Bäckermstr., Aizenau 39</b><br/><b>213 Wenzel, Erich, Großkretschem, Dorfstr.</b><br/><b>303 Wilde, Gerhard, Bauer, Adelsdorf</b><br/><b>279 Willenberg, Reinh., Bauer, Modelsdorf 26</b><br/><b>261 Wippitsch, Alfons, Ofenbau, Adelsdorf 90</b><br/><b>281 Wirth, Erich, Amtsvorsteh, Modelsdorf 1</b><br/><b>243 Zahn, Otto, Bauer, Aizenau 46</b></p></div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Adelsdorf (Oberfr.) [Bay.]",
+        "entries": [
+          {
+            "extension": "29",
+            "text": "Bauerreis, Karl, Schreinerstr., Hemhofen"
+          },
+          {
+            "extension": "27",
+            "text": "Bräunling, Georg, Gasthaus, Hemhofen"
+          },
+          {
+            "extension": "17",
+            "text": "Brehm, Georg, Mühlenbes."
+          },
+          {
+            "extension": "19",
+            "text": "v. Grailsheim, Else, Freifrau, Schloß Neuhaus"
+          },
+          {
+            "extension": "22",
+            "text": "Fischer, Josef, Bürgerstr., Weppersdorf."
+          },
+          {
+            "extension": "23",
+            "text": "Forstverwalt., Röttenbach."
+          },
+          {
+            "extension": "6",
+            "text": "Fröhlich, Andreas, Sägewerk."
+          },
+          {
+            "extension": "8",
+            "text": "Georg u. Franziska Fröhlich, Kohlen"
+          },
+          {
+            "extension": "24",
+            "text": "Gemeinde Adelsdorf"
+          },
+          {
+            "extension": "42",
+            "text": "Gendarmeriestation."
+          }
+        ]
+      }
+    ]
+  }
+]

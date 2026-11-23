@@ -1,0 +1,870 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page with minor scanning artifacts.\"/>This image is a scan of a blank white page. It contains several small, dark specks which appear to be scanning artifacts or dust particles. There is no text or other content on the page.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "<div data-bbox=\"312 104 636 928\" data-label=\"Image\"><img alt=\"Illustration of a large, open metal safe or cabinet with multiple compartments and drawers.\"/>A detailed black and white illustration of a large, heavy-duty metal safe. The safe is shown from a three-quarter perspective, with its front door open, revealing several interior shelves and drawers. The interior is filled with vertical lines, suggesting a textured or possibly lined surface. The safe has a thick, solid appearance with visible hinges and a locking mechanism on the door.</div><div data-bbox=\"678 75 970 283\" data-label=\"Text\"><p><b>F. Findeisen</b></p></div><div data-bbox=\"736 339 914 463\" data-label=\"Text\"><p><b>Berlin G 2</b></p></div><div data-bbox=\"714 516 934 625\" data-label=\"Text\"><p><b>Diroksenstr. 41</b></p></div><div data-bbox=\"693 634 959 753\" data-label=\"Text\"><p><b>Fernspr. 41 70 57</b></p></div><div data-bbox=\"656 779 978 925\" data-label=\"Text\"><p><b>Spez.: Bürokästen</b></p></div>",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Walter Keil",
+        "entries": []
+      },
+      {
+        "region_name": "Max Kunst",
+        "entries": []
+      },
+      {
+        "region_name": "Bielefeld (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bielitz (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bingen (Rhein).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Bromberg.",
+        "entries": []
+      },
+      {
+        "region_name": "Buchholz (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bunzlau.",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": {
+      "raw": "<div data-bbox=\"275 236 408 701\" data-label=\"Text\"><p>Sammel-<br/>Nr,<br/>33248</p></div><div data-bbox=\"451 16 938 625\" data-label=\"Text\"><p><b>Dittich &amp; Adam Kdt.-Ges.</b><br/><b>Kartonagenfabrik</b></p></div><div data-bbox=\"451 645 927 811\" data-label=\"Text\"><p>Chemnitz, Zwickauer Straße 81</p></div><div data-bbox=\"417 796 517 940\" data-label=\"Text\"><p>T Dac</p></div><div data-bbox=\"718 811 966 970\" data-label=\"Text\"><p>P Leipzig 87693</p></div>",
+      "cells": [
+        "col1_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "<div data-bbox=\"289 98 378 250\" data-label=\"Text\"><p>40169</p></div><div data-bbox=\"416 33 971 309\" data-label=\"Text\"><p><b>Paul Johannes Richter</b></p></div><div data-bbox=\"558 361 841 524\" data-label=\"Text\"><p>Kartonnagenfabrik</p></div><div data-bbox=\"449 516 934 700\" data-label=\"Text\"><p>Schillerstr. 48. P Leipzig 43871</p></div><div data-bbox=\"245 723 441 954\" data-label=\"Text\"><p><b>Danzig.</b></p></div>",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"273 188 375 430\"}, {\"label\": \"Text\", \"bbox\": \"273 575 375 802\"}, {\"label\": \"Text\", \"bbox\": \"443 33 915 468\"}, {\"label\": \"Text\", \"bbox\": \"517 494 837 951\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düren (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Duisburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Ebersbach (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank white page.\"/>This image is a completely blank white page with no visible content, text, or markings.</div>",
+      "cells": [
+        "col2_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Fellbach (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Freiburg (Brsg.).",
+        "entries": []
+      },
+      {
+        "region_name": "Fürth (Bay.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Hans Drechsler",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "Gablonz (Neisse) [Sudetenl.].",
+        "entries": []
+      },
+      {
+        "region_name": "Gebweiler (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Ordeka",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "Geislingen (Steige).",
+        "entries": []
+      },
+      {
+        "region_name": "Gelnhausen (Hess.-Nass.).",
+        "entries": []
+      },
+      {
+        "region_name": "Göppingen (Wrtth.).",
+        "entries": []
+      },
+      {
+        "region_name": "Görlitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Gößnitz (Kr. Altenburg).",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": [
+      {
+        "region_name": "Alfred Wall",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hanau.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 102 986 687\" data-label=\"Text\"><p><b>Haus b. Scheidegg (Bay.).</b><br/>Lindenberg 368 Immler, Georg, Herstellung von<br/>Schindeln u. Kartonnagen, Gasthaus</p></div><div data-bbox=\"0 727 893 967\" data-label=\"Text\"><p><b>Hirschwang (Niederdonaustau).</b></p></div>",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Neusiedler Aktien-Gesellschaftfür Papierfabrikation",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": [
+      {
+        "region_name": "Hohenstein-Ernstthal (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Imst (Tirol).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "<div data-bbox=\"401 800 998 955\" data-label=\"Text\"><p><b>2931. Kartonnage</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Kassel.",
+        "entries": []
+      },
+      {
+        "region_name": "Ketten (Sudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Königshütte (Oberschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Kolmar (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": [
+      {
+        "region_name": "Kartonagenfabrik, Kapuzinergasse 13",
+        "entries": []
+      },
+      {
+        "region_name": "Krefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Lauban (Niederschles.).",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Limbach (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"288 18 910 920\" data-label=\"Text\"><p><b>Herstellung von Kartonnagen</b><br/>komm. Verwaltung: F. Oik<br/><b>Litzmannstadt, Tauentzienstr. 25</b></p></div>",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"56 161 169 355\"}, {\"label\": \"Section-Header\", \"bbox\": \"274 20 875 401\"}, {\"label\": \"Text\", \"bbox\": \"419 485 746 701\"}, {\"label\": \"Text\", \"bbox\": \"222 710 941 927\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": [
+      {
+        "region_name": "Lorch (Wrttb.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"299 135 486 296\"}, {\"label\": \"Text\", \"bbox\": \"221 324 588 942\"}]",
+      "cells": [
+        "col3_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": {
+      "raw": "<div data-bbox=\"217 31 750 938\" data-label=\"Image\"><img alt=\"A black and white graphic of the word 'ADOD' in a stylized, blocky font. The letters are white with black outlines and are set against a black background. The letters are slightly tilted to the right. The entire graphic is framed by a thick black border on the left and right sides.\"/></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"218 31 821 938\" data-label=\"Image\"><img alt=\"A high-contrast, black and white image of a telephone directory page. The page is heavily distorted, showing a grid of diagonal lines and a large, dark, irregular shape on the left side. The text is illegible due to the extreme contrast and distortion.\"/>This image is a high-contrast, black-and-white scan of a page from a 1942 German telephone directory (Reichstelefonbuch). The page is heavily distorted, appearing as a grid of diagonal lines and a large, dark, irregular shape on the left side. The text is illegible due to the extreme contrast and distortion. The overall appearance is that of a heavily processed or corrupted image.</div>",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": {
+      "raw": "<div data-bbox=\"302 31 876 951\" data-label=\"Image\"><img alt=\"A black and white photograph of a 1942 German telephone directory (Reichstelefonbuch) page. The page is heavily blacked out, obscuring all text and details. The layout shows a grid of entries, typical of a telephone directory, with a header at the top and a footer at the bottom. The page is framed by thick black borders on the left and right sides.\"/></div>",
+      "cells": [
+        "col3_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Fernsprecher 404",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "Lübeck.",
+        "entries": []
+      },
+      {
+        "region_name": "Lüdenscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Lustenau (Vorarlberg).",
+        "entries": []
+      },
+      {
+        "region_name": "Marburg (Drau).",
+        "entries": []
+      },
+      {
+        "region_name": "Markneukirchen (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 809 250 944\" data-label=\"Text\"><p><b>nfabrikem</b></p></div><div data-bbox=\"419 809 775 955\" data-label=\"Text\"><p>(Branchenteil) 363</p></div>",
+      "cells": [
+        "col4_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Neusalza-Spremberg (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Neuses (Kr. Gelnhausen).",
+        "entries": []
+      },
+      {
+        "region_name": "Niederbieber-Segendorf sub. Neuwied",
+        "entries": []
+      },
+      {
+        "region_name": "Nürnberg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Offenbach (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Gustav Stabernack",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Pforzheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Pirmasens.",
+        "entries": []
+      },
+      {
+        "region_name": "Plauen (Vogtl.).",
+        "entries": []
+      },
+      {
+        "region_name": "Posen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": [
+      {
+        "region_name": "„Karton“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": {
+      "raw": "<div data-bbox=\"64 48 762 355\" data-label=\"Text\"><p>7468 <b>Kartonagenfabrik Max Grenzup, Posen,</b><br/>Saarlandstraße 79</p></div><div data-bbox=\"64 365 764 677\" data-label=\"Text\"><p>3763 <b>Posener Kartonagenfabrik Otto Kühner,</b><br/>Wasserstraße 27</p></div><div data-bbox=\"0 744 153 951\" data-label=\"Text\"><p><b>Prag.</b></p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"177 37 577 339\"}, {\"label\": \"Text\", \"bbox\": \"227 399 541 580\"}, {\"label\": \"Text\", \"bbox\": \"153 580 601 766\"}, {\"label\": \"Text\", \"bbox\": \"259 766 495 934\"}]",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"59 23 757 171\" data-label=\"Text\"><p>3307 Hebsaker, Rudolf, Kartonnagen- und<br/>Hülsenfabrik, Kaiserstraße 51—53.<br/>P Stuttgart 16354</p></div><div data-bbox=\"0 183 755 298\" data-label=\"Text\"><p><b>Rodewisch (Vogtl.).</b><br/>Auerbach 3184 Leithold, Ed. Theod., Auerb. Str. 6</p></div><div data-bbox=\"0 307 753 421\" data-label=\"Text\"><p><b>Rumburg (Sudetenland).</b><br/>258 Czabron &amp; Co., Kartonnagenfabr., Mittelg. 32</p></div><div data-bbox=\"0 433 754 598\" data-label=\"Text\"><p><b>Rybnik (Oberschles.).</b><br/>1049 Kartonagentafabrik Amalie Musiolik, Ryb-<br/>nik O/S., Ratiborer Straße 19</p></div><div data-bbox=\"0 607 754 860\" data-label=\"Text\"><p><b>Saaz (Sudetenland).</b><br/>233 Emil Kasper<br/>Spezialfabrik maschineller Pappdosen<br/>423 Emil Kasper vormals Jos. Schnabel, Falt-<br/>schachteln und Kartonzuschritte</p></div><div data-bbox=\"0 872 697 940\" data-label=\"Text\"><p><b>Schluckenau (Sudetenland).</b></p></div><div data-bbox=\"41 941 742 992\" data-label=\"Text\"><p>4.110 f VII Wöher</p></div>",
+      "cells": [
+        "col4_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,958 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"262 479 269 500\" data-label=\"Text\"><p>.</p></div><div data-bbox=\"293 559 303 589\" data-label=\"Text\"><p>15</p></div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": {
+      "raw": "<div data-bbox=\"205 46 585 257\" data-label=\"Text\"><p><b>Witten (Ruhr).</b></p></div><div data-bbox=\"209 257 988 895\" data-label=\"Text\"><p>Sammel- { <b>Evangelischer Presseverband</b><br/>Nr.        {        <b>für Westfalen und Lippe</b><br/>2741        { <b>(Westdeutsches Korrespondenzbüro)</b></p></div>",
+      "cells": [
+        "col1_sec02.png"
+      ]
+    }
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"281 244 916 783\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": [
+      {
+        "region_name": "4198. Nachtlokale",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"204 131 505 385\"}, {\"label\": \"Text\", \"bbox\": \"248 425 996 852\"}]",
+      "cells": [
+        "col1_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"424 250 763 375\"}]",
+      "cells": [
+        "col1_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "Aachen.",
+        "entries": []
+      },
+      {
+        "region_name": "Altena (Westf.).",
+        "entries": []
+      },
+      {
+        "region_name": "Burkhardtsdorf (Erzgeb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Gablonz (Neisse) [Sudetenl.]",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Iserlohn.",
+        "entries": []
+      },
+      {
+        "region_name": "Lichtenstein (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Limbach (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"273 114 928 364\"}, {\"label\": \"Text\", \"bbox\": \"327 416 866 572\"}, {\"label\": \"Text\", \"bbox\": \"347 566 847 723\"}, {\"label\": \"Text\", \"bbox\": \"445 718 756 882\"}]",
+      "cells": [
+        "col1_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "Schmallkalden.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Schwabach (Mittelfranken).",
+        "entries": []
+      },
+      {
+        "region_name": "473 Drei-S-Werk",
+        "entries": []
+      },
+      {
+        "region_name": "Würselen (Kr. Aachen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col1_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"318 192 870 723\"}]",
+      "cells": [
+        "col1_sec15.png"
+      ]
+    }
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col1_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Leslau (Wartheland).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": [
+      {
+        "region_name": "4196. Nachrichten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Löchgau (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Marienthal-Hombok (Ostsudetenland).",
+        "entries": []
+      },
+      {
+        "region_name": "Nahain (Bmkn.)",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"82 7 991 125\" data-label=\"Text\"><p><b>2441 Tappe &amp; Cosack, Polsternägelfabrik, Bahnhofstr. 67. P Dortmund 15753</b></p></div><div data-bbox=\"3 144 991 285\" data-label=\"Text\"><p><b>Neuwerth b. Arenshausen (Eichsfeld)</b><br/>Arenshausen 42 Goes, E., Herstellung von Nägeln</p></div><div data-bbox=\"3 299 682 383\" data-label=\"Text\"><p><b>Plettemberg (Westf.).</b></p></div><div data-bbox=\"109 381 991 504\" data-label=\"Text\"><p>660 Huß jr., Ferd., Schuhstiftfabrik u. Kleineisenwaren, Zeppelinstraße 5</p></div><div data-bbox=\"3 518 613 599\" data-label=\"Text\"><p><b>Waidhofen (Ybbs).</b></p></div><div data-bbox=\"130 599 993 721\" data-label=\"Text\"><p>93 Bauer, Anton, Eisenhandlung, Inhaber<br/>Franz Spacek, Waidhofen (Ybbs)</p></div><div data-bbox=\"3 736 551 817\" data-label=\"Text\"><p><b>Wickede (Ruhr).</b></p></div><div data-bbox=\"109 817 883 936\" data-label=\"Text\"><p>140 Veßhoff &amp; Co.<br/>Nagel- und Metallwarenfabrik</p></div>",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"97 217 893 811\"}]",
+      "cells": [
+        "col2_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": [
+      {
+        "region_name": "Lage (Lippe).",
+        "entries": []
+      },
+      {
+        "region_name": "Solingen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"134 227 861 811\"}]",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"10 171 347 494\"}, {\"label\": \"Text\", \"bbox\": \"17 500 834 750\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"256 207 765 671\"}]",
+      "cells": [
+        "col2_sec08.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Somborn (Kr. Gelnhausen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"103 226 884 740\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Rumstauern (Rur) Rhumstirz",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col2_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 998 100\" data-label=\"Text\"><p><b>Oederan 413 Kabis, Alex, Zwirnerei u. Nähfadenfabrik, Breitenau-Oederan</b></p></div><div data-bbox=\"0 107 675 174\" data-label=\"Text\"><p><b>Dietenheim (Wrttb.).</b></p></div><div data-bbox=\"127 172 998 310\" data-label=\"Text\"><p><b>62 Nähfadenfabrik Adolf Müller A.G.,<br/>Dietenheim. P Stuttgart 14053</b></p></div><div data-bbox=\"0 319 482 381\" data-label=\"Text\"><p><b>Dülken (Rhld.).</b></p></div><div data-bbox=\"0 379 998 564\" data-label=\"Text\"><p>Viersen { Königs &amp; Bucklers G. m. b. H., Näh-<br/>5141. 5142 { fadenfabrik, Zwirnerei, Viersener Str. 95<br/>Viersen { Zwirnerei und Nähfadenfabrik Rhe-<br/>5342. 5341 { mania A.-G., Dülken</p></div><div data-bbox=\"0 574 555 637\" data-label=\"Text\"><p><b>Marburg (Drau).</b></p></div><div data-bbox=\"87 636 836 728\" data-label=\"Text\"><p><b>2416 St. Bergant</b></p></div><div data-bbox=\"197 726 998 858\" data-label=\"Text\"><p>Kraftfahrzeuge, Fahrräder, Nähmaschinen<br/><b>Marburg (Drau)/Südsteiermark Tegett-<br/>hoffstraße 26</b></p></div><div data-bbox=\"0 873 321 928\" data-label=\"Text\"><p><b>München.</b></p></div><div data-bbox=\"40 937 177 978\" data-label=\"Text\"><p><b>2 88 31</b></p></div><div data-bbox=\"407 935 790 980\" data-label=\"Text\"><p><b>Vertriebsgesellschaft</b></p></div>",
+      "cells": [
+        "col2_sec12.png"
+      ]
+    }
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col2_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": [
+      {
+        "region_name": "Oederan (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Pfullingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Reutlingen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col2_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"229 217 767 708\"}]",
+      "cells": [
+        "col2_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col2_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": [
+      {
+        "region_name": "Altenburg (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "Hallbach (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col2_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "4209. Nähmaschinen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col2_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "Altenburg (Thür.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 707 999 960\" data-label=\"Text\"><p><b>Büros — 4211. Nähmotoren u.</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Bochum.",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": [
+      {
+        "region_name": "Brünn (Mähren).",
+        "entries": []
+      },
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Domschale (Südkärnten).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": [
+      {
+        "region_name": "Essen.",
+        "entries": []
+      },
+      {
+        "region_name": "Fehring (Steiermark).",
+        "entries": []
+      },
+      {
+        "region_name": "Frankfurt (Main).",
+        "entries": []
+      },
+      {
+        "region_name": "Freistadt (Oberdonau).",
+        "entries": []
+      },
+      {
+        "region_name": "Grein (Oberdonau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Reparaturwerkstätte, Grain a. d. DonauHamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Hannover.",
+        "entries": []
+      },
+      {
+        "region_name": "Kaiserslautern.",
+        "entries": []
+      },
+      {
+        "region_name": "Karlsruhe.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "Karlsruhe-Durlach.",
+        "entries": []
+      },
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Litzmannstadt.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Kirchner &amp; Eisner",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "<div data-bbox=\"59 46 990 260\" data-label=\"Text\"><p><b>12881 Hugo Piel &amp; Co., Fahrradhandlung und<br/>Zubehör, Adolf-Hitler-Straße 164</b></p></div>",
+      "cells": [
+        "col3_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "Limbach (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Magdeburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Mühlhausen (Thür.).",
+        "entries": []
+      },
+      {
+        "region_name": "München.",
+        "entries": []
+      },
+      {
+        "region_name": "Pleißab. Limbach (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "<div data-bbox=\"141 196 607 544\" data-label=\"Text\"><p>maschinenfabrik, Hohenst. Str. 5</p></div><div data-bbox=\"10 545 144 947\" data-label=\"Text\"><p><b>Prag.</b></p></div>",
+      "cells": [
+        "col4_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": {
+      "raw": "<div data-bbox=\"156 29 570 252\" data-label=\"Text\"><p><b>Fahrräder, Fahrradbestandteile<br/>Nähmaschinen en gros</b></p></div><div data-bbox=\"162 279 562 462\" data-label=\"Text\"><p><b>Stanislav Dědina</b></p></div><div data-bbox=\"154 494 567 710\" data-label=\"Text\"><p>Generalvertreter<br/>Seidel u. Naumann, Dresden</p></div><div data-bbox=\"188 742 537 960\" data-label=\"Text\"><p>Prag II., Wenzelsplatz 35<br/>Fernsprecher: 33664</p></div>",
+      "cells": [
+        "col4_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "St. Veit (Glan) [Kärnten].",
+        "entries": []
+      },
+      {
+        "region_name": "Trossingen (Wrttb.).",
+        "entries": []
+      },
+      {
+        "region_name": "Ulm (Donau).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": {
+      "raw": "<div data-bbox=\"65 29 663 937\" data-label=\"Text\"><p><b>Herm. Chr. Fischer</b><br/><b>Spezial-Nähmaschinen-Reparaturwerkstatt</b><br/><b>Wien VII/62, Mariahilferstr. 88 a</b><br/><b>Fernruf: B3 72 84</b></p></div>",
+      "cells": [
+        "col4_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 10 726 993\" data-label=\"Table\">\n<table border=\"0\">\n<tr>\n<td>B2 98 53</td>\n<td><b>Kappel, Karl Ant.</b>, Nähmaschinenreparaturwerkstätte, VI/56, Rahlgasse 6</td>\n</tr>\n<tr>\n<td>U4 72 14</td>\n<td><b>Müller, Josef</b>, Nähmaschinen aller Systeme, IV/50, Argentinierstraße 47</td>\n</tr>\n<tr>\n<td>B2 42 61</td>\n<td><b>„Nähschuster“</b> Kuris-Zuschneidemaschinen<br/>Spezial-Nähmaschinen<br/>Wien VI/56, Mariahilfer Str. 51. P 70638</td>\n</tr>\n<tr>\n<td>A2 70 26</td>\n<td><b>Pfaff, Nähmaschinen-Hauptlager</b>, Herm. Kainm, VIII/65, Schlüsselgasse 17</td>\n</tr>\n<tr>\n<td>B2 83 22</td>\n<td><b>E. &amp; F. Pflänzel</b>, Pfaff-Nähmaschinen etc., Wien VI/56, Gumpendorfer Str. 151</td>\n</tr>\n<tr>\n<td>B3 15 14</td>\n<td rowspan=\"2\"><b>PREYER u. CO.</b>, Großhandlung für Fahrräder, Motorfahrräder, Nähmaschinen, sowie für alle Bestandteile, Generalver-</td>\n</tr>\n<tr>\n<td>B3 15 15</td>\n</tr>\n<tr>\n<td></td>\n<td>treter der Wanderer-Werke A.G., Wien VII/62, Schottenfeldgasse 18</td>\n</tr>\n<tr>\n<td>A1 64 59</td>\n<td><b>Taffent, Rudolf</b>, Vertrieb von Nähmaschinen, Fahrrädern, Rundfunkapparaten, Schreibmaschinen, beste Qualität, Raten- und Barzahlung, Wien IX/66, Porzellan-</td>\n</tr>\n</table>\n</div>\n<div data-bbox=\"146 963 268 992\" data-label=\"Page-Footer\">\n<p>22</p>\n</div>",
+      "cells": [
+        "col4_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Gustav Wondrak",
+        "entries": []
+      },
+      {
+        "region_name": "Wittenberge (Bez. Potsdam).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "4210. Nähmaschinenteile",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Gütersloh.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Radeberg (Sachs.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "„SCHEDY“",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "4211. Nähmotoren u. -leuchten",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      }
+    ]
+  }
+]

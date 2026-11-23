@@ -1,0 +1,975 @@
+[
+  {
+    "batch": "01",
+    "cells": [
+      "col1_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_01.png",
+    "data": {
+      "raw": "<div data-bbox=\"225 928 993 965\" data-label=\"Image\"><img alt=\"A thick black horizontal line at the bottom of the page.\"/>A thick, solid black horizontal line spanning the width of the page near the bottom.</div>",
+      "cells": [
+        "col1_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "02",
+    "cells": [
+      "col1_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_02.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "03",
+    "cells": [
+      "col1_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_03.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"201 93 356 279\"}, {\"label\": \"Text\", \"bbox\": \"204 309 344 447\"}, {\"label\": \"Text\", \"bbox\": \"561 309 797 447\"}, {\"label\": \"Text\", \"bbox\": \"391 464 965 779\"}]",
+      "cells": [
+        "col1_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "04",
+    "cells": [
+      "col1_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_04.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"157 227 921 324\"}]",
+      "cells": [
+        "col1_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "05",
+    "cells": [
+      "col1_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_05.png",
+    "data": {
+      "raw": "<div data-bbox=\"202 80 387 236\" data-label=\"Text\"><p><b>Berlin.</b></p></div><div data-bbox=\"202 261 997 937\" data-label=\"Text\"><p><b>Sammel-</b><br/><b>Nr.</b><br/><b>21 05 06</b></p><p><b>Aktiengesellschaft<br/>für industrielle u. landwirtschaftliche<br/>Unternehmungen (Agil)<br/>Berlin W 35, Kurfürstenstr. 148</b></p></div>",
+      "cells": [
+        "col1_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "06",
+    "cells": [
+      "col1_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_06.png",
+    "data": {
+      "raw": "<div data-bbox=\"382 114 814 404\" data-label=\"Text\"><p><b>Gerhard Langhe</b></p></div><div data-bbox=\"437 415 756 570\" data-label=\"Text\"><p>gepr. Hausverwalter</p></div><div data-bbox=\"345 563 845 723\" data-label=\"Text\"><p>Berlin-Dahlem, Leichhardtstr. 33</p></div><div data-bbox=\"434 723 764 882\" data-label=\"Text\"><p>Gernsprecher 76 49 31</p></div>",
+      "cells": [
+        "col1_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "07",
+    "cells": [
+      "col1_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_07.png",
+    "data": [
+      {
+        "region_name": "Chemnitz.",
+        "entries": []
+      },
+      {
+        "region_name": "Graz (Steiermark).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "08",
+    "cells": [
+      "col1_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_08.png",
+    "data": [
+      {
+        "region_name": "„HAUSWALTER“, Pistor &amp; Co.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "09",
+    "cells": [
+      "col1_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_09.png",
+    "data": [
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Heilbronn (Neckar).",
+        "entries": []
+      },
+      {
+        "region_name": "Klagenfurt (Kärnten).",
+        "entries": []
+      },
+      {
+        "region_name": "Köln.",
+        "entries": []
+      },
+      {
+        "region_name": "Luxemburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "10",
+    "cells": [
+      "col1_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_10.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "11",
+    "cells": [
+      "col1_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_11.png",
+    "data": [
+      {
+        "region_name": "Erste Salzburger Realitäten-Verkehrs-anstalt und Verwaltungskanzlei Silber",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "12",
+    "cells": [
+      "col1_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_12.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "13",
+    "cells": [
+      "col1_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_13.png",
+    "data": [
+      {
+        "region_name": "EIGENHAUS",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "14",
+    "cells": [
+      "col1_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_14.png",
+    "data": [
+      {
+        "region_name": "Josef Fichtinger",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "15",
+    "cells": [
+      "col2_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_15.png",
+    "data": [
+      {
+        "region_name": "2453. Hausschwam",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "16",
+    "cells": [
+      "col2_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_16.png",
+    "data": [
+      {
+        "region_name": "Karl Guber's Wwe.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "17",
+    "cells": [
+      "col2_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_17.png",
+    "data": {
+      "raw": "<div data-bbox=\"14 10 993 148\" data-label=\"Text\"><p><b>U1 49 35 Hamatschek, Heinrich, Beh. konz. Gebäudeverwaltung, Wien III/40, Untere Viaduktgasse 13</b></p></div><div data-bbox=\"14 145 993 284\" data-label=\"Text\"><p><b>U2 24 63 Hausverwaltung und Realitätenvermittlung Dr. H. Türr, Wien I/1, Wipplinger</b><br/><b>U2 72 48 Straße 25</b></p></div><div data-bbox=\"11 284 993 376\" data-label=\"Text\"><p><b>B1 20 76 Hollmann, Josef, Hausverwaltungen, Wien XIX/117, Iglaseegasse 14</b></p></div><div data-bbox=\"11 371 993 456\" data-label=\"Text\"><p><b>R4 10 75 Friedrich Hödl Wwe.</b></p></div><div data-bbox=\"200 463 993 603\" data-label=\"Text\"><p>Beh. aut. Häuserverwalter,<br/>Realitäten- und Hypotheken-Büro,<br/>II/27, Venediger Au 3. T Wien 56514</p></div><div data-bbox=\"11 600 993 692\" data-label=\"Text\"><p><b>R1 60 35 Horst, Juliane, Hausverwaltungen, Wien X/75, Favoritenstraße 53</b></p></div><div data-bbox=\"14 692 993 778\" data-label=\"Text\"><p><b>B2 20 18 Karl Kaschnitz Edler v. Weinberg</b></p></div><div data-bbox=\"199 782 993 965\" data-label=\"Text\"><p>Ober-Rechnungs-Rat, Sachverständiger für Buchfach und Steuerwesen, Haus- und Gebäudeverwaltung, Immobilien, Wien VI/56, Schadekgasse 12</p></div><div data-bbox=\"254 965 946 992\" data-label=\"Text\"><p>■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
+      "cells": [
+        "col2_sec03.png"
+      ]
+    }
+  },
+  {
+    "batch": "18",
+    "cells": [
+      "col2_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_18.png",
+    "data": [
+      {
+        "region_name": "Wien",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "19",
+    "cells": [
+      "col2_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_19.png",
+    "data": {
+      "raw": "<div data-bbox=\"198 22 991 119\" data-label=\"Text\"><p>pothekenvermittlung, Hausverwaltungen,<br/>XVI/107, Koppstraße 42</p></div><div data-bbox=\"11 117 991 306\" data-label=\"Text\"><p>A3 00 69 <b>Rössler, H.</b>, Verkehrsbüro, Kredit-, Haus-<br/>und Grundstücksverwaltungen, Woh-<br/>nungsvermittlungen, XII/82, Steinbauer-<br/>gasse 24</p></div><div data-bbox=\"11 306 991 403\" data-label=\"Text\"><p>R5 35 34 <b>Roth, Alfred M.</b>, Zivil-Ing., Gebäude- u.<br/>Bauverwaltungen, I/1, Schottenring 9</p></div><div data-bbox=\"11 399 991 639\" data-label=\"Text\"><p>A2 22 00 <b>Dipl.-Kaufm. Dr. Hadmar C. Schandi,</b><br/>Margarethe Schandi-Schnürer,<br/>Realitäten-, Hypothekenvermittlung,<br/>B4 80 88 Gebäudeverwaltungskanzlei,<br/>Wien IX/71, Hermann-Göring-Platz 10</p></div><div data-bbox=\"11 637 991 733\" data-label=\"Text\"><p>A4 05 74 <b>Säuerl, Franz</b>, Gebäudeverwaltung, Wien<br/>XX/20, Allerheiligenplatz 6</p></div><div data-bbox=\"11 731 991 875\" data-label=\"Text\"><p>A6 20 88 <b>Simon, Johann</b>, Grundstücksmakler, Ver-<br/>mittlung von Realitäten, Gebäudeverwal-<br/>tungen, XXI/141, Am Spitz 9</p></div><div data-bbox=\"11 873 991 995\" data-label=\"Text\"><p>U2 74 89 <b>Sroub, Viktor</b>, Realitäten-, Hypotheken-,<br/>Gebäudeverwaltungen, Wien I/1, Gold-<br/>schmiedengasse 2</p></div>",
+      "cells": [
+        "col2_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "20",
+    "cells": [
+      "col2_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_20.png",
+    "data": {
+      "raw": "<div data-bbox=\"10 0 208 50\" data-label=\"Text\"><p>A2 41 56B</p></div><div data-bbox=\"500 0 693 49\" data-label=\"Text\"><p><b>Carl Stahl</b></p></div><div data-bbox=\"199 53 993 216\" data-label=\"Text\"><p>Beh. konz. Grundstücks- und Hypothe-<br/>kenbüro, Gebäudeverwaltungen<br/>Wien XVII/107, Bergsteiggasse 32</p></div><div data-bbox=\"10 214 991 322\" data-label=\"Text\"><p>U1 61 77 <b>Stieglemayer, Robert</b>, Gebäudeverwaltung,<br/>Wien III/40, Baumgasse 26</p></div><div data-bbox=\"10 321 827 428\" data-label=\"Text\"><p>B5 00 65 <b>Dr. Hans Thannhofer</b><br/>Hausverwaltungskanzlei</p></div><div data-bbox=\"321 428 873 482\" data-label=\"Text\"><p>Wien III/40, Gärtnergasse 2</p></div><div data-bbox=\"10 481 991 590\" data-label=\"Text\"><p>U1 32 61 <b>Derselbe</b>: Abt. Grundstücksvermittlung,<br/>Geschäfts- und Wohnungsvermittlung</p></div><div data-bbox=\"10 588 991 747\" data-label=\"Text\"><p>R3 11 84L <b>Trimmel, Dr. Theodor</b>, Hausverwaltun-<br/>gen, Hypotheken- u. Realitätenvermitt-<br/>lung, Wien XV/101, Schwendergasse 41</p></div><div data-bbox=\"10 747 991 854\" data-label=\"Text\"><p>U2 05 45 „<b>Universale</b>“ <b>Hoch- u. Tiefbau A.-G.</b>,<br/>Abt. f. Liegenschaftsverkehr, I/1, Renng. 6</p></div><div data-bbox=\"10 853 991 962\" data-label=\"Text\"><p>R2 53 48 <b>Wache, Franz</b>, Grundstücksvermittlung<br/>u. -Verwaltung, Wien I/1, Seilerstätte 1</p></div>",
+      "cells": [
+        "col2_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "21",
+    "cells": [
+      "col2_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_21.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"64 261 930 783\"}]",
+      "cells": [
+        "col2_sec07.png"
+      ]
+    }
+  },
+  {
+    "batch": "22",
+    "cells": [
+      "col2_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_22.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Remscheid.",
+        "entries": []
+      },
+      {
+        "region_name": "Vellbert (Rhd.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "23",
+    "cells": [
+      "col2_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_23.png",
+    "data": {
+      "raw": "<div data-bbox=\"81 10 986 800\" data-label=\"Text\"><p>3158 | Nautinascinen u. eiserne Baubeschläge,<br/>3159 | Hohenzollernstr. 14</p></div>",
+      "cells": [
+        "col2_sec09.png"
+      ]
+    }
+  },
+  {
+    "batch": "24",
+    "cells": [
+      "col2_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_24.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 119 715 468\"}, {\"label\": \"Section-Header\", \"bbox\": \"640 533 983 852\"}]",
+      "cells": [
+        "col2_sec10.png"
+      ]
+    }
+  },
+  {
+    "batch": "25",
+    "cells": [
+      "col2_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_25.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "26",
+    "cells": [
+      "col3_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_26.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 786 997 968\" data-label=\"Text\"><p><b>unbekämpfungsmittel — 2468.</b></p></div>",
+      "cells": [
+        "col3_sec01.png"
+      ]
+    }
+  },
+  {
+    "batch": "27",
+    "cells": [
+      "col3_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_27.png",
+    "data": [
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "28",
+    "cells": [
+      "col3_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_28.png",
+    "data": [
+      {
+        "region_name": "Hörhan &amp; Mayr",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "29",
+    "cells": [
+      "col3_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_29.png",
+    "data": {
+      "raw": "<div data-bbox=\"0 0 1000 1000\" data-label=\"Image\"><img alt=\"A blank page from a 1942 German telephone directory (Reichstelefonbuch). The page is completely empty, showing only the white background with no text or markings.\"/></div>",
+      "cells": [
+        "col3_sec04.png"
+      ]
+    }
+  },
+  {
+    "batch": "30",
+    "cells": [
+      "col3_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_30.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"160 154 832 852\"}]",
+      "cells": [
+        "col3_sec05.png"
+      ]
+    }
+  },
+  {
+    "batch": "31",
+    "cells": [
+      "col3_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_31.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"201 341 785 768\"}]",
+      "cells": [
+        "col3_sec06.png"
+      ]
+    }
+  },
+  {
+    "batch": "32",
+    "cells": [
+      "col3_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_32.png",
+    "data": [
+      {
+        "region_name": "Stuttgart.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "33",
+    "cells": [
+      "col3_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_33.png",
+    "data": [
+      {
+        "region_name": "2459. Hautleim",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "34",
+    "cells": [
+      "col3_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_34.png",
+    "data": [
+      {
+        "region_name": "Freudenberg (Kr. Siegen).",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Lask (Wartheland).",
+        "entries": []
+      },
+      {
+        "region_name": "Neusalz (Oder).",
+        "entries": []
+      },
+      {
+        "region_name": "Schkölen (Kr. Weißenfels).",
+        "entries": []
+      },
+      {
+        "region_name": "Vaihingen a. Enz (Wrtth.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "35",
+    "cells": [
+      "col3_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_35.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      },
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "36",
+    "cells": [
+      "col3_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_36.png",
+    "data": {
+      "raw": "[{\"label\": \"Text\", \"bbox\": \"59 217 951 750\"}]",
+      "cells": [
+        "col3_sec11.png"
+      ]
+    }
+  },
+  {
+    "batch": "37",
+    "cells": [
+      "col3_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_37.png",
+    "data": [
+      {
+        "region_name": "2461. Havariebüros",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "38",
+    "cells": [
+      "col3_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_38.png",
+    "data": [
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "39",
+    "cells": [
+      "col3_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_39.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"181 226 804 335\"}]",
+      "cells": [
+        "col3_sec14.png"
+      ]
+    }
+  },
+  {
+    "batch": "40",
+    "cells": [
+      "col3_sec15.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_40.png",
+    "data": [
+      {
+        "region_name": "Werdau (Sachs.).",
+        "entries": [
+          {
+            "extension": "2651",
+            "text": "{ Otto Behr Baumwolle"
+          },
+          {
+            "extension": "2652",
+            "text": "{ Baumwollabfälle"
+          },
+          {
+            "extension": "2127",
+            "text": "Uhligs Erbe &amp; Grunert, Putzwollefabrik,Textilveredelungsbetrieb, Garne, Abfälle,Havariekaufe, Zellwolle, Ottostr. 1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch": "41",
+    "cells": [
+      "col3_sec16.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_41.png",
+    "data": [
+      {
+        "region_name": "2463. Havariekommissare",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "42",
+    "cells": [
+      "col3_sec17.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_42.png",
+    "data": [
+      {
+        "region_name": "Stettin.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "43",
+    "cells": [
+      "col3_sec18.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_43.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 226 999 313\"}]",
+      "cells": [
+        "col3_sec18.png"
+      ]
+    }
+  },
+  {
+    "batch": "44",
+    "cells": [
+      "col3_sec19.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_44.png",
+    "data": [
+      {
+        "region_name": "Gleiwitz",
+        "entries": []
+      },
+      {
+        "region_name": "Linz (Donau).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "45",
+    "cells": [
+      "col3_sec20.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_45.png",
+    "data": [
+      {
+        "region_name": "2465. Hebeböcke",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "46",
+    "cells": [
+      "col3_sec21.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_46.png",
+    "data": {
+      "raw": "[{\"label\": \"Section-Header\", \"bbox\": \"0 61 233 182\"}, {\"label\": \"Text\", \"bbox\": \"18 194 991 494\"}]",
+      "cells": [
+        "col3_sec21.png"
+      ]
+    }
+  },
+  {
+    "batch": "47",
+    "cells": [
+      "col4_sec01.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_47.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "48",
+    "cells": [
+      "col4_sec02.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_48.png",
+    "data": [
+      {
+        "region_name": "2467. Hebebühnen",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "49",
+    "cells": [
+      "col4_sec03.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_49.png",
+    "data": [
+      {
+        "region_name": "München.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "50",
+    "cells": [
+      "col4_sec04.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_50.png",
+    "data": [
+      {
+        "region_name": "",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "51",
+    "cells": [
+      "col4_sec05.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_51.png",
+    "data": [
+      {
+        "region_name": "Altenvoerde (Westf.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "52",
+    "cells": [
+      "col4_sec06.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_52.png",
+    "data": [
+      {
+        "region_name": "Carl Dan. Peddinghaus",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "53",
+    "cells": [
+      "col4_sec07.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_53.png",
+    "data": [
+      {
+        "region_name": "Berlin.",
+        "entries": []
+      },
+      {
+        "region_name": "Bielefeld.",
+        "entries": []
+      },
+      {
+        "region_name": "Bielstein (Rhld.).",
+        "entries": []
+      },
+      {
+        "region_name": "Bremen.",
+        "entries": []
+      },
+      {
+        "region_name": "Butzbach (Oberhessen).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "54",
+    "cells": [
+      "col4_sec08.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_54.png",
+    "data": [
+      {
+        "region_name": "Dresden.",
+        "entries": []
+      },
+      {
+        "region_name": "Düsseldorf.",
+        "entries": []
+      },
+      {
+        "region_name": "Hamburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "55",
+    "cells": [
+      "col4_sec09.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_55.png",
+    "data": [
+      {
+        "region_name": "Leipzig.",
+        "entries": []
+      },
+      {
+        "region_name": "Luxemburg.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "56",
+    "cells": [
+      "col4_sec10.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_56.png",
+    "data": [
+      {
+        "region_name": "Würth",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "57",
+    "cells": [
+      "col4_sec11.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_57.png",
+    "data": [
+      {
+        "region_name": "Mannheim.",
+        "entries": []
+      },
+      {
+        "region_name": "Mühlhausen (Els.).",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "58",
+    "cells": [
+      "col4_sec12.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_58.png",
+    "data": [
+      {
+        "region_name": "Mohr &amp; Federhaff",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "59",
+    "cells": [
+      "col4_sec13.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_59.png",
+    "data": [
+      {
+        "region_name": "Mülheim (Ruhr).",
+        "entries": []
+      },
+      {
+        "region_name": "Naunhof (Bez. Leipzig).",
+        "entries": []
+      },
+      {
+        "region_name": "Saalfeld (Saale).",
+        "entries": []
+      },
+      {
+        "region_name": "Sebnitz (Sachs.).",
+        "entries": []
+      },
+      {
+        "region_name": "Wien.",
+        "entries": []
+      }
+    ]
+  },
+  {
+    "batch": "60",
+    "cells": [
+      "col4_sec14.png"
+    ],
+    "grid_layout": "1x1",
+    "grid_image": "grid_60.png",
+    "data": {
+      "raw": "<div data-bbox=\"142 10 481 165\" data-label=\"Text\"><p><b>XX/20, Traisengasse 20</b></p></div><div data-bbox=\"448 214 468 333\" data-label=\"Text\"><p><b>*</b></p></div>",
+      "cells": [
+        "col4_sec14.png"
+      ]
+    }
+  }
+]
