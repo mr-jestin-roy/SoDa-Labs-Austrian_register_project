@@ -1,0 +1,18 @@
+*RTB-1942 → Austrian Reichsgau breakdown* 🗂️
+
+Mapped all 5 master RTB files (1,883,448 rows total) against the Matricula parish list. *39,712 rows* resolve to a confident 1942 Austrian Reichsgau (~2.1% of the Reich-wide directory), using only entries where the RTB itself tags the town with its Gau, e.g. `Pernegg (Steiermark)`.
+
+```
+ReichsGau           Rows    Towns
+Niederdonau         9,744     746
+Wien                9,594     104
+Oberdonau           6,193     403
+Steiermark          5,668     341
+Tirol-Vorarlberg    4,715     225
+Kärnten             2,173     186
+Salzburg            1,625     119
+─────────────────────────────────
+Total              39,712   2,124
+```
+
+Full per-town CSV + methodology notes in `Matricula Österreich Mapping/RTB_mapped/`.
