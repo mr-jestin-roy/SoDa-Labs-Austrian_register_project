@@ -1,0 +1,6 @@
+# G1 structure-only: header line, then `extension SPACE text NEWLINE`, extension digits only.
+root ::= header entry{1,60}
+header ::= [^\n]+ "\n"
+entry ::= ext " " text "\n"
+ext ::= [0-9]{1,5}
+text ::= [^\n]+

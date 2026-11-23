@@ -1,0 +1,24 @@
+# LoRA fine-tuning of datalab-to/chandra-ocr-2 (Qwen3_5ForConditionalGeneration)
+# on AIReady_ardc_monashg2xlarge (A100 40GB, mon.g2.xlarge).
+#
+# Install into /mnt/finetune/venv (NOT the system venv — root disk has only
+# ~6GB free on this instance):
+#   /mnt/finetune/venv/bin/pip install -r requirements_finetune.txt
+#
+# Point all HF caches at /mnt before running anything:
+#   export HF_HOME=/mnt/finetune/hf_cache
+#   export HF_HUB_ENABLE_HF_TRANSFER=1
+
+torch>=2.6            # let pip resolve the CUDA build for this box's driver
+transformers>=5.13.0   # same version confirmed to register Qwen3_5ForConditionalGeneration
+accelerate>=1.2.0
+peft>=0.14.0            # LoRA
+bitsandbytes>=0.45.0    # optional 4-bit/8-bit base-weight loading to save VRAM
+trl>=0.13.0              # SFTTrainer convenience wrapper (optional; plain Trainer also fine)
+datasets>=3.2.0
+pillow>=10.0
+huggingface_hub[hf_transfer]>=0.26
+hf_transfer
+qwen-vl-utils>=0.0.11
+einops
+tensorboard             # training curves

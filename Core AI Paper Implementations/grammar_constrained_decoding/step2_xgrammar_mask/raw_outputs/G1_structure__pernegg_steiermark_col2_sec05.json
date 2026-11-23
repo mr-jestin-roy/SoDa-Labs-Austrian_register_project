@@ -1,0 +1,60 @@
+{
+  "grammar": "G1_structure",
+  "input": "pernegg_steiermark_col2_sec05",
+  "latency_s": 4.36,
+  "error": null,
+  "request_params": {
+    "model": "qwen3vl",
+    "temperature": 0,
+    "max_tokens": 2048,
+    "structured_outputs": {
+      "grammar": "# G1 structure-only: header line, then `extension SPACE text NEWLINE`, extension digits only.\nroot ::= header entry{1,60}\nheader ::= [^\\n]+ \"\\n\"\nentry ::= ext \" \" text \"\\n\"\next ::= [0-9]{1,5}\ntext ::= [^\\n]+\n"
+    },
+    "prompt": "This image is one cell of the 1942 German Reichstelefonbuch (telephone directory). Transcribe it exactly as printed. First output the town/region header line. Then output one line per directory entry in the form `extension text`, where extension is the telephone number printed at the left of the entry and text is the rest of the entry. If an entry wraps over several printed lines, join it into one line. Output only the transcription, no commentary."
+  },
+  "response": {
+    "id": "chatcmpl-94e1fd6ef5f4d4c4",
+    "object": "chat.completion",
+    "created": 1794537049,
+    "model": "qwen3vl",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Pernegg (Steiermark)\n15 Bahnhof Pernegg\n9 Dirnbacher, Jakob, Gasthof, Kirchdorf 35\n4 Gemeindeamt Pernegg\n4 Pernegg (Steiermark)\n3 Gendarmerieposten Kirchdorf b. Pernegg\n8 Hermann, Anton, Autounternehmen\n6 Karl Hinke'sches Gut Stausee, Gutsleitung\n6 Leoben (Steiermark), Roseggerstraße 10\n12 Lenz, Dr. Hanns Mart., R.-A., Kirchdorf 62\n13 Mayr-Melnhofsehe Försterei, Traföß\n7 Murhammer, Rud., Gasthaus\n2 Pammer, Franz, Dr. med., Praktischer Arzt,\n2 Kirchdorf bei Pernegg a. Mur, Nr. 15, Sprech-\n2 zeit von 9-12\n5 Pischely, Hch., Generalmajor, Kirchdorf 28\n14 Reichsstelle f. Getreide, Futterm. u. sonstige\n14 landw. Erz.\n1 Spiritus- und Likörfabrik und Raffinerie Brüder\n1 Wolfbauer Aktiengesellschaft\n11 Steir. Wasserkraft- u. Elektrizitäts-AG\n10 Vorschußkasse Raiffeisen f. d. Ortsgem. Pernegg\n10 u. Röthelstein, reg.Gen.muH, Kirchdorf\n1 Waldhofer, Rud., Direktor\n1 Brüder Wolfbauer AG, Likörfabrik\n",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null,
+        "weight_versions": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.33.0-56d86613",
+    "usage": {
+      "prompt_tokens": 1999,
+      "total_tokens": 2366,
+      "completion_tokens": 367,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "text": "Pernegg (Steiermark)\n15 Bahnhof Pernegg\n9 Dirnbacher, Jakob, Gasthof, Kirchdorf 35\n4 Gemeindeamt Pernegg\n4 Pernegg (Steiermark)\n3 Gendarmerieposten Kirchdorf b. Pernegg\n8 Hermann, Anton, Autounternehmen\n6 Karl Hinke'sches Gut Stausee, Gutsleitung\n6 Leoben (Steiermark), Roseggerstraße 10\n12 Lenz, Dr. Hanns Mart., R.-A., Kirchdorf 62\n13 Mayr-Melnhofsehe Försterei, Traföß\n7 Murhammer, Rud., Gasthaus\n2 Pammer, Franz, Dr. med., Praktischer Arzt,\n2 Kirchdorf bei Pernegg a. Mur, Nr. 15, Sprech-\n2 zeit von 9-12\n5 Pischely, Hch., Generalmajor, Kirchdorf 28\n14 Reichsstelle f. Getreide, Futterm. u. sonstige\n14 landw. Erz.\n1 Spiritus- und Likörfabrik und Raffinerie Brüder\n1 Wolfbauer Aktiengesellschaft\n11 Steir. Wasserkraft- u. Elektrizitäts-AG\n10 Vorschußkasse Raiffeisen f. d. Ortsgem. Pernegg\n10 u. Röthelstein, reg.Gen.muH, Kirchdorf\n1 Waldhofer, Rud., Direktor\n1 Brüder Wolfbauer AG, Likörfabrik\n",
+  "finish_reason": "stop",
+  "completion_tokens": 367,
+  "prompt_tokens": 1999
+}

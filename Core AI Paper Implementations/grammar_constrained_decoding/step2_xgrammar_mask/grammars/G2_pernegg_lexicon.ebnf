@@ -1,0 +1,30 @@
+# G2 Pernegg lexicon: header must be one of the Pernegg region strings (both regions, incl.
+# the lowercase variant as it occurs in the silver CSV); each entry text must START with one of
+# the Pernegg Surname/organisation strings from pernegg_rows.csv, then free text to end of line.
+root ::= header entry{1,60}
+header ::= region "\n"
+region ::= "Pernegg b. Hötzelndorf(Niederdonau)"
+    | "Pernegg (Steiermark)"
+    | "Pernegg (steiermark)"
+entry ::= ext " " name rest "\n"
+ext ::= [0-9]{1,5}
+name ::= "NSDAP."
+    | "RAD. f. d. wbl. Jgd."
+    | "Winkler"
+    | "Spiritus- und Likörfabrik und Raffinerie Brüder Wolffbauer Aktiengesellschaft"
+    | "Reichsstelle f. Getreide"
+    | "Pischely"
+    | "Pammer"
+    | "Mayr-Melnhofsche Försterei"
+    | "Lenz"
+    | "Murhammer"
+    | "Hermann"
+    | "Gendarmerieposten Kirchdorf b. Pernegg"
+    | "Dirnbacher"
+    | "Bahnhof Pernegg"
+    | "Karl Hinke'sches Gut Stausee"
+    | "Gemeindeamt Pernegg"
+    | "Vorschubkasse Raiffeisen f. d. Ortsgem. Pernegg u. Röthelstein"
+    | "Waldhofer"
+    | "Brüder Wolfbauer AG"
+rest ::= [^\n]*

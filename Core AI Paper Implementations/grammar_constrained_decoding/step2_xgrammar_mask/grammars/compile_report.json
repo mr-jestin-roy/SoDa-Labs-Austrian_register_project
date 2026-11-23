@@ -1,0 +1,42 @@
+{
+  "n_rows": 20,
+  "n_entries": 19,
+  "regions": [
+    "Pernegg b. Hötzelndorf(Niederdonau)",
+    "Pernegg (Steiermark)",
+    "Pernegg (steiermark)"
+  ],
+  "xgrammar_version": "0.2.8",
+  "repetition_range_supported": true,
+  "n_lexicon_names": 19,
+  "n_oracle_lines": 19,
+  "tokenizer_info_s": 0.542,
+  "vocab_size": 151936,
+  "compile": {
+    "G1_structure": {
+      "ok": true,
+      "compile_s": 0.0327,
+      "ebnf_chars": 208,
+      "memory_bytes": 78244
+    },
+    "G2_pernegg_lexicon": {
+      "ok": true,
+      "compile_s": 0.0161,
+      "ebnf_chars": 1079,
+      "memory_bytes": 189200
+    },
+    "G3_closed_oracle": {
+      "ok": true,
+      "compile_s": 0.0068,
+      "ebnf_chars": 1471,
+      "memory_bytes": 185108
+    }
+  },
+  "sanity": {
+    "G1_accepts_ref": true,
+    "G2_accepts_ref": true,
+    "G3_accepts_ref": true,
+    "G2_rejects_'6 Bahnhof'": true,
+    "G3_rejects_'6 Bahnhof'": true
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "url": "http://localhost:8010",
+  "model": "qwen3vl",
+  "vllm_version": "{\"version\":\"0.33.0\"}",
+  "probe": {
+    "structured_outputs": {
+      "output": "PROBE_OK",
+      "works": true
+    },
+    "guided_grammar": {
+      "output": "Hello! 👋  \nHow can I assist you today? Whether you need help",
+      "works": false
+    }
+  },
+  "style_used": "structured_outputs",
+  "runs": [
+    {
+      "grammar": "G0_none",
+      "input": "negctrl_pernhofen_col2_sec07",
+      "latency_s": 1.69,
+      "finish_reason": "stop",
+      "completion_tokens": 121,
+      "prompt_tokens": 752,
+      "error": null
+    },
+    {
+      "grammar": "G0_none",
+      "input": "pernegg_niederdonau_col2_sec04",
+      "latency_s": 1.1,
+      "finish_reason": "stop",
+      "completion_tokens": 87,
+      "prompt_tokens": 623,
+      "error": null
+    },
+    {
+      "grammar": "G0_none",
+      "input": "pernegg_steiermark_col2_sec05",
+      "latency_s": 4.53,
+      "finish_reason": "stop",
+      "completion_tokens": 357,
+      "prompt_tokens": 1999,
+      "error": null
+    },
+    {
+      "grammar": "G1_structure",
+      "input": "negctrl_pernhofen_col2_sec07",
+      "latency_s": 1.47,
+      "finish_reason": "stop",
+      "completion_tokens": 122,
+      "prompt_tokens": 752,
+      "error": null
+    },
+    {
+      "grammar": "G1_structure",
+      "input": "pernegg_niederdonau_col2_sec04",
+      "latency_s": 0.86,
+      "finish_reason": "stop",
+      "completion_tokens": 72,
+      "prompt_tokens": 623,
+      "error": null
+    },
+    {
+      "grammar": "G1_structure",
+      "input": "pernegg_steiermark_col2_sec05",
+      "latency_s": 4.36,
+      "finish_reason": "stop",
+      "completion_tokens": 367,
+      "prompt_tokens": 1999,
+      "error": null
+    },
+    {
+      "grammar": "G2_pernegg_lexicon",
+      "input": "negctrl_pernhofen_col2_sec07",
+      "latency_s": 24.26,
+      "finish_reason": "length",
+      "completion_tokens": 2048,
+      "prompt_tokens": 752,
+      "error": null
+    },
+    {
+      "grammar": "G2_pernegg_lexicon",
+      "input": "pernegg_niederdonau_col2_sec04",
+      "latency_s": 0.97,
+      "finish_reason": "stop",
+      "completion_tokens": 78,
+      "prompt_tokens": 623,
+      "error": null
+    },
+    {
+      "grammar": "G2_pernegg_lexicon",
+      "input": "pernegg_steiermark_col2_sec05",
+      "latency_s": 21.37,
+      "finish_reason": "stop",
+      "completion_tokens": 1779,
+      "prompt_tokens": 1999,
+      "error": null
+    },
+    {
+      "grammar": "G3_closed_oracle",
+      "input": "negctrl_pernhofen_col2_sec07",
+      "latency_s": 8.21,
+      "finish_reason": "stop",
+      "completion_tokens": 691,
+      "prompt_tokens": 752,
+      "error": null
+    },
+    {
+      "grammar": "G3_closed_oracle",
+      "input": "pernegg_niederdonau_col2_sec04",
+      "latency_s": 5.54,
+      "finish_reason": "stop",
+      "completion_tokens": 470,
+      "prompt_tokens": 623,
+      "error": null
+    },
+    {
+      "grammar": "G3_closed_oracle",
+      "input": "pernegg_steiermark_col2_sec05",
+      "latency_s": 4.54,
+      "finish_reason": "stop",
+      "completion_tokens": 374,
+      "prompt_tokens": 1999,
+      "error": null
+    }
+  ]
+}

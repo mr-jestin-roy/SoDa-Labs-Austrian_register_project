@@ -1,0 +1,28 @@
+# G3 CLOSED ORACLE (leaks the answer; upper bound / proof the mask is applied):
+# header = a Pernegg region string; every entry line must be exactly one of the reference entries
+# `Phone_Number raw_transcribed_text` from pernegg_rows.csv.
+root ::= header entry{1,20}
+header ::= region "\n"
+region ::= "Pernegg b. Hötzelndorf(Niederdonau)"
+    | "Pernegg (Steiermark)"
+    | "Pernegg (steiermark)"
+entry ::= ref "\n"
+ref ::= "1 NSDAP., Ortsgruppenleitung, 4"
+    | "3 RAD. f. d. wbl. Jgd., Lager 8/210"
+    | "4 Winkler, Dr. Franz, Tierarzt, 41"
+    | "1 Spiritus- und Likörfabrik und Raffinerie Brüder Wolffbauer Aktiengesellschaft"
+    | "14 Reichsstelle f. Getreide, Futterm. u. sonstige landw. Erz."
+    | "5 Pischely, Hch., Generalmajor, Kirchdorf 28"
+    | "2 Pammer, Franz, Dr. med., Praktischer Arzt, Kirchdorf bei Pernegg a. Mur, Nr. 15, Sprechzeit von 9—12"
+    | "13 Mayr-Melnhofsche Försterei, Traföß"
+    | "12 Lenz, Dr. Hanns Mart., R.-A., Kirchdorf 62"
+    | "7 Murhammer, Rud., Gasthaus"
+    | "8 Hermann, Anton, Autounternehmen"
+    | "3 Gendarmerieposten Kirchdorf b. Pernegg"
+    | "9 Dirnbacher, Jakob, Gasthof, Kirchdorf 35"
+    | "15 Bahnhof Pernegg"
+    | "6 Karl Hinke'sches Gut Stausee, Gutsleitung Leoben (Steiermark), Roseggerstraße 10"
+    | "4 Gemeindeamt Pernegg"
+    | "10 Vorschubkasse Raiffeisen f. d. Ortsgem. Pernegg u. Röthelstein, reg. Gen.muH, Kirchdorf"
+    | "1 Waldhofer, Rud., Direktor"
+    | "1 Brüder Wolfbauer AG, Likörfabrik"

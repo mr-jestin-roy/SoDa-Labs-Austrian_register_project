@@ -1,0 +1,12 @@
+# Core (all already present in the project venv)
+pandas
+openpyxl
+rapidfuzz
+networkx
+openai
+pillow
+editdistance
+
+# Optional — only for logit_constrained.py (local Qwen3-VL decoding)
+# torch
+# transformers>=4.57

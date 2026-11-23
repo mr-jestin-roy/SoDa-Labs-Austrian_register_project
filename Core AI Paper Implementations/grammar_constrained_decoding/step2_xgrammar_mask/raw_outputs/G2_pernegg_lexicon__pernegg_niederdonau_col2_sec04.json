@@ -1,0 +1,60 @@
+{
+  "grammar": "G2_pernegg_lexicon",
+  "input": "pernegg_niederdonau_col2_sec04",
+  "latency_s": 0.97,
+  "error": null,
+  "request_params": {
+    "model": "qwen3vl",
+    "temperature": 0,
+    "max_tokens": 2048,
+    "structured_outputs": {
+      "grammar": "# G2 Pernegg lexicon: header must be one of the Pernegg region strings (both regions, incl.\n# the lowercase variant as it occurs in the silver CSV); each entry text must START with one of\n# the Pernegg Surname/organisation strings from pernegg_rows.csv, then free text to end of line.\nroot ::= header entry{1,60}\nheader ::= region \"\\n\"\nregion ::= \"Pernegg b. Hötzelndorf(Niederdonau)\"\n    | \"Pernegg (Steiermark)\"\n    | \"Pernegg (steiermark)\"\nentry ::= ext \" \" name rest \"\\n\"\next ::= [0-9]{1,5}\nname ::= \"NSDAP.\"\n    | \"RAD. f. d. wbl. Jgd.\"\n    | \"Winkler\"\n    | \"Spiritus- und Likörfabrik und Raffinerie Brüder Wolffbauer Aktiengesellschaft\"\n    | \"Reichsstelle f. Getreide\"\n    | \"Pischely\"\n    | \"Pammer\"\n    | \"Mayr-Melnhofsche Försterei\"\n    | \"Lenz\"\n    | \"Murhammer\"\n    | \"Hermann\"\n    | \"Gendarmerieposten Kirchdorf b. Pernegg\"\n    | \"Dirnbacher\"\n    | \"Bahnhof Pernegg\"\n    | \"Karl Hinke'sches Gut Stausee\"\n    | \"Gemeindeamt Pernegg\"\n    | \"Vorschubkasse Raiffeisen f. d. Ortsgem. Pernegg u. Röthelstein\"\n    | \"Waldhofer\"\n    | \"Brüder Wolfbauer AG\"\nrest ::= [^\\n]*\n"
+    },
+    "prompt": "This image is one cell of the 1942 German Reichstelefonbuch (telephone directory). Transcribe it exactly as printed. First output the town/region header line. Then output one line per directory entry in the form `extension text`, where extension is the telephone number printed at the left of the entry and text is the rest of the entry. If an entry wraps over several printed lines, join it into one line. Output only the transcription, no commentary."
+  },
+  "response": {
+    "id": "chatcmpl-af5993a521725a84",
+    "object": "chat.completion",
+    "created": 1794537078,
+    "model": "qwen3vl",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Pernegg b. Hötzelndorf(Niederdonau)\n2 Gemeindeamt Pernegg\n51 NSDAP., Ortsgruppenleitung, 4\n3 RAD. f. d. wbl. Jgd., Lager 8/210\n4 Winkler, Dr. Franz, Tierarzt, 41\n",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null,
+        "weight_versions": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.33.0-56d86613",
+    "usage": {
+      "prompt_tokens": 623,
+      "total_tokens": 701,
+      "completion_tokens": 78,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "text": "Pernegg b. Hötzelndorf(Niederdonau)\n2 Gemeindeamt Pernegg\n51 NSDAP., Ortsgruppenleitung, 4\n3 RAD. f. d. wbl. Jgd., Lager 8/210\n4 Winkler, Dr. Franz, Tierarzt, 41\n",
+  "finish_reason": "stop",
+  "completion_tokens": 78,
+  "prompt_tokens": 623
+}

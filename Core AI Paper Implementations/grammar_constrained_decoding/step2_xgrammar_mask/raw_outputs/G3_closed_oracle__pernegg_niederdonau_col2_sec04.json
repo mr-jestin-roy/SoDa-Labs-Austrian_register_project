@@ -1,0 +1,60 @@
+{
+  "grammar": "G3_closed_oracle",
+  "input": "pernegg_niederdonau_col2_sec04",
+  "latency_s": 5.54,
+  "error": null,
+  "request_params": {
+    "model": "qwen3vl",
+    "temperature": 0,
+    "max_tokens": 2048,
+    "structured_outputs": {
+      "grammar": "# G3 CLOSED ORACLE (leaks the answer; upper bound / proof the mask is applied):\n# header = a Pernegg region string; every entry line must be exactly one of the reference entries\n# `Phone_Number raw_transcribed_text` from pernegg_rows.csv.\nroot ::= header entry{1,20}\nheader ::= region \"\\n\"\nregion ::= \"Pernegg b. Hötzelndorf(Niederdonau)\"\n    | \"Pernegg (Steiermark)\"\n    | \"Pernegg (steiermark)\"\nentry ::= ref \"\\n\"\nref ::= \"1 NSDAP., Ortsgruppenleitung, 4\"\n    | \"3 RAD. f. d. wbl. Jgd., Lager 8/210\"\n    | \"4 Winkler, Dr. Franz, Tierarzt, 41\"\n    | \"1 Spiritus- und Likörfabrik und Raffinerie Brüder Wolffbauer Aktiengesellschaft\"\n    | \"14 Reichsstelle f. Getreide, Futterm. u. sonstige landw. Erz.\"\n    | \"5 Pischely, Hch., Generalmajor, Kirchdorf 28\"\n    | \"2 Pammer, Franz, Dr. med., Praktischer Arzt, Kirchdorf bei Pernegg a. Mur, Nr. 15, Sprechzeit von 9—12\"\n    | \"13 Mayr-Melnhofsche Försterei, Traföß\"\n    | \"12 Lenz, Dr. Hanns Mart., R.-A., Kirchdorf 62\"\n    | \"7 Murhammer, Rud., Gasthaus\"\n    | \"8 Hermann, Anton, Autounternehmen\"\n    | \"3 Gendarmerieposten Kirchdorf b. Pernegg\"\n    | \"9 Dirnbacher, Jakob, Gasthof, Kirchdorf 35\"\n    | \"15 Bahnhof Pernegg\"\n    | \"6 Karl Hinke'sches Gut Stausee, Gutsleitung Leoben (Steiermark), Roseggerstraße 10\"\n    | \"4 Gemeindeamt Pernegg\"\n    | \"10 Vorschubkasse Raiffeisen f. d. Ortsgem. Pernegg u. Röthelstein, reg. Gen.muH, Kirchdorf\"\n    | \"1 Waldhofer, Rud., Direktor\"\n    | \"1 Brüder Wolfbauer AG, Likörfabrik\"\n"
+    },
+    "prompt": "This image is one cell of the 1942 German Reichstelefonbuch (telephone directory). Transcribe it exactly as printed. First output the town/region header line. Then output one line per directory entry in the form `extension text`, where extension is the telephone number printed at the left of the entry and text is the rest of the entry. If an entry wraps over several printed lines, join it into one line. Output only the transcription, no commentary."
+  },
+  "response": {
+    "id": "chatcmpl-89e0ff7d60e31a9b",
+    "object": "chat.completion",
+    "created": 1794537108,
+    "model": "qwen3vl",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "Pernegg b. Hötzelndorf(Niederdonau)\n2 Pammer, Franz, Dr. med., Praktischer Arzt, Kirchdorf bei Pernegg a. Mur, Nr. 15, Sprechzeit von 9—12\n3 RAD. f. d. wbl. Jgd., Lager 8/210\n4 Winkler, Dr. Franz, Tierarzt, 41\n5 Pischely, Hch., Generalmajor, Kirchdorf 28\n6 Karl Hinke'sches Gut Stausee, Gutsleitung Leoben (Steiermark), Roseggerstraße 10\n7 Murhammer, Rud., Gasthaus\n8 Hermann, Anton, Autounternehmen\n9 Dirnbacher, Jakob, Gasthof, Kirchdorf 35\n10 Vorschubkasse Raiffeisen f. d. Ortsgem. Pernegg u. Röthelstein, reg. Gen.muH, Kirchdorf\n12 Lenz, Dr. Hanns Mart., R.-A., Kirchdorf 62\n13 Mayr-Melnhofsche Försterei, Traföß\n14 Reichsstelle f. Getreide, Futterm. u. sonstige landw. Erz.\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null,
+        "weight_versions": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.33.0-56d86613",
+    "usage": {
+      "prompt_tokens": 623,
+      "total_tokens": 1093,
+      "completion_tokens": 470,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "text": "Pernegg b. Hötzelndorf(Niederdonau)\n2 Pammer, Franz, Dr. med., Praktischer Arzt, Kirchdorf bei Pernegg a. Mur, Nr. 15, Sprechzeit von 9—12\n3 RAD. f. d. wbl. Jgd., Lager 8/210\n4 Winkler, Dr. Franz, Tierarzt, 41\n5 Pischely, Hch., Generalmajor, Kirchdorf 28\n6 Karl Hinke'sches Gut Stausee, Gutsleitung Leoben (Steiermark), Roseggerstraße 10\n7 Murhammer, Rud., Gasthaus\n8 Hermann, Anton, Autounternehmen\n9 Dirnbacher, Jakob, Gasthof, Kirchdorf 35\n10 Vorschubkasse Raiffeisen f. d. Ortsgem. Pernegg u. Röthelstein, reg. Gen.muH, Kirchdorf\n12 Lenz, Dr. Hanns Mart., R.-A., Kirchdorf 62\n13 Mayr-Melnhofsche Försterei, Traföß\n14 Reichsstelle f. Getreide, Futterm. u. sonstige landw. Erz.\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n15 Bahnhof Pernegg\n",
+  "finish_reason": "stop",
+  "completion_tokens": 470,
+  "prompt_tokens": 623
+}

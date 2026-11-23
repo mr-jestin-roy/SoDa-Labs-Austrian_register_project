@@ -1,0 +1,76 @@
+{
+ "rows_total": 1883448,
+ "rows_per_volume": {
+  "1": 138192,
+  "2": 350119,
+  "3": 506329,
+  "4": 493160,
+  "5": 395648
+ },
+ "rows_with_region": 1883448,
+ "rows_with_text": 1845077,
+ "rows_with_surname": 1077448,
+ "rows_gau_resolved": 22389,
+ "rows_institution_filtered": 19992,
+ "regions": 18966,
+ "regions_with_surnames": 12181,
+ "region_surname_pairs": 784365,
+ "gaue": [
+  "Kärnten",
+  "Niederdonau",
+  "Oberdonau",
+  "Salzburg",
+  "Steiermark",
+  "Tirol-Vorarlberg",
+  "Wien"
+ ],
+ "distinct_surnames": 179018,
+ "distinct_surnames_freq_ge": {
+  "2": 82766,
+  "3": 55872,
+  "5": 33657,
+  "10": 16262,
+  "50": 2652
+ },
+ "surname_token_coverage_freq_ge": {
+  "2": 0.9107,
+  "3": 0.8607,
+  "5": 0.791,
+  "10": 0.6866,
+  "50": 0.4443
+ },
+ "distinct_entry_starts": 542599,
+ "distinct_entry_starts_freq_ge2": 107735,
+ "v1": {
+  "regions": 12299,
+  "region_surname_pairs": 800550,
+  "distinct_surnames": 181227,
+  "v2_surnames_not_in_v1": 0,
+  "v1_surnames_not_in_v2": 2209
+ },
+ "pernegg_regions": {
+  "Pernegg b. Hötzelndorf(Niederdonau)": {
+   "rows": 4,
+   "surnames": {
+    "Winkler": 1
+   }
+  },
+  "Pernegg (Steiermark)": {
+   "rows": 13,
+   "surnames": {
+    "Pischely": 1,
+    "Pammer": 1,
+    "Lenz": 1,
+    "Murhammer": 1,
+    "Hermann": 1,
+    "Waldhofer": 1
+   }
+  },
+  "Pernegg (steiermark)": {
+   "rows": 3,
+   "surnames": {
+    "Dirnbacher": 1
+   }
+  }
+ }
+}

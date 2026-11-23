@@ -1,0 +1,13 @@
+grammar,input,cer_silver,cer_cropread,names_recovered,ext_correct,header_ok_silver,header_is_pernegg,foreign_lex,longest_run,n_out_lines,n_cropread_entries,finish_reason,completion_tokens,latency_s,grammar_valid,error
+G0_none,negctrl_pernhofen_col2_sec07,,0.0,,,,False,0,1,8,7,stop,121,1.69,,
+G0_none,pernegg_niederdonau_col2_sec04,0.3261,0.0333,3/3,3/3,False,,0,1,7,4,stop,87,1.1,,
+G0_none,pernegg_steiermark_col2_sec05,0.0929,0.0125,14/16,14/16,True,,0,1,25,17,stop,357,4.53,,
+G1_structure,negctrl_pernhofen_col2_sec07,,0.0,,,,False,0,1,8,7,stop,122,1.47,True,
+G1_structure,pernegg_niederdonau_col2_sec04,0.1449,0.1889,3/3,3/3,False,,0,1,5,4,stop,72,0.86,True,
+G1_structure,pernegg_steiermark_col2_sec05,0.1064,0.0227,14/16,14/16,True,,0,1,25,17,stop,367,4.36,True,
+G2_pernegg_lexicon,negctrl_pernhofen_col2_sec07,,17.9733,,,,True,56,50,58,7,length,2048,24.26,False,
+G2_pernegg_lexicon,pernegg_niederdonau_col2_sec04,0.1667,0.1167,3/3,2/3,True,,0,1,5,4,stop,78,0.97,True,
+G2_pernegg_lexicon,pernegg_steiermark_col2_sec05,4.5232,4.1453,13/16,12/16,True,,0,46,61,17,stop,1779,21.37,True,
+G3_closed_oracle,negctrl_pernhofen_col2_sec07,,4.8969,,,,True,20,14,21,7,stop,691,8.21,True,
+G3_closed_oracle,pernegg_niederdonau_col2_sec04,5.1304,3.8889,2/3,2/3,True,,18,8,21,4,stop,470,5.54,True,
+G3_closed_oracle,pernegg_steiermark_col2_sec05,0.1235,0.1487,16/16,16/16,True,,0,4,21,17,stop,374,4.54,True,
